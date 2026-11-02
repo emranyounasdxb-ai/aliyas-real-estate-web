@@ -1,0 +1,67 @@
+{
+  "id":"emaar-project-97","name":"Avena 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Avena 2 is a separate four-bedroom villa release within The Valley’s second phase. Emaar presents three façade styles, landscaped shared spaces and a connection to the central park. Its semi-detached layouts combine everyday living and guest accommodation downstairs with bedrooms above and a roof lounge on the second floor.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4","price":4370000,"handover":"Q3 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Landscaped communal lawns","Swimming pool and deck","Outdoor cinema","Outdoor seating areas","Children’s playground","Fitness centre","Indoor multipurpose room","Controlled access","Wider-community nature walks","Wider-community adventure play"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/388793_brochure_File_d043e66dd6_prod.pdf",
+    "floorPlanUrl":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-2-Floor-Plans.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Avena 2 at The Valley","url":"https://www.emaar.com/en/properties/avena-2-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: shared Avena community brochure","url":"https://www.emaar.com/cms-media/uploads/388793_brochure_File_d043e66dd6_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans","label":"Emaar Avena 2 plans, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-2-Floor-Plans.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Avena 2 fact sheet, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-2-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"payment","label":"Emaar Avena 2 payment schedule, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-2-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"finder","label":"Property Finder: Avena Phase 2 by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/avena-2","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+      ],
+      "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official"],"type":["plans"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans","facts","payment"],"paymentPlan":["payment","facts"],"handover":["payment","finder","facts"]},
+      "reviewCoverage":{
+        "identity":"Avena 2 checked as its own release, with separate plans and commercial documents.",
+        "location":"The Valley phase two and central-park setting confirmed by Emaar.",
+        "residences":"Four-bedroom semi-detached homes; Gardenia, Orchid and Lavender variants checked.",
+        "areas":"Six plan tables visually reviewed; published totals and land areas distinguished.",
+        "amenities":"Local communal facilities and master-community recreation reviewed.",
+        "pricing":"AED 4.37m advertised reference checked against the developer page and launch fact sheet.",
+        "payment":"Dedicated payment sheet totals 100%; conflicting dates in other launch sheets recorded.",
+        "handover":"July 2028 dedicated-sheet estimate corroborated by Property Finder; June date in fact sheet disclosed.",
+        "documents":"Official linked brochure and broker-hosted Emaar plans, payment schedule and fact sheet checked."
+      },
+      "community":"The Valley · phase two",
+      "overview":["The wider landscape proposal brings forest and meadow walks, a dunescape, sensory play and river crossings together with community recreation. The shared brochure describes this larger setting rather than a list of facilities inside every villa plot. Buyers should check the route to amenities and their delivery programme for the chosen home."],
+      "locationNote":"The Valley is on the Dubai–Al Ain Road corridor. Avena 2’s setting combines residential streets with access to green space. Check actual driving times and the selected home’s access route when assessing daily convenience.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"The official Avena 2 page and its fact sheet indicate AED 4.37m. This is a marketing starting figure; an available home’s quotation may differ by plot, layout and transaction date.",
+      "paymentNote":"The dedicated Avena 2 sheet sets out 10% on booking, seven 10% instalments and 20% on completion. Some dates differ from the fact sheet and one-page overview. The schedule below follows the dedicated document and requires contract-specific confirmation.",
+      "handoverNote":"The dedicated payment sheet and Property Finder indicate July 2028. The fact sheet instead shows June 2028. July is presented as a provisional estimate, not a resolved contractual promise.",
+      "units":[
+        {"label":"4 bedrooms · Gardenia A / B","area":"Published total 3,709.46 sq ft; suite 2,852.97 sq ft","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Orchid A / B","area":"Published total 3,708.49 sq ft; suite 2,861.26 sq ft","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Lavender A / B","area":"Published total 3,714.08 sq ft; suite 2,857.28 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"On booking · launch terms","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch scale","value":"The Emaar-branded fact sheet lists 332 homes. This project total does not establish current availability.","sourceIds":["facts"]},
+        {"label":"Land and building sizes","value":"Launch plots span 2,951–5,247 sq ft. The fact sheet’s 3,708 sq ft built-up reference is rounded; named plans give separate totals.","sourceIds":["facts"]},
+        {"label":"Layout details","value":"Plans show two-car parking, a guest bedroom, three upstairs bedrooms, storage and a linen room. A roof lounge and terrace occupy the second floor.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The printed suite, garage and balcony components do not reconcile with plan totals. Obtain the signed area schedule; published totals are retained without inventing an explanation.",
+        "Launch documents disagree on some instalment months and final completion. Confirm the applicable payment schedule directly with the developer.",
+        "Plans and commercial documents are Emaar-branded broker-hosted copies. Final finishes, pool inclusion, service charges, current stock and construction status remain subject to confirmation.",
+        "Wider-community amenities may follow a separate delivery programme. Existing site photographs remain illustrative."
+      ]
+    }
+  }
+}

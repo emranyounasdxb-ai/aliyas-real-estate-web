@@ -1,0 +1,64 @@
+{
+  "id":"emaar-project-108","name":"Montura 3","developerSlug":"emaar",
+  "fields":{
+    "description":"Montura 3 offers four- and five-bedroom villas within Grand Polo Club & Resort. Its launch collection contains 219 homes, with a smaller five-bedroom group alongside the four-bedroom villas. The official plans distribute living space across three levels, including upper-floor rooms and outdoor terraces.",
+    "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":7070000,"handover":"Q2 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Community clubhouse","Polo fields and stables","Fitness and sensory play areas","Soccer pitch","Tennis, padel and basketball courts","Flower farm and orchard","Meandering river landscape","Skatepark","Dog park","Jogging route","Pedestrian and cycling network","Forest walk","Art pavilion","Mini golf"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/MONTURA-3_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MONTURA-3_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Montura 3 at Grand Polo","url":"https://www.emaar.com/en/properties/montura-3-at-grand-polo","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"brochure","label":"Emaar: shared Montura collection brochure","url":"https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":0},
+        {"id":"plans","label":"Emaar: Montura 3 floor plans","url":"https://www.emaar.com/cms-media/uploads/MONTURA-3_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Montura 3 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura-3/MONTURA3_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Montura 3 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura-3/PAYMENT_PLAN_MONTURA3_GP.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"finder","label":"Property Finder: Montura 3 at Grand Polo","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/montura-3-at-grand-polo","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+      ],
+      "fieldSources":{"description":["official","plans","facts"],"overview":["official"],"location":["facts","finder"],"type":["official"],"bedrooms":["official"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Own Montura 3 page and launch documents confirmed; earlier Montura releases kept separate.",
+        "location":"Grand Polo Club & Resort confirmed, with Property Finder locating the release in Dubai Investment Park 2.",
+        "residences":"Four/five-bedroom villa mix confirmed by official page, four own layouts and phase-three fact sheet.",
+        "areas":"All four image-based official drawings visually checked for total/suite sizes, unit type and floor arrangements.",
+        "amenities":"Official amenities and own fact sheet reviewed; private pools shown in renders are not assumed to be contractual inclusions.",
+        "pricing":"AED 7.07m official headline matches four-bedroom launch reference; five-bedroom AED 9.72m explicitly attributed to launch sheet.",
+        "payment":"Own nine-stage payment sheet and fact table visually verified; total 100%, distinct from Montura 2's instalment pattern.",
+        "handover":"June 2029 estimate confirmed by own schedule and Property Finder.",
+        "documents":"Own floor plans linked. Shared brochure is byte-identical to the previously researched Montura file; no new descriptive extraction allocated to it."
+      },
+      "community":"Grand Polo Club & Resort · Montura 3",
+      "overview":["The official Montura 3 presentation centres on landscaped surroundings and the community's polo setting. A clubhouse is intended as a social hub, with outdoor recreation ranging from ball courts to garden paths and play spaces. The homes' contemporary forms sit within that wider masterplan; exact outlooks and distances to facilities depend on the selected plot."],
+      "locationNote":"Montura 3 is part of Grand Polo Club & Resort in Dubai Investment Park 2, as identified by Property Finder. The launch sheet references access to Al Maktoum International Airport and Downtown Dubai. Verify the chosen villa's approach road and actual travel route before relying on location comparisons.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar advertises AED 7.07m. The phase-three fact sheet lists four-bedroom villas from AED 7.07m and five-bedroom villas from AED 9.72m. These launch references do not establish a currently available villa or include a verified breakdown of purchase costs.",
+      "paymentNote":"The original plan comprises eight 10% stages, including booking, followed by 20% on estimated completion. Construction thresholds apply to later instalments. A purchase now requires confirmation of paid amounts, overdue balances and the remaining contractual schedule.",
+      "handoverNote":"June 2029 is the estimated completion month on Montura 3's own payment document and Property Finder. Confirm the current programme and the conditions for possession with the developer.",
+      "units":[
+        {"label":"4-bedroom villa · B Type 1","area":"3,838.20 sq ft total; 3,059.96 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · B Type 2","area":"3,842.82 sq ft total; 3,061.26 sq ft suite","sourceIds":["plans"]},
+        {"label":"5-bedroom villa · B Type 3","area":"5,115.23 sq ft total; 3,887.06 sq ft suite","sourceIds":["plans"]},
+        {"label":"5-bedroom villa · B Type 4","area":"5,157.74 sq ft total; 3,887.28 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Phase-three launch mix","value":"219 villas: 187 four-bedroom and 32 five-bedroom homes. The figures describe the reviewed launch release, not present inventory or a later registry total.","sourceIds":["facts"]},
+        {"label":"Average built-up and plot areas","value":"The launch sheet gives four-bedroom average BUA of 3,840 sq ft on 5,088 sq ft plots, and five-bedroom average BUA of 5,137 sq ft on 5,935 sq ft plots. Individual measurements differ.","sourceIds":["facts"]},
+        {"label":"Upper-floor uses","value":"The four-bedroom B Type 1 has a second-floor family room, pantry and terrace. The five-bedroom B Type 3 instead places a bedroom and study on that level, with a lift drawn through all floors. Check the selected home's lift specification and inclusions.","sourceIds":["plans"]},
+        {"label":"Area comparison","value":"Total plan areas include suite, carport and balcony components. A larger published total does not necessarily mean proportionately more indoor space; compare the suite figures and layout together.","sourceIds":["plans"]}
+      ],
+      "unresolved":["Confirm current stock, individual price, exact plot boundaries, service charges and remaining instalments.","A private pool is not confirmed as standard solely from a marketing rendering; obtain the signed specification.","Lift installation, parking entitlement, finishes and final approved area measurements require unit-specific confirmation.","Community amenity delivery and clubhouse/equestrian access terms remain subject to confirmation.","No independent current construction inspection or occupation approval is established here; imagery remains illustrative."]
+    }
+  }
+}

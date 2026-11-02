@@ -1,0 +1,260 @@
+{
+  "id": "omniyat-project-01",
+  "name": "The Alba Residences",
+  "developerSlug": "omniyat",
+  "fields": {
+    "description": "The Alba Residences is OMNIYAT’s unfurnished residential collection on Palm Jumeirah. Zaha Hadid Architects designed the architecture, with landscaping by Vladimir Djurovic and services by Dorchester Collection. Simplex and duplex homes sit alongside larger super penthouses, with private outdoor space and access to the wider beachfront destination.",
+    "areaId": "dubai-palm-jumeirah",
+    "location": "Palm Jumeirah",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–4 & 6",
+    "price": 44000000,
+    "handover": "Q3 2028 · developer target",
+    "paymentPlan": "60/40 · branded reference",
+    "amenities": [
+      "Landscaped gardens",
+      "Swimming and vitality pools",
+      "Private residential lobby",
+      "Beachfront destination access",
+      "Wellness centre and treatment rooms",
+      "Concierge and porter services"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/the-alba-dorchester-collection-dubai/THE_ALBA_BROCHURE.pdf",
+    "floorPlanUrl": "https://foundgroup.ae/media/plan/3d488dc9ea4b346f/the-alba-residences-by-omniyat-the-alba-residences-by-omniyat-floor-plan.jpg",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "OMNIYAT The Alba Residences specifications",
+          "url": "https://omniyat.com/residential/the-alba-residences-dorchester-collection-dubai",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "microsite",
+          "label": "OMNIYAT The Alba Residences destination guide",
+          "url": "https://thealbadestination.omniyat.com/residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "factsheet",
+          "label": "The Alba branded destination factsheet · broker mirror · 23 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-alba-dorchester-collection-dubai/THE_ALBA_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "The Alba branded destination brochure · broker mirror · 57 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-alba-dorchester-collection-dubai/THE_ALBA_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Alba Residences guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/omniyat-group/the-alba-residences-dorchester-collection",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "The Alba branded residence plans · broker mirror · four sheets",
+          "url": "https://foundgroup.ae/media/plan/3d488dc9ea4b346f/the-alba-residences-by-omniyat-the-alba-residences-by-omniyat-floor-plan.jpg",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "destination",
+          "label": "OMNIYAT The Alba destination · furnishing distinction",
+          "url": "https://thealbadestination.omniyat.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "microsite",
+          "destination"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "microsite"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "portal"
+        ],
+        "paymentPlan": [
+          "factsheet",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "factsheet",
+          "microsite",
+          "plans",
+          "destination"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact main own collection and destination microsite distinguished from sibling furnished/unfurnished collection. Reused VELA Sky Palace/Marina copy on own main pages excluded. Factsheet23p and broader brochure57p actual contents checked; neither is a current stock list. Parent destination page explicitly distinguishes unfurnished Residences from furnished Resort Residences; this claim is not inferred from selectable interior schemes.",
+        "location": "Own main page and microsite establish Palm Jumeirah, Dubai; existing exact broad area used. No guessed coordinates, plot entitlement or guaranteed travel times.",
+        "residences": "Own current specification 88 homes, 2/3/4-bedroom simplex,3/4 duplex,6-bedroom superpenthouses. Microsite emphasizes3/4 and three superpenthouses; actual factsheet10/11 lists20three+49four+3penthouse=72. Counts not merged or silently reconciled.",
+        "areas": "Actual branded four-sheet PDF retrieved via public Found link despite .jpg URL; checked PDF magic/content and visually read all four complete plans.5368/6744/5586/6912 totals.3BRduplex components3971+1614=5585 vsprinted5586 explicitly retained; whole duplex totals not doubled. Current own broader ranges and6BR PH separately attributed; no individual2BR/6BR plans retrieved.",
+        "amenities": "Own specific pools, landscaping, private residential access and services used; resort Sunset Lounge kept resort-only. Medical/health claims not repeated as proven benefits, service access/costs require agreement.",
+        "pricing": "Exact PF project44m launch reference reviewed; no current official price list or selected stock confirmed. Mixed-component broker18.225m reports not treated as equivalent unfurnished price.",
+        "payment": "Actual branded factsheet22 visually verifies5+20+10+5+10+10+40=100; public grouped25/35/40 retains all internal triggers. PF5/55/40 equivalent aggregate, not false conflict.",
+        "handover": "Own mainQ32028 versus PFQ12028/31March2028; own target retained clearly attributed and conflict public. No actual completionverified.",
+        "documents": "Own main no public brochure/planlinks; microsite403 left intact. Branded23pfacts/57pbrochure and actual4-sheetplans via public broker endpoints downloaded/read. Madena403/Inside403 and unrelated partial asset results not used as numeric evidence. Broker mirrors labeled."
+      },
+      "community": "Palm Jumeirah",
+      "overview": [
+        "The unfurnished collection offers different interior concepts, private outdoor space and access to residents’ facilities."
+      ],
+      "locationNote": "Palm Jumeirah, Dubai. Confirm the selected building, beach rights and service-access conditions in the agreement.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder quotes AED 44 million as a launch price. Confirm the selected residence and current terms; other Alba components have different pricing.",
+      "paymentNote": "The branded factsheet schedule totals 100%; Property Finder’s 5/55/40 describes the same overall split. Confirm the agreement.",
+      "handoverNote": "OMNIYAT specifies Q3 2028, while Property Finder states Q1 2028. No reconciled contractual date or actual delivery was verified.",
+      "units": [
+        {
+          "label": "Simplex · 2–4 bedrooms",
+          "area": "2,674–16,350 ft² · developer range",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Duplex · 3–4 bedrooms",
+          "area": "4,605–8,109 ft² · developer range",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Super penthouse · 6 bedrooms",
+          "area": "25,894–32,758 ft² · developer range",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "3BR simplex · sampled plan",
+          "area": "5,368 ft² total: 3,691 residence + 1,677 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR simplex · sampled plan",
+          "area": "6,744 ft² total: 4,724 residence + 2,020 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex · sampled plan",
+          "area": "5,586 ft² printed total: 3,971 residence + 1,614 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex · sampled plan",
+          "area": "6,912 ft² total: 5,403 residence + 1,509 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking 5% + SPA 20%",
+          "percent": 25,
+          "sourceIds": [
+            "factsheet"
+          ]
+        },
+        {
+          "stage": "Construction: enabling 10%, ground 5%, superstructure 10%, glazing 10%",
+          "percent": 35,
+          "sourceIds": [
+            "factsheet"
+          ]
+        },
+        {
+          "stage": "Project completion",
+          "percent": 40,
+          "sourceIds": [
+            "factsheet"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published residence counts",
+          "value": "The main page lists 88 homes; the factsheet’s mix totals 72. No confirmed reconciliation was found.",
+          "sourceIds": [
+            "developer",
+            "factsheet"
+          ]
+        },
+        {
+          "label": "Area arithmetic",
+          "value": "The sampled three-bedroom duplex prints 5,586 ft²; its components sum to 5,585 ft².",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Furnishing",
+          "value": "The destination guide describes this collection as unfurnished; the separate Resort Residences collection is furnished.",
+          "sourceIds": [
+            "destination"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current selected-unit stock, price, service charges and signed commercial terms remain unverified.",
+        "The documents describe planned services; access, inclusions and additional charges require confirmation.",
+        "Own88-home figure and branded72-home mix differ; no assumed revision chronology.",
+        "Individual two-bedroom and six-bedroom super-penthouse drawings were not retrieved; published ranges remain separately attributed."
+      ]
+    }
+  }
+}

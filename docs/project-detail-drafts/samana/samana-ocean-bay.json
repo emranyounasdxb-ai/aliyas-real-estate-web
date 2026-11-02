@@ -1,0 +1,286 @@
+{
+  "id": "samana-project-14",
+  "name": "SAMANA Ocean Bay",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Ocean Bay has two apartment towers on Dubai Islands, with one- to four-bedroom homes and private pools. Selected layouts add storage, laundry or maid’s rooms, separate from the bedroom count.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2887000,
+    "handover": "Q2 2028 · developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Zen garden and meditation deck",
+      "Hammock garden",
+      "Leisure water lounge",
+      "Sun deck",
+      "Outdoor cinema",
+      "Gym and wellness facilities",
+      "Walking and jogging track"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/05/6979a71a79557.pdf",
+    "floorPlanUrl": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/05/6979a71a79557.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Ocean Bay · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-ocean-bay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Ocean Bay official brochure and unit layouts · 136 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/05/6979a71a79557.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "payment",
+          "label": "Ocean Bay official payment options · 1 page",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/06/6979a7639126f.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "plans",
+          "label": "Ocean Bay official floor plates · 8 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/06/6979a771d9b0d.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Ocean Bay official factsheet · 2 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/06/6979a77d63e91.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Ocean Bay project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/oceans-bay-by-samana",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "community": "Dubai Islands",
+      "locationNote": "Central Island, within Dubai Islands.",
+      "overview": [
+        "Towers A and B have different layouts; confirm the unit plan."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The developer headline and structured offer show AED 2,887,000; the FAQ rounds this to AED 2.9m. Property Finder’s lower launch reference is not a current available-unit quote.",
+      "handoverNote": "Developer target: Q2 2028; Property Finder lists June 2028. Completion remains unverified.",
+      "paymentNote": "Official sheet and current website: 20% booking + 10% in months 12, 18 and 24 + 25 post-handover monthly payments of 2% = 100%. Property Finder instead lists 60/40. Confirm the applicable unit contract.",
+      "units": [
+        {
+          "label": "1BR + store + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + maid + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + store + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR + store/laundry + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR + maid + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR + store + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR + maid + store + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Month 12",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Month 18",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Month 24",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "25 post-handover payments × 2%",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current website minimum",
+          "value": "Apartments from 808 ft²; area basis and individual unit are not specified.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The factsheet body unexpectedly mentions “Ocean Pearl 3” under Ocean Bay branding. This wording is not evidence that the two projects are interchangeable.",
+        "Approved areas, inventory, service charges, parking and final specifications remain unverified."
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "locationNote": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ],
+        "paymentNote": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "unresolved": [
+          "facts",
+          "brochure",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected OceanBay14, twoactualtowersA/B; notOceanCrest/OceanPearl3. FactsheetownOceanBaybranding butbodyOceanPearl3copyerror explicitnotidentitymerge. Exactownfourproject-assets docs all200withoutforms.",
+        "location": "CurrentownFAQDubaiIslands; actualbrochure8 andfactsCentralIsland, exactregistrydubai-islands. No universalbeachaccess/view/trafficclaim.",
+        "residences": "OwnFAQ1–4BRprivatepools; actual136pbrochure102+unitdrawings floor-specificA/B. Visuallychecked12representatives28/31/33/58/88/93/111/116/125/128/131/133, allbedfamilies andstore/maid variants,bothA/B4bed. Maidsnotbedrooms, no unverifiedunitcount. No duplexfamilyinretrievedpublishedpack.",
+        "areas": "Actual12representativedrawings have localroomdimensions butnoindividualaggregatearea label. Do notsumrectangles/measureimage. OwnFAQfrom808sqftonly sourcebasisnotstated. Eightcompacttypologyrows explicitaggregateunavailable. All136page textscannednodetectedaggregatepanel, nofullnumericrangeclaimed.",
+        "amenities": "CurrentownFAQzen/meditation/hammock/leisurewater/sundeck/cinema/gym/jogging verified. Originalbrochurewellness/leisurecorroborates, no brandedappliance/parking/ROI guaranteesfromfacts.",
+        "pricing": "CurrentownvisibleheadlineandOffer2887000, FAQ2.9mrounded. PF2269866launchreference differenthistoricalbasis notcurrentdeveloperquote; no availableunitclaim.",
+        "payment": "Actualownonepagepayment20+10+10+10+50=100,50duringincludes20booking,notextra50. CurrentHTMLsame; PF60/40alternative unresolved soheadernull. 2%25monthsafterhandover, nothandoverballoon. No bookingstartdatesinvented.",
+        "handover": "OwnQ22028anticipated, PFJune2028 corroboratesquarter butdoesnotprovecompletion. No registryprogress/actualhandoverassumption.",
+        "documents": "Ownproject-assets fourexactpublichrefs retrieved:136pbrochurewithfullunitplans,1payment,8floorplates,2facts. Actual12family/towerrepresentatives+fullpayment+factsviewed<=1700px. Overlappingpackpool200=100broch80payment20facts, floorplates0corroboration. Currentownindependent200; no genericassetsindexcopy. No approved individualaggregateareas/currentpricelistretrieved."
+      }
+    }
+  }
+}

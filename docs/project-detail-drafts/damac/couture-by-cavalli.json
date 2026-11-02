@@ -1,0 +1,205 @@
+{
+  "id": "damac-project-14",
+  "name": "Couture by Cavalli",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "Couture by Cavalli is DAMAC’s canal-side residential development beside Safa Park. The collection combines three- to five-bedroom homes and six-bedroom penthouses with Cavalli interiors, terraces and shared leisure spaces.",
+    "areaId": null,
+    "location": "Al Safa 1, Dubai Water Canal",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "3–6",
+    "price": 22000000,
+    "handover": null,
+    "paymentPlan": "20/40/40 · portal reference",
+    "amenities": [
+      "Residents’ cinema",
+      "Gym and spa",
+      "Rooftop pool",
+      "Club rooms and cigar lounge",
+      "Podium lagoon areas",
+      "Private pools in applicable layouts"
+    ],
+    "brochureUrl": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-5f8983d7.pdf",
+    "floorPlanUrl": "https://d1ov4zfz2t2vta.cloudfront.net/storage/project_files/Cavalli%20Couture%20Presentation%20Deck%20-%20DAMAC%20Academy.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "DAMAC: Cavalli Couture project description",
+          "url": "https://www.damacproperties.com/fr-be/blog/new-damac-icons-adorn-business-bay-skyline/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "presentation",
+          "label": "DAMAC Academy Couture presentation, public marketing copy",
+          "url": "https://d1ov4zfz2t2vta.cloudfront.net/storage/project_files/Cavalli%20Couture%20Presentation%20Deck%20-%20DAMAC%20Academy.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Couture by Cavalli commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/cavalli-couture",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Couture brochure, Property Finder-hosted copy",
+          "url": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-5f8983d7.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "presentation"
+        ],
+        "location": [
+          "official",
+          "finder"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "presentation"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder",
+          "presentation"
+        ],
+        "handover": [
+          "finder",
+          "presentation"
+        ],
+        "units": [
+          "presentation"
+        ],
+        "documents": [
+          "brochure",
+          "presentation"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Developer description and own branded documents establish Couture/Cavalli Couture identity; existing name preserved.",
+        "location": "Safa Park beside Dubai Canal; PF Al Safa 1 not blindly mapped to Business Bay.",
+        "residences": "Developer 3–5-bedroom homes and 6-bedroom penthouses retained.",
+        "areas": "Presentation drawings visually read; hidden text disagreement on 5-bedroom drawing rejected in favour of visible table.",
+        "amenities": "Own presentation facilities reviewed without promotional longest/best claims.",
+        "pricing": "PF AED 22 m launch guide attributed; old inventory table is dated 2024 and not present availability.",
+        "payment": "PF20/40/40 reference used; presentation adds 104 and is not silently normalized.",
+        "handover": "PF ready May 2025 conflicts with presentation Q1 2028; status/date not resolved.",
+        "documents": "Own 53-page consumer brochure and 70-page branded presentation downloaded. Plans and payment page visually reviewed."
+      },
+      "community": "Couture by Cavalli · Dubai Water Canal",
+      "overview": [
+        "The branded presentation shows residences with large terraces and pools, alongside shared leisure spaces. Its examples include single-level apartments and larger multi-level homes. Pool provision, outdoor area and internal layout should be checked on the chosen unit’s drawing rather than inferred from a general render."
+      ],
+      "locationNote": "The development sits beside Safa Park and the Dubai Water Canal. Property Finder identifies Al Safa 1. An exact registered parcel and route should be confirmed; nearby views do not guarantee a particular apartment’s outlook.",
+      "priceLabel": "Portal-reported launch starting price",
+      "priceNote": "Property Finder gives AED 22 m as a launch reference. This is not a current inventory quotation. A separate dated presentation contains older unit-specific prices; those have not been presented as homes currently available.",
+      "paymentNote": "The displayed 20/40/40 stages are Property Finder’s reference structure. The branded presentation instead prints 24% deposit, ten 4% instalments and 40% completion, totalling 104%. It does not explain the excess; no fee assumption or silent correction has been made. Request the applicable signed schedule.",
+      "handoverNote": "Property Finder labels the project ready with May 2025 delivery; the reviewed presentation states an anticipated completion of Q1 2028. This conflict remains unresolved, so no headline completion date is selected.",
+      "units": [
+        {
+          "label": "3BR-B101 · inspected example",
+          "area": "5,549.38 sq ft printed total;3,176.78 unit +2,372.60 balcony",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "3BR-B201 · inspected example",
+          "area": "4,678.68 sq ft printed total; rounding/components require confirmation",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4BR-B901 · inspected example",
+          "area": "5,663.16 sq ft printed total;4,050.92 unit +1,612.23 balcony",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4BR-B902 · inspected example",
+          "area": "6,090.81 sq ft total;4,467.81 unit +1,623 balcony",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "5BR-A1302 · visible two-level drawing",
+          "area": "7,929.3 sq ft printed total; lower 4,454 / upper 3,474.6; rounding requires confirmation",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "6-bedroom penthouse",
+          "area": "Developer confirms type; selected unit area requires confirmation",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal reference",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal reference",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Source-document discrepancy",
+          "value": "The visible five-bedroom drawing and its hidden PDF text disagree on the unit label and area. Only the visible 5BR-A1302/7,929.3 sq ft example is used; obtain the latest approved unit drawing.",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm actual completion/status and the selected unit’s contractual handover; published references conflict.",
+        "The presentation payment table totals 104%; confirm whether any extra amount is a fee, an error or another contractual component.",
+        "Confirm registered internal/outdoor area and resolve minor printed component-total discrepancies and the five-bedroom PDF text mismatch.",
+        "Current available units, final furnishing/finishes, service charges, parking and pool-maintenance obligations need confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

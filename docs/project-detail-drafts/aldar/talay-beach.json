@@ -1,0 +1,193 @@
+{
+  "id": "aldar-project-03",
+  "name": "Talay Beach",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Talay Beach is the 184-home villa collection closer to the shoreline at Marsa Al Saadiyat. Four-, five- and six-bedroom homes have their own floor and plot specifications, distinct from the neighbouring Talay release.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 14000000,
+    "handover": "Q4 2030 · estimated",
+    "paymentPlan": "50/50 reported plan",
+    "amenities": [
+      "Community pool",
+      "Children's pool",
+      "Gym",
+      "Jogging and cycling routes",
+      "Picnic areas",
+      "Outdoor majlis",
+      "Landscaped spaces",
+      "Padel and multipurpose courts",
+      "Harvest garden"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_FACTSHEET.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Talay and Talay Beach",
+          "url": "https://www.aldar.com/properties/en/talay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "launch",
+          "label": "Aldar Marsa Al Saadiyat launch announcement, ADX",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5491867",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Talay fact sheet, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Aldar Talay Beach floor plans, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Talay Beach",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/talay-beach",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "official",
+          "facts"
+        ],
+        "price": [
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "facts",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "184-home Beach phase identified separately from Talay's 167 villas.",
+        "location": "Official page explicitly places Beach nearer the shore in Marsa Al Saadiyat.",
+        "residences": "Own Beach four/five/six-bedroom floor plans identified.",
+        "areas": "Phase-specific area panels on pages 6–8 visually read; no Talay sizes transferred.",
+        "amenities": "Shared and Beach-specific fact-sheet amenities reviewed; access conditions remain unconfirmed.",
+        "pricing": "Official landing page omits price; Property Finder AED 14m attributed rather than using shared 13.5m Talay headline.",
+        "payment": "Property Finder's 50/50 checked; no phase-specific dated stage sheet found.",
+        "handover": "Q4 2030 on phase-labelled fact sheet matches portal December2030 estimate.",
+        "documents": "Shared fact sheet and phase-labelled plans available; sources split budget with Talay record."
+      },
+      "community": "Talay Beach · Marsa Al Saadiyat",
+      "overview": [
+        "Marsa Al Saadiyat is planned around a waterfront setting with beaches, a marina, cultural destinations and interconnected walking routes. Talay Beach belongs to this larger destination. Planned district facilities should be assessed separately from the amenities delivered with an individual villa."
+      ],
+      "locationNote": "Aldar positions Talay Beach closer to the beach than Talay. Proximity alone does not establish that every villa is beachfront or includes private beach rights.",
+      "priceLabel": "Portal-reported launch starting price",
+      "priceNote": "Property Finder lists AED 14m for Talay Beach. The shared fact sheet's AED 13.5m headline is not a verified Beach-specific quote. Obtain a current price list and available plot details.",
+      "paymentNote": "Property Finder reports 50% during construction and 50% at handover. No confirmed Beach-specific booking instalment or dated schedule was found; Talay's dates have not been reused.",
+      "handoverNote": "The phase-labelled fact sheet estimates handovers commencing Q4 2030 for Talay Beach; Property Finder states December 2030. Both are estimates requiring confirmation for the selected villa.",
+      "units": [
+        {
+          "label": "4-bedroom Talay Beach villa",
+          "area": "506 sq m GSA; 736 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Talay Beach villa",
+          "area": "587 sq m GSA; 857 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6-bedroom Talay Beach villa",
+          "area": "634 sq m GSA; 860 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "During construction · portal-reported aggregate",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Collection size",
+          "value": "184 standalone villas. The total describes the collection, not present availability.",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "Comparing spaces",
+          "value": "The drawings label floor space as gross saleable area and give average plots separately. Individual legal plot sizes and final approved plans need checking.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Developer confirmation of price, current release status and payment dates remains required.",
+        "Beach access rights, plot allocation, service charges and final specifications were not established for an individual purchase.",
+        "Completion and district facility opening dates can change; site images remain illustrative."
+      ]
+    }
+  }
+}

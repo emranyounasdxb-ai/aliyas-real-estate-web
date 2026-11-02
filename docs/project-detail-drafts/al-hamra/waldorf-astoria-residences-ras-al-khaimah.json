@@ -1,0 +1,304 @@
+{
+  "id": "al-hamra-project-04",
+  "name": "Waldorf Astoria Residences Ras Al Khaimah",
+  "developerSlug": "al-hamra",
+  "fields": {
+    "description": "Waldorf Astoria Residences Ras Al Khaimah is Al Hamra’s beachfront collection of apartments and penthouses. The plans range from single-level homes to duplexes and a triplex Sky Palace, with resident services and access to resort facilities.",
+    "areaId": "rak-al-hamra-village",
+    "location": "Al Hamra Village",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "2–5",
+    "price": null,
+    "handover": "H1 2028 · forecast",
+    "paymentPlan": null,
+    "amenities": [
+      "Resident lounge",
+      "Spa and fitness lounge",
+      "Library",
+      "Cinema lounge",
+      "Starlight Terrace",
+      "Concierge",
+      "Pet grooming spa"
+    ],
+    "brochureUrl": "https://jiwak.com/files/properties/b7488215ccfc1986f61deaea0d880e4f4ac08556.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/waldorf-astoria-residences/floor-plans/e8622ce93851f642.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Waldorf Astoria Residences · appointed project site",
+          "url": "https://waldorfastoriaresidencesrak.com/en",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "residences",
+          "label": "Waldorf Astoria Residences · layouts and services",
+          "url": "https://waldorfastoriaresidencesrak.com/en/residences",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "release",
+          "label": "Al Hamra · July 2026 fit-out appointment and delivery forecast",
+          "url": "https://alhamra.ae/media-center/al-hamra-appoints-ahk-worldwide-for-waldorf-astoria-residences-ras-al-khaimah/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "brochure",
+          "label": "Waldorf Astoria · original brochure, broker-hosted mirror",
+          "url": "https://jiwak.com/files/properties/b7488215ccfc1986f61deaea0d880e4f4ac08556.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "Waldorf Astoria · original floor plans, broker-hosted mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/waldorf-astoria-residences/floor-plans/e8622ce93851f642.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 135
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · commercial references and conflicting payment sections",
+          "url": "https://www.propertyfinder.ae/en/new-projects/al-hamra-real-estate-management-services/waldorf-astoria-residences",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "christies",
+          "label": "Christie’s Singapore · older project reference",
+          "url": "https://www.ciresg.com/property/waldorf-astoria-residences",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        }
+      ],
+      "community": "Al Hamra Village",
+      "locationNote": "Beachfront address in Al Hamra Village. Resort access, services and charges depend on the residence agreement.",
+      "overview": [
+        "Al Hamra’s July 2026 fit-out announcement describes 37 residences plus one Sky Palace. Published totals vary; this is a dated project scope, not available inventory."
+      ],
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder’s AED 8.4 million is a launch reference. Printed plan prices are historical; no current developer quotation was verified.",
+      "paymentNote": "Portal table reference only: 20/20/10/50. Its FAQ instead gives 20/25/55. Obtain the applicable developer schedule, fees and post-handover dates before relying on either.",
+      "handoverNote": "Al Hamra’s July 2026 announcement targets the first half of 2028. Property Finder still shows Q1 2027; the newer primary forecast takes precedence and is not a completion guarantee.",
+      "units": [
+        {
+          "label": "2BR · three plan types",
+          "area": "1,889.3–3,613.5 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · six plan types",
+          "area": "3,011.7–4,324.0 ft² · see discrepancy below",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex · levels 19/20",
+          "area": "3,400.2 ft² repeated per level; whole-home total unconfirmed",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR duplex · levels 17/18",
+          "area": "Level 17: 5,939.5 ft²; level 18: 3,228 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Sky Palace · levels 21–23",
+          "area": "3,260.3 ft² repeated per level; whole-home total unconfirmed",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · booking",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Post-handover",
+          "percent": 50,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area caution",
+          "value": "Type 2.1 pairs 308.3 m² with 3,011.7 ft², an inconsistent conversion. Repeated duplex/triplex figures do not establish whole-home areas.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Home specification",
+          "value": "Brochure describes integrated appliances, smart-home controls and private lift access; confirm the contracted specification.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brand relationship",
+          "value": "Al Hamra develops the residences under a Waldorf Astoria trademark licence; Hilton is not their developer or seller.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Delivery update",
+          "value": "AHK Worldwide was appointed interior fit-out contractor in July 2026.",
+          "sourceIds": [
+            "release"
+          ]
+        },
+        {
+          "label": "Tenure conflict",
+          "value": "Property Finder labels leasehold; the older Christie’s reference says freehold. Obtain title confirmation.",
+          "sourceIds": [
+            "portal",
+            "christies"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm whole-home areas, service charges, furnishing, current availability and contractual benefits.",
+        "Current primary payment calendar was not publicly verified; document buttons require an enquiry."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected al-hamra-project-04/name/slug/owner retained. Own Al Hamra navigation explicitly appoints waldorfastoriaresidencesrak.com. Actual main GET200 385647bytes. Own July2026 issuer37+1=38; fresh web main33+1=34 vs captured37+1=38; no live count adopted. Older Christie43 and otherbrokers12 not substituted.",
+        "location": "Primary issuer shores of Al Hamra, appointedmain AlHamraVillage and establishedPF location agree; existing rak-al-hamra-village. No Dubai DLD template/GPS or unverified travel times.",
+        "residences": "Actual all17 original plan pages reviewed, p1 amenity nothome; p2–10 nine singlelevel variants; p11–12 4BRduplex19/20; p13–15 SkyPalace21/22/23; p16–17 5BRduplex17/18. Wholefamilies read including kitchens/staff/service rooms, no extra bedrooms inferred. Ownresidences2–5BR currentrange1890–10000 rounded not combined with historic individualplan exactareas.",
+        "areas": "Actual numeric p2 3BR2.4 3317.1; p3 2BR2 2336.1; p4 3BR2.3 3318.3; p5 2BR3 3613.5; p6 2BR1 1889.3; p7 3BR2.2 3317.1; p8 3BR1 4324.0; p9 3BR2.1 3011.7 despite308.3sqm inconsistent; p10 3BR3 4135.6. p11/12 repeat316sqm3400.2 each, p13/14/15 repeat303sqm3260.3 each; do not assume whole or sum. p16 552sqm5939.5 and p17 300sqm3228 differ by level, no invented combinedcontract area. Full layouts and all figures visually verified at1800px. Amenityp1 679sqm7306 not residentialrow. No metric repairs.",
+        "amenities": "Actual41pbrochure p15specification/p19residentvsresort facilities and current appointedpage read. Conciseplannedfeatures, servicescharges benefitsneedcontract, no assumptionHiltonmembership guaranteed or everyhome privatepool. Original brochurep40licence disclaimer actuallyread.",
+        "pricing": "No current primarypricedquote verified. PF8.4mlaunch and originalplan historicalunitaskingprices qualified. HeadpriceNULL; soldSkyPalace/penthouse press values notcurrent offers. No stock or returninvented.",
+        "payment": "PrimaryPDFbuttons leadform; noformsubmitted. Old own facts URLs redirect toHTML notPDF, fivepublicChristie PDFlinksactual404includingpayment/pricing/facts. PFstructured20+20+10+50=100 vsFAQ20+25+55=100 conflictingsecondary. Attributedtableonly, headpaymentNULL, noassumedposthandover duration/dates/fees. Broker50/50 not chosen.",
+        "handover": "Actualown24July2026heading/body23July announcement explicitlyfirsthalf2028 withAHKfitoutappointment. Thisnewerprimaryforecast overridesPFJanuary/Q12027 and oldbrokerQ12027; no actualcompletioncertificate orcurrentprogress claimed.",
+        "documents": "OrdinaryGETbrokerJiwak41p30MBoriginalbrochure andMadena17p11MBplans200PDF. All17numeric/fullplanpagesactuallyviewed;41pcontextallfourcontactboards andfull15/19/40read. PFpublic31MBbrochure obtained forcomparison. LegacyownWABR_Brochure_EN.pdf/WABR_Factsheet_2025_EN.pdf actualHTMLredirect/en; not hiddenindexedPDFproof. CurrentformgatedPDFnotaccessed; allChristie5doclinks404. Allrelatedoriginalbrochure/planversions/mirrors share200publicwordpool, not perURL. Appointedmain/residences share200. Genericcorporate0. No forms, bypass ormedia additions."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "residences"
+        ],
+        "areaId": [
+          "developer",
+          "portal"
+        ],
+        "location": [
+          "developer",
+          "portal"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer",
+          "portal"
+        ],
+        "locationNote": [
+          "developer",
+          "residences"
+        ],
+        "overview": [
+          "release",
+          "developer"
+        ],
+        "type": [
+          "residences"
+        ],
+        "bedrooms": [
+          "residences"
+        ],
+        "amenities": [
+          "brochure",
+          "residences"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal",
+          "plans"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "paymentNote": [
+          "portal"
+        ],
+        "handover": [
+          "release"
+        ],
+        "handoverNote": [
+          "release",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "facts": [
+          "plans",
+          "brochure",
+          "release",
+          "portal",
+          "christies"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "residences"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

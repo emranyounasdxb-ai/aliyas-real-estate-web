@@ -1,0 +1,184 @@
+{
+  "id": "binghatti-project-04",
+  "name": "Tilal Binghatti",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Tilal Binghatti extends the developer’s portfolio into a master-planned low-rise community in Academic City. Townhouses, twin villas and standalone homes share a landscape of parks and swimmable water features.",
+    "areaId": "dubai-academic-city",
+    "location": "Academic City",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–7",
+    "price": 4200000,
+    "handover": null,
+    "paymentPlan": "10/50/40 · portal-reported split",
+    "amenities": [
+      "Man-made beach",
+      "Swimmable lakes",
+      "Landscaped parks",
+      "Jogging and cycling tracks",
+      "Sports courts",
+      "Wellness and fitness facilities",
+      "Retail boulevard",
+      "Clubhouse",
+      "Children’s play areas",
+      "Pet parks",
+      "Planned nursery",
+      "Planned clinics",
+      "Planned mosque"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/tilal-binghatti-assets/tilal-binghatti-villa-brochures.zip",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/tilal-binghatti-assets/tilal-binghatti-villa-brochures.zip",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti: Tilal own project page",
+          "url": "https://www.binghatti.com/en/projects/tilal-binghatti",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochures",
+          "label": "Official linked ZIP: Dunes and Oasis villa brochures, overlapping content pooled",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/tilal-binghatti-assets/tilal-binghatti-villa-brochures.zip",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "facts",
+          "label": "Official linked Tilal project facts image",
+          "url": "https://binghattiweb.imgix.net/tilal-binghatti-project-facts.webp",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Tilal overall project, commercial/date snapshot",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/tilal-by-binghatti",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Tilal Dunes release guide",
+          "url": "https://www.bayut.com/new-projects/dubai/tilal-binghatti/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochures"
+        ],
+        "overview": [
+          "brochures"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "bayut"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochures"
+        ],
+        "documents": [
+          "brochures",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Tilal master community; Dunes/Oasis brochures separated from the larger mansion offering.",
+        "location": "Own page Academic City; no speculative coordinates or assumed future metro operation.",
+        "residences": "Own FAQ 4–5-bedroom townhouses,6-bedroom twin/standalone homes and 7-bedroom standalone homes.",
+        "areas": "Both official 25-page Dunes/Oasis brochures downloaded from linkedZIP; both page 9 BUA tables and Dunes page 10 floor drawing visually read. Same table repeats in both.",
+        "amenities": "Own masterplan facilities treated as proposed community amenities; not all private-home inclusions.",
+        "pricing": "Own page headlineAED 4.2 m, not proof of current allocation; portal sold-out label conflicts with developer available flag.",
+        "payment": "No primary signed or dated payment calendar retrieved; attributed portal 10/50/40 aggregate only.",
+        "handover": "No primary date found. PFoverallDecember 2029 and BayutDunesQ1 2029 have different scope; headline unset rather than guess.",
+        "documents": "Two 25-page official villa brochures plus own facts image inspected. Overlapping villa document wording pooled 170; no generic catalogue fact use."
+      },
+      "community": "Tilal Binghatti",
+      "overview": [
+        "The four-bedroom townhouse example has three occupied levels. Its built-up area is not a plot-size measurement.",
+        "A lift, smart-home integration and separate staff accommodation appear in the illustrated villa package. Confirm the specification of the exact home before treating these features as included."
+      ],
+      "locationNote": "Academic City, Dubai. Binghatti maps connections to Emirates Road and Dubai–Al Ain Road. Any future Blue Line station remains planned infrastructure, rather than an existing transport service.",
+      "priceLabel": "Developer published starting guide · reconfirm",
+      "priceNote": "The own project page displays AED 4.2 m as its starting guide. Property Finder marks its developer selection sold out while Binghatti’s page retains an Available flag. Neither establishes an Aliyas allocation or a specific home available at that figure.",
+      "paymentNote": "Property Finder reports 10% at booking,50% during construction and 40% on handover. No dated primary payment sheet was retrieved from the current linked package; specific instalment dates and any revised offer remain unverified.",
+      "handoverNote": "The retrieved primary material does not establish a handover date. Property Finder’s overall project page now shows December 2029; Bayut’s separately named Tilal Dunes release shows Q1 2029. These forecasts are not interchangeable across releases. Confirm the contracted phase and date directly.",
+      "units": [
+        {
+          "label": "Dunes / Oasis · 4-bedroom townhouse mid unit",
+          "area": "2,773.00 sq ft BUA /257.62 sq m; ground 844.21+first 862.19+second 1,066.60 sq ft.",
+          "sourceIds": [
+            "brochures"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal report",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates unverified",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal report",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published masterplan scale",
+          "value": "The official facts image describes approximately 10 million sq ft and over 2,400 Phase 1 homes. These are community-scale marketing figures, not verified available inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "A dated primary payment calendar, confirmed release completion date, current availability and unit-specific commercial terms remain unavailable.",
+        "The current two villa brochures show an identical 4-bedroom mid-unit BUA table. They do not establish area ranges for 5–7-bedroom homes; no such ranges are inferred.",
+        "Private pool, plot dimensions, parking allocation, exact furnishing scope, service charges and amenity access must be checked against the selected-home agreement. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

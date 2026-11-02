@@ -1,0 +1,3363 @@
+{
+  "developerSlug": "wasl",
+  "projects": [
+    {
+      "id": "wasl-project-01",
+      "slug": "cedarwood-estates-south",
+      "developerSlug": "wasl",
+      "name": "Cedarwood Estates South",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "Cedarwood Estates South is Wasl’s additional 74-villa release within Jumeirah Golf Estates: The Next Chapter. Four-, five- and six-bedroom homes combine private pools and courtyards with ground, first and roof levels. This collection is separate from the original 121-villa Cedarwood Estates phase.",
+      "areaId": "dubai-jumeirah-golf-estates",
+      "location": "Jumeirah Golf Estates",
+      "emirate": "Dubai",
+      "type": "Villa",
+      "bedrooms": "4–6",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Private swimming pools",
+        "Landscaped courtyards",
+        "Villa elevators",
+        "Cycling and jogging tracks",
+        "Barbecue areas",
+        "EV charging provision"
+      ],
+      "brochureUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-brochure.pdf",
+      "floorPlanUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-plans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-01"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/project/cedarwood-estates",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Cedarwood Estates and South project page",
+            "url": "https://www.wasl.ae/en/project/cedarwood-estates",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Cedarwood Estates South · branded brochure",
+            "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-brochure.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "facts",
+            "label": "Cedarwood Estates South · branded factsheet",
+            "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-facts.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "plans",
+            "label": "Cedarwood Estates South · branded floor plans",
+            "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-plans.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Cedarwood Estates South · secondary reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/cedarwood-estates-south",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "soprano",
+            "label": "Soprano Cedarwood Estates South · secondary calendar",
+            "url": "https://www.sopranoproperties.com/new-developments/jumeirah-golf-estates/cedarwood-estates-south/cedarwood-estates-south-at-jumeirah-golf-estates-10297.html",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "developer",
+            "brochure"
+          ],
+          "overview": [
+            "developer",
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "price": [
+            "finder",
+            "soprano"
+          ],
+          "priceLabel": [
+            "finder",
+            "soprano"
+          ],
+          "priceNote": [
+            "finder",
+            "soprano"
+          ],
+          "paymentPlan": [
+            "finder",
+            "soprano"
+          ],
+          "paymentNote": [
+            "finder",
+            "soprano"
+          ],
+          "paymentStages": [
+            "finder",
+            "soprano"
+          ],
+          "handover": [
+            "finder",
+            "soprano"
+          ],
+          "handoverNote": [
+            "finder",
+            "soprano"
+          ],
+          "units": [
+            "brochure",
+            "facts",
+            "plans",
+            "finder"
+          ],
+          "facts": [
+            "brochure",
+            "facts",
+            "plans",
+            "finder"
+          ],
+          "unresolved": [
+            "brochure",
+            "facts",
+            "plans",
+            "finder"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected Wasl01 Cedarwood Estates South retained. Current combined official page explicitly separates74 South from121 original. Actual South37p brochure,3p factsheet and11p plans all visibly labelled South. No original phase sizes transferred.",
+          "location": "Primary own page places both phases between Mohammed Bin Zayed Road and Zayed Bin Hamdan Road on southern side of Jumeirah Golf Estates The Next Chapter. No coordinates or fixed journey times adopted. Root added exact source-supported registry dubai-jumeirah-golf-estates; mapped without coordinates.",
+          "residences": "Actual full South plans3/4,6/7,9/10 visually read: three families4/5/6, all ground/first/roof whole residences, lifts/private pools/courtyards drawn. Factsheet74=39four+13five+22six. Planned count not stock. Every-bedroom en-suite/fittedkitchen explicit own page; not invent room measurements.",
+          "areas": "Actual printed South saleable6085/7646/9212; plot6361–7406/9472–18091/10764–15105. Floors respectively2829.72+2788.39+467.48=6085.59;3538.74+3491.37+616.66=7646.77;4381.66+4229.42+602.78=9213.86. Printed whole totals retained not repaired, note discrepancy. Page repetitions not summed twice. PF incorrectly shows original6070/7918/9471, excluded.",
+          "amenities": "Actual South brochure17 privatepool/lift/courtyard/BBQ and23EV provision plus actual14cycle/jog. Facts2 VRF and buildingheightG+1+R14m. Planned community facilities not assumed operational, membership scope unknown. Threevehicle prose conflicts4bed actual2vehicle drawing; no guaranteed parking allocation.",
+          "pricing": "No current official price list retrieved. PF rounded13M, broker exact13.35M with dated/currentness unclear; headlineNULL rather than exact price inference. No availability counts, escrow, fee quotations or guaranteed return adopted.",
+          "payment": "No original Wasl signed/dated commercial PDF retrieved after officialpage/CDN search and brokerdocuments. PF10/40/50 corroborates Soprano10booking+four10dated+50handover=100. Table secondary reference only, headlineNULL. No unsupported obligation inferred.",
+          "handover": "Official primary/three PDFs no completion date. PFJanuary2029/Q12029 vs Soprano30March2029 schedule andQ22028 header conflict. HeadlineNULL, all secondary targets attributed, not actual completion. PFfuturebooking/constructionDates not evidence current works.",
+          "documents": "Actual PDFs downloaded200 Southbrochure24951750bytes37p, facts3230514bytes3p, plans9057756bytes11p. Actual full numeric plans and brochure14/17/23/35/facts2 visually read <=1800px. Brochure/facts/plans identical overlapping pool200 across all mirrors. Own combinedpage200 across01/02 reserved100each. No genericcommunitysource, forms or bypass; images deferred."
+        },
+        "community": "Jumeirah Golf Estates",
+        "overview": [
+          "A fitted kitchen, lift and separate service spaces are specified; the contractual finish schedule should define the final fit-out."
+        ],
+        "locationNote": "The southern side of Jumeirah Golf Estates: The Next Chapter, between Mohammed Bin Zayed Road and Zayed Bin Hamdan Road, Dubai.",
+        "priceLabel": "Current official price unverified",
+        "priceNote": "Property Finder shows a rounded AED 13m launch headline; Soprano quotes AED 13.35m. Neither is a confirmed available unit quotation.",
+        "paymentNote": "Secondary calendar only; no dated developer payment document was retrieved. Confirm the selected villa’s current contractual instalments.",
+        "handoverNote": "Property Finder gives January 2029. Soprano’s payment calendar ends on 30 March 2029, while its header says Q2 2028. No primary completion date was established.",
+        "units": [
+          {
+            "label": "4BR villa · saleable / plot",
+            "area": "6,085 / 6,361–7,406 ft²",
+            "sourceIds": [
+              "plans",
+              "facts"
+            ]
+          },
+          {
+            "label": "5BR villa · saleable / plot",
+            "area": "7,646 / 9,472–18,091 ft²",
+            "sourceIds": [
+              "plans",
+              "facts"
+            ]
+          },
+          {
+            "label": "6BR villa · saleable / plot",
+            "area": "9,212 / 10,764–15,105 ft²",
+            "sourceIds": [
+              "plans",
+              "facts"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Broker reference · booking",
+            "percent": 10,
+            "sourceIds": [
+              "soprano"
+            ]
+          },
+          {
+            "stage": "Broker reference · 30 December 2026",
+            "percent": 10,
+            "sourceIds": [
+              "soprano"
+            ]
+          },
+          {
+            "stage": "Broker reference · 30 June 2027",
+            "percent": 10,
+            "sourceIds": [
+              "soprano"
+            ]
+          },
+          {
+            "stage": "Broker reference · 30 December 2027",
+            "percent": 10,
+            "sourceIds": [
+              "soprano"
+            ]
+          },
+          {
+            "stage": "Broker reference · 30 July 2028",
+            "percent": 10,
+            "sourceIds": [
+              "soprano"
+            ]
+          },
+          {
+            "stage": "Broker reference · 30 March 2029 handover",
+            "percent": 50,
+            "sourceIds": [
+              "soprano"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Phase mix",
+            "value": "74 villas: 39 four-bedroom, 13 five-bedroom and 22 six-bedroom.",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "Building configuration",
+            "value": "G+1+R; 14m published height.",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "Cooling",
+            "value": "VRF ducted system.",
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Published saleable totals differ from the decimal floor sums; retain the printed figures until Wasl confirms the contractual area.",
+          "The brochure says basic automation; the factsheet says fully integrated. Three-car prose also differs from the two-car four-bedroom drawing. Confirm equipment and parking.",
+          "Property Finder repeats the original phase’s areas on its South page; the South-specific drawings above take precedence. Current stock, service charges and final contracts remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-02",
+      "slug": "cedarwood-estates",
+      "developerSlug": "wasl",
+      "name": "Cedarwood Estates",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Cedarwood Estates is the original 121-villa collection in Wasl’s Jumeirah Golf Estates: The Next Chapter. Its four-, five- and six-bedroom villas place family rooms around private courtyards, with a pool and lift in each home. The later 74-villa South release has its own area schedule and remains a separate collection.",
+      "areaId": "dubai-jumeirah-golf-estates",
+      "location": "Jumeirah Golf Estates",
+      "emirate": "Dubai",
+      "type": "Villa",
+      "bedrooms": "4–6",
+      "price": 12795000,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Private swimming pools",
+        "Villa elevators",
+        "Private courtyards",
+        "Barbecue areas",
+        "Cycling and jogging tracks",
+        "EV charging provision"
+      ],
+      "brochureUrl": "https://vision-ary.com/wp-content/uploads/2025/12/JGE_CEDARWOOD_ESTATES_BROCHURE_EN_0_removed.pdf",
+      "floorPlanUrl": "https://vision-ary.com/wp-content/uploads/2025/12/JGE_CEDARWOOD_ESTATES_BROCHURE_EN_0_removed.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-02"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/project/cedarwood-estates",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Cedarwood Estates and South project page",
+            "url": "https://www.wasl.ae/en/project/cedarwood-estates",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Cedarwood Estates · original 121-villa branded brochure",
+            "url": "https://vision-ary.com/wp-content/uploads/2025/12/JGE_CEDARWOOD_ESTATES_BROCHURE_EN_0_removed.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 200
+          },
+          {
+            "id": "springfield",
+            "label": "Springfield Cedarwood Estates · historical launch terms",
+            "url": "https://springfieldproperties.ae/projects/cedarwood-estates/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Cedarwood Estates · revised secondary reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/cedarwood-estates",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 70
+          },
+          {
+            "id": "launch-reference",
+            "label": "Benjamin Baker Cedarwood original launch account",
+            "url": "https://www.benjaminbakerjge.com/cedarwood-estates-jge-phase-2/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 65
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "facts": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "unresolved": [
+            "brochure"
+          ],
+          "price": [
+            "springfield",
+            "launch-reference"
+          ],
+          "priceLabel": [
+            "springfield",
+            "launch-reference"
+          ],
+          "priceNote": [
+            "springfield",
+            "launch-reference"
+          ],
+          "paymentPlan": [
+            "springfield",
+            "launch-reference"
+          ],
+          "paymentStages": [
+            "springfield",
+            "launch-reference"
+          ],
+          "paymentNote": [
+            "springfield",
+            "launch-reference"
+          ],
+          "handover": [
+            "springfield",
+            "finder"
+          ],
+          "handoverNote": [
+            "springfield",
+            "finder"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected02original Cedarwood Estates, notSouth01. Primary explicitly121original/74South; original36pcover andp35factsconfirm121=54four+28five+39six. Southpack37p74differentareasnottransferred. TechnicalbackgroundlabelsPhase02Southwithinoriginaldrawingsnotusedtooverrideactualcover/factsphaseidentity.",
+          "location": "Primary exactJumeirah Golf Estates TheNextChapter southern side between MohammedBinZayed andZayedBinHamdan roads,Dubai. Registryexactdubai-jumeirah-golf-estates. No coordinates/masterplantransportcompletionorfixedtraveltimesadopted.",
+          "residences": "Originalwhole3familiesactualfullp25/28/31andfacts35read. Ground/first/rooflevels havewholehomeprintedtotals. Currentownpage confirms4–6withlifts/pools/courtyards/kitchen. Garagedrawing4bed2vehiclesvsprose3allhomesexplicitunresolved, notassignparking.",
+          "areas": "Originalprintedwhole6070/7918/9471;plots6135–9061/9257–14126/10608–21409. Actualcomponentfloor sums2831+2801+473=6105(not6070),3509+3533+614=7656(not7918),4354+4223+601=9178(not9471). Materialsourcearithmeticconflictretainedasprinted,notrepairoradoptSouthtotals. Individualroomdimensionsnotclaimed.",
+          "amenities": "Ownpage andactualoriginalbrochure17/23confirmprivatepool/lift/BBQ/courtyard/EV;facts35cyclejogVRF14m. Sharedgenericbrochuresections sameasSouthnotusedforduplicategenericmasterplanclaims. Allfacilitiesplannednotoperationalguarantees. Basicvsfullyintegratedautomationconflictvisiblep23vsp35.",
+          "pricing": "Springfield12795000exactmatchesbrokeroriginalJanuary2026Tranche1account; taggedhistoricalbrokerlaunchrefonly. PFcurrentrounded13Mnotexactquote. No primarycurrentprice,stock,guaranteedreturnsorservicechargeadopted.",
+          "payment": "Originalprimarybrochure36pnoinstalmenttable,ownpageno commercialcalendar. Springfieldfive10plus50handoverDec2028matchesbrokerhistoricalaccountJan2026/Aug2026/Mar2027/Oct2027/May2028/Dec2028. Tablehistoricalsecondary100only; headlineNULLnotcurrentunitterms. NoSouthcalendartransferred.",
+          "handover": "No primaryoriginalcompletiondate. SpringfieldQ42028/December2028historicalmatchesbrokerTranche1; freshPFJanuary2029versusoldersearchQ42028. HeadlineNULL, explicitconflictwithoutpickingspeculativedate. No constructionprogressassumed.",
+          "documents": "Original36pbrandedbrochureretrievedvision-ary20025083280bytes; fullp1/25/28/31/35and17/23visuallyread<=1800. adminproprainURLreturnedHTMLnotPDFandnotused. PFbrochurelink25106088bytesexistsbutwebtooltoolarge; directoriginalmirrorread. No originalseparateplan/paymentPDFlocatedinpublicsearch; floorPlanUrlexactbrochurecontainsactualplans. Singleoverlappingpool200forallversions, owncombinedpage100of200, nogenericJGEsource."
+        },
+        "community": "Jumeirah Golf Estates",
+        "overview": [
+          "Published villa areas and plot ranges belong to this original phase; South’s figures are not interchangeable."
+        ],
+        "locationNote": "Jumeirah Golf Estates: The Next Chapter, between Mohammed Bin Zayed Road and Zayed Bin Hamdan Road, Dubai.",
+        "priceLabel": "Historical broker launch reference",
+        "priceNote": "Springfield and an original-launch broker account quote AED 12.795m for the four-bedroom entry home. This is a historical reference, not a current available offer.",
+        "paymentNote": "Historical broker schedule only; no original developer instalment document was retrieved. Confirm the selected villa’s remaining obligations.",
+        "handoverNote": "Springfield’s original terms target December 2028; Property Finder now shows January 2029. No primary document resolved the difference.",
+        "units": [
+          {
+            "label": "4BR villa · saleable / plot",
+            "area": "6,070 / 6,135–9,061 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "5BR villa · saleable / plot",
+            "area": "7,918 / 9,257–14,126 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "6BR villa · saleable / plot",
+            "area": "9,471 / 10,608–21,409 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Historical · January 2026",
+            "percent": 10,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          },
+          {
+            "stage": "Historical · August 2026",
+            "percent": 10,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          },
+          {
+            "stage": "Historical · March 2027",
+            "percent": 10,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          },
+          {
+            "stage": "Historical · October 2027",
+            "percent": 10,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          },
+          {
+            "stage": "Historical · May 2028",
+            "percent": 10,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          },
+          {
+            "stage": "Historical · December 2028 handover",
+            "percent": 50,
+            "sourceIds": [
+              "launch-reference",
+              "springfield"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Original phase mix",
+            "value": "121 villas: 54 four-bedroom, 28 five-bedroom and 39 six-bedroom.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Building and cooling",
+            "value": "G+1+R; published height 14m; VRF ducted cooling.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The plan’s floor components do not equal its saleable totals: 6,105 versus 6,070; 7,656 versus 7,918; and 9,178 versus 9,471 ft². Printed totals remain unreconciled.",
+          "Basic automation in the services spread differs from fully integrated wording in the factsheet. Three-car prose also differs from the four-bedroom two-car drawing.",
+          "Current availability, final prices, contractual areas, service charges, membership terms and handover documents remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-03",
+      "slug": "nine-collective",
+      "developerSlug": "wasl",
+      "name": "Nine Collective",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Nine Collective is Wasl’s 215-home tower in Wasl 1, Al Kifaf, beside Zabeel Park. Its collection includes two- to four-bedroom apartments, three- and four-bedroom duplexes and five-bedroom duplex penthouses. Maid’s rooms and fitted kitchens are specified, with larger layouts offering distinct living and outdoor arrangements.",
+      "areaId": "dubai-al-kifaf",
+      "location": "Al Kifaf",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "2–5",
+      "price": 4400000,
+      "handover": "Q2 2030 · secondary target",
+      "paymentPlan": null,
+      "amenities": [
+        "Family and children’s pools",
+        "Sky infinity pool",
+        "Gym and outdoor fitness deck",
+        "Spa and sauna",
+        "Indoor padel court",
+        "Cinema room",
+        "Private dining spaces",
+        "Family hub and play areas",
+        "Rooftop lounge",
+        "Retail and dining outlets"
+      ],
+      "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_BROCHURE_EN.pdf",
+      "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_UNIT_PLANS.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-03"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/upcoming-projects",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Nine Collective project page",
+            "url": "https://www.wasl.ae/en/project/wasl-1/nine-collective",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 180
+          },
+          {
+            "id": "kit",
+            "label": "Wasl Nine Collective public document library",
+            "url": "https://www.wasl.ae/en/nine-collective/broker-kit",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "brochure",
+            "label": "Nine Collective · current linked brochure",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_BROCHURE_EN.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "plans",
+            "label": "Nine Collective · current individual unit plans",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_UNIT_PLANS.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "floorplates",
+            "label": "Nine Collective · whole-building floor plates",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_FLOOR_PLANS.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "facts",
+            "label": "Nine Collective · linked factsheet",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-02/KIFAF_NINE_COLLECTIVE_FACT_SHEET_3.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "dxb",
+            "label": "DXB Residence Nine Collective · dated secondary reference",
+            "url": "https://dxbresidence.com/en/projects/nine-collective/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 65
+          },
+          {
+            "id": "launch",
+            "label": "Wizi Nine Collective · 24 October broker launch account",
+            "url": "https://wizipremium.com/projects/nine-collective-wasl-al-kifaf.html",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "alternative",
+            "label": "Binayah Nine Collective · conflicting payment terms",
+            "url": "https://www.binayah.com/dubai-projects/payment-plan/nine-collective-by-wasl-properties/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "bayut-listing",
+            "label": "Bayut Nine Collective · broker launch listing",
+            "url": "https://www.bayut.com/property/details-14491650.html",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "brochure"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "overview": [
+            "developer"
+          ],
+          "brochureUrl": [
+            "brochure",
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "brochure",
+            "plans"
+          ],
+          "units": [
+            "brochure",
+            "plans"
+          ],
+          "facts": [
+            "brochure",
+            "plans"
+          ],
+          "unresolved": [
+            "brochure",
+            "plans"
+          ],
+          "price": [
+            "dxb",
+            "launch",
+            "bayut-listing"
+          ],
+          "priceLabel": [
+            "dxb",
+            "launch",
+            "bayut-listing"
+          ],
+          "priceNote": [
+            "dxb",
+            "launch",
+            "bayut-listing"
+          ],
+          "paymentPlan": [
+            "launch",
+            "alternative",
+            "dxb"
+          ],
+          "paymentStages": [
+            "launch",
+            "alternative",
+            "dxb"
+          ],
+          "paymentNote": [
+            "launch",
+            "alternative",
+            "dxb"
+          ],
+          "handover": [
+            "dxb",
+            "bayut-listing",
+            "developer"
+          ],
+          "handoverNote": [
+            "dxb",
+            "bayut-listing",
+            "developer"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected03NineCollective actualownpage215homes withinWasl1/AlKifaf. Primary current76pbrochure74facts215 andexactmix110two+54three+41four+3threedup+3fourdup+4PH=215. Brokerreported218DLDnotadoptedwithoutprimaryregistry. OtherWaslprojectheadingsnotused.",
+          "location": "OwnprimaryFAQ expresslyWasl1AlKifaf adjacentZabeelPark andMaxMetro; exactregistrydubai-al-kifaf. No coordinate/traveltimeortransportopeningassumptions. FreeholdownFAQconfirmed, eligibilitypersonalnotpromised.",
+          "residences": "Currentownkit supplies76pbrochure,38punitplans,30pfloorplates. All30numericpanels38punitplans visuallyread,27older73pbrochure also compared. Currentadds separate3BRB8 and4duplexA2 drawings. Full2BRoldp39/current3,3BRcurrent9,4BR18,3duplex13/14,4duplex25/26 and5PH32/33/34/35 read. Wholeduplexvaluesrepeatnotdouble. FivePHBfull5bedlayoutconfirmednotreclassifiedsolelyarea5533.",
+          "areas": "Allcurrent30actualnumericpanels3–7,9–11,13–16,18–23,25–30,32–37read. Printedtotals2BR1948.48–3141.66,3BR3103.67–3121,3dup4201.69–4274.49,4BR4065.96–4279.84,4dup5437.82–5724.25,5PH5533.08–8238.48. Factsheetdifferentallfamilyrangesexplicitunresolved. Type2BRA2large3141.66andC2terrace2799.26notomit. Unitplans4duplexp25lowerA1tableA2/1904,upperp26A1/1101 mismatch; sameA2p27 repeats. XXXfloorcomponentsnotfilled. 3BRB5suite2712+balcony397=3109vsprinted3105;2BRB2sqm175.9+26.94=202.84vsprinted197.84; sourceunrepaired. Genericallunitsnotcontractualareas.",
+          "amenities": "OwnmainFAQandactualcurrentbrochure27confirmgym/fitnessspa/sauna/pools/padelcinema/diningfamilyhubrooftopretail. Actualcurrentbrochure74districtcooling,3B+G+44andkitchenappliances. No currentoperationalstatusorunitparkingassumed, no guaranteedviews.",
+          "pricing": "BrokerDXB29Oct2026andWizi24Oct plusBayut9Marchlisting all4.4m starting2BRreference; primaryownpage/PDFno price. Headlineexplicitbrokerlaunchreference, currentquoteunverified. No claimedstock/EOIeligibilityorservicechargeapplied. Higherfamiliesbroker7.4/10/17.7/20.7/28mnotpresentedasavailablequotes.",
+          "payment": "Owncurrentkitcontainsbrochure/facts/unit/floorplans/images only, no paymentdocument. SecondaryDXB5/35/60 matchesWizi24Oct7fivecalendar2027Janthrough2030Jan. Binayah5/45/50different, portalBayut50/50. HeadlineNULL, tabledatedbrokerreference100, no inventedprimaryclaims/fees.",
+          "handover": "Ownprimarypage/currentPDFnohandoverdate. DXB29OctQ22030 andBayutlistingQ22030 corroboratebrokerApril2030reference; quarterlabelsecondarytargetnotofficialcompletionpromise. No inferredcurrentprogress. Selectedhomecontractunverified.",
+          "documents": "PublicownkitordinaryNodefetch200revealedactualMarchCDNURLs; currentbrochure76p24577647bytes/unitplans38p8164070bytes/floorplates30p6621908bytes. OlderindexedFebruary73p24578181bytes staleformat readfirst, no separatewordpoolclaimed. Broker39pbrochure/36pplansmirroralso200notaddedfacts. Currentunit30numericalpanelvisualread≤1800px plusfullfamilydrawings andfacts74/amenities27. Overlappingallbrochure/plans/facts/mirrorspool200total50+150+0+0, ownpage180. Noforms/auth/bypass, imagesdeferred."
+        },
+        "community": "Wasl 1",
+        "overview": [
+          "The development is freehold; Wasl also describes an allocation for eligible first-time buyers, subject to programme and unit conditions."
+        ],
+        "locationNote": "Within Wasl 1 in Al Kifaf, beside Zabeel Park, Dubai.",
+        "priceLabel": "Broker launch reference · current quote unverified",
+        "priceNote": "Dated broker references quote AED 4.4m for the entry two-bedroom. No current official unit quotation was retrieved.",
+        "paymentNote": "The table follows the 24 October broker reference, not a developer payment document. Binayah instead publishes 5/45/50; confirm the selected home’s signed terms.",
+        "handoverNote": "Q2 2030 is a secondary-source target. Wasl’s retrieved project page and documents do not establish a completion date.",
+        "units": [
+          {
+            "label": "2BR apartment · printed total",
+            "area": "1,948.48–3,141.66 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR apartment · printed total",
+            "area": "3,103.67–3,121 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR duplex · whole home",
+            "area": "4,201.69–4,274.49 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR apartment · printed total",
+            "area": "4,065.96–4,279.84 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR duplex · whole home",
+            "area": "5,437.82–5,724.25 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "5BR duplex penthouse · whole home",
+            "area": "5,533.08–8,238.48 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Broker reference · booking",
+            "percent": 5,
+            "sourceIds": [
+              "launch"
+            ]
+          },
+          {
+            "stage": "Broker reference · January / July 2027, 2028, 2029 and January 2030 (seven 5% instalments)",
+            "percent": 35,
+            "sourceIds": [
+              "launch"
+            ]
+          },
+          {
+            "stage": "Broker reference · handover",
+            "percent": 60,
+            "sourceIds": [
+              "launch"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Published mix",
+            "value": "215 homes: 110 two-bedroom, 54 three-bedroom, 41 four-bedroom, six duplexes and four duplex penthouses.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Building configuration",
+            "value": "3B+G+44; district cooling.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Kitchen specification",
+            "value": "Integrated cooker, dishwasher, fridge and washing/drying machine.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The factsheet’s area ranges differ from the individual drawings, including a five-bedroom Type B printed at 5,533.08 ft² below the factsheet minimum. Use contractual drawings.",
+          "Some columns do not add up; four-bedroom duplex headings and apartment tables also conflict and contain XXX placeholders. Printed whole-home totals are retained without repair.",
+          "Current stock, official prices, service charges, unit parking, construction status and final contracts remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-04",
+      "slug": "avenue-park-towers-ii",
+      "developerSlug": "wasl",
+      "name": "Avenue Park Towers II",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "Avenue Park Towers II brings apartments and duplexes to Wasl 1 in Al Kifaf, beside Zabeel Park. Tower A has one- and two-bedroom homes; Tower B adds maid’s rooms and larger duplex layouts, with separate rooftop facilities.",
+      "areaId": "dubai-al-kifaf",
+      "location": "Al Kifaf",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–4",
+      "price": null,
+      "handover": "Q2 2030 · developer target",
+      "paymentPlan": "40/60 · developer reference",
+      "amenities": [
+        "Swimming pools",
+        "BBQ area",
+        "Children’s play area",
+        "Indoor and outdoor gyms",
+        "Sauna",
+        "Multipurpose room",
+        "Residents’ lounge"
+      ],
+      "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf",
+      "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_UNIT_PLANS.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-04"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/upcoming-projects",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Avenue Park Towers II project guide",
+            "url": "https://www.wasl.ae/en/project/avenue-park-towers2",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "brochure",
+            "label": "Avenue Park Towers II official brochure · 57 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "facts",
+            "label": "Avenue Park Towers II official factsheet · 3 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_FACTSHEET_0400.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 75
+          },
+          {
+            "id": "plans",
+            "label": "Avenue Park Towers II official unit plans · 38 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_UNIT_PLANS.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 125
+          },
+          {
+            "id": "floorplates",
+            "label": "Avenue Park Towers II official floorplates · 14 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_FLOOR_PLANS_1609.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "broker",
+            "label": "Remington Avenue Park Towers II commercial references",
+            "url": "https://remington.ae/avenue-park-towers-ii-2-by-wasl-wasl-1-dubai/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 75
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "paymentPlan": [
+            "developer"
+          ],
+          "paymentNote": [
+            "developer"
+          ],
+          "paymentStages": [
+            "developer"
+          ],
+          "price": [
+            "broker"
+          ],
+          "priceLabel": [
+            "broker"
+          ],
+          "priceNote": [
+            "broker"
+          ],
+          "handover": [
+            "facts"
+          ],
+          "handoverNote": [
+            "facts"
+          ],
+          "overview": [
+            "facts"
+          ],
+          "facts": [
+            "facts"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "unresolved": [
+            "facts",
+            "plans",
+            "broker"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact protected Avenue Park Towers II, not original Avenue Park Towers. Own project page and public broker kit retrieved 200 ordinary GET, no registration submitted. Current page now has full mix and 40/60, unlike stale early-announcement secondary pages.",
+          "location": "Own page explicitly Wasl 1 in Al Kifaf beside Zabeel Park, Dubai Metro walking distance. No guessed coordinates or journey guarantees; exact central dubai-al-kifaf registry.",
+          "residences": "Official facts 2: Tower A 135 one-BR +270 two-BR=405; Tower B 74 two-BR maid +50 three-BR maid +6 three-BR duplex +6 four-BR duplex=136, 541 total. Actual 29 unit-plan panels visually read, duplex lower/upper inspected, maid excluded from bedrooms.",
+          "areas": "All 29 actual numeric panels at 1500px read. Hidden engineering text contains stale duplicated unrelated values (e.g. 1BR B wrongly 1350.33); visible final panels used. Actual ranges 857.35–1503.72/1301.46–3256.19/1598.44–1779.92/2039.76–2118.55/3138/4408.47. Repeated multilevel total not added. Plan 4 visible 797.39+708.27=1505.66 versus 1503.72; smaller 0.01 differences retained. Facts/main rounded ranges differ from final plans explicitly. Independent visual review also confirmed Plan7 malformed suite text79739.40ft², while published total894.91 remains unchanged; public note added.",
+          "amenities": "Own current named pool/BBQ/play/indoor-outdoor gym/sauna/multifunction/lounge verified. Facts 2 shared versus Tower B exclusive rooftop facilities visually read. Actual 3BR duplex lower 34 note pool ONLY 2305/2505/2705, not all six. 4BR lower 36 shows bedroom 4/pool/lift, upper 37 completes family. No room furnishing/appliance entitlements invented.",
+          "pricing": "No own current price list found in public kit (brochure/facts/floorplates/unitplans). Remington 1.9m attributed secondary entry, price NULL, no selected resale quote used as project price. Early GRAF no-price summary stale.",
+          "payment": "Own current page explicit 40 during/60 handover, two-stage sum 100. Public kit has no payment sheet. Remington 10 booking +six 5 +60 ends 30 June 2030 corroborates 40/60 only; exact dates not adopted as contractual. Older GRAF 60/40 DLD-derived unconfirmed contradictory not preferred over current own.",
+          "handover": "Own original facts 2 and brochure 55 explicit Q2 2030 developer target. Secondary DLD-derived pages March 2030 conflict with own current phase pack, not actual completion proof. No progress percentage invented.",
+          "documents": "Own public /en/avenue-park-towers2/brokers-kit links 57p brochure, 3p facts, 14p floorplates, 38p unitplans all 200; actual numeric and facts panels saved and viewed. Brochure 55 duplicates facts 2, no new budget; facts75+plans125=200 pooled all. No generic upcoming/community derivative copy."
+        },
+        "community": "Wasl 1",
+        "locationNote": "Wasl 1, Al Kifaf, adjacent to Zabeel Park and within walking distance of the Metro.",
+        "overview": [
+          "The factsheet identifies 541 planned homes: 405 in Tower A and 136 in Tower B. These are design counts, not current inventory."
+        ],
+        "priceLabel": "Current official quotation required",
+        "priceNote": "Remington advertises an AED 1.9m entry reference. No current developer price list or available-unit quotation was retrieved.",
+        "handoverNote": "Official factsheet target; confirm the selected home’s contractual date.",
+        "paymentNote": "Wasl publishes 40% during construction and 60% on handover. A signed unit calendar was not retrieved; broker instalment dates remain unconfirmed.",
+        "units": [
+          {
+            "label": "Tower A · 1BR",
+            "area": "857.35–1,503.72 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Tower A · 2BR",
+            "area": "1,301.46–3,256.19 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Tower B · 2BR + maid",
+            "area": "1,598.44–1,779.92 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Tower B · 3BR + maid",
+            "area": "2,039.76–2,118.55 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Tower B · 3BR duplex + maid",
+            "area": "3,138.00 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Tower B · 4BR duplex + maid",
+            "area": "4,408.47 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "During construction",
+            "percent": 40,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 60,
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tower B rooftop",
+            "value": "Exclusive pool, studio gym and lounge with coworking.",
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Factsheet ranges differ from the unit pack: 1BR maximum 1,507 versus 1,503.72 ft²; 2BR 3,215 versus 3,256.19; 3BR 2,123 versus 2,118.55. Confirm approved drawings.",
+          "Plan 4 prints 1,503.72 ft² although 797.39+708.27=1,505.66. Plan 7 has a malformed 79739.40 ft² suite figure. Other component totals differ by 0.01 ft². Duplex totals cover both levels.",
+          "The 3BR duplex pool applies only to units 2305, 2505 and 2705. Do not assume every duplex has a pool.",
+          "Current stock, official prices, service charges, allocated parking and binding payment dates remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-05",
+      "slug": "boulevard-park",
+      "developerSlug": "wasl",
+      "name": "Boulevard Park",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": "Boulevard Park is Wasl’s residential collection between the park and retail boulevard at Wasl Gate in Jebel Ali. Its published layouts range from studios and apartments to duplexes, penthouses and multilevel townhouses.",
+      "areaId": "dubai-wasl-gate",
+      "location": "Wasl Gate",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–4",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Swimming pools",
+        "Gym",
+        "Multipurpose hall",
+        "Children’s play areas",
+        "BBQ facilities",
+        "Landscaped courtyards",
+        "Walking and cycling trails"
+      ],
+      "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf",
+      "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/ec73ec3d462242698f466abe6bba4e67.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-05"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/upcoming-projects",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Boulevard Park project guide",
+            "url": "https://www.wasl.ae/en/project/wasl-gate/boulevard-park",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 140
+          },
+          {
+            "id": "brochure",
+            "label": "Boulevard Park branded brochure · broker-hosted, 33 pages",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 65
+          },
+          {
+            "id": "plans",
+            "label": "Boulevard Park branded unit plans · broker-hosted, 40 pages",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/ec73ec3d462242698f466abe6bba4e67.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 135
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Boulevard Park project reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/boulevard-park",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "payment",
+            "label": "Tanami Boulevard Park payment reference",
+            "url": "https://www.tanamiproperties.com/Projects/Wasl-Boulevard-Park-PaymentPlan",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 65
+          },
+          {
+            "id": "alternative",
+            "label": "Grand Reve Boulevard Park alternative instalment reference",
+            "url": "https://grandreverealty.com/projects/boulevard-park/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "mirror",
+            "label": "Boulevard Park R3 brochure · broker-hosted corroboration",
+            "url": "https://realestateatauxilium.com/wp-content/uploads/2026/01/Boulevard-Park_Main-Brochure-R3_11zon_.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "overview": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer",
+            "finder"
+          ],
+          "price": [
+            "finder"
+          ],
+          "priceLabel": [
+            "finder"
+          ],
+          "priceNote": [
+            "finder"
+          ],
+          "paymentPlan": [
+            "payment",
+            "alternative"
+          ],
+          "paymentNote": [
+            "payment",
+            "alternative"
+          ],
+          "paymentStages": [
+            "payment"
+          ],
+          "handover": [
+            "brochure",
+            "finder"
+          ],
+          "handoverNote": [
+            "brochure",
+            "finder"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "facts": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "unresolved": [
+            "brochure",
+            "plans",
+            "developer",
+            "finder",
+            "payment",
+            "alternative"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected whole-family Boulevard Park, not only Boulevard Park1/2 or new TowersA&B. Own current project page200. PDF marketing name Boulevard Park at WaslGate; phases not collapsed into universal dates/available stock.",
+          "location": "Own page WaslGate/JebelAli between IbnBattuta/EnergyMetro, exact central dubai-wasl-gate registry. PF prose repeatedly says AlWasl centralDubai incorrectly; excluded. No guessed coordinates/travel guarantees.",
+          "residences": "Own page/form studio,1,2,3 apartments;2BRduplex;3BRduplex townhouse/penthouse;4BRtownhouse. Actual40page numeric/drawing panels visually read, nine distinct groups; bedrooms exclude maid. Plan14 twoBRduplex upper2rooms;33threeBRduplex upper3;36threeBRtownhouse upper3;38fourBRtownhouse upper4, lifts not extra bedrooms.",
+          "areas": "Image-only40pPDF: all40 actual numeric panels read, text extraction empty. Two studio,11oneBR,one2BRduplex,10normal2BR,eightnormal3BR,one3BRduplex,two3BRpent,two3BRtownhouse,three4BRtownhouse=40. Printed totals retained. Plan1 449.50+84.60=534.10 vs534.11;4 871.12+65.01=936.13 vs936.14;20 1202.33+87.73=1290.06 vs1290.05; tinyroundings disclosed. Wholemultilevelsnotadded. Brandedfacts32 ranges disagree especiallytownhouse; older/version-specific ratherthan silently replace.",
+          "amenities": "Own page supports gyms/pools/BBQ/play/trails/courtyards. Actualbrochure12/32 facilities andunfurnishedfittedcabinets read, no appliance/furniture entitlement inferred from render. Current sixbuilding wording vs actualbrochure16fivebuilding/facts32fivebuildings8towers explicit. No assumed everyhomeparkview.",
+          "pricing": "No official current pricelist linkedownpage. PF900Khistoricalstudio quote notlowestremaining1BR. Reellyselectedunitquotes notadopted currentprimary. HeadlineNULL andbasisexplicit. No yields/services/stock assumed.",
+          "payment": "Tanami primarybrokerpaymenttable10+ten5+40=100 withmonths3/8/13/18/21/25/30/33/37/42; GrandReve alternative6/12/16/20/24/28/32/37/41/45. No ownsheet. Only10/50/40 aggregate table attributed, headlineNULL notfamilysignedterms. Dates cannot anchor withoutsale date.",
+          "handover": "Actualbrandedbrochure32 Q42029; PFmainJune2029 differs. Laterprojectsubphases listed2030 bybrokers do not provefamilycompletiondate. HeadlineNULL; noactualcompletionorconstructionpercentage claimed.",
+          "documents": "Own projectpage has no PDFlinks; normalpublickit probes404, noforms. BrokerMaison publiclinks33pbrandedbrochure56MB and40pimageplans4.8MB ordinaryGET200. R3Auxmirror33p56MBhasdifferentfilehash butactualfacts32sameunderlyingclauses/ranges/date, corroboration0. Alloverlappingversions/publicclausespool200(65brochure135plans). GenericWaslGate0."
+        },
+        "community": "Wasl Gate",
+        "locationNote": "Wasl Gate, Jebel Ali, near Energy Metro Station. Property Finder’s Al Wasl prose is inconsistent with the developer’s location.",
+        "overview": [
+          "Wasl describes 1,248 planned homes across two plots. This is a development count, not available stock."
+        ],
+        "priceLabel": "Current official quotation required",
+        "priceNote": "Property Finder’s AED 900,000 launch reference concerns studios. No current developer price list or unit-specific quotation was retrieved.",
+        "paymentNote": "Reference split: 10% booking, 50% construction, 40% handover. Broker calendars differ; no original developer payment sheet or family-wide signed schedule was verified.",
+        "handoverNote": "Branded brochure: Q4 2029; Property Finder: June 2029. Confirm the selected building’s contractual date.",
+        "units": [
+          {
+            "label": "Studio · 2 types",
+            "area": "522.16–534.11 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR · 11 types",
+            "area": "833.02–1,158.20 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR · 10 types",
+            "area": "1,238.50–1,544.62 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR duplex + maid",
+            "area": "1,669.81 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR + maid · 8 types",
+            "area": "1,711.81–1,982.50 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR duplex + maid",
+            "area": "2,917.23 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR penthouse + maid · A/B",
+            "area": "3,106.36–3,161.79 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR townhouse + maid · A/B",
+            "area": "3,271.69–3,426.58 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR townhouse + maid · A/B/C",
+            "area": "3,989.21–4,484.89 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · broker reference",
+            "percent": 10,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 50,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 40,
+            "sourceIds": [
+              "payment"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Interiors · brochure reference",
+            "value": "Unfurnished, with fitted kitchen cabinets.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Brochure ranges differ from drawings: studio 523–566 versus 522.16–534.11 ft²; 2BR duplex 1,676–1,940 versus 1,669.81; 4BR townhouse 4,253–4,956 versus 3,989.21–4,484.89.",
+          "The developer website describes six buildings; the brochure describes five buildings and eight towers. Confirm the selected release.",
+          "Some component sums differ from printed totals by 0.01 ft². Multilevel plan totals are whole-home figures.",
+          "Current inventory, official prices, revised floor plans, payment dates, service charges and allocated parking remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-06",
+      "slug": "pinewood-estate-homes",
+      "developerSlug": "wasl",
+      "name": "Pinewood Estate Homes",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": "Pinewood Estate Homes offers three- and four-bedroom townhouses in Jumeirah Golf Estates, within Me’aisem First. The published collection has mid-row and corner layouts, with outdoor seating areas and different plot sizes.",
+      "areaId": "dubai-jumeirah-golf-estates",
+      "location": "Jumeirah Golf Estates",
+      "emirate": "Dubai",
+      "type": "Townhouse",
+      "bedrooms": "3–4",
+      "price": null,
+      "handover": "Q4 2028 · developer target",
+      "paymentPlan": null,
+      "amenities": [
+        "Children’s play zone",
+        "Cycling track",
+        "Jogging track",
+        "Community centre",
+        "Swimming pool"
+      ],
+      "brochureUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-brochure.pdf",
+      "floorPlanUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-plans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-06"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/upcoming-projects",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Pinewood Estate Homes project guide",
+            "url": "https://www.wasl.ae/en/project/pinewood-estate-homes",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "facts",
+            "label": "Pinewood official factsheet and layouts · 29 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/Pinewood%20Estate%20Homes%20Factsheet.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 175
+          },
+          {
+            "id": "earlier",
+            "label": "Pinewood official V14A factsheet · 29 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/JGE%20Pinewood%20Factsheet%20V14A.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "plans",
+            "label": "Pinewood branded plans · broker-hosted, 8 pages",
+            "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-plans.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "brochure",
+            "label": "Pinewood branded brochure · broker-hosted, 33 pages",
+            "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-brochure.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Pinewood Estate Homes reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/pinewood-estate-homes",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 80
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "facts"
+          ],
+          "overview": [
+            "facts"
+          ],
+          "paymentPlan": [
+            "facts"
+          ],
+          "paymentNote": [
+            "facts"
+          ],
+          "paymentStages": [
+            "facts"
+          ],
+          "units": [
+            "facts"
+          ],
+          "facts": [
+            "facts"
+          ],
+          "handover": [
+            "facts",
+            "finder"
+          ],
+          "handoverNote": [
+            "facts",
+            "finder"
+          ],
+          "price": [
+            "finder"
+          ],
+          "priceNote": [
+            "finder"
+          ],
+          "priceLabel": [
+            "finder"
+          ],
+          "unresolved": [
+            "facts",
+            "plans",
+            "finder"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected Pinewood Estate Homes, not Cedarwood/Ashwood or entire JGE/PinewoodVillage masterplan. Own page200 names3/4BRtownhouses. Two own publicCDN29pfacts retrieved200 andbroker33pbrochure/8pplansordinaryGET200. Noforms.",
+          "location": "Own project page explicitly Me’aisemFirst within JumeirahGolfEstates. Exact centralregistry dubai-jumeirah-golf-estates, no assumedcoordinates or universal golfviews/metrojourneytime. GenericJGEpage0.",
+          "residences": "Ownfacts4planned247=71three+120four+56cornerfour; noactualstockclaim. Actualownlayouts13/16/19 andbrokerplans4–7 fullyviewed: threeBRupper3, fourBRupper4, cornerupper4; maidsnotbedrooms; two-car garage drawn allthree. Onlycorner has privatepool/lift/BBQ/roofaccess, notalltownhouses.",
+          "areas": "Ownfacts5summaryrounded3438/4233/4659 vsownactual13/16/19 precise3438.42/4233.45/4659.16 ft², plots2383.42–3678.13/2970.19–3308.18/4243.13–7269.08. Summary3BRplotmin2383.12 differsdrawing2383.42 by0.30. Broker8pplans7roofprints360.73sqm/3882.90sqft versusmain432.85sqm/4659.16; roof value not added or silently fixed. Samefamily diagrams matchownlayouts.",
+          "amenities": "Actualownfacts4 playzone/cycling/jogging/communitycentre/pool/school. School is planneddistrictfacility, notcurrentenrolmententitlement, omittedamenitylist. ActualcornerpoolandBBQ/lift describedonlyselectcornerfact. No guaranteedgolfmembership/returns/healthclaims/appliances/furnishing added.",
+          "pricing": "Ownpage/facts/brochure no current pricelist. PFhistorical5.6m/6.9mdifferentlayouts, no verifieddeveloperquote; headlineNULL. Broker5.674m/5.678m selectedunitquotes notuniversalentry. No servicecharge5.5 independentlyprimaryverified.",
+          "payment": "Bothactualownfacts6 originalcalendar10booking+seven10Dec2025/May2026/Oct2026/Mar2027/Aug2027/Jan2028/Jun2028+20Dec2028=100.80includesbooking10, notadditional80. Pastdatedcalendar keptoriginal, currentheadlineNULL; PF10/70/20 agreesaggregate notoriginalcontract dates. Laterbrokerdatecalendar differences do notamendownissuedcalendar.",
+          "handover": "Ownactualfacts6 explicitlyDecember2028estimated, PFNovember2028; sameQ4butmonthdifference disclosed. HeaderQ42028developerforecast notcompletedhandover. No constructionpercent/start/completioncertificate inferred fromPFtimelines.",
+          "documents": "Own29pfacts variants are same underlying overlappingphasepack; actual4/5/6/13/16/19viewed. OwnV14A6samecalendar confirmed, terminologyvilla/townhome changes not separate record. Broker33pbrochure/8pplans overlapownlayouts, entirepooledsourcecap200(ownfacts175+additionalroof25, others0). No quote marketingparagraphs. No hidden OCR used alone. Public links usablewithoutgate; no ownbrochure/directstandaloneplanlinkedmain, honestbrokerlabels."
+        },
+        "community": "Jumeirah Golf Estates",
+        "locationNote": "Me’aisem First, within Jumeirah Golf Estates.",
+        "overview": [
+          "Original design: 247 homes, comprising 71 three-bedroom, 120 four-bedroom and 56 four-bedroom corner homes."
+        ],
+        "priceLabel": "Current official quotation required",
+        "priceNote": "Property Finder records an AED 5.6m launch reference. No current developer price list or available-unit quotation was retrieved.",
+        "handoverNote": "Original factsheet: December 2028; Property Finder: November 2028. Both are forecasts.",
+        "paymentNote": "Original dated 80/20 calendar, including booking. Past instalments do not establish a new buyer’s schedule. Confirm current contract terms.",
+        "units": [
+          {
+            "label": "3BR + maid",
+            "area": "3,438.42 ft² saleable · plot 2,383.42–3,678.13 ft²",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "4BR + maid",
+            "area": "4,233.45 ft² saleable · plot 2,970.19–3,308.18 ft²",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "4BR corner + maid",
+            "area": "4,659.16 ft² saleable · plot 4,243.13–7,269.08 ft²",
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · original calendar",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "December 2025",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "May 2026",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "October 2026",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "March 2027",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "August 2027",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "January 2028",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "June 2028",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "December 2028 · estimated handover",
+            "percent": 20,
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Corner-home provision",
+            "value": "Private pool, lift, BBQ pit and roof access.",
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The corner roof sheet prints 3,882.90 ft², versus 4,659.16 on its main layout. Do not add these figures; obtain corrected approved areas.",
+          "The 3BR plot minimum is 2,383.12 ft² in the summary but 2,383.42 on the drawing.",
+          "Current inventory, price lists, payment amendments, service charges and approved final specifications remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-07",
+      "slug": "ashwood-estates",
+      "developerSlug": "wasl",
+      "name": "Ashwood Estates",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "Ashwood Estates comprises four- to six-bedroom villas in Jumeirah Golf Estates, with roof terraces, private pools and lifts.",
+      "areaId": "dubai-jumeirah-golf-estates",
+      "location": "Jumeirah Golf Estates",
+      "emirate": "Dubai",
+      "type": "Villa",
+      "bedrooms": "4–6",
+      "price": 12000000,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Private gardens and pools",
+        "Lift with roof access",
+        "Villa terraces",
+        "Cycling and jogging routes",
+        "EV charging provision",
+        "Planned country club and community facilities"
+      ],
+      "brochureUrl": "https://new-projects-media.propertyfinder.com/project/3e500732-ee24-46e0-b1ae-e55e91aaa62b/brochure/application/6I-0b3BDAQKrwrY_1k0WbSDmD2VM6DOjfDyAzq5cN6A%3D/original.pdf",
+      "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%204BR%20Villa%20Floor%20Plan.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-07"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/upcoming-projects",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Ashwood Estates project guide",
+            "url": "https://www.wasl.ae/en/project/ashwood-estates",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 70
+          },
+          {
+            "id": "brochure",
+            "label": "Ashwood branded brochure · portal-hosted 38 pages",
+            "url": "https://new-projects-media.propertyfinder.com/project/3e500732-ee24-46e0-b1ae-e55e91aaa62b/brochure/application/6I-0b3BDAQKrwrY_1k0WbSDmD2VM6DOjfDyAzq5cN6A%3D/original.pdf",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 110
+          },
+          {
+            "id": "plan4",
+            "label": "Wasl Ashwood 4BR original two-page layout",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%204BR%20Villa%20Floor%20Plan.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "plan5",
+            "label": "Wasl Ashwood 5BR original two-page layout",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%205BR%20Villa%20Floor%20Plan.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "plan6",
+            "label": "Wasl Ashwood 6BR original two-page layout",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%206BR%20Villa%20Floor%20Plan.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Ashwood Estates · secondary reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/ashwood-estates",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "broker",
+            "label": "Winforth Ashwood · different dated payment schedule",
+            "url": "https://www.winforth.ae/property/ashwood-estates-by-wasl-properties/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 70
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "overview": [
+            "brochure",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "amenities": [
+            "brochure",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "facts": [
+            "brochure",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "type": [
+            "developer",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "bedrooms": [
+            "developer",
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "price": [
+            "finder",
+            "broker"
+          ],
+          "priceLabel": [
+            "finder",
+            "broker"
+          ],
+          "priceNote": [
+            "finder",
+            "broker"
+          ],
+          "paymentPlan": [
+            "finder",
+            "broker"
+          ],
+          "paymentNote": [
+            "finder",
+            "broker"
+          ],
+          "paymentStages": [
+            "finder",
+            "broker"
+          ],
+          "handover": [
+            "finder",
+            "broker"
+          ],
+          "handoverNote": [
+            "finder",
+            "broker"
+          ],
+          "units": [
+            "plan4",
+            "plan5",
+            "plan6"
+          ],
+          "unresolved": [
+            "plan6",
+            "finder"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plan4"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact07AshwoodEstates Wasl, notSkylandAshwoodResidences. Originalbrochure38p185villas108four/47five/30six=185; noinventoryclaim. Ownpage confirms4/5/6BR andJGE.",
+          "location": "Ownpage explicitlyMeaisemFirstwithinJumeirahGolfEstatesmasterdevelopment. Exactregistry dubai-jumeirah-golf-estates/JumeirahGolfEstates. No drivespeeds/railcompletioninvented. Genericcommunitysource0.",
+          "residences": "Allthree originalofficial2pPDFs downloaded200; ground+first+roofactualsixsheetsread andsameowncombinedraster corroborates.4BRallfourfirst;5BRoneground/fourfirst;6BRoneground/fivefirst;maids/drivernotbedrooms. Roofnon-bedroomservice/terraceareas notaddnewbeds.",
+          "areas": "Actualoriginal4BR567.12m²/6104.43ft²,5BR711.27/7656.05,6BR852.70/9178.39. Plot4min561.49/6043.82max826.53/8896.37;5min831.06/8945.45max1140/12270.86;6min999.87/10762.51max1560.96/16802.03. Wholehome notmultiplyperfloor.6BRsum4353.89+4223.00+601.49=9178.38 vs9178.39printretained. PF567/711/852sqftunitmetadata conflictsactualm²;neverconvertwithoutactualownsupport.",
+          "amenities": "Actualbrochure10/20/21/24 visuallyread privatepool/garden/lift/terrace,VRF/homeautomation,EVchargingprovision. Masterplanclubs/school/hotel/railplannednotoperationalguarantee orblanketfreeentitlement. Originalspecifications notsignedinclusions.",
+          "pricing": "FreshPFheadline12M rounded versusbody11.8Mhistorical andWinforth11.8M. Portalreferenceonly noofficialquotefound. No floor-specificavailability orguaranteedreturns.",
+          "payment": "No officialdatedpaymentPDF accessiblefromownpage. PF10/70/20 usedreferenceonlytable100. Winforthfive10then50 sums100 butdifferent50/50calendar,explicitdatesMayDec2026/Aug2027/AprDec2028. HeadlineNULL; noassumedcurrentamendment.",
+          "handover": "PFJan2029 vsWinforthcompletionJan2029butitspaymenthandover30Dec2028; originalownpage/plansnohandoverdate. HeadlineNULL, confirmcontract. No completion claim.",
+          "documents": "Officialthree2pplans public200 genuinePDF, allactualpanelsread. Own7MBimagegallerydownloadedonlyvisualassetnotfactualbrochure. PublicPF38pbrandedbrochure200 andactual10/20/21/24read, sharedphasepool200=110brochure+30eachplans. Realtyforce403normalfetch andProprain200HTML excluded. No gatedforms/nonce/auth, noaccessbypass. Imagesdeferred."
+        },
+        "community": "Jumeirah Golf Estates · The Next Chapter",
+        "overview": [
+          "Compare saleable area and plot area separately; they measure different parts of the property."
+        ],
+        "locationNote": "Me’aisem First, within the Jumeirah Golf Estates master development, Dubai.",
+        "priceLabel": "Portal headline · not a confirmed available offer",
+        "priceNote": "Property Finder’s headline is AED 12M, while its descriptive text and Winforth retain AED 11.8M. No current official price sheet was verified.",
+        "paymentNote": "Property Finder reference only. Winforth instead reports 50/50, with a 30 December 2028 final payment. Obtain the selected villa’s contractual schedule.",
+        "handoverNote": "Property Finder estimates January 2029. A broker’s payment calendar ends 30 December 2028; no primary contractual delivery date was verified.",
+        "units": [
+          {
+            "label": "4BR · saleable",
+            "area": "6,104.43 ft² / 567.12 m²",
+            "sourceIds": [
+              "plan4"
+            ]
+          },
+          {
+            "label": "5BR · saleable",
+            "area": "7,656.05 ft² / 711.27 m²",
+            "sourceIds": [
+              "plan5"
+            ]
+          },
+          {
+            "label": "6BR · saleable",
+            "area": "9,178.39 ft² / 852.70 m²",
+            "sourceIds": [
+              "plan6"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Portal · booking",
+            "percent": 10,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · construction",
+            "percent": 70,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · handover",
+            "percent": 20,
+            "sourceIds": [
+              "finder"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Original collection",
+            "value": "185 villas: 108 four-bedroom, 47 five-bedroom and 30 six-bedroom.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Plot areas · 4BR / 5BR / 6BR",
+            "value": "6,043.82–8,896.37 / 8,945.45–12,270.86 / 10,762.51–16,802.03 ft².",
+            "sourceIds": [
+              "plan4",
+              "plan5",
+              "plan6"
+            ]
+          },
+          {
+            "label": "Published specification",
+            "value": "G+1+R; VRF cooling, integrated home automation and porcelain flooring. Confirm contractual inclusions.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The six-bedroom floor-area components total 9,178.38 ft² versus the printed 9,178.39 ft². The printed total is retained.",
+          "Portal figures labelled 567/711/852 ft² conflict with the drawings’ square-metre measurements.",
+          "Current stock, official prices, amended payment dates, service charges, selected plot boundaries and delivery certification remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-08",
+      "slug": "south-garden",
+      "developerSlug": "wasl",
+      "name": "South Garden",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "South Garden spans Wasl Gate’s original A–C buildings and newer D–E release, with studios through three-bedroom apartments.",
+      "areaId": "dubai-wasl-gate",
+      "location": "Wasl Gate",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Zen garden · D/E residents",
+        "Building gyms",
+        "Adult and children’s pools",
+        "Shaded play areas",
+        "Security",
+        "Ground and podium parking"
+      ],
+      "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf",
+      "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-08"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/project/wasl-gate/south-garden",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl South Garden · current D and E release",
+            "url": "https://www.wasl.ae/en/project/wasl-gate/south-garden",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 65
+          },
+          {
+            "id": "original",
+            "label": "Wasl South Garden · original A–C brochure",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 55
+          },
+          {
+            "id": "current",
+            "label": "Wasl South Garden · D and E brochure",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 120
+          },
+          {
+            "id": "eplans",
+            "label": "Wasl South Garden · Building E floor plans",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "finderA",
+            "label": "Property Finder · South Garden A reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/south-garden",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "finderD",
+            "label": "Property Finder · South Garden D reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/south-garden-d",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "amenities": [
+            "current"
+          ],
+          "facts": [
+            "current"
+          ],
+          "brochureUrl": [
+            "current"
+          ],
+          "overview": [
+            "developer",
+            "original",
+            "current"
+          ],
+          "units": [
+            "original",
+            "current",
+            "eplans"
+          ],
+          "floorPlanUrl": [
+            "eplans"
+          ],
+          "price": [
+            "finderA",
+            "finderD"
+          ],
+          "priceLabel": [
+            "finderA",
+            "finderD"
+          ],
+          "priceNote": [
+            "finderA",
+            "finderD"
+          ],
+          "paymentPlan": [
+            "finderA",
+            "finderD"
+          ],
+          "paymentNote": [
+            "finderA",
+            "finderD"
+          ],
+          "paymentStages": [
+            "finderA",
+            "finderD"
+          ],
+          "handover": [
+            "current",
+            "finderA",
+            "finderD"
+          ],
+          "handoverNote": [
+            "current",
+            "finderA",
+            "finderD"
+          ],
+          "unresolved": [
+            "original",
+            "current",
+            "eplans"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Whole South Garden record preserved. Original official 55p September 2024 brochure concerns A/B/C; current own page and August 2025 54p brochure concern new D/E. Not five copies or merged unit inventories. Current D/E facts 86+128+268+30=512.",
+          "location": "Own primary page explicitly Wasl Gate, Jebel Ali near Energy Metro/E11. Exact registry dubai-wasl-gate / Wasl Gate. No unsupported travel-time or coordinate claims.",
+          "residences": "Original A all four families visually verified p41/43/46/50. Current D studio p39/40/41, 1BR p42, 2BR p48, 3BR p50/51 visually verified. E original 11p floor-plan pack p7 visually verified all families, published selected 3BR0601. Maids not extra bedrooms. More variant drawings not treated as extra project records.",
+          "areas": "Printed visible tables override contaminated hidden engineering text, which retains older values and unrelated B1/E1 overlays. D3BRA p50 visibly 2188.34 but1603.39+514.95=2118.34; metric148.96+47.84=196.80. Summary p52 says max2127. E0601 actual same components correctly2118.34/196.80. D2A1144.20+86=1230.20 vs printed1230.21; A1A866.28+77.72=944 vs943.99. Rounded printed totals retained and discrepancy disclosed.",
+          "amenities": "Current actual brochure p11 residents-only D/E zen garden,14 pool decks/gym/play/security,17 porcelain/VRF/intercom,52 parking/facts. Community dogpark and retail are not automatically private building facilities.",
+          "pricing": "Fresh exact PF A720K headline vs D630K launch references have different scope/basis. No whole-project minimum imposed. Headline null. No official current price sheet accessible or availability invented.",
+          "payment": "Own guide/brochures do not expose current dated payment schedule. Search original InvestinDXB facts failed ordinary fetch/browser verification screen; excluded. Uniquezone payment link404 excluded. PF D10+50+40=100 table qualified; A60/40 and20+55+25=100 separately documented, no phase conflation.",
+          "handover": "Actual primary D/E facts p52 explicitly anticipated Q4 2028 differs PF D May2028. PF A December2027 distinct original phase. Headline null. No elapsed-date completion inference.",
+          "documents": "Official current/original brochures and E11p plans genuine PDF200 downloaded. Guessed D-plan counterpart404 excluded. Original pages41/43/46/50; current11/14/17/37/39/40/41/42/48/50/51/52 and E7 actual visual reads <=1700px. Phase overlapping PDF public pool200 (55 original+120current+25E). No image changes/forms/auth/bypass."
+        },
+        "community": "Wasl Gate",
+        "overview": [
+          "Compare terms by building."
+        ],
+        "locationNote": "Wasl Gate, Jebel Ali, near Energy Metro Station and Sheikh Zayed Road.",
+        "priceLabel": "Building-specific portal references",
+        "priceNote": "Property Finder lists D’s launch reference at AED 630,000; A’s live headline is AED 720,000. These are different buildings and price bases, not an available project-wide offer.",
+        "paymentNote": "Table shows Property Finder D’s 10/50/40 reference. A separately lists 60/40 and 20/55/25 options. No current primary signed schedule was verified.",
+        "handoverNote": "Original D/E brochure: Q4 2028; Property Finder D: May 2028. The portal’s A record instead estimates December 2027. Confirm the selected building’s contract.",
+        "units": [
+          {
+            "label": "A · studio A",
+            "area": "438.31 ft² / 40.72 m²",
+            "sourceIds": [
+              "original"
+            ]
+          },
+          {
+            "label": "A · 1BR A",
+            "area": "943.99 ft² / 87.70 m²",
+            "sourceIds": [
+              "original"
+            ]
+          },
+          {
+            "label": "A · 2BR A",
+            "area": "1,230.31 ft² / 114.30 m²",
+            "sourceIds": [
+              "original"
+            ]
+          },
+          {
+            "label": "A · 3BR A",
+            "area": "2,126.84 ft² / 197.59 m²",
+            "sourceIds": [
+              "original"
+            ]
+          },
+          {
+            "label": "D · studio A",
+            "area": "438.31 ft² / 40.72 m²",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "D · 1BR A",
+            "area": "944.32 ft² / 87.73 m²",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "D · 2BR A",
+            "area": "1,230.21 ft² / 114.29 m²",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "D · 3BR A1",
+            "area": "1,743.86 ft² / 162.01 m²",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "E · 3BR A · 0601",
+            "area": "2,118.34 ft² / 196.80 m²",
+            "sourceIds": [
+              "eplans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "D · booking",
+            "percent": 10,
+            "sourceIds": [
+              "finderD"
+            ]
+          },
+          {
+            "stage": "D · construction",
+            "percent": 50,
+            "sourceIds": [
+              "finderD"
+            ]
+          },
+          {
+            "stage": "D · handover",
+            "percent": 40,
+            "sourceIds": [
+              "finderD"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "D/E collection",
+            "value": "512 homes: 86 studios, 128 one-bedroom, 268 two-bedroom and 30 three-bedroom.",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "D/E specification",
+            "value": "G+2P+12; VRF cooling, porcelain flooring and IP-based intercom.",
+            "sourceIds": [
+              "current"
+            ]
+          },
+          {
+            "label": "Area basis",
+            "value": "Totals include balconies; examples are building-specific.",
+            "sourceIds": [
+              "original",
+              "current",
+              "eplans"
+            ]
+          }
+        ],
+        "unresolved": [
+          "D 3BR A prints 2,188.34 ft², but components total 2,118.34; its summary caps three-bedrooms at 2,127. E unit 0601 prints 2,118.34. Obtain a corrected drawing.",
+          "Minor 0.01 ft² differences also occur. Current stock, fees and contractual revisions remain unverified. Illustrative photography."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-09",
+      "slug": "hillside-residences",
+      "developerSlug": "wasl",
+      "name": "Hillside Residences",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Hillside Residences is Wasl’s freehold collection in Wasl Gate, combining apartments with multilevel duplex, penthouse and skyvilla layouts.",
+      "areaId": "dubai-wasl-gate",
+      "location": "Wasl Gate",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–4",
+      "price": 850000,
+      "handover": null,
+      "paymentPlan": "40/60",
+      "amenities": [
+        "Swimming pools",
+        "Gyms",
+        "Children’s play areas",
+        "Barbecue areas",
+        "Landscaped walkways",
+        "Nearby Central Park"
+      ],
+      "brochureUrl": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+      "floorPlanUrl": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-09"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/project/wasl-gate/hillside-residences",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl Hillside Residences project guide",
+            "url": "https://www.wasl.ae/en/project/wasl-gate/hillside-residences",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "release",
+            "label": "Wasl Hillside launch announcement · 22 November 2023",
+            "url": "https://www.wasl.ae/en/mediacentre/press-releases/wasl-launches-premium-hillside-residences-project-wasl-gate",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Hillside branded brochure and H1 plans · portal-hosted 61 pages",
+            "url": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 200
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder · Hillside Residences 1 reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/hillside-residences",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "release"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "bedrooms": [
+            "release"
+          ],
+          "price": [
+            "release"
+          ],
+          "priceLabel": [
+            "release"
+          ],
+          "priceNote": [
+            "release"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "unresolved": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "paymentStages": [
+            "brochure"
+          ],
+          "paymentPlan": [
+            "developer",
+            "brochure"
+          ],
+          "paymentNote": [
+            "developer",
+            "brochure"
+          ],
+          "handover": [
+            "release",
+            "brochure",
+            "finder"
+          ],
+          "handoverNote": [
+            "release",
+            "brochure",
+            "finder"
+          ],
+          "facts": [
+            "release",
+            "brochure"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected09whole Hillside record preserved. Own 22Nov2023 release announces819 homes/1–4BR including duplexes and penthouses. PDF summary covers15 buildings, original numeric sheets H1 A–D only; other Hill2/3 samples not assumed identical.",
+          "location": "Own release and guide explicitly Wasl Gate in Jebel Ali; exact dubai-wasl-gate registry. Main page 1–3 tabs not total family inventory; primary release and actual 4BR drawing support fourth-bedroom family.",
+          "residences": "Actual original61p brochure p22–28,30–34 all visible unit drawings read. 1BR5variants,2BR4variants,3BR4variants,2BRduplex/penthouse,3BRskyvilla/penthousevariants,4BRskyvilla. Seven published representative numeric rows omit corrupted four-bedroom size. All multilevel totals whole-home; maids and study not counted as bedrooms.",
+          "areas": "Actual p22 1A818.70/76.06,p25 2A1283.27/119.22,p28 3D1930.51/179.35,p30 2DXA1/A2both1738.59/161.52,p31 3skyDXA3109.26/288.86 and3PHDXB3213.24/298.52. p34 4skyDXA table copies p33 3PHDXF exact2530.06+497.72=3027.78/281.29 despite different4BRdrawing and summary3955–4052; excluded numericrow. p28 3C visible total162.59underft²/1750.1underm² swapped; excluded. p27 3A terrace167.57ft²/13.26m² inconsistent; excluded. p25 2A1096.2+187.08=1283.28vs1283.27; p31 3sky2491.31+617.96=3109.27vs3109.26; printed totals retained disclosed minorrounding.",
+          "amenities": "Own project guide pool/gym/kids/BBQ/walkways/nearbypark; actualPDF5/8 podiumpool,yoga,play,BBQ/tabletennis and widercentralpark scoped. Not everyfacilityprivateeachunit; no freeclubmembership invented.",
+          "pricing": "Primary launch22Nov2023 explicitly1BR850k/2BR1.29m/3BR2m/4BR4m; only historical1BRreferencepublic. Fresh PF metadata/FAQsame850k but no currentprimaryunitavailablequote; no guaranteedstockclaims.",
+          "payment": "ActualPDF3 eight5% payments booking/month5/10/15/20/26/32/38 plus60handover=100 and40beforehandover. Currentownmain40/60 corroborates. PF5/35/60 aggregate samefirstschedule butFAQalternative60down/40handover not merged. No automaticoriginalrelativecalendarstartingtoday.",
+          "handover": "Primary launchQ22027,actualbrochure2anticipatedQ32027,PFHillside1Q42027; headline null. Different release references preserved, no datesilentcorrection or completionclaim.",
+          "documents": "Ownsite no originalbrochuredownload visible. Genuine branded61pPFhostPDF downloaded20029.9MB, portal sourcekind honest. Numericactual22/23/24/25/26/27/28/30/31/32/33/34 andfacts2/payment3/amenity5/8 read<=1700px. DRElink200HTML excluded; brokerdomainfetchfailed; officialfilenameprobe404; Dubizzlepublicpack403 andGCC403 excluded withoutbypass. No additional published current signedcontract retrieved. UnderlyingPDFpool200 inclusiveallplans/facts/payment;genericcommunity0. Imagesdeferred."
+        },
+        "community": "Wasl Gate",
+        "overview": [
+          "H1 examples; verify other releases separately."
+        ],
+        "locationNote": "Wasl Gate, Jebel Ali, with access to Sheikh Zayed Road and Energy Metro Station.",
+        "priceLabel": "Historical launch · 22 November 2023",
+        "priceNote": "Wasl’s 2023 release advertised one-bedroom homes from AED 850,000. This is historical launch pricing, not a verified available offer.",
+        "paymentNote": "Wasl states 40/60. Table reproduces the original booking-relative instalments; confirm current contractual dates.",
+        "handoverNote": "Wasl’s launch release forecast Q2 2027; the branded factsheet says Q3 2027; Property Finder’s phase-one record says Q4 2027. Contractual delivery remains unverified.",
+        "units": [
+          {
+            "label": "H1 · 1BR A",
+            "area": "818.70 ft² / 76.06 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 2BR A",
+            "area": "1,283.27 ft² / 119.22 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 3BR D",
+            "area": "1,930.51 ft² / 179.35 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 2BR duplex DX A1",
+            "area": "1,738.59 ft² / 161.52 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 2BR penthouse DX A2",
+            "area": "1,738.59 ft² / 161.52 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 3BR skyvilla DX A",
+            "area": "3,109.26 ft² / 288.86 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "H1 · 3BR penthouse DX B",
+            "area": "3,213.24 ft² / 298.52 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Original · booking",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 5",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 10",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 15",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 20",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 26",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 32",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Month 38",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 60,
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Original announced collection",
+            "value": "819 homes; the launch includes one- to four-bedroom residences.",
+            "sourceIds": [
+              "release"
+            ]
+          },
+          {
+            "label": "Brochure configuration",
+            "value": "14 residential buildings plus one amenities block; G+5–G+9.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Area basis",
+            "value": "Totals include terraces across all levels.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "H1’s four-bedroom drawing repeats a three-bedroom table: 3,027.78 ft² versus summary 3,955–4,052. Four-bedroom size is unverified.",
+          "Three-bedroom Type C swaps total columns; Type A’s terrace units disagree. Minor rounding discrepancies occur elsewhere. Obtain corrected plans.",
+          "Current inventory, revised payment dates, charges and completion certification remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-10",
+      "slug": "one-b-tower",
+      "developerSlug": "wasl",
+      "name": "One B Tower",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "One B Tower is Wasl’s residential development on Sheikh Zayed Road, beside the Dubai Water Canal. Apartments and duplexes share a podium pool, fitness spaces and places for families to gather. Wasl associates the tower with the One Billion Meals Endowment initiative.",
+      "areaId": "dubai-business-bay",
+      "location": "Business Bay",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–5",
+      "price": 3963000,
+      "handover": "Q4 2028 · portal forecast",
+      "paymentPlan": null,
+      "amenities": [
+        "Spa",
+        "Vitality pools",
+        "Podium swimming pool",
+        "Gym",
+        "Yoga spaces",
+        "Children’s playroom",
+        "Coworking spaces",
+        "Cinema/family lounge"
+      ],
+      "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+      "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "wasl-project-10"
+      ],
+      "nameSource": {
+        "url": "https://www.wasl.ae/en/buying",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Wasl One B Tower project guide",
+            "url": "https://www.wasl.ae/en/onebtower",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 130
+          },
+          {
+            "id": "kit",
+            "label": "Wasl One B Tower public document kit",
+            "url": "https://www.wasl.ae/en/broker-kit/onebtower",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "brochure",
+            "label": "One B official brochure · 52 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "plans",
+            "label": "One B official separate floor-plan pack · 29 pages",
+            "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "unit",
+            "label": "Wasl public unit 2406 · dated price/payment example",
+            "url": "https://www.wasl.ae/en/unit/freehold/IM00100298464",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "listing",
+            "label": "Wasl public buying search · unit 2406 reference",
+            "url": "https://www.wasl.ae/en/search/buying",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "launch",
+            "label": "Wasl release announcement · 31 May 2024",
+            "url": "https://www.wasl.ae/en/mediacentre/press-releases/successful-launch-one-b-tower-luxury-development-along-sheikh-zayed-road",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder One B commercial context and forecast",
+            "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/one-b-tower",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "unit"
+          ],
+          "location": [
+            "unit"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "unit"
+          ],
+          "locationNote": [
+            "unit"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "amenities": [
+            "developer",
+            "brochure"
+          ],
+          "price": [
+            "listing"
+          ],
+          "priceLabel": [
+            "listing"
+          ],
+          "priceNote": [
+            "listing"
+          ],
+          "paymentPlan": [
+            "unit",
+            "portal"
+          ],
+          "paymentNote": [
+            "unit",
+            "portal"
+          ],
+          "paymentStages": [
+            "unit"
+          ],
+          "handover": [
+            "portal"
+          ],
+          "handoverNote": [
+            "portal",
+            "unit"
+          ],
+          "overview": [
+            "launch"
+          ],
+          "units": [
+            "plans",
+            "brochure"
+          ],
+          "facts": [
+            "developer",
+            "launch"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "unresolved": [
+            "brochure",
+            "plans",
+            "developer",
+            "unit",
+            "portal"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Ownmain/publickit52pbrochure/29pplans and31May2024ownrelease identifyOneBTowerWasl. No OneZaabeel/WaslTower transfer. Main47storeys vsrelease48 disclosed, floorconventionnotinvented.",
+          "location": "MainSZRbesideWaterCanal/BusinessBay, ownselectedunitfooterBUSINESSBAY. Exactexistingdubai-business-bay used,nocoordinates ortransittimes.",
+          "residences": "Actualbrochure26–37all12numericpanels/fullgeometryread. Separateplans2–17all16unitpanelsread, repeatsE/C/2duplexnotseparatefamilies. Fullfloorplates18–29all12actualread add2BRD/E/F,3BRC,4BRA1/A2and4duplexB. Source-specificm²notconverted. Main1–5/duplex/penthouse;5BR/penthouseindividualdrawingsmissingexplicit. Wholeduplexareasnotadded.",
+          "areas": "All12brochure+16unitplan+12floorplatesnumericactualread. BothCDNMay2024paths: revisionorderunproven. Brochure1BRA676.7–692vsplans674.9–683.5;1BRmax958.5vs1012.3,2BR1685.7–1796.4vs1391–1777,3BR2342.3–2404.5vs2413.3–2450.9. Plan1BRE2interior753.5+balcony805.1 cannot equal933.2printedtotal; sourceerrornotcorrected. Floorplate22E157.24+23.76=181vs169.53,D2153.24+29.70=182.94vs174.38,F161+39.65=200.65vs199.55. Rowsretainprintedtotals. No inferredconversion.",
+          "amenities": "Ownmainspa/vitality/podiumpool/fitness/yoga/kids/workspaces; actualbrochure14/15/16/18amenityread forcinema/familylounge. Privateplungepoolsselected4BRnotforall. Nohealthoutcomeguarantee.",
+          "pricing": "Actualownsearchunit2406AED3963000/1336.23ft²/2roomflat. Newselectedownunitpage200sameidentity. Headlineunitreference notstartingprice/stockguarantee. PF2.6mlaunch/soldout differsownlistedunit. Own2024initialphaseselloutnotstocktoday. Oldbroker1.6munconfirmednotadopted. Search+selectedunitshare200budget50+150.",
+          "payment": "ActualpublicIM00100298464:15percent594450+five5percent198150+60percent2377800=100percent/3963000. Cachedwebfirst26Oct2026vsfreshGET31Oct2026dynamicfirstdate, notfixeddeadline. RestJan/Jun/Nov2027Mar/Jul2028lastDec302028. No salesoffer/formclicked. OldindexedIM00100287626nowredirectssearch soindexed10percentSep2026excludedascurrent. PF5/35/60differentcalendar; headlineNULL.",
+          "handover": "PFDec312028forecastQ4;ownselectedfinalpaymentDec302028compatible notcertifiedhandover. Lastlabel7thinstalmentonly,noinventedofficialcompletion. PF2.11percentdated5May2025stale,notcurrentprogress. No completioncertificate.",
+          "documents": "Mainfile-download7449web403notbypassed. SeparateownpublickitHTML200directCDNbrochure52p/plans29p200ordinaryGET,primarynotbroker. Plantextempty, actualnumericalimagesread. SharedPDF200brochure50plans150includingallversions/variants/conflicts; mirrornewallowancesnotused. Publiccopybudgetawaitsindependentreview. Noimagechanges."
+        },
+        "community": "Business Bay",
+        "locationNote": "Sheikh Zayed Road, Business Bay, beside the Dubai Water Canal.",
+        "overview": [
+          "Wasl’s 31 May 2024 release reported that the first two phases sold out and a third phase was released. That announcement does not establish current stock."
+        ],
+        "priceLabel": "Public developer unit reference · not entry pricing",
+        "priceNote": "Wasl lists two-bedroom unit 2406 at AED 3,963,000 and 1,336.23 ft². Snapshot checked 31 October 2026; confirm its availability and final quotation.",
+        "paymentNote": "Unit 2406 example only, captured 31 October 2026. Its first date changes with retrieval. Portal 5/35/60 launch terms differ; confirm the selected contract.",
+        "handoverNote": "Property Finder forecasts December 2028. The developer unit’s final instalment falls on 30 December 2028; no certified delivery date was retrieved.",
+        "units": [
+          {
+            "label": "Plan pack: 1BR A–E",
+            "area": "674.9–1,012.3 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Plan pack: 2BR A–C",
+            "area": "1,391–1,777 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Plan pack: 2BR duplex",
+            "area": "1,650.8–2,377.7 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Plan pack: 3BR A/B",
+            "area": "2,413.3–2,450.9 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Plan pack: 3BR duplex",
+            "area": "2,855.2 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Plan pack: 4BR duplex",
+            "area": "4,769.5 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Brochure: 1BR",
+            "area": "676.7–958.5 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 2BR",
+            "area": "1,685.7–1,796.4 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 3BR",
+            "area": "2,342.3–2,404.5 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 2BR duplex",
+            "area": "2,192.6 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 3BR duplex",
+            "area": "2,802.3 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 4BR",
+            "area": "3,970.4 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Brochure: 4BR duplex",
+            "area": "4,750.1–4,759.4 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Floor plate: 2BR D/E/F",
+            "area": "169.53–199.55 m²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Floor plate: 3BR C",
+            "area": "198.1–198.9 m²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Floor plate: 4BR A1/A2",
+            "area": "369.2–377.9 m²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Floor plate: 4BR duplex B",
+            "area": "381.41 m²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Unit 2406 · first instalment",
+            "percent": 15,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Jan 2027",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Jun 2027",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Nov 2027",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Mar 2028",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Jul 2028",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "30 Dec 2028",
+            "percent": 60,
+            "sourceIds": [
+              "unit"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Published storeys",
+            "value": "47 on project page; 48 in the 2024 release.",
+            "sourceIds": [
+              "developer",
+              "launch"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Brochure, unit layouts and floor plates differ; rows remain source-specific. Confirm the approved drawing.",
+          "Printed arithmetic includes E2 balcony 805.1 ft², incompatible with total 933.2 ft²; floor-plate E components total 181 m² versus printed 169.53 m². Smaller discrepancies also remain.",
+          "Five-bedroom homes and a penthouse are advertised, but matching individual drawings were not retrieved. Whole duplex totals must not be doubled.",
+          "Current stock, latest certified progress, contractual areas, charges, parking allocations and project-wide revised payment terms remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "wasl-project-11",
+      "slug": "wasl-project-11",
+      "developerSlug": "wasl",
+      "name": "Wasl Project 11",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "wasl-project-12",
+      "slug": "wasl-project-12",
+      "developerSlug": "wasl",
+      "name": "Wasl Project 12",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "wasl-project-13",
+      "slug": "wasl-project-13",
+      "developerSlug": "wasl",
+      "name": "Wasl Project 13",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "wasl-project-14",
+      "slug": "wasl-project-14",
+      "developerSlug": "wasl",
+      "name": "Wasl Project 14",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "wasl-project-15",
+      "slug": "wasl-project-15",
+      "developerSlug": "wasl",
+      "name": "Wasl Project 15",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    }
+  ]
+}

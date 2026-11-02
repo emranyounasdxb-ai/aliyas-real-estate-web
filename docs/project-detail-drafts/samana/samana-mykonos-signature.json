@@ -1,0 +1,335 @@
+{
+  "id": "samana-project-29",
+  "name": "SAMANA Mykonos Signature",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Mykonos Signature brings Greek-island-inspired apartments to Arjan, with both standard studios and private-pool layouts alongside shared rooftop leisure spaces.",
+    "areaId": "dubai-arjan",
+    "location": "Arjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": "Q1 2027 · developer estimate",
+    "paymentPlan": null,
+    "amenities": [
+      "Leisure pool deck",
+      "Private pools in selected layouts",
+      "Fitness centre",
+      "Rooftop jogging park",
+      "Children’s area",
+      "Sauna and steam room",
+      "Outdoor cinema",
+      "Rooftop basketball court"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/11/db7ac485dd55d50502212767a33c3cf3.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/samana-mykonos-signature/SAMANA_MYKONOS_SIGNATURE_FLOOR_PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Mykonos Signature · current project guide",
+          "url": "https://www.samanadevelopers.com/projects/samana-mykonos-signature",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "brochure",
+          "label": "SAMANA Mykonos Signature · original 51-page brochure",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/11/db7ac485dd55d50502212767a33c3cf3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "facts",
+          "label": "Mykonos Signature branded factsheet · broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-mykonos-signature/SAMANA_MYKONOS_SIGNATURE_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "detailed",
+          "label": "Mykonos Signature detailed facts · broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-mykonos-signature/SAMANA_MYKONOS_SIGNATURE_FACTSHEET_DETAILED.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Mykonos Signature 16-page plan pack · broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-mykonos-signature/SAMANA_MYKONOS_SIGNATURE_FLOOR_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "studio",
+          "label": "SAMANA studio sales-category reference",
+          "url": "https://www.samanadevelopers.com/for-sale/studio-for-sale-in-samana-mykonos-signature-arjan-dubai",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "onebr",
+          "label": "SAMANA one-bedroom sales-category reference",
+          "url": "https://www.samanadevelopers.com/for-sale/1-bedroom-apartment-for-sale-in-samana-mykonos-signature-arjan",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · dated launch and delivery references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-mykonos-signature",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "developer",
+          "studio",
+          "onebr",
+          "facts",
+          "finder"
+        ],
+        "priceLabel": [
+          "developer",
+          "studio",
+          "onebr",
+          "facts",
+          "finder"
+        ],
+        "priceNote": [
+          "developer",
+          "studio",
+          "onebr",
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "facts",
+          "detailed",
+          "finder"
+        ],
+        "paymentStages": [
+          "facts",
+          "detailed",
+          "finder"
+        ],
+        "paymentNote": [
+          "facts",
+          "detailed",
+          "finder"
+        ],
+        "units": [
+          "developer",
+          "studio",
+          "onebr",
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "studio",
+          "onebr",
+          "brochure",
+          "plans"
+        ],
+        "unresolved": [
+          "developer",
+          "studio",
+          "onebr",
+          "brochure",
+          "plans"
+        ],
+        "facts": [
+          "brochure",
+          "facts",
+          "detailed"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA29 Mykonos Signature in Arjan, not original Mykonos StudioCity. Own current page200 and publicJSONLDexact brochure URL20051pages. Own brochure29 explicitly276apartments16+112+112+36; broker facts24retails separate, total300 not300apartments or availableinventory. No other project historical factspages19-28 adopted.",
+        "location": "Own main and both own sales pages explicitlyArjanDubai, exactexisting dubai-arjan registry. Detailedfactsactual3 repeatsArjan. No inventedcoords, drive guarantees ortransfer fromMykonos.",
+        "residences": "Actualown four AVIF layouts +original51pbrochure47-50 andbroker16pplans12-15 read:studio withoutpool,studio withpool,1BRpool,2BRpool. Brochure2BRrectangular variant vsownAVIF/brokerangledvariant preserved bydocument, not same exactunit or changingbedcount. Four layouts, notallstudiosprivatepool.",
+        "areas": "Actualbrokerfloorplates2-11 read, no saleablearea tables. Originalbrochure47-50 andown4AVIF also notdimensioned. Currentown sales studio419ft2 and1BR1289ft2 are categoryreference minima, not measuredplans or fullprojectrange. No sizes inferredfrompictures. Detailedfacts3 originalplot86451ft2,totalbuild419947.25ft2,lobby1693.08ft2,4elevators,B+G+M+8,parking102361.13ft2,podium15000ft2,balconyplunge110.44ft2,pool3900ft2,club1248.56ft2,green5275.83ft2 actualread. Publicselectedbuildingfacts only, nouniversalunitpoolsize.",
+        "amenities": "Ownprimarypooldeck/selectedprivatepools/fitness/jogging/kids/saunasteam/cinema/rooftopbasketball confirmed; actualbrochure30-31 andfacts detailed2 includeBBQ/valet/waterfeatures/retail. Notclaimedopenoperatingtoday. No solarenergyperformanceclaim or guaranteedreturn.",
+        "pricing": "Own main426000 versus ownstudio current998000/419ft2 andown1BR1900000/1289ft2, source-specific references notcomparablecurrentstock. Historicalbrokerhostfact649000;PF746973/747k launch soldout. HeadlinepriceNULL because currentunit-specificdatedquoteunverified andmainvscategorybasisnotreconciled.",
+        "payment": "Actual1pfacts anddetailed2 show15down+60monthlyonepercent+10month6+5month12+10month18=100. Original5yearbookingrelative, additionalfixedpayments notinsteadmonthly. PFtop15/85vsFAQ15/25/60 conflict. Currentownmain/salespages no signedcurrentcalendar, headlinepaymentNULL. No handoverallocationinferred.",
+        "handover": "CurrentprimaryFAQ Q12027 vsPF April302026/Ready label; currentprimaryestimate published, actualcompletioncertificate notverified. Secondary AIpages orbrokerDLDcopies not regulatory evidence. Ownoriginal51pbrochure28 concernsWavesII, June2025 notMykonosSignature. Nottransferred. Noexpiredforecastassertedcompleted.",
+        "documents": "PublicJSONLDhasPart brochure URLretrievednormally20024.38MB; visualbuttonleadform never submitted. Publicexact fourAVIF200 areunannotatedimages. Broker1pfacts/6pdetailed/16pplans all200 and honestlybrokerlabel. Detailedfacts1/2/3actualnumeric/paymentread;all10brokerfloorplates2-11+fourunitplans12-15actualread;ownbrochure47-50fullunitsand29mix/30-31amenitiesactualread. AllunderlyingPDFversions/mirrorspool200, allocation60+80+40+20. Brochurehistoricalmulti-projectclausesnotadopted. Imagesremainillustrative/deferred."
+      },
+      "community": "Arjan",
+      "overview": [
+        "Four layout categories; obtain a dimensioned unit sheet."
+      ],
+      "locationNote": "Arjan, Dubai. The original Mykonos development is a separate project in Dubai Studio City.",
+      "priceLabel": "Current unit quote unverified",
+      "priceNote": "Developer references differ: AED 426,000 on the main page, AED 998,000 for studios and AED 1.9M for one-bedroom homes. Original factsheet: AED 649,000; Property Finder launch reference: AED 746,973. No available-unit quote verified.",
+      "paymentNote": "Original five-year schedule includes monthly and additional payments. Confirm current dates; Property Finder’s headline and FAQ disagree.",
+      "handoverNote": "SAMANA’s current FAQ estimates Q1 2027. Property Finder instead retains April 2026 and a Ready label; neither establishes certified completion of a selected home.",
+      "units": [
+        {
+          "label": "Studio · sales-page reference",
+          "area": "From 419 ft²; confirm selected layout",
+          "sourceIds": [
+            "studio"
+          ]
+        },
+        {
+          "label": "Studio with pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "developer",
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR with pool · sales-page reference",
+          "area": "From 1,289 ft²; confirm selected layout",
+          "sourceIds": [
+            "onebr"
+          ]
+        },
+        {
+          "label": "2BR with pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "developer",
+            "brochure",
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original · down payment",
+          "percent": 15,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "1% monthly × 60 months",
+          "percent": 60,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Additional · month 6",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Additional · month 12",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Additional · month 18",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published residential mix",
+          "value": "276 apartments: 16 studios, 112 pool studios, 112 one-bedroom and 36 two-bedroom homes.",
+          "sourceIds": [
+            "brochure",
+            "facts"
+          ]
+        },
+        {
+          "label": "Retail component",
+          "value": "24 shops; separate from the residential count.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Original building configuration",
+          "value": "B+G+M+8; four elevators.",
+          "sourceIds": [
+            "detailed"
+          ]
+        },
+        {
+          "label": "Original site metrics",
+          "value": "Plot 86,451 ft²; total build area 419,947.25 ft².",
+          "sourceIds": [
+            "detailed"
+          ]
+        },
+        {
+          "label": "Original shared leisure areas",
+          "value": "Podium 15,000 ft²; swimming pool 3,900 ft².",
+          "sourceIds": [
+            "detailed"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plans omit total areas. The 419 ft² and 1,289 ft² sales references do not establish every layout’s size.",
+        "Current stock, corrected price basis, signed instalment dates, service charges, parking allocations and completion certification remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

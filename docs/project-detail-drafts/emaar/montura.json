@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-31","name":"Montura","developerSlug":"emaar",
+ "fields":{
+  "description":"Montura brings four and five bedroom villas to Grand Polo Club & Resort. The community’s equestrian setting is reflected in its polo fields, clubhouse and stables, while the homes sit among landscaped routes and gardens. This is the original Montura collection; later numbered phases have their own plans and terms.",
+  "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":7060000,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community polo fields and stables","Clubhouse","Community centre","Fitness areas","Padel courts","Football and basketball courts","Pedestrian and cycling network","Forest walks and floral gardens","Open lawns","Mini golf","Galloping Fountain landscape feature"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MONTURA_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Montura at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/montura-at-grand-polo","kind":"developer","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"brochure","label":"Emaar: Montura brochure","url":"https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Montura floor plans","url":"https://www.emaar.com/cms-media/uploads/MONTURA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Montura launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura/MONTURA_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Montura launch payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura/PAYMENT_PLAN_MONTURA_GP.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"finder","label":"Property Finder: Montura estimated completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/montura-at-grand-polo","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure","facts"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Original Montura official page and branded documents reviewed independently from Montura 2 and 3.",
+    "location":"Grand Polo Club & Resort identified from developer page and brochure map; canonical community filter added.",
+    "residences":"Four and five bedroom villas confirmed. All four image-based plan sheets visually inspected, including their type labels and room arrangements.",
+    "areas":"Individual suite, balcony, carport and total figures read visually from official plans; fact-sheet average plots kept separate from built-up totals.",
+    "amenities":"Project-specific brochure and launch fact sheet used. Official webpage amenity list differs from those PDFs, so unrelated additional facilities not silently imported.",
+    "pricing":"Official page gives AED 7.06 million; fact sheet supports historical bedroom-type launch prices, not live inventory.",
+    "payment":"Own branded schedule visually checked and corroborated by fact sheet: nine instalments total 100%, with 30/50/80/90% construction milestones.",
+    "handover":"June 2029 estimated completion in launch schedule, corroborated by PF; shown as reported Q2 2029.",
+    "documents":"Official brochure and floor plans linked, broker-hosted launch copies attributed. Images unchanged."
+   },
+   "community":"Grand Polo Club & Resort",
+   "overview":["Montura’s brochure puts the clubhouse and stables at the heart of the wider estate. Walking and cycling routes connect landscaped areas, with sports courts and smaller recreation spaces alongside them. Inside the homes, the brochure describes stone floors and detailed woodwork. These are design intentions: the chosen villa’s specification and the terms of access to equestrian facilities still need to be checked."],
+   "locationNote":"Montura is within Grand Polo Club & Resort in Dubai. The developer’s map places the community in relation to The Oasis, Expo City and Al Maktoum International Airport. Its journey times are promotional estimates, not a guarantee; check the actual gate, road connection and daily route.",
+   "priceLabel":"Advertised starting price",
+   "priceNote":"Emaar advertises Montura from AED 7.06 million. This is a published starting figure, not confirmation that a particular villa remains available. A current unit quotation is required.",
+   "paymentNote":"The launch schedule has 10% on booking, seven subsequent 10% instalments and 20% at estimated completion. Some dates have passed; a buyer today must confirm the amount already due and the remaining contractual payments.",
+   "handoverNote":"June 2029 is the estimated construction-completion month in Montura’s launch sheet and is also reported by Property Finder. Current construction progress and contractual handover require confirmation.",
+   "units":[
+    {"label":"4 bedroom villa · Type 1","area":"3,838.20 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · Type 2","area":"3,842.82 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom villa · B Type 3","area":"5,115.23 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom villa · B Type 4","area":"5,157.74 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The fact sheet lists 211 villas: 183 with four bedrooms and 28 with five. These launch counts are not current stock availability.","sourceIds":["facts"]},
+    {"label":"Historical prices and average plots","value":"Four bedroom villas launched from AED 7.06 million with a 5,184 sq ft average plot; five bedroom villas from AED 9.80 million with a 5,763 sq ft average plot. Individual plots vary.","sourceIds":["facts"]},
+    {"label":"Area basis","value":"Four bedroom suites are 3,059.96–3,061.26 sq ft; five bedroom suites are 3,887.06–3,887.28 sq ft. Published totals additionally include balconies and carports, so they are not entirely enclosed living space.","sourceIds":["plans"]},
+    {"label":"Layout differences","value":"The reviewed homes have ground, first and second levels with a maid’s room and a ground-floor guest bedroom. Four bedroom plans place a family room upstairs; five bedroom plans show a lift and an additional upper bedroom.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Confirm the final amenity schedule: the webpage’s list differs from the project-specific brochure. Membership, fees and opening dates for clubhouse, polo and stable facilities are unverified.","Current unit availability, exact plot, orientation, price, outstanding payments and contractual handover.","Final materials, appliances, lift specification, landscaping and any private-pool inclusion; a rendering does not establish an included pool.","Current construction progress and service/community charges.","Official project imagery is deferred; existing photographs are illustrative."]
+  }
+ }
+}

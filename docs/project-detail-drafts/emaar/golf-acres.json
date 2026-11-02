@@ -1,0 +1,51 @@
+{
+ "id":"emaar-project-79","name":"Golf Acres","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Acres offers one- to three-bedroom apartments and three-bedroom townhouses within Emaar South. Apartments rise above a podium, while the townhouse plans provide two-level homes with garden-access terraces. Earthy colours, landscaped outdoor spaces and a golf-course setting give the development its character.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":4727888,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Outdoor gym","Yoga deck","Jogging track","Outdoor barbecue area","Landscaped gardens","Children’s play area"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/396136_brochure_File_8a89119089_prod.pdf","floorPlanUrl":"https://storage.dxboffplan.com/files/2024/12/Golf-Acres-at-Emaar-South-Floor-Plan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Acres at Emaar South","url":"https://www.emaar.com/en/properties/golf-acres-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Golf Acres brochure","url":"https://www.emaar.com/cms-media/uploads/396136_brochure_File_8a89119089_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"plans","label":"Emaar floor-plan pack, copy hosted by DXB Off Plan","url":"https://storage.dxboffplan.com/files/2024/12/Golf-Acres-at-Emaar-South-Floor-Plan.pdf","kind":"portal","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, InvestInDXB copy · indexed text reviewed","url":"https://investindxb.com/wp-content/uploads/2024/12/EMAAR-GOLF-ACRES-FACTSHEET-investindxb.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+    {"id":"finder","label":"Property Finder: Golf Acres","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-acres","kind":"portal","checkedOn":"2026-10-31","derivedWords":95}
+   ],
+   "fieldSources":{"description":["official","plans","brochure"],"overview":["brochure"],"location":["official"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts","finder"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["facts","finder"],"handover":["facts","finder"]},
+   "reviewCoverage":{"identity":"Golf Acres’s own developer page and branded plan pack checked, separately from Golf Dale.","location":"Emaar South confirmed, mapped to Dubai South.","residences":"One- to three-bedroom apartments plus three-bedroom townhouses confirmed.","areas":"All 17 detailed layouts extracted; range endpoints and a townhouse layout visually inspected.","amenities":"Official pools, outdoor fitness, yoga, jogging, barbecue and play facilities checked.","pricing":"Developer’s current advertised selection distinguished from historic launch category prices and portal stock labels.","payment":"Launch fact-sheet indexed text and second indexed one-pager agree on nine stages; direct fact PDF access failed, so no visual verification claimed. Portal corroborates 10/70/20.","handover":"December 2028 estimate corroborated by Property Finder.","documents":"Official 20-page brochure downloaded; 18-page Emaar plan pack obtained from DXB Off Plan. Fact-sheet download unavailable through checked connections."},
+   "community":"Emaar South",
+   "overview":["The brochure emphasises shared outdoor life around the pool, gardens and barbecue spaces. Within the wider community, it identifies a golf clubhouse, retail plaza, dining, play areas and event spaces. These neighbourhood facilities should be checked for access terms and operating dates; they are not a promise of private golf membership with a home."],
+   "locationNote":"Golf Acres is in Emaar South within Dubai South. Emaar identifies Golf Views, Golf Point and Urbana III nearby. Check the selected unit’s position, orientation and actual route to everyday destinations rather than relying on promotional drive-time estimates.",
+   "priceLabel":"Developer-advertised available selection",
+   "priceNote":"Emaar displays AED 4,727,888 for its advertised selection and retains AED 950,000 in its launch key facts. The fact sheet lists category starts of AED 950,000, AED 1.75m and AED 2.49m for one-, two- and three-bedroom apartments, and AED 4.04m for townhouses. Property Finder shows a sold-out label and separate resale listings. Confirm the current unit price and availability directly.",
+   "paymentNote":"Reported launch terms are 10% booking, 70% during construction and 20% on completion. The dated stages below come from indexed launch-document text; the source PDF could not be reopened visually. Obtain the current signed schedule before relying on these historic dates.",
+   "handoverNote":"December 2028 is the reported estimated completion, corroborated by Property Finder. Current progress and contractual delivery require confirmation.",
+   "units":[
+    {"label":"1-bedroom apartment","area":"738.40–827.21 sq ft published total area","sourceIds":["plans"]},
+    {"label":"2-bedroom apartment","area":"1,219.66–1,731.05 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3-bedroom apartment","area":"1,804.35–2,255.15 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3-bedroom townhouse","area":"2,563.32–2,563.96 sq ft published total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"December 2024 · booking","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["facts"]},
+    {"stage":"August 2026 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2027 · 40% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2028 · 90% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Published mix","value":"The launch sheet lists 158 homes: 68 one-bedroom, 49 two-bedroom and 31 three-bedroom apartments, plus ten townhouses. These are total counts, not remaining stock.","sourceIds":["facts"]},
+    {"label":"Townhouse Type 1","value":"TH01 has one bedroom, a maid’s room and bathroom, laundry and a garden-access terrace downstairs. Two bedrooms, a store, walk-in wardrobe and balcony are upstairs.","sourceIds":["plans"]},
+    {"label":"Area definition","value":"Apartment totals include balconies. Three-bedroom Type 1, for example, separates 1,550.11 sq ft suite from 705.04 sq ft balcony. The range above uses floor-plan total areas, not the fact sheet’s ambiguous plot-area heading.","sourceIds":["plans","facts"]}
+   ],
+   "unresolved":["A directly accessible launch payment/fact PDF is still needed for visual reconfirmation; indexed text has been retained with this limitation.","Current stock, service charges, parking, final finishes, construction progress, community access and contractual handover need confirmation.","Project images remain illustrative; photography is deferred."]
+  }
+ }
+}

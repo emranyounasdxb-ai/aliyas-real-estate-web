@@ -1,0 +1,277 @@
+{
+  "id": "ellington-project-38",
+  "name": "The Sanctuary",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "The Sanctuary is Ellington’s villa community in Mohammed Bin Rashid City. The reviewed Waterside launch comprises four-, five- and six-bedroom homes with private pools, lifts and courtyard layouts.",
+    "areaId": "dubai-mbr-city",
+    "location": "Mohammed Bin Rashid City",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 17000000,
+    "handover": null,
+    "paymentPlan": "60/40 · original Waterside",
+    "amenities": [
+      "Private villa pools",
+      "Passenger lift in each villa",
+      "Courtyards and roof terraces",
+      "Nature playground",
+      "Lagoon connection",
+      "Dog park",
+      "Community clubhouse",
+      "Pocket seating areas"
+    ],
+    "brochureUrl": "https://thesanctuary.ellington.ae/downloads/The%20Sanctuary%20Project%20Brief.pdf",
+    "floorPlanUrl": "https://thesanctuary.ellington.ae/downloads/The%20Sanctuary%20Floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Sanctuary Waterside launch microsite",
+          "url": "https://thesanctuary.ellington.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "brief",
+          "label": "Ellington Sanctuary Waterside project brief",
+          "url": "https://thesanctuary.ellington.ae/downloads/The%20Sanctuary%20Project%20Brief.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "Ellington Sanctuary Waterside villa plans",
+          "url": "https://thesanctuary.ellington.ae/downloads/The%20Sanctuary%20Floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "payment",
+          "label": "Ellington Sanctuary original payment sheet",
+          "url": "https://thesanctuary.ellington.ae/downloads/The%20Sanctuary%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Sanctuary project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/the-sanctuary-by-ellington",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brief"
+        ],
+        "location": [
+          "developer",
+          "brief"
+        ],
+        "type": [
+          "developer",
+          "brief"
+        ],
+        "bedrooms": [
+          "developer",
+          "brief"
+        ],
+        "amenities": [
+          "developer",
+          "brief"
+        ],
+        "price": [
+          "brief",
+          "finder"
+        ],
+        "handover": [
+          "brief",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "brief",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brief"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Sanctuary microsite and own Waterside documents verified. Canonical nameSource ?p=40937 resolves One River Point and is not used as Sanctuary evidence.",
+        "location": "Official launch establishes Mohammed Bin Rashid City; portal identifies District 11. No assumed current area alias.",
+        "residences": "The Waterside first-cluster launch states 17 villas with four named families. Later Sanctuary clusters and Watercrest are not merged into this document scope.",
+        "areas": "All 34 plan pages read; actual numeric panels 4,9,14,19,24,29 visually checked for Retreat styles 1/2, Hideaway style 2, Escape style 1 and Oasis styles 1/2. Printed total and plot areas remain distinct.",
+        "amenities": "Own villa/communal facilities from Waterside brief and plans, without assuming access rights for later clusters.",
+        "pricing": "Actual brief page 33 prints original Oasis from AED 17 million. Current unit availability and price are not established.",
+        "payment": "Actual own one-page sheet visually checked: 20+eight 5+40=100. Calendar examples run April 2023–August 2025 and are historical, not restarted dates.",
+        "handover": "Actual brief page 8 forecasts Q4 2025; Property Finder gives January 2027. No own handover confirmation retrieved; headline null.",
+        "documents": "Working primary 41-page Waterside brief, 34-page floor plans and one-page payment sheet obtained. Six plan panels plus configuration, price and payment pages visually checked."
+      },
+      "community": "Mohammed Bin Rashid City",
+      "overview": [
+        "The Waterside collection brings individually planned villas into a gated lagoon-side setting."
+      ],
+      "locationNote": "Mohammed Bin Rashid City, Dubai; Property Finder places the community in District 11. Confirm the selected cluster and plot.",
+      "priceLabel": "Original Waterside launch reference",
+      "priceNote": "The Waterside guide advertises Oasis four-bedroom villas from AED 17 million. This historical launch reference does not establish present availability or price.",
+      "handoverNote": "The Waterside brief forecasts Q4 2025; Property Finder instead gives January 2027 for its Sanctuary listing. Different cluster scope and date revisions remain unresolved.",
+      "paymentNote": "The original Waterside sheet uses reservation-relative instalments with historical 2023–2025 calendar examples. Obtain the selected villa’s actual outstanding schedule.",
+      "units": [
+        {
+          "label": "4-bedroom Oasis · Style 1",
+          "area": "7,844.4 ft² total; plot 5,726.4–7,848.5 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Oasis · Style 2",
+          "area": "7,952.0 ft² total; plot 5,726.4–7,848.5 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Escape · Style 1",
+          "area": "9,984.9 ft² total; plot 8,763.7–9,025.1 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Hideaway · Style 2",
+          "area": "12,380.21 ft² total; plot 8,288.2 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6-bedroom Retreat · Style 1",
+          "area": "14,605.6 ft² total; plot 8,335.9–14,383.8 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6-bedroom Retreat · Style 2",
+          "area": "14,605.6 ft² total; plot 8,335.9–14,383.8 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "450 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "540 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "720 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "900 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release scope",
+          "value": "Reviewed numerical examples belong to the original Waterside launch.",
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "label": "Areas",
+          "value": "Plan total area and plot area measure different things; no internal-area conversion is inferred.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current handover certification and developer stock are unconfirmed.",
+        "Later clusters require their own documents; Waterside sizes and dates must not be applied to every Sanctuary release.",
+        "Current price, approved charges, access rights and signed contract terms require confirmation."
+      ]
+    }
+  }
+}

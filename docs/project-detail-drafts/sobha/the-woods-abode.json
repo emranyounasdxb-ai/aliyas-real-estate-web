@@ -1,0 +1,193 @@
+{
+  "id": "sobha-project-01",
+  "name": "The Woods Abode",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Woods Abode is a one- and two-bedroom apartment release at Sobha Sanctuary in Dubailand. Its published layouts separate the enclosed suite from balcony space, while landscaped resident facilities connect the homes with the wider park-focused community.",
+    "areaId": "dubai-sobha-sanctuary",
+    "location": "Sobha Sanctuary",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 1600000,
+    "handover": "2029 - developer catalogue estimate",
+    "paymentPlan": "20/20/60 - broker reference",
+    "amenities": [
+      "Pool deck",
+      "Yoga and meditation spaces",
+      "Outdoor fitness areas",
+      "Coworking space",
+      "Nature-themed children's play area",
+      "Reflexology path",
+      "Library",
+      "Planned nursery"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2026-08/The%20Woods%20Abode%20at%20Sobha%20Sanctuary_Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2026-08/The%20Woods%20Abode%20at%20Sobha%20Sanctuary_Brochure.pdf#page=25",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Sobha: The Woods Abode",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-sanctuary/the-woods-abode",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "The Woods Abode official brochure and residence plans",
+          "url": "https://sobharealty.com/sites/default/files/2026-08/The%20Woods%20Abode%20at%20Sobha%20Sanctuary_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "catalogue",
+          "label": "Sobha current property catalogue: delivery-year reference",
+          "url": "https://sobharealty.com/properties-in-uae",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "terms",
+          "label": "Impala: Woods Abode dated selection and payment reference",
+          "url": "https://impalarealestate.com/projects/the-woods-abode-at-sobha-sanctuary/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official",
+          "terms"
+        ],
+        "paymentPlan": [
+          "terms"
+        ],
+        "handover": [
+          "catalogue",
+          "terms"
+        ],
+        "units": [
+          "brochure",
+          "official"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated The Woods Abode official page and named brochure reviewed; no data transferred from another Woods release.",
+        "location": "Sobha Sanctuary/Al Yufrah setting verified; selected tower and neighbourhood details retained.",
+        "residences": "Own one/two-bedroom types identified independently of current sale-selection mix.",
+        "areas": "Primary web tables and own PDF examples read; printed suite/balcony/total labels retained. Representative named plan sheets visually inspected.",
+        "amenities": "Own official amenity list reviewed; nursery and wider shared facilities are planned, with access/delivery unconfirmed.",
+        "pricing": "Current dedicated-page amount distinguished from dated or launch references; no inventory claim adopted.",
+        "payment": "Named secondary aggregate totals 100; own developer documents omit a dated calendar, expressly recorded.",
+        "handover": "Current official catalogue lists 2029; narrower portal quarter is not a contractual guarantee.",
+        "documents": "Own official brochure downloaded and inspected; floor plans are within the 53-page brochure; a separate published pack was not found."
+      },
+      "community": "The Woods Abode - Sobha Sanctuary",
+      "overview": [
+        "Abode has its own floor-plan collection and B-series unit examples. A type letter can include several variants across different levels, so compare the actual unit number and balcony rather than relying on a rounded project-wide area."
+      ],
+      "locationNote": "Sobha locates The Woods Abode within Sobha Sanctuary in Al Yufrah, with road access through the surrounding Dubailand district. Confirm the selected building, route and outlook rather than treating a general community map as a unit pin.",
+      "priceLabel": "Developer-listed price guide",
+      "priceNote": "The current Sobha project page advertises AED 1.60m, subject to inventory. Its catalogue currently shows a two-bedroom selection. Impala lists lower-priced one-bedroom examples from an earlier dated selection; those are not confirmation that a home remains available at that price.",
+      "paymentNote": "Impala advertises 20% booking, 20% during construction and60% on handover. This is a broker reference; the reviewed official page and brochure do not provide a dated payment calendar. Obtain the developer-issued schedule for the chosen home.",
+      "handoverNote": "The current Sobha catalogue lists 2029. Secondary references quote Q4 2029; confirm the unit's contractual programme and handover arrangements.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "546.38 sq ft total; 494.17 suite + 52.20 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type B",
+          "area": "590.51-590.72 sq ft published total",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "963.69 sq ft published total",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "2-bedroom Type D",
+          "area": "826.56-826.67 sq ft published total",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "terms"
+          ]
+        },
+        {
+          "stage": "During construction - dates to confirm",
+          "percent": 20,
+          "sourceIds": [
+            "terms"
+          ]
+        },
+        {
+          "stage": "Handover reference",
+          "percent": 60,
+          "sourceIds": [
+            "terms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Own release identification",
+          "value": "The inspected Type A schedule lists B403-B1203 examples and separates amenity/community outlook labels by floor. These are plan references, not available inventory.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The live catalogue currently emphasises two-bedroom homes, while the dedicated brochure includes one-bedroom layouts. Confirm the available release and unit mix.",
+        "The displayed payment split is a secondary reference. Obtain the developer-issued dated schedule and final completion terms.",
+        "Confirm registered suite/balcony area, parking, final specification, service charges and current availability.",
+        "Amenity delivery, access rules and operating costs require confirmation. Photography remains illustrative.",
+        "Printed totals are retained: rounded suite and balcony components can differ from the published total by 0.01 sq ft."
+      ]
+    }
+  }
+}

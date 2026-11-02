@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-51","name":"Equiterra","developerSlug":"emaar",
+ "fields":{
+  "description":"Equiterra is a separate neighbourhood within Grand Polo Club & Resort, with three and four bedroom townhouses and five-bedroom residences. Its launch collection comprises 547 homes. Townhouse Styles B and C offer different layouts within four, six and eight-home rows, while the larger residences form a smaller part of the release.",
+  "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Townhouse / Villa","bedrooms":"3–5","price":3500000,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community polo fields","Clubhouse","Stables and riding arenas","Linear park","Community centre","Fitness area","Playground","Padel court","Swimming pools","Yoga platforms","Amphitheatre","Barbecue and bonfire area"],
+  "brochureUrl":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_GP_BROCHURE.pdf","floorPlanUrl":"https://www.madena.ae/api/assets/documents/projects/equiterra/floor-plans/0981dfd1b696ce0f.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Equiterra at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/equiterra-at-grand-polo-club-and-resort","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Equiterra brochure · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_GP_BROCHURE.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"plans","label":"Equiterra townhouse plans · Madena-hosted Emaar copy","url":"https://www.madena.ae/api/assets/documents/projects/equiterra/floor-plans/0981dfd1b696ce0f.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Equiterra fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_GP_FACTSHEET_5.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"payment","label":"Equiterra payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_GP_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Equiterra","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/equiterra","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["brochure"],"type":["official","facts"],"bedrooms":["official","facts"],"amenities":["brochure","facts"],"price":["official","facts"],"units":["plans","facts"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Equiterra page confirmed. Its brochure/plan buttons opened Equestra-labelled files; own Equiterra documents were located and used instead.",
+    "location":"Grand Polo Club & Resort confirmed; nearby destinations described without copying broker coordinates or travel guarantees.",
+    "residences":"Own 547-home mix includes three/four bedroom townhouses and 37 five-bedroom residences. Equiterra 2 and Equestra excluded.",
+    "areas":"All fifteen townhouse-plan pages reviewed and Style B visually checked. Five-bedroom drawing not found in two independent pack links; fact-sheet average explicitly retained instead of borrowing Equestra’s plans.",
+    "amenities":"Own brochure and fact sheet reviewed for sport, pool, landscape and equestrian facilities; delivery/access terms require confirmation.",
+    "pricing":"Official AED 3.5m headline distinguished from fact-sheet category averages of AED 3.6m, 4.7m and 10.8m.",
+    "payment":"Own payment and fact sheets visually checked. Eight stages sum to 100%; document numbering differs but dates and percentages agree.",
+    "handover":"August 2029 estimate agrees between Equiterra payment sheet and Property Finder.",
+    "documents":"Own brochure and townhouse plans linked as attributed Emaar copies. Five-bedroom plan remains an explicit document gap. Images unchanged."
+   },
+   "community":"Grand Polo Club & Resort",
+   "overview":["Equiterra’s brochure pairs a linear park setting with warm, neutral interiors and a shared outdoor recreation programme. Swimming pools, yoga platforms and a padel court sit alongside larger community destinations such as the clubhouse and riding arenas. An amphitheatre and barbecue area add places for informal gatherings. These are proposed community facilities; the opening timetable and any separate membership conditions should be checked before relying on them."],
+   "locationNote":"The community is in south-west Dubai. The brochure places Al Maktoum International Airport, The Oasis and Expo City among nearby reference destinations, with Downtown Dubai farther away. Check the selected home’s access road and actual travel route; brochure journey times are indicative.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar’s project page states prices from AED 3.5m. The Equiterra fact sheet gives average launch prices of AED 3.6m, AED 4.7m and AED 10.8m for three, four and five bedroom homes. Averages are not entry prices or current offers; request a dated quotation for the particular unit.",
+   "paymentNote":"The original schedule allocates 10% on booking, four further 10% instalments, two 15% stages linked to 60% and 80% construction, then 20% on estimated completion. The payment sheet counts the booking differently from the fact sheet, but their dates and percentages agree. Past instalments require a refreshed purchase schedule.",
+   "handoverNote":"August 2029 is the estimated completion month on the Equiterra payment document and Property Finder. It is not a guarantee of possession; confirm the current programme and contractual terms.",
+   "units":[
+    {"label":"3 bedroom townhouse · Style B variants","area":"2,163.44–2,178.53 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · Style C","area":"2,171.08 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom townhouse · Style B","area":"2,471.50 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom townhouse · Style C","area":"2,482.70 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom residence · category average, exact plan pending","area":"5,048 sq ft average built-up area","sourceIds":["facts"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 60% construction","percent":15,"sourceIds":["payment"]},
+    {"stage":"July 2028 · 80% construction","percent":15,"sourceIds":["payment"]},
+    {"stage":"August 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Equiterra launch mix","value":"547 homes: 326 three-bedroom, 184 four-bedroom and 37 five-bedroom residences. Category-average plot areas are respectively 1,594, 3,029 and 5,354 sq ft. These are not exact plot measurements for an available home.","sourceIds":["facts"]},
+    {"label":"Townhouse plans","value":"Styles B and C are arranged in four, six and eight-home rows. The reviewed Style B three-bedroom drawing places all bedrooms upstairs, with a ground-floor maid’s room, living/dining area, kitchen and terrace. The published total includes suite, garage and balcony/terrace components.","sourceIds":["plans"]},
+    {"label":"Area discrepancies","value":"Style B’s 2,171.42 sq ft variant carries differing metric figures and a small component-sum discrepancy on its mirrored drawing. Published square-foot totals are retained; obtain the specific unit’s approved area schedule before purchase.","sourceIds":["plans"]},
+    {"label":"Document scope","value":"The linked fifteen-page floor-plan pack covers three and four bedroom townhouses. The five-bedroom figure is a fact-sheet average, not a verified individual layout. The official page’s Equestra download targets have been replaced with Equiterra-labelled copies here.","sourceIds":["official","plans","facts"]}
+   ],
+   "unresolved":["The exact five-bedroom floor plan and area range remain pending; no Equestra layout has been substituted.","Current price, unit stock and payment obligations require confirmation; Property Finder displays an out-of-stock notice.","Confirm individual plot measurements, finishes, parking, service charges and equestrian or clubhouse access terms.","Current construction progress and contractual completion are not independently established.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

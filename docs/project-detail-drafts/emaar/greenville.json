@@ -1,0 +1,52 @@
+{
+ "id":"emaar-project-77","name":"Greenville","developerSlug":"emaar",
+ "fields":{
+  "description":"Greenville brings three- and four-bedroom townhouses to Emaar South, with Lyra and Zora facade options. The homes sit in four-unit groups: three-bedroom houses occupy the middle positions, while four-bedroom layouts have an additional guest bedroom downstairs. A rear terrace extends the ground-floor living space outdoors.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":3200000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community centre","Adult and children’s swimming pools","Gym","Multipurpose room","Adventure playgrounds","Themed gardens","Sports courts","Jogging and cycling paths","Linear park"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/GreenVille_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/GreenVille_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Greenville at Emaar South","url":"https://www.emaar.com/en/properties/greenville-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"brochure","label":"Emaar: Greenville brochure","url":"https://www.emaar.com/cms-media/uploads/GreenVille_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Greenville floor plans","url":"https://www.emaar.com/cms-media/uploads/GreenVille_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenville/GREENVILLE_ES_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":140},
+    {"id":"payment","label":"Emaar launch payment schedule, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenville/GREENVILLE_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"finder","label":"Property Finder: Greenville","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenville","kind":"portal","checkedOn":"2026-10-31","derivedWords":100}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","facts"],"price":["official","facts","finder"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{"identity":"Greenville distinguished from the separate Greenville 2 phase.","location":"Emaar South community checked; mapped to Dubai South.","residences":"Lyra and Zora three- and four-bedroom, two-level townhouses confirmed.","areas":"Eight detailed floor-plan area tables visually checked, including mirrored layouts.","amenities":"Official project amenities checked against the launch sheet and brochure.","pricing":"AED 3.2m developer headline and AED 3.8m four-bedroom launch basis recorded; portal stock/price differences disclosed.","payment":"Nine dated launch stages visually checked; percentages total 100.","handover":"March 2029 estimated completion corroborated by Property Finder.","documents":"Official 24-page brochure and 11-page plans inspected; fact and payment copies attributed."},
+   "community":"Emaar South",
+   "overview":["Greenville’s brochure places family recreation around gardens, play areas and outdoor routes. Earthy interior colours and large living areas carry that quieter character into the homes. Nearby community facilities include a nursery, mosque and park, while the wider Emaar South plan includes retail, dining and a golf clubhouse."],
+   "locationNote":"Greenville is within Emaar South in Dubai South, with access towards Al Maktoum International Airport and Expo City Dubai. Wider-community golf and retail facilities should not be treated as private facilities included with every townhouse; confirm access, completion and the selected plot’s outlook.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar’s page advertises AED 3.2m. The launch fact sheet lists three-bedroom homes from AED 3.2m and four-bedroom homes from AED 3.8m. Property Finder separately displays a market-linked AED 3.4m headline and a sold-out label. These sources do not establish Aliyas stock or a current developer allocation; obtain a dated unit quotation.",
+   "paymentNote":"The launch schedule is 10% at booking, seven further 10% instalments, and 20% on estimated completion. Property Finder corroborates 10/70/20. Historic dates below are the published launch schedule, not a new purchaser’s payment instructions.",
+   "handoverNote":"The launch payment document estimates March 2029 completion, matching Property Finder’s Q1 2029 date. Delivery remains subject to the applicable sale contract and current developer confirmation.",
+   "units":[
+    {"label":"3 bedroom · Lyra","area":"2,417.79 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom · Zora","area":"2,450.40 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Lyra","area":"2,708.42 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Zora","area":"2,766.86 sq ft published total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"October 2024 · booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Phase size","value":"The launch fact sheet identifies 140 homes: 70 three-bedroom and 70 four-bedroom townhouses. These counts describe the phase, not remaining inventory.","sourceIds":["facts"]},
+    {"label":"Lyra three-bedroom arrangement","value":"Bedrooms are upstairs, with a main-suite walk-in wardrobe and balcony. The ground floor has a maid’s room and bathroom, laundry, powder room, kitchen and living/dining space; the carport is at the front.","sourceIds":["plans"]},
+    {"label":"Area basis","value":"Plan totals include garage and balcony/terrace allocations. For example, Lyra four-bedroom layouts comprise 2,224.58 sq ft suite, 363.07 sq ft garage and 120.77 sq ft balcony/terrace. They are not plot-area figures.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Plot sizes, available units, service charges, current construction progress and contractual completion need current confirmation.","Confirm final finishes, landscape scope, parking allocation and community access terms for the selected home.","Images remain illustrative; project photography is deferred."]
+  }
+ }
+}

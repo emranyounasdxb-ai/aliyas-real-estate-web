@@ -1,0 +1,204 @@
+{
+  "id": "sobha-project-11",
+  "name": "The Mirage",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Mirage is a corner-positioned residential tower in Sobha Central on Sheikh Zayed Road. The developer’s current page focuses on one-bedroom layouts; an expanded branded brochure also documents two- and three-bedroom homes.",
+    "areaId": "dubai-sobha-central",
+    "location": "Sobha Central",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1940000,
+    "handover": null,
+    "paymentPlan": "60/40 · reported aggregate plan",
+    "amenities": [
+      "Leisure pool",
+      "Calisthenic gym",
+      "Family BBQ and gathering area",
+      "Picnic lawn",
+      "Dog park",
+      "Jacuzzi"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-11/The%20Mirage%20at%20Sobha%20Central%20%281%29.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-11/The%20Mirage%20Floor%20Plans_0.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha The Mirage official page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-central/the-mirage",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Mirage official 44-page brochure",
+          "url": "https://sobharealty.com/sites/default/files/2025-11/The%20Mirage%20at%20Sobha%20Central%20%281%29.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plans",
+          "label": "Sobha Mirage official 23-page floor plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-11/The%20Mirage%20Floor%20Plans_0.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "expanded",
+          "label": "Sobha Mirage expanded 54-page branded brochure, Mitchell’s copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sobha-central-the-mirage/SOBHA_CENTRAL_THE_MIRAGE_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut Mirage launch guide and completion reference",
+          "url": "https://www.bayut.com/for-sale/apartments/dubai/sobha-central/the-mirage-at-sobha-central/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Mirage contrasting completion estimate",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-mirage",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "calendar",
+          "label": "Mitchell’s Mirage aggregate plan and attributed register reference",
+          "url": "https://www.mitchellscommercialrealty.com/projects/sobha-central-the-mirage",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "expanded"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer",
+          "expanded"
+        ],
+        "bedrooms": [
+          "plans",
+          "expanded"
+        ],
+        "price": [
+          "bayut"
+        ],
+        "paymentPlan": [
+          "calendar",
+          "bayut"
+        ],
+        "handover": [
+          "bayut",
+          "finder",
+          "calendar"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans",
+          "expanded"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "expanded"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Mirage tower documents, not generic Central or other towers.",
+        "location": "Own official Sheikh Zayed Road address checked.",
+        "residences": "Official site currently shows one bedroom; expanded branded54-page pack visibly adds two/three. Scope difference disclosed.",
+        "areas": "Official plans pages4,8,18 and expanded pages45,53 visually inspected.",
+        "amenities": "Six own official page facilities reviewed; shared facilities not treated as private.",
+        "pricing": "Bayut historical AED1.94m; current official page no price.",
+        "payment": "Independent portals/broker corroborate60/40; no verified dated official instalment sheet.",
+        "handover": "Public2030 and2031 dates conflict; headline left null.",
+        "documents": "Official44-page brochure/23-page plans and expanded54-page broker-hosted branded pack downloaded; reuse budget combined below200 for overlapping material."
+      },
+      "community": "The Mirage · Sobha Central",
+      "overview": [
+        "The corner tower’s layouts respond to different orientations, including the community and Sheikh Zayed Road. The cited one-bedroom designs have a utility area, powder room and balcony, while the larger three-bedroom plan separates service accommodation."
+      ],
+      "locationNote": "Within Sobha Central on Sheikh Zayed Road. Confirm the tower access, unit level and transport route; marketed city and sea-view labels apply to specific orientations.",
+      "priceLabel": "Portal-reported launch reference · reconfirm",
+      "priceNote": "Bayut publishes AED 1.94m as launch price. The current official project page reviewed contains no live price list. This historical reference does not establish current stock or pricing of the expanded larger layouts.",
+      "paymentNote": "Bayut and the broker project brief publish 60% during construction and 40% on completion. No verified dated developer calendar was retrieved; booking timing, construction milestones and transfer balances need a current unit-specific schedule.",
+      "handoverNote": "Bayut gives Q4 2030; Property Finder instead reports January 2030. Mitchell’s attributes December 2031 to the wider Sobha Central register entry. That secondary register claim is not independently verified here, so no single confirmed headline date is assigned.",
+      "units": [
+        {
+          "label": "1-bedroom Luxe Type A · official pack",
+          "area": "648.10–648.21 sq ft total, including balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Premium Type D variant 1 · official pack",
+          "area": "786.84 sq ft total: 704.82 suite + 82.02 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A · expanded pack",
+          "area": "875.11 sq ft total: 782.86 suite + 92.25 balcony",
+          "sourceIds": [
+            "expanded"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · expanded pack",
+          "area": "1,861.61 sq ft total: 1,677.12 suite + 184.49 balcony",
+          "sourceIds": [
+            "expanded"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Construction · booking included; dates unconfirmed",
+          "percent": 60,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 40,
+          "sourceIds": [
+            "calendar"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "A current approved unit schedule is needed to reconcile the one-bedroom website selection with the expanded brochure mix. Maid/powder rooms are not extra bedrooms.",
+        "No signed current completion schedule, developer price list, service charge or parking allocation retrieved.",
+        "Public delivery references conflict and do not establish a contractual handover. Brochure floor plans are indicative. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

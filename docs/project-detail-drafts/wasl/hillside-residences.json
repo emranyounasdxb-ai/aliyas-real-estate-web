@@ -1,0 +1,307 @@
+{
+  "id": "wasl-project-09",
+  "name": "Hillside Residences",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Hillside Residences is Wasl’s freehold collection in Wasl Gate, combining apartments with multilevel duplex, penthouse and skyvilla layouts.",
+    "areaId": "dubai-wasl-gate",
+    "location": "Wasl Gate",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 850000,
+    "handover": null,
+    "paymentPlan": "40/60",
+    "amenities": [
+      "Swimming pools",
+      "Gyms",
+      "Children’s play areas",
+      "Barbecue areas",
+      "Landscaped walkways",
+      "Nearby Central Park"
+    ],
+    "brochureUrl": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+    "floorPlanUrl": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Hillside Residences project guide",
+          "url": "https://www.wasl.ae/en/project/wasl-gate/hillside-residences",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "release",
+          "label": "Wasl Hillside launch announcement · 22 November 2023",
+          "url": "https://www.wasl.ae/en/mediacentre/press-releases/wasl-launches-premium-hillside-residences-project-wasl-gate",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Hillside branded brochure and H1 plans · portal-hosted 61 pages",
+          "url": "https://new-projects-media.propertyfinder.com/project/7d3f0e92-1d98-4b0e-8371-d29ccc6c5365/brochure/application/b9XEkluo1EqW2HEtY5aPWs43nSdMuQVIkVeztaizBkk%3D/original.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Hillside Residences 1 reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/hillside-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "release"
+        ],
+        "location": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "bedrooms": [
+          "release"
+        ],
+        "price": [
+          "release"
+        ],
+        "priceLabel": [
+          "release"
+        ],
+        "priceNote": [
+          "release"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "unresolved": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "developer",
+          "brochure"
+        ],
+        "paymentNote": [
+          "developer",
+          "brochure"
+        ],
+        "handover": [
+          "release",
+          "brochure",
+          "finder"
+        ],
+        "handoverNote": [
+          "release",
+          "brochure",
+          "finder"
+        ],
+        "facts": [
+          "release",
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected09whole Hillside record preserved. Own 22Nov2023 release announces819 homes/1–4BR including duplexes and penthouses. PDF summary covers15 buildings, original numeric sheets H1 A–D only; other Hill2/3 samples not assumed identical.",
+        "location": "Own release and guide explicitly Wasl Gate in Jebel Ali; exact dubai-wasl-gate registry. Main page 1–3 tabs not total family inventory; primary release and actual 4BR drawing support fourth-bedroom family.",
+        "residences": "Actual original61p brochure p22–28,30–34 all visible unit drawings read. 1BR5variants,2BR4variants,3BR4variants,2BRduplex/penthouse,3BRskyvilla/penthousevariants,4BRskyvilla. Seven published representative numeric rows omit corrupted four-bedroom size. All multilevel totals whole-home; maids and study not counted as bedrooms.",
+        "areas": "Actual p22 1A818.70/76.06,p25 2A1283.27/119.22,p28 3D1930.51/179.35,p30 2DXA1/A2both1738.59/161.52,p31 3skyDXA3109.26/288.86 and3PHDXB3213.24/298.52. p34 4skyDXA table copies p33 3PHDXF exact2530.06+497.72=3027.78/281.29 despite different4BRdrawing and summary3955–4052; excluded numericrow. p28 3C visible total162.59underft²/1750.1underm² swapped; excluded. p27 3A terrace167.57ft²/13.26m² inconsistent; excluded. p25 2A1096.2+187.08=1283.28vs1283.27; p31 3sky2491.31+617.96=3109.27vs3109.26; printed totals retained disclosed minorrounding.",
+        "amenities": "Own project guide pool/gym/kids/BBQ/walkways/nearbypark; actualPDF5/8 podiumpool,yoga,play,BBQ/tabletennis and widercentralpark scoped. Not everyfacilityprivateeachunit; no freeclubmembership invented.",
+        "pricing": "Primary launch22Nov2023 explicitly1BR850k/2BR1.29m/3BR2m/4BR4m; only historical1BRreferencepublic. Fresh PF metadata/FAQsame850k but no currentprimaryunitavailablequote; no guaranteedstockclaims.",
+        "payment": "ActualPDF3 eight5% payments booking/month5/10/15/20/26/32/38 plus60handover=100 and40beforehandover. Currentownmain40/60 corroborates. PF5/35/60 aggregate samefirstschedule butFAQalternative60down/40handover not merged. No automaticoriginalrelativecalendarstartingtoday.",
+        "handover": "Primary launchQ22027,actualbrochure2anticipatedQ32027,PFHillside1Q42027; headline null. Different release references preserved, no datesilentcorrection or completionclaim.",
+        "documents": "Ownsite no originalbrochuredownload visible. Genuine branded61pPFhostPDF downloaded20029.9MB, portal sourcekind honest. Numericactual22/23/24/25/26/27/28/30/31/32/33/34 andfacts2/payment3/amenity5/8 read<=1700px. DRElink200HTML excluded; brokerdomainfetchfailed; officialfilenameprobe404; Dubizzlepublicpack403 andGCC403 excluded withoutbypass. No additional published current signedcontract retrieved. UnderlyingPDFpool200 inclusiveallplans/facts/payment;genericcommunity0. Imagesdeferred."
+      },
+      "community": "Wasl Gate",
+      "overview": [
+        "H1 examples; verify other releases separately."
+      ],
+      "locationNote": "Wasl Gate, Jebel Ali, with access to Sheikh Zayed Road and Energy Metro Station.",
+      "priceLabel": "Historical launch · 22 November 2023",
+      "priceNote": "Wasl’s 2023 release advertised one-bedroom homes from AED 850,000. This is historical launch pricing, not a verified available offer.",
+      "paymentNote": "Wasl states 40/60. Table reproduces the original booking-relative instalments; confirm current contractual dates.",
+      "handoverNote": "Wasl’s launch release forecast Q2 2027; the branded factsheet says Q3 2027; Property Finder’s phase-one record says Q4 2027. Contractual delivery remains unverified.",
+      "units": [
+        {
+          "label": "H1 · 1BR A",
+          "area": "818.70 ft² / 76.06 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 2BR A",
+          "area": "1,283.27 ft² / 119.22 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 3BR D",
+          "area": "1,930.51 ft² / 179.35 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 2BR duplex DX A1",
+          "area": "1,738.59 ft² / 161.52 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 2BR penthouse DX A2",
+          "area": "1,738.59 ft² / 161.52 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 3BR skyvilla DX A",
+          "area": "3,109.26 ft² / 288.86 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "H1 · 3BR penthouse DX B",
+          "area": "3,213.24 ft² / 298.52 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original · booking",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 5",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 10",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 15",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 20",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 26",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 32",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Month 38",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 60,
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original announced collection",
+          "value": "819 homes; the launch includes one- to four-bedroom residences.",
+          "sourceIds": [
+            "release"
+          ]
+        },
+        {
+          "label": "Brochure configuration",
+          "value": "14 residential buildings plus one amenities block; G+5–G+9.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Totals include terraces across all levels.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "H1’s four-bedroom drawing repeats a three-bedroom table: 3,027.78 ft² versus summary 3,955–4,052. Four-bedroom size is unverified.",
+        "Three-bedroom Type C swaps total columns; Type A’s terrace units disagree. Minor rounding discrepancies occur elsewhere. Obtain corrected plans.",
+        "Current inventory, revised payment dates, charges and completion certification remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

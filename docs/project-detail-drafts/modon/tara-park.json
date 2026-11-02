@@ -1,0 +1,257 @@
+{
+  "id": "modon-project-03",
+  "name": "Tara Park",
+  "developerSlug": "modon",
+  "fields": {
+    "description": "Tara Park combines apartments, landscaped podiums and shared leisure spaces opposite Reem Mall.",
+    "areaId": "abu-dhabi-al-reem-island",
+    "location": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1680000,
+    "handover": null,
+    "paymentPlan": "40 / 60",
+    "amenities": [
+      "Planned swimming pools",
+      "Planned padel court",
+      "Planned sports court",
+      "Planned gym and yoga studio",
+      "Planned children’s playroom",
+      "Planned coworking and study areas",
+      "Planned shaded garden lounge",
+      "Planned communal dining lounge"
+    ],
+    "brochureUrl": "https://www.madena.ae/api/assets/documents/projects/tara-park/brochure/e83b3ded2d658a89.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/tara-park/floor-plans/91553d07ae0564fc.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Tara Park: current Modon project and FAQs",
+          "url": "https://www.modon.com/real-estate/tara-park",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "Tara Park: Modon sell-out announcement, 29 April 2026",
+          "url": "https://www.modon.com/about-modon/media-centre/details/2026/04/29/modon-announces-the-sell-out-of-tara-park-on-reem-island--generating-approximately-aed-2-billion-in-sales",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "brochure",
+          "label": "Tara Park: original phase-one brochure, broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/tara-park/brochure/e83b3ded2d658a89.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Tara Park: original five typical layouts, broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/tara-park/floor-plans/91553d07ae0564fc.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "portal",
+          "label": "Tara Park: earlier-phase Property Finder reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/modon-properties/tara-park",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "community": "Tara Park, Reem Island",
+      "overview": [
+        "Original brochure: two-tower first phase. April 2026 announcement: six towers, 834 homes. Current FAQ: two towers, 494 homes. Scope requires clarification."
+      ],
+      "locationNote": "Reem Island, Abu Dhabi, opposite Reem Mall. No travel-time guarantee is implied.",
+      "priceLabel": "Developer average · 1BR apartment",
+      "priceNote": "Modon averages: AED 1.68m / 2.68m / 3.68m for 1 / 2 / 3BR; portal launch reference AED 1.64m. Not live quotations.",
+      "paymentNote": "Current developer: 5/35/60; earlier portal: 5/45/50. Confirm the selected phase’s schedule.",
+      "handoverNote": "Current developer: early Q2 2030; earlier-phase portal: December 2029. Confirm release-specific completion.",
+      "units": [
+        {
+          "label": "1BR typical",
+          "area": "81.5–91.3 m² GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR corner",
+          "area": "121.2–169 m² GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR middle",
+          "area": "121.2–169 m² GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR corner",
+          "area": "146.8–190.6 m² GSA, as printed",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR middle",
+          "area": "146.8–190.6 m² GSA, as printed",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · current developer FAQ",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction",
+          "percent": 35,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 60,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Whole development · 29 April 2026",
+          "value": "834 apartments across six towers; developer reported sell-out.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Current FAQ collection",
+          "value": "494 homes: 156 one-bedroom, 310 two-bedroom and 28 three-bedroom apartments; tower scope requires clarification.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Current webpage area guides",
+          "value": "1BR 81–103; 2BR 120–214; 3BR 186–238 m².",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Printed plan ranges differ from current webpage, especially three-bedroom GSA. Confirm the contracted revision.",
+        "Selected-home availability, original dated payment sheets and phase-specific construction progress remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected modon-project-03 TaraPark whole project. Actual original brochure5 calls firstphase two towers. Primary29Apr2026 release834/six towers; currentFAQ494/two towers (156+310+28=494), scope conflict explicit, not silently merged or assumed exact phase mapping.",
+        "location": "Primary project ReemIslandAbuDhabi oppositeReemMall. Exact existing central AlReemIsland mapping must be checked. Mapimage filename Bashayer excluded as location proof. GenericReemsource0.",
+        "residences": "Currentprimary1–3BR. Five actual typical plan drawings visuallyread including two2BR and two3BR layouts, maids not extra bedrooms. No fabricated total49 frombroker or completed status adopted.",
+        "areas": "Actual five original PDF panels1–5 GSA:1BR81.5–91.3;2BRcorner/middle121.2–169;3BRcorner/middle146.8–190.6sqm asprinted. Currentown81–103/120–214/186–238different, disclosed. No inferred correction to191–247 from inaccessiblefactsheet or net-area assumption.",
+        "amenities": "Currentown plannedpool/padel/court/gym/yoga/kids/cowork/garden/dining supported. Actualbrochure10/12/25read, no universal completion/operation or furnishing guarantee. Homeautomation primaryFAQ not overpromised as suppliedinstalledsystem.",
+        "pricing": "Own exactAVERAGE1.68/2.68/3.68m; headline1.68clearlyaverage1BR notFROM. PFfreshordinaryHTML1.64mearlierlaunch only. No selectedinventory orreturns invented. Primarysellout29Apr2026historical notresaleunavailability.",
+        "payment": "OwncurrentFAQexplicit5+35+60=100 and40/60; stages primary aggregate, no inventeddatecalendar. PFactualearlier5+45+50=100attributed. TwoKonnectoriginalfacts/brochurelinks403excluded; no originaldatedpaymentdocumentvisuallyclaimed.",
+        "handover": "CurrentowncardsQ22030/FAQearlyQ22030 versusPFDecember2029, differentreleasecompletionnotuniversallyestablished, headlineNULL. No completedstockclaim orconstructionpercentage assumed frombroker.",
+        "documents": "32poriginalbrochure26715880bytes and5poriginalplans964373 fromMadena ordinaryGET200. Actualall5fullplans/numericpanels read1750px plusbrochure5/10/12/25/31. PDFbrochuremetadataModDate9Mar2026 notassertedpublication. Konnect2publicPDF403 notbypassed; Metropolitan403excluded. SameunderlyingPDF200 (40brochure160plans). GenericModon/Reem0."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "overview": [
+          "brochure",
+          "launch",
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "paymentNote": [
+          "developer",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "launch",
+          "developer"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "portal"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

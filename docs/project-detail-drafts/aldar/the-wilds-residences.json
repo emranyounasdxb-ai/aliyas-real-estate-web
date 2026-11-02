@@ -1,0 +1,240 @@
+{
+  "id": "aldar-project-08",
+  "name": "The Wilds Residences",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Wilds Residences is Aldar’s apartment and duplex collection within The Wilds in Dubai. The February 2026 launch introduces 740 homes in six mid-rise buildings, with one to three bedroom apartments and two to three bedroom duplexes. It is a separate release from the community’s Cassia and Ravenna villas.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1600000,
+    "handover": "Q2 2030 · developer estimate",
+    "paymentPlan": "65/35 · original reference",
+    "amenities": [
+      "Infinity pool and splash pad",
+      "Spa",
+      "Pilates and yoga studio",
+      "Family, kids and teens lounges",
+      "Theatre room",
+      "Art studio",
+      "Co-working space",
+      "Discovery and adventure play"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/2b0a4001a1b049acb5795c7d51ce0d19.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/15dda434aa3b432999b23c4cb933eccc.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: The Wilds Residences",
+          "url": "https://www.aldar.com/properties/en/wilds/residences",
+          "kind": "developer",
+          "derivedWords": 120,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: The Wilds Residences launch",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-introduces-the-wilds-residences",
+          "kind": "developer",
+          "derivedWords": 160,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "facts",
+          "label": "Aldar: The Wilds Residences factsheet · public copy",
+          "url": "https://jiwak.com/files/properties/7e0935fe3b128cc99d0f4fce03d7ea5029c164c1.pdf",
+          "kind": "official-document",
+          "derivedWords": 190,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: The Wilds Residences brochure · public copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/2b0a4001a1b049acb5795c7d51ce0d19.pdf",
+          "kind": "official-document",
+          "derivedWords": 160,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "plans",
+          "label": "Aldar: The Wilds Residences plans · public copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/15dda434aa3b432999b23c4cb933eccc.pdf",
+          "kind": "official-document",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: The Wilds Residences launch guide",
+          "url": "https://www.bayut.com/for-sale/property/dubai/the-wilds/the-wilds-residences/",
+          "kind": "portal",
+          "derivedWords": 195,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "alternative",
+          "label": "DXB Residence: The Wilds Residences payment alternatives",
+          "url": "https://dxbresidence.com/en/projects/the-wilds-residences/",
+          "kind": "broker",
+          "derivedWords": 70,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "location": [
+          "official",
+          "brochure"
+        ],
+        "type": [
+          "facts",
+          "launch"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "bayut"
+        ],
+        "price": [
+          "facts",
+          "bayut"
+        ],
+        "paymentPlan": [
+          "facts",
+          "bayut",
+          "alternative"
+        ],
+        "handover": [
+          "facts",
+          "bayut"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "facts": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated 2026 apartment release verified from Aldar announcement, landing and branded factsheet; villa and mansion phases excluded.",
+        "location": "Official material places the community beside Majan and Al Barari. Existing Dubailand area mapping used, with the more detailed locality in the location note.",
+        "residences": "One to three bedroom apartments and two/three bedroom duplexes confirmed; maid-room variants identified in branded plans.",
+        "areas": "Five representative apartment/duplex designs visually reviewed. Drawings do not print aggregate areas, so the unit figures are attributed Bayut launch examples.",
+        "amenities": "Residence-specific facilities separated from wider Wilds masterplan facilities and optional paid services.",
+        "pricing": "Branded factsheet and Bayut agree on original AED 1.6m one-bedroom reference; no current available inventory inferred.",
+        "payment": "Branded factsheet gives 65/35, supported by Bayut 5/60/35. Broker also lists a 50/50 alternative, so current terms require unit-specific confirmation.",
+        "handover": "Branded project factsheet explicitly states Q2 2030, corroborated by Bayut. Villa 2029 delivery not transferred to apartments.",
+        "documents": "Twenty-eight-page brochure, eight-page plan pack and one-page branded factsheet downloaded from public copies. Facts table and five complete apartment/duplex designs visually checked."
+      },
+      "community": "The Wilds Residences · Dubailand",
+      "overview": [
+        "The community arrangement connects the apartment buildings with landscape and outdoor routes. The wider Wilds setting includes a central park and The Nest pavilion, which provides spaces for learning, gathering and nature-related activities. The residence facilities add indoor social and creative spaces to that outdoor setting."
+      ],
+      "locationNote": "The Wilds is beside Majan and Al Barari, with access from Sheikh Mohammed bin Zayed Road. Property portals refer to Wadi Al Safa 3. Dubailand is the existing catalogue area; the project is not in Dubai South despite some broad marketing descriptions of its position.",
+      "priceLabel": "Original one-bedroom launch reference",
+      "priceNote": "The branded factsheet and Bayut record AED 1.6m for the original one-bedroom starting guide. Releases, selected layouts and resale offers carry different prices. Confirm a current itemized quotation before relying on this reference.",
+      "paymentNote": "The original factsheet uses 65/35; Bayut breaks that into 5% booking, 60% construction and 35% handover. DXB Residence also lists a 10/40/50 alternative. The selected contract determines eligibility and dates; the historical launch schedule is not a new booking offer.",
+      "handoverNote": "The Wilds Residences factsheet estimates Q2 2030, also reported by Bayut. This apartment schedule is separate from The Wilds villa phase. Confirm the selected building’s current handover programme with Aldar.",
+      "units": [
+        {
+          "label": "1-bedroom apartment · Type A",
+          "area": "893 sq ft · portal-published launch example",
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment · Type A",
+          "area": "1,517 sq ft · portal-published launch example",
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "label": "3-bedroom apartment with maid’s room · Type A",
+          "area": "2,087 sq ft · portal-published launch example",
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "label": "2-bedroom duplex · Type B",
+          "area": "2,356 sq ft · portal-published launch example",
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex with maid’s room · Type B",
+          "area": "2,840 sq ft · portal-published launch example",
+          "sourceIds": [
+            "bayut"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original booking reference",
+          "percent": 5,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 60,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 35,
+          "sourceIds": [
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Plans and area basis",
+          "value": "The branded layouts show balcony or terrace spaces and the duplex upper/lower floors. The referenced square-foot areas are portal launch examples; request the signed unit schedule to establish internal and external areas.",
+          "sourceIds": [
+            "plans",
+            "bayut"
+          ]
+        },
+        {
+          "label": "Community access",
+          "value": "The brochure distinguishes the apartment collection’s facilities from shared masterplan amenities such as nature trails, sports courts and The Nest. Confirm each facility’s opening date and access arrangements.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Selected unit, balcony measurement basis, parking and current stock need confirmation.",
+        "Branded full unit-area schedules and current payment instalment dates were not obtained.",
+        "Published service-charge estimates differ between brokers; no charge has been entered as a confirmed fact.",
+        "School opening, retail delivery and optional paid services require current confirmation."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

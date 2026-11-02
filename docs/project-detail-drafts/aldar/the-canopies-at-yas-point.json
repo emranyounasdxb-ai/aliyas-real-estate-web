@@ -1,0 +1,228 @@
+{
+  "id": "aldar-project-06",
+  "name": "The Canopies at Yas Point",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Canopies at Yas Point is a collection of 592 apartments across six midrise buildings on the northern shore of Yas Island. Gardens and a planned waterfront promenade connect the residential buildings, with homes ranging from studios to three-bedroom apartments.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1650000,
+    "handover": "Q3 2030 · broker-reported estimate",
+    "paymentPlan": "55/45 advertised plan",
+    "amenities": [
+      "Residents' clubhouse",
+      "Coworking space",
+      "Swimming pools",
+      "Children's splash area",
+      "Indoor and outdoor fitness spaces",
+      "Yoga and tai chi areas",
+      "Outdoor kitchen",
+      "Gardens and walking routes",
+      "Residents' lounge",
+      "Planned waterfront retail and dining"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/05ff89c092a74c0eac4d73ab933b2ef8.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/1740350ed9fa4a14bcff4493cfa74d49.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "launch",
+          "label": "Aldar launch announcement, 21 July 2026",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/260721%2BAldar%2BPress%2BRelease%2BThe%2BCanopies%2BEN.pdf/b450101084f411f1a1278e5067423c96",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar Canopies brochure, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/05ff89c092a74c0eac4d73ab933b2ef8.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "plans",
+          "label": "Canopies floor plans, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/1740350ed9fa4a14bcff4493cfa74d49.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Canopies fact sheet, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/5b200a14311c4edeb1f3dfc2eaf73aaf.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "market",
+          "label": "DXB Residence: Canopies project details",
+          "url": "https://dxbresidence.com/en/projects/the-canopies-at-yas-point/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts",
+          "plans"
+        ],
+        "price": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "market"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "amenities": [
+          "launch",
+          "brochure"
+        ],
+        "units": [
+          "facts",
+          "plans",
+          "market"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "592 homes in six buildings, first release at Yas Point, established by Aldar launch announcement.",
+        "location": "Northern shore of Yas Island confirmed by developer.",
+        "residences": "Studio through three bedrooms; ancillary maid and study rooms not counted as half bedrooms.",
+        "areas": "Fact sheet's overall range separated from broker-reported type averages; plan pack visually indexed.",
+        "amenities": "Official launch and own brochure reviewed, with future promenade and retail clearly described as planned.",
+        "pricing": "AED 1.65m launch reference from fact sheet, separate from later broker-selected inventory prices.",
+        "payment": "55/45 and 5% booking verified in fact sheet; no dated instalment calendar established.",
+        "handover": "Fact sheet specifies 2030; Q3 comes from broker and remains attributed.",
+        "documents": "Own 36-page brochure, 16-page floor plans and one-page fact sheet retrieved; fact-sheet pricing and area panels visually checked."
+      },
+      "community": "Yas Point · Yas Island",
+      "overview": [
+        "The resident spaces balance outdoor recreation with quieter indoor uses. The brochure includes a coworking hub, a gym, an illuminated garden and places for yoga and outdoor cooking. Its materials palette describes porcelain flooring, laminate joinery and engineered-stone counters; the exact specification should be checked for the selected apartment."
+      ],
+      "locationNote": "The Canopies occupies Yas Island's northern shore within Yas Point. Aldar describes a planned 700-metre waterfront promenade with retail, dining and public beach access. Delivery and access arrangements should be confirmed independently of the apartment handover.",
+      "priceLabel": "Launch starting price · reconfirm",
+      "priceNote": "The reviewed fact sheet starts at AED 1.65m. This is a launch reference, not evidence that a home remains available at that price. Later broker selections may show higher entry prices for the units they advertise. Request a dated quotation and complete acquisition costs.",
+      "paymentNote": "The fact sheet advertises 55% before handover, including 5% at booking, and 45% at handover. The stages below show that split only; a dated developer-issued instalment calendar was not established.",
+      "handoverNote": "The fact sheet identifies 2030. DXB Residence reports Q3 2030, so the displayed quarter is a broker-reported estimate and must be confirmed against the selected unit's agreement.",
+      "units": [
+        {
+          "label": "Overall published average range",
+          "area": "46–184 sq m across the development; not a range for each type",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Studio and 1-bedroom layouts",
+          "area": "Separate drawings available; type-specific registered totals require confirmation",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment · broker-reported",
+          "area": "119 sq m; area basis requires confirmation",
+          "sourceIds": [
+            "market"
+          ]
+        },
+        {
+          "label": "2 bedrooms with maid room · broker-reported",
+          "area": "141 sq m; area basis requires confirmation",
+          "sourceIds": [
+            "market",
+            "plans"
+          ]
+        },
+        {
+          "label": "3 bedrooms with ancillary rooms · broker-reported",
+          "area": "184 sq m; confirm maid/study allocation and registered area",
+          "sourceIds": [
+            "market",
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Remaining construction instalments · dates to confirm",
+          "percent": 50,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 45,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development scale",
+          "value": "592 apartments across six midrise buildings. This is the announced development total, not remaining inventory.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Landscape scope",
+          "value": "Aldar's launch announcement specifies more than 10,000 sq m of landscaped green space. Larger figures on marketing sites are not treated as a verified equivalent measurement.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Bedroom labels",
+          "value": "The plan pack separates bedrooms from maid and study rooms. Broker labels such as 2.5 or 3.5 are not used as additional bedroom counts.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current availability, registered unit area, balcony accounting, parking allocation and final specification require a unit-specific quotation and plans.",
+        "The exact completion quarter and dated payment calendar require developer confirmation.",
+        "Conflicting broker service-charge estimates were not adopted; confirm the approved budget and chargeable area.",
+        "Confirm completion of the wider promenade and retail, amenity access and operating conditions. Images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "al-hamra-project-01",
+  "name": "Aila Homes",
+  "developerSlug": "al-hamra",
+  "fields": {
+    "description": "Aila Homes is Al Hamra’s three- and four-bedroom townhouse community in Ras Al Khaimah. Its low-rise homes sit alongside landscaped spaces, with an emphasis on outdoor activity and everyday family life.",
+    "areaId": "rak-al-hamra-village",
+    "location": "Al Hamra Village",
+    "emirate": "Ras Al Khaimah",
+    "type": "Townhouse",
+    "bedrooms": "3–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Nature park",
+      "Children’s playground",
+      "Pet park",
+      "Barbecue terrace",
+      "Swimming pool",
+      "Running and cycling track",
+      "Gym",
+      "Retail"
+    ],
+    "brochureUrl": "https://www.madena.ae/api/assets/documents/projects/aila-homes/brochure/dee9f4d268a2abf7.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/aila-homes/floor-plans/4ff2afd7274b75f4.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Al Hamra · Aila Homes",
+          "url": "https://alhamra.ae/residential-al-hamra-aila-homes/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "release",
+          "label": "Al Hamra · 15 September 2025 Aila launch report",
+          "url": "https://alhamra.ae/en/media-center/aila-homes-record-breaking-demand-highlights-ras-al-khaimah-s-booming-real-estate-market/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Aila Homes · branded brochure, public mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/aila-homes/brochure/dee9f4d268a2abf7.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "plans",
+          "label": "Aila Homes · three townhouse plans, public mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/aila-homes/floor-plans/4ff2afd7274b75f4.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "expanded",
+          "label": "Aila Homes · expanded original brochure, broker mirror",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/2896/Aila_Homes_at_Al_Hamra.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "pf-brochure",
+          "label": "Aila Homes · earlier brochure edition, portal mirror",
+          "url": "https://new-projects-media.propertyfinder.com/project/20e2a317-e1cc-4610-a670-12380f48d255/brochure/application/3vcb56GLDuYstohhPxh3ifXz4q2mNssBhz05qz5r2-E=/original.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Aila project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/al-hamra-real-estate-management-services/aila-homes",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "broker",
+          "label": "Dubainary · attributed commercial guide",
+          "url": "https://dubainary.com/off-plan/al-hamra-aila-homes",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Al Hamra Village",
+      "overview": [
+        "Compare the attached and semi-detached layouts: built-up area and plot area measure different parts of each home."
+      ],
+      "locationNote": "The branded brochure places Aila within Al Hamra Village, near RAK Central. Wider marina, mall and yacht-club facilities are community destinations, not private-home inclusions.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder lists an AED 2.9 million launch reference; Dubainary’s July 2026 guide starts at AED 3,686,040. A current developer price was not verified.",
+      "paymentNote": "Secondary reference only: 20% booking, 30% construction, 50% handover. No original dated developer schedule was verified; reconfirm applicable instalments and fees.",
+      "handoverNote": "Property Finder forecasts Q4 2028; Dubainary gives Q2 2028. No current developer completion target was verified, so neither is treated as confirmed.",
+      "units": [
+        {
+          "label": "3BR attached",
+          "area": "2,721 ft² BUA; plot 2,108 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR semi-detached",
+          "area": "2,722 ft² BUA; plot 2,899 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR semi-detached",
+          "area": "3,500 ft² BUA; plot 3,427 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Broker reference · booking",
+          "percent": 20,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 30,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 50,
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published unit counts",
+          "value": "Developer’s September 2025 article: 200 homes. Branded editions: 204 and 210; scope is unresolved.",
+          "sourceIds": [
+            "release",
+            "brochure",
+            "pf-brochure"
+          ]
+        },
+        {
+          "label": "Area discrepancies",
+          "value": "Expanded brochure plots: 2,109/2,900 ft² for the 3BR types. Some broker summaries mistake the 4BR plot for its built-up area.",
+          "sourceIds": [
+            "expanded",
+            "plans",
+            "broker"
+          ]
+        },
+        {
+          "label": "Whole-home layouts",
+          "value": "Ground and first floors share one BUA; maid’s rooms are additional service rooms, not extra bedrooms.",
+          "sourceIds": [
+            "plans",
+            "expanded"
+          ]
+        },
+        {
+          "label": "Broker instalment detail",
+          "value": "Dubainary shows six quarterly 3% payments at months 3–18, then 4% at months 21/24/27; these sum to the 30% construction portion.",
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the contracted plot, built-up area, current charges, tenure, furnishing specification and delivery date.",
+        "Published sales percentages are historical, not live inventory."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected al-hamra-project-01/aila-homes name/owner retained. Own project page confirms3/4BRtownhouses. Actualbrandedbrochure16p4 says210, earlierPF22p3 says204, own15September2025article200. Sourceedition/countscopeexplicit, noforcedreconciliation/saleableinventoryassumed.",
+        "location": "Own project page saysnearRAKCentral/MarjanIsland/AlHamraVillage; actualbranded16p4 explicitlywithinAlHamraVillage, portalagrees. Existingrak-al-hamra-village exactregistry. No copiedbrokerGPS/distances, noassertedprivateaccess/membershiprightsfromcommunityamenitylogos.",
+        "residences": "Allthree wholeGF/FFfamilies actuallyread in3pplanmirror:3BRattached,3BRsemi,4BRsemi. Expanded21p16/18/20 fullfamiliesviewed, ownbrandedcontent butbrokerhosthonestlykindbroker. GroundmaidroomnotextraBR. NoPDFroomdimensioninventionorassumedrooftoparea.",
+        "areas": "Actualall3numericalplans1/2/3 show3SD2722BUA2899plot,3TH2721BUA2108plot,4SD3500BUA3427plot. Expanded21p15/17/19 numericalheaders2109/2900/3427plots and2721/2722/3500BUA; earlierPF22p15/17/19 same. One-footploteditiondifferenceexplicit. OriginalwholeBUA countedonce acrossGF/FF, noareaaddition. Broker3427 advertised4BRsizeisplotnotBUA; PF2724/3499roundingnotadopted.",
+        "amenities": "Actualbrochure16p12namedNaturePark/KidsPlayground/PetsPark/BBQ/pool/runningcycling/gym/retail used. Brochuremarina/mall/yachtclubcontextpubliclocationNoteonlynotprivatehomeinclusions; nobrokersprivatepool/gymclaimsadopted.",
+        "pricing": "Own currentpage+retrievedoriginalsnoverifiedcurrentpricedquote. PF2.9mlaunchvsDubainaryJuly20263686040reference;headlineNULL. Noavailabilitycountadopted, nofinance/visa/returnassumptions. Own15Sep2025 historical75%of200notcopiedascurrentstock.",
+        "payment": "Own originalpaymentnotpubliclyverified; Tanamidownloadpageleadformnotused, GCCoffer403notbypassed. PF50/50aggregate plusDubainary20/30/50secondaryreference=100. Exactrelativebroker6x3+3x4=30 calendarpubliclyattributed, notprimarycalendar; conflictingbrokersabsoluteApril2026/July2026datesnotadopted. Fees7AED/sqftand2%titlebrokeronlynotconfirmedheadfacts; DubaiDLD4%templateerrorrejected.",
+        "handover": "Own projectpage/retrievedPDFsnoverifiedcurrentcompletiondate. PFQ42028vsDubainaryQ22028; otherbrokerSeptember2028alsofoundbutnotchosen. NULLheadhandover, forecastconflictpublic. Noactualcompletioncertificate/constructionpercentverified.",
+        "documents": "OwnmainordinaryGET200noPDFhrefs; exactpublicMadena16pbrochure/3pplans andTanami21p expandedmirror retrieved200. PF22p earlierbrochure retrieved200, actualcount3+numeric15/17/19read. Allrelatededitions/mirrorsone200derivedpool55brochure65plans40expanded40PF; noadditionalallowanceperURL. All3numeric/fullplans,6expandednumeric/fullpages,16p4/12actualviewed, remaining16pcontextcontactsread. GenericAlHamraVillage/corporate0. Noforms/bypass/images."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "overview": [
+          "plans",
+          "expanded"
+        ],
+        "areaId": [
+          "brochure",
+          "portal"
+        ],
+        "location": [
+          "brochure",
+          "portal"
+        ],
+        "emirate": [
+          "developer",
+          "portal"
+        ],
+        "community": [
+          "brochure",
+          "portal"
+        ],
+        "locationNote": [
+          "brochure",
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "portal",
+          "broker"
+        ],
+        "handoverNote": [
+          "portal",
+          "broker"
+        ],
+        "units": [
+          "plans",
+          "expanded"
+        ],
+        "facts": [
+          "release",
+          "brochure",
+          "pf-brochure",
+          "plans",
+          "expanded",
+          "broker"
+        ],
+        "paymentStages": [
+          "broker"
+        ],
+        "unresolved": [
+          "plans",
+          "expanded",
+          "release",
+          "developer",
+          "portal",
+          "broker"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

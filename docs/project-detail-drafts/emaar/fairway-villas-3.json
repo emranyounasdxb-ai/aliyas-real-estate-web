@@ -1,0 +1,56 @@
+{
+ "id":"emaar-project-71","name":"Fairway Villas 3","developerSlug":"emaar",
+ "fields":{
+  "description":"Fairway Villas 3 is a golf-side neighbourhood at Emaar South with four-bedroom semi-detached and five-bedroom standalone villas. Both designs extend over three levels and include roof terraces. The smaller home adds a flexible room at roof level; the larger places its fifth bedroom there.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":4390000,"handover":"Q1 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Community swimming pools for adults and children","Community centre","Multipurpose room","Gym","Children’s play areas","Linear park","Jogging paths","Emaar South golf-course setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Fairway-Villas-III_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Fairway-Villas-III_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Fairway Villas 3","url":"https://www.emaar.com/en/properties/fairway-villas-3","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Fairway Villas 3 brochure","url":"https://www.emaar.com/cms-media/uploads/Fairway-Villas-III_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Fairway Villas 3 floor plans","url":"https://www.emaar.com/cms-media/uploads/Fairway-Villas-III_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/fairway-villas-iii/FAIRWAY_VILLAS_3_ES_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/fairway-villas-iii/FAIRWAY_VILLAS_3_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Fairway Villas Phase 3","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/fairway-villas-3","kind":"portal","checkedOn":"2026-10-31","derivedWords":85}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans","facts"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Phase 3 confirmed independently of the first two Fairway Villas releases.","location":"Emaar South, within Dubai South, mapped to the existing location filter.","residences":"Four-bedroom semi-detached and five-bedroom standalone types confirmed; an inconsistent brochure sentence is not used.","areas":"Original and mirrored layouts reviewed; total floor areas separated from plot ranges.","amenities":"Community facilities checked against official page and launch sheet; golf membership not assumed.","pricing":"Official AED 4.39m headline retained with historical five-bedroom category start.","payment":"Ten 10% launch instalments visually checked; 90% before completion and 10% at completion.","handover":"January launch estimate versus March portal estimate disclosed, both within Q1 2028.","documents":"Official brochure and five-page plan pack linked; launch sheet and payment copy attributed. Images unchanged."
+   },
+   "community":"Emaar South",
+   "overview":["Contemporary façades are offered in two colour treatments, with earth-toned interiors and large windows. The homes are arranged beside the golf landscape with outdoor terraces. The brochure also describes a wider community park with play, a multipurpose court, retail kiosks and an events area. These shared features should be distinguished from facilities included within an individual plot."],
+   "locationNote":"The neighbourhood is in Emaar South, part of Dubai South, with access towards Al Maktoum International Airport and Expo City Dubai. The launch sheet places it along the golf course and linear park. Confirm the selected plot’s outlook and access, as well as actual journey times; membership or unrestricted golf-course entry is not included by implication.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 4.39m. The March 2024 launch sheet lists starts of AED 4.39m for four-bedroom villas and AED 6.44m for five-bedroom villas. These are historical category starting prices, not current inventory or a unit-specific quotation.",
+   "paymentNote":"The launch schedule contains ten 10% payments, with the last due at estimated completion. Current resale obligations and any later developer terms need a separate unit-level check.",
+   "handoverNote":"The Emaar-branded launch plan estimates January 2028 completion; Property Finder reports March 2028. Q1 2028 is shown as reported, with the precise contractual date awaiting confirmation.",
+   "units":[
+    {"label":"4 bedroom semi-detached villa","area":"4,036.25 sq ft published total floor area","sourceIds":["plans"]},
+    {"label":"5 bedroom standalone villa","area":"4,773.04 sq ft published total floor area","sourceIds":["plans"]},
+    {"label":"4 bedroom plot","area":"3,615–4,107 sq ft land area","sourceIds":["facts"]},
+    {"label":"5 bedroom plot","area":"5,393–5,627 sq ft land area","sourceIds":["facts"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · March 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"May 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · estimated completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published development scale","value":"The launch sheet lists 72 villas. It does not establish how many remain available.","sourceIds":["facts"]},
+    {"label":"Four-bedroom layout","value":"A ground-floor guest room and maid’s room sit below three bedrooms. The second floor has a flex room, bathroom and terrace. The published total includes a 468.55 sq ft garage and 456.93 sq ft balcony allocation.","sourceIds":["plans"]},
+    {"label":"Five-bedroom layout","value":"One bedroom is on the ground floor, three on the first and one on the second. The drawing marks lift provision, not an installed lift, alongside a maid’s room and two-car garage.","sourceIds":["plans"]},
+    {"label":"Bedroom count cross-check","value":"One brochure passage refers to three and four bedrooms, but the official page, detailed layouts and other brochure sections consistently show four and five. The supported four/five-bedroom mix is used here.","sourceIds":["brochure","official","plans"]}
+   ],
+   "unresolved":["Current inventory, construction progress, service charges and the January/March delivery discrepancy need confirmation.","Confirm final finishes, lift installation terms, plot boundaries and any privately commissioned pool or landscaping.","Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

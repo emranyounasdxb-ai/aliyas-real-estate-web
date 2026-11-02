@@ -1,0 +1,196 @@
+{
+  "id": "azizi-project-02",
+  "name": "Milan Heights",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Milan Heights is an apartment enclave within Azizi Milan in Dubai, offering studios and one- to three-bedroom homes.",
+    "areaId": "dubai-city-of-arabia",
+    "location": "City of Arabia",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 575000,
+    "handover": null,
+    "paymentPlan": "10/50/40 · portal reference",
+    "amenities": [
+      "Infinity and lagoon-inspired pools",
+      "Children’s swimming pools",
+      "Fitness centre",
+      "Cinema and multipurpose hall",
+      "Walking and cycling routes",
+      "Sauna, steam rooms and jacuzzi",
+      "Retail and BBQ spaces"
+    ],
+    "brochureUrl": "https://www.azizi.cz/wp-content/uploads/2025/10/Milan-Heights-Brochure.pdf",
+    "floorPlanUrl": "https://www.azizi.cz/wp-content/uploads/2025/10/Milan-Heights-Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "brochure",
+          "label": "Azizi-branded Milan Heights brochure · broker-hosted, 52 PDF pages",
+          "url": "https://www.azizi.cz/wp-content/uploads/2025/10/Milan-Heights-Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "facts",
+          "label": "Azizi-branded Milan Heights factsheet · broker-hosted, two pages",
+          "url": "https://jiwak.com/files/properties/7f52ca46d1a005ba962b050c41ffabe8f7701b8b.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Azizi Milan Heights, not the Milan master community",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-milan-heights",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts"
+        ],
+        "location": [
+          "finder",
+          "facts"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Milan Heights is separately named in the branded brochure/factsheet and own original URL; not substituted with Milan master-community record07. Officialhost returns403/429; public mirrored files labeledbroker.",
+        "location": "Factsheet places Heights within AziziMilan; establishedportal locates it in CityofArabia,Dubai. Map androadconnections reviewed withoutinventedcoordinates.",
+        "residences": "Studio/1/2/3bedroom apartments confirmed by actual brochureplan labels and factsheet.",
+        "areas": "All8 visible tables pages38–41 inspected. Threebedprintedtotal1148.87 vs suite1136.32 leaves12.55sqft despite broad drawn balcony; not silently corrected or presented as verified as-built area.",
+        "amenities": "Brandedfactsheet cluster leisure/sport/retail facilities reviewed; commonfacilities not multiplied perbuilding.",
+        "pricing": "Portal launch575000 only; no dated current developer unitquote retrieved. No application of masterMilanminimumtoHeights.",
+        "payment": "Portal10/50/40 is attributed summary. No current dated developer calendar retrieved, no monthly dates inferred.",
+        "handover": "PortalJune2028/Q22028forecast only. Community/tower-specificcontract andcurrentconstructionreport notestablished;headlinenull.",
+        "documents": "Broker-hosted52pagebrandedbrochure and2pagefacts retrieved200PDF; numericalpanels38–41 visually checked. Officialhostblockedwithoutbypass. Currentselected-unitcontract/stock/chargesunavailable."
+      },
+      "community": "Milan Heights within Azizi Milan",
+      "overview": [
+        "Shared facilities are planned at enclave level; individual towers and units require their own documents."
+      ],
+      "locationNote": "City of Arabia, Dubai, within Azizi Milan according to Property Finder; the branded factsheet confirms the parent community and shows connections towards Sheikh Mohammed Bin Zayed Road. No guaranteed journey time or map coordinate is asserted.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder labels AED 575,000 as the launch guide. This is not a current developer quotation or proof that the particular unit types illustrated below are available at that figure. Confirm the tower, apartment, floor, area and written offer.",
+      "paymentNote": "Property Finder publishes 10% at launch, 50% during construction and 40% at handover. This secondary summary does not establish current instalment dates or a selected-unit contract. No equal monthly schedule is inferred.",
+      "handoverNote": "Property Finder forecasts Q2/June 2028. No current primary dated completion commitment was retrieved for the individual Heights tower or home. Confirm the contracted release and any revision; the headline remains unconfirmed.",
+      "units": [
+        {
+          "label": "Studio · Type 1",
+          "area": "339.28 ft² total / 269.53 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Studio · Type 2",
+          "area": "339.39 ft² total / 271.79 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type 1",
+          "area": "678.99 ft² total / 538.52 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type 2",
+          "area": "649.29 ft² total / 574.22 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type 1",
+          "area": "1,149.96 ft² total / 867.62 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type 2",
+          "area": "1,102.76 ft² total / 827.43 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · Types 1/2 · source discrepancy",
+          "area": "1,148.87 ft² printed total / 1,136.32 suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch · portal reference",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal reference",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The three-bedroom tables print 1, 148.87 ft² total against 1, 136.32 ft² suite, despite a long balcony drawing. This unresolved source discrepancy requires an approved unit plan; the figure is not silently repaired.",
+        "Published examples are not complete inventory ranges, plot areas or independently measured net interiors. Actual tower/unit plans and contract measurements govern.",
+        "Current stock, price, dated payments, completion position, furnishing, parking, service/cooling charges, ownership eligibility and facility operating arrangements require selected-unit confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

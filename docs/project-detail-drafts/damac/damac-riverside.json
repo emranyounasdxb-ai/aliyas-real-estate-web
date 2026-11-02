@@ -1,0 +1,283 @@
+{
+  "id": "damac-project-12",
+  "name": "DAMAC Riverside",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "DAMAC Riverside's original residential collection comprises four- and five-bedroom townhouses in Dubai Investment Park. Landscaped recreation areas and water-focused community spaces shape its masterplan. This record covers the townhouse development, rather than the later Riverside Views apartment buildings.",
+    "areaId": "dubai-investments-park",
+    "location": "Dubai Investments Park",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "4–5",
+    "price": 1990000,
+    "handover": null,
+    "paymentPlan": "75/ 25 · original launch plan",
+    "amenities": [
+      "Clubhouse",
+      "Malibu Cove swimming area",
+      "Amphitheatre and lawn",
+      "Children's adventure play area",
+      "Hydroponic farm",
+      "Games zone",
+      "Calisthenics stations",
+      "Barbecue and culinary spaces",
+      "Floating cinema and performance spaces",
+      "Community dining"
+    ],
+    "brochureUrl": "https://www.gulflife.ae/wp-content/uploads/2024/05/Damac_Riverside.pdf",
+    "floorPlanUrl": "https://palladian.ae/wp-content/uploads/2024/12/Damac-Riverside-Floor-Plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "DAMAC Riverside project page, developer-hosted preproduction site",
+          "url": "https://preprod.damacproperties.com/en/projects/damac-riverside/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "DAMAC Riverside original brochure, Gulf Life-hosted copy",
+          "url": "https://www.gulflife.ae/wp-content/uploads/2024/05/Damac_Riverside.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "DAMAC Riverside original townhouse plans, Palladian-hosted copy",
+          "url": "https://palladian.ae/wp-content/uploads/2024/12/Damac-Riverside-Floor-Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "facts",
+          "label": "DAMAC Riverside original price/payment fact sheet, Petkovic-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/05/Damac-Riverside-One-Pager.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "market",
+          "label": "KMJ: later DAMAC Riverside townhouse selection",
+          "url": "https://kmjproperties.com/property/riverside-by-damac/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "official",
+          "brochure"
+        ],
+        "type": [
+          "official",
+          "plans"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "facts"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "market"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Original four/five-bedroom townhouses kept separate from RiversideViews apartments.",
+        "location": "Developer says DubaiInvestmentPark; own brochure specifies DubaiInvestmentPark2.",
+        "residences": "Two four-bedroom middle types and five-bedroom end type confirmed in own plan pack.",
+        "areas": "Image-only plan labels visually read:2420.05,2297.34,3407.42sqft. No OCR inference used.",
+        "amenities": "Original brochure's own facilities reviewed, without adopting wellness claims as medical evidence.",
+        "pricing": "Original 1.99m/3.18m launch figures separated from later five-bedroom selected-unit prices.",
+        "payment": "Original fact-sheet 5% initial,70% subsequent,25% completion schedule visually read and grouped;100% checked.",
+        "handover": "Original Dec 2027 versus later broker Q2 2028 conflict recorded; no universal date asserted.",
+        "documents": "Original 38-page brochure,5-page plan pack and 1-page launch sheet retrieved. Original drawings and pricing/payment section visually inspected."
+      },
+      "community": "DAMAC Riverside · Dubai Investment Park",
+      "overview": [
+        "The original middle-townhouse plans run over ground and first floors, with a bedroom downstairs and garden-facing living space. The five-bedroom end home adds a second floor with an extra bedroom, maid accommodation and terraces. Its larger saleable total should not be confused with the size of its garden plot."
+      ],
+      "locationNote": "The developer identifies Dubai Investment Park and the original brochure specifies Dubai Investment Park 2. Its map places Riverside near Emirates Road and Al Yalayis Road. Exact plot access and the registered community description need checking; no unverified location pin has been assigned.",
+      "priceLabel": "Original launch starting price · reconfirm",
+      "priceNote": "The original fact sheet starts four-bedroom homes at AED 1.99m and five-bedroom homes at AED 3.18m. A later KMJ selection starts its five-bedroom homes at AED 4.337m. Different release dates and available selections explain why these should not be presented as the same live offer.",
+      "paymentNote": "The original 75/ 25 plan begins with 5%, followed by another 70% through timed instalments and 25% on completion. Later offers may collect 20% upfront instead. The grouped schedule below reproduces the original sale-relative milestones; obtain the actual contract schedule for the selected townhouse.",
+      "handoverNote": "The original launch sheet anticipates December 2027; a later KMJ offer reports Q2 2028. The current contractual programme for each cluster was not established, so the headline date remains unconfirmed.",
+      "units": [
+        {
+          "label": "THRS-M1 · 4-bedroom middle townhouse",
+          "area": "224.83 sq m / 2,420.05 sq ft total saleable area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "THRS-M2 · 4-bedroom middle townhouse",
+          "area": "213.43 sq m / 2,297.34 sq ft total saleable area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "THRS-E · 5-bedroom end townhouse",
+          "area": "316.56 sq m / 3,407.42 sq ft total saleable area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Initial deposit",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 1–3 from sale · 5% monthly",
+          "percent": 15,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 4–8 · 1% monthly",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 9 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 10–15 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 16 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 17–22 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 23 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 24–29 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 30 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 31–35 · 1% monthly",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 36 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 37–38 · 1% monthly",
+          "percent": 2,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 25,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Plan basis",
+          "value": "The original plan pack labels these figures total saleable area. It shows two parking spaces on the townhouse drawings; confirm the assigned spaces and final plot documents.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Community scope",
+          "value": "The brochure advertises food-growing, dining and floating entertainment spaces as part of the master community. Delivery, access and operating conditions require confirmation for the chosen phase.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm cluster, unit, availability, current price, registered area, plot boundary and current completion programme.",
+        "The original payment plan and later selected-unit offers differ in initial collection timing; no current universal schedule is asserted.",
+        "Service charges, final finishes, facility opening dates and access conditions require developer confirmation.",
+        "Townhouse data must not be transferred to the separate Riverside Views apartment releases. Images remain illustrative."
+      ]
+    }
+  }
+}

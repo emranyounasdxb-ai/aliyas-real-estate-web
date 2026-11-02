@@ -1,0 +1,272 @@
+{
+  "id": "select-group-project-05",
+  "name": "The Edge",
+  "developerSlug": "select-group",
+  "fields": {
+    "description": "The Edge pairs two apartment towers in Business Bay, with one- and two-bedroom homes and a shared leisure podium.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 1550000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pool",
+      "Gymnasium",
+      "Outdoor fitness area",
+      "Padel courts",
+      "Pickleball/basketball court",
+      "Yoga deck",
+      "BBQ area",
+      "Co-working space",
+      "Games room",
+      "Social lounge",
+      "Jacuzzi",
+      "Sprint track"
+    ],
+    "brochureUrl": "https://tohidfetrat.com/wp-content/uploads/2026/05/The_Edge_Select_Group_Brochure_Tohid_Fetrat.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/the-edge/floor-plans/5db338ea1c767b1e.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Select Group The Edge project and FAQ",
+          "url": "https://www.select-group.ae/developments/the-edge",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "inventory",
+          "label": "Select Group The Edge newly available units",
+          "url": "https://properties.select-group.ae/edge",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "brochure",
+          "label": "The Edge branded brochure · broker mirror",
+          "url": "https://tohidfetrat.com/wp-content/uploads/2026/05/The_Edge_Select_Group_Brochure_Tohid_Fetrat.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "plans",
+          "label": "The Edge Tower A and B key plans · broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/the-edge/floor-plans/5db338ea1c767b1e.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "pf",
+          "label": "Property Finder The Edge tower-specific layouts",
+          "url": "https://www.propertyfinder.ae/en/new-projects/select-group/the-edge",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "inventory"
+        ],
+        "handover": [
+          "developer",
+          "inventory",
+          "pf"
+        ],
+        "paymentPlan": [
+          "developer",
+          "inventory"
+        ],
+        "amenities": [
+          "brochure",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "units": [
+          "pf"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "plans"
+        ],
+        "facts": [
+          "plans",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "inventory",
+          "pf"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact The Edge project checked on Select Group’s project and inventory pages; Tower A and Tower B distinguished in branded drawings. No unrelated Edge projects used.",
+        "location": "Primary address Business Bay retained as exact existing dubai-business-bay registry location. No distances or commute times invented.",
+        "residences": "Primary 1–2-bedroom apartment scope corroborated with branded Tower A/B key plans. Tower A A 1/A 2/B/C and two-bedroom A/B/5 A/5 B labels; Tower B includes Type D one-bedroom variants. No apartment count inferred from typical floors.",
+        "areas": "All 12 key-plan sheets visually reviewed in contact sheet, full typical sheets 5/11 inspected. They have unit labels but no numerical area schedules. Portal individual 1 BR A 2/B/C and 2 BR A/B drawings visually inspected; images also omit numerical area labels. Published PF Tower A numerical metadata retained explicitly as secondary, not certified PDF measurements. No Tower B areas transferred from Tower A. Excluded PF TypeB A-01 Level23 despite its677 metadata because the primary keyplan identifies Level23 as MEP. Replacement actual PF TypeB A-07 Level18 also677 and its numerical-label-free drawing were independently checked.",
+        "amenities": "Branded 35-page brochure pages 6/13/14 visually checked for residences,61,000-square-foot deck and actual amenity diagram; corroborated against primary text.",
+        "pricing": "Own newly available inventory landing advertises AED 1.55 m versus PF AED 1.108 m historical guide; main primary page marks Sold Out–Off Plan. No live unit allocation/quote claimed.",
+        "payment": "Primary FAQ 40/60 with 50,000-dirham reservation as part of first 20%, then 20% and 60% reconciled to 100%. Separate own inventory landing 30/70 retained as unresolved conflict; headline null. No inaccessible contract or assumed 30/70 intermediate schedule supplied.",
+        "handover": "Own main page scheduled 5 October 2026; inventory page October 2026; PF December 2026. All are forecasts, not evidence of actual completion. Headline null because date elapsed and no completion/handover certificate retrieved.",
+        "documents": "Public broker-hosted branded 35-page brochure and complete 12-page TowerA/B key-plan PDF retrieved and rendered. Madena initial 200 body truncated; legitimate 206 byte-range remainder completed exact 31,402,669-byte PDF with EOF and 12 valid pages. Six-page alternate pack covers TowerA only; not relabelled whole development. Russian 33-page mirror reviewed but excluded from public source copy. German supposedPDF returnedHTML excluded. Goldpillars and fam cloud images 403 not bypassed. No forms submitted. Public developer-derived copy condensed after independent review; repeated overview and commercial caveats removed rather than reallocated."
+      },
+      "overview": [
+        "The drawings distinguish Tower A’s typical levels 6–22 and 24–45 from Tower B’s levels 6–17 and 19–34; apartment areas below are secondary Tower A examples only."
+      ],
+      "community": "Business Bay",
+      "locationNote": "Business Bay, near Downtown Dubai and Dubai Canal.",
+      "priceLabel": "Developer-advertised guide",
+      "priceNote": "Inventory page: from AED 1.55 million; Property Finder: AED 1.108 million historical reference. Confirm the selected home’s price.",
+      "paymentNote": "FAQ reference: AED 50,000 forms part of the first 20%, balanced within 14 days; 20% within 6 months; 60% completion. The inventory page instead advertises 30/70. Confirm the signed schedule.",
+      "handoverNote": "Main page: 5 October 2026; inventory page: October 2026; Property Finder: December 2026. The October forecast has elapsed; no completion certificate was retrieved.",
+      "units": [
+        {
+          "label": "Tower A · 1 bedroom · portal range",
+          "area": "570–680 sq ft",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 2 bedrooms · portal range",
+          "area": "836–881 sq ft",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 1 bedroom Type A 2 · A-05, Level 18",
+          "area": "572 sq ft · portal-listed area",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 1 bedroom Type B · A-07, Level 18",
+          "area": "677 sq ft · portal-listed area",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 1 bedroom Type C · A-12, Level 18",
+          "area": "621 sq ft · portal-listed area",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 2 bedrooms Type A · A-02, Level 18",
+          "area": "837 sq ft · portal-listed area",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "Tower A · 2 bedrooms Type B · A-01, Level 35",
+          "area": "881 sq ft · portal-listed area",
+          "sourceIds": [
+            "pf"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "First instalment · reservation and balance within 14 days · FAQ reference",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Within 6 months of reservation · FAQ reference",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Upon completion · FAQ reference",
+          "percent": 60,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Tower A drawing scope",
+          "value": "Typical levels 6–22 and 24–45; Level 23 identified as MEP",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B drawing scope",
+          "value": "Typical levels 6–17 and 19–34; Level 18 identified as MEP",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Leisure deck",
+          "value": "Over 61,000 sq ft · marketed shared amenity area, not apartment area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Document scope",
+          "value": "Branded brochure and separate Tower A/B key plans; numerical unit areas shown here are portal references",
+          "sourceIds": [
+            "brochure",
+            "plans",
+            "pf"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The main page says sold out; the separate inventory page advertises newly available units. Obtain a current unit quotation.",
+        "Published forecasts and payment references do not establish actual possession or contractual terms.",
+        "The reviewed branded plans contain Tower A/B layouts without numerical area schedules. Tower B certified areas, internal/balcony breakdowns, current floor plans and precise unit-specific views remain unverified.",
+        "No current service-charge budget, parking allocation, finish specification schedule, title documentation or dated unit quotation was located. These are not inferred from generic market material."
+      ]
+    }
+  }
+}

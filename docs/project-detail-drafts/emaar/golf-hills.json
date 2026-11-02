@@ -1,0 +1,62 @@
+{
+ "id":"emaar-project-47","name":"Golf Hills","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Hills is a residential release at Emaar South, with one to three bedroom apartments and six three bedroom townhouses. The homes face a landscaped, golf-oriented setting with pool and fitness spaces. This record covers Golf Hills itself; Golf Hills 2 is a separate release in the catalogue.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1060000,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity-edge pool","Children’s pool","Splash pad","Children’s play area","Indoor and outdoor gym","Indoor and outdoor yoga areas","Padel court","BBQ area","Event lawn","Table tennis","Community golf-course setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Hills at Emaar South","url":"https://www.emaar.com/en/properties/golf-hills-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: Golf Hills and Golf Hills 2 brochure","url":"https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"plans","label":"Emaar: Golf Hills apartment and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Golf Hills phase 1 fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_ES_1_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":115},
+    {"id":"payment","label":"Golf Hills phase 1 payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_ES_1_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Golf Hills","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-hills","kind":"portal","checkedOn":"2026-10-31","derivedWords":50}
+   ],
+   "fieldSources":{"description":["official","facts"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Hills independently confirmed at Emaar South; not Golf Hillside at Dubai Hills Estate or the separately owned Golf Hills 2.",
+    "location":"Emaar South in Dubai South, within the master community’s golf landscape.",
+    "residences":"One to three bedroom apartments plus three bedroom townhouses confirmed from official plans and phase 1 fact sheet.",
+    "areas":"All 20 plan pages read; total areas include outdoor space. Type 1 townhouse and three-bedroom Type 1.1 visually checked.",
+    "amenities":"Residential amenities taken from official page and brochure. Golf access/membership and view guarantees not assumed.",
+    "pricing":"AED 1.06m developer-advertised starting figure; historical type prices separately stated from phase 1 fact sheet.",
+    "payment":"Own phase 1 payment sheet visually reviewed; nine stages sum to 100% with 40/60/80% construction triggers.",
+    "handover":"September 2029 estimated completion matches Property Finder’s schedule.",
+    "documents":"Official brochure and 20-page plan pack linked; separately named phase 1 fact/payment sheets attributed to their host. Images unchanged."
+   },
+   "community":"Emaar South · Dubai South",
+   "overview":["Golf Hills uses a restrained material palette of timber, textured stone, metal and glass. The brochure presents large windows and connected living spaces as a way to bring the landscape into the home. Shared recreation centres on the pool, gym, yoga and padel facilities, with separate places for children and informal gatherings. Emaar South’s wider master plan includes retail, healthcare, education and hospitality; these community proposals are distinct from facilities delivered inside the building. Golf-course proximity does not establish membership rights or an uninterrupted view from every residence."],
+   "locationNote":"Golf Hills is in Emaar South, within the Dubai South district near Al Maktoum International Airport. The community map shows Emirates Road and the DWC peripheral road around the wider development. Emaar identifies Golf Views, Golf Point and Urbana III nearby. Check the actual route and outlook for the chosen home.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises Golf Hills from AED 1.06m. The phase 1 launch sheet lists two-bedroom apartments from AED 1.51m, three-bedroom apartments from AED 2.83m and townhouses from AED 5.07m. These are advertised or historical starting figures, not a confirmation that a unit remains available at that price.",
+   "paymentNote":"The original schedule is 10% booking, seven further 10% instalments and 20% on estimated completion. The later interim payments are linked to 40%, 60% and 80% construction. Passed instalment dates mean a new purchase needs an updated statement of amounts due.",
+   "handoverNote":"September 2029 is the estimated completion month in the project’s payment sheet, corroborated by Property Finder. Confirm the current programme and contractual delivery terms before reservation.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"671.24–871.45 sq ft total","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"989.20–1,306.74 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,738.59–2,510.68 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · Types 1 and 1A","area":"3,081.49 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Original phase 1 collection","value":"204 homes: 70 one-bedroom, 101 two-bedroom and 27 three-bedroom apartments, plus six townhouses. This is the launch mix, not live inventory.","sourceIds":["facts"]},
+    {"label":"Townhouse layout","value":"The two townhouse types occupy ground and podium levels, with living spaces, a maid’s room, laundry and store below three upstairs bedrooms. Both total 2,197.34 sq ft of suite and 884.15 sq ft of balcony/terrace.","sourceIds":["plans"]},
+    {"label":"Large terraces affect total area","value":"Three-bedroom Type 1.1 has 1,579.17 sq ft of suite and 931.51 sq ft of balcony/terrace within its 2,510.68 sq ft total. Compare usable interior space as well as the headline area.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current unit availability, exact asking price and any revised payment terms.","Service charges, parking allocation, final finishes and golf membership/access terms.","Current construction status and contractual handover date.","Golf Hills 2 has its own record and phase documents; do not combine its units with this launch collection.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

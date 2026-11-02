@@ -1,0 +1,240 @@
+{
+  "id": "danube-project-15",
+  "name": "Oceanz 3",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Oceanz 3 is Danube’s third Dubai Maritime City tower, with studios and one- to three-bedroom apartments.",
+    "areaId": "dubai-maritime-city",
+    "location": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1220607,
+    "handover": "Q1 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pool",
+      "Aquatic gym",
+      "BBQ area",
+      "Sunset deck",
+      "Sky Jacuzzi",
+      "Children’s play area",
+      "Floating cinema",
+      "Sports courts"
+    ],
+    "brochureUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/oceanz/brochures",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/oceanz/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "page",
+          "label": "Danube Oceanz shared development page; tower scope qualified",
+          "url": "https://danubeproperties.com/portfolio/oceanz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "construction",
+          "label": "Danube 30 September 2026 Oceanz inspection; separate Tower 3 milestones",
+          "url": "https://danubeproperties.com/construction/oceanz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "facts",
+          "label": "Official Oceanz factsheet · 2 PDF pages, wider development scope",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/oceanz/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Official Oceanz 3 floor plans · Tower 3, 16 PDF pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/oceanz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Oceanz Phase 3 guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/oceanz-tower-3",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "brochure",
+          "label": "Official Oceanz 3 brochure · 19 PDF pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/oceanz/brochures",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "plans"
+        ],
+        "location": [
+          "plans",
+          "finder"
+        ],
+        "type": [
+          "page"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "amenities": [
+          "finder"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "page",
+          "finder"
+        ],
+        "handover": [
+          "page",
+          "finder",
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "construction"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Oceanz 3 identity checked against its own project page and named plan documents; related phases are separated.",
+        "location": "The sources identify Dubai Maritime City, Dubai. No coordinates or guaranteed travel times were invented.",
+        "residences": "The published Studio–3 range was checked against the named layout families; convertible spaces are not counted as extra bedrooms.",
+        "areas": "Numeric plan panels were rendered and visually inspected. Apartment, balcony and total figures are kept distinct; source conflicts are disclosed below.",
+        "amenities": "Project facilities were checked against the cited own page or phase-specific guide. Unit pools are limited to the layouts that show them.",
+        "pricing": "The price basis and source are disclosed. Historical launch references, averages and current availability are not treated as interchangeable.",
+        "payment": "Published schedules were compared and arithmetic reviewed. Conflicting or incomplete current terms remain unresolved rather than merged.",
+        "handover": "Forecast dates are separated from dated construction assessments; no actual handover is inferred from a percentage or elapsed forecast.",
+        "documents": "Official public ZIPs supplied a 19-page English brochure, exact 16-page Tower 3 ver2 plans and a 2-page factsheet. Brochure location and amenity panels were visually checked. Tower 1/2 plans and retail layouts excluded. Pooled public document allowance 200 words; generic index 0."
+      },
+      "community": "Dubai Maritime City",
+      "overview": [
+        "Furnishing inclusions depend on the sale agreement; confirm the approved unit layout."
+      ],
+      "locationNote": "Dubai Maritime City, Dubai. The official marketing pack also describes the wider three-tower development; its Oceanic Villas are not added to this Tower 3 profile.",
+      "priceLabel": "Portal launch reference · sold out",
+      "priceNote": "Property Finder gives AED 1,220,607 in its FAQ and rounds the headline to AED 1.2 million. It marks this phase sold out. These references do not confirm current developer inventory, resale availability or an individual unit quotation.",
+      "paymentNote": "The phase-specific portal assigns 65% during construction and 35% after handover, totalling 100%. The current shared Oceanz page instead advertises 30/70. No dated Tower 3 commercial sheet was retrieved to resolve the difference; no combined schedule is presented.",
+      "handoverNote": "Q1 2027 is the shared developer forecast; the Tower 3 portal specifies March 2027. Danube’s 30 September 2026 inspection records Tower 3 slab completion at level 9 and blockwork at level 2. The reported 53% covers the whole development, not Tower 3 alone. These are forecasts and progress reports, not actual handover certification.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "429–473 ft² total; 338–339 apartment; 90–134 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio A · pool",
+          "area": "564–588 ft² total; 376 apartment; 187–212 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio B · pool",
+          "area": "603 ft² total; 389 apartment; 214 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio C · pool",
+          "area": "576 ft² total; 356 apartment; 220 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR · office",
+          "area": "982 ft² total; 588 apartment; 394 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite A · office and pool",
+          "area": "761 ft² total; 587 apartment; 174 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite B · office and pool",
+          "area": "982 ft² total; 588 apartment; 394 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type A · pool",
+          "area": "1,249 ft² total; 867 apartment; 382 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type B · pool and store",
+          "area": "1,197 ft² total; 896 apartment; 301 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type C · pool",
+          "area": "1,352 ft² total; 854 apartment; 498 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · maid room and pool",
+          "area": "1,905 ft² total; 1,408 apartment; 497 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Dated Tower 3 construction",
+          "value": "Level 9 slab completed; level 2 blockwork in progress at 30 September 2026.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Presidential studio A prints 564–588 ft²; 376+187=563. Portal 3BR 1,893 ft² differs from official 1,905 ft².",
+        "Current stock, dated instalments, contractual completion, approved parking, service charges and unit-specific pool obligations remain unverified. Images remain illustrative."
+      ]
+    }
+  }
+}

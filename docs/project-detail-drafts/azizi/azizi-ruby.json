@@ -1,0 +1,192 @@
+{
+  "id": "azizi-project-12",
+  "name": "Azizi Ruby",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi Ruby is an apartment development in Jumeirah Village Circle, with studios and one- to three-bedroom homes. Its residential layouts are paired with shared leisure facilities and retail space. The project’s published launch material and later portal guides use different commercial references, so a selected-unit quotation remains necessary.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 618000,
+    "handover": "Q1 2028 · portal forecast",
+    "paymentPlan": "10/40/50 · portal reference",
+    "amenities": [
+      "Swimming pools",
+      "Gym",
+      "Cinema",
+      "Clubhouse",
+      "Children’s play area",
+      "Retail spaces"
+    ],
+    "brochureUrl": "https://manage.tanamiproperties.com/Project/Brochure/2297/Azizi_Ruby.pdf",
+    "floorPlanUrl": null,
+    "research": {
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi-branded Ruby factsheet · Tanami-hosted mirror",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/2297/Azizi_Ruby.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "launch",
+          "label": "Azizi-branded Ruby launch flyer · Homeblocks-hosted mirror",
+          "url": "https://homeblocks.io/wp-content/uploads/2025/08/Azizi-Ruby-payment-plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Ruby project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-ruby",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "layout",
+          "label": "Augusta Ruby unit drawings · broker catalogue",
+          "url": "https://www.augusta-properties.com/explore/azizi-ruby",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "oldguide",
+          "label": "Ruby-JVC broker guide · older Q4 2026 reference",
+          "url": "https://ruby-jvc.com/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts"
+        ],
+        "location": [
+          "facts",
+          "finder"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "launch"
+        ],
+        "units": [
+          "finder"
+        ],
+        "price": [
+          "finder",
+          "launch"
+        ],
+        "paymentPlan": [
+          "finder",
+          "launch"
+        ],
+        "handover": [
+          "finder",
+          "oldguide"
+        ],
+        "documents": [
+          "facts",
+          "launch",
+          "layout"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Azizi Ruby JVC identity confirmed from branded facts/launch flyer and Property Finder. Official own route and homepage returned 403/429; no security bypass attempted.",
+        "location": "Branded factsheet says JVC; Property Finder District 15. Exact existing Jumeirah Village Circle mapping retained.",
+        "residences": "Studio and one/two/three-bedroom apartments verified; no invented townhouse or villa category.",
+        "areas": "Broker drawings for each of four bedroom families inspected visually; supplied drawings omit an area title block. Size bands therefore attributed to Property Finder, not independently measured or claimed as certified plans.",
+        "amenities": "Branded launch flyer cinema, clubhouse, gym, pools and children’s play confirmed. Community facilities not substituted for building entitlements.",
+        "pricing": "Branded historical flyer 617k differs from portal 618k; attributed portal guide retained, not live inventory.",
+        "payment": "Flyer 50/50 shorthand versus portal 10/40/50 stages; no assumed dated developer calendar.",
+        "handover": "Portal Q1/January 2028; other broker marketing Q4 2026 conflicts, not presented as current primary contract.",
+        "documents": "Branded factsheet and launch flyer downloaded and rendered. Public Madena/Reelly file labelled floor plans is actually two repeated floorplate pages, not unit-area plans; excluded from floorPlanUrl. Official-host full pack and current price/payment documents unavailable."
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "Studios and one- to three-bedroom apartments form the published residential collection. The neighbourhood address is Jumeirah Village Circle; any view or finish is specific to the selected residence."
+      ],
+      "locationNote": "Jumeirah Village Circle, District 15 according to Property Finder. Marketing access descriptions do not establish an existing on-site metro station.",
+      "priceLabel": "Portal launch guide · reconfirm current quotation",
+      "priceNote": "Property Finder gives AED 618,000. The older Azizi-branded launch flyer prints AED 617,000 and a 50/50 headline. These are different historical or advertised guides, not evidence of today’s available unit.",
+      "paymentNote": "Property Finder lists 10% booking, 40% construction and 50% handover, expanding the older flyer’s 50/50 headline. No current primary dated unit schedule was retrieved.",
+      "handoverNote": "Property Finder forecasts Q1 2028, with January 2028 and a 23 January timeline. Some broker guides still quote Q4 2026. Obtain the current signed unit completion date; neither a delivered claim nor live construction percentage is adopted.",
+      "units": [
+        {
+          "label": "Studio · portal published band",
+          "area": "352–405 ft²; marketing size basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "1-bedroom · portal published band",
+          "area": "696–1,156 ft²; marketing size basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2-bedroom · portal published band",
+          "area": "1,030–1,097 ft²; marketing size basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom · portal published band",
+          "area": "1,640–2,048 ft²; marketing size basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal guide",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal guide",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal guide",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm current availability, contractual handover, live price, dated instalments, approved service charges, parking and furnishing. Portal sold-out labelling does not settle resale availability.",
+        "A full current developer-host unit-plan pack was not retrievable. Broker sample drawings inspected lack area totals; supplied portal bands must be checked against the executed unit plan.",
+        "Website lookalike azizidevelopers.ae identifies a broker in its footer and was not treated as official. No transfer of its commercial terms. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

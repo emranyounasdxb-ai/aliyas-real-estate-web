@@ -1,0 +1,204 @@
+{
+  "id": "damac-project-10",
+  "name": "Shoreline by DAMAC",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "Shoreline by DAMAC is a beachfront residential development on Al Marjan Island in Ras Al Khaimah. Its original collection includes one- to three-bedroom apartments and four- and five-bedroom townhouses. The design brings Vincent Faudemer's Babolex collaboration into a building with shared pools, gardens and leisure spaces.",
+    "areaId": "rak-al-marjan-island",
+    "location": "Al Marjan Island",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 1830000,
+    "handover": "Q3 2028 · reported estimate",
+    "paymentPlan": "70/ 30 · reported original plan",
+    "amenities": [
+      "Beach access",
+      "Adult and children's pools",
+      "Watersports",
+      "Aqua oasis",
+      "Running track",
+      "Bamboo garden",
+      "Gym and spa",
+      "Floating cabanas",
+      "Rooftop relaxation spaces",
+      "Zen garden and yoga"
+    ],
+    "brochureUrl": "https://jumairarealestate.net/wp-content/uploads/SHORELINE-damac-brouchure.pdf",
+    "floorPlanUrl": "https://www.kmjproperties.com/wp-content/uploads/2026/09/shoreline-floor-plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "report",
+          "label": "DAMAC Sustainability Report 2024, project-launch table p17",
+          "url": "https://downloads.ctfassets.net/zoq5l15g49wj/1BMsgqhAskzQDEM8tk9nP8/2f6c80ca3b2bf3b2f36b29c190b13160/DAMACESGReport2024.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "brochure",
+          "label": "DAMAC Shoreline branded brochure, Jumaira-hosted copy",
+          "url": "https://jumairarealestate.net/wp-content/uploads/SHORELINE-damac-brouchure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "Shoreline branded floor plans, KMJ-hosted copy",
+          "url": "https://www.kmjproperties.com/wp-content/uploads/2026/09/shoreline-floor-plans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "launch",
+          "label": "Tanami: Shoreline original price and payment references",
+          "url": "https://www.tanamiproperties.com/Projects/Damac-Shoreline-at-Al-Marjan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "market",
+          "label": "KMJ: Shoreline later selected-unit offer",
+          "url": "https://kmjproperties.com/property/shoreline/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "plans",
+          "brochure"
+        ],
+        "location": [
+          "brochure",
+          "report"
+        ],
+        "type": [
+          "plans"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "launch"
+        ],
+        "paymentPlan": [
+          "launch"
+        ],
+        "handover": [
+          "launch",
+          "market"
+        ],
+        "units": [
+          "launch",
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "DAMAC official sustainability report confirms Shoreline AlMarjan launchQ3 2024; own project brochure reviewed.",
+        "location": "AlMarjan Island RasAlKhaimah confirmed, not Dubai.",
+        "residences": "Own one/two/three-bedroom apartment and four/five-bedroom duplex townhouse drawings located.",
+        "areas": "Broker-reported aggregate apartment/townhouse size ranges retained separately from own drawings, which do not show registered total areas.",
+        "amenities": "Own 42-page brochure configuration and amenity list reviewed; operating conditions unconfirmed.",
+        "pricing": "Historic AED 1.83m guide distinguished from later broker-selected available-unit entry price.",
+        "payment": "Original reported 20/50/30 retained as historical aggregate; later 20/30/50 and other broker plans not merged.",
+        "handover": "July 2028 versus Q3 2028 broker references reconciled to reported quarter, not guaranteed day.",
+        "documents": "42-page branded brochure and 5-page branded plans downloaded; apartment and duplex drawings visually reviewed. Direct production developer endpoint unavailable; official report used for launch identity."
+      },
+      "community": "Shoreline · Al Marjan Island",
+      "overview": [
+        "The brochure separates ground-level facilities from rooftop recreation. The floor-plan pack includes conventional apartments and larger two-level townhouses. Its sample two-bedroom drawing includes a maid room, illustrating why ancillary rooms and exact layouts should be checked for the chosen type rather than inferred from a bedroom count."
+      ],
+      "locationNote": "The project is on Al Marjan Island in Ras Al Khaimah, with beachfront access described in its own brochure. Confirm the selected residence's orientation, route to the beach and amenity access; a waterfront address does not guarantee the same view from every home.",
+      "priceLabel": "Broker-reported original starting price",
+      "priceNote": "Tanami reports an original guide from AED 1.83m. A later KMJ offer instead starts at AED 4.534m for its selected two-bedroom homes. These references concern different dates and available selections; the historic headline does not imply an available one-bedroom home today.",
+      "paymentNote": "Tanami reports an original 70/ 30 structure: 20% at booking, 50% during construction and 30% on handover. KMJ's later selected-unit offer uses 20/ 30/ 50. The table shows the original reported structure only; the exact current unit schedule needs written confirmation.",
+      "handoverNote": "Tanami reports July 2028 and KMJ reports Q3 2028. The displayed quarter covers those references, but the selected residence's contractual completion terms still require confirmation.",
+      "units": [
+        {
+          "label": "1–3-bedroom apartment collection · broker-reported",
+          "area": "Approximately 811–2,077 sq ft overall; not a range for each bedroom type",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "4–5-bedroom townhouse collection · broker-reported",
+          "area": "Approximately 3,167–5,253 sq ft overall; confirm individual total and balcony treatment",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Own apartment and duplex drawings",
+          "area": "Type-specific registered totals are not stated in the reviewed drawing pack",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original reported plan",
+          "percent": 20,
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "stage": "During construction · exact dates to confirm",
+          "percent": 50,
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 30,
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building configuration",
+          "value": "The brochure shows two basement levels, ground floor, 16 residential levels and a roof amenity level. Confirm access and the final approved configuration.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Release history",
+          "value": "DAMAC's sustainability report records the Al Marjan launch in Q3 2024.",
+          "sourceIds": [
+            "report"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock, prices, full dated payment calendar, registered areas, parking and service charges require a residence-specific offer.",
+        "Several brokers show differing payment plans and available bedroom types; these are not treated as a single universal offer.",
+        "The reviewed plans omit verified total areas; broker ranges remain attributed and must be checked against approved unit drawings.",
+        "Dubai-specific DLD fee language found on a third-party RasAlKhaimah page was excluded. Confirm local registration costs with the relevant authority. Images remain illustrative."
+      ]
+    }
+  }
+}

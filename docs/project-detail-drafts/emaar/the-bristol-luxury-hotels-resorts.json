@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-26","name":"The Bristol Luxury Hotels & Resorts","developerSlug":"emaar",
+ "fields":{
+  "description":"The Bristol combines branded apartments, penthouses and a planned lifestyle hotel at Emaar Beachfront. One to four bedroom apartments sit alongside five bedroom penthouses, with broad balconies and full-height glazing oriented towards the coastal setting. Beach access, pools and landscaped podium spaces place outdoor leisure close to home.",
+  "areaId":"dubai-emaar-beachfront","location":"Emaar Beachfront","emirate":"Dubai","type":"Apartment / Penthouse","bedrooms":"1–5","price":3660000,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Private beach access","Infinity pools and deck","Children’s pools","Sunbeds and cabanas","Yoga deck","Equipped gym","Games room","Podium zen gardens","Children’s play area","Spa and wellness facilities","Dining outlets","Cinema and bowling alley · launch specification"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/398004_brochure_File_13223d9260_prod.pdf","floorPlanUrl":"https://petkovicproperties.com/wp-content/uploads/2025/01/Emaar-The-Bristol-Floor-Plans.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: The Bristol Luxury Hotels & Resorts","url":"https://www.emaar.com/en/properties/the-bristol-luxury-hotels-resorts-at-emaar-beachfront","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: The Bristol brochure","url":"https://www.emaar.com/cms-media/uploads/398004_brochure_File_13223d9260_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"The Bristol floor plans · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/01/Emaar-The-Bristol-Floor-Plans.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"facts","label":"The Bristol launch fact sheet · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/01/Emaar-The-Bristol-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"The Bristol launch payment plan · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/01/Emaar-The-Bristol-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"materials","label":"The Bristol material board · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/01/Emaar-The-Bristol-Material-Board.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":70},
+    {"id":"finder","label":"Property Finder: The Bristol estimated completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/the-bristol","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official"],"units":["plans"],"documents":["official","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Emaar Beachfront project checked; distinct from any Bristol-branded project on Ramhan Island. Official residence count conflicts with launch unit mix and is flagged.",
+    "location":"Emaar Beachfront within Dubai Harbour, near Dubai Marina and Palm Jumeirah; own canonical community registered.",
+    "residences":"One to four bedroom apartments and five bedroom penthouses confirmed. No guaranteed hotel services, furniture inclusion or home automation inferred.",
+    "areas":"All unit totals in the 42-page Emaar-branded plan copy reviewed. Balcony-inclusive totals retained to two decimals; penthouse page 40 visually checked. Plan sheet identifies B+G+8P+44.",
+    "amenities":"Official page and brochure establish beach/pool/gym/play/wellness features. Cinema and bowling are separately identified as launch-specification claims from fact sheet.",
+    "pricing":"Official AED 3.66 million headline used; bedroom-level historical launch figures attributed separately, not quoted as current available units.",
+    "payment":"Separate launch payment sheet visually checked; nine stages total 100%. August 2026 fourth instalment confirmed, avoiding a different web copy's August 2025 typo.",
+    "handover":"September 2029 estimated completion from launch schedule, corroborated by PF; reported Q3 2029.",
+    "documents":"Official brochure accessible but current floor-plan button supplies no PDF link. Verified branded plans, facts, payment and material board are linked as broker-hosted copies. Images unchanged."
+   },
+   "community":"Emaar Beachfront",
+   "overview":["The development shares Emaar Beachfront’s coastal setting beside Dubai Harbour. Its brochure describes apartments and penthouses alongside a five-star lifestyle hotel, with open living areas and large windows. Residents’ leisure spaces include pools, play areas and a gym, while wellness and dining form part of the wider proposition. Confirm which services are included in ownership and which carry separate charges."],
+   "locationNote":"The Bristol is at Emaar Beachfront in Dubai Harbour, between the Dubai Marina waterfront and Palm Jumeirah. The developer’s map identifies access towards Sheikh Zayed Road and the wider city. Beachfront orientation varies by residence; a particular sea or landmark view needs confirmation against the selected unit.",
+   "priceLabel":"Advertised from",
+   "priceNote":"The official page advertises a starting price of AED 3.66 million. This is a project headline rather than a live quotation; current availability, unit price and applicable terms must be confirmed.",
+   "paymentNote":"The January 2025 launch schedule comprises 10% on booking, seven 10% instalments and 20% at estimated completion. Historic dates and construction milestones are shown for reference, not as a fresh reservation offer.",
+   "handoverNote":"The launch payment document targets September 2029 for estimated construction completion. Property Finder reports the same month. Obtain the contractual handover date and latest progress for the selected residence.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"825.05–835.39 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,459.05–1,546.34 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,911.57–2,074.09 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom apartment","area":"2,500.89–2,616.92 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom penthouse","area":"5,827.90–6,062.55 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · January 2025 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published launch mix","value":"The launch sheet lists 58 one bedroom, 100 two bedroom, 51 three bedroom and 14 four bedroom apartments, plus four five bedroom penthouses. This differs from the current page’s wording; it is not an available-stock count.","sourceIds":["facts","official"]},
+    {"label":"Historical type prices","value":"Launch starting prices were AED 3.66 million, AED 6.36 million, AED 10.38 million and AED 14.45 million for one to four bedrooms respectively; five bedroom penthouses started at AED 34 million.","sourceIds":["facts"]},
+    {"label":"Tower and penthouse planning","value":"The plan booklet labels the tower B+G+8P+44. Four penthouse layouts occupy levels 43 and 44; they include a study, home theatre, family room, wet/dry kitchens, maid’s room and several balconies.","sourceIds":["plans"]},
+    {"label":"Area basis","value":"Each total combines internal suite and balcony areas. Check the specific level and unit plan, as balcony depths and totals differ within the same bedroom category.","sourceIds":["plans"]},
+    {"label":"Interior material palette","value":"The material board shows marble flooring, timber-toned joinery, bronze-toned metal, ribbed glass cabinet fronts and shower feature tiles. It is a design reference; final materials and supplied fittings require contractual confirmation.","sourceIds":["materials"]}
+   ],
+   "unresolved":["The current official page describes 227 apartments plus four penthouses; the launch mix totals 223 apartments plus four penthouses. Final residence count needs clarification.","Selected residence availability, price, view, furnishing, parking and current payment terms.","Current construction progress, contractual handover and final specifications.","Residential versus hotel amenity access, service inclusions and recurring charges.","Official project photography is deferred; current images remain illustrative."]
+  }
+ }
+}

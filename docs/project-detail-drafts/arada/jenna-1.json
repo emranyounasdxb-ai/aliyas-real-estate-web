@@ -1,0 +1,276 @@
+{
+  "id": "arada-project-16",
+  "name": "Jenna 1",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "One- to three-bedroom apartments between a green park and Aljada’s West Boulevard, with smart-home features, kitchen appliances and residents’ recreation.",
+    "areaId": "sharjah-aljada",
+    "location": "Aljada",
+    "emirate": "Sharjah",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 899000,
+    "handover": "Q1 2029",
+    "paymentPlan": "35 / 65",
+    "amenities": [
+      "Residents’ gym",
+      "Residents’ swimming pool",
+      "Park access",
+      "Smart-home features",
+      "Security and access control",
+      "Parking",
+      "Nearby skatepark"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/04/Jenna-brochure_V9_22042026_LR.pdf",
+    "floorPlanUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/04/Jenna-brochure_V9_22042026_LR.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Arada · Jenna 1 features and specification",
+          "url": "https://www.arada.com/en/property_category/aljada-apartments-jenna1/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "landing",
+          "label": "Arada · Jenna 1 advertised price and payment plan",
+          "url": "https://www.arada.com/en/aljada-apartments-jenna1/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Jenna 1 · original April 2026 V9 brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/04/Jenna-brochure_V9_22042026_LR.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "Arada · Jenna launch, 23 April 2026",
+          "url": "https://www.arada.com/en/latest-news/arada-unveils-jenna-an-upscale-apartment-complex-featuring-more-than-600-new-residences-at-sharjah-megaproject-aljada/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "broker",
+          "label": "Found · released Jenna 1 price and payment reference",
+          "url": "https://foundgroup.ae/new-launches/jenna-1-ref-op-1909",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "overview": [
+          "launch",
+          "developer"
+        ],
+        "price": [
+          "landing",
+          "broker"
+        ],
+        "priceLabel": [
+          "landing",
+          "broker"
+        ],
+        "priceNote": [
+          "landing",
+          "broker"
+        ],
+        "paymentPlan": [
+          "landing"
+        ],
+        "paymentNote": [
+          "landing"
+        ],
+        "paymentStages": [
+          "landing"
+        ],
+        "handover": [
+          "launch"
+        ],
+        "handoverNote": [
+          "launch"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "brochure",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "unresolved": [
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protectedarada-project-16/jenna-1. Actualown22April2026V9brochure26spreads, own23Aprlaunchfirst100homesJenna1versussixbuilding631wholeJenna. Do notpresent631asJenna1alone; currentbroker34onofferisnotprojecttotal.",
+        "location": "Ownprimary WestBoulevard, Aljada, Sharjah withpark; exactsharjah-aljada/Aljada. No importedMuwailehcoordinate or fixedcommuteguarantee.",
+        "residences": "Actualninewholehome families1BRA/B/C/D,2BRA/B/C/D,3BRA fromfivephysicalspreads19–23;1–3BRheadline. ThreeBRAmaidroom+laundrynotextra4BR, allsinglelevel; Whole floorplate16 and unit-key plans19–23 show floor1, alternating2/4/6/8 and3/5/7; no additional residence floor inferred.",
+        "areas": "Allninevisiblebottomnumericalpanels actualreadfull19–23, nothiddenmaximumonlytext.1BRA62.65–64.22/675–692, B69.62–70.40/750–758,C69.58–71.29/749–768,D70.64–72.35/761–779m2/ft2.2BRA111.26–115.56/1198–1244,B114.01–116.48/1228–1254,C112.68–115.14/1213–1240,D118.82–121.17/1279–1305.3BRA193.18–198.85/2080–2141. Rangesincludevaryingbalconies, wholesuitetotalnotroomscaled; 3BR154.60+38.58=193.18 and+44.25=198.85. No grossunittypesoutsidepublishedcoverageinvented.",
+        "amenities": "Owncategory/landing primarygym/pool/smarthome/kitchenappliances/park/skatepark/parking/security. PDF3BRmaid seen. No privateindividualgym/poolorloosefurnitureguaranteefromheadlinephrase. No operatingstatusassumed.",
+        "pricing": "Ownlanding actualvisibleAED899000advertisedentry, qualifiedcurrentstockselectedunitvariation. MetadataandvisibleFAQsame899000, notjustsearchsnippet. BrokerFound1555000releasedsubset21Oct2026distinctbasisnotcontradictoryglobalminimum; notadoptedprimaryquote.",
+        "payment": "Ownlanding actual5booking+30during+65completion100reference. No datedoriginalcontractualPDFretrieved afterWPmedia/toolkit/ownbrochscreening; noinventedmonthlydates/milestones. InconsistentAPILtestpage20/30/50and6/20/66excluded.",
+        "handover": "Own23April2026launchall631plannedendQ12029; headlineQ12029forecast, notactualcompletion. BrokerFoundQ12029corroborates, no inventedprojectinspectionpercentage.",
+        "documents": "OwnAzure26physicalspreadV9originaldownload200; alltextextracted, allfivefullnumericspreads19–23andwholefloorplate16actuallyviewed. Directbrochureincludesunitplansandoriginalranges, notseparateinventedfloorPlanURL. WPmedia/publicsales-toolkit ordinaryanonymousGET only,noforms. RelatedPDFpool200. Owncategory+landing sameunderlyingcopy80+120=200. Imagesdeferred."
+      },
+      "community": "Aljada",
+      "overview": [
+        "Jenna 1 was the first 100-home release within a six-building, 631-home collection. The park and West Boulevard frame its setting."
+      ],
+      "locationNote": "West Boulevard, Aljada, Sharjah, between a green park and shopping/dining frontage.",
+      "priceLabel": "Advertised developer starting reference",
+      "priceNote": "Arada advertises from AED 899,000; confirm current stock and selected-unit terms. Found’s AED 1.555 million reference concerns a released subset.",
+      "paymentNote": "Developer reference: 5% booking, 30% during construction and 65% completion. A dated selected-unit contract schedule was not retrieved.",
+      "handoverNote": "Arada’s 23 April 2026 launch targets completion of the wider Jenna collection by the end of Q1 2029. This remains a forecast.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "675–692 ft² / 62.65–64.22 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "750–758 ft² / 69.62–70.40 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR C",
+          "area": "749–768 ft² / 69.58–71.29 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR D",
+          "area": "761–779 ft² / 70.64–72.35 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "1,198–1,244 ft² / 111.26–115.56 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "1,228–1,254 ft² / 114.01–116.48 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "1,213–1,240 ft² / 112.68–115.14 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR D",
+          "area": "1,279–1,305 ft² / 118.82–121.17 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR A + maid",
+          "area": "2,080–2,141 ft² / 193.18–198.85 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "landing"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 30,
+          "sourceIds": [
+            "landing"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 65,
+          "sourceIds": [
+            "landing"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Published totals include balconies; balcony sizes vary by floor and layout.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Kitchen specification",
+          "value": "Cooking range, hood and washer-dryer advertised; loose furniture is not confirmed.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current availability, contracted plan revision, fees, parking allocation, payment dates and certified handover. Photography is illustrative."
+      ]
+    }
+  }
+}

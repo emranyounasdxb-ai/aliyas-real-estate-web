@@ -1,0 +1,367 @@
+{
+  "id": "ellington-project-02",
+  "name": "Everly Place",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Everly Place is Ellington’s 209-home apartment project in Meydan Horizon, MBR City, with lagoon-side leisure spaces and one- to three-bedroom layouts, including study options.",
+    "areaId": "dubai-meydan-horizon",
+    "location": "Meydan Horizon",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1940000,
+    "handover": null,
+    "paymentPlan": "70/30 · published schedule",
+    "amenities": [
+      "Bowling alley",
+      "Club lounge",
+      "Fitness studio",
+      "Sauna",
+      "Indoor and outdoor children’s play",
+      "Cabanas and sun loungers",
+      "Outdoor table tennis",
+      "Barbecue areas"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place_Typical%20Floor%20Plans%20with%20SPA.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Everly Place project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/everly-place-mohammed-bin-rashid-city",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "launch",
+          "label": "Ellington Everly Place launch announcement · 16 June 2026",
+          "url": "https://ellingtonproperties.ae/en/media-center/news/ellington-properties-unveils-everly-place",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "microsite",
+          "label": "Ellington Everly Place amenities and payment schedule",
+          "url": "https://everly-place.ellingtonproperties.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Everly Place official design brochure",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brief",
+          "label": "Everly Place official project brief",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place_Project%20Brief.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Everly Place official apartment and retail plans",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place_Typical%20Floor%20Plans%20with%20SPA.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "payment",
+          "label": "Everly Place official payment schedule",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Everly%20Place/Launch/Everly%20Place%20-%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Everly Place project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/everly-place",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "construction",
+          "label": "Ellington Everly Place construction gallery · October 2026",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Everly_Place&lang=en&projectn=Everly%20Place&url=https://ellingtonproperties.ae/?p=62624",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "amenities": [
+          "developer",
+          "microsite"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "brief"
+        ],
+        "paymentPlan": [
+          "microsite",
+          "payment"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "brief",
+          "construction"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact own project body, dated June 2026 launch and Everly-labelled documents establish the apartment project and 209 homes; no global navigation facts imported.",
+        "location": "Developer launch places Everly within Meydan Horizon, MBR City. Portal taxonomy Ras Al Khor Industrial 1 is recorded as an alternative, not substituted for the marketing community.",
+        "residences": "One- and two-bedroom apartments and one-/two-/three-bedroom with study supported by main page, brief and actual plans. Five retail drawings remain separate from residential mix.",
+        "areas": "58-page brief and 22-page plans text-read. All eleven residential numerical panels on plans pages 6–16 visually checked; brief summary page 10 and actual first drawing reviewed. Study size and 2-bedroom B discrepancies disclosed.",
+        "amenities": "Own body and project microsite list bowling, club lounge, fitness, sauna, play and outdoor leisure. Planned features, not claims of current operation.",
+        "pricing": "No primary current starting price found. Exact Property Finder project FAQ advertises AED 1940000; retained as portal reference, not developer inventory.",
+        "payment": "Actual one-page primary schedule visually read and corroborated on own microsite:20+10+10+six5+30=100. Fees not folded into purchase instalments.",
+        "handover": "Primary reviewed documents have no calendar date. Property Finder data says December 2030 but its FAQ says 2031. No selection between those estimates; headline null.",
+        "documents": "42-page own design brochure, 58-page official brief,22-page floorplan pack and one-page payment document retrieved via public official links without forms. Own gallery has October 2026 entry; no certificate/status inference."
+      },
+      "community": "Meydan Horizon · MBR City",
+      "overview": [
+        "Lagoon-facing apartments are arranged around a low-rise residential tower and a separate amenities pavilion, with a mix of compact homes and study layouts."
+      ],
+      "locationNote": "Meydan Horizon within Mohammed Bin Rashid City, Dubai. Property Finder files it under Ras Al Khor Industrial 1; these are different location labels, not interchangeable plot confirmations.",
+      "priceLabel": "Portal advertised reference",
+      "priceNote": "Property Finder advertises AED 1.94 million. This is not a verified current developer quotation or confirmation that a particular apartment is available.",
+      "paymentNote": "The primary schedule totals 100%:70% before completion,30% on completion. Confirm reservation-relative dates, milestones and all fees for the chosen apartment.",
+      "handoverNote": "No calendar handover date was found in the reviewed primary documents. Property Finder lists December 2030 while its FAQ refers to 2031; neither is adopted as a confirmed completion date.",
+      "units": [
+        {
+          "label": "1-bedroom A",
+          "area": "819.89 ft² total (727.75 indoor; 92.14 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom B",
+          "area": "801.27 ft² total (695.99 indoor; 105.27 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom C",
+          "area": "803.74 ft² total (714.40 indoor; 89.34 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom D",
+          "area": "693.63 ft² total (633.89 indoor; 59.74 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom + study",
+          "area": "997.71 ft² total (908.15 indoor; 89.56 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom A",
+          "area": "1,184.14 ft² total (1,058.74 indoor; 125.40 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom B",
+          "area": "1,284.03 ft² total (1,148.62 indoor; 135.41 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom + study A",
+          "area": "1,337.52 ft² total (1,199.96 indoor; 137.56 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom + study B",
+          "area": "1,230.85 ft² total (1,096.63 indoor; 134.23 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom + study A",
+          "area": "1,818.56 ft² total (1,633.21 indoor; 185.35 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom + study B",
+          "area": "1,704.90 ft² total (1,472.72 indoor; 232.18 outdoor)",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "240 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "360 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment",
+            "microsite"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building and parking",
+          "value": "G+2 podiums+10 residential floors+roof. One parking space for 1-/2-bedroom homes; two for 3-bedroom homes.",
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "label": "Service charge reference",
+          "value": "Brief: anticipated AED 16/ft²; billing basis and final approved budget require confirmation.",
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "label": "Source differences",
+          "value": "Brief study summary 977–982 ft² conflicts with its 997.71 drawing. Two-bedroom B is 1,284.08 in brief versus 1,284.03 in plans. Printed plan totals retained, including 0.01 rounding differences.",
+          "sourceIds": [
+            "brief",
+            "plans"
+          ]
+        },
+        {
+          "label": "Construction information",
+          "value": "Own gallery includes October 2026 photographs; a gallery date is not proof of completion.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock, signed price, furnishing and final service-charge budget require a dated selected-unit quotation.",
+        "Primary calendar completion is unavailable; secondary guide contradicts itself. Obtain the contractual programme.",
+        "Study size summary and individual drawings require developer reconciliation before purchase."
+      ]
+    }
+  }
+}

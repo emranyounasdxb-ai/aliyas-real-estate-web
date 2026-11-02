@@ -1,0 +1,64 @@
+{
+ "id":"emaar-project-57","name":"ARLO","developerSlug":"emaar",
+ "fields":{
+  "description":"ARLO offers one to three bedroom apartments and three-bedroom townhouses near Creek Beach in Dubai Creek Harbour. Large windows and private balconies connect the homes to their surroundings. The townhouse collection adds a different way to live here, with three levels and rooftop terraces rather than a standard single-floor apartment layout.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1700000,"handover":"Q4 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Swimming pool","Children’s pool","Children’s play area","Indoor and outdoor gym","Multipurpose room","Yoga area","Meditation spaces"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/385314_brochure_File_7b6c971980_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ARLO_DCH_FLOOR_PLANS.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: ARLO at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/arlo-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: ARLO brochure","url":"https://www.emaar.com/cms-media/uploads/385314_brochure_File_7b6c971980_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"plans","label":"Emaar: ARLO apartments and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/ARLO_DCH_FLOOR_PLANS.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"ARLO fact sheet and payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/arlo/ARLO_DCH_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"finder","label":"Property Finder: Arlo","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/arlo","kind":"portal","checkedOn":"2026-10-31","derivedWords":100}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["facts","finder"],"handover":["facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Official ARLO page and own documents confirmed, without borrowing neighbouring tower data.",
+    "location":"Near Creek Beach in Dubai Creek Harbour. Marketing transport proximity is qualified pending operational-route confirmation.",
+    "residences":"Apartment and townhouse categories confirmed. Townhouses have their own three-level layout.",
+    "areas":"All twenty official plan pages reviewed and townhouse page visually inspected. Apartment ranges exclude rooftop-townhouse areas.",
+    "amenities":"Official pool, fitness, play and wellness facilities checked against brochure; wider district amenities not represented as private facilities.",
+    "pricing":"Developer headline and historical category launch prices distinguished from portal resale/availability claims.",
+    "payment":"Ten-stage fact-sheet schedule visually checked; ten 10% stages total 100% and agree with portal summary.",
+    "handover":"October 2028 documentary estimate agrees with Property Finder. Stale portal progress percentage not treated as current.",
+    "documents":"Official brochure and complete floor-plan pack linked; fact sheet includes the payment schedule. Images unchanged."
+   },
+   "community":"Dubai Creek Harbour · near Creek Beach",
+   "overview":["The brochure combines an industrial-inspired interior palette with natural materials and generous windows. Communal areas are designed with high ceilings, while a yoga zone, meditation spaces and fitness facilities support everyday use. Ground-floor homes are described as opening towards the creek promenade; confirm the access route and privacy conditions of the particular unit. Energy-efficient systems and waste-management measures form part of the published design brief."],
+   "locationNote":"Emaar places ARLO near Creek Beach and the waterfront promenade, with a neighbourhood park described as roughly 80 metres away. Creek Marina, Harbour Promenade and Central Park are among the surrounding destinations. Advertised walking times to metro services should be checked against current station locations and opening dates.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.7m. The May 2024 launch sheet lists one, two and three bedroom apartments from AED 1.7m, 2.7m and 4.7m, and townhouses from AED 5.6m. These historical category prices do not establish current stock or resale terms.",
+   "paymentNote":"The launch plan totals 90% before completion and 10% at completion. It is a historical schedule; request current outstanding instalments and contract terms for a specific purchase.",
+   "handoverNote":"October 2028 is the estimated completion month reported by the project fact sheet and Property Finder. Confirm the current contractual programme; the portal’s construction update is dated October 2025 and is not a present-day inspection.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"705.25–829.36 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,208.79–1,261.21 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,745.05 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · ground unit 01","area":"3,262.55 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · ground units 02–08","area":"3,275.68 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"May 2024 · launch down payment","percent":10,"sourceIds":["facts"]},
+    {"stage":"July 2024","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"April 2026 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"November 2026 · 40% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2027 · 60% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"December 2027 · 80% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"April 2028 · 90% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"October 2028 · estimated completion","percent":10,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The fact sheet reports 431 homes, including apartments and townhouses. This is not current inventory.","sourceIds":["facts"]},
+    {"label":"Townhouse arrangement","value":"The lower floor contains a bedroom, maid’s room and living/kitchen space; two bedrooms occupy the middle floor. The upper level combines another living space with a rooftop terrace. Published suite areas are 2,146.65 or 2,157.20 sq ft, with outdoor components accounting for the larger total.","sourceIds":["plans"]},
+    {"label":"One-bedroom balcony choices","value":"The 829.36 sq ft first-floor unit 02 includes a 176.42 sq ft balcony. Many upper-floor one-bedroom plans have approximately 55 sq ft of balcony space. Compare internal area and outdoor space separately.","sourceIds":["plans"]},
+    {"label":"Availability caution","value":"Property Finder displays a sold-out label alongside a starting price and resale listings. A displayed price does not confirm a developer allocation; availability and sale type need checking for the individual home.","sourceIds":["finder"]}
+   ],
+   "unresolved":["Current developer inventory, resale status, quotation and outstanding payments need confirmation.","Current construction progress, contractual handover, service charges and parking allocations are not independently verified.","Confirm the final specifications, promenade access, facility delivery and operating transport connections.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

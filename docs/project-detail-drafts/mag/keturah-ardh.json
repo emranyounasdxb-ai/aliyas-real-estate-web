@@ -1,0 +1,260 @@
+{
+  "id": "mag-project-01",
+  "name": "Keturah Ardh",
+  "developerSlug": "mag",
+  "fields": {
+    "description": "Keturah Ardh is a planned community in Al Rowaiyah First District. Its first release comprises townhouse-development plots arranged around shared landscape and leisure spaces, rather than a verified catalogue of finished homes.",
+    "areaId": "dubai-al-rowaiyah-first",
+    "location": "Al Rowaiyah First District",
+    "emirate": "Dubai",
+    "type": null,
+    "bedrooms": null,
+    "price": null,
+    "handover": "2030",
+    "paymentPlan": null,
+    "amenities": [
+      "Planned padel courts",
+      "Planned gym",
+      "Planned yoga spaces",
+      "Planned barbecue areas",
+      "Planned pools",
+      "Planned children’s park",
+      "Planned retail and dining"
+    ],
+    "brochureUrl": "https://www.fullstory.ae/api/public-project-documents/2929-1",
+    "floorPlanUrl": "https://magit.blob.core.windows.net/renders/KeturahArdh/Phase1_THPlots/FloorPlan/Ardh-TH01_35.jpg",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ardh: developer master-community page",
+          "url": "https://keturah.global/ardh/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "release",
+          "label": "Ardh phase-one sales and programme: developer release, 25 February 2026",
+          "url": "https://www.keturah.global/press-ardh-first-phase-sold/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Ardh: branded 35-page brochure, broker-hosted",
+          "url": "https://www.fullstory.ae/api/public-project-documents/2929-1",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "drawing",
+          "label": "Phase-one plot 35: original MAG development-control drawing",
+          "url": "https://magit.blob.core.windows.net/renders/KeturahArdh/Phase1_THPlots/FloorPlan/Ardh-TH01_35.jpg",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "offer",
+          "label": "Phase-one plot 35: expired MAG offer, 12 November 2025",
+          "url": "https://sales.mag.ae/Offer/eb37376f-3243-484d-b774-4cd533b23766.html",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "fam",
+          "label": "Ardh: fäm Properties project FAQ",
+          "url": "https://famproperties.com/faqs/mag-keturah-ardh-prices",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "release"
+        ],
+        "areaId": [
+          "release"
+        ],
+        "location": [
+          "release"
+        ],
+        "emirate": [
+          "release"
+        ],
+        "type": [
+          "release",
+          "offer"
+        ],
+        "bedrooms": [
+          "offer"
+        ],
+        "price": [
+          "offer"
+        ],
+        "handover": [
+          "release",
+          "offer",
+          "fam"
+        ],
+        "paymentPlan": [
+          "offer"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "drawing"
+        ],
+        "community": [
+          "release"
+        ],
+        "overview": [
+          "release",
+          "offer"
+        ],
+        "locationNote": [
+          "release"
+        ],
+        "priceLabel": [
+          "offer"
+        ],
+        "priceNote": [
+          "offer"
+        ],
+        "paymentNote": [
+          "offer"
+        ],
+        "handoverNote": [
+          "release",
+          "offer",
+          "fam"
+        ],
+        "units": [
+          "drawing"
+        ],
+        "paymentStages": [
+          "offer"
+        ],
+        "facts": [
+          "brochure",
+          "drawing",
+          "developer",
+          "release"
+        ],
+        "unresolved": [
+          "brochure",
+          "drawing",
+          "offer",
+          "developer"
+        ]
+      },
+      "community": "Al Rowaiyah First District",
+      "overview": [
+        "Plot purchases require separately approved home designs and construction budgets."
+      ],
+      "locationNote": "Al Rowaiyah First District, Dubai, according to the developer’s phase-one release.",
+      "priceLabel": "Current plot quotation required",
+      "priceNote": "Expired 12 November 2025 plot 35 offer: AED 9,308,000, not a starting price or current quotation.",
+      "paymentNote": "Expired plot 35 schedule; 4% OQOOD and AED 5,000 registration were additional.",
+      "handoverNote": "Full-community target 2030; infrastructure Q1 2026 unconfirmed. Plot 35’s expired offer specified December 2026; fäm lists July 2028. Different scopes require confirmation.",
+      "units": [
+        {
+          "label": "Plot 35: land",
+          "area": "10,380.25 ft² / 964.36 m²",
+          "sourceIds": [
+            "drawing"
+          ]
+        },
+        {
+          "label": "Plot 35: maximum GFA",
+          "area": "12,455.78 ft² / 1,157.18 m²",
+          "sourceIds": [
+            "drawing"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Historical booking",
+          "percent": 20,
+          "sourceIds": [
+            "offer"
+          ]
+        },
+        {
+          "stage": "11 May 2026",
+          "percent": 30,
+          "sourceIds": [
+            "offer"
+          ]
+        },
+        {
+          "stage": "12 November 2026",
+          "percent": 40,
+          "sourceIds": [
+            "offer"
+          ]
+        },
+        {
+          "stage": "Handover: 31 December 2026",
+          "percent": 10,
+          "sourceIds": [
+            "offer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Phase-one layout",
+          "value": "93 clusters; 558 townhouses, per brochure. The release instead calls 558 townhouse plots.",
+          "sourceIds": [
+            "brochure",
+            "release"
+          ]
+        },
+        {
+          "label": "Plot 35 permissions",
+          "value": "Four townhouses; G+2; 3 m setbacks on all sides. Preliminary, subject to approval.",
+          "sourceIds": [
+            "drawing"
+          ]
+        },
+        {
+          "label": "Master-community size",
+          "value": "Project page: 18 million ft²; release: 18.47 million ft².",
+          "sourceIds": [
+            "developer",
+            "release"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The site allocation is inconsistent: 9.9 million ft² is labelled 47% of 18 million (55% calculated); 2.7 million is labelled 23% (15% calculated). Confirm revised planning data.",
+        "Offer area is maximum GFA. Confirm approved controls, infrastructure, construction obligations, charges and stock; illustrations are indicative."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected mag-project-01 Keturah Ardh, not Reserve/Creek/Resort. MAG original offer explicitly PhaseI TH Plots. Null type/bedrooms because established filters lack land and no finished-home mix verified.",
+        "location": "Exact developer release Al Rowaiyah First District, Dubai. No inferred Al Warsan equivalence, coordinates, journey guarantees or future metro entitlement. Root added exact primary-supported central area dubai-al-rowaiyah-first without coordinates.",
+        "residences": "35-page original branded brochure p32 visibly93clusters/558townhouses; developer release loosely558townhouseplots. Explicit basis ambiguity retained. Plot 35 original drawing allows four townhouses G+2, not four bedrooms. No assumptions about completed shells/furnishing.",
+        "areas": "All35 brochure pages screened; numerical p12 land-use panel andp32 counts full visual. Original own plot 35 actual drawing visually read:964.36m2/10380.25ft2 plot vs1157.18m2/12455.78ft2 maxGFA;3m setbacks. Offer12455.78137 matchesGFA notland. No individual home plans/areas inferred. GCC alternative indexed brochure403 excluded numeric tables.",
+        "amenities": "Actual brochure24general community programme,33/34phaseI leisure strip full visual:padel,gym,yoga,barbecue,pools,kidspark,retail/dining. All labelled planned; genericwholemasterplan clinics/schools notphaseguarantee. No health-outcome claims.",
+        "pricing": "Original public MAG offer generated12November2025 valid5days:9308000AED cluster 35; not current quote, not starting price. No per-home average calculated and no resale portalaskingprice adopted. Client details not republished.",
+        "payment": "Original MAG HTML20+30+40+10=100; amounts1861600+2792400+3723200+930800=9308000.4%OQOOD372320 and5000 registration outsidepurchase100. ExactdatesMay11/Nov12/Dec31 2026. Expiredcontractreference only, headline null; alternative20/30/50portal not merged.",
+        "handover": "Developer25Feb2026 release targets infrastructureQ12026, constructionQ42026,fullcommunity2030; elapsedinfrastructureunconfirmed. Plot-specific2026offer vsbrokerJuly31,2028 noteddifferent scopes, notsilently collapsed. No completion certificate/currentconstructionpercentageverified.",
+        "documents": "OwnprojectBrochure opensleadform,no submission. PublicFullStory visible Download brochure endpoint ordinary200 retrieved35p originalbrandedPDF38040181bytes; allcontactsread plusfull12/24/32/33/34. OfficialMAG ownlinkedplot 35image actualnumericdrawingread. OriginalselectedofferordinarypublicHTML, noforms. Brochure70+reuseddrawing60+offer70 pooled200 conservative; currentmain120/release100/Fam25separate, no sharedcorporateFAQ derivation. Some masterplan fractions inconsistent disclosed ratherthan repaired."
+      }
+    }
+  }
+}

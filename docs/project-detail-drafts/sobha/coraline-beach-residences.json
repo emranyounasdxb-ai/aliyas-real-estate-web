@@ -1,0 +1,182 @@
+{
+  "id": "sobha-project-47",
+  "name": "Coraline Beach Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Coraline Beach Residences is a three-tower beach apartment collection on Sobha Siniya Island, Umm Al Quwain. One- to three-bedroom homes include duplex layouts with distinct lower and upper levels. The developer specifically identifies Tower C as fully furnished.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 2400000,
+    "handover": "2028 · timing varies",
+    "paymentPlan": "20/40/40 · reported plan",
+    "amenities": [
+      "Lagoon beach",
+      "Water sports",
+      "Swimming pool",
+      "Children’s play areas",
+      "Outdoor cinema",
+      "Landscaped courtyards"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-10/Coraline%20Beach%20Residences%20Brochure_7thOct_compressed.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-10/Coraline%20Beach%20Residences%20Brochure_7thOct_compressed.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Coraline Beach Residences official project page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/beach-residences/coraline",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Coraline Beach Residences own official brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-10/Coraline%20Beach%20Residences%20Brochure_7thOct_compressed.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Coraline Beach Residences",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-coraline-beach-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "alternative",
+          "label": "Lucretia: different Coraline unit selection and March 2028 estimate",
+          "url": "https://www.lucretia-international.com/en/projects/sobha-coraline-beach-residences",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder",
+          "alternative"
+        ],
+        "handover": [
+          "finder",
+          "alternative"
+        ],
+        "paymentPlan": [
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Coraline document and three-tower identity checked; Coral Beach villas not conflated.",
+        "location": "Official Siniya Island in Umm Al Quwain confirmed.",
+        "residences": "One-to-three-bedroom apartments including actual three-bedroom duplex drawing checked.",
+        "areas": "Own numerical panels and actual plans visually checked on PDF pages 51, 83 and 131.",
+        "amenities": "Own official facilities list and Tower C furnishing statement checked.",
+        "pricing": "Official 2.40m guide retained; portal anomalous 11m launch not adopted.",
+        "payment": "Portal separate 60/40 and 20/40/40 options each total 100; option 2 shown.",
+        "handover": "Portal October versus broker March 2028 timing conflict recorded.",
+        "documents": "Own 144-page official brochure retrieved; duplex levels and area inclusion visually inspected."
+      },
+      "community": "Sobha Siniya Island",
+      "overview": [
+        "The reviewed three-bedroom duplex separates living areas from upper bedrooms. Its saleable total includes a lower yard and upper balcony, which should be assessed separately from enclosed floor space."
+      ],
+      "locationNote": "The developer places Coraline on Sobha Siniya Island in Umm Al Quwain. Beach, lagoon and golf-course views are plan-specific; no universal uninterrupted-view promise is assumed.",
+      "priceLabel": "Developer website starting guide",
+      "priceNote": "The official page displays AED 2.40m subject to inventory availability. Property Finder’s AED 11m launch field is inconsistent with the apartment collection and other sources; it is not used. Lucretia advertises around AED 1.2m for a separate unit selection. Obtain a dated quote for actual stock.",
+      "paymentNote": "Property Finder provides two separate options: 60% construction/40% handover, and 20% booking/40% construction/40% handover. The latter is displayed, without merging schedules. No dated primary calendar was located.",
+      "handoverNote": "Property Finder reports October 2028, while a Lucretia listing updated 30 October 2026 gives March 2028. Only the shared year is displayed. The delivery quarter and individual contract date remain unresolved.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "513.22–515.81 sq ft total saleable, including balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type C · yard layout",
+          "area": "805.89–807.08 sq ft total saleable, including yard",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex Type A",
+          "area": "1,777.34–1,780.89 sq ft total saleable, including yard and balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported option 2",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furnishing scope",
+          "value": "Fully furnished residences are specifically identified in Tower C, rather than across all three towers.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Resolve the conflicting 2028 completion months and obtain a current primary payment schedule.",
+        "Current inventory, service charges, parking and furnishing specification need confirmation. Only Tower C is expressly furnished; images remain illustrative.",
+        "Portal launch-price anomaly is retained as a source conflict, not silently repaired or represented as a current price."
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "id":"emaar-project-23","name":"Golf Verge","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Verge is an apartment development beside the Emaar South golf setting, with one to three bedroom homes across Buildings A and B and two bedroom layouts in Building C. Large windows, earthy finishes and planted leisure spaces connect the interiors with the surrounding landscape. Pools, courts and fitness spaces provide several ways to spend time outdoors.",
+  "areaId":"dubai-south","location":"Dubai South","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":2635888,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s pools","Splash pad","Children’s play area","Padel court","Event lawn","Barbecue area","Table tennis","Indoor and outdoor yoga areas","Indoor and outdoor gyms","Multipurpose room","Landscaped lawns"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Golf-Verge_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Golf-Verge_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Verge at Emaar South","url":"https://www.emaar.com/en/properties/golf-verge-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: Golf Verge brochure","url":"https://www.emaar.com/cms-media/uploads/Golf-Verge_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"plans-c","label":"Emaar: Golf Verge Building C floor plans","url":"https://www.emaar.com/cms-media/uploads/Golf-Verge_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":105},
+    {"id":"plans-a","label":"Golf Verge Building A plans · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-verge/GOLF-VERGE_BLDG-A_FLOORPLANS.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"plans-b","label":"Golf Verge Building B plans · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-verge/GOLF-VERGE_BLDG-B_FLOORPLANS.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":120},
+    {"id":"facts","label":"Golf Verge launch fact sheet · Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-verge/GOLF-VERGE_ES_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":130},
+    {"id":"payment","label":"Golf Verge launch payment plan · Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-verge/GOLF-VERGE_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Golf Verge completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-verge","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure","plans-a","plans-b","plans-c"],"overview":["brochure"],"location":["official","brochure"],"type":["official","facts","plans-a","plans-b","plans-c"],"bedrooms":["official","facts"],"amenities":["official","brochure"],"price":["official"],"units":["plans-a","plans-b","plans-c"],"documents":["official","plans-a","plans-b"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Verge official page and individually identified A/B/C plan sets reviewed; not mixed with Golf Meadow.",
+    "location":"Emaar South within Dubai South; airport and wider Dubai map checked in brochure.",
+    "residences":"One to three bedroom apartments. Brochure's townhouse reference conflicts with official page, fact sheet and all reviewed plans; not marketed as an established townhouse offering.",
+    "areas":"16 A, 20 B and nine C plan pages extracted and reviewed, encoded numerical rows decoded, representative layouts visually checked. A/B copies have separate provenance. Detailed totals preferred over incomplete portal ranges and fact-sheet averages.",
+    "amenities":"Official page and brochure page 4 supply pool, fitness, yoga, lawn and activity facilities; no unsupported smart-home or spa claim.",
+    "pricing":"Current official displayed units-from AED 2,635,888 used; AED 1.2 million remains historical launch context.",
+    "payment":"Copied Emaar payment sheet read and visually checked; March 2025 launch schedule totals 100%, with 10/70/20 corroborated by PF.",
+    "handover":"May 2029 estimated completion in copied Emaar payment sheet and PF, shown as reported Q2 2029.",
+    "documents":"Official 21-page brochure and Building C plans linked. A/B plans and launch fact/payment sheets linked separately as broker-hosted Emaar documents. Images unchanged."
+   },
+   "community":"Emaar South",
+   "overview":["Golf Verge’s facilities combine active spaces with places to slow down: landscaped lawns, indoor and outdoor yoga, a multipurpose room and swimming areas. The wider Emaar South community supplies the golf-course and retail context. These neighbourhood features should be distinguished from facilities within a particular building and from any paid membership."],
+   "locationNote":"Golf Verge is in Emaar South, within Dubai South near Al Maktoum International Airport. The developer’s brochure positions Dubai Marina and Downtown Dubai as wider destinations. Its journey times are promotional estimates and should be checked against an actual route.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s displayed unit pricing starts at AED 2,635,888 on the research date. The AED 1.20 million headline relates to launch pricing. Neither the headline nor the published unit count confirms live availability or a particular view.",
+   "paymentNote":"The March 2025 launch plan requires 10% at booking, seven subsequent 10% instalments and 20% at completion. Historical dates are retained for context. A new purchase needs confirmation of the current payment agreement and any amounts already due.",
+   "handoverNote":"The copied Emaar payment plan targets May 2029 for estimated construction completion, corroborated by Property Finder. Contractual handover and current progress require confirmation.",
+   "units":[
+    {"label":"1 bedroom · Building A","area":"799.01–838.40 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"2 bedrooms · Building A","area":"1,308.46–1,694.02 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"3 bedrooms · Building A","area":"1,682.72–1,777.44 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"1 bedroom · Building B","area":"799.01–1,009.87 sq ft total area","sourceIds":["plans-b"]},
+    {"label":"2 bedrooms · Building B","area":"1,308.46–1,704.36 sq ft total area","sourceIds":["plans-b"]},
+    {"label":"3 bedrooms · Building B","area":"1,682.94–1,777.55 sq ft total area","sourceIds":["plans-b"]},
+    {"label":"2 bedrooms · Building C","area":"1,316.96–1,560.55 sq ft total area","sourceIds":["plans-c"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · March 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The fact sheet lists 204 apartments: 66 with one bedroom, 120 with two and 18 with three. This describes the launch collection, not current inventory.","sourceIds":["facts"]},
+    {"label":"Historical type prices","value":"The launch sheet quoted starting prices of AED 1.20 million for one bedroom, AED 1.94 million for two bedrooms and AED 3.27 million for three bedrooms.","sourceIds":["facts"]},
+    {"label":"Building C layouts","value":"The official download covers Building C’s single-level two bedroom homes at ground and podium levels. Terrace and balcony sizes vary; totals include this outdoor area.","sourceIds":["plans-c"]},
+    {"label":"Larger apartment planning","value":"Building A’s three bedroom Type 1 plan includes a study, laundry space and two balconies. The key section places this type on floors 10–12; this does not describe every three bedroom layout.","sourceIds":["plans-a"]}
+   ],
+   "unresolved":["Selected home availability, price, view, parking allocation and current payment terms.","Brochure page 16 mentions townhouses, but the official headline, fact sheet and reviewed A/B/C plans support apartments; a townhouse release is not established.","Current construction status, contractual handover, service charges and final specifications.","Golf access terms and opening dates for wider community facilities.","Official project imagery is deferred; existing photographs remain illustrative."]
+  }
+ }
+}

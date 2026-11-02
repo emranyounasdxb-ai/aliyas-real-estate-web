@@ -1,0 +1,222 @@
+{
+  "id": "damac-project-18",
+  "name": "DAMAC Bay 2 by Cavalli",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "DAMAC Bay 2 by Cavalli is the second Bay-branded waterfront release at Dubai Harbour. The developer describes a 49-storey collection of one- to five-bedroom homes, combining Cavalli-inspired interiors with swimming and wellness facilities.",
+    "areaId": "dubai-harbour",
+    "location": "Dubai Harbour",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 2990000,
+    "handover": null,
+    "paymentPlan": "20/60/20 · portal reference",
+    "amenities": [
+      "Three infinity pools",
+      "Floating relaxation pods",
+      "Hydrotherapy and hot-tub boats",
+      "Wellness treatment spaces",
+      "Cavalli Museum concept",
+      "Dream pods"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/8f25e416567046ad8fbadd81cdcb3ec0.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/bMerS26QS-whxvkJ5b8q4U_kKHg/TmMwsg/DAMAC%20Bay%202.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "DAMAC: Bay 2 by Cavalli project page",
+          "url": "https://preprod.damacproperties.com/en/projects/damac-bay-two-by-cavalli/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "presentation",
+          "label": "DAMAC Bay II branded sales presentation, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/8f25e416567046ad8fbadd81cdcb3ec0.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "DAMAC Bay II typical floor plans, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/bMerS26QS-whxvkJ5b8q4U_kKHg/TmMwsg/DAMAC%20Bay%202.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Bay 2 completion/payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/damac-bay-2",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "market",
+          "label": "Casadior: Bay 2 differing commercial reference",
+          "url": "https://maisondubai.com/projects/damac-bay-2",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "presentation"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "presentation"
+        ],
+        "units": [
+          "presentation",
+          "plans"
+        ],
+        "handover": [
+          "presentation",
+          "finder",
+          "market"
+        ],
+        "paymentPlan": [
+          "presentation",
+          "finder",
+          "market"
+        ],
+        "documents": [
+          "presentation",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Bay II branding verified separately from first Bay development.",
+        "location": "Dubai Harbour confirmed by DAMAC, not portal Media City classification.",
+        "residences": "Official 1–5-bedroom offering; own 1BR drawing and tower A/B labels checked.",
+        "areas": "Presentation launch summary visually read by tower; no individual-unit area invented from room dimensions.",
+        "amenities": "Developer-specific three infinity pools/pods/treatments/Museum reviewed.",
+        "pricing": "2.99 m original inventory minimum distinguished from later portal 7.3 m or broker 8.338 m selections.",
+        "payment": "Presentation 104% arithmetic unresolved; PF20/60/20 displayed as attributed reference, broker 20/20/60 differs.",
+        "handover": "Original Jan 2028 vs PF Q4 2028 vs broker Q4 2027; headline left unconfirmed.",
+        "documents": "52 p own branded presentation and 10 p typical-plan pack downloaded; numerical commercial tables and 1BR plans visually inspected."
+      },
+      "community": "DAMAC Bay 2 by Cavalli · Dubai Harbour",
+      "overview": [
+        "The presentation distinguishes conventional luxury apartments from larger super-luxury residences. Its specification includes fitted kitchens and built-in wardrobes, while the typical plans illustrate different balcony shapes and positions. Furniture shown in imagery should not be assumed to form part of the purchase."
+      ],
+      "locationNote": "DAMAC places Bay 2 in Dubai Harbour opposite Dubai Marina, within the waterfront district between Palm Jumeirah and Bluewaters. Confirm the actual tower, entrance and beach-access arrangements for the chosen home.",
+      "priceLabel": "Original presentation minimum · reconfirm",
+      "priceNote": "The original tower A inventory table starts at AED 2.99 m; tower B starts at AED 3.08 m. These dated marketing references do not represent current stock. Property Finder’s later headline is around AED 7.3 m and another broker advertises a different selection; obtain a current unit quotation.",
+      "paymentNote": "Property Finder’s 20/60/20 reference is shown below. The original presentation prints 24% immediately, twelve 4% quarterly stages, four 3% stages and 20% completion:104% in total. It does not explain the additional amount. Another broker gives 20/20/60. No fee assumption or normalization was made.",
+      "handoverNote": "The original presentation says January 2028, Property Finder gives Q4 2028, and Casadior gives Q4 2027. These sources conflict; confirm the contractual date for the selected tower and unit.",
+      "units": [
+        {
+          "label": "Tower A · 1-bedroom launch range",
+          "area": "733–871 sq ft saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Tower B · 1-bedroom launch range",
+          "area": "733–873 sq ft saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Tower A · 2-bedroom launch range",
+          "area": "1,123–2,856 sq ft saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Tower B · 2-bedroom launch range",
+          "area": "1,123–2,996 sq ft saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Tower A/B · 3-bedroom launch range",
+          "area": "1,778–3,375 sq ft saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4- and 5-bedroom super-luxury homes",
+          "area": "Types confirmed by DAMAC; selected unit areas require confirmation",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal reference",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal reference",
+          "percent": 60,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original release summary",
+          "value": "The presentation lists 180 tower A and 194 tower B conventional homes. These 374 entries describe that table’s release scope, not the full development or remaining stock.",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Parking reference",
+          "value": "Published parking: 1/2-bedroom homes one space; 3-bedroom two; 4-bedroom three; 5-bedroom four. Confirm the contractual allocation.",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Obtain current contractual completion and payment terms; the original table and later public listings conflict.",
+        "The 104% original payment arithmetic is unresolved; no extra amount has been classified as a fee.",
+        "Confirm exact tower/phase, registered unit area, balcony treatment, service charges, parking and furnishing.",
+        "Beach access, branded facilities, operating fees and delivery scope need confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

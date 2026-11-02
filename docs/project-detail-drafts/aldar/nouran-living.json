@@ -1,0 +1,227 @@
+{
+  "id": "aldar-project-27",
+  "name": "Nouran Living",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Nouran Living is Aldar’s mid-rise residential development in Saadiyat Island’s Marina District. Its 372-home launch collection spans studios and one-to-three-bedroom apartments, with a courtyard, social lounges and facilities for everyday work, exercise and leisure.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 750000,
+    "handover": "Q4 2027 · estimated",
+    "paymentPlan": "65/35 · reported",
+    "amenities": [
+      "Landscaped courtyard",
+      "Bicycle storage",
+      "Multipurpose halls",
+      "Indoor and outdoor children’s play",
+      "Children’s swimming pool",
+      "Running track",
+      "Padel court",
+      "Indoor and outdoor gym",
+      "Cinema lounge",
+      "Reading area",
+      "Co-working lounge",
+      "Sports hall"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/pro-43518_nouran-living_brochure_v9.pdf/70ffed90cc6611f0b1c10a8b1e2cbf4f",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/pro-43518_nouran-living_brochure_v9.pdf/70ffed90cc6611f0b1c10a8b1e2cbf4f",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Nouran Living",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/nouran-living",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Nouran Living launch, 13 March 2024",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-nouran-living-launch",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Nouran Living brochure and floor plans",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/pro-43518_nouran-living_brochure_v9.pdf/70ffed90cc6611f0b1c10a8b1e2cbf4f",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Nouran Living project and layout table",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/nouran-living",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "metropolitan",
+          "label": "Metropolitan Capital: Nouran Living",
+          "url": "https://abudhabioffplan.ae/saadiyat-island/nouran-living-metropolitan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "brochure",
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "launch",
+          "finder"
+        ],
+        "units": [
+          "brochure",
+          "finder",
+          "metropolitan"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "finder",
+          "metropolitan"
+        ],
+        "handover": [
+          "launch",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Aldar project and March 2024 launch checked; distinct from other Living-series developments.",
+        "location": "Saadiyat Marina District and NYU Abu Dhabi context confirmed.",
+        "residences": "Studio and one-to-three-bedroom configurations confirmed; larger plans distinguish maid and study space.",
+        "areas": "Official typical layouts visually reviewed; total areas absent. Portal one-to-three-bedroom examples attributed; inconsistent studio size flagged.",
+        "amenities": "Own project facility list checked rather than generic island amenities.",
+        "pricing": "AED 750,000 is the developer’s March 2024 launch starting price, not current available stock.",
+        "payment": "Property Finder 10/55/35 corroborated by Metropolitan 65/35 with 10% deposit; exact dated official schedule unavailable.",
+        "handover": "Official launch Q4 2027 agrees with current Property Finder; remains estimated.",
+        "documents": "Official 53-page brochure downloaded; pages 27–35 plans inspected, with six representative plates visually checked."
+      },
+      "community": "Saadiyat Marina District",
+      "overview": [
+        "Nouran Living is organised around a shared courtyard and indoor social spaces. Its design offers two interior colour choices and includes practical communal areas for reading, co-working and exercise. The typical three-bedroom layout includes a study and maid’s room; selected two-bedroom types also provide a maid’s room."
+      ],
+      "locationNote": "Aldar places Nouran Living in Saadiyat’s Marina District, close to NYU Abu Dhabi and the planned marina waterfront. The E12 provides wider island connections. Marina facilities described at launch should not be assumed operational without checking.",
+      "priceLabel": "Launch price · March 2024",
+      "priceNote": "Aldar announced prices from AED 750,000 when sales opened in March 2024. Property Finder now distinguishes resale listings from developer stock; the launch figure is historical and does not confirm current availability.",
+      "paymentNote": "The reported schedule totals 65% before completion and 35% on handover. Confirm the instalment dates and any paid balance for the selected residence.",
+      "handoverNote": "The official March 2024 launch expected Q4 2027 handovers; the current project portal reports the same quarter. The signed agreement governs the particular unit.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "Total area requires confirmation; sources differ",
+          "sourceIds": [
+            "brochure",
+            "finder",
+            "metropolitan"
+          ]
+        },
+        {
+          "label": "1-bedroom · types A–E",
+          "area": "753–839 sq ft reported examples",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2-bedroom · types 1 and 3",
+          "area": "1,173 / 1,205 sq ft reported",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2-bedroom · types 2 and 4",
+          "area": "1,539 sq ft reported; maid’s room layouts",
+          "sourceIds": [
+            "finder",
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom plus maid and study",
+          "area": "2,195 sq ft reported typical example",
+          "sourceIds": [
+            "finder",
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported",
+          "percent": 10,
+          "sourceIds": [
+            "finder",
+            "metropolitan"
+          ]
+        },
+        {
+          "stage": "During construction · reported",
+          "percent": 55,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · reported",
+          "percent": 35,
+          "sourceIds": [
+            "finder",
+            "metropolitan"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original collection",
+          "value": "Aldar announced 372 homes, with sales opening to buyers of all nationalities on 19 March 2024. This is a launch collection count, not remaining inventory.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Interior specification",
+          "value": "The brochure’s finish palettes show porcelain flooring and quartz kitchen counters. Confirm the selected palette, supplied appliances and any final specification changes in the sales documents.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Obtain unit-specific gross, internal and balcony areas; studio figures conflict across public sources.",
+        "Confirm current price, availability, service charges and payment dates.",
+        "The brochure has room dimensions but no complete numerical unit-area schedule. Portal areas therefore remain reported examples.",
+        "Confirm actual completion timing, marina access and delivered specification before contracting."
+      ]
+    }
+  }
+}

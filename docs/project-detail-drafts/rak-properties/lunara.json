@@ -1,0 +1,278 @@
+{
+  "id": "rak-properties-project-01",
+  "name": "Lunara",
+  "developerSlug": "rak-properties",
+  "fields": {
+    "description": "Lunara is The Strand’s first residential release: three connected buildings with balconies and terraces, shared recreation spaces and ground-level activity in the Urban District.",
+    "areaId": "rak-marjan-beach-district",
+    "location": "Marjan Beach District",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1050000,
+    "handover": null,
+    "paymentPlan": "40 / 60",
+    "amenities": [
+      "Infinity pool",
+      "Gym",
+      "Clubhouse",
+      "Wellness deck",
+      "Coworking space",
+      "Private balcony or terrace"
+    ],
+    "brochureUrl": "https://thestrand.ae/wp-content/uploads/TheStrand_Brochure.pdf",
+    "floorPlanUrl": "https://thestrand.ae/wp-content/uploads/LUNARA-FLOOR-PLANS-com.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "RAK Properties · Lunara project",
+          "url": "https://www.rakproperties.ae/our-properties/lunara/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 140
+        },
+        {
+          "id": "strand",
+          "label": "The Strand · Lunara first release",
+          "url": "https://thestrand.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "release",
+          "label": "RAK Properties · Lunara sales announcement, 27 February 2026",
+          "url": "https://www.rakproperties.ae/news/rak-properties-announces-sales-for-lunara-on-the-strand-a-new-destination-community-at-marjan-beach/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "facts",
+          "label": "The Strand · Lunara factsheet",
+          "url": "https://thestrand.ae/wp-content/uploads/Lunara_Factsheet-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 85
+        },
+        {
+          "id": "plans",
+          "label": "The Strand · Lunara apartment drawings",
+          "url": "https://thestrand.ae/wp-content/uploads/LUNARA-FLOOR-PLANS-com.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 115
+        },
+        {
+          "id": "brochure",
+          "label": "The Strand · Community brochure",
+          "url": "https://thestrand.ae/wp-content/uploads/TheStrand_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Lunara launch reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/rak-properties/lunara-the-strand",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        }
+      ],
+      "community": "Lunara, Urban District, The Strand",
+      "overview": [
+        "Three connected buildings contain 583 homes, ranging from compact one-bedroom layouts to a single three-bedroom penthouse."
+      ],
+      "locationNote": "The Strand’s Urban District is in the mainland Marjan Beach District, Ras Al Khaimah. The portal’s Al Marjan Island grouping does not establish an island address.",
+      "priceLabel": "Developer-advertised from",
+      "priceNote": "The current factsheet and official microsite advertise AED 1.05m for the one-bedroom Suite. The 27 February 2026 announcement quoted AED 1.28m at launch. These are published starting guides, not a live unit quotation.",
+      "paymentNote": "The developer advertises 40/60 without an instalment calendar. The table uses Property Finder’s separately attributed 10/30/60 reference; confirm the applicable booking and construction terms.",
+      "handoverNote": "The current factsheet forecasts Q4 2029; the 27 February 2026 release forecast Q1 2029. The main project page still says TBC. Obtain the contracted completion date.",
+      "units": [
+        {
+          "label": "1BR Suite",
+          "area": "597.50–615.91 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Garden",
+          "area": "712.46–731.19 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Deluxe",
+          "area": "630.87–649.28 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Corner 1 / 2",
+          "area": "837.97–838.19 / 846.37–890.07 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Premium",
+          "area": "1,213.09–1,229.99 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + maid 1 / 2",
+          "area": "1,274.45–1,294.36 / 2,013.60–2,017.80 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR Penthouse · repeated level total",
+          "area": "2,852.22 ft²; whole-home basis unconfirmed",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal reference",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 30,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 60,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Factsheet Deluxe areas differ from detailed plans. Published totals also contain component-sum discrepancies; values below retain the printed totals.",
+        "The penthouse repeats 2,852.22 ft² on both levels; confirm its whole-home area rather than adding them.",
+        "Original dated payment milestones, ownership instrument, service charges and present availability were not verified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected rak-properties-project-01 Lunara, not Dubai Tarrad Lunara Tower. Main exactpage583 and1–3BR; original Strand brochure14/15 same phase. No media/ID changes.",
+        "location": "OwnmainAboutTheStrand and exact27Feb2026release identify mainlandMarjanBeachDistrict, not offshoreAlMarjanIsland despitePFtaxonomy. RegistryareaNULLpending exactapprovedentry. GenericMina/corporate0. Centralexactprimary-supportedregistry rak-marjan-beach-district / Marjan Beach District verified; no coordinates.",
+        "residences": "Facts1 actual170Suite+192Deluxe+6Garden+126Corner+68twoPremium+20twoMaid+1PH=583. Ninefamilyplans2–11 includingtwoCorner/twoMaidvariants. PHtwolevels viewed once; no inferred additionalhomes.",
+        "areas": "Actuallyviewed fullnumerical+wholeplans2Suite597.50–615.91;3Garden712.46–731.19;4Deluxe630.87–649.28;5Corner1837.97–838.19;6Corner2846.37–890.07;7twoMaid11274.45–1294.36;8twoMaid22013.60–2017.80;9twoPremium1213.09–1229.99;10/11PH2852.22repeated. Gardenmaxoutdoor malformed15683 vs14.57m2. Suite551.11+45.96=597.07vs597.50;Deluxe584.70+45.96=630.66vs630.87;Corner2min727.96+117.86=845.82vs846.37;Maid1min1125.58+148.22=1273.80vs1274.45. Printedtotalsretained,notrepaired. FactsDeluxe614–649vsplan630.87–649.28. PHlowerliving/maid,upper3bedrooms;sameareaonbothsheets notmultiplied.",
+        "amenities": "Ownmain exactlypool/gym/clubhouse/wellness/cowork/balcony. Facts2 actual poolJacuzzi/yoga/kidspool/playground/sharedlawns/EV optionaldetailsreviewed; no delivery/operatingguarantees. Genericmaster5000trees/1.5kmnotcountedprojectinventory.",
+        "pricing": "CurrentownStrandfirstrelease1.05m +actualfacts1Suite1.05m; sixothercategoryguides1.12/1.27/1.30/2.08/2.18/4.68mreviewedbutnotallpubliccopied. Release27Feblaunch1.28m/PFsame distinctlyhistoric. Noauthoritativecurrentstockquotations.",
+        "payment": "Actualfacts1andownStrand40/60 aggregateonly. Nooriginal dateddeveloperinstalmentcalendarpublishedinretrievedpack. PF10booking30construction60handover secondaryreference100 notinventedprimarymilestones.",
+        "handover": "Facts1actualQ42029vsdatedreleaseQ12029;mainTBC. HeadNULLunresolvedcurrentcontractdate; forecastsnotcompletion. PFconstruction23Feb2026vsreleaseexpectedQ42026notusedasverifiedprogress.",
+        "documents": "PublicordinaryStrandHTML200 exposesfacts2p/plans28p/broch34p directhrefs, all200savedmanifest. Mainordinaryurllib403notbypassed;webtoolmain+linksreadable. All10numericwholepages2–11 andfacts1/2actuallyviewed,broch14/15/16viewed. RelatedallPDFpool20085facts115plans0brochure;mirrorssameallowance. No forms submitted."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "areaId": [
+          "developer",
+          "release",
+          "portal"
+        ],
+        "location": [
+          "developer",
+          "release",
+          "portal"
+        ],
+        "locationNote": [
+          "developer",
+          "release",
+          "portal"
+        ],
+        "price": [
+          "facts",
+          "strand",
+          "release"
+        ],
+        "priceLabel": [
+          "facts",
+          "strand",
+          "release"
+        ],
+        "priceNote": [
+          "facts",
+          "strand",
+          "release"
+        ],
+        "handover": [
+          "facts",
+          "release",
+          "developer"
+        ],
+        "handoverNote": [
+          "facts",
+          "release",
+          "developer"
+        ],
+        "paymentPlan": [
+          "facts",
+          "strand",
+          "portal"
+        ],
+        "paymentNote": [
+          "facts",
+          "strand",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "unresolved": [
+          "facts",
+          "plans",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-35","name":"Vida Residences Hillside","developerSlug":"emaar",
+ "fields":{
+  "description":"Vida Residences Hillside brings one to three bedroom apartments and three bedroom townhouses to Dubai Hills Estate. The Vida-branded development combines private balconies with shared pools, fitness spaces and a multipurpose lounge. Its Hillside Park setting is a central part of the scheme, distinct from other Vida residences in the community.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1827888,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Swimming pools and deck","Indoor and outdoor gym","Multipurpose lounge","BBQ and dining area","Outdoor multipurpose court","Children’s play areas","Neighbouring Hillside Park","Wider community golf, mall and park facilities"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-HILLSIDE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-HILLSIDE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Vida Residences Hillside","url":"https://www.emaar.com/en/properties/vida-residences-hillside","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Vida Residences Hillside brochure","url":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-HILLSIDE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"plans","label":"Emaar: Vida Residences Hillside floor plans","url":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-HILLSIDE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Vida Hillside launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/vida-residences-hillside/VIDA_RESIDENCES_HILLSIDE_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":115},
+    {"id":"payment","label":"Vida Hillside payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/vida-residences-hillside/VIDA_RESIDENCES_HILLSIDE_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Vida Residences Hillside","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/vida-residences-hillside","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Hillside page and branded documents checked independently of the earlier Vida Residences development.",
+    "location":"Dubai Hills Estate and Hillside Park context confirmed in developer brochure; exact unit outlook not inferred.",
+    "residences":"Two apartment towers and three bedroom townhouses confirmed by official masterplan and individual plans.",
+    "areas":"All 33 plan pages reviewed; numeric suite/balcony/total fields checked for each type. Townhouse page visually inspected. Separate A/B ranges retained.",
+    "amenities":"Official page's six project amenity groups used; broader Hillside Park offerings clearly separated from building amenities.",
+    "pricing":"Official units-from AED 1,827,888 recorded separately from rounded launch figures. Portal sold-out label conflicts with official availability display; no stock claim adopted.",
+    "payment":"Branded launch schedule visually reviewed; 10% booking, seven 10% instalments and 20% completion total 100%.",
+    "handover":"May 2029 estimated completion in payment PDF agrees with Property Finder. Shown as reported Q2 2029.",
+    "documents":"Official brochure and plans linked; broker-hosted branded fact/payment sheets attributed. Existing images unchanged."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure places Vida Hillside alongside Hillside Park, whose proposed activity mix includes a putting green, rope course, skate and pump track, dog park and fitness spaces. These are neighbourhood facilities, with their own delivery and access arrangements. Inside the residences, the design direction centres on restrained colours and textured finishes rather than ornate detailing. A buyer’s useful comparison is the actual balcony, suite layout and outlook of a specific unit."],
+   "locationNote":"The development is in Dubai Hills Estate, with Dubai Hills Mall, Dubai Hills Park and the golf club forming part of the wider community. The developer’s map relates the estate to Al Khail Road and Dubai’s main districts. Journey times and an individual home’s park view require a separate check.",
+   "priceLabel":"Published units from",
+   "priceNote":"The official page currently displays units from AED 1,827,888. This is a published entry figure, not a quote or confirmation of available stock. The selected unit’s price and purchase terms must be reconfirmed.",
+   "paymentNote":"The original schedule sets 80% before completion and 20% at estimated completion. Some listed dates have already passed. A current purchase or resale needs its own statement of paid and outstanding instalments.",
+   "handoverNote":"May 2029 is the estimated construction-completion month on the branded payment sheet, also reported by Property Finder. The contract and current construction update determine the applicable handover position.",
+   "units":[
+    {"label":"Tower A · 1 bedroom apartment","area":"756.81–844.21 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower A · 2 bedroom apartment","area":"1,250.44–1,542.15 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower A · 3 bedroom apartment","area":"1,826.74–2,001.44 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower B · 1 bedroom apartment","area":"726.13–871.02 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower B · 2 bedroom apartment","area":"1,064.88–1,299.85 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower B · 3 bedroom apartment","area":"1,582.72–1,837.29 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"2,616.48–2,622.19 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Original collection","value":"The fact sheet lists 500 homes: 254 one bedroom, 166 two bedroom and 72 three bedroom apartments, plus eight three bedroom townhouses. These are launch totals, not remaining inventory.","sourceIds":["facts"]},
+    {"label":"Launch price context","value":"The launch sheet lists entry prices of AED 1.82 million, AED 2.71 million and AED 3.88 million for one, two and three bedroom apartments, and AED 6.64 million for townhouses. These historical figures are not current offers.","sourceIds":["facts"]},
+    {"label":"Area and townhouse layout","value":"Totals include balcony space. Townhouse suites measure 2,173.77–2,180.55 sq ft, with ground-floor living, kitchen, maid’s room and storage; three bedrooms sit upstairs. TH01–TH07 total 2,622.19 sq ft, while TH08 totals 2,616.48 sq ft.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Selected unit, current price and availability: the portal’s sold-out badge and the developer’s published unit display disagree.","Current construction progress, contractual handover and outstanding instalments for a specific purchase.","Service charges, parking allocation, appliance specifications and any Vida service inclusions or fees.","Delivery dates and access or membership arrangements for Hillside Park and wider community facilities.","Official project imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

@@ -1,0 +1,276 @@
+{
+  "id": "imtiaz-project-02",
+  "name": "The Archive by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "The Archive by Imtiaz is designed around reading, with a residential library, quiet corners and furnished homes. Pools, floating cabanas, a gym and an outdoor cinema provide shared leisure spaces.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 666000,
+    "handover": "Q3 2028",
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Library",
+      "Reading corners",
+      "Mini golf",
+      "Adults’ pool",
+      "Children’s pool",
+      "Floating cabanas",
+      "Sunken seating",
+      "Gym",
+      "Children’s playground",
+      "Outdoor cinema",
+      "Water feature",
+      "Changing rooms"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_FLOOR_PLANS_AND_UNIT_TYPES.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "The Archive · current developer page",
+          "url": "https://real.imtiaz.ae/property/the-archive-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "The Archive · branded 64-page brochure",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "The Archive · 43-page plans and unit types",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_FLOOR_PLANS_AND_UNIT_TYPES.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "building-plans",
+          "label": "The Archive · 17-page building plans",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "payment",
+          "label": "The Archive · original payment calendars",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-archive-by-imtiaz/THE_ARCHIVE_BY_IMTIAZ_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · The Archive project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/the-archive-by-imtiaz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "register-reference",
+          "label": "Mitchell’s · dated project-register reference",
+          "url": "https://www.mitchellscommercialrealty.com/projects/the-archive-by-imtiaz",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "community": "Dubai Land Residence Complex",
+      "overview": [
+        "Plans contain 26 variants: four studios, fourteen one-bedroom, six two-bedroom and two three-bedroom. Room dimensions are printed; whole-home totals are absent."
+      ],
+      "locationNote": "Property Finder identifies Dubai Land Residence Complex; the developer describes road access but publishes no street address in its page text.",
+      "priceLabel": "Branded release reference",
+      "priceNote": "Release references: studio AED 666,000; one-bedroom AED 979,000; two-bedroom AED 1.55 million; three-bedroom AED 1.8 million. Confirm current quotations.",
+      "paymentNote": "Alternative: 60% before handover, 40% across three years. Printed 3.3% quarterly totals 39.6% across twelve instalments; confirm the balancing payment. DLD/admin fees are additional.",
+      "handoverNote": "Brochure/payment target Q3 2028 matches Property Finder’s September 2028. Mitchell’s separately attributes December 2028 to a dated register extract; the forecasts differ.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "From 390 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR",
+          "area": "From 600 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR",
+          "area": "From 1,226 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR",
+          "area": "From 1,490 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "1 April 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 August 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "1 November 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 February 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "1 July 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "On completion · Q3 2028",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Starting-size measurement basis is unstated. Balcony size varies by location; do not calculate contractual totals from room dimensions.",
+        "Current inventory, service charges, final furniture specification and certified completion remain unverified. Images remain illustrative."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "areaId": [
+          "finder"
+        ],
+        "location": [
+          "finder"
+        ],
+        "locationNote": [
+          "finder"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "price": [
+          "brochure"
+        ],
+        "priceNote": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "brochure",
+          "payment",
+          "finder"
+        ],
+        "handoverNote": [
+          "brochure",
+          "payment",
+          "finder",
+          "register-reference"
+        ],
+        "unresolved": [
+          "plans",
+          "brochure"
+        ],
+        "facts": [],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact Archive protectedname, own primarybody and branded64p brochure/43p homeplans/17p buildingplans/2p payment normallyretrieved.",
+        "location": "ExactPFspecificprojectDubaiLandResidenceComplex mapsregistry; developer ownbody noexactcommunity/streettext, no inferredcoordinates.",
+        "residences": "Actual43p pack pages17–42 all26variants visually reviewed:4studio,14one,6two,2three, A/B balconiesvary. Ownmain furnished claim retained.",
+        "areas": "Actualbrochure59 starting390/600/1226/1490ft²; all26home sheets no wholehomearea totals, roomdimensions notmultiplied.",
+        "amenities": "Ownmain actual12sharedamenities supports public list; brochure60 list actuallyviewed confirms pool/library/leisure.",
+        "pricing": "Actualbrochure59 release666k/979k/1.55m/1.8m, no activequote. PF2/3prices1.6/1.9m vary; earlierlaunch references retained as such.",
+        "payment": "Actualpayment2 both calendars viewed; reference20+6x5+50=100. Alternative20+5+10+5+10+5+5+40=100.3.3x12=39.6rounding requiresclarification. Fees separate.",
+        "handover": "Actualbrochure59/payment2 Q32028 agreesPFSeptember2028; broker registerDecember2028explicitdifferentforecast, no certifiedhandover.",
+        "documents": "Actualall26familydrawingscontactreview plus fullreference18/19, numericbrochure59/60 andpayment2read. AlloverlappingPDFpacks200underlyingpool, no genericindexuse."
+      }
+    }
+  }
+}

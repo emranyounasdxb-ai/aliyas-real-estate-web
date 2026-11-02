@@ -1,0 +1,326 @@
+{
+  "id": "emaar-project-80",
+  "name": "Ocean Point",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Ocean Point combines one- to three-bedroom apartments with eight three-bedroom townhouses at Rashid Yachts & Marina. Two apartment buildings frame shared landscaped spaces, while townhouse layouts include large terraces and separate upstairs bedrooms. The setting connects residential gardens with the wider marina neighbourhood.",
+    "areaId": "dubai-rashid-yachts-marina",
+    "location": "Rashid Yachts & Marina",
+    "emirate": "Dubai",
+    "type": "Apartment / Townhouse",
+    "bedrooms": "1–3",
+    "price": 1660000,
+    "handover": "Q2 2028 reported",
+    "paymentPlan": "90/10 reported",
+    "amenities": [
+      "Indoor and outdoor gyms",
+      "Indoor and outdoor children’s play areas",
+      "Multipurpose room",
+      "Multi-use games court",
+      "Barbecue area",
+      "Swimming pool",
+      "Landscaped plaza"
+    ],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/381468_brochure_File_886600d57b_prod.pdf",
+    "floorPlanUrl": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Floor-Plans-Building-1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Ocean Point",
+          "url": "https://www.emaar.com/en/properties/ocean-point",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: Ocean Point brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/381468_brochure_File_886600d57b_prod.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "plans1",
+          "label": "Emaar Building 1 and townhouse plans, Petkovic-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Floor-Plans-Building-1.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "plans2",
+          "label": "Emaar Building 2 floor plans, Petkovic-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Floor-Plans-Building-2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "facts",
+          "label": "Emaar launch fact sheet, Petkovic-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Fact-Sheet.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "payment",
+          "label": "Emaar launch payment schedule, Petkovic-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Payment-Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Ocean Point 1",
+          "url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/ocean-point-1",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "investor-copy",
+          "label": "Emaar FY2025 presentation text, Earnings Calendar reproduction",
+          "url": "https://earningscalendar.co/app/event/AE/EMAAR/2025-q4-46ddbf15f4e6/presentation",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "plans1",
+          "facts"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official",
+          "brochure"
+        ],
+        "type": [
+          "official",
+          "plans1",
+          "plans2"
+        ],
+        "bedrooms": [
+          "official",
+          "plans1",
+          "plans2"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "facts"
+        ],
+        "units": [
+          "plans1",
+          "plans2"
+        ],
+        "documents": [
+          "brochure",
+          "plans1",
+          "plans2"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Ocean Point checked against its developer page and branded building-specific documents.",
+        "location": "Rashid Yachts & Marina, also known as Mina Rashid, confirmed in the location registry.",
+        "residences": "One- to three-bedroom apartments plus three-bedroom two-level townhouses confirmed.",
+        "areas": "Building 1 and 2 plan totals extracted separately; representative range/layout tables visually inspected. Building 2 Type 2B metric inconsistency disclosed.",
+        "amenities": "Project gyms, play spaces, pool, games court and barbecue checked; wider marina facilities distinguished.",
+        "pricing": "AED 1.66m official headline and separate launch category starts recorded.",
+        "payment": "Ten launch payments of 10% visually checked, with construction triggers; portal corroborates 10/80/10.",
+        "handover": "June 2028 estimate corroborated by Property Finder’s Ocean Point 1 entry.",
+        "documents": "Official 22-page brochure inspected; 24-page Building 1/townhouse and 20-page Building 2 plan copies attributed, with fact/payment sheets."
+      },
+      "community": "Rashid Yachts & Marina",
+      "overview": [
+        "Ocean Point’s shared spaces are arranged around gardens, pool areas and places to exercise or play. The brochure connects this residential setting to Rashid Yachts & Marina’s promenade and canal-pool district. Retail, dining and wider marina attractions belong to the surrounding master community; their operation and access terms should be confirmed separately."
+      ],
+      "locationNote": "Ocean Point is at Rashid Yachts & Marina in Mina Rashid, Dubai. Emaar identifies the QE2 Hotel and routes towards Downtown Dubai, Dubai Mall and Dubai International Airport. The brochure’s skyline and landscaped outlooks are orientation-dependent, not a guarantee for every apartment.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "Emaar advertises AED 1.66m. The launch fact sheet lists one-bedroom apartments from AED 1.66m, two-bedroom from AED 2.4m, three-bedroom from AED 3.33m and townhouses from AED 5.79m. These are historic starting prices; available stock and current quotations require confirmation.",
+      "paymentNote": "The published launch schedule has ten 10% payments: booking, eight further instalments, and the final 10% at estimated completion. Property Finder’s Ocean Point 1 entry corroborates 10/80/10. The dates below are launch terms, not a payment instruction for a new purchase.",
+      "handoverNote": "The launch document estimates June 2028 completion; Property Finder’s Ocean Point 1 listing also reports Q2 2028. Confirm the building-specific contractual date and current progress.",
+      "units": [
+        {
+          "label": "Building 1 · 1-bedroom apartment",
+          "area": "788.13–972.41 sq ft published total area",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Building 1 · 2-bedroom apartment",
+          "area": "1,255.07–1,479.18 sq ft published total area",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Building 1 · 3-bedroom apartment",
+          "area": "1,607.91–1,966.14 sq ft published total area",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Building 2 · 1-bedroom apartment",
+          "area": "788.03–972.52 sq ft published total area",
+          "sourceIds": [
+            "plans2"
+          ]
+        },
+        {
+          "label": "Building 2 · 2-bedroom apartment",
+          "area": "1,158.20–1,468.31 sq ft published total area",
+          "sourceIds": [
+            "plans2"
+          ]
+        },
+        {
+          "label": "Building 2 · 3-bedroom apartment",
+          "area": "1,607.81–1,972.49 sq ft published total area",
+          "sourceIds": [
+            "plans2"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse",
+          "area": "3,040.27–3,087.84 sq ft published total area",
+          "sourceIds": [
+            "plans1"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2026 · 20% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2026 · 40% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2027 · 60% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2027 · 80% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2028 · estimated completion",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published unit mix",
+          "value": "The launch sheet lists 97 one-bedroom, 86 two-bedroom and 26 three-bedroom apartments, plus eight townhouses: 217 homes in total. This does not describe remaining inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Townhouse TH-1A",
+          "value": "All three bedrooms are upstairs. Below are kitchen/dining and living rooms, a maid’s room and bathroom, laundry, powder room, storage and a large terrace.",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Outdoor area matters",
+          "value": "TH02’s 3,040.27 sq ft total consists of 2,190.89 sq ft suite and 849.38 sq ft terrace. The published total is not an indoor-only or plot measurement.",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Count requires reconciliation",
+          "value": "The launch sheet totals 217 homes, but an online reproduction of Emaar’s FY2025 investor table assigns 154 units to Ocean Point. Confirm the current approved project count.",
+          "sourceIds": [
+            "facts",
+            "investor-copy"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Building 2 three-bedroom Type 2B prints 141.23 sq m beside 1,627.83 sq ft, although its metric components sum to 151.23 sq m. Obtain a corrected certified schedule for units 219/319/419.",
+        "Current availability, fees, parking allocations, final specifications, construction progress and contractual delivery require confirmation.",
+        "Images remain illustrative; project photography is deferred.",
+        "The launch unit count conflicts with a reproduced investor table. Its original official PDF URL now redirects to Emaar’s homepage; the reproduction was checked as text, not against the original slide."
+      ]
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "id": "deyaar-project-08",
+  "name": "Rivage",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Rivage is Deyaar’s waterfront development on Al Reem Island, created with Arady Properties. The collection extends from conventional apartments to duplexes, Sky Villas and Sky Palaces, with shared leisure spaces arranged around the island setting.",
+    "areaId": "abu-dhabi-al-reem-island",
+    "location": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 1180000,
+    "handover": "Q4 2027 · developer target",
+    "paymentPlan": "50/50 · original launch terms",
+    "amenities": [
+      "Family pool",
+      "Wellness club",
+      "Horizon lounge",
+      "Sky pool"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/85faf71b18434fb0b62514192377b76a.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/oyGY0te4-85dkMun9iU8PpsMETA/C5zGjw/Floor%20Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar Rivage project guide",
+          "url": "https://www.deyaar.ae/en/properties/rivage-by-deyaar/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "launch",
+          "label": "Deyaar Rivage launch · 5 November 2024",
+          "url": "https://www.deyaar.ae/en/media_center/deyaar-makes-abu-dhabi-debut-with-rivage-a-stunning-resort-style-waterfront-residence-on-al-reem-island/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "sold",
+          "label": "Deyaar sell-out announcement · 19 November 2024",
+          "url": "https://feeds.dfm.ae/documents/2024/Nov/19/bcd3eaa2-398a-410a-a2cf-0030bf22998f/Deyaar%20Press%20Release.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar published construction update · Rivage",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 18
+        },
+        {
+          "id": "brochure",
+          "label": "Rivage branded presentation · public broker-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/85faf71b18434fb0b62514192377b76a.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Rivage branded floor-plan collection · public broker-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/oyGY0te4-85dkMun9iU8PpsMETA/C5zGjw/Floor%20Plans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "facts",
+          "label": "Rivage branded launch factsheet · Afdal Home copy",
+          "url": "https://afdalhome.ae/wp-content/uploads/251024-Rivage-Factsheet-Digital.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "portal",
+          "label": "Dubizzle Rivage resale-market context",
+          "url": "https://abudhabi.dubizzle.com/new-projects/deyaar/rivage/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "facts"
+        ],
+        "priceLabel": [
+          "facts"
+        ],
+        "priceNote": [
+          "facts",
+          "sold"
+        ],
+        "handover": [
+          "construction"
+        ],
+        "handoverNote": [
+          "construction"
+        ],
+        "paymentPlan": [
+          "brochure"
+        ],
+        "paymentNote": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "overview": [
+          "sold",
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "developer",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Rivage page and5Nov2024 release establish Deyaar/Arady AlReem project. Issuer19Nov2024 sellout is historical, not current resale stock. No Miami Rivage source adopted.",
+        "location": "Own page Al Reem Island, Abu Dhabi, beside Reem Central Park. Existing exact registry used; no broker coordinates/journey claims.",
+        "residences": "Own1–3BRapartments/duplex/SkyVillas/SkyPalaces. Actual plan layouts inspected; SkyPalaces1A/2A show4bedrooms, SkyVilla1A one lower+four upper=5, SkyVilla2A one lower+three upper=4. Maids/offices not bedrooms. Headline1–5 includes special homes not allstandardapartments.",
+        "areas": "All33 numerical panels in40-page pack visually read via1700px contacts, representatives full drawings. Published total ranges grouped byseven productfamilies; fulltypes in evidence. SkyVilla lower/upper repeat wholehome total not additive. 2BR1A1248+208=1456 vsprinted1455,2BR5A1079+248=1327 vs1326;1sqft rounding retained. Primary range801–7810 differs suppliedplans800–7790; disclosed.",
+        "amenities": "Four public amenities from own project page; actual brochure17 additional30amenitydiagram visually reviewed but no unsupported healthoutcome claims. Privateplungepool on selected Sky plans not universal.",
+        "pricing": "Branded launch facts/brochure list1.18m/1.86m/2.30m/2.95m/3.44m forfive apartment/duplexfamilies; skyhomes requestprice. Only1.18m publichistoricalentry retained. IssuerNov2024sellout and presentportalresales mean notcurrentdeveloperavailability.",
+        "payment": "Actual brochure43 andfacts3 visually read. 5booking+5SPAwithin45days+10after4months+5each10/15/20/25/29/34months+50handover=100. No calendar anchordate assumed; headline original50/50 only.",
+        "handover": "Own construction update Q42027, facts3same. Mainworks/cranes/raft progress not certifiedpercent. No completioncertificate. Q32025IRsearch H22027 compatiblehalfyear; not adopted ascontractdate.",
+        "documents": "Own mainHTML/public WPmedia endpoint givesno brochure/plans;40p brandedplans+43p brandedpresentation frompublicbrokerpage,5pfacts Afdal and53pduplicatepresentation Insider downloaded. Correctbrokerkind; allbrandedoverlapcombined200 allocation. No forms/bypass. Genericcommunity0,sharedconstruction18of35groupallocation."
+      },
+      "community": "Al Reem Island",
+      "locationNote": "Al Reem Island, beside Reem Central Park, Abu Dhabi.",
+      "overview": [
+        "The developer announced a sell-out on 19 November 2024. That historical announcement does not establish today’s resale availability.",
+        "Developer target: Q4 2027; construction continues."
+      ],
+      "priceLabel": "Historical launch reference",
+      "priceNote": "The branded launch material starts one-bedroom homes at AED 1.18m. This is not a current available-unit quotation.",
+      "paymentNote": "Original launch milestones; obtain the selected home’s remaining contractual schedule.",
+      "handoverNote": "Developer forecast, not completed delivery.",
+      "units": [
+        {
+          "label": "1BR apartments · seven types",
+          "area": "800–913 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR apartments · six types",
+          "area": "1,231–1,606 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR duplexes · five types",
+          "area": "1,488–2,070 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR apartments · two types",
+          "area": "1,985–2,279 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplexes · seven types",
+          "area": "2,148–4,131 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Sky Palaces · two types",
+          "area": "7,048–7,790 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Sky Villas · two types",
+          "area": "6,109–7,092 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "SPA · within 45 days",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 4 months",
+          "percent": 10,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 10 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 15 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 20 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 25 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 29 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "After 34 months",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Developer range 801–7,810 ft² differs from retrieved plans: 800–7,790 ft². Confirm the selected unit’s approved drawing.",
+        "Some component totals differ by 1 ft²; printed totals retained. Sky Villa totals repeat across levels and must not be doubled.",
+        "Current developer stock, revised prices, service charges, parking allocations and contract-specific terms remain unverified."
+      ]
+    }
+  }
+}

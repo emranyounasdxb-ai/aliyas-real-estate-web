@@ -1,0 +1,2779 @@
+{
+  "developerSlug": "bloom",
+  "projects": [
+    {
+      "id": "bloom-project-01",
+      "slug": "bloom-living-alhambra",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Alhambra",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "Alhambra brings low-rise apartments, townhouses and penthouses to Bloom Living’s lakeside centre. Souk Alhambra places shops, dining and everyday services around a shared plaza.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Apartment",
+      "bedrooms": "Studio–4",
+      "price": 865000,
+      "handover": null,
+      "paymentPlan": "40 / 60",
+      "amenities": [
+        "Planned Souk retail and dining",
+        "Gated security",
+        "Pools and children’s play areas",
+        "Gym and sauna",
+        "Walking and cycling routes",
+        "Planned clinic and nursery"
+      ],
+      "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+      "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/6dc38e486d5b425abeebf92008873a1a.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-01"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Alhambra: current developer phase page",
+            "url": "https://bloomholding.com/Alhambra-project",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "unit",
+            "label": "Alhambra: developer studio terms and repeated phase information",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/studio-alhambra",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 80
+          },
+          {
+            "id": "launch",
+            "label": "Alhambra: developer launch announcement",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-final-phase-of-bloom-living-alhambra",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Alhambra: original brochure, broker mirror",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 0
+          },
+          {
+            "id": "plans",
+            "label": "Alhambra: original residence plans, broker mirror",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/6dc38e486d5b425abeebf92008873a1a.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "portal",
+            "label": "Alhambra: Property Finder project reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-alhambra",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 45
+          },
+          {
+            "id": "earlier-guide",
+            "label": "Alhambra: differing completion guide",
+            "url": "https://projectory.ae/projects/al-hamra-bloom-living/",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 25
+          }
+        ],
+        "community": "Bloom Living, Zayed City",
+        "overview": [
+          "Bloom identifies Alhambra as its final community release: studios–3BR apartments, 3BR townhouses and limited 4BR penthouses."
+        ],
+        "locationNote": "Within Bloom Living in Zayed City, Abu Dhabi, near Zayed International Airport.",
+        "priceLabel": "Developer-advertised studio starting guide",
+        "priceNote": "Bloom publishes studios from AED 865,000; confirm the selected home and current offer.",
+        "paymentNote": "Developer terms: 5% down, 35% during construction, 60% handover. A dated original instalment sheet was not retrieved.",
+        "handoverNote": "Property Finder targets Q3 2030; another guide gives December 2029. No phase-specific developer completion date was verified.",
+        "units": [
+          {
+            "label": "Studio",
+            "area": "347–463 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR apartment",
+            "area": "700–926 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR apartment",
+            "area": "1,011–2,067 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR apartment",
+            "area": "1,851–2,680 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR townhouse",
+            "area": "2,928 / 2,982 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR penthouse",
+            "area": "4,252 sq ft maximum total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Down payment",
+            "percent": 5,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "unit"
+            ]
+          },
+          {
+            "stage": "On handover",
+            "percent": 60,
+            "sourceIds": [
+              "unit"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tenure",
+            "value": "The developer identifies Bloom Living as an investment zone open to buyers of all nationalities.",
+            "sourceIds": [
+              "launch"
+            ]
+          },
+          {
+            "label": "Advertised incentive",
+            "value": "The studio page lists 2% ADM registration fees included; confirm eligibility and validity.",
+            "sourceIds": [
+              "unit"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Plan areas are maximum total sellable areas, including external space; layouts and final areas remain subject to contract.",
+          "Current charges, plot boundaries and binding delivery terms require confirmation."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-01 Bloom Living Alhambra, not separate Al Hamra developer or Granada. Own /Alhambra-project and own exact Alhambra unit pages and launch confirm final release. No IDs/media changed.",
+          "location": "Own launch explicitly Zayed City Abu Dhabi near Zayed International Airport. Exact central registry requested; no coordinates inferred. Main generic Bloom Living source derivation0. Exact central abu-dhabi-zayed-city now verified.",
+          "residences": "Own launch Studio–3BR apartments, 3BR townhouses, limited4BR penthouses. Original28p plans has22 whole layouts:4studio+2one+7two+6three+2townhouse+1PH. All22 numerical/full panels actually viewed1700px:3–6,8–9,11–17,19–26,28. GF/FF townhouses25/26 and lower/upper/terrace PH28 cover complete homes; staff/study not counted as marketed bedrooms.",
+          "areas": "Actual image-only original sheets read visually: studio347/409/463/433;1BR700/926;2BR1098/1517/1991/2067/1604/1011/1388;3BR1851/2104/1916/2152/2680/2293;TH2928/2982;PH4252 sqft max total sellable. Internal/external clearly distinct; whole TH/PH totals not multiplied by floors. Metric rounding inconsistent on some sheets, retained ft² only. Current own2BR starting1098 does not invalidate other printed1011 layout: no current availability inferred.",
+          "amenities": "Own Alhambra phase page/unit icon set supports all public claims, planned services not operationally guaranteed. Launch supports Souk/plaza/clinic/nursery and wider community access. Generic shared community fact derivation0.",
+          "pricing": "Current own phase and studio from865000 confirmed; current full category guides1.4m/2.1m/3.2m/4.5m/8.3m observed but no selected current quote. Headline explicitly studio guide, not all types. Broker selected inventory higher guides not adopted as developer repricing.",
+          "payment": "Own exact studioAlhambra current5/35/60=100. Three aggregate stages retained, not invented dated calendar. Own Granada page5/35/40/20 ambiguous/cross-card template excluded. Broker70/30 alternative not primary-current terms; no original dated commercial sheet retrieved. Own2%ADM inclusion qualified eligibility/validity.",
+          "handover": "Own phase/current unit pages and ownlaunch do not verify completion date. ActualPF JSON delivery2030-09-01 treated Q32030 target, not exact date. Projectory Dec2029 conflicting secondary; headline null. No inferred status from other Bloom phases.",
+          "documents": "Own public main data-url exposes Alhambra_E-Brochure.pdf but ordinary download timed out25s; no bypass. Retrieved brokerReelly38p originalbrochure and28p originalplans; all22 numerical/full family sheets read. Additional65p olderProjectory original reviewed intro/master/exteriors1–16 only, no additional adopted numerical values. Relatedbrochure/plans/mirrors/duplicatedlaunchprose combined200 launch100+plans100,brochure0duplicate; ownphase/unit duplicatedcurrentblocks share200 max allocations100+80, notperURL. GenericBloomLiving0. No forms."
+        },
+        "fieldSources": {
+          "description": [
+            "launch"
+          ],
+          "location": [
+            "launch"
+          ],
+          "areaId": [
+            "launch"
+          ],
+          "emirate": [
+            "launch"
+          ],
+          "community": [
+            "launch"
+          ],
+          "locationNote": [
+            "launch"
+          ],
+          "type": [
+            "launch"
+          ],
+          "bedrooms": [
+            "launch"
+          ],
+          "overview": [
+            "launch"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "price": [
+            "developer"
+          ],
+          "priceLabel": [
+            "developer"
+          ],
+          "priceNote": [
+            "developer"
+          ],
+          "paymentPlan": [
+            "unit"
+          ],
+          "paymentStages": [
+            "unit"
+          ],
+          "paymentNote": [
+            "unit"
+          ],
+          "handover": [
+            "portal",
+            "earlier-guide"
+          ],
+          "handoverNote": [
+            "portal",
+            "earlier-guide"
+          ],
+          "units": [
+            "plans"
+          ],
+          "facts": [
+            "launch",
+            "unit"
+          ],
+          "unresolved": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bloom-project-02",
+      "slug": "bloom-living-malaga",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Malaga",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Malaga is Bloom Living’s eleventh release and final premium villa collection. Mediterranean-inspired three- to six-bedroom homes connect indoor family spaces with their outdoor surroundings.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Villa",
+      "bedrooms": "3–6",
+      "price": null,
+      "handover": null,
+      "paymentPlan": "50 / 50",
+      "amenities": [
+        "Community clubhouse",
+        "Swimming pools",
+        "Gym",
+        "Children’s play areas",
+        "Walking and cycling trails",
+        "Community retail and dining"
+      ],
+      "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/d47a807642884c7fbaeed4583d53bbd2.pdf",
+      "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/e026d73e32f54109af4a37dea128685f.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-02"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Malaga: developer six-bedroom guide and payment terms",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/6-bedrooms-malaga",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 120
+          },
+          {
+            "id": "types",
+            "label": "Malaga: developer three-bedroom guide and related type pages",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-malaga",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 50
+          },
+          {
+            "id": "launch",
+            "label": "Malaga: developer launch announcement",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-malaga-the-eleventh-and-final-premium-villas-phase-in-bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "community",
+            "label": "Bloom Living: shared developer community information",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 55
+          },
+          {
+            "id": "brochure",
+            "label": "Malaga: original brochure, broker mirror",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/d47a807642884c7fbaeed4583d53bbd2.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 80
+          },
+          {
+            "id": "plans",
+            "label": "Malaga: original villa plans, broker mirror",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/e026d73e32f54109af4a37dea128685f.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 120
+          },
+          {
+            "id": "guide",
+            "label": "Malaga: broker commercial reference",
+            "url": "https://maisondubai.com/projects/bloom-living-malaga",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "four",
+            "label": "Malaga: developer four-bedroom guide",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/4-bedrooms-malaga",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 0
+          },
+          {
+            "id": "five",
+            "label": "Malaga: developer five-bedroom guide",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/5-bedrooms-malaga",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 0
+          }
+        ],
+        "community": "Bloom Living, Zayed City",
+        "overview": [
+          "The developer’s final-villa designation applies to Malaga; Alhambra is a separate later release with apartments, townhouses and penthouses."
+        ],
+        "locationNote": "Within Bloom Living in Zayed City, Abu Dhabi, near Zayed International Airport.",
+        "priceLabel": "Request a home-specific quotation",
+        "priceNote": "The launch advertised from AED 4.1 million. The current developer six-bedroom guide starts at AED 8.7 million; this is not an entry price for every villa type.",
+        "paymentNote": "The developer’s six-bedroom page gives 5 / 45 / 50. A broker instead lists 10 / 40 / 50 and 20 / 50 / 30 options. Confirm the applicable offer; no dated original instalment sheet was retrieved.",
+        "handoverNote": "The developer launch targets Q4 2028; the broker guide targets Q2 2029. Confirm the contracted release and revised completion date.",
+        "units": [
+          {
+            "label": "Current 3BR guide",
+            "area": "From 2,734 sq ft",
+            "sourceIds": [
+              "types"
+            ]
+          },
+          {
+            "label": "Current 4BR guide",
+            "area": "From 3,391 sq ft",
+            "sourceIds": [
+              "four"
+            ]
+          },
+          {
+            "label": "Current 5BR guide",
+            "area": "From 4,607 sq ft",
+            "sourceIds": [
+              "five"
+            ]
+          },
+          {
+            "label": "Current 6BR guide",
+            "area": "From 5,500 sq ft",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "3BR Types A/B",
+            "area": "2,734 sq ft / 254 m² total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR Types A/B",
+            "area": "3,401 sq ft / 316 m² total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "5BR Types A/B",
+            "area": "4,596 sq ft / 427 m² total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "6BR Types A/B",
+            "area": "5,543 sq ft / 515 m² total sellable",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Down payment",
+            "percent": 5,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "Construction period",
+            "percent": 45,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Finishing options",
+            "value": "The brochure includes Premium finishes by default. Upgraded interiors cost extra and require selection within the stated 90-day window.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Tenure",
+            "value": "Bloom Living is an investment zone open to buyers of all nationalities.",
+            "sourceIds": [
+              "community"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Current starting-area guides differ from the original type drawings; verify the selected revision and area schedule.",
+          "Plan landscaping, furniture and electronics are illustrative and excluded from the offering.",
+          "Current charges, plot boundaries, availability and binding delivery terms require confirmation."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-02 Bloom Living Malaga, exact owner/name/slugs/media preserved. Own primary release identifies eleventh/final premium villa phase3–6BR, not Alhambra final community release. No merging sibling records.",
+          "location": "Own primary phase and launch explicitly within Bloom Living Zayed City Abu Dhabi. Exact central abu-dhabi-zayed-city supported; no coordinates. Genericcommunity pool55 sharedwithinown60 groupreservation, root80+agent0760 total195.",
+          "residences": "Original8p plans all8 wholeGF/FF sheets actually viewed1700px:3BRTypeA/B,4BRTypeA/B,5BRTypeA/B,6BRTypeA/B. Staff/driver rooms not extra marketed bedrooms. Original28pbrochure actualintro2/master5, finishspec13/23 read. Premiumdefault and paidUpgradewith90dayselection explicitlydistinguished, no universalfurnishinginferred.",
+          "areas": "Actual8numeric tables:3BR1432+1302=2734sqft,133+121=254m²;4BR1884+1517=3401sqft,175+141=316;5BR2605+1991=4596sqft,242+185=427;6BR3057+2486=5543sqft,284+231=515. TypesA/Bsamewholenumbers, notdouble-counted bylevels. Currentown3/4/5/6publishedstartingguides2734/3391/4607/5500differentfromoriginaltables, notsilentlysubstituted. Plotareasnotverified. Own3/4/5/6 drawingimage references noted, originalsPDFusedforactualnumericinspection.",
+          "amenities": "SharedBloomLivingmainprimary supportssixpubliccommunityamenities. Brochureintro independentlysamepromises, countedsharedpool notseparateallowance. Notprivateamenitiesineveryvilla, no currentoperationaldateassumption.",
+          "pricing": "Ownlaunchfrom4.1mhistorical; currentown6BR8.7m guide only, cannot useasminimumall3–6mix. Main3/4/5SoldOutlabels observednotguaranteedcurrentstock; secondarysizedinventoryvariesandnotadoptedcurrentunitquote. HeadlineNULL; notinventedalltypescurrentpricing.",
+          "payment": "Actualown6BRHTML current5down45construction50handover=100. Olderown3BRsoldoutpageomitsphasepayment; noinheritancefromsiblingphases. Maisonsecondary10/40/50and20/50/30 specificofferscontradictbookingallocation, explicitnotmerged. No accessibleoriginaldatedcommercialPDFretrieved aftertargetedsearch. EZREwrongDubaiLandDepartment4%forAbuDhabiexcludedentirely.",
+          "handover": "OwnactuallaunchQ42028 vssecondaryMaisonQ22029; currentownunitpagesnotdatedcompletionupdates. HeadlineNULL, no inventedreviseddateoractualcompletion. No transferredQ32030Alhambra date.",
+          "documents": "Ownpublicmain data-urlexactneworiginal8017/6052/0133/Malaga_Brochure.pdf andindexedolder3317/6052/0055bothordinarydownloads20stimeout; webPDFtimeout, no bypass. ActualReellyoriginalbrochure28p48MB+original8pplans5.7MBdownloaded200. All8numerical/fullfamiliesread, brochurefinish13/23read. Relatedoriginalbroch/plans/mirrorpool20080+120; commonintrooverlapownlaunchkeptconcise100 allocation shared25withMarbella. Currentphaseownpagessame170combined200max; sharedgeneric55of60ownreservation. Noforms."
+        },
+        "fieldSources": {
+          "description": [
+            "launch"
+          ],
+          "type": [
+            "launch"
+          ],
+          "bedrooms": [
+            "launch"
+          ],
+          "overview": [
+            "launch"
+          ],
+          "areaId": [
+            "community"
+          ],
+          "location": [
+            "community"
+          ],
+          "emirate": [
+            "community"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community"
+          ],
+          "amenities": [
+            "community"
+          ],
+          "price": [
+            "launch",
+            "developer"
+          ],
+          "priceLabel": [
+            "launch",
+            "developer"
+          ],
+          "priceNote": [
+            "launch",
+            "developer"
+          ],
+          "paymentPlan": [
+            "developer"
+          ],
+          "paymentStages": [
+            "developer"
+          ],
+          "paymentNote": [
+            "developer",
+            "guide"
+          ],
+          "handover": [
+            "launch",
+            "guide"
+          ],
+          "handoverNote": [
+            "launch",
+            "guide"
+          ],
+          "units": [
+            "types",
+            "developer",
+            "plans",
+            "four",
+            "five"
+          ],
+          "facts": [
+            "brochure",
+            "community"
+          ],
+          "unresolved": [
+            "plans",
+            "developer"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bloom-project-03",
+      "slug": "bloom-living-marbella",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Marbella",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Marbella is Bloom Living’s tenth release, offering three- to six-bedroom villas. Two mirrored design types pair ground-floor living spaces with upstairs bedrooms and family rooms, with lake or park settings depending on the plot.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Villa",
+      "bedrooms": "3–6",
+      "price": null,
+      "handover": "Q4 2028",
+      "paymentPlan": "50 / 50",
+      "amenities": [
+        "Gym",
+        "Swimming pools",
+        "Children’s play areas",
+        "Community centre",
+        "Walking and cycling tracks"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-03"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "unit-3",
+            "label": "Bloom · Marbella 3-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-marbella",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 30
+          },
+          {
+            "id": "unit-4",
+            "label": "Bloom · Marbella 4-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/4-bedrooms-marbella",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 20
+          },
+          {
+            "id": "unit-5",
+            "label": "Bloom · Marbella 5-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/5-bedrooms-marbella",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 90
+          },
+          {
+            "id": "unit-6",
+            "label": "Bloom · Marbella 6-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/6-bedrooms-marbella",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · Marbella tenth-phase launch",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-tenth-phase-bloom-living-marbella",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 120
+          },
+          {
+            "id": "later-release",
+            "label": "Bloom · subsequent Malaga launch, historical Marbella sell-out reference",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-malaga-the-eleventh-and-final-premium-villas-phase-in-bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 25
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Marbella original brochure and eight villa plans",
+            "url": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 200
+          },
+          {
+            "id": "community",
+            "label": "Bloom Living · shared community location and amenities",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 20
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder · Marbella release reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-marbella",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 50
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "The developer’s subsequent Malaga announcement described Marbella as sold out in record time. Current three- and four-bedroom unit pages also carry sold-out labels; confirm availability for any selected home."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Request a selected-home quotation",
+        "priceNote": "The launch advertised AED 3.8m. Current 5BR and 6BR pages publish AED 6.765m and AED 8.397m respectively; 3BR and 4BR pages are marked sold out. These are guides, not verified available units.",
+        "paymentNote": "Published developer terms: 5% booking, 45% construction, 50% handover. A dated selected-unit calendar was not retrieved.",
+        "handoverNote": "Q4 2028 is the developer’s published completion target, corroborated by Property Finder; it is not evidence of actual delivery.",
+        "units": [
+          {
+            "label": "3BR · Types A/B",
+            "area": "2,734 ft² / 254 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "4BR · Types A/B",
+            "area": "3,391 ft² / 315 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "5BR · Types A/B",
+            "area": "4,607 ft² / 428 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "6BR · Types A/B",
+            "area": "5,500 ft² / 511 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 5,
+            "sourceIds": [
+              "unit-5"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 45,
+            "sourceIds": [
+              "unit-5"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "unit-5"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Phase",
+            "value": "Tenth release of Bloom Living.",
+            "sourceIds": [
+              "launch"
+            ]
+          },
+          {
+            "label": "Finish options",
+            "value": "Brochure illustrates premium and upgrade finishes; confirm the contracted package.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Published areas are whole-home sellable totals, not plot sizes.",
+          "Current unit quotations, charges, plot-specific views and binding delivery terms require confirmation."
+        ],
+        "reviewCoverage": {
+          "identity": "Exact protected bloom-project-03/Bloom Living Marbella; not Spanish La Finca deMarbella or MabelMarbella Europe. Own tenthphase launch confirms3–6BR villas. No canonical/media changes.",
+          "location": "Own phase pages and launch explicitlyZayedCityAbuDhabi/BloomLiving; exactrootregistryabu-dhabi-zayed-city. No propertyplacedMohammedBinZayedCity frombrokerconflation, no coordinates orguaranteeddrivetime.",
+          "residences": "Own current3/4/5/6unitpages, eightTypeA/B layouts. Own subsequentMalagareleasehistoricalMarbellasoldout qualified; current3/4pagesactualHTML SoldOut, 5/6quotesnotproofinventory. All8actualnumeric/fullGF+FFPDFpanels8/9/11/12/14/15/17/18 read1700px. EightownlinkedPNGwholelayoutsreadasadditionalcorroborationbutwithoutnumericlabels. No staffbedrooms counted.",
+          "areas": "Actual37p ownPDF numerical8/9:1432+1302=2734ft²,133+121=254m²;11/12:1884+1507=3391,175+140=315;14/15:2605+2002=4607,242+186=428;17/18:3046+2454=5500,283+228=511. BothA/BwholeGF+FF and all numericpanelsactuallyviewed. Wholetotal once, plotnotstated/notinferredfromgardenrender. No false5530brokerextremeadopted.",
+          "amenities": "Ownspecificpageicons/phasebrochurecommunitysupportgym/pools/childrenplay/centre/tracks. These commoncommunityclaimsonly20wordsoverallallocationperrecord, sharedpool60forour03–05, not200each commonprose. No universalprivatepool guarantee, furnishingsillustrative, premiumvsupgradefinishpackagesnotuniversal.",
+          "pricing": "Ownlaunchhistoricalfrom3.8m; own3/4currentSoldOutwithoutprice. Own5current6765000/6current8397000; nounitID/datespecificquote/currentstockverified. HeadlineNULLavoidobsolete3BRlaunchasavailableoffer. PF3.9mlaunchsecondaryroundednotnewprice. No inventedcharges/returns.",
+          "payment": "Currentownallfour5+45+50=100. Threeaggregatepublicrowsfromown5page. No originaldatedphasepaymentPDFpubliclinkfoundwithinownHTML/own37pPDF/search; brokeralternative10/60/30withdiscountnotassumeduniversal. No genericotherphasepaymentborrowed.",
+          "handover": "OwnMarbellalaunchQ42028 andPFDec2028corroborate. Prospectivecompletiontargetnotcertificate oractualreadyclaim. OwnsubsequentMalagasoldoutreferenceallocated25sharedwithagent01whoreserves175sameunderlyingrelease.",
+          "documents": "OwnpublicbrochureexactURLfromrootobservedmainoptiondata-url retrievedordinaryNodeGET2006,771,542bytes37p. All8numeric+wholepanelsread; own8originalPNGdrawingslinkedunitpagesalsoGET200/read. AdminProprain/TanamiPDFGET403honored,no bypass. BanusPDFactual15pLaFincaSpainexcludedwrongproject. No forms/submissions. AllphasePDF/planartworkversionsmirrorspool200includingpublicunits/finish/unresolved, primary4unitpagescombined20030/20/90/60; samebodynotextra200each. Ownlaunch120;laterMalagarelease25;commonunderlyingBloomLiving20ofgroup60. Currentgenericmain0extra."
+        },
+        "fieldSources": {
+          "description": [
+            "unit-5",
+            "launch",
+            "brochure"
+          ],
+          "emirate": [
+            "unit-5"
+          ],
+          "type": [
+            "unit-5"
+          ],
+          "bedrooms": [
+            "unit-5"
+          ],
+          "paymentPlan": [
+            "unit-5"
+          ],
+          "priceLabel": [
+            "unit-5"
+          ],
+          "areaId": [
+            "launch"
+          ],
+          "location": [
+            "launch"
+          ],
+          "amenities": [
+            "community",
+            "unit-5"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community",
+            "launch"
+          ],
+          "overview": [
+            "later-release",
+            "unit-3",
+            "unit-4"
+          ],
+          "price": [
+            "launch",
+            "unit-3",
+            "unit-4",
+            "unit-5",
+            "unit-6"
+          ],
+          "priceNote": [
+            "launch",
+            "unit-3",
+            "unit-4",
+            "unit-5",
+            "unit-6"
+          ],
+          "paymentNote": [
+            "unit-5"
+          ],
+          "handover": [
+            "launch",
+            "portal"
+          ],
+          "handoverNote": [
+            "launch",
+            "portal"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "paymentStages": [
+            "unit-5"
+          ],
+          "facts": [
+            "launch",
+            "brochure"
+          ],
+          "unresolved": [
+            "brochure",
+            "unit-5"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bloom-project-04",
+      "slug": "bloom-living-granada-ii",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Granada II",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "Granada II is the second apartment release within Bloom Living. Studios and one- to three-bedroom homes are arranged across eight low-rise buildings, with different balcony and ground-floor terrace configurations.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": 720000,
+      "handover": "Q1 2028",
+      "paymentPlan": "50 / 50",
+      "amenities": [
+        "Gym",
+        "Swimming pools",
+        "Children’s play areas",
+        "Community centre"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-04"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "unit-0",
+            "label": "Bloom · Granada II studio release",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/studio-granada-2-1",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 70
+          },
+          {
+            "id": "unit-1",
+            "label": "Bloom · Granada II 1-bedroom release",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/one-bedroom-granada-2",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "unit-2",
+            "label": "Bloom · Granada II 2-bedroom release",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/two-bedrooms-granada-2",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "unit-3",
+            "label": "Bloom · Granada II 3-bedroom release",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/three-bedrooms-granada-2",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 50
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · second Granada release",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-second-phase-of-granada-premium-community-living-apartments-in-abu-dhabi",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 120
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Granada II original brochure and 21 apartment plans",
+            "url": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 200
+          },
+          {
+            "id": "community",
+            "label": "Bloom Living · shared community location and amenities",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 20
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder · Granada 2 payment and delivery reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-granada-2",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "Terrace-inclusive maximum areas vary by floor and layout; compare the selected apartment’s own cutsheet."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Developer guide from",
+        "priceNote": "Current studio page: AED 720,000. The original release started at AED 630,000; Property Finder labels AED 690,000 as a launch price. Confirm a selected-unit quotation.",
+        "paymentNote": "Current developer: 5% booking, 45% construction, 50% handover. The launch mentioned post-handover options without a calendar; Property Finder also lists 10/60/30.",
+        "handoverNote": "The developer targets Q1 2028; Property Finder corroborates January 2028. This is a forecast, not a delivery certificate.",
+        "units": [
+          {
+            "label": "Studio · A1/A2",
+            "area": "366–624 ft² / 34–58 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR · eight types",
+            "area": "624–1,098 ft² / 58–102 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR · nine types",
+            "area": "1,012–2,002 ft² / 94–186 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR · A/B",
+            "area": "1,797–2,723 ft² / 167–253 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 5,
+            "sourceIds": [
+              "unit-0"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 45,
+            "sourceIds": [
+              "unit-0"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "unit-0"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Release",
+            "value": "Second Granada release; studios to three-bedroom apartments.",
+            "sourceIds": [
+              "launch"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Brochure says five-storey buildings; current pages and launch say four-storey. Confirm the selected block.",
+          "Ranges include maximum external areas; terrace sizes require individual cutsheets.",
+          "Binding payment dates, service charges and current availability remain unverified."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-04 Bloom Living Granada II, distinct from original phase4 Granada. Own release explicitly second phase/eight buildings/studio–3BR. No canonical/media edits.",
+          "location": "Own primary release Zayed City/Bloom Living, exact registry abu-dhabi-zayed-city; no assumed Mohammed Bin Zayed City or coordinates. Shared community20 allocation.",
+          "residences": "All21 actual numeric panels26/27,29–36,38–46,48/49 viewed via1700px full renders and magnified table contacts. Whole four family plans26/29/38/48 read. Studio A1/A2;1BR A/A2/A3/B/C/C2/C3/D;2BR A/A2/A3/B/B2/C2/C3/M/M1;3BR A/B. No maid counted extra bedroom. Own main/launch four-storey vs original PDF five-storey explicit unresolved; no inferred G+4 reconciliation.",
+          "areas": "Actual visible maxima across all floor variants:Studio366–624ft2/34–58m2;1BR624–1098/58–102;2BR1012–2002/94–186;3BR1797–2723/167–253. GF and typical schedules distinct; some single floor tables no GF label not assigned floor. Own current from studio366,1BR624,2BR1065,3BR1808 not universal minimum of all types because brochure2BR C3=1012 and3BR B=1797. Maximum terraces require individual cutsheet. Arithmetic all table components visually checked; no material total error found, integer rounding not corrected.",
+          "amenities": "Verified own primary phase icons/release fitness,pools,children play,centre. Shared generic common copy20 for record/group60; no guarantee all ready/open, no universal private pool.",
+          "pricing": "Own current studio720000/1BR1120000/2BR1710000/3BR2570000 actual body not related cards. Own release historical630000; PF690000 explicitly launch not current min. Head720000 current developer studio category guide, not verified unit stock/dated selected quote. No feed zero service charges adopted.",
+          "payment": "Current4 own pages5+45+50=100. Own launch mentions posthandover options but no calendar. PF independently lists5/45/50 and10/60/30; latter secondary option not primary universal or original PDF. No dated payment PDF retrieved; no guessed8 installment dates.",
+          "handover": "Own second phase release Q12028; PF January2028 same quarter corroborates. Neither actual completion certificate nor invented precise day. Secondary Q42028 guide excluded as weaker conflicting undated broker copy.",
+          "documents": "Own root observed data-url exact5865 PDF ordinary urllib GET20010014992bytes50p. All21 actual numeric tables and4 whole family drawings actually viewed. Older5671 same filename locator not downloaded/not extra allowance; no original Granada phase4 tables borrowed. Own4 unit pages combined200;own PDF all versions/mirrors200;launch120;shared generic20;PF60. No forms/bypass."
+        },
+        "fieldSources": {
+          "type": [
+            "unit-0"
+          ],
+          "bedrooms": [
+            "unit-0"
+          ],
+          "price": [
+            "unit-0"
+          ],
+          "priceLabel": [
+            "unit-0"
+          ],
+          "paymentPlan": [
+            "unit-0"
+          ],
+          "paymentNote": [
+            "unit-0",
+            "launch",
+            "portal"
+          ],
+          "paymentStages": [
+            "unit-0"
+          ],
+          "description": [
+            "launch",
+            "brochure"
+          ],
+          "areaId": [
+            "launch"
+          ],
+          "location": [
+            "launch"
+          ],
+          "emirate": [
+            "launch"
+          ],
+          "amenities": [
+            "community",
+            "launch"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community",
+            "launch"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "priceNote": [
+            "unit-0",
+            "launch",
+            "portal"
+          ],
+          "handover": [
+            "launch",
+            "portal"
+          ],
+          "handoverNote": [
+            "launch",
+            "portal"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "facts": [
+            "launch"
+          ],
+          "unresolved": [
+            "brochure",
+            "unit-0",
+            "launch"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bloom-project-05",
+      "slug": "bloom-living-almeria",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Almeria",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": "Almeria is Bloom Living’s seventh release, comprising three- to six-bedroom villas. Ground-floor entertaining spaces, upstairs family rooms and separate service rooms shape the layouts, while the developer describes a lakeside setting.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Villa",
+      "bedrooms": "3–6",
+      "price": null,
+      "handover": "Q4 2027",
+      "paymentPlan": "Post-handover plan",
+      "amenities": [
+        "Gym",
+        "Swimming pools",
+        "Children’s play areas",
+        "Community centre",
+        "Walking and cycling tracks"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-05"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "unit-3",
+            "label": "Bloom · Almeria 3-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-almeria",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 30
+          },
+          {
+            "id": "unit-4",
+            "label": "Bloom · Almeria 4-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/four-bedrooms-almeria",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 20
+          },
+          {
+            "id": "unit-5",
+            "label": "Bloom · Almeria 5-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/five-bedrooms-almeria",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 80
+          },
+          {
+            "id": "unit-6",
+            "label": "Bloom · Almeria 6-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/six-bedrooms-almeria",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 70
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · Almeria seventh-phase launch",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-almeria-seventh-phase-bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Almeria original brochure and four villa plans",
+            "url": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 200
+          },
+          {
+            "id": "community",
+            "label": "Bloom Living · shared community location and amenities",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 20
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder · Almeria secondary payment reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties-llc/almeria-serene-lakeside",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "Use the selected home’s approved schedule: webpage and brochure areas differ for larger villas."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Request a selected-home quotation",
+        "priceNote": "Original launch: AED 3.7m. Current 5BR and 6BR pages show AED 6.481m and AED 8.591m; 3BR and 4BR cards are marked sold out. No selected-unit availability is verified.",
+        "paymentNote": "Current developer: 5% booking, 35% construction, 40% handover, 20% over one year afterward. Property Finder instead lists 10/40/30/20; confirm the applicable contract.",
+        "handoverNote": "Q4 2027 is the developer’s completion target, corroborated by Property Finder; actual delivery is unverified.",
+        "units": [
+          {
+            "label": "3BR",
+            "area": "2,734 ft² / 254 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "4BR",
+            "area": "3,399 ft² / 316 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "5BR",
+            "area": "4,588 ft² / 426 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "6BR · printed total",
+            "area": "5,511 ft² / 512 m²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 5,
+            "sourceIds": [
+              "unit-5"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "unit-5"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 40,
+            "sourceIds": [
+              "unit-5"
+            ]
+          },
+          {
+            "stage": "One-year post-handover",
+            "percent": 20,
+            "sourceIds": [
+              "unit-5"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Phase",
+            "value": "Seventh Bloom Living release.",
+            "sourceIds": [
+              "launch"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Brochure 6BR total is 5,511 ft²/512 m², but floors sum to 5,537 ft²/514 m²; current webpage says 5,506 ft².",
+          "Brochure 4BR is 3,399 ft²; current webpage rounds to 3,400 ft².",
+          "Plot sizes, binding dates, charges and selected-home specifications require confirmation."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-05 Bloom Living Almeria. Own seventh-phase launch confirms3–6BR villas, not5–6BR-only portal shorthand or unrelated Spanish Almeria. No canonical/media edits.",
+          "location": "Own exact launch and unit body ZayedCity/BloomLiving/AbuDhabi. Registry abu-dhabi-zayed-city. Excluded false Nogbase AlJaddafDubai location, no coordinates or guaranteed commute.",
+          "residences": "Own original31p brochure all4 actual numeric/fullGF+FF families8/10/12/15 visually read1700px. Main3/4 cards SoldOut,5/6 categoryguides not verified inventory. Staff/driver rooms not counted extra bedrooms. Public describes internal arrangement based actualwholeplans notimaginedamenity.",
+          "areas": "Visible3BR1432+1302=2734ft2,133+121=254m2;4BR1892+1507=3399,176+140=316;5BR2607+1981=4588,242+184=426. Visible6BRGF3047/283+FF2490/231=5537/514 but printedtotal5511/512. Hidden text has5537 too; adoptedvisibleprinted5511 onlywithexplicitconflict. Currentown6from5506 differsagain,4from3400 vsPDF3399. No silent repair, noMarbella4607/5500 borrowed, wholetotal once, plotnotinferredfromgarden.",
+          "amenities": "Own phase icons and shared community supportgym/pools/childrenplay/centre/tracks. Genericunderlyingcopy20 forthisrecord/group60total. No guaranteed privatepool, furniture/landscapeindicative, premiumupgradeuniversalclaimomitted.",
+          "pricing": "Own primary launch historical3.7m/PFsame; own current5category6481000/6category8591000,3/4 cardsSoldOut. HeadNULLavoidobsolete3BRlaunchascurrentavailablemin. No actualunitID/datedquote/currentstock/servicechargeverified. Secondary3.85/4.4mnotadoptedasnewminimum.",
+          "payment": "Own currentallfour5+35+40+20=100; last20 one-yearposthandover. PF10+40+30+20=100 separatehistorical/secondaryguide, notoverwritten. No primarydatedpaymentcalendarPDFretrieved; no assumedinstalmentdates. HeadPost-handoverplanwithnotesavoidambiguous50/50category.",
+          "handover": "Own launchQ42027 andPFDecember2027corroborate. Forecastnotactualdelivery/occupancy. Publicationdate notinventedfromcrawler2.2years. No allBloomLivingmasterdateapplied.",
+          "documents": "Own primaryrootobservedPDFURL ordinaryGET2007186996bytes31pages. All4numericpanels/fullfamiliesactuallyviewed, PDFremainingpagesreviewedtextonlynotclaimedvisualall. Own4unitHTMLordinaryGET200 retained; no forms/VRsubmissions. Exact3slug3-bedrooms-almeria discoveredviaactualKnownablelink, guessedthree404notbypassed. RelatedPDFversions/mirrors200poolincludesallpublicunits/unresolved/description;fourprimaryphasepagescombined20030/20/80/70;launch100;generic20;portal60."
+        },
+        "fieldSources": {
+          "type": [
+            "unit-5"
+          ],
+          "bedrooms": [
+            "unit-5"
+          ],
+          "priceLabel": [
+            "unit-5"
+          ],
+          "paymentPlan": [
+            "unit-5"
+          ],
+          "paymentStages": [
+            "unit-5"
+          ],
+          "description": [
+            "launch",
+            "brochure"
+          ],
+          "areaId": [
+            "launch"
+          ],
+          "location": [
+            "launch"
+          ],
+          "emirate": [
+            "launch"
+          ],
+          "amenities": [
+            "community",
+            "unit-5"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community",
+            "launch"
+          ],
+          "overview": [
+            "brochure",
+            "unit-6"
+          ],
+          "price": [
+            "launch",
+            "unit-3",
+            "unit-4",
+            "unit-5",
+            "unit-6"
+          ],
+          "priceNote": [
+            "launch",
+            "unit-3",
+            "unit-4",
+            "unit-5",
+            "unit-6"
+          ],
+          "paymentNote": [
+            "unit-5",
+            "portal"
+          ],
+          "handover": [
+            "launch",
+            "portal"
+          ],
+          "handoverNote": [
+            "launch",
+            "portal"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "facts": [
+            "launch"
+          ],
+          "unresolved": [
+            "brochure",
+            "unit-4",
+            "unit-6"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bloom-project-06",
+      "slug": "bloom-living-carmona",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Carmona",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": "Two- and three-bedroom townhouses in Bloom Living, with private gardens and Mediterranean-inspired architecture.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Townhouse",
+      "bedrooms": "2–3",
+      "price": null,
+      "handover": "Q2 2028",
+      "paymentPlan": "40/60",
+      "amenities": [
+        "Pool",
+        "Gym",
+        "Clubhouse",
+        "Play areas",
+        "Walking/cycling paths"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-06"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Bloom · Carmona townhouses",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/two-bedrooms-3",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 160
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · Carmona launch announcement",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-carmona-the-eighth-phase-of-bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Carmona brochure and plans",
+            "url": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 140
+          },
+          {
+            "id": "community",
+            "label": "Bloom · community catalogue",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 30
+          },
+          {
+            "id": "secondary",
+            "label": "Rendr · separate Carmona payment reference",
+            "url": "https://rendr.ae/projects/carmona-at-bloom-living",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 35
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "Carmona is Bloom Living’s eighth phase, planned around two-storey townhouses."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "The launch guide was AED 1.9 million. Bloom’s catalogue now marks both townhouse types sold out; current resale prices and availability were not verified.",
+        "paymentNote": "Current Carmona pages show 5% booking, 35% construction and 60% handover. Rendr instead reports 5/45/50; confirm the applicable offer and dated instalments.",
+        "handoverNote": "Bloom’s launch announcement estimates Q2 2028; a completion certificate and revised contractual date were not verified.",
+        "units": [
+          {
+            "label": "2BR · 2M",
+            "area": "1,346 ft² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR · 2M-1",
+            "area": "1,303 ft² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR · 2E",
+            "area": "1,346 ft² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR · 3M",
+            "area": "1,636 ft² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR · 3E",
+            "area": "1,841 ft² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Area basis",
+            "value": "Whole-home sellable area; gardens and parking are not added.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Project number",
+            "value": "20250000565374, as displayed by Bloom.",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "Shared facilities",
+            "value": "Access terms require confirmation.",
+            "sourceIds": [
+              "community"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 5,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "On handover",
+            "percent": 60,
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Type 2E prints 1,346 ft², while its rounded floors total 1,345 ft²; confirm the contracted area.",
+          "Current service charges, fees, allocated parking, specifications and dated payment documents require confirmation."
+        ],
+        "fieldSources": {
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "paymentPlan": [
+            "developer"
+          ],
+          "paymentNote": [
+            "developer",
+            "secondary"
+          ],
+          "areaId": [
+            "community"
+          ],
+          "location": [
+            "community"
+          ],
+          "emirate": [
+            "community"
+          ],
+          "amenities": [
+            "community"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community"
+          ],
+          "description": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "overview": [
+            "launch"
+          ],
+          "handover": [
+            "launch"
+          ],
+          "handoverNote": [
+            "launch"
+          ],
+          "price": [
+            "launch",
+            "community"
+          ],
+          "priceLabel": [
+            "launch",
+            "community"
+          ],
+          "priceNote": [
+            "launch",
+            "community"
+          ],
+          "paymentStages": [
+            "developer"
+          ],
+          "facts": [
+            "brochure",
+            "developer",
+            "community"
+          ],
+          "unresolved": [
+            "brochure",
+            "developer"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-06/bloom-living-carmona/Bloom owner retained. Own launch and own exact Carmona two/three-bedroom unit pages confirm eighth phase; not Seville or Olvera.",
+          "location": "Own launch places Bloom Living in Zayed City Abu Dhabi; own unit page/footer explicitly Khalifa City C. Exact new central abu-dhabi-zayed-city alias supported; no coordinates or guaranteed travel times.",
+          "residences": "Own original28p brochure allfive whole GF/FF layouts actually viewed14/15/16/19/20:2M,2M-1,2E,3M,3E. Staff rooms not counted as marketed bedrooms. Drawn gardens and two cars not extrapolated to guaranteed allocation.",
+          "areas": "Actual visible sellable totals1346/1303/1346/1636/1841ft2 and125/121/125/152/171m2. Floors743+603=1346;743+560=1303;764+581=1345 versusprinted1346;829+807=1636;958+883=1841. Printedtotal retained, arithmetic caveat public. Distinct Seville2E1335/3E1851 NOT imported; no plot addition or dimension-based invented areas.",
+          "amenities": "Own current Carmona icons and generic master community confirm concise shared pools/gym/clubhouse/play/walkcycle/BBQ. Generic location/amenity/public catalogue derivation30 reserved within shared root85 across06–08, allBloom200 total. Operational/free/exclusive service not promised.",
+          "pricing": "Own launch1.9m historical only; current exact primary unit pages no price. Main community catalogue both Carmona types SoldOut as viewed2Nov2026; no live resale inventory inferred. HeadlinepriceNULL, no historical launch as current quotation or yields/servicefee invention.",
+          "payment": "Current own Carmona2BR and3BR actual HTML5booking35construction60handover=100, headline40/60. Rendr actual5/45/50attributed conflicting secondary snapshot; no arbitraryrebasing/borrowing GranadaII options. Own launch says posthandover options without amounts, not extra20assumed. Originaldatedcalendar genuinely unavailable.",
+          "handover": "Own exact launch Q22028 proposed, Rendr agrees; no completioncertificate found. No generic otherphase Q32027 adoption, no inference elapsed constructionmilestones. Current date needs SPA confirmation.",
+          "documents": "Ordinary own GET200 original Carmona28p5,662,036bytes retrieved, allfive numerical and whole GF/FF layouts actuallyread; all28contactpages inspected, remainingrendersnotfloorplans. Own current primary HTML ordinaryGET200 saved. No dated original paymentPDF exposed after publiclinksearch, forms unsubmitted, no bypass. All related brochure/plans/mirrors/retellings combined allocation140brochure+60duplicatedlaunch=200, conservative public mixed upper133<=200; historical duplicated launch material included in same underlying200 cap, current phase HTML pool160separatecurrentclaims. Generic30 within shared200. Imagesdeferred."
+        }
+      }
+    },
+    {
+      "id": "bloom-project-07",
+      "slug": "bloom-living-seville",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Seville",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "Villas and townhouses in Seville, Bloom Living’s lakeside phase, with Mediterranean-inspired façades and landscaped streets.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Villa",
+      "bedrooms": "2–7",
+      "price": 6500000,
+      "handover": "Q1 2027",
+      "paymentPlan": "50/50",
+      "amenities": [
+        "Pool",
+        "Gym",
+        "Play areas",
+        "Walking/cycling paths"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-07"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Bloom · Seville five-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/five-bedrooms-seville",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 160
+          },
+          {
+            "id": "four-bedroom",
+            "label": "Bloom · Seville four-bedroom villas",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/four-bedrooms-seville",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Seville brochure and plans",
+            "url": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 170
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · Seville launch announcement",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-seville-exceptional-lakeside-community-abu-dhabi",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 30
+          },
+          {
+            "id": "progress",
+            "label": "Bloom · Seville construction update",
+            "url": "https://bloomholding.com/construction-updates/seville-construction-update",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 45
+          },
+          {
+            "id": "community",
+            "label": "Bloom · community catalogue",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 25
+          },
+          {
+            "id": "construction-index",
+            "label": "Bloom · September 2026 construction archive",
+            "url": "https://bloomholding.com/construction-updates",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 10
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "Seville combines two- and three-bedroom townhouses with three- to six-bedroom villas. Its launch also announced seven-bedroom mansions; corresponding plans were not verified."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Developer five-bedroom guide",
+        "priceNote": "Bloom’s five-bedroom page advertises AED 6.5 million; this is not a guide for every home. The 2024 launch started at AED 1.8 million. Confirm current availability.",
+        "paymentNote": "The current five-bedroom page shows 25% booking, 25% construction and 50% handover. This is an advertised structure; a dated unit-specific calendar was not verified.",
+        "handoverNote": "Bloom’s September 2026 update reports over 64% progress and targets Q1 2027. This is a dated developer snapshot, not a completion certificate.",
+        "units": [
+          {
+            "label": "2BR townhouse · 2M",
+            "area": "1,346 ft² / 125 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR townhouse · 2M-1",
+            "area": "1,303 ft² / 121 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR townhouse · 2E",
+            "area": "1,335 ft² / 124 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR townhouse · 3M",
+            "area": "1,636 ft² / 152 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR townhouse · 3E",
+            "area": "1,851 ft² / 172 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR villa",
+            "area": "2,745 ft² / 255 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "4BR villa",
+            "area": "3,412 ft² / 317 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "5BR villa",
+            "area": "4,596 ft² / 427 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "6BR villa",
+            "area": "5,533 ft² / 514 m² sellable",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Area basis",
+            "value": "Whole-home sellable totals; gardens and parking are not added.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Project number",
+            "value": "20240000251244, as displayed by Bloom.",
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 25,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 25,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "On handover",
+            "percent": 50,
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Townhouse 2E and 3E totals each exceed their rounded floor sums by 1 ft²; printed totals are retained.",
+          "Current four-/five-bedroom web guides show 3,407/4,593 ft², versus brochure totals 3,412/4,596 ft². Confirm the contracted revision.",
+          "Current stock, fees, service charges, parking allocations and final specifications require confirmation."
+        ],
+        "fieldSources": {
+          "price": [
+            "developer"
+          ],
+          "priceLabel": [
+            "developer"
+          ],
+          "paymentPlan": [
+            "developer"
+          ],
+          "paymentStages": [
+            "developer"
+          ],
+          "paymentNote": [
+            "developer"
+          ],
+          "areaId": [
+            "community"
+          ],
+          "location": [
+            "community"
+          ],
+          "emirate": [
+            "community"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community"
+          ],
+          "amenities": [
+            "community"
+          ],
+          "description": [
+            "brochure"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure",
+            "launch"
+          ],
+          "overview": [
+            "brochure",
+            "launch"
+          ],
+          "priceNote": [
+            "developer",
+            "launch"
+          ],
+          "handover": [
+            "progress",
+            "construction-index"
+          ],
+          "handoverNote": [
+            "progress",
+            "construction-index"
+          ],
+          "facts": [
+            "brochure",
+            "developer"
+          ],
+          "unresolved": [
+            "brochure",
+            "developer",
+            "four-bedroom"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-07/bloom-living-seville/Bloom owner kept. Exact own Seville unit pages/2024 launch/original44p brochure confirm phasefive; not similarly named Seville elsewhere.",
+          "location": "Own issuerlaunch places BloomLivingZayedCityAbuDhabi; supported centralabu-dhabi-zayed-cityaliasKhalifaCityC, no coordinates/traveltimeguarantees. Actualoriginalmasterplan4/5phaseoutline inspected, not numericalgeolocation.",
+          "residences": "Actualall9numericwholeGF/FFfamilies read p9/10/11/14/15/23/25/27/30.2BRtownhouse2M/2M-1/2E,3BR3M/3E,villas3/4/5/6. Staff anddriversrooms notmarketedextraBR. Original2024launchalso7BRmansions, absent current44p plans/current3–6villacopy;7BRannouncedonlyexplicitlyunverifiedindividualdetails. No pretend7BRfloorplan.",
+          "areas": "Wholeprintedft2/m2:1346/125,1303/121,1335/124,1636/152,1851/172,2745/255,3412/317,4596/427,5533/514. AllGF/FFactuallyviewed.2E764+570=1334vs1335;3E956+894=1850vs1851printed, publiccaveat. Others743+6031346,743+5601303,829+8071636,1432+13132745,1894+15183412,2605+19914596,3068+24655533match. Wholehomeonce, gardens/plot/parkingnotadded. Owncurrent4BR3407/5BR4593slightlydifferentfrom3412/4596explicitrevisionconflict. Carmona2E1346/3E1841notcopieddespitesomesharedtownhomegeometry.",
+          "amenities": "OwnSevillecurrenticons pools/gym/play/trails corroborate genericBloomLivingfacilities; concisesharedamenity/locationderivation25withinroot80/global200, notperphaseinventedprivatebenefits. No operational/free/exclusivefacilityguarantee.",
+          "pricing": "CurrentactualownfivebedroompageAED6500000specificguideadoptedwithfivebedroomlabel, notuniversalfromprice. Own2024launch1.8mexplicitlyhistorical. Fourbedroomcurrentpagehasnoprice, maincurrent5BRsame6.5mnotindependentquote. Availability/fees/servicechargenoexactcurrentunitpricelistverified.",
+          "payment": "Actualown5BRHTML25down/25construction/50handover=100. NotborrowedCarmona5/35/60orGranada5/35/40/20. Original44pnoactualdatedpaymentcalendar. Currentadvertisedaggregate50/50qualifiedrelease-specific, no milestone datesinvented.",
+          "handover": "Ownexactconstructionpagecurrentbodyover64%andQ12027; publicconstructionindexlabelsSeptember2026. Retainassnapshotnotliveasof2Novprogress, notcompletedcertificate. Own2024launchQ12027agrees; no forcedbrokeralternateforecast. Date attribution independently verified from the actual construction-index card: September2026, not an inferred date on the individual update.",
+          "documents": "OrdinarypublicownPDF44pages6,910,850bytesGET200; rastertextempty soactualcontactsheetALL44andninefullnumericwholeplansactuallyread. Page2introand4/5mapsrendered; notfake7BRdrawing. Own5BRHTMLGET200saved;fourbedwebread200;sixbedwebattempttimedoutnotclaimedread. OriginaldatedpayPDFnotretrievedafterpubliclinks/search, noforms/bypass. AllrelatedSevillebrochure/plans/versions/mirrors/retellingsandduplicatedlaunchbody collective200allocation170+30; publicmixedreviewrequired. OwncurrentphaseHTMLcombined200allocation160+40, notperURLextra. Generic25withinroot80andallBloom200. Sharedidenticaltownhousegeometryonlyboundedcompactnumericrows, noexpandedduplicatedcopy. Imagesdeferred."
+        }
+      }
+    },
+    {
+      "id": "bloom-project-08",
+      "slug": "bloom-living-granada",
+      "developerSlug": "bloom",
+      "name": "Bloom Living Granada",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Low-rise apartments at Granada, Bloom Living’s fourth phase, arranged around landscaped courtyards and shared community spaces.",
+      "areaId": "abu-dhabi-zayed-city",
+      "location": "Zayed City",
+      "emirate": "Abu Dhabi",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": null,
+      "handover": "Q4 2026",
+      "paymentPlan": null,
+      "amenities": [
+        "Pool",
+        "Gym",
+        "Play areas",
+        "Walking/cycling paths"
+      ],
+      "brochureUrl": "https://bloomholding.com/application/files/7316/9780/7659/Granada_EBrochure_Web.pdf",
+      "floorPlanUrl": "https://bloomholding.com/application/files/7316/9780/7659/Granada_EBrochure_Web.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "bloom-project-08"
+      ],
+      "nameSource": {
+        "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Bloom · original Granada apartments",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/2-bedrooms",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 140
+          },
+          {
+            "id": "general-page",
+            "label": "Bloom · Granada overview and mixed catalogue",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living/granada-units",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          },
+          {
+            "id": "brochure",
+            "label": "Bloom · Granada brochure and plans",
+            "url": "https://bloomholding.com/application/files/7316/9780/7659/Granada_EBrochure_Web.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 150
+          },
+          {
+            "id": "earlier",
+            "label": "Bloom · alternative Granada brochure edition",
+            "url": "https://bloomholding.com/application/files/8217/1376/6099/Granada_E-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 10
+          },
+          {
+            "id": "launch",
+            "label": "Bloom · Granada launch announcement",
+            "url": "https://bloomholding.com/press-releases/bloom-holding-launches-granada-premium-community-living-apartments-abu-dhabi",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "progress",
+            "label": "Bloom · Granada construction update",
+            "url": "https://bloomholding.com/construction-updates/granada-construction-update",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 70
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder · Granada payment reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties-llc/granada",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "community",
+            "label": "Bloom · community catalogue",
+            "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 30
+          },
+          {
+            "id": "construction-index",
+            "label": "Bloom · September 2026 construction archive",
+            "url": "https://bloomholding.com/construction-updates",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 10
+          }
+        ],
+        "community": "Bloom Living",
+        "overview": [
+          "The first Granada release was announced across eight four-storey buildings, with studios and one- to three-bedroom apartments."
+        ],
+        "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "The launch guide was AED 590,000. Bloom’s catalogue marks the original two- and three-bedroom types sold out; current unit pricing was not verified.",
+        "paymentNote": "Property Finder lists 5% booking, 35% construction, 40% handover and 20% post-handover. Bloom’s general Granada page repeats this structure alongside Alhambra cards; confirm its applicability and dated instalments.",
+        "handoverNote": "Bloom’s September 2026 update reports over 49% progress and a Q4 2026 target. This snapshot does not establish certified completion.",
+        "units": [
+          {
+            "label": "Studio A",
+            "area": "472 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Studio A1",
+            "area": "397 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR A",
+            "area": "699 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR A3",
+            "area": "828 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR B",
+            "area": "752 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR B1",
+            "area": "677 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR C",
+            "area": "721 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR C1",
+            "area": "731 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR D",
+            "area": "645 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR E",
+            "area": "624 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR A",
+            "area": "1,080 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR A1",
+            "area": "1,194 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR A5",
+            "area": "1,172 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR A6",
+            "area": "1,151 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR B",
+            "area": "1,118 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR M",
+            "area": "1,495 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR M1",
+            "area": "1,463 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR M4",
+            "area": "1,463 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR A",
+            "area": "1,883 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR A2",
+            "area": "1,807 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR B",
+            "area": "1,883 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR C",
+            "area": "1,829 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Area basis",
+            "value": "Maximum total sellable area includes external space; it is not internal-only area.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Project number",
+            "value": "20240000196178, as displayed by Bloom.",
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Portal reference · booking",
+            "percent": 5,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "On handover",
+            "percent": 40,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Post-handover",
+            "percent": 20,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The 2BR B plan prints 103 m², while its rounded internal and external figures total 104 m²; confirm the contracted measurement.",
+          "Granada II and Alhambra are separate releases. Current fees, service charges, parking allocations, specifications and dated payment documents require confirmation."
+        ],
+        "fieldSources": {
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "areaId": [
+            "community"
+          ],
+          "location": [
+            "community"
+          ],
+          "emirate": [
+            "community"
+          ],
+          "community": [
+            "community"
+          ],
+          "locationNote": [
+            "community"
+          ],
+          "amenities": [
+            "community"
+          ],
+          "description": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "overview": [
+            "launch"
+          ],
+          "price": [
+            "launch",
+            "community"
+          ],
+          "priceLabel": [
+            "community"
+          ],
+          "priceNote": [
+            "launch",
+            "community"
+          ],
+          "handover": [
+            "progress",
+            "construction-index"
+          ],
+          "handoverNote": [
+            "progress",
+            "construction-index"
+          ],
+          "paymentPlan": [
+            "general-page",
+            "portal"
+          ],
+          "paymentNote": [
+            "general-page",
+            "portal"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "facts": [
+            "brochure",
+            "developer"
+          ],
+          "unresolved": [
+            "brochure",
+            "developer"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected bloom-project-08/bloom-living-granada/Bloom owner retained. Own original Granada2BR page/project20240000196178, original brochures, issuer launch and phase-four update confirm ORIGINAL Granada, not GranadaII or Alhambra. Mixed overview Alhambra cards excluded from Granada prices/sizes.",
+          "location": "Own issuer launch and exact unit page place BloomLiving in ZayedCity AbuDhabi; footer KhalifaCityC supports alias. Exact central abu-dhabi-zayed-city, no broker Shakhbout confusion or GPS guess. Shared main30 within root85+agent0155+agent0760=200.",
+          "residences": "Actual original51p brochure all22 whole flat drawings viewed26/27,29–36,38–45,47–50:twoStudio,eight1BR,eight2BR,four3BR. Maid rooms not marketed extra bedrooms. Eight four-storey FIRST-release buildings issuer claim not all BloomLiving/GranadaII. PF one-building listing not whole-phase count.",
+          "areas": "Actual visible MAX TOTAL SELLABLE ft2 includes maximum external space, not internal-only. Studio A472/A1397;1BR A699/A3828/B752/B1677/C721/C1731/D645/E624;2BR A1080/A11194/A51172/A61151/B1118/M1495/M11463/M41463;3BR A1883/A21807/B1883/C1829. All22 viewed at1600 width. p42 B actual103m2 vs89+15=104 public caveat;957+161=1118ft2 valid. Earlier edition22 text triplets match; representative earlier26/42/50 actually viewed, not all older pages. No room-dimension multiplication or outdoor double counting.",
+          "amenities": "Own original Granada icons confirm pools/gym/play/trails; concise shared location/amenity copy within30 main pool. No invented operational guarantee, private beach or unit parking count. Access terms subject to contract.",
+          "pricing": "Own launch590k historical only; exact current original2BR page no price. General Granada overview now shows Alhambra865k and1.4/2.1/3.2m excluded for original Granada. Current main original2/3BR sold-out display not universal resale statement. HeadlineNULL, current unit price list unavailable. PF590k explicitly launch price.",
+          "payment": "Actual PF Granada table5/35/40/20=100 labelled portal reference. General overview repeats structure alongside Alhambra cards, applicability ambiguous; headlineNULL pending unit offer. Exact original Granada2BR page has no payment section. No GranadaII5/45/50 or70/30 borrowing; original dated calendar unavailable, no invented monthly/post-handover frequency.",
+          "handover": "Exact own Granada construction page over49%/Q42026, construction index labels September2026. Dated snapshot not live2Nov progress/certificate. Own launch Q42026 and PF December2026 agree at quarter level. No expected completion presented as actual. Date attribution independently verified from the actual construction-index card: September2026, not an inferred date on the individual update.",
+          "documents": "Own7316 original51p9,958,213bytes GET200; all51 contact pages inspected and all22 numerical whole plans rendered/read. Own8217 alternative51p6,445,689bytes GET200; all22 text triplets match, actual earlier26/42/50 viewed. Exact own2BR HTML200 saved; general mixed page webread200. No forms/bypass. Related brochures/plans/versions/mirrors/retellings and duplicated launch copy share ONE200 pool150+10+40. Current own phase HTML repeated blocks combined200=140+60. Generic main30 within Bloom200. Original dated payment document unavailable, PF secondary reference honestly labelled. Source invisible permit direction characters not copied; plain project digits only. Images deferred."
+        }
+      }
+    },
+    {
+      "id": "bloom-project-09",
+      "slug": "bloom-project-09",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 09",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-10",
+      "slug": "bloom-project-10",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 10",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-11",
+      "slug": "bloom-project-11",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 11",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-12",
+      "slug": "bloom-project-12",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 12",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-13",
+      "slug": "bloom-project-13",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 13",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-14",
+      "slug": "bloom-project-14",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 14",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "bloom-project-15",
+      "slug": "bloom-project-15",
+      "developerSlug": "bloom",
+      "name": "Bloom Holding Project 15",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    }
+  ]
+}

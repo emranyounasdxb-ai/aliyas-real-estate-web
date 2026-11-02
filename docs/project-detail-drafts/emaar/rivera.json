@@ -1,0 +1,61 @@
+{
+ "id":"emaar-project-30","name":"Rivera","developerSlug":"emaar",
+ "fields":{
+  "description":"Rivera is a collection of four bedroom homes at The Valley Phase 2. Emaar’s detailed drawings identify semi-detached villas in Magnolia, Lotus and Lavender designs. Family living extends from a ground-floor kitchen and dining space to an upper lounge and terrace, with landscape and recreation at the centre of the community plan.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4","price":4780000,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community swimming pool","Fitness play areas","Soccer pitch","Tennis and padel courts","Basketball court","Flower farm and orchard setting","Meandering river landscape","Skatepark","Dog park","Jogging routes","Sensory play areas","Picnic and community spaces"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/RIVERA_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/RIVERA_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Rivera at The Valley Phase 2","url":"https://www.emaar.com/en/properties/rivera-at-the-valley-phase-2","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: Rivera brochure","url":"https://www.emaar.com/cms-media/uploads/RIVERA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"plans","label":"Emaar: Rivera floor plans","url":"https://www.emaar.com/cms-media/uploads/RIVERA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Rivera launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/rivera/RIVERA_THE_VALLEY_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":125},
+    {"id":"payment","label":"Rivera launch payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/rivera/RIVERA_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"finder","label":"Property Finder: Rivera · conflicting dates and payment terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/rivera-at-the-valley","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["plans","official"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","facts","finder"],"handover":["payment","facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Rivera official page and own branded brochure, plans and launch sheets reviewed; not confused with Rivana or Azizi Riviera.",
+    "location":"The Valley Phase 2 on Dubai–Al Ain Road checked using developer community description and brochure map.",
+    "residences":"Six official drawings identify four bedroom semi-detached villas in three paired design variants. Official webpage instead calls these townhouses; discrepancy explicitly retained.",
+    "areas":"All seven floor-plan pages read and Magnolia-A visually checked. Suite, garage, balcony and printed totals recorded separately; total not represented as internal area or plot size.",
+    "amenities":"Official project and brochure support sports, nature-themed spaces, dog park and community pool; launch map provides further neighbourhood context.",
+    "pricing":"AED 4.78 million starting price appears on official page and launch fact sheet; no availability inferred.",
+    "payment":"Project-specific Emaar-branded payment sheet read and visually checked; nine stages total 100%. Conflicting PF 10/80/10 schedule not merged into launch plan.",
+    "handover":"June 2029 estimated construction completion in both launch sheets, versus PF November 2028. June 2029 shown as reported, with conflict disclosed.",
+    "documents":"Official brochure and plans linked; launch fact and payment documents clearly attributed as broker-hosted Emaar copies. Images unchanged."
+   },
+   "community":"The Valley Phase 2",
+   "overview":["Rivera’s emphasis is on time outdoors: trails, an orchard and flower-farm setting, places for children to explore and a pool for the community. The brochure describes three façade styles and interiors in natural, earthy tones. It presents Rivera as The Valley’s first LEED neighbourhood; that is the developer’s stated positioning, not an independently verified certification or a promise of particular utility savings."],
+   "locationNote":"Rivera is within The Valley Phase 2, along Dubai–Al Ain Road. The community connects by road towards central Dubai and Dubai Outlet Mall. Travel estimates vary between launch documents; check the actual route and peak-time journey before choosing a home.",
+   "priceLabel":"Advertised starting price",
+   "priceNote":"Emaar advertises a starting price of AED 4.78 million. The launch fact sheet uses the same figure. Neither establishes current availability or the price of a particular home; obtain an up-to-date quotation.",
+   "paymentNote":"The Emaar-branded launch schedule is 10% on booking, seven further 10% instalments and 20% at estimated completion. Property Finder instead lists 10/80/10. The dated launch document is shown here, with the discrepancy left open for confirmation against the sale agreement.",
+   "handoverNote":"Rivera’s launch payment and fact sheets estimate construction completion in June 2029. Property Finder lists November 2028, so dates are not consistent across sources. June 2029 is shown as reported, pending written developer confirmation.",
+   "units":[
+    {"label":"4 bedroom Magnolia · A and B","area":"3,693.52 sq ft printed total area","sourceIds":["plans"]},
+    {"label":"4 bedroom Lotus · A and B","area":"3,688.25 sq ft printed total area","sourceIds":["plans"]},
+    {"label":"4 bedroom Lavender · A and B","area":"3,714.08 sq ft printed total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The launch fact sheet lists 378 four bedroom homes. This is the planned collection size, not the number currently available. Its community map also identifies adventure play, river viewpoints, wadi walks and a scooter pump track.","sourceIds":["facts"]},
+    {"label":"Space inside and outside","value":"Suites are 2,846.41–2,857.28 sq ft; the published totals add a 445.63 sq ft garage and 396.22–411.18 sq ft balcony area. Plot area is not supplied in the reviewed plan table.","sourceIds":["plans"]},
+    {"label":"Three-level arrangement","value":"Plans show a ground-floor guest bedroom and maid’s room, three bedrooms above, and a second-floor lounge opening to a terrace. Check the exact selected variant and final drawing.","sourceIds":["plans"]}
+   ],
+   "unresolved":["The official webpage uses ‘townhouses’ while its detailed drawings say ‘semi-detached villa’. This page follows the drawings; confirm the sale contract’s classification.","Resolve the different completion dates and payment splits in launch documents and Property Finder before relying on either.","Current availability, unit price, plot size, orientation, remaining instalments and contractual handover.","Final finishes, service charges, construction progress and completion/access dates for community facilities.","Independent LEED certification scope and status were not verified; developer sustainability claims do not establish specific savings.","Official project imagery is deferred; existing photographs are illustrative."]
+  }
+ }
+}

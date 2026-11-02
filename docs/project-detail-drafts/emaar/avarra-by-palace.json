@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-15","name":"Avarra by Palace","developerSlug":"emaar",
+ "fields":{
+  "description":"Avarra by Palace is a Palace-branded residential tower in Business Bay. Emaar’s collection includes one to four bedroom apartments and a six bedroom penthouse, with broad balconies and a choice of city-facing orientations. The penthouse has its own extensive floor plan and facilities, which should not be confused with the shared amenities offered to apartment residents.",
+  "areaId":"dubai-business-bay","location":"Business Bay","emirate":"Dubai","type":"Apartment / Penthouse","bedrooms":"1–4 & 6","price":2709888,"handover":"Q2 2031 reported","paymentPlan":"90/10 reported",
+  "amenities":["Infinity pool and pool deck","Gym and outdoor fitness","Yoga zone","Barbecue and picnic area","Children’s play area","Children’s pool"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/AVARRA-BY-PALACE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/AVARRA-BY-PALACE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Avarra by Palace","url":"https://www.emaar.com/en/properties/avarra-by-palace-at-business-bay","kind":"developer","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"brochure","label":"Emaar: Avarra by Palace brochure","url":"https://www.emaar.com/cms-media/uploads/AVARRA-BY-PALACE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"plans","label":"Emaar: Avarra apartment and penthouse plans","url":"https://www.emaar.com/cms-media/uploads/AVARRA-BY-PALACE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"payment","label":"Avarra launch payment schedule · Jiwak-hosted copy","url":"https://jiwak.com/files/properties/36687f8a5801fbdc97ce71d56ed73e457f24c8bd.pdf","kind":"portal","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"finder","label":"Property Finder: Avarra project terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/avarra-by-palace","kind":"portal","checkedOn":"2026-10-31","derivedWords":60},
+    {"id":"bayut","label":"Bayut: Avarra project terms","url":"https://www.bayut.com/for-sale/property/dubai/business-bay/avarra-by-palace/","kind":"portal","checkedOn":"2026-10-31","derivedWords":45}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["brochure","official"],"type":["official"],"bedrooms":["official"],"amenities":["brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder","bayut"],"handover":["payment","finder","bayut"]},
+   "reviewCoverage":{
+    "identity":"Official branded project name retained. Developer page categorises it under Downtown, but its body, URL and brochure explicitly locate it in Business Bay; Business Bay used for filtering.",
+    "location":"Business Bay confirmed from official brochure and page; Downtown is nearby context, not the selected community field.",
+    "residences":"Official one to four bedroom apartments plus six bedroom penthouse. No unsupported claim that all homes are furnished or include hotel services.",
+    "areas":"All 32 official plan pages reviewed. Total-area ranges transcribed by bedroom count. Six bedroom plan on page 32 visually checked, including suite/balcony split.",
+    "amenities":"Six facility groups from brochure page 10; penthouse home cinema, gym and jacuzzi kept as unit-specific plan features.",
+    "pricing":"Official units-from AED 2,709,888 used, with distinction from rounded AED 2.7 million launch headline. No live stock quantity.",
+    "payment":"Emaar-branded Jiwak-hosted 12-stage launch schedule visually verified; totals 90/10. Property Finder and Bayut corroborate 10/80/10 overall split.",
+    "handover":"Copied payment schedule June 2031 agrees with Property Finder and Bayut Q2 2031; contractual date remains unconfirmed.",
+    "documents":"Official 22-page brochure, 32-page plan pack and third-party-hosted launch payment sheet read. No private purchaser documents used and no new imagery imported."
+   },
+   "community":"Business Bay",
+   "overview":["The Palace identity is expressed through warm interiors, large glass façades and generous outdoor spaces. The brochure positions the building around views towards the sea, Burj Khalifa, Downtown and Business Bay. Those are design intentions across the development; the outlook and service package of a particular residence need their own confirmation."],
+   "locationNote":"Emaar’s project description and brochure place Avarra in Business Bay, with Downtown Dubai, Dubai Mall and the Dubai Canal in its wider setting. Although the website groups the project under Downtown, the Business Bay location is used here. Marketing journey times depend on traffic and the actual access route.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s displayed unit pricing starts at AED 2,709,888 on the research date. The rounded AED 2.7 million headline is a separate launch reference. The displayed price does not establish current availability, furnishing or a guaranteed view.",
+   "paymentNote":"The Emaar-branded launch schedule hosted by Jiwak combines 5% and 10% instalments, with 90% payable before completion and 10% at completion. Property Finder and Bayut corroborate the overall split. Dates below document the launch schedule; current reservation terms may differ, particularly where earlier instalments have already fallen due.",
+   "handoverNote":"The copied launch sheet targets June 2031 for estimated construction completion. Property Finder gives June 2031 and Bayut Q2 2031. These are reported targets; obtain the current contractual date and construction update before purchase.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"788.78–829.47 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,199.74–1,449.04 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,640.74–1,861.83 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom apartment","area":"4,225.69–4,795.43 sq ft total area","sourceIds":["plans"]},
+    {"label":"6 bedroom penthouse · Level 75","area":"14,861.09 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":5,"sourceIds":["payment"]},
+    {"stage":"November 2026","percent":5,"sourceIds":["payment"]},
+    {"stage":"April 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027","percent":5,"sourceIds":["payment"]},
+    {"stage":"April 2028","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2028","percent":5,"sourceIds":["payment"]},
+    {"stage":"March 2029 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2029 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2030 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2031 · estimated construction completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Building plan","value":"The official massing page labels a 75-floor tower. Detailed sections identify basement, podium and upper residential levels separately.","sourceIds":["plans"]},
+    {"label":"Penthouse proportions","value":"The Level 75 plan separates 11,030.32 sq ft of suite area from 3,830.77 sq ft of balcony area.","sourceIds":["plans"]},
+    {"label":"Penthouse-only rooms","value":"The six bedroom drawing labels a home cinema, house gym, jacuzzi, show kitchen, family kitchen and maid’s room. These are specific to that plan, not shared apartment amenities.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current availability, apartment or penthouse quotation and selected view.","Current dated payment schedule, contractual completion and construction progress.","Furnishing, Palace service inclusions, service charges, parking and final fit-out specifications.","Final private penthouse facilities and outdoor specifications must be checked against the contract.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "emaar-project-92",
+  "name": "Farm Gardens 2",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Farm Gardens 2 brings four- and five-bedroom villas to The Valley, with communal growing spaces woven into a gated residential neighbourhood. Emaar presents two architectural styles, Horizon and Oren, alongside gardens, recreation areas and a community centre. The setting is intended for families seeking more outdoor space.",
+    "areaId": "dubai-the-valley",
+    "location": "The Valley",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–5",
+    "price": 7260000,
+    "handover": "Q1 2028 · estimated",
+    "paymentPlan": "90/10 launch plan",
+    "amenities": ["Community farming", "Hydroponic greenhouse", "Vegetable gardens", "Infinity-edge pool", "Children’s pool", "Yoga deck", "Reflexology path", "Themed gardens", "Children’s play areas", "Picnic areas", "Sports courts", "Multipurpose hall"],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/379974_brochure_File_86ddad55b6_prod.pdf",
+    "floorPlanUrl": "https://jiwak.com/files/properties/5bc33032454abf42a1cbb08f7742f82d1ecd83c0.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {"id":"official","label":"Emaar: Farm Gardens 2 at The Valley","url":"https://www.emaar.com/en/properties/farm-gardens-2-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Farm Gardens 2 brochure","url":"https://www.emaar.com/cms-media/uploads/379974_brochure_File_86ddad55b6_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"plans","label":"Emaar villa plans, Jiwak-hosted copy","url":"https://jiwak.com/files/properties/5bc33032454abf42a1cbb08f7742f82d1ecd83c0.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar launch fact sheet, Jiwak-hosted copy","url":"https://jiwak.com/files/properties/98430368f62fd53fdb21e060ff8672a3cc2baf36.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar phase 2 payment schedule, Jiwak-hosted copy","url":"https://jiwak.com/files/properties/39ba3941f5f5279d3a46eb5e2da834b3cc15e66c.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"materials","label":"Emaar material board, Jiwak-hosted copy","url":"https://jiwak.com/files/properties/5f61c060d068d6d0d09e167c8945c3bd6b9745bc.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":80},
+        {"id":"finder","label":"Property Finder: Farm Gardens 2","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/farm-gardens-2","kind":"portal","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"bayut","label":"Bayut: Farm Gardens 2 area guide","url":"https://www.bayut.com/area-guides/farm-gardens-2/","kind":"portal","checkedOn":"2026-10-31","derivedWords":90}
+      ],
+      "fieldSources": {
+        "description":["official","brochure"],"overview":["brochure"],"location":["official"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official","facts","finder"],"units":["plans","facts"],"documents":["brochure","plans","materials"],"paymentPlan":["payment","facts","finder"],"handover":["payment","finder","bayut"]
+      },
+      "reviewCoverage": {
+        "identity":"Phase 2 checked separately from the earlier Farm Gardens release; Horizon/Oren styles confirmed.",
+        "location":"The Valley and Dubai–Al Ain Road access checked on the developer page.",
+        "residences":"Four/five-bedroom villas and 256-home launch collection; ground, first and roof levels checked.",
+        "areas":"Four plan area tables visually checked; suite, total and plot measurements separated. Brochure/portal size conflict disclosed.",
+        "amenities":"Community farming, recreation and planting proposals checked; private pool inclusion not assumed.",
+        "pricing":"Developer AED 7.26m headline and four style-specific launch prices checked; higher portal references distinguished.",
+        "payment":"Ten 10% instalments checked in the phase-specific payment sheet.",
+        "handover":"March 2028 launch estimate corroborated by Property Finder and Bayut Q1 2028.",
+        "documents":"Developer brochure plus attributed nine-page plans, fact sheet, payment sheet, materials and community maps reviewed."
+      },
+      "community":"The Valley",
+      "overview":["The neighbourhood plan gives shared food-growing spaces a practical role: a greenhouse and vegetable gardens sit alongside leisure facilities. Emaar also proposes an orchard, shaded gathering spaces and a community centre. Wider Valley facilities, including its Town Centre and Golden Beach, belong to the master community rather than each villa’s private plot."],
+      "locationNote":"Farm Gardens 2 is part of The Valley on Dubai–Al Ain Road (E66). Access is road-based; check the actual commute and entrance arrangements for a selected plot rather than relying on promotional journey times.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 7.26m. The launch sheet lists four-bedroom Horizon/Oren from AED 7.26m/7.30m and five-bedroom Horizon/Oren from AED 9.20m/9.24m. Property Finder shows higher references. These are differently dated starting figures, not confirmed available-unit quotations.",
+      "paymentNote":"The February 2024 launch schedule allocates 10% to booking, 80% across eight later stages and 10% to completion. Construction milestones are conditions in that historical schedule, not statements of current progress. Request the terms applicable to the selected home.",
+      "handoverNote":"The Emaar-branded payment sheet estimates March 2028. Property Finder also reports March 2028 and Bayut states Q1 2028. The sale contract and current developer confirmation govern delivery.",
+      "units":[
+        {"label":"4 bedrooms · Horizon","area":"6,395.48 sq ft total; 4,710.82 sq ft suite; launch plots 8,396–10,259 sq ft","sourceIds":["plans","facts"]},
+        {"label":"4 bedrooms · Oren","area":"6,642.30 sq ft total; 4,691.23 sq ft suite; launch plots 8,393–9,628 sq ft","sourceIds":["plans","facts"]},
+        {"label":"5 bedrooms · Horizon","area":"7,966.04 sq ft total; 6,121.00 sq ft suite; launch plots 9,130–10,455 sq ft","sourceIds":["plans","facts"]},
+        {"label":"5 bedrooms · Oren","area":"8,073.68 sq ft total; 6,140.91 sq ft suite; launch plots 9,121–9,998 sq ft","sourceIds":["plans","facts"]}
+      ],
+      "paymentStages":[
+        {"stage":"On booking · February 2024 launch","percent":10,"sourceIds":["payment"]},
+        {"stage":"April 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"November 2025 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"December 2026 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2027 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2028 · estimated completion","percent":10,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch collection","value":"256 villas; this historical development count does not indicate homes currently for sale.","sourceIds":["facts"]},
+        {"label":"Area definitions","value":"Published totals include suite, garage and applicable balconies, entrance or terrace areas. Plot area is land size and must be read separately.","sourceIds":["plans","facts"]},
+        {"label":"Villa arrangement","value":"Plans show ground, first and roof levels, a lift, guest bedroom, maid’s and driver’s accommodation, two kitchens and a roof lounge/terrace. Confirm the specification for the selected variant.","sourceIds":["plans"]},
+        {"label":"Interior palette","value":"The material board shows pale finishes, wood-toned joinery, veined counters, fluted glass and metal accents. It does not establish final brands or the contractual material specification.","sourceIds":["materials"]},
+        {"label":"Landscape design intent","value":"The brochure describes drought-tolerant planting, shading and automated treated-water irrigation. These proposals are not a building certification or a quantified utility-saving guarantee.","sourceIds":["brochure"]}
+      ],
+      "unresolved":[
+        "The brochure’s 431–564 sq m range and Bayut’s corresponding approximate range do not reconcile with the detailed plan totals. The table therefore uses the individually labelled floor plans; request the signed unit-area schedule.",
+        "A pool is depicted in illustrative plans, but the reviewed material does not clearly establish the supplied pool and landscaping scope. Confirm inclusions before purchase.",
+        "Floor plans, payment terms and launch fact/material sheets are Emaar-branded documents hosted by Jiwak, not developer-hosted downloads. Obtain the latest issue directly from Emaar.",
+        "Available homes, exact plot boundaries, service charges, final finishes and contractual completion require current written confirmation. Existing site photographs remain illustrative."
+      ]
+    }
+  }
+}

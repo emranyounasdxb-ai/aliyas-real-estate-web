@@ -1,0 +1,249 @@
+{
+  "id": "eagle-hills-project-04",
+  "name": "The Bristol Hotel & Residences",
+  "developerSlug": "eagle-hills",
+  "fields": {
+    "description": "Hotel-linked waterfront apartments at Ramhan Island, with private residences alongside The Bristol hotel and access to hospitality services.",
+    "areaId": "abu-dhabi-ramhan-island",
+    "location": "Ramhan Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Pool terrace",
+      "Fitness and wellness space",
+      "Residents’ lounge",
+      "Marina access",
+      "Concierge",
+      "Housekeeping service",
+      "In-residence dining"
+    ],
+    "brochureUrl": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-bristol-residences-brochure-english.pdf",
+    "floorPlanUrl": null,
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "The Bristol · official Ramhan residences",
+          "url": "https://the-bristolresidences.com/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "The Bristol · current original brochure, 31 spreads",
+          "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-bristol-residences-brochure-english.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "sample-plans",
+          "label": "Ramhan.ae · publicly mirrored original sample drawings; independent marketing site",
+          "url": "https://ramhan.ae/bristol-residences",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "layout-table",
+          "label": "OffPlanProject · independent 20-layout table, drawings gated",
+          "url": "https://www.offplanproject.ae/projects/bristol-residences-ramhan-island/floor-plans/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "found",
+          "label": "Found · indicative commercial terms checked 2 November 2026",
+          "url": "https://foundgroup.ae/new-launches/bristol-hotel-and-residences-at-ramhan-island-ref-op-2157",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 95
+        },
+        {
+          "id": "found-pdf",
+          "label": "Found · broker-generated 9-page project summary",
+          "url": "https://foundgroup.ae/new-launches/bristol-hotel-and-residences-at-ramhan-island-ref-op-2157/brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "luxhabitat",
+          "label": "Luxhabitat · alternative indicative booking split",
+          "url": "https://www.luxhabitat.ae/developments/abu-dhabi/the-bristol-residences/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "older-brochure",
+          "label": "Original Bristol brochure excerpt via Found; rendered plan pages omitted",
+          "url": "https://foundgroup.ae/media/file/de9df3697c175a6d/found-bristol-hotel-and-residences-at-ramhan-island-ref-op-2157-developer.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "found",
+          "luxhabitat"
+        ],
+        "handover": [
+          "found",
+          "luxhabitat"
+        ],
+        "paymentPlan": [
+          "found",
+          "luxhabitat"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "sample-plans",
+          "layout-table"
+        ],
+        "overview": [
+          "brochure",
+          "developer"
+        ],
+        "units": [
+          "sample-plans"
+        ],
+        "facts": [
+          "layout-table",
+          "found"
+        ],
+        "priceNote": [
+          "found"
+        ],
+        "paymentNote": [
+          "found",
+          "luxhabitat"
+        ],
+        "handoverNote": [
+          "found",
+          "luxhabitat"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer",
+          "found"
+        ],
+        "unresolved": [
+          "sample-plans",
+          "layout-table",
+          "developer",
+          "found"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Primary Ramhan homepage publicly crosslinks the-bristolresidences.com; nativeGET200/footerDevelopedbyEagleHills. Same-name EmaarBeachfrontDubai and Belgradehotel not the protectedRamhanproject. Publicramhan.ae secondarymarketingdomain notasserted developer ownership. No inventedregistration/stock.",
+        "location": "Native ownBristol page map expressly RamhanIslandAbuDhabi. Exact central area abu-dhabi-ramhan-island, no brokercoordinates/travelguarantees.",
+        "configuration": "Own registration type selector explicitly1/2/3/4BR. Actualcurrentbrochure31spreads PDF19printed38 confirms125residences. Hotelkeys not in retrievedprimary; secondary120notpromoted. Independent20layouttableHTML reviewed, no claimall20originaldrawingsseen.",
+        "areas": "Root actually viewed four complete original drawing JPEGs publicly mirrored ramhan.ae:1BRType1 printed27/28 58.72+9.86=68.58;2BRType1 printed37/38 89.33+18.63=107.96;3BRType1End printed47/48 134.85+51.72=186.57;4BRType1A printed65/66 170.47+67.56=238.03, allm2. Wholelayouts roomcounts and area-panel arithmeticchecked. BrokerFound samples2BRType1B105.33m2/1134ft2 and3BRType2 147.26m2/1585ft2 DIFFERENTconfigurations, notconflicts withourType1samples. Its2562max onlyfour-samplecatalogue; secondary20-rowtablelargest4BRType1 332.47m2includes163.2outdoor. Remaining16drawingsprivate/formgatednotretrieved; no bypass. Publicunitrowsfouractualsamplepanels only; independenttableglobalrange explicitlysecondary.",
+        "amenities": "Ownprimaryadvertisesconcierge/housekeeping/inresidencedining/wellness; currentbrochureactual25/26/27/28wellness/interiors and21poolrenderread. No promisecomplimentaryservices, hotelrating/guaranteedrental, allamenitiesready. PublicgenericMarinacopy notused.",
+        "price": "OwnBristol registration asks availability/prices, no datedpublicprimarypricelist. Found3.1m/4.4m/6m/14mentrybytype notconvertedliveinventory; mainpriceNULL, quoteexplainedsecondary3.1m only. Foundservicecharge28–37AEDperft2year/parking1–2secondaryonly; title/tenureandfeesunverifiednotinferred.",
+        "payment": "ActualFound9pbrokerPDF4 visibly5%booking45construction50handover=100; NOToriginaldeveloperpaymentdocument. Found webpage matching. Luxhabitat alternative10/40/50 retainedconflict; aggregate50/50doesnotresolvebooking. MainNULL/stagesempty avoidsselectedoneascontract. No datedoriginalinstalments.",
+        "handover": "Found9pactual2and4 Q42028/Mar2026constructionstart, currentwebsame; Luxsecondarysame2028. No primarycontractualcompletiondate/readycertificate verified. MainNULL,noteexplicitbroker. BrokermarketinglaunchMarch2026 notinventedpublicationhistory.",
+        "documents": "Own31spreadbrochureactual125panel19 andamenity25–28rootviewed. Foundgenerated9pimageonlyPDF actualcontactsheetall9, panel4paymentverified. PublicPDFannotationlinkedoriginal17pversionread; actual13–16imagesONLY, despite missingprintedpagejump25to35to45to61: not fullfloorplans. Fullpublic4originalJPEGnumericpanelsactuallyviewed complete. OffPlanProject20-rowHTMLpublic, privateplansgated noformsubmitted. RelatedBristolbrochure/plans/table/allretellings ONE200wordpool: allocated55+100+30+10=195; publiccopyconservatively allunits+layoutfact+125overview+gapnotes below195. Primarysite100separateonlyuniquehotelservicecopy; Foundcommercial130inclPDFshared; Lux45. AllUTF8andimagesdeferred."
+      },
+      "community": "Ramhan Island",
+      "locationNote": "Ramhan Island, Abu Dhabi; hotel and residences occupy the inner waterfront.",
+      "overview": [
+        "The developer describes 125 private residences. Hotel accommodation is separate from the residential collection.",
+        "Hospitality services are advertised; confirm inclusions and charges before purchase."
+      ],
+      "priceLabel": "Developer quotation required",
+      "priceNote": "Found advertises entry prices from AED 3.1 million; no dated developer price list was verified.",
+      "paymentNote": "Broker terms conflict: Found publishes 5/45/50; Luxhabitat publishes 10/40/50. Obtain the applicable developer schedule.",
+      "handoverNote": "Brokers indicate Q4 2028. No developer completion undertaking was retrieved.",
+      "units": [
+        {
+          "label": "1BR Type 1",
+          "area": "Sample: 58.72 m² sellable + 9.86 m² outdoor = 68.58 m² gross",
+          "sourceIds": [
+            "sample-plans"
+          ]
+        },
+        {
+          "label": "2BR Type 1",
+          "area": "Sample: 89.33 m² sellable + 18.63 m² outdoor = 107.96 m² gross",
+          "sourceIds": [
+            "sample-plans"
+          ]
+        },
+        {
+          "label": "3BR Type 1 end unit",
+          "area": "Sample: 134.85 m² sellable + 51.72 m² outdoor = 186.57 m² gross",
+          "sourceIds": [
+            "sample-plans"
+          ]
+        },
+        {
+          "label": "4BR Type 1A",
+          "area": "Sample: 170.47 m² sellable + 67.56 m² outdoor = 238.03 m² gross",
+          "sourceIds": [
+            "sample-plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Published layout range",
+          "value": "Independent table: 20 configurations, 68.58–332.47 m² gross; not a measured internal-area range.",
+          "sourceIds": [
+            "layout-table"
+          ]
+        },
+        {
+          "label": "Broker cost guidance",
+          "value": "Found quotes AED 28–37/ft²/year service charges and 1–2 parking spaces; developer confirmation required.",
+          "sourceIds": [
+            "found"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Four public sample drawings were checked; the complete original 20-layout drawing set remains unverified.",
+        "Gross areas include outdoor space. Views, allocated parking, service charges and hotel-service entitlements require contract confirmation."
+      ]
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "samana-project-18",
+  "name": "SAMANA Ibiza",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Ibiza is in Dubai Land Residence Complex. The brochure shows studio–2BR pool apartments; the website also mentions three bedrooms, without an approved plan.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1036667,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Leisure pool deck",
+      "Fitness centre",
+      "Rooftop jogging park",
+      "Rooftop basketball court",
+      "Sauna and steam room",
+      "Outdoor cinema",
+      "Kids’ area"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/38/066f2ab5de6e2af7f5fd4a1929a2d90b.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/c41b38275b4f4f7e87e56015dd0bbef4.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Ibiza · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-ibiza",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "SAMANA Ibiza official brochure · 36 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/38/066f2ab5de6e2af7f5fd4a1929a2d90b.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "plans",
+          "label": "SAMANA Ibiza branded floor plates · broker-hosted, 4 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/c41b38275b4f4f7e87e56015dd0bbef4.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · SAMANA Ibiza project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-ibiza",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "community": "Dubai Land Residence Complex",
+      "locationNote": "Dubai Land Residence Complex, between Emirates Road and Al Ain Road.",
+      "overview": [
+        "The retrieved floor plates cover the first floor and two typical-floor groups up to floor 20. These drawings label studios, one-bedroom and two-bedroom homes."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Developer advertised reference: AED 1,036,667. Confirm the selected unit’s price and availability.",
+      "handoverNote": "Developer FAQ: Q2 2028. Property Finder: February 2028. The quarter differs; no completed handover was verified.",
+      "paymentNote": "PDC: 15% booking + 42 monthly payments of 1% + 10%/5% in months 12/18 + 56 monthly payments of 0.5%. Non-PDC substitutes 20% booking and 46 final payments. Both total 100%; confirm the contract.",
+      "units": [
+        {
+          "label": "Studio + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · current website reference",
+          "area": "Approved plan and area not retrieved.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "42 monthly payments × 1%",
+          "percent": 42,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 12 payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 18 payment",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "56 monthly payments × 0.5%",
+          "percent": 28,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current website minimum",
+          "value": "From 453 ft²; individual unit and area basis unspecified.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The retrieved brochure and floor plates stop at two bedrooms; obtain the approved three-bedroom plan and revised unit schedule.",
+        "Aggregate unit areas, current inventory, service charges, parking allocation and final specifications remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "units": [
+          "brochure",
+          "developer"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "unresolved": [
+          "brochure",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ProtectedSAMANAIbiza18, noSAMANAAvenue/ParkMeadowscopy. Own36brochureexactpublicschemaURL200; Reelly4pbrandedplanspublicMaisonlink200. Mitchells/projects404notassumedexistingdocs. FactsSpringfield403respected,nobypass.",
+        "location": "OwnFAQ explicitlyDubaiLandResidenceComplexDLRCbetweenEmiratesRoadandAlAinRoad. Exactcentraldubai-land-residence-complex registeredname. PFmasterplanAlSatwaerrornotadopted. No inventedcoordinates.",
+        "residences": "OwncurrentFAQ wording studios,1,2 and3apartments supportedPF1–3narrative; actualownbrochure33/34/35threefullunitplans andbroker4plans2–4threefloorplatesvisuallyread allonlystudio/1/2. HeadlineStudio–3clearlyqualifiedcurrent3BRplanunavailable; no synthetic3bedlayout ortransferringotherprojectplans. Poolsselectedapprovedunitcontract.",
+        "areas": "OwncurrentFAQfrom453sqftbasisunqualified. Actualthreeindividualplans/floorplatesnoaggregateareapanels. PF585studios/sampletransactionsnotcompleteapprovedrange. No sumlocalgeometry. 3BRapprovedareaunavailableexplicit.",
+        "amenities": "OwnFAQleisuredeckfitnessroofjoggingbasketballsaunasteamcinemakidsverified. Ownbrochurepool/wellnesscorroborates,noPDFcopyunallocated. Noactualroofopening/healthbenefit/guaranteedparkingclaim.",
+        "pricing": "OwnvisibleheadlineOfferFAQ1036667 exactagree. Currentadvertisednotavailableunitquote. Historicbroker675000etcnotcurrentclaim. No inventory455/407countsfromconflictingsecondaryregistersimported.",
+        "payment": "OwncurrentPDC15+42+10+5+28=100/nonPDC20+42+10+5+23=100. No retrievedoriginalstandalonepaymentPDF,publishedprimaryHTMLdirectlyused. PF20/57/23aggregate mayalignnonPDCmonthlybutcalendarstageclassificationnotsilentlyasserted,currentheadernull. No fixedstartdate.",
+        "handover": "OwncurrentQ22028vsPFFebruary2028Q1; headlineNULLpublicconflictretained. No currentcompletion/percentageclaimfromsecondaryregistry4%/0.2%mixedcapture.",
+        "documents": "Own36brochureexactprimarypublicPDF andbroker4floorplansactualretrieved200withoutforms; all3ownunitdrawings and3floorplatesactualvisuallyread1650px. OriginalfactsSpringfield403notbypassed,notcitedasread. PDFpool200120brochure80plans; actualpublicderivedupper160. PrimaryHTMLcurrentpayment/FAQ200,PF80; nogenericindexsource."
+      }
+    }
+  }
+}

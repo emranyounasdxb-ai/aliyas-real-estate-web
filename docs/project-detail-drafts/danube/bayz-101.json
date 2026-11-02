@@ -1,0 +1,210 @@
+{
+  "id": "danube-project-13",
+  "name": "Bayz 101",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Bayz 101 is an apartment tower in Business Bay. Its plan collection ranges from studios to four-bedroom homes, with selected private-pool layouts and shared leisure spaces at several elevated levels.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 1175000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pool",
+      "Gym and wellness facilities",
+      "Bowling centre",
+      "Tennis and sports courts",
+      "Library",
+      "Children’s play spaces",
+      "Business and content-creation facilities",
+      "Rooftop leisure areas"
+    ],
+    "brochureUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz101/factsheet",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz101/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "page",
+          "label": "Own Danube Bayz101 portfolio page",
+          "url": "https://danubeproperties.com/portfolio/bayz101/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "construction",
+          "label": "Developer 30 September 2026 Bayz101 internal assessment",
+          "url": "https://danubeproperties.com/construction/bayz101/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "facts",
+          "label": "Official public factsheet ZIP · Bayz101_A4_factsheet_EN.pdf, 6 pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz101/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Official public floorplan ZIP · Bayz101_floor_plans_ver2.pdf, 26 pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz101/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Bayz101 guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/bayz-101",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "promotion",
+          "label": "Developer promotion labelled Bayz101 with conflicting timeline/asset labels",
+          "url": "https://promotions.danubeproperties.com/bayz101/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "page",
+          "plans"
+        ],
+        "location": [
+          "page",
+          "facts"
+        ],
+        "type": [
+          "page"
+        ],
+        "bedrooms": [
+          "page",
+          "plans"
+        ],
+        "amenities": [
+          "page"
+        ],
+        "price": [
+          "page",
+          "finder"
+        ],
+        "paymentPlan": [
+          "page",
+          "finder",
+          "promotion"
+        ],
+        "handover": [
+          "page",
+          "finder",
+          "promotion"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "page",
+          "construction"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "facts"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Bayz 101 identity checked against its own project page and named plan documents; related phases are separated.",
+        "location": "The sources identify Business Bay, Dubai. No coordinates or guaranteed travel times were invented.",
+        "residences": "The published Studio–4 range was checked against the named layout families; convertible spaces are not counted as extra bedrooms.",
+        "areas": "Numeric plan panels were rendered and visually inspected. Apartment, balcony and total figures are kept distinct; source conflicts are disclosed below.",
+        "amenities": "Project facilities were checked against the cited own page or phase-specific guide. Unit pools are limited to the layouts that show them.",
+        "pricing": "The price basis and source are disclosed. Historical launch references, averages and current availability are not treated as interchangeable.",
+        "payment": "Published schedules were compared and arithmetic reviewed. Conflicting or incomplete current terms remain unresolved rather than merged.",
+        "handover": "Forecast dates are separated from dated construction assessments; no actual handover is inferred from a percentage or elapsed forecast.",
+        "documents": "Named brochures, plans and available commercial documents were reviewed. Numeric evidence, phase distinctions and document allocations are recorded in the project artifact."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "Some drawings use marketing labels such as executive or presidential. The selected plan and approved bedroom count matter more than the label; a convertible studio should not automatically be treated as a one-bedroom home."
+      ],
+      "locationNote": "Business Bay, Dubai, near Sheikh Zayed Road and the district’s Metro connection. Actual access, views and route timings depend on the selected home.",
+      "priceLabel": "Developer FAQ reference · sold out",
+      "priceNote": "The developer’s portfolio advertises AED 1.175 million, also stated in Property Finder’s project guide. This is a marketing reference, not a dated quotation for an available home, selected view or payment promotion.",
+      "paymentNote": "The own portfolio says 30/70; Property Finder lists 10/63/1/26. A separate developer promotion advertises 0% down and 2% monthly, yet displays a 10%+10% opening calendar with 30% due in January 2030. Its mixed Bayz102 asset labels prevent safe attribution of one contractual schedule to this record.",
+      "handoverNote": "The main developer portfolio and Property Finder forecast June 2028. A separate developer promotion labelled Bayz101 describes late 2029/January 2030 while also using Bayz102 asset labels. The selected release’s contractual date therefore remains unresolved. The developer’s 30 September 2026 inspection reports 25% progress, not completion.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "373–374 ft² total; 309–310 apartment; 64 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Type A",
+          "area": "639 ft² total; 520 apartment; 119 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite A · pool",
+          "area": "941 ft² total; 659 apartment; 282 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type A · pool",
+          "area": "1,127 ft² total; 810 apartment; 317 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR Type A · pool",
+          "area": "1,507 ft² total; 1,250 apartment; 257 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR · pool",
+          "area": "1,822 ft² total; 1,386 apartment; 436 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Developer scope",
+          "value": "1,346 apartments advertised; not a current available-unit count.",
+          "sourceIds": [
+            "page"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The portfolio and promotional timeline/payment references cannot be safely merged. A current dated developer offer identifying the exact project, release and unit is required.",
+        "Approved service charges, parking allocation, furnishing inventory, pool obligations, precise area statement, construction certification and live stock remain unverified. Images remain illustrative."
+      ]
+    }
+  }
+}

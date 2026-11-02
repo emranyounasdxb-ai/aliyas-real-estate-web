@@ -1,0 +1,72 @@
+{
+  "id":"emaar-project-95","name":"Velora","developerSlug":"emaar",
+  "fields":{
+    "description":"Velora offers three- and four-bedroom townhouses within The Valley’s second phase. Large windows, terraces and planted surroundings connect the homes with outdoor spaces. Emaar presents the neighbourhood as a gated setting for active family life, with walking routes, recreation and landscaped areas close to the residential streets.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2480000,"handover":"Q3 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Community centre","Children’s play areas","Adventure play","Flexible lawn","Sunken events lawn","Hills walk","Sports court","Cycling routes","Jogging trails","Retail plaza and kiosks","Wider-community skate park"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VELORA_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Velora at The Valley Phase 2","url":"https://www.emaar.com/en/properties/velora-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: phase two brochure and Velora commercial table","url":"https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans","label":"Emaar: Velora floor plans","url":"https://www.emaar.com/cms-media/uploads/VELORA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Velora payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/velora/VELORA_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"cluster","label":"Emaar Velora cluster plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/velora/VELORA_TV_CLUSTER_MAP.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"finder","label":"Property Finder: Velora by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/velora","kind":"portal","checkedOn":"2026-10-31","derivedWords":90},
+        {"id":"presentation","label":"Emaar FY2025 presentation text, Earnings Calendar reproduction","url":"https://earningscalendar.co/app/event/AE/EMAAR/2025-q4-46ddbf15f4e6/presentation","kind":"portal","checkedOn":"2026-10-31","derivedWords":25}
+      ],
+      "fieldSources":{"description":["official"],"overview":["cluster"],"location":["official"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","cluster"],"price":["official","brochure","finder"],"units":["plans"],"documents":["brochure","plans","payment","cluster"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Velora distinguished from Venera and the later Velora 2 launch.",
+        "location":"The Valley phase two and development access checked on official material.",
+        "residences":"Three/four-bedroom townhouses; six named styles in four-home blocks confirmed.",
+        "areas":"All 24 official area tables visually checked; totals, suites and launch plot averages kept separate.",
+        "amenities":"Velora-specific cluster legend used for local amenities; wider facilities identified separately.",
+        "pricing":"AED 2.48m official starting price and AED 2.84m four-bedroom launch reference checked.",
+        "payment":"Nine launch stages and their construction thresholds visually reviewed; total 100%.",
+        "handover":"August 2028 completion estimate corroborated by Property Finder.",
+        "documents":"Official shared brochure and 25-page own plan pack reviewed with attributed payment and cluster documents."
+      },
+      "community":"The Valley · phase two",
+      "overview":["Velora’s own cluster plan places a community centre near flexible lawns and children’s spaces. A hills walk and sports court add places for everyday activity, while an entrance guardhouse defines the residential enclave. Check how each plot relates to those facilities when comparing privacy, outlook and walking distance."],
+      "locationNote":"Velora belongs to The Valley on the Dubai–Al Ain Road corridor. Its suburban setting relies on road connections to the rest of Dubai. Check the actual entrance and commute for a selected home; map labels and promotional journey times are not transport guarantees.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 2.48m. The brochure’s Velora commercial table gives AED 2.48m for three bedrooms and AED 2.84m for four. Property Finder’s current-listing headline differs. Launch prices and current resale offers should not be treated as equivalent quotations.",
+      "paymentNote":"Launch terms are 10% booking, seven further 10% instalments and 20% on completion. The schedule includes construction-linked conditions. Confirm the remaining balance and payment dates applicable to the individual sale.",
+      "handoverNote":"The Velora payment sheet estimates August 2028, matching Property Finder. This is distinct from Venera’s September schedule. Delivery remains subject to the contract and current developer confirmation.",
+      "units":[
+        {"label":"Oakley","area":"3 beds: 2,477.63–2,478.93 sq ft; 4 beds: 2,689.47 sq ft","sourceIds":["plans"]},
+        {"label":"Ravine","area":"3 beds: 2,514.34 sq ft; 4 beds: 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Serene","area":"3 beds: 2,514.34 sq ft; 4 beds: 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Nash","area":"3 beds: 2,456.86–2,460.41 sq ft; 4 beds: 2,695.28–2,697.86 sq ft","sourceIds":["plans"]},
+        {"label":"Vale","area":"3 beds: 2,492.17 sq ft; 4 beds: 2,729.29 sq ft","sourceIds":["plans"]},
+        {"label":"Dale","area":"3 beds: 2,492.17 sq ft; 4 beds: 2,729.29 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"On booking · launch terms","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Reported development scale","value":"The reproduced FY2025 Emaar presentation lists 488 Velora homes. This is a historical project count, not available stock.","sourceIds":["presentation"]},
+        {"label":"Area basis","value":"Plan totals include suite, garage and balcony/terrace space. They are separate from land area and vary by position within each four-home block.","sourceIds":["plans"]},
+        {"label":"Launch plot averages","value":"The Velora commercial table gives average plots of 1,952 sq ft for three bedrooms and 3,289 sq ft for four. These averages are not individual plot measurements.","sourceIds":["brochure"]},
+        {"label":"Home layout","value":"Two-level plans include enclosed kitchens, maid’s rooms, carports and terraces. Four-bedroom examples have a ground-floor guest room and three bedrooms upstairs.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The shared brochure contains differing average built-up figures. Use the individual Velora floor-plan tables and signed unit schedule for size comparisons.",
+        "Payment and cluster documents are Emaar-branded broker-hosted copies. The developer-issued current terms and final specification need confirmation.",
+        "Current inventory, exact plot area, outstanding instalments, service charges and final landscaping scope are not established by launch marketing.",
+        "The reproduced investor count was not independently checked against the live project register. Existing photographs remain illustrative."
+      ]
+    }
+  }
+}

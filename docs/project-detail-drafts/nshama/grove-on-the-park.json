@@ -1,0 +1,258 @@
+{
+  "id": "nshama-project-20",
+  "name": "Grove on the Park",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Grove on the Park offers one- to three-bedroom apartments in Town Square. Its residential spaces extend into a landscaped courtyard with a pool, deck and children’s play areas, while the wider neighbourhood provides parkland, shops and walking routes.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 821305,
+    "handover": null,
+    "paymentPlan": "50/50 · historical primary schedule",
+    "amenities": [
+      "Swimming pool",
+      "Residents’ gym",
+      "Children’s play areas",
+      "BBQ area",
+      "Landscaped courtyard",
+      "Pool deck"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2024/01/GROVE-Brochure-Final.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2024/01/GROVE-Brochure-Final.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Grove project update",
+          "url": "https://nshama.ae/properties/grove/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Nshama official Grove brochure and floor plans",
+          "url": "https://nshama.ae/wp-content/uploads/2024/01/GROVE-Brochure-Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Grove on the Park project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/grove-on-the-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "payment",
+          "label": "Nshama official Grove historical payment sheet",
+          "url": "https://nshama.ae/wp-content/uploads/2024/01/GROVE-PaymentPlan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "payment",
+          "portal"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "portal"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactGroveontheParkbyNshama; notanotherGroveproject. PrimaryunderconstructionvsPFcompletedexplicitlyretained.",
+        "location": "OwnTownSquareDubai mappingexactregistrydubai-town-square/TownSquare. No inventedcoordinatesordistance.",
+        "residences": "Own 1–3-bedroomapartments. Eightpublishedtypes 1 BR A/A 2/A 10,2 BR A 14/A 15/A 16,3 BR A 3/A 4;actualnumericpanelsread. No inventedduplexfamily. Actual 3 BRdrawingp 27 maidroom,notpublicbedcount.",
+        "areas": "Official 29 pPDFactual 21–28 numericalpanelsreadvisually; fullrendersretained. 1 BRA 2 sum 607.52+125.40=732.92 vs 732.91;2 BRA 14 min 892.01+54.90=946.91 vs 946.90;3 BRA 3 sum 1530.96 vs 1530.95;A 4 sum 1475.20 vs 1475.19. Printedtotalsretained.",
+        "amenities": "Ownbrochure 16 actualvisualconfirmskidsplay,residentialgym,pool,BBQ. Ownbodycourtyard/deck. Genericcommunitytrails/parknotprivatebuildingfacilities.",
+        "pricing": "ActualPFNextDatastarting 821305; ownbrochure/pagepriceunavailable. Historicalreferenceonly,nocurrentstockquote.",
+        "payment": "OfficialGROVE-PaymentPlan.pdf downloaded 200 ordinaryunauthNodefetch,actual 1 pvisuallyread. Jan/Mar/Sep 2024,Mar/Sep 2025 each 10+50 indicativeJul 2026 handover=100. BrokerDrehomesURLreturnsHTMLexcluded.",
+        "handover": "OwnoriginalsheetJul 2026 vsPFSeptember 2026 completed; currentownHTMLSeptember 2026 underconstructionwithnopercentage. Nullheadline;nofuturecompletedclaim.",
+        "documents": "Official 29 pbrochureincludingeightnumericplanfamiliesandown 1 ppaymentsheetretrieved. Actualvisuals 21–28,16 andpayment 1. PhasePDFconservativepool 200=brochure 140+payment 60;genericcommunity 0."
+      },
+      "overview": [
+        "Grove combines a park-neighbourhood setting with resident leisure spaces. Apartment variants differ in balcony size, making the exact drawing more useful than a single headline size range."
+      ],
+      "community": "Town Square",
+      "locationNote": "Town Square, Dubai. The developer places Grove near the community park; views and walking routes should be checked for the selected apartment.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "Property Finder’s actual project record gives an AED 821,305 starting reference. This historical guide does not establish a current unit price or availability.",
+      "paymentNote": "The original calendar, shown below, is historical. A new reservation or resale requires its own confirmed payment terms.",
+      "handoverNote": "The original sheet indicates July 2026; Property Finder says September 2026 and completed. Nshama’s September 2026 page still says under construction. Actual handover is unconfirmed.",
+      "units": [
+        {
+          "label": "1BR · A",
+          "area": "60.21–60.95 m² / 648.10–656.06 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · A 2",
+          "area": "68.09 m² / 732.91 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · A 10",
+          "area": "67.05 m² / 721.72 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A 14",
+          "area": "87.97–89.16 m² / 946.90–959.71 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A 15",
+          "area": "93.00 m² / 1,001.04 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A 16",
+          "area": "99.88 m² / 1,075.10 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A 3",
+          "area": "142.23 m² / 1,530.95 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A 4",
+          "area": "137.05 m² / 1,475.19 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "January 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · indicative July 2026",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Total built-up includes balcony space; drawings are approximate",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Completion status differs between the primary page and portal. Both historical handover dates have elapsed; no primary completion certificate was retrieved.",
+        "Printed totals for 1-bedroom A 2, 2-bedroom A 14 minimum and 3-bedroom A 3/A 4 differ from their printed component sums by 0.01 sq ft. Printed totals are retained.",
+        "Current availability, dated unit quotation, parking allocation and final service charges remain unverified."
+      ]
+    }
+  }
+}

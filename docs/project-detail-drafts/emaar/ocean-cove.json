@@ -1,0 +1,55 @@
+{
+ "id":"emaar-project-83","name":"Ocean Cove","developerSlug":"emaar",
+ "fields":{
+  "description":"Ocean Cove is a two-building collection of one- to three-bedroom apartments in Rashid Yachts & Marina. Gardens, swimming and recreation spaces give the residential setting a quieter focus beside the wider waterfront district. The floor plans offer distinct balcony arrangements, with dedicated utility and storage spaces in selected larger homes.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":3229888,"handover":"Q3 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Swimming pool","Landscaped gardens","Gym","Children’s play area","Sports facilities","Covered parking"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/OCEAN-COVE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/OCEAN-COVE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Ocean Cove","url":"https://www.emaar.com/en/properties/ocean-cove-at-rashid-yachts-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Ocean Cove brochure","url":"https://www.emaar.com/cms-media/uploads/OCEAN-COVE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"plans1","label":"Emaar: Ocean Cove Building 1 plans","url":"https://www.emaar.com/cms-media/uploads/OCEAN-COVE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans2","label":"Emaar Building 2 plans, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Ocean-Cove-Floor-Plans-B2.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":135},
+    {"id":"facts","label":"Emaar launch fact sheet, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Ocean-Cove-Fact-Sheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"payment","label":"Emaar launch payment schedule, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Ocean-Cove-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Ocean Cove","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/ocean-cove","kind":"portal","checkedOn":"2026-10-31","derivedWords":95}
+   ],
+   "fieldSources":{"description":["official","plans1","finder"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans1","plans2"],"bedrooms":["official","plans1","plans2"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans1","plans2"],"documents":["brochure","plans1","plans2"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{"identity":"Ocean Cove identified at Rashid Yachts & Marina, distinct from Ocean Views and The Cove.","location":"Mina Rashid / Rashid Yachts & Marina confirmed and mapped.","residences":"One- to three-bedroom apartments in two buildings verified.","areas":"Both building plan sets extracted; range-endpoint tables and a three-bedroom layout visually inspected.","amenities":"Residential recreation/parking checked; promenade, dining and wider services kept as surrounding-community context.","pricing":"Current developer selection from AED 3,229,888 distinguished from AED 1.76m launch headline and bedroom-specific launch prices.","payment":"Eight 10% stages plus 20% final balance visually checked; Property Finder corroborates 10/70/20.","handover":"August 2028 launch estimate agrees with the portal’s Q3 2028.","documents":"Official 23-page brochure and 32-page Building 1 plans; attributed 25-page Building 2 copy and fact/payment sheets inspected."},
+   "community":"Rashid Yachts & Marina",
+   "overview":["Ocean Cove’s brochure emphasises open kitchens, private outdoor space and practical bedroom storage. Its shared landscaped areas connect to the larger marina district, where the promenade and retail/dining offering form part of the surrounding community. Nearby school and clinic references in launch material should be checked for operational status before planning a move."],
+   "locationNote":"Ocean Cove is at Rashid Yachts & Marina in Mina Rashid, Dubai. Emaar identifies the QE2 Hotel and access towards Downtown Dubai, Dubai Mall and Dubai International Airport. Confirm the selected home’s orientation and the completion of neighbouring facilities rather than assuming all marketed outlooks are available.",
+   "priceLabel":"Developer’s displayed selection from",
+   "priceNote":"On the review date Emaar’s displayed selection starts at AED 3,229,888, while its static launch headline remains AED 1.76m. The launch fact sheet starts one-bedroom homes at AED 1.76m, two-bedroom at AED 2.50m and three-bedroom at AED 3.44m. Current stock and unit-specific terms require reconfirmation.",
+   "paymentNote":"The launch schedule has 10% at booking, seven further 10% instalments and 20% on estimated completion. Property Finder corroborates 10/70/20. Dates and construction milestones below are historical launch terms, not a personalised payment demand.",
+   "handoverNote":"The launch payment document estimates August 2028, also reported by Property Finder. Confirm the current building-specific contractual date and progress.",
+   "units":[
+    {"label":"Building 1 · 1-bedroom apartment","area":"795.99–844.32 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 1 · 2-bedroom apartment","area":"1,151.73–1,416.86 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 1 · 3-bedroom apartment","area":"1,657.32–1,798.44 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 2 · 1-bedroom apartment","area":"785.87–825.48 sq ft published total area","sourceIds":["plans2"]},
+    {"label":"Building 2 · 2-bedroom apartment","area":"1,151.74–1,370.46 sq ft published total area","sourceIds":["plans2"]},
+    {"label":"Building 2 · 3-bedroom apartment","area":"1,648.71–1,853.44 sq ft published total area","sourceIds":["plans2"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch unit mix","value":"The launch sheet lists 100 one-bedroom, 105 two-bedroom and 28 three-bedroom apartments, totalling 233 homes. It does not describe remaining inventory.","sourceIds":["facts"]},
+    {"label":"Three-bedroom example","value":"Building 1 unit 105 has a utility room, separate laundry, storage cupboards and a walk-in wardrobe beside the main bedroom. Its balconies serve different parts of the home.","sourceIds":["plans1"]},
+    {"label":"Total area includes outdoor space","value":"That unit’s 1,798.44 sq ft total combines a 1,460.45 sq ft suite with 337.99 sq ft of balconies. Compare indoor space separately when choosing between layouts.","sourceIds":["plans1"]}
+   ],
+   "unresolved":["Property Finder marks the developer release sold out, while Emaar displays selected units. Neither is treated as guaranteed availability; obtain a current quotation.","The fact-sheet table uses a ‘Villas’ column heading, but its descriptions and detailed plans are apartments. No villa category is inferred.","Service charges, parking allocations, final specifications, construction progress and contractual handover require confirmation.","Images remain illustrative; project photography is deferred."]
+  }
+ }
+}

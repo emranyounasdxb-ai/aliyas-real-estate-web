@@ -1,0 +1,655 @@
+/* Home editorial rhythm and shared project information hierarchy. */
+.site-frame .future-destination-section {
+  padding-block: 76px;
+}
+.site-frame .future-locations {
+  gap: clamp(30px, 4vw, 60px);
+  align-items: start;
+}
+.site-frame .future-locations h2 {
+  font-size: clamp(42px, 4vw, 58px);
+}
+.site-frame .future-locations .future-label {
+  margin-bottom: 20px;
+}
+.site-frame .future-city-tabs {
+  margin-top: 28px;
+}
+.site-frame .future-city-tabs button {
+  padding-block: 14px;
+}
+.site-frame .future-city-tabs strong {
+  font-size: clamp(28px, 3vw, 40px);
+}
+.site-frame .future-city-panel {
+  padding-top: 20px;
+}
+.site-frame .destination-stage {
+  position: relative;
+  display: block;
+  height: 620px;
+}
+.site-frame .destination-stage .future-city-visual {
+  height: 100%;
+  min-height: 0;
+}
+.site-frame .destination-stage .future-city-caption {
+  top: 28px;
+  bottom: auto;
+  left: 26px;
+  right: 26px;
+}
+.site-frame .destination-stage .future-city-caption strong {
+  font-size: 30px;
+  max-width: 340px;
+}
+.site-frame .destination-stage .future-city-layer::after {
+  inset: 0;
+  background: linear-gradient(#101813b8, transparent 48%, #10181338);
+}
+.site-frame .destination-stage .destination-map-panel {
+  position: absolute;
+  bottom: 18px;
+  right: 18px;
+  width: 340px;
+  max-width: calc(100% - 32px);
+  padding: 14px 12px 10px;
+  background: var(--surface);
+  box-shadow: 0 12px 35px #00000026;
+}
+.site-frame .destination-stage .destination-map {
+  height: 220px;
+  min-height: 0;
+  aspect-ratio: auto;
+  margin-top: 10px;
+}
+.site-frame .destination-map-heading {
+  font-size: 9px;
+}
+.site-frame .destination-map button {
+  font-size: 12px;
+  padding-inline: 6px;
+}
+.site-frame .destination-map-panel > p {
+  font-size: 10px;
+}
+
+/* Lifestyle choices read as editorial covers; selected projects retain their dark gallery. */
+.site-frame .curated-card {
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+.site-frame .curated-card::after {
+  background: linear-gradient(#10181399, transparent 35%);
+}
+.site-frame .curated-card > div {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20px 76px 22px 24px;
+  background: var(--surface);
+  color: var(--ink);
+  min-height: 120px;
+}
+.site-frame .curated-card p {
+  color: var(--muted);
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.site-frame .curated-card h3 {
+  color: var(--ink);
+  font-size: clamp(30px, 3vw, 43px);
+}
+.site-frame .curated-arrow {
+  background: var(--action-bg);
+  color: var(--action-fg);
+  border-color: transparent;
+  bottom: 28px;
+  z-index: 1;
+}
+.site-frame .curated-card > img {
+  height: calc(100% - 112px) !important;
+}
+.site-frame .curated-number {
+  font-size: 11px;
+}
+.site-frame .future-project-meta h3 {
+  font-size: clamp(30px, 3.2vw, 45px);
+}
+.site-frame .future-project-price strong {
+  font-size: clamp(26px, 2.8vw, 38px);
+  line-height: 1.1;
+}
+.site-frame .future-project-specs {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding-top: 14px;
+}
+
+/* A featured editorial image is balanced by two compact reading cards. */
+.site-frame .future-journal.journal-editorial {
+  display: block;
+  padding-block: 64px;
+}
+.journal-editorial-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+  align-items: end;
+  margin-bottom: 30px;
+}
+.journal-editorial-heading .future-label {
+  margin-bottom: 16px;
+}
+.journal-editorial-heading h2 {
+  font: 400 clamp(42px, 4.5vw, 64px)/1.05 var(--font-heading);
+  letter-spacing: -0.035em;
+}
+.journal-editorial-heading h2 span {
+  color: var(--muted);
+}
+.journal-editorial-heading > div:last-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 14px;
+}
+.journal-editorial-heading > div:last-child > p {
+  font-size: 16px;
+  color: var(--muted);
+}
+.journal-editorial-grid {
+  display: grid;
+  grid-template-columns: 1.08fr 1fr;
+  grid-template-rows: repeat(2, minmax(235px, auto));
+  gap: 22px 28px;
+}
+.journal-home-story {
+  display: grid;
+  min-width: 0;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+.journal-home-story:hover {
+  border-color: var(--rich-gold);
+  box-shadow: var(--rich-shadow);
+}
+.journal-home-featured {
+  grid-row: span 2;
+  display: flex;
+  flex-direction: column;
+}
+.journal-home-image {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+}
+.journal-home-image img {
+  object-fit: cover;
+  transition: transform 0.55s var(--motion-ease);
+}
+.journal-home-story:hover .journal-home-image img {
+  transform: scale(1.025);
+}
+.journal-home-image > span {
+  position: absolute;
+  bottom: 14px;
+  left: 14px;
+  max-width: calc(100% - 28px);
+  color: #fff;
+  background: #111512e8;
+  padding: 8px 10px;
+  font: 10px/1.5 var(--font-ui);
+  letter-spacing: 0.045em;
+}
+.journal-home-featured .journal-home-image {
+  height: 290px;
+  flex: 1 0 290px;
+}
+.journal-home-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 22px;
+}
+.journal-home-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 12px;
+  color: var(--muted);
+  font: 12px/1.5 var(--font-ui);
+}
+.journal-home-meta span {
+  white-space: nowrap;
+}
+.journal-home-copy h3 {
+  font: 400 34px/1.12 var(--font-heading);
+  letter-spacing: -0.025em;
+}
+.journal-home-excerpt {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 16px;
+  line-height: 1.55;
+  color: var(--muted);
+}
+.journal-home-read {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: auto;
+  min-height: 36px;
+  border-bottom: 1px solid var(--line);
+  font: 12px var(--font-ui);
+}
+.journal-home-compact {
+  grid-template-columns: 0.38fr 0.62fr;
+}
+.journal-home-compact .journal-home-copy {
+  padding: 20px 18px;
+}
+.journal-home-compact h3 {
+  font-size: 28px;
+}
+.journal-home-compact .journal-home-excerpt {
+  font-size: 15px;
+}
+
+/* Reserve matching rows without shortening accessible names or hiding project actions. */
+.site-frame .project-card .project-location {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 34px;
+  line-height: 1.45;
+}
+.site-frame .project-card .project-location svg {
+  display: inline-block;
+  vertical-align: -2px;
+  margin-right: 4px;
+}
+.site-frame .project-card .project-title-row {
+  min-height: 68px;
+  gap: 12px;
+}
+.site-frame .project-card .project-title-row h3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.24em;
+  line-height: 1.12;
+}
+.site-frame .project-card .project-meta {
+  display: grid;
+  grid-template-columns: 1fr 0.85fr 1.25fr;
+  gap: 8px;
+  align-items: start;
+  min-height: 36px;
+}
+.site-frame .project-card .project-meta > span {
+  min-width: 0;
+  border: 0;
+  padding: 0;
+  line-height: 1.5;
+  align-items: flex-start;
+}
+.site-frame .project-card .project-meta svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.site-frame .project-card .project-card-bottom {
+  align-items: start;
+  min-height: 86px;
+  gap: 14px;
+  padding-top: 16px;
+}
+.site-frame .project-card .project-card-bottom > span:first-child {
+  min-width: 0;
+  flex: 1;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.site-frame .project-card .project-card-bottom strong {
+  color: var(--ink);
+  font: 500 30px/1.15 var(--font-heading);
+  letter-spacing: -0.025em;
+  margin-top: 7px;
+}
+.site-frame .project-card .project-plan {
+  flex-shrink: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+/* The scroll hint is an actual accessible control, with a native horizontal fallback. */
+.pd-nav-shell {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 35;
+  margin-bottom: 48px;
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+.site-frame .project-detail .pd-nav-shell .pd-section-nav {
+  position: static;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  scrollbar-width: none;
+  scroll-padding-inline: 44px;
+}
+.pd-nav-shell .pd-section-nav::-webkit-scrollbar {
+  display: none;
+}
+.pd-nav-shell > button {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  bottom: 0;
+  width: 44px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  color: var(--ink);
+  background: var(--paper);
+}
+.pd-nav-shell > .pd-nav-previous {
+  left: 0;
+  box-shadow: 12px 0 14px -5px var(--paper);
+}
+.pd-nav-shell > .pd-nav-next {
+  right: 0;
+  box-shadow: -12px 0 14px -5px var(--paper);
+}
+.site-frame .project-detail .pd-gallery-thumbnails span {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+@media (max-width: 1000px) {
+  .site-frame .future-locations {
+    gap: 30px;
+  }
+  .site-frame .destination-stage {
+    height: 610px;
+  }
+  .site-frame .destination-stage .destination-map-panel {
+    right: 12px;
+    bottom: 12px;
+    max-width: calc(100% - 24px);
+  }
+  .site-frame .destination-stage .future-city-caption {
+    left: 20px;
+    right: 20px;
+  }
+  .site-frame .destination-stage .future-city-caption strong {
+    font-size: 26px;
+  }
+  .journal-editorial-grid {
+    gap: 18px;
+    grid-template-columns: 1fr 1fr;
+  }
+  .journal-home-compact {
+    grid-template-columns: 0.34fr 0.66fr;
+  }
+  .journal-home-compact .journal-home-copy {
+    padding: 16px 14px;
+  }
+  .journal-home-compact h3 {
+    font-size: 26px;
+  }
+  .journal-home-compact .journal-home-excerpt {
+    -webkit-line-clamp: 2;
+  }
+}
+@media (max-width: 800px) {
+  .site-frame .future-destination-section {
+    padding-block: 52px;
+  }
+  .site-frame .future-locations {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .site-frame .future-city-tabs {
+    margin-top: 22px;
+  }
+  .site-frame .future-city-tabs button {
+    padding-block: 12px;
+  }
+  .site-frame .future-city-tabs strong {
+    font-size: 32px;
+  }
+  .site-frame .destination-stage {
+    height: 540px;
+  }
+  .site-frame .destination-stage .future-city-caption {
+    top: 22px;
+  }
+  .site-frame .destination-stage .destination-map-panel {
+    width: 340px;
+  }
+  .journal-editorial-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .journal-home-featured {
+    grid-row: auto;
+  }
+  .journal-home-featured .journal-home-image {
+    flex: none;
+    height: 300px;
+  }
+  .journal-home-compact {
+    grid-template-columns: 0.35fr 0.65fr;
+    min-height: 215px;
+  }
+  .journal-editorial-heading h2 {
+    font-size: 46px;
+  }
+  .journal-editorial-heading > div:last-child > p {
+    max-width: 190px;
+  }
+}
+@media (max-width: 700px) {
+  .site-frame .curated-card > div {
+    min-height: 112px;
+    padding: 18px 72px 20px 20px;
+  }
+  .site-frame .curated-card h3 {
+    font-size: 34px;
+  }
+  .site-frame .curated-card p {
+    font-size: 14px;
+  }
+  .site-frame .curated-card > img {
+    height: calc(100% - 106px) !important;
+  }
+  .site-frame .curated-card-0 {
+    min-height: 350px;
+  }
+  .site-frame .curated-arrow {
+    right: 20px;
+    bottom: 25px;
+  }
+  .site-frame .future-project-price strong {
+    font-size: 27px;
+  }
+  .site-frame .future-project-specs {
+    gap: 8px;
+    line-height: 1.5;
+  }
+  .site-frame .future-journal.journal-editorial {
+    padding-block: 44px;
+  }
+  .journal-editorial-heading {
+    display: block;
+    margin-bottom: 24px;
+  }
+  .journal-editorial-heading > div:last-child {
+    margin-top: 18px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .journal-editorial-heading > div:last-child > p {
+    font-size: 15px;
+    max-width: 180px;
+  }
+  .journal-editorial-heading h2 {
+    font-size: 44px;
+  }
+  .journal-home-featured .journal-home-image {
+    height: 230px;
+  }
+  .journal-home-copy {
+    padding: 20px;
+  }
+  .journal-home-copy h3 {
+    font-size: 31px;
+  }
+  .journal-home-compact h3 {
+    font-size: 26px;
+  }
+  .journal-home-image > span {
+    left: 10px;
+    bottom: 10px;
+    max-width: calc(100% - 20px);
+    font-size: 9px;
+    padding: 6px;
+  }
+  .journal-home-meta {
+    font-size: 12px;
+  }
+  .journal-home-excerpt {
+    font-size: 15px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-location {
+    min-height: 30px;
+    font-size: 11px;
+    margin-bottom: 7px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-title-row {
+    min-height: 56px;
+    gap: 4px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-title-row h3 {
+    font-size: 25px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-meta {
+    min-height: 36px;
+    gap: 5px;
+    margin: 9px 0 12px;
+    font-size: 11px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-card-bottom {
+    min-height: 78px;
+    padding-top: 12px;
+    gap: 8px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-card-bottom strong {
+    font-size: 24px;
+  }
+  .site-frame .catalogue-project-grid .project-card .project-plan {
+    font-size: 13px;
+  }
+  .pd-nav-shell {
+    margin-bottom: 30px;
+  }
+  .site-frame .project-detail .pd-nav-shell .pd-section-nav {
+    gap: 24px;
+    padding-right: 42px;
+  }
+  .site-frame .project-detail .pd-nav-shell .pd-section-nav > a {
+    min-height: 54px;
+    font-size: 13px;
+  }
+  .site-frame .project-detail .pd-gallery-thumbnails {
+    gap: 9px;
+    padding-block: 5px 12px;
+  }
+  .site-frame .project-detail .pd-gallery-thumbnails button {
+    flex-basis: 105px;
+    min-height: 112px;
+    padding: 6px;
+  }
+  .site-frame .project-detail .pd-gallery-thumbnails span {
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 7px 2px 2px;
+  }
+  .site-frame .project-detail .pd-mobile-enquiry {
+    padding: 12px 5% max(12px, env(safe-area-inset-bottom));
+    gap: 16px;
+    box-shadow: 0 -6px 24px #0000000b;
+  }
+  .site-frame .project-detail .pd-mobile-enquiry strong {
+    font-size: 26px;
+  }
+  .site-frame .project-detail .pd-section {
+    scroll-margin-bottom: 120px;
+  }
+}
+@media (max-width: 420px) {
+  .journal-home-compact .journal-home-excerpt {
+    display: none;
+  }
+  .journal-home-compact .journal-home-copy {
+    padding: 16px 13px;
+    gap: 12px;
+  }
+  .journal-home-compact {
+    min-height: 205px;
+  }
+  .journal-editorial-heading > div:last-child > p {
+    max-width: 165px;
+  }
+}
+@media (max-width: 360px) {
+  .site-frame .destination-stage {
+    height: auto;
+    display: grid;
+    gap: 12px;
+  }
+  .site-frame .destination-stage .future-city-visual {
+    height: 320px;
+  }
+  .site-frame .destination-stage .destination-map-panel {
+    position: static;
+    width: 100%;
+    max-width: none;
+    padding: 14px 10px 10px;
+    box-shadow: none;
+  }
+  .site-frame .destination-stage .destination-map {
+    height: 235px;
+  }
+  .site-frame .curated-card h3 {
+    font-size: 30px;
+  }
+  .site-frame .curated-card p {
+    font-size: 13px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .journal-home-story,
+  .journal-home-image img {
+    transition: none;
+  }
+  .journal-home-story:hover .journal-home-image img {
+    transform: none;
+  }
+}

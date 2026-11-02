@@ -1,0 +1,310 @@
+{
+  "id": "nshama-project-04",
+  "name": "Olbia",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Olbia offers one- to three-bedroom apartments and three-bedroom duplexes beside the Promenade in Town Square, with open dining spaces and built-in bedroom wardrobes.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 999000,
+    "handover": "May 2028 · indicative developer target",
+    "paymentPlan": "40/60 · original developer calendar",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Children’s play areas",
+      "Barbecue area",
+      "Pet washroom",
+      "Access to the main park"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Brochure-Final-1.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Floor-Plans-Website-2.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Olbia project page",
+          "url": "https://nshama.ae/properties/olbia/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "Olbia official brochure · 31 pages",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Brochure-Final-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Olbia official layouts · six families",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Floor-Plans-Website-2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "payment",
+          "label": "Olbia original payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Payment-Plan-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Olbia · portal reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/olbia",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "archive-payment",
+          "label": "Olbia alternate official payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "archive-plans",
+          "label": "Olbia alternate official min/max plans",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Floor-Plans-Website-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "archive-brochure",
+          "label": "Olbia alternate official brochure",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Brochure-Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "archive-plans-single",
+          "label": "Olbia alternate official single-total plans",
+          "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Floor-Plans-Website.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment",
+          "archive-payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ],
+        "handoverNote": [
+          "payment",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "facts": [
+          "payment",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "plans",
+          "finder",
+          "archive-plans",
+          "archive-brochure",
+          "archive-plans-single"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactprotectedOlbia record, ownpageandthreeownPDFs, noothersiblingplanimport. PortalSoldOut status explicitlyqualified, not currentresaleavailability.",
+        "location": "OwnpageTownSquareandbesidePromenade; brochure14/18supports. ExactTown Square registry, Dubai, no assumedcoordinates/traveltimes.",
+        "residences": "Own1–3BRapartments+3BRduplexes, brochure16bedroomwardrobes. Sixoriginalnumericfamilies1BRA/B,2BRA/B/C,3BRA. No duplexdrawing inlinkedpackor31pbrochure.",
+        "areas": "All6actualnumericpanels visuallyinspected; exactprintedtotalmetric/imperialretained. 2BRA872.95+73.19=946.14 vs946.15;3BRA1288.76+112.05=1400.81 vs1400.82. No sourcevaluesrepaired. PF2BRA940metadata differsown946.15;duplex2175onlyportalmetadata notofficialmeasureddrawing. Additional official archive -1 plans page3 and unsuffixed brochure27 print 2BRA min633.56ft²/58.86m² and max946.15ft²/87.90m², unlike current -2 plans/current brochure single946.15. Unsuffixed plans agree current single total. Actual panels viewed; alternate minimum not adopted as verified inventory.",
+        "amenities": "Actualbrochure22 amenitiespanel visuallyverified: mainparkaccess,pool,gym,kids,BBQ,petwashroom. Kitchenappliances onactualownpaymentraster, notwholehomefurniture. GenericTownSquaremarketing0.",
+        "pricing": "Ownpriceunavailable. PFheadline999K=999000 portalreference, itsunitlaunch1BR956K andSoldOut alsoqualified. No unitavailabilityguarantee or copiedbrokerinventorycount.",
+        "payment": "Actualownrasterpayment10Aug2025/10Nov2025/10Jun2026/5Dec2026/5Jun2027/60May2028indicative=sum100. Originalcalendar, datesnotcurrentcontract. PF10/30/60 matchesaggregation. Unsuffixed official calendar visually reviewed: Aug25/Oct25/Apr26/Oct26/Apr27/May28 differs currently linked -1 intermediate due dates. Same10/10/10/5/5/60 and May2028. Public conflict note added; no issue-order assumption from filenames.",
+        "handover": "PrimaryMay2028indicative matchesPFMay2028, no actualcompletionclaim or futuredatepresentedascompleted.",
+        "documents": "Own31pbrochure/6playouts/1prasterpayment public200normalNodefetch, originalnumeric/amenity/paymentpanelsvisualread. Underlying overlapping PDF pool200=25 brochure+65 current plans+60 current payment+25 alternate plans+25 alternate payment, no duplicatedbrokerPDFfreshpool. Noforms submitted/accesschallengebypass. Four archive documents reviewed; overlapping phase pool remains200 incl alternate-version conflict copy. Alternate brochure and single-total plans are corroboration only (0 additional words); new alternate range/calendar copy has explicit allocations inside the same200 pool."
+      },
+      "community": "Town Square · The Promenade",
+      "overview": [
+        "Compare the selected home’s drawing and remaining contractual balance before deciding."
+      ],
+      "locationNote": "Town Square, beside the Promenade, Dubai.",
+      "priceLabel": "Portal reference · not a confirmed available offer",
+      "priceNote": "Property Finder shows AED 999K on its headline and about AED 956K for the sold-out one-bedroom launch reference. A current official price sheet was not found.",
+      "paymentNote": "Alternate official calendar: August/October 2025, April/October 2026, April 2027, then May 2028. The table follows the currently linked calendar; obtain contractual dates.",
+      "handoverNote": "Indicative developer target; not confirmed completion.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "636.04–638.73 ft² / 59.09–59.34 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "587.06–587.17 ft² / 54.54–54.55 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "946.15 ft² / 87.90 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "915.90 ft² / 85.09 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "1,021.28 ft² / 94.88 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,400.82 ft² / 130.14 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · May 2028",
+          "percent": 60,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Kitchen specification",
+          "value": "Kitchen appliances; furnishing unconfirmed.",
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "label": "Duplex portal example",
+          "value": "Property Finder lists a three-bedroom duplex at 2,175 ft². This is portal metadata; no corresponding measured drawing was verified.",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The developer advertises three-bedroom duplexes, but their layouts are absent from the linked six-family plan pack and brochure. Obtain the selected unit’s full drawings.",
+        "Alternate plans/brochure print 2BR A at 633.56–946.15 ft²; linked plans print 946.15 ft². Some component sums differ by 0.01 ft². Confirm contractual areas.",
+        "Current stock, official prices, service charges, allocated parking and a revised contract-specific payment calendar remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "nshama-project-02",
+  "name": "Rosewell",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Rosewell brings one- to three-bedroom residences and ground-floor townhouses to Town Square, with open-plan interiors and full-height glazing.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "December 2028 · indicative developer target",
+    "paymentPlan": "50/50 · original developer calendar",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Children’s play areas",
+      "Barbecue area",
+      "Pet wash",
+      "Access to West Park"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Brochure-Final-1.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Rosewell project page",
+          "url": "https://nshama.ae/properties/rosewell/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Rosewell official brochure · 26 pages",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Brochure-Final-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Rosewell official layouts · five families",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "payment",
+          "label": "Rosewell original payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Payment-Plan-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Rosewell · portal references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/rosewell",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "CASADIOR Rosewell · differing broker terms",
+          "url": "https://maisondubai.com/projects/rosewell",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "earlier-plans",
+          "label": "Rosewell earlier official layouts · seven families",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans-Website.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "earlier-payment",
+          "label": "Rosewell earlier official payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "earlier-brochure",
+          "label": "Rosewell earlier official brochure · 27 pages",
+          "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Brochure-Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "brochure"
+        ],
+        "overview": [
+          "plans",
+          "earlier-plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment",
+          "earlier-payment",
+          "broker"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ],
+        "handoverNote": [
+          "payment",
+          "finder"
+        ],
+        "units": [
+          "plans",
+          "earlier-plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "facts": [
+          "payment"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact protected Rosewell record; own project and three official-linked documents verified. Portal marks SoldOut, no availableunitassertion.",
+        "location": "Own Town Square; brochure14/17 identifies WestParksetting. ExactTown Square registry, Dubai; no guessed coordinates or traveltimes.",
+        "residences": "Own 1–3BR residences plus groundfloor townhouses. Five ownplanfamilies only 1BR A/B,2BR A/B,3BR A. Groundfloor townhouse drawings genuinely unavailable in linked pack, not relabeledsinglelevelplan.",
+        "areas": "All five actual numeric panels visually read. 2BR B printedmin896.96 versus833.45+63.18=896.63 andmax897.06 versus833.88+63.51=897.39. Metricmin77.43+5.87=83.30 vs83.33;max77.47+5.90=83.37 vs83.34. 3BRmin1284.89+178.90=1463.79 versus1463.78. Originaltotalsretained; no invented correction. PublicWPmedia discovery retrieved earlier7pplans: first4/last1families numerictext matchcurrent5; additional2BRC1137.53ft²/105.68m² andD1148.08ft²/106.66m² actualfullpanels5/6 visuallyread, sums match. Clearly earlier-document scope, no currentavailabilityclaim.",
+        "amenities": "Actualbrochure19 facilitiespanel visually read: WestParkaccess,pool,gym,kids,BBQ,petwash. Kitchenappliances own actualpaymentpanel not wholehomefurnished. Repeatedgenericcommunityfeatures0.",
+        "pricing": "No original primarypricefound. PFheadline1.2m, FAQ1m andnarrative1030888 internallydisagree; headlineprice null. Broker1.614888m is inventorydependent not substituteofficiallaunch. No actualavailability claimed.",
+        "payment": "Actual ownrasterpayment original50/50: five10 instalmentsNov2025/JanJul2026/JanJul2027 plus50Dec2028. Sum100. PF10/40/50 corroborates; CASADIOR5/35/60 differinglaterbrokerplan explicitlynotmerged. Earlier unsuffixed payment actualvisual calendarNov2025/JanJunNov2026/Apr2027+50Dec2028 differs currentlinkedNov2025/JanJul2026/JanJul2027; notblended.",
+        "handover": "OwncalendarDec2028 indicative, PFDecember2028 matches; not completionproof.",
+        "documents": "Own26pbrochure/5playouts/1ppayment all normalunauthNodefetch200. Allnumericalpanels,amenity andrasterpayment visuallyinspected. OverlappingPDFpool200=35+85+80; no forms/cookie bypass. Brokerfivepagepackduplicatesown, notnewsourcepool. Additional publicWPmedia original27pbrochure/7pplans/earlier1ppayment downloaded200; allunderlyingPDFs share200=25+65+70+20+20+0. Earlier27pbrochure5numericfamiliestextmatchcurrent; no new townhouse drawings."
+      },
+      "community": "Town Square · West Park",
+      "overview": [
+        "The current sample pack covers five apartment families. An earlier official pack adds two more two-bedroom types; their inclusion does not establish current availability."
+      ],
+      "locationNote": "Town Square, near West Park, Dubai.",
+      "priceLabel": "Price requires confirmation",
+      "priceNote": "Property Finder marks developer stock sold out and mixes an AED 1.2m headline, AED 1m FAQ and AED 1,030,888 narrative. No consistent current official starting price was verified.",
+      "paymentNote": "Current linked calendar shown below. An earlier sheet schedules instalments in June/November 2026 and April 2027 instead. CASADIOR reports 5/35/60; confirm applicable terms.",
+      "handoverNote": "December 2028 is the developer’s indicative target, also reported by Property Finder; actual completion is not established.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "610.85–613.87 ft² / 56.75–57.03 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "608.16 ft² / 56.50 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "946.47–949.59 ft² / 87.93–88.22 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "896.96–897.06 ft² / 83.33–83.34 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C · earlier document",
+          "area": "1,137.53 ft² / 105.68 m²",
+          "sourceIds": [
+            "earlier-plans"
+          ]
+        },
+        {
+          "label": "2BR D · earlier document",
+          "area": "1,148.08 ft² / 106.66 m²",
+          "sourceIds": [
+            "earlier-plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,463.78–1,468.09 ft² / 135.99–136.39 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "November 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · December 2028",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Kitchen specification",
+          "value": "Kitchen appliances included; whole-home furnishing is not confirmed.",
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Ground-floor townhouses are advertised but absent from the linked five-family plan pack. Obtain their layouts and selected-unit specification.",
+        "The 2BR B drawing’s printed total differs from its suite-plus-balcony figures; 3BR A also has a 0.01 ft² difference. Original totals are retained.",
+        "Current stock, authoritative price sheet, service charges, allocated parking and revised contractual terms remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

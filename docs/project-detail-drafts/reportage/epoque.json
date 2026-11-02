@@ -1,0 +1,348 @@
+{
+  "id": "reportage-project-03",
+  "name": "Époque",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Époque brings a smaller collection of one- and two-bedroom apartments to Meydan Horizon, with a lagoon-facing setting and shared leisure spaces.",
+    "areaId": "dubai-meydan-horizon",
+    "location": "Meydan Horizon",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pool",
+      "Children’s pool",
+      "Residents’ lounge",
+      "Splash pad",
+      "Gym",
+      "Promenade",
+      "Retail"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/EPOQUE_BROCHURE_V4-1.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/UAE_EPOQUE_FLOORPLANS_V1-3.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Époque: developer project page",
+          "url": "https://reportagegroup.com/projects/residential-communities/epoque-2/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "launch",
+          "label": "Époque and Verso: developer launch, 2 October 2026",
+          "url": "https://reportagegroup.com/news/reportage-group-makes-its-meydan-horizon-debut-with-verso-and-poque-introducing-234-residential-units-in-dubai/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "brochure",
+          "label": "Époque: original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/EPOQUE_BROCHURE_V4-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Époque: original apartment drawings",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_EPOQUE_FLOORPLANS_V1-3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "facts",
+          "label": "Époque: original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_EPOQUE_FACTSHEET_V2-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "portal",
+          "label": "Époque: Property Finder launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/epoque",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "broker",
+          "label": "Époque: EZRE commercial guide",
+          "url": "https://ezre.ae/projects/epoque",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "community": "Meydan Horizon",
+      "overview": [
+        "A compact release within Reportage’s wider Meydan Horizon launch."
+      ],
+      "locationNote": "The developer places Époque in Meydan Horizon. Property Finder groups it under the broader Ras Al Khor area.",
+      "priceLabel": "Request a selected-apartment quotation",
+      "priceNote": "Property Finder gives an AED 1.9 million launch guide; EZRE quotes AED 1,884,097. No dated primary price list or live selected-home quotation was verified.",
+      "paymentNote": "The table is Property Finder’s reference: 20% during construction and 80% at handover. EZRE instead labels the first 20% as booking and also lists 30 / 70 alternatives. No original dated schedule was verified; confirm booking, instalments and discount conditions.",
+      "handoverNote": "Property Finder and EZRE target Q4 2029, with Property Finder specifying December. The reviewed developer page and originals provide no contractual completion date; this remains a secondary forecast.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "589.75–598.80 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "545.95 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "772.96–775.65 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "1,108.90–1,115.68 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "817.95–820.53 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR D",
+          "area": "1,004.27–1,007.07 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR E",
+          "area": "810.74–813.00 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR F",
+          "area": "1,034.95–1,038.07 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "During construction · reference",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · reference",
+          "percent": 80,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release",
+          "value": "60 homes: 15 one-bedroom and 45 two-bedroom apartments.",
+          "sourceIds": [
+            "facts",
+            "launch"
+          ]
+        },
+        {
+          "label": "Building",
+          "value": "Two basements, ground, podium and six upper floors; 67 parking spaces.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Plot",
+          "value": "18,641.5 sq ft in the factsheet; 1,732 m² in the launch.",
+          "sourceIds": [
+            "facts",
+            "launch"
+          ]
+        },
+        {
+          "label": "Purchase reference",
+          "value": "Property Finder lists freehold and a 4% government fee. Confirm title eligibility and complete purchase costs.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Printed totals include outdoor areas; minor component-rounding differences remain unchanged. Confirm the selected floor and contracted revision.",
+        "Current inventory, service charges, furnishing specification, binding commercial terms and certified construction status were not verified."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact protected reportage-project-03 Époque and owner retained. Own current primary page and actual original covers match. Plans floor plates contain legacy working title THE AVENOR; not treated as rename evidence or different owner. Shared launch actual dateline2October2026 versus index22October2026 distinguished; 234combined=174Verso+60Époque, not234Époque.",
+        "location": "Own page/facts/launch explicitly Meydan Horizon Dubai maps exact existing dubai-meydan-horizon. PF broad RasAlKhor classification disclosed; no coordinates inferred. Brochure travel durations marketing estimates omitted.",
+        "residences": "Actual all8 full apartment drawings14–21 viewed: two1BR families A/B and six2BR A–F. Beds drawn match labels, no studio/3BR inherited from portal generic prose. Own facts page2 15one+45two=60; no current stock assumption.",
+        "areas": "All8 actual1700px full panels read, not text-only. 1BRA589.75–598.80/B545.95;2BRA772.96–775.65/B1108.90–1115.68/C817.95–820.53/D1004.27–1007.07/E810.74–813/F1034.95–1038.07sqft. E754.33+56.40=810.73vs810.74printed; other0.01 rounding not corrected. Whole single-level internal+outdoor total, not plot or multiplications.",
+        "amenities": "Own main and actual facts1 support pool,childpool,lounge,splash,gym,promenade,retail. All planned, no assertion operational. Interior render accessories not promised furnished specification.",
+        "pricing": "No quote in own HTML/17pbrochure/22pplans/2pfacts or2Octoberlaunch. PF1.9m andEZRE1884097 secondary launch guides not live quotation, headlineNULL. Suspicious archive retellings not used.",
+        "payment": "PF20duringconstruction+80handover=100 reference versusEZRE20booking+80handover and30/70alternatives, stage-label conflict disclosed. No original dated payment sheet after ownlink/publicsearch; no incomplete10% or5% down option completed by guess. HeadlineNULL.",
+        "handover": "Own primary documents no delivery date. PF December2029/EZREQ42029 only attributed forecast; no verified construction certificate/date. No portal fictional project completion treated as actual.",
+        "documents": "Three exact normal public primary PDF hrefs retrieved200, actual all8 full plans14–21 and both facts pages1/2 visually inspected. Original brochure/facts/plans and any retellings one200pool20+60+120. Conservative whole mixed count recorded in evidence, shared own Époque/Verso launch80+80<=200, genericcorporate0. No forms/bypass."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "developer",
+          "launch"
+        ],
+        "location": [
+          "developer",
+          "launch"
+        ],
+        "emirate": [
+          "developer",
+          "launch"
+        ],
+        "community": [
+          "developer",
+          "launch"
+        ],
+        "locationNote": [
+          "developer",
+          "launch",
+          "portal"
+        ],
+        "overview": [
+          "developer",
+          "launch"
+        ],
+        "type": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "brochureUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "floorPlanUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "launch",
+          "portal"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "developer",
+          "portal",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal",
+          "broker"
+        ]
+      }
+    }
+  }
+}

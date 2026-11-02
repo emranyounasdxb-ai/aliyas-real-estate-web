@@ -1,0 +1,291 @@
+{
+  "id": "nshama-project-08",
+  "name": "Odessa",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Odessa is an apartment development in Town Square, with one- to three-bedroom homes and advertised three-bedroom duplexes. The developer marks it under construction and publishes a September 2026 site update. Its retrieved plans include a terrace apartment as well as conventional balcony layouts.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 950888,
+    "handover": "December 2027 · indicative developer target",
+    "paymentPlan": "10/35/55 · published launch schedule",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Indoor and outdoor children’s play areas",
+      "BBQ area"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Brochure-Final_.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Floor-Plans-Website.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "NSHAMA Odessa project and construction update",
+          "url": "https://nshama.ae/properties/odessa/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "brochure",
+          "label": "Odessa official brochure",
+          "url": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Brochure-Final_.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Odessa official apartment plans",
+          "url": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Floor-Plans-Website.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "payment",
+          "label": "Odessa official launch payment schedule",
+          "url": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Odessa pricing reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/odessa",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handoverNote": [
+          "payment",
+          "developer"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "plans",
+          "payment"
+        ],
+        "unresolved": [
+          "plans",
+          "developer",
+          "portal",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Odessa page and named official documents verified; portal Odessa on the Park wording is not treated as another project.",
+        "location": "Own Town Square page and portal identify Dubai. Exact existing Town Square area used; no unverified coordinates or journey times.",
+        "residences": "Official introduction advertises 1–3BR and 3BR duplexes. Eight full numerical drawings inspected, all single-level; 3BR B terrace apartment is not assumed duplex.",
+        "areas": "Every published family in eight-page pack visually read. Total built-up includes balcony/terrace; no internal suite areas substituted for whole-home totals.",
+        "amenities": "Named brochure page 20 visually read; four project-specific amenities adopted. Repeated generic community facilities excluded.",
+        "pricing": "Property Finder body gives historical AED 950,888 versus selected-listing headline AED 1.1m and sold-out label. No official price list/current stock confirmed.",
+        "payment": "Own one-page 45/55 calendar visually read: 10+10+10+5+10 during April 2025–December 2026, then 55% on indicative December 2027 handover.",
+        "handover": "Official payment sheet December 2027 corroborates portal quarter. Current own page under construction with September 2026 update, but no certified percentage or completion document.",
+        "documents": "Official 30-page brochure, eight-page plans and one-page payment retrieved. Repeated brochure plans pooled, total PDF allocation 200. Generic community derivation zero."
+      },
+      "overview": [
+        "Type B is a single-level three-bedroom terrace home; compare total and interior areas separately.",
+        "The developer’s construction update establishes the date of its published update, not a certified completion percentage."
+      ],
+      "community": "Town Square",
+      "locationNote": "Odessa is within Town Square, Dubai, near its park. No fixed travel-time promise is adopted.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder’s body quotes AED 950,888; its selected-listing headline is AED 1.1m and also displays sold out. The older figure is a launch reference, not current developer inventory.",
+      "paymentNote": "Original April 2025–December 2027 calendar; confirm a new purchase’s own due dates.",
+      "handoverNote": "December 2027 is indicative on the developer sheet. Own construction update is dated September 2026; no certified percentage is claimed.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "631.63–647.13 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "933.12–956.59 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "1,065.09 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "999.64–1,023.22 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR D",
+          "area": "935.06–957.02 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR E",
+          "area": "1,054.97–1,075.53 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,545.59–1,582.62 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR B · terrace apartment",
+          "area": "2,010.27 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "April 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · December 2027",
+          "percent": 55,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Printed built-up totals include balconies or terrace.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Kitchen provision",
+          "value": "Kitchen appliances specified; full furnishing is not established.",
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The advertised duplex family has no numerical duplex drawing in the retrieved pack. The 3BR B sheet is single-level and is not relabelled duplex.",
+        "Official current prices, stock, service charges and a certified construction percentage remain unavailable.",
+        "Portal August 2025 booking dates are later than the original April 2025 payment calendar; those start dates are not adopted."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

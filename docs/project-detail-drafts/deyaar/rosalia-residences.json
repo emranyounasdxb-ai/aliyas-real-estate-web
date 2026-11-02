@@ -1,0 +1,260 @@
+{
+  "id": "deyaar-project-10",
+  "name": "Rosalia Residences",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Rosalia Residences is an Al Furjan apartment building with nine residential floors above ground-floor retail. Deyaar’s January 2024 launch described 117 homes, fitted kitchens and a position opposite Discovery Gardens 2 Metro Station.",
+    "areaId": "dubai-al-furjan",
+    "location": "Al Furjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1200000,
+    "handover": "December 2026 · developer estimate",
+    "paymentPlan": "10/50/40 · original developer terms",
+    "amenities": [
+      "Swimming pool and Jacuzzi",
+      "Fitness centre",
+      "Children’s splash pad",
+      "Barbecue area",
+      "Residents’ lounge",
+      "Steam and sauna rooms",
+      "Sun deck"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Brochure_WIP.pdf",
+    "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771328810898-ad1d53660ff236dd.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar Rosalia project page",
+          "url": "https://www.deyaar.ae/en/properties/rosalia-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "press",
+          "label": "Deyaar Rosalia launch · 15 January 2024",
+          "url": "https://www.deyaar.ae/en/media_center/deyaar-launches-rosalia-residences-its-third-project-in-dubais-al-furjan-community/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "facts",
+          "label": "Rosalia official factsheet",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Factsheet_V2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "brochure",
+          "label": "Rosalia original WIP brochure · conflicting plan labels",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Brochure_WIP.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Rosalia final branded layouts · broker-hosted 25 pages",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771328810898-ad1d53660ff236dd.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar construction update · checked 31 October 2026",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Rosalia · secondary commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/rosalia-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "press"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "facts",
+          "developer"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "handover": [
+          "construction"
+        ],
+        "handoverNote": [
+          "construction",
+          "developer",
+          "press"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts",
+          "finder"
+        ],
+        "paymentStages": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "press",
+          "facts",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "locationNote": [
+          "press"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "facts",
+          "brochure",
+          "plans",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact protected10Rosalia record. Launch117homes/G+9 distinct otherDeyaarAlFurjanprojects. No present inventory assumption from launch.",
+        "location": "Primary project/launch/facts AlFurjan Dubai; launch oppositeDiscoveryGardens2metro. No travel timings, geocoordinates or entitlement inferred.",
+        "residences": "Primary1/2/3BR. Final25pbranded broker-hostedpack actually reviewed all23numericfamilies:13onebed/ninetwobed/onethreebed. Final3BRfullplan maidroom visible. Fittedkitchens launch not fully furnished homes.",
+        "areas": "Actualfinalnumericpanels2–24 read, allprintedtotals retained. WIP55pp36–50 stale654labels repeated even2/3BR;embedded tables sometimes differ1741vsfinal1743. Final totals780–1178/1208–1731/1743; facts774minimum differs780. Final component mismatches:1BR01t694+398=1092 vs1086;05t703+408=1111vs1112;08 770+80=850vs851;08t_b771+408=1179vs1178;2BR05 1122+136=1258vs1257. Do not repair source values.",
+        "amenities": "Actualfacts3/4 visuallyread: sevenamenities plus160totalparkingslots, notunitallocation. Primarypage confirms amenitylabels. No broker cinema/valet imported.",
+        "pricing": "Ownpage/facts/launch no price sheet. FreshPFheadline1.2m referscurrentlowestsubjectavailability, developer-unit1mrounded outofstock historicaldifferentbasis. No guarantee availableAliyasstock.",
+        "payment": "Ownfactsheet actual3 visually10booking50duringconstruction40posthandover40months;sum100. Ownpageagrees. PF10/36/14/40 differs stage split; no full monthly datedcalendar verified. Paymentplan.jpg linkedownpage actuallydecorativephoto excluded.",
+        "handover": "PrimaryliveconstructionexpectedDecember2026, finishingstage. Ownprojectend31July2026 and originalJan2024launchbeforeSept2025/PFSeptember2025 are olderconflictingestimates. No completedclaim.",
+        "documents": "Official55pWIP+7pfacts downloaded200, visualpanels saved. Current10JPGgalleryURLs404 normalpublicfetch, excludedHTML. StandardpublicWPmedia listsfacts/WIPonly. Expandify publiclinks yielded broker-hostedfinal25pplans and39pbrochure; mirrorbrochure corroborationonly0. AllunderlyingphasePDFs pooled200=80facts25WIP95plans; genericcommunity0. Imagesdeferred."
+      },
+      "community": "Al Furjan",
+      "overview": [
+        "Balcony and terrace layouts vary substantially; compare the selected drawing, not bedroom count alone."
+      ],
+      "locationNote": "Al Furjan, Dubai; the launch places Rosalia opposite Discovery Gardens 2 Metro Station.",
+      "priceLabel": "Portal headline · subject to stock confirmation",
+      "priceNote": "Property Finder’s headline is AED 1.2 M; its sold-out developer one-bedroom range starts around AED 1m. No current official price sheet was verified.",
+      "paymentNote": "Original terms; obtain remaining contractual instalments. Portal stages 10/36/14/40 differ from the developer’s aggregate split.",
+      "handoverNote": "Revised developer target; earlier July 2026 and September 2025 estimates differ. Completion unconfirmed.",
+      "units": [
+        {
+          "label": "1BR · final layouts",
+          "area": "780–1,178 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · final layouts",
+          "area": "1,208–1,731 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR",
+          "area": "1,743 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "After handover · over 40 months",
+          "percent": 40,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building and homes",
+          "value": "G+9; 117 residences at launch.",
+          "sourceIds": [
+            "press"
+          ]
+        },
+        {
+          "label": "Parking",
+          "value": "160 building-wide spaces; selected-unit allocation unverified.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Final plan totals include balconies or terraces.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Factsheet one-bedroom minimum 774 ft² differs from final plans 780 ft². The linked WIP brochure has stale 654 ft² labels and different tables; use a current contractual drawing.",
+        "Some final plan component sums differ from printed totals, including 1BR01t 1,092 versus 1,086 ft². Published totals are retained.",
+        "Current availability, official prices, revised payment dates, unit parking allocation, service charges and completion certificate remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

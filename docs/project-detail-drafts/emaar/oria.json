@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-54","name":"Oria","developerSlug":"emaar",
+ "fields":{
+  "description":"Oria is a 163-home apartment development beside the Creek Beach district of Dubai Creek Harbour. One to three bedroom layouts sit above a shared leisure podium, with shaded balconies and outlooks towards the park, canal or surrounding city. Its larger apartments occupy different floor bands, making the exact plan and orientation important parts of choosing a home.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1700000,"handover":"Q3 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Flexible lawn","Swimming pool","Children’s pool and play area","Indoor and outdoor gym","Multipurpose room","Barbecue and picnic area","Yoga garden","Common garden"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/380449_brochure_File_864967dac2_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ORIA_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Oria at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/oria-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Oria brochure","url":"https://www.emaar.com/cms-media/uploads/380449_brochure_File_864967dac2_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Oria floor plans","url":"https://www.emaar.com/cms-media/uploads/ORIA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Oria launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/oria/ORIA_DCH_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"payment","label":"Oria payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/oria/ORIA_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"finder","label":"Property Finder: Oria · conflicting delivery date","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/oria","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Oria identity and owner confirmed; 163-home launch collection recorded separately from Aeon.",
+    "location":"Dubai Creek Harbour beside Creek Beach confirmed. Planned metro/ferry references are not treated as verified operating connections.",
+    "residences":"One, two and three bedroom apartments confirmed by developer and own plans.",
+    "areas":"All 21 official plan pages reviewed. Exact totals and floor bands retained; fact-sheet rounded ranges corroborate them.",
+    "amenities":"Own brochure, fact sheet and live official page checked. Brochure podium area of 3,600 sq m conflicts with the live page’s 6,000 sq m; explicitly disclosed rather than silently chosen.",
+    "pricing":"Official AED 1.7m headline agrees with launch fact sheet; category launch prices labelled historical, not availability.",
+    "payment":"Own ten-stage schedule and fact sheet visually checked; unequal 15% and 5% middle stages preserved and total equals 100%.",
+    "handover":"July 2028 is supported by the own project payment and fact sheets. Property Finder’s December 2025 date is inconsistent and flagged.",
+    "documents":"Official brochure and full plan pack linked; attributed launch fact/payment copies retained as references. Images unchanged."
+   },
+   "community":"Dubai Creek Harbour · beside Creek Beach",
+   "overview":["The podium brings the everyday facilities together: pools, gym spaces, a multipurpose room and gardens for quieter recreation. The building’s design uses shaded balconies and tinted glazing to manage glare. Its brochure also describes insulated roofs, double glazing, LED controls, condensate reuse and EV charging. These are published design specifications; confirm the final specification and access arrangements for the chosen apartment."],
+   "locationNote":"Oria is beside Creek Beach, with the waterfront promenade, Creek Marina, Central Park and the Viewing Point identified as nearby destinations. Park, canal and skyline views vary by unit. Developer references to metro and water transport should be checked against current routes and opening dates rather than assumed operational.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"The official page states AED 1.7m. The February 2024 fact sheet gives starting prices of AED 1.7m, 2.7m and 3.7m for one, two and three bedrooms respectively. Those launch figures are not confirmation of stock or a current offer; request a dated unit quotation.",
+   "paymentNote":"The launch plan places 90% before estimated completion and 10% at completion. It includes a 15% stage in December 2025 and a 5% stage in April 2026; the other stages are 10% each. Past dates are historical obligations, so any new purchase needs an updated balance and payment schedule.",
+   "handoverNote":"The project payment and fact sheets estimate completion in July 2028. Property Finder instead displays December 2025, which conflicts with those documents. July 2028 is retained as an attributed launch estimate; obtain written confirmation of the current contractual programme.",
+   "units":[
+    {"label":"1 bedroom · levels 2–12 / 13–20","area":"749.06 / 750.35 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · podium and levels 1–12","area":"1,222.46–1,309.86 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · levels 13–20","area":"1,658.93–1,726.75 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · February 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"April 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2025 · 20% construction","percent":15,"sourceIds":["payment"]},
+    {"stage":"April 2026 · 30% construction","percent":5,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2027 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2028 · estimated construction completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Collection size","value":"The launch fact sheet lists 163 apartments. This is the development’s launch total, not the number currently offered for sale.","sourceIds":["facts"]},
+    {"label":"Podium-area discrepancy","value":"The official brochure and launch fact sheet describe 3,600 sq m of amenities podium, whereas the current Emaar page states 6,000 sq m. Facilities are listed consistently, but the area requires developer clarification.","sourceIds":["official","brochure","facts"]},
+    {"label":"Understanding the plan totals","value":"Total area includes suite and balcony space. The two-bedroom podium unit 03 is 1,309.86 sq ft, including 145.10 sq ft of balcony; podium unit 04 is 1,222.46 sq ft with a 51.88 sq ft balcony. Similar bedroom counts do not imply identical layouts.","sourceIds":["plans"]},
+    {"label":"Higher-floor homes","value":"The three-bedroom drawings cover levels 13–20 and range from the 1,658.93 sq ft Type B to the 1,726.75 sq ft Type A. Check the exact unit’s orientation, balcony and approved area schedule.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Developer confirmation is needed for the conflicting handover date and amenities-podium area.","Current inventory, price, outstanding instalments, service charges and parking allocation remain subject to unit-specific confirmation.","Construction progress and opening dates for community facilities and advertised transport connections are not independently verified.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

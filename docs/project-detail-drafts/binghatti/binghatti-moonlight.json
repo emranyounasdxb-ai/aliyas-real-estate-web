@@ -1,0 +1,199 @@
+{
+  "id": "binghatti-project-15",
+  "name": "Binghatti Moonlight",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Moonlight combines apartments, offices and retail in Al Jaddaf Waterfront. Its one- to three-bedroom homes sit above commercial and parking levels, with a rooftop pool and shared gym. The mixed-use arrangement makes it important to distinguish residential plans and amenities from the building’s office accommodation.",
+    "areaId": "dubai-al-jaddaf-waterfront",
+    "location": "Al Jaddaf Waterfront",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1429999,
+    "handover": null,
+    "paymentPlan": "70/30 · developer summary",
+    "amenities": [
+      "Rooftop infinity pool",
+      "Shared gym",
+      "Seating areas",
+      "Smart-home features",
+      "Ground-floor retail"
+    ],
+    "brochureUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Moonlight own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-moonlight",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official-linked own brochure and embedded plans",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Official-linked own project facts",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-moonlight-assets/binghatti-moonlight-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Moonlight Ready label and retained June 2026 forecast",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-moonlight",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "kw",
+          "label": "Keller Williams Dubai: Moonlight under-construction and Q1 2027 reference",
+          "url": "https://kellerwilliamsdubai.ae/en/developments/binghatti-binghatti-moonlight",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "price": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder",
+          "kw"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Moonlight page and residential/commercial facts checked; not another Al Jaddaf project.",
+        "location": "Own page describes Al Jaddaf Waterfront; no exact apartment outlook assumed.",
+        "residences": "One-, two- and three-bedroom residential families reviewed separately from 47 offices and 3 shops.",
+        "areas": "Own 35-page brochure panels 24, 26, 29 and 31 visually inspected at 1750 px, including each residential family.",
+        "amenities": "Own facts distinguish rooftop residents’ pool/gym from office seating facilities; operating access unverified.",
+        "pricing": "Own hero FROM 1,429,999 distinguished from portal retained launch narrative 1,520,999; no live allocation asserted.",
+        "payment": "Own FAQ 20/50/30 corroborated by portal; no dated instalment document or current signed offer retrieved.",
+        "handover": "Elapsed own Q2 2026 forecast, PF Ready/June 2026 and KW Q1 2027/under-construction references conflict; actual completion unresolved.",
+        "documents": "Own linked brochure and facts downloaded; overlapping content pooled 190 words; dated payment/actual handover evidence unavailable."
+      },
+      "community": "Al Jaddaf Waterfront",
+      "overview": [
+        "Check the selected apartment’s relationship to office floors and shared access before choosing. The commercial element is part of the project, but an office count or retail floor area should not be presented as residential accommodation."
+      ],
+      "locationNote": "Al Jaddaf Waterfront, Dubai. Creek Harbour skyline views are developer marketing descriptions, not guaranteed for every floor and orientation.",
+      "priceLabel": "Developer marketing reference",
+      "priceNote": "The retrieved own hero displays FROM AED 1,429,999. Property Finder retains a higher AED 1,520,999 narrative while marking developer stock sold out. Neither establishes an available Aliyas unit or a current contractual price.",
+      "paymentNote": "The developer states 20% at signing, 50% during construction and 30% on completion. Property Finder repeats that split. A current dated schedule, outstanding balance and unit-specific conditions were not retrieved; historic marketing terms do not automatically govern a resale.",
+      "handoverNote": "The own FAQ still schedules Q2 2026, a period already elapsed. Property Finder labels the building Ready but retains June 2026 and under-construction narrative. Keller Williams instead lists under construction and Q1 2027. Without later primary completion or handover evidence, no actual delivery date is confirmed.",
+      "units": [
+        {
+          "label": "1-bedroom Type 01",
+          "area": "75.80 sq m / 815.90 sq ft total; 65.14 sq m suite + 10.66 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01",
+          "area": "94.62 sq m / 1,018.48 sq ft total; 78.64 suite + 15.98 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type 01",
+          "area": "165.74 sq m / 1,784.01 sq ft total; 132.94 suite + 32.80 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Developer · contract signing",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Developer · construction",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Developer · completion",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original project mix",
+          "value": "236 residences: 126 one-bedroom, 106 two-bedroom and 4 three-bedroom apartments; 47 offices and 3 shops. Design counts are not current stock.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Published building components",
+          "value": "Four basements, ground, three podiums, three office levels, a mixed office/residential level, eighteen residential floors and roof. The FAQ omits the separate office levels in its shorter description.",
+          "sourceIds": [
+            "facts",
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Actual completion, current available homes and revised handover require primary written confirmation. Service charges, allocated parking, furnishing and operating amenity access were not established for a specific apartment.",
+        "The one-bedroom Type 02 panel copies an inconsistent suite square-foot value beside 58.69 sq m. The displayed Type 01 row uses its separate consistent panel; confirm the selected unit’s signed area statement.",
+        "Published totals include balconies. Commercial layouts, furniture, views and renders do not establish an individual home’s contractual specification."
+      ]
+    }
+  }
+}

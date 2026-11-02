@@ -1,0 +1,285 @@
+{
+  "id": "bloom-project-03",
+  "name": "Bloom Living Marbella",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Marbella is Bloom Living’s tenth release, offering three- to six-bedroom villas. Two mirrored design types pair ground-floor living spaces with upstairs bedrooms and family rooms, with lake or park settings depending on the plot.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": null,
+    "handover": "Q4 2028",
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Gym",
+      "Swimming pools",
+      "Children’s play areas",
+      "Community centre",
+      "Walking and cycling tracks"
+    ],
+    "brochureUrl": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+    "floorPlanUrl": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "unit-3",
+          "label": "Bloom · Marbella 3-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-marbella",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "unit-4",
+          "label": "Bloom · Marbella 4-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/4-bedrooms-marbella",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "unit-5",
+          "label": "Bloom · Marbella 5-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/5-bedrooms-marbella",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "unit-6",
+          "label": "Bloom · Marbella 6-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/6-bedrooms-marbella",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "launch",
+          "label": "Bloom · Marbella tenth-phase launch",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-tenth-phase-bloom-living-marbella",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "later-release",
+          "label": "Bloom · subsequent Malaga launch, historical Marbella sell-out reference",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-malaga-the-eleventh-and-final-premium-villas-phase-in-bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "brochure",
+          "label": "Bloom · Marbella original brochure and eight villa plans",
+          "url": "https://bloomholding.com/application/files/9717/5853/1427/BL_Marbella_EBrochure_Web.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "community",
+          "label": "Bloom Living · shared community location and amenities",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Marbella release reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-marbella",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        }
+      ],
+      "community": "Bloom Living",
+      "overview": [
+        "The developer’s subsequent Malaga announcement described Marbella as sold out in record time. Current three- and four-bedroom unit pages also carry sold-out labels; confirm availability for any selected home."
+      ],
+      "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+      "priceLabel": "Request a selected-home quotation",
+      "priceNote": "The launch advertised AED 3.8m. Current 5BR and 6BR pages publish AED 6.765m and AED 8.397m respectively; 3BR and 4BR pages are marked sold out. These are guides, not verified available units.",
+      "paymentNote": "Published developer terms: 5% booking, 45% construction, 50% handover. A dated selected-unit calendar was not retrieved.",
+      "handoverNote": "Q4 2028 is the developer’s published completion target, corroborated by Property Finder; it is not evidence of actual delivery.",
+      "units": [
+        {
+          "label": "3BR · Types A/B",
+          "area": "2,734 ft² / 254 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR · Types A/B",
+          "area": "3,391 ft² / 315 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5BR · Types A/B",
+          "area": "4,607 ft² / 428 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR · Types A/B",
+          "area": "5,500 ft² / 511 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "unit-5"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 45,
+          "sourceIds": [
+            "unit-5"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "unit-5"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Phase",
+          "value": "Tenth release of Bloom Living.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Finish options",
+          "value": "Brochure illustrates premium and upgrade finishes; confirm the contracted package.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Published areas are whole-home sellable totals, not plot sizes.",
+        "Current unit quotations, charges, plot-specific views and binding delivery terms require confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact protected bloom-project-03/Bloom Living Marbella; not Spanish La Finca deMarbella or MabelMarbella Europe. Own tenthphase launch confirms3–6BR villas. No canonical/media changes.",
+        "location": "Own phase pages and launch explicitlyZayedCityAbuDhabi/BloomLiving; exactrootregistryabu-dhabi-zayed-city. No propertyplacedMohammedBinZayedCity frombrokerconflation, no coordinates orguaranteeddrivetime.",
+        "residences": "Own current3/4/5/6unitpages, eightTypeA/B layouts. Own subsequentMalagareleasehistoricalMarbellasoldout qualified; current3/4pagesactualHTML SoldOut, 5/6quotesnotproofinventory. All8actualnumeric/fullGF+FFPDFpanels8/9/11/12/14/15/17/18 read1700px. EightownlinkedPNGwholelayoutsreadasadditionalcorroborationbutwithoutnumericlabels. No staffbedrooms counted.",
+        "areas": "Actual37p ownPDF numerical8/9:1432+1302=2734ft²,133+121=254m²;11/12:1884+1507=3391,175+140=315;14/15:2605+2002=4607,242+186=428;17/18:3046+2454=5500,283+228=511. BothA/BwholeGF+FF and all numericpanelsactuallyviewed. Wholetotal once, plotnotstated/notinferredfromgardenrender. No false5530brokerextremeadopted.",
+        "amenities": "Ownspecificpageicons/phasebrochurecommunitysupportgym/pools/childrenplay/centre/tracks. These commoncommunityclaimsonly20wordsoverallallocationperrecord, sharedpool60forour03–05, not200each commonprose. No universalprivatepool guarantee, furnishingsillustrative, premiumvsupgradefinishpackagesnotuniversal.",
+        "pricing": "Ownlaunchhistoricalfrom3.8m; own3/4currentSoldOutwithoutprice. Own5current6765000/6current8397000; nounitID/datespecificquote/currentstockverified. HeadlineNULLavoidobsolete3BRlaunchasavailableoffer. PF3.9mlaunchsecondaryroundednotnewprice. No inventedcharges/returns.",
+        "payment": "Currentownallfour5+45+50=100. Threeaggregatepublicrowsfromown5page. No originaldatedphasepaymentPDFpubliclinkfoundwithinownHTML/own37pPDF/search; brokeralternative10/60/30withdiscountnotassumeduniversal. No genericotherphasepaymentborrowed.",
+        "handover": "OwnMarbellalaunchQ42028 andPFDec2028corroborate. Prospectivecompletiontargetnotcertificate oractualreadyclaim. OwnsubsequentMalagasoldoutreferenceallocated25sharedwithagent01whoreserves175sameunderlyingrelease.",
+        "documents": "OwnpublicbrochureexactURLfromrootobservedmainoptiondata-url retrievedordinaryNodeGET2006,771,542bytes37p. All8numeric+wholepanelsread; own8originalPNGdrawingslinkedunitpagesalsoGET200/read. AdminProprain/TanamiPDFGET403honored,no bypass. BanusPDFactual15pLaFincaSpainexcludedwrongproject. No forms/submissions. AllphasePDF/planartworkversionsmirrorspool200includingpublicunits/finish/unresolved, primary4unitpagescombined20030/20/90/60; samebodynotextra200each. Ownlaunch120;laterMalagarelease25;commonunderlyingBloomLiving20ofgroup60. Currentgenericmain0extra."
+      },
+      "fieldSources": {
+        "description": [
+          "unit-5",
+          "launch",
+          "brochure"
+        ],
+        "emirate": [
+          "unit-5"
+        ],
+        "type": [
+          "unit-5"
+        ],
+        "bedrooms": [
+          "unit-5"
+        ],
+        "paymentPlan": [
+          "unit-5"
+        ],
+        "priceLabel": [
+          "unit-5"
+        ],
+        "areaId": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "amenities": [
+          "community",
+          "unit-5"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community",
+          "launch"
+        ],
+        "overview": [
+          "later-release",
+          "unit-3",
+          "unit-4"
+        ],
+        "price": [
+          "launch",
+          "unit-3",
+          "unit-4",
+          "unit-5",
+          "unit-6"
+        ],
+        "priceNote": [
+          "launch",
+          "unit-3",
+          "unit-4",
+          "unit-5",
+          "unit-6"
+        ],
+        "paymentNote": [
+          "unit-5"
+        ],
+        "handover": [
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "launch",
+          "portal"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "unit-5"
+        ],
+        "facts": [
+          "launch",
+          "brochure"
+        ],
+        "unresolved": [
+          "brochure",
+          "unit-5"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      }
+    }
+  }
+}

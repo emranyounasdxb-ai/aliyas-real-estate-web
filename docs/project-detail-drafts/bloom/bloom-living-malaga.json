@@ -1,0 +1,309 @@
+{
+  "id": "bloom-project-02",
+  "name": "Bloom Living Malaga",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Malaga is Bloom Living’s eleventh release and final premium villa collection. Mediterranean-inspired three- to six-bedroom homes connect indoor family spaces with their outdoor surroundings.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": null,
+    "handover": null,
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Community clubhouse",
+      "Swimming pools",
+      "Gym",
+      "Children’s play areas",
+      "Walking and cycling trails",
+      "Community retail and dining"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/d47a807642884c7fbaeed4583d53bbd2.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/e026d73e32f54109af4a37dea128685f.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Malaga: developer six-bedroom guide and payment terms",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/6-bedrooms-malaga",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "types",
+          "label": "Malaga: developer three-bedroom guide and related type pages",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-malaga",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "launch",
+          "label": "Malaga: developer launch announcement",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-malaga-the-eleventh-and-final-premium-villas-phase-in-bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "community",
+          "label": "Bloom Living: shared developer community information",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "brochure",
+          "label": "Malaga: original brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/d47a807642884c7fbaeed4583d53bbd2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "plans",
+          "label": "Malaga: original villa plans, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/e026d73e32f54109af4a37dea128685f.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "guide",
+          "label": "Malaga: broker commercial reference",
+          "url": "https://maisondubai.com/projects/bloom-living-malaga",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "four",
+          "label": "Malaga: developer four-bedroom guide",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/4-bedrooms-malaga",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "five",
+          "label": "Malaga: developer five-bedroom guide",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/5-bedrooms-malaga",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        }
+      ],
+      "community": "Bloom Living, Zayed City",
+      "overview": [
+        "The developer’s final-villa designation applies to Malaga; Alhambra is a separate later release with apartments, townhouses and penthouses."
+      ],
+      "locationNote": "Within Bloom Living in Zayed City, Abu Dhabi, near Zayed International Airport.",
+      "priceLabel": "Request a home-specific quotation",
+      "priceNote": "The launch advertised from AED 4.1 million. The current developer six-bedroom guide starts at AED 8.7 million; this is not an entry price for every villa type.",
+      "paymentNote": "The developer’s six-bedroom page gives 5 / 45 / 50. A broker instead lists 10 / 40 / 50 and 20 / 50 / 30 options. Confirm the applicable offer; no dated original instalment sheet was retrieved.",
+      "handoverNote": "The developer launch targets Q4 2028; the broker guide targets Q2 2029. Confirm the contracted release and revised completion date.",
+      "units": [
+        {
+          "label": "Current 3BR guide",
+          "area": "From 2,734 sq ft",
+          "sourceIds": [
+            "types"
+          ]
+        },
+        {
+          "label": "Current 4BR guide",
+          "area": "From 3,391 sq ft",
+          "sourceIds": [
+            "four"
+          ]
+        },
+        {
+          "label": "Current 5BR guide",
+          "area": "From 4,607 sq ft",
+          "sourceIds": [
+            "five"
+          ]
+        },
+        {
+          "label": "Current 6BR guide",
+          "area": "From 5,500 sq ft",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "3BR Types A/B",
+          "area": "2,734 sq ft / 254 m² total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR Types A/B",
+          "area": "3,401 sq ft / 316 m² total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR Types A/B",
+          "area": "4,596 sq ft / 427 m² total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6BR Types A/B",
+          "area": "5,543 sq ft / 515 m² total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction period",
+          "percent": 45,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Finishing options",
+          "value": "The brochure includes Premium finishes by default. Upgraded interiors cost extra and require selection within the stated 90-day window.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tenure",
+          "value": "Bloom Living is an investment zone open to buyers of all nationalities.",
+          "sourceIds": [
+            "community"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current starting-area guides differ from the original type drawings; verify the selected revision and area schedule.",
+        "Plan landscaping, furniture and electronics are illustrative and excluded from the offering.",
+        "Current charges, plot boundaries, availability and binding delivery terms require confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-02 Bloom Living Malaga, exact owner/name/slugs/media preserved. Own primary release identifies eleventh/final premium villa phase3–6BR, not Alhambra final community release. No merging sibling records.",
+        "location": "Own primary phase and launch explicitly within Bloom Living Zayed City Abu Dhabi. Exact central abu-dhabi-zayed-city supported; no coordinates. Genericcommunity pool55 sharedwithinown60 groupreservation, root80+agent0760 total195.",
+        "residences": "Original8p plans all8 wholeGF/FF sheets actually viewed1700px:3BRTypeA/B,4BRTypeA/B,5BRTypeA/B,6BRTypeA/B. Staff/driver rooms not extra marketed bedrooms. Original28pbrochure actualintro2/master5, finishspec13/23 read. Premiumdefault and paidUpgradewith90dayselection explicitlydistinguished, no universalfurnishinginferred.",
+        "areas": "Actual8numeric tables:3BR1432+1302=2734sqft,133+121=254m²;4BR1884+1517=3401sqft,175+141=316;5BR2605+1991=4596sqft,242+185=427;6BR3057+2486=5543sqft,284+231=515. TypesA/Bsamewholenumbers, notdouble-counted bylevels. Currentown3/4/5/6publishedstartingguides2734/3391/4607/5500differentfromoriginaltables, notsilentlysubstituted. Plotareasnotverified. Own3/4/5/6 drawingimage references noted, originalsPDFusedforactualnumericinspection.",
+        "amenities": "SharedBloomLivingmainprimary supportssixpubliccommunityamenities. Brochureintro independentlysamepromises, countedsharedpool notseparateallowance. Notprivateamenitiesineveryvilla, no currentoperationaldateassumption.",
+        "pricing": "Ownlaunchfrom4.1mhistorical; currentown6BR8.7m guide only, cannot useasminimumall3–6mix. Main3/4/5SoldOutlabels observednotguaranteedcurrentstock; secondarysizedinventoryvariesandnotadoptedcurrentunitquote. HeadlineNULL; notinventedalltypescurrentpricing.",
+        "payment": "Actualown6BRHTML current5down45construction50handover=100. Olderown3BRsoldoutpageomitsphasepayment; noinheritancefromsiblingphases. Maisonsecondary10/40/50and20/50/30 specificofferscontradictbookingallocation, explicitnotmerged. No accessibleoriginaldatedcommercialPDFretrieved aftertargetedsearch. EZREwrongDubaiLandDepartment4%forAbuDhabiexcludedentirely.",
+        "handover": "OwnactuallaunchQ42028 vssecondaryMaisonQ22029; currentownunitpagesnotdatedcompletionupdates. HeadlineNULL, no inventedreviseddateoractualcompletion. No transferredQ32030Alhambra date.",
+        "documents": "Ownpublicmain data-urlexactneworiginal8017/6052/0133/Malaga_Brochure.pdf andindexedolder3317/6052/0055bothordinarydownloads20stimeout; webPDFtimeout, no bypass. ActualReellyoriginalbrochure28p48MB+original8pplans5.7MBdownloaded200. All8numerical/fullfamiliesread, brochurefinish13/23read. Relatedoriginalbroch/plans/mirrorpool20080+120; commonintrooverlapownlaunchkeptconcise100 allocation shared25withMarbella. Currentphaseownpagessame170combined200max; sharedgeneric55of60ownreservation. Noforms."
+      },
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "areaId": [
+          "community"
+        ],
+        "location": [
+          "community"
+        ],
+        "emirate": [
+          "community"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community"
+        ],
+        "amenities": [
+          "community"
+        ],
+        "price": [
+          "launch",
+          "developer"
+        ],
+        "priceLabel": [
+          "launch",
+          "developer"
+        ],
+        "priceNote": [
+          "launch",
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "guide"
+        ],
+        "handover": [
+          "launch",
+          "guide"
+        ],
+        "handoverNote": [
+          "launch",
+          "guide"
+        ],
+        "units": [
+          "types",
+          "developer",
+          "plans",
+          "four",
+          "five"
+        ],
+        "facts": [
+          "brochure",
+          "community"
+        ],
+        "unresolved": [
+          "plans",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "sobha-project-36",
+  "name": "Skyscape Altius",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Skyscape Altius is an apartment tower in Sobha Hartland 2, forming part of the Skyscape collection. Its published layouts include conventional one- and two-bedroom homes alongside study-equipped variants marketed as 1.5 and 2.5 bedrooms. The developer also lists three-bedroom apartments; specification and views depend on the release and unit.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1950000,
+    "handover": "Q4 2028 · portal estimate",
+    "paymentPlan": "20/40/40 · portal-reported option",
+    "amenities": [
+      "Barbecue area",
+      "Children’s play area",
+      "Infinity pool",
+      "Jacuzzi",
+      "Library and reading room",
+      "Games room",
+      "Sports court",
+      "Yoga zone",
+      "Steam and sauna",
+      "Indoor and outdoor gym"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Realty: Skyscape Altius own page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyscape/altius",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Official Skyscape Altius brochure and layouts",
+          "url": "https://sobharealty.com/sites/default/files/2024-09/skyscape-altius-final-opp-doc%20%281%29.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Sobha Skyscape Altius",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-skyscape-altius",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated Altius page and Tower A layouts checked, distinct from Skyscape Aura/Avenue.",
+        "location": "Official page confirms Sobha Hartland 2; no unrelated waterfront neighbourhood substituted.",
+        "residences": "Study-equipped 1.5/2.5 variants distinguished from full additional bedrooms; FAQ three-bedroom scope retained.",
+        "areas": "Actual saleable-area panels inspected on pages 24/41/47; suite and balcony components differentiated.",
+        "amenities": "Own Altius page facilities checked without importing another Skyscape tower programme.",
+        "pricing": "Official AED 1.95m subject-to-inventory reference preferred to earlier portal AED 1.7m.",
+        "payment": "Portal separately lists 60/40 and 20/40/40 options; no double counting of booking between options.",
+        "handover": "Portal December 2028 estimate attributed; no current signed primary calendar retrieved.",
+        "documents": "Official 48-page brochure downloaded and numerical plan panels visually inspected; primary commercial schedule unavailable."
+      },
+      "community": "Skyscape Altius · Sobha Hartland 2",
+      "overview": [
+        "The original brochure separates suite area from balcony area and links plans to particular unit numbers and floor bands. A buyer should compare that exact plan, especially when a study/store room is marketed using a half-bedroom label."
+      ],
+      "locationNote": "The own developer page locates Altius in Sobha Hartland 2, Mohammed Bin Rashid City. Lagoon and skyline views shown in marketing are orientation-dependent.",
+      "priceLabel": "Developer-advertised starting reference · subject to stock",
+      "priceNote": "The developer page advertises AED 1.95m subject to inventory availability. Property Finder retains an earlier AED 1.7m launch headline. Different dates and selected homes explain why neither figure proves a currently allocatable unit; request a dated quotation.",
+      "paymentNote": "Property Finder shows a 60% construction/40% handover option and a separate 20% booking/40% construction/40% handover option. The displayed stages use the latter only. No current developer-dated instalment sheet was found, so dates and additional charges remain unverified.",
+      "handoverNote": "Property Finder reports December 2028, shown as Q4 2028. This is an estimate for Altius, not confirmation of a contractual delivery date or another tower’s programme.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "566.29 sq ft suite + 68.67 sq ft balcony; 634.96 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "881.13 sq ft suite + 85.68 sq ft balcony; 966.81 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2.5-bedroom Type B · two bedrooms plus study/store",
+          "area": "1,160.79 sq ft suite + 66.74 sq ft balcony; printed total 1,227.52 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported option 2",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Source rounding",
+          "value": "The Type B2.5-bedroom components add to 1,227.53 sq ft, while the brochure prints 1,227.52. The printed total is retained with this 0.01 sq ft discrepancy disclosed.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "No current primary price list, signed payment calendar, exact parking allocation or service-charge schedule was retrieved.",
+        "The portal lists up to four bedrooms, but the own developer FAQ lists up to three and the reviewed launch layouts cover smaller types. Four-bedroom scope is not adopted without its specific document.",
+        "Tower height, full current inventory, registered area and final furnishing specification need confirmation. Photos remain illustrative."
+      ]
+    }
+  }
+}

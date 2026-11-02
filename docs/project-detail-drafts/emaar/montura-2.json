@@ -1,0 +1,62 @@
+{
+  "id":"emaar-project-107","name":"Montura 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Montura 2 is a villa release at Grand Polo Club & Resort with three- and five-bedroom homes. The two bedroom categories have distinctly different layouts: three-bedroom villas occupy two floors, while the five-bedroom plans extend to a second floor. The launch fact sheet lists 206 homes.",
+    "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"3 & 5","price":5500000,"handover":"Q2 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Community clubhouse","Polo fields and stables","Fitness and sensory play areas","Soccer pitch","Tennis, padel and basketball courts","Flower farm and orchard","Meandering river landscape","Skatepark","Dog park","Jogging route","Pedestrian and cycling network","Forest walk","Art pavilion","Mini golf"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/MONTURA-2_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MONTURA-2_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Montura 2 at Grand Polo","url":"https://www.emaar.com/en/properties/montura-2-at-grand-polo","kind":"developer","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"brochure","label":"Emaar: shared Montura collection brochure","url":"https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":0},
+        {"id":"plans","label":"Emaar: Montura 2 floor plans","url":"https://www.emaar.com/cms-media/uploads/MONTURA-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Montura 2 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura-2/MONTURA2_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Montura 2 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/montura-2/PAYMENT_PLAN_MONTURA2_GP.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"finder","label":"Property Finder: Montura 2 at Grand Polo","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/montura-2-at-grand-polo","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+      ],
+      "fieldSources":{"description":["official","plans","facts"],"overview":["official"],"location":["facts","finder"],"type":["official"],"bedrooms":["official"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Own Montura 2 page, labelled plans and fact/payment sheets checked.",
+        "location":"Grand Polo Club & Resort confirmed; portal locates the release in Dubai Investment Park 2, without implying a guaranteed commute.",
+        "residences":"Three/five-bedroom villas confirmed; unsupported four-bedroom broker claims excluded.",
+        "areas":"All four image-based official plan sheets visually read, including suite, total area and floor arrangement. Category averages kept separate.",
+        "amenities":"Official phase-two amenities and own fact sheet reviewed; community-scale facilities qualified.",
+        "pricing":"Official AED 5.5m headline separated from phase-two launch prices AED 5.51m and AED 9.86m.",
+        "payment":"Own eight-stage payment sheet and matching fact-sheet table visually checked; percentages sum to 100%.",
+        "handover":"May 2029 estimate agrees between own payment document and Property Finder.",
+        "documents":"Own plans linked. Brochure hash matches Montura's previously reviewed shared brochure, so no new prose allocation is taken from that file."
+      },
+      "community":"Grand Polo Club & Resort · Montura 2",
+      "overview":["The official project page places Montura 2 within an equestrian landscape, with a community clubhouse and outdoor spaces for both sport and informal recreation. Its programme includes courts, a soccer pitch, a skatepark, gardens and a dog park. These amenities describe the wider planned setting; they should not be read as facilities already operating beside every villa."],
+      "locationNote":"Montura 2 is in Grand Polo Club & Resort, which Property Finder places within Dubai Investment Park 2. The fact sheet identifies Al Maktoum International Airport and Downtown Dubai as access destinations. Check the actual route, entrance and journey at the time you expect to travel.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar's page states AED 5.5m. The Montura 2 launch sheet gives three-bedroom villas from AED 5.51m and five-bedroom villas from AED 9.86m. These are dated published references; live inventory and individual quotes require confirmation.",
+      "paymentNote":"The original plan totals 80% before completion and 20% at completion. Two middle instalments are 15%, rather than 10%. Construction-linked dates are reproduced from the phase-two document; a later purchase needs an updated balance and schedule.",
+      "handoverNote":"May 2029 is the estimated completion month shown on the Montura 2 payment sheet and Property Finder. It remains subject to contractual terms and current developer updates.",
+      "units":[
+        {"label":"3-bedroom villa · Type 1","area":"3,015.08 sq ft total; 2,395.30 sq ft suite","sourceIds":["plans"]},
+        {"label":"3-bedroom villa · Type 2","area":"2,948.02 sq ft total; 2,340.40 sq ft suite","sourceIds":["plans"]},
+        {"label":"5-bedroom villa · Type 1","area":"5,206.18 sq ft total; 3,830.76 sq ft suite","sourceIds":["plans"]},
+        {"label":"5-bedroom villa · Type 2","area":"5,358.16 sq ft total; 4,011.81 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"December 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2026","percent":15,"sourceIds":["payment"]},
+        {"stage":"November 2026 · 20% construction","percent":15,"sourceIds":["payment"]},
+        {"stage":"August 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch mix and average areas","value":"The launch sheet lists 195 three-bedroom and 11 five-bedroom villas. Their average BUA is respectively 2,981 and 5,303 sq ft, with average plots of 5,196 and 6,127 sq ft. Counts are launch figures, not available stock.","sourceIds":["facts"]},
+        {"label":"Different floor arrangements","value":"Three-bedroom plans put all bedrooms upstairs, with a maid's room and living spaces below. Five-bedroom Type 1 adds a ground-floor guest bedroom, a fifth bedroom on the second floor and a lift shown across all three levels. Confirm lift supply and specification in the contract.","sourceIds":["plans"]},
+        {"label":"Reading the area figures","value":"Plan totals include suite, carport and balcony/terrace components. They are not plot areas or entirely internal living space; minor rounding differences occur in component sums.","sourceIds":["plans"]}
+      ],
+      "unresolved":["Current inventory, individual plot area, asking price, service charges and remaining payment obligations need confirmation.","Public launch counts can differ from later releases or registry records; the 206-home figure is specifically attributed to the reviewed launch sheet.","Confirm exact finishes, parking, lift provision for five-bedroom homes and the approved area schedule.","Delivery and access conditions for community sports, gardens and equestrian facilities remain to be checked.","Current construction progress and final handover approvals have not been independently established; images remain illustrative."]
+    }
+  }
+}

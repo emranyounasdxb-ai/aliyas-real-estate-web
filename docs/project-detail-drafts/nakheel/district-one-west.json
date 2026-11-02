@@ -1,0 +1,212 @@
+{
+  "id": "nakheel-project-06",
+  "name": "District One West",
+  "developerSlug": "nakheel",
+  "fields": {
+    "description": "District One West is a gated villa community beside the Crystal Lagoon in Mohammed Bin Rashid Al Maktoum City. Garden villas and larger lagoon-facing homes offer different layouts, levels and relationships to the water. The development is delivered in phases, so a property’s phase and architectural type matter as much as its bedroom count.",
+    "areaId": "dubai-district-one",
+    "location": "District One",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–7",
+    "price": null,
+    "handover": "2027 · phase and unit to confirm",
+    "paymentPlan": "80/20 · portal-reported launch plan",
+    "amenities": [
+      "Crystal Lagoon and beach access",
+      "Cycling and jogging routes",
+      "Parks and green corridors",
+      "Children's play spaces",
+      "Community retail",
+      "School and nursery facilities in the community plan",
+      "Mosque"
+    ],
+    "brochureUrl": null,
+    "floorPlanUrl": "https://www.buyown.house/wp-content/uploads/2024/04/district-one-villas-floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Nakheel: District One West",
+          "url": "https://www.nakheel.com/en/developments/nakheel-collections/district-one-west",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 125
+        },
+        {
+          "id": "microsite",
+          "label": "District One West developer microsite",
+          "url": "https://west.district1.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "plans",
+          "label": "District One West branded floor-plan pack, BuyOwn-hosted copy",
+          "url": "https://www.buyown.house/wp-content/uploads/2024/04/district-one-villas-floorplan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "progress",
+          "label": "Nakheel: separate phase 1 and phase 2 progress",
+          "url": "https://www.nakheel.com/en/construction-progress/district-one-west",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder: District One West commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nakheel/district-one-west",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "microsite",
+          "progress"
+        ],
+        "overview": [
+          "microsite",
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "microsite",
+          "plans"
+        ],
+        "bedrooms": [
+          "microsite",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "microsite"
+        ],
+        "price": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "portal",
+          "progress"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Current and earlier District One West phase naming reconciled; no phase silently replaced.",
+        "location": "District One within MBR City verified; unmapped area left null.",
+        "residences": "4–7 bedroom envelope supported by own earlier plans and current microsite; phase mix qualified.",
+        "areas": "Own 4-, 5-, 6- and 7-bedroom sample printed tables visually inspected; built-up versus total distinction retained.",
+        "amenities": "Developer facilities and community-scale planned services separated from private home inclusions.",
+        "pricing": "Portal price investigated but no current developer starting quote established; headline null.",
+        "payment": "Portal 20/ 60/ 20 checked to 100%; original/current phase-specific developer payment document unavailable.",
+        "handover": "March 2027 portal claim compared with two separate official phase progress sections.",
+        "documents": "42-page own earlier floor-plan pack downloaded; 4BR A1, 5BR A1, 6BR A2 and 7BR A2 plan/table screenshots visually reviewed; current brochure access requires contact form, not submitted."
+      },
+      "community": "District One West · District One · Mohammed Bin Rashid Al Maktoum City",
+      "overview": [
+        "The current developer microsite distinguishes four-bedroom Garden Villas, five-bedroom Lagoon Villas and six-bedroom Island Villas. The earlier plan pack also includes seven-bedroom Island homes. Collection labels and specifications should therefore be checked against the phase rather than assumed interchangeable.",
+        "For the four-bedroom A1 drawing, the printed built-up and total areas differ: the total additionally includes pergola garage and roof terrace areas. Neither figure is a plot size."
+      ],
+      "locationNote": "Nakheel locates District One West within Mohammed Bin Rashid Al Maktoum City, District One. The local location taxonomy has no exact Mohammed Bin Rashid City entry yet; areaId remains null.",
+      "priceLabel": "Price on request",
+      "priceNote": "A current official starting price was not found. Property Finder reports AED 12,781,571 in its FAQ but marks developer stock out of stock and does not establish a phase or currently allocatable unit. It is not promoted as a developer starting quote.",
+      "paymentNote": "Property Finder reports 20% at launch, 60% during construction and 20% handover. This totals 100% but is a portal summary, not a reviewed current signed developer schedule. Exact dates, phase and transfer balances remain to confirm.",
+      "handoverNote": "Property Finder reports March 2027. Nakheel separately tracks phase 1 and phase 2 and does not give a single contractual completion date in the reviewed progress page. The year is retained as an estimate; confirm the selected phase and unit.",
+      "units": [
+        {
+          "label": "4-bedroom Garden Villa A1 · earlier plan pack",
+          "area": "6,023.91 sq ft built-up; 6,858.76 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Garden Villa B1 · earlier plan pack",
+          "area": "5,774.08 sq ft built-up; 6,656.83 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Garden Villa A1 · earlier plan pack",
+          "area": "6,519.48 sq ft built-up; 7,091.80 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6-bedroom Mansion A2 · earlier plan pack",
+          "area": "10,918.25 sq ft built-up and total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "7-bedroom Island Villa A2 · earlier plan pack",
+          "area": "20,796.52 sq ft built-up and total area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "At sales launch · portal summary",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · portal summary",
+          "percent": 60,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover · portal summary",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Construction reporting",
+          "value": "Separate phase 1 and phase 2 updates · developer inspections 11 June 2026",
+          "sourceIds": [
+            "progress"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current availability, official unit prices and current payment dates were not verified.",
+        "Earlier seven-bedroom Island layouts must not be confused with later six-bedroom Island collection names.",
+        "A directly downloadable current brochure and phase 2 plan PDF could not be inspected; only the accessible earlier 42-page plan pack is attached.",
+        "Completion, service charges, final included finishes and registered unit/plot areas require phase-specific documents.",
+        "The earlier seven-bedroom Island A2 table contains an inconsistent covered-garage square-foot conversion and component sum. The printed 20,796.52 sq ft total is transcribed, not independently certified or silently recalculated; obtain the corrected plan and registered area."
+      ]
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "aldar-project-01",
+  "name": "Yas Riva Reserve",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Yas Riva Reserve is Aldar's gated collection of 292 four- to six-bedroom villas beside the water northeast of Yas Island. Inland and waterfront homes form separate groups, with gardens and a community clubhouse connecting the neighbourhood. It is a distinct release from the original Yas Riva development.",
+    "areaId": null,
+    "location": "Northeast waterfront opposite Yas Riva",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 7900000,
+    "handover": "Q3 2030 · broker-reported estimate",
+    "paymentPlan": "50/50 advertised plan",
+    "amenities": [
+      "Residents' clubhouse",
+      "Swimming pools",
+      "Fitness and yoga spaces",
+      "Children's play areas",
+      "Library and study lounge",
+      "Cycling and jogging tracks",
+      "Gardens and picnic spaces",
+      "Padel courts",
+      "Canal viewing deck",
+      "Community retail",
+      "Mosque"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/31104307fc4c4ad59c3d31186e7487b5.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/83bc4764d16f47c29db06827d68ba5b3.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Yas Riva Reserve",
+          "url": "https://www.aldar.com/properties/en/yasrivareserve",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "launch",
+          "label": "Aldar launch announcement, 18 September 2026, hosted by ADX",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5500505",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "presentation",
+          "label": "Aldar Yas Riva Reserve sales presentation, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/31104307fc4c4ad59c3d31186e7487b5.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "Yas Riva Reserve floor plans, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/83bc4764d16f47c29db06827d68ba5b3.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Yas Riva Reserve fact sheet, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/24bb41619fcc4f23b001439ca4b6fe72.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "impala",
+          "label": "Impala Real Estate: Yas Riva Reserve schedule",
+          "url": "https://impalarealestate.com/projects/yas-riva-reserve/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "official"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official",
+          "launch",
+          "facts"
+        ],
+        "units": [
+          "presentation"
+        ],
+        "documents": [
+          "presentation",
+          "plans",
+          "facts"
+        ],
+        "paymentPlan": [
+          "presentation",
+          "official"
+        ],
+        "handover": [
+          "impala"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "292-villa Reserve release confirmed independently of original Yas Riva's 151 homes.",
+        "location": "Official launch locates it northeast of Yas Island opposite Yas Riva with a planned bridge; no exact existing area ID assumed.",
+        "residences": "Official four/six-bedroom range and inland/waterfront mix checked against phase-specific documents.",
+        "areas": "Presentation's own GSA/plot table visually reviewed; figures are configuration averages, not individual plan guarantees.",
+        "amenities": "Official page and launch release reviewed; no automatic pontoon entitlement inferred.",
+        "pricing": "Current official 7.9m differs from dated 8.5m launch announcement; both disclosed.",
+        "payment": "Presentation's nine-stage table visually checked and percentages total 100.",
+        "handover": "Q3 2030 corroborated on broker page; not stated as a confirmed date by the official project page.",
+        "documents": "Own Reserve presentation, factsheet and seven-page plans located; four-bedroom drawing visually reviewed. Original Yas Riva brochure rejected. Duplicate presentation copy not allocated a second word budget."
+      },
+      "community": "Yas Riva Reserve",
+      "overview": [
+        "The landscape links the villas with walking routes, recreation space and the residents' club. Indoor exercise, study areas and children's facilities complement outdoor pools and courts. These are planned community amenities; access conditions and delivery dates should be checked against the chosen home."
+      ],
+      "locationNote": "Aldar places the community northeast of Yas Island, directly opposite Yas Riva, with a new bridge planned to connect it to the island. This wording is retained instead of assigning an unverified neighbourhood pin.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "The current official page starts at AED 7.9m. Aldar's 18 September 2026 announcement instead quoted AED 8.5m at launch. The fact sheet lists inland five/six-bedroom references of AED 9.3m/10.5m and waterfront five/six-bedroom references of AED 13.3m/14.5m. Confirm today's available villa and final quotation.",
+      "paymentNote": "The reviewed presentation schedules 5% at booking, five further 5% instalments, two 10% instalments and 50% at handover. These advertised terms require confirmation in the buyer's contract.",
+      "handoverNote": "Impala reports Q3 2030. The reviewed Aldar landing page does not publish a completion quarter, so this remains a broker-reported estimate requiring developer confirmation.",
+      "units": [
+        {
+          "label": "4-bedroom inland villa",
+          "area": "437 sq m average GSA; 711 sq m average plot",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "5-bedroom inland villa",
+          "area": "482 sq m average GSA; 828 sq m average plot",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "6-bedroom inland villa",
+          "area": "538 sq m average GSA; 936 sq m average plot",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "5-bedroom waterfront villa",
+          "area": "552 sq m average GSA; 802 sq m average plot",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "6-bedroom waterfront villa",
+          "area": "609 sq m average GSA; 1,294 sq m average plot",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "August 2027",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "January 2028",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "June 2028",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "November 2028",
+          "percent": 5,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "April 2029",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "September 2029",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release composition",
+          "value": "247 inland and 45 waterfront villas. These describe the development, not currently unsold stock.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Published service-charge references",
+          "value": "The presentation quotes AED 6.21 per sq ft for 2030 and AED 6.33 for 2031. Confirm the chargeable area, approvals and the advertised five-year waiver's eligibility and exclusions.",
+          "sourceIds": [
+            "presentation",
+            "official"
+          ]
+        },
+        {
+          "label": "Advertised incentives",
+          "value": "The official page advertises a five-year service-charge waiver and 2% ADM fee waiver. Applicability, expiry and exclusions need written confirmation.",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "Waterfront flexibility",
+          "value": "The launch release describes the option to incorporate a pontoon. It does not establish that every waterfront purchase includes an installed pontoon or unrestricted mooring rights.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Layout example",
+          "value": "The four-bedroom inland drawing has ground and first floors, with separate family and formal living areas downstairs. Confirm the chosen layout and whether the illustrated pool is included.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current unit availability, contract price and which advertised incentives apply.",
+        "Confirm the legal plot address, bridge programme and permitted waterfront/mooring rights.",
+        "Completion quarter, current construction progress and final service-charge arrangements need developer confirmation.",
+        "Plan illustrations do not independently confirm pool installation, furniture, finishes or exact plot dimensions; images on this site remain illustrative."
+      ]
+    }
+  }
+}

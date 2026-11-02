@@ -1,0 +1,321 @@
+{
+  "id": "wasl-project-03",
+  "name": "Nine Collective",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Nine Collective is Wasl’s 215-home tower in Wasl 1, Al Kifaf, beside Zabeel Park. Its collection includes two- to four-bedroom apartments, three- and four-bedroom duplexes and five-bedroom duplex penthouses. Maid’s rooms and fitted kitchens are specified, with larger layouts offering distinct living and outdoor arrangements.",
+    "areaId": "dubai-al-kifaf",
+    "location": "Al Kifaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–5",
+    "price": 4400000,
+    "handover": "Q2 2030 · secondary target",
+    "paymentPlan": null,
+    "amenities": [
+      "Family and children’s pools",
+      "Sky infinity pool",
+      "Gym and outdoor fitness deck",
+      "Spa and sauna",
+      "Indoor padel court",
+      "Cinema room",
+      "Private dining spaces",
+      "Family hub and play areas",
+      "Rooftop lounge",
+      "Retail and dining outlets"
+    ],
+    "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_BROCHURE_EN.pdf",
+    "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_UNIT_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Nine Collective project page",
+          "url": "https://www.wasl.ae/en/project/wasl-1/nine-collective",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "kit",
+          "label": "Wasl Nine Collective public document library",
+          "url": "https://www.wasl.ae/en/nine-collective/broker-kit",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brochure",
+          "label": "Nine Collective · current linked brochure",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_BROCHURE_EN.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "Nine Collective · current individual unit plans",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_UNIT_PLANS.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "floorplates",
+          "label": "Nine Collective · whole-building floor plates",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-03/KIFAF_NINE_COLLECTIVE_FLOOR_PLANS.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Nine Collective · linked factsheet",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-02/KIFAF_NINE_COLLECTIVE_FACT_SHEET_3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "dxb",
+          "label": "DXB Residence Nine Collective · dated secondary reference",
+          "url": "https://dxbresidence.com/en/projects/nine-collective/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "launch",
+          "label": "Wizi Nine Collective · 24 October broker launch account",
+          "url": "https://wizipremium.com/projects/nine-collective-wasl-al-kifaf.html",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "alternative",
+          "label": "Binayah Nine Collective · conflicting payment terms",
+          "url": "https://www.binayah.com/dubai-projects/payment-plan/nine-collective-by-wasl-properties/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "bayut-listing",
+          "label": "Bayut Nine Collective · broker launch listing",
+          "url": "https://www.bayut.com/property/details-14491650.html",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure",
+          "plans"
+        ],
+        "floorPlanUrl": [
+          "brochure",
+          "plans"
+        ],
+        "units": [
+          "brochure",
+          "plans"
+        ],
+        "facts": [
+          "brochure",
+          "plans"
+        ],
+        "unresolved": [
+          "brochure",
+          "plans"
+        ],
+        "price": [
+          "dxb",
+          "launch",
+          "bayut-listing"
+        ],
+        "priceLabel": [
+          "dxb",
+          "launch",
+          "bayut-listing"
+        ],
+        "priceNote": [
+          "dxb",
+          "launch",
+          "bayut-listing"
+        ],
+        "paymentPlan": [
+          "launch",
+          "alternative",
+          "dxb"
+        ],
+        "paymentStages": [
+          "launch",
+          "alternative",
+          "dxb"
+        ],
+        "paymentNote": [
+          "launch",
+          "alternative",
+          "dxb"
+        ],
+        "handover": [
+          "dxb",
+          "bayut-listing",
+          "developer"
+        ],
+        "handoverNote": [
+          "dxb",
+          "bayut-listing",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected03NineCollective actualownpage215homes withinWasl1/AlKifaf. Primary current76pbrochure74facts215 andexactmix110two+54three+41four+3threedup+3fourdup+4PH=215. Brokerreported218DLDnotadoptedwithoutprimaryregistry. OtherWaslprojectheadingsnotused.",
+        "location": "OwnprimaryFAQ expresslyWasl1AlKifaf adjacentZabeelPark andMaxMetro; exactregistrydubai-al-kifaf. No coordinate/traveltimeortransportopeningassumptions. FreeholdownFAQconfirmed, eligibilitypersonalnotpromised.",
+        "residences": "Currentownkit supplies76pbrochure,38punitplans,30pfloorplates. All30numericpanels38punitplans visuallyread,27older73pbrochure also compared. Currentadds separate3BRB8 and4duplexA2 drawings. Full2BRoldp39/current3,3BRcurrent9,4BR18,3duplex13/14,4duplex25/26 and5PH32/33/34/35 read. Wholeduplexvaluesrepeatnotdouble. FivePHBfull5bedlayoutconfirmednotreclassifiedsolelyarea5533.",
+        "areas": "Allcurrent30actualnumericpanels3–7,9–11,13–16,18–23,25–30,32–37read. Printedtotals2BR1948.48–3141.66,3BR3103.67–3121,3dup4201.69–4274.49,4BR4065.96–4279.84,4dup5437.82–5724.25,5PH5533.08–8238.48. Factsheetdifferentallfamilyrangesexplicitunresolved. Type2BRA2large3141.66andC2terrace2799.26notomit. Unitplans4duplexp25lowerA1tableA2/1904,upperp26A1/1101 mismatch; sameA2p27 repeats. XXXfloorcomponentsnotfilled. 3BRB5suite2712+balcony397=3109vsprinted3105;2BRB2sqm175.9+26.94=202.84vsprinted197.84; sourceunrepaired. Genericallunitsnotcontractualareas.",
+        "amenities": "OwnmainFAQandactualcurrentbrochure27confirmgym/fitnessspa/sauna/pools/padelcinema/diningfamilyhubrooftopretail. Actualcurrentbrochure74districtcooling,3B+G+44andkitchenappliances. No currentoperationalstatusorunitparkingassumed, no guaranteedviews.",
+        "pricing": "BrokerDXB29Oct2026andWizi24Oct plusBayut9Marchlisting all4.4m starting2BRreference; primaryownpage/PDFno price. Headlineexplicitbrokerlaunchreference, currentquoteunverified. No claimedstock/EOIeligibilityorservicechargeapplied. Higherfamiliesbroker7.4/10/17.7/20.7/28mnotpresentedasavailablequotes.",
+        "payment": "Owncurrentkitcontainsbrochure/facts/unit/floorplans/images only, no paymentdocument. SecondaryDXB5/35/60 matchesWizi24Oct7fivecalendar2027Janthrough2030Jan. Binayah5/45/50different, portalBayut50/50. HeadlineNULL, tabledatedbrokerreference100, no inventedprimaryclaims/fees.",
+        "handover": "Ownprimarypage/currentPDFnohandoverdate. DXB29OctQ22030 andBayutlistingQ22030 corroboratebrokerApril2030reference; quarterlabelsecondarytargetnotofficialcompletionpromise. No inferredcurrentprogress. Selectedhomecontractunverified.",
+        "documents": "PublicownkitordinaryNodefetch200revealedactualMarchCDNURLs; currentbrochure76p24577647bytes/unitplans38p8164070bytes/floorplates30p6621908bytes. OlderindexedFebruary73p24578181bytes staleformat readfirst, no separatewordpoolclaimed. Broker39pbrochure/36pplansmirroralso200notaddedfacts. Currentunit30numericalpanelvisualread≤1800px plusfullfamilydrawings andfacts74/amenities27. Overlappingallbrochure/plans/facts/mirrorspool200total50+150+0+0, ownpage180. Noforms/auth/bypass, imagesdeferred."
+      },
+      "community": "Wasl 1",
+      "overview": [
+        "The development is freehold; Wasl also describes an allocation for eligible first-time buyers, subject to programme and unit conditions."
+      ],
+      "locationNote": "Within Wasl 1 in Al Kifaf, beside Zabeel Park, Dubai.",
+      "priceLabel": "Broker launch reference · current quote unverified",
+      "priceNote": "Dated broker references quote AED 4.4m for the entry two-bedroom. No current official unit quotation was retrieved.",
+      "paymentNote": "The table follows the 24 October broker reference, not a developer payment document. Binayah instead publishes 5/45/50; confirm the selected home’s signed terms.",
+      "handoverNote": "Q2 2030 is a secondary-source target. Wasl’s retrieved project page and documents do not establish a completion date.",
+      "units": [
+        {
+          "label": "2BR apartment · printed total",
+          "area": "1,948.48–3,141.66 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR apartment · printed total",
+          "area": "3,103.67–3,121 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex · whole home",
+          "area": "4,201.69–4,274.49 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR apartment · printed total",
+          "area": "4,065.96–4,279.84 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex · whole home",
+          "area": "5,437.82–5,724.25 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR duplex penthouse · whole home",
+          "area": "5,533.08–8,238.48 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Broker reference · booking",
+          "percent": 5,
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "stage": "Broker reference · January / July 2027, 2028, 2029 and January 2030 (seven 5% instalments)",
+          "percent": 35,
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "stage": "Broker reference · handover",
+          "percent": 60,
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published mix",
+          "value": "215 homes: 110 two-bedroom, 54 three-bedroom, 41 four-bedroom, six duplexes and four duplex penthouses.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Building configuration",
+          "value": "3B+G+44; district cooling.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Kitchen specification",
+          "value": "Integrated cooker, dishwasher, fridge and washing/drying machine.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The factsheet’s area ranges differ from the individual drawings, including a five-bedroom Type B printed at 5,533.08 ft² below the factsheet minimum. Use contractual drawings.",
+        "Some columns do not add up; four-bedroom duplex headings and apartment tables also conflict and contain XXX placeholders. Printed whole-home totals are retained without repair.",
+        "Current stock, official prices, service charges, unit parking, construction status and final contracts remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

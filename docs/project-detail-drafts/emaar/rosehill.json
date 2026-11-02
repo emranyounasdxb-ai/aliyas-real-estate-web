@@ -1,0 +1,67 @@
+{
+ "id":"emaar-project-36","name":"Rosehill","developerSlug":"emaar",
+ "fields":{
+  "description":"Rosehill is an apartment development on the golf-course side of Dubai Hills Estate. One, two and three bedroom homes are paired with landscaped courtyards, pools and sports spaces. Balconies and terraces vary considerably between blocks and floors, so the specific layout matters as much as the bedroom count.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1756888,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Padel court","Half basketball court","Table tennis","Yoga deck","Botanical garden","Outdoor gym","Indoor children’s play space","Outdoor wet and dry play areas","BBQ areas","Communal lounge and seating deck","Event lawn and landscaped courtyards"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/ROSEHILL_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ROSEHILL_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Rosehill at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/rosehill-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Rosehill brochure","url":"https://www.emaar.com/cms-media/uploads/ROSEHILL_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans-b","label":"Emaar: Rosehill Block B floor plans","url":"https://www.emaar.com/cms-media/uploads/ROSEHILL_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"plans-a","label":"Rosehill Block A plans · Tohid Fetrat-hosted Emaar copy","url":"https://tohidfetrat.com/wp-content/uploads/2026/07/Rosehill_Dubai_Hills_Estate_Floor_Plans_Tohid_Fetrat.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"facts","label":"Rosehill launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/rosehill/ROSEHILL_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":135},
+    {"id":"payment","label":"Rosehill payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/rosehill/ROSEHILL_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Rosehill completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/rosehill-by-emaar","kind":"portal","checkedOn":"2026-10-31","derivedWords":40},
+    {"id":"registry-report","label":"Mitchell’s: dated Rosehill registry report","url":"https://www.mitchellscommercialrealty.com/off-plan/rosehill","kind":"broker","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans-b","plans-a"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official"],"units":["plans-a","plans-b"],"documents":["official","plans-a"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Rosehill official project page and branded documents reviewed; block scope checked explicitly.",
+    "location":"Official brochure map places the development in Dubai Hills Estate near the golf course and community services.",
+    "residences":"One to three bedroom apartments confirmed. A/B plans reviewed separately; no townhouse product inferred.",
+    "areas":"All 30 official Block B pages and 20 broker-hosted Block A pages examined; A ground-floor 3BR visually verified. Broker link described all blocks but file only contains A. Block C plans unavailable in reviewed downloads.",
+    "amenities":"Official page and brochure support project pools, sports, play and communal spaces. Half basketball court wording follows brochure.",
+    "pricing":"Current official units-from AED 1,756,888 distinguished from rounded AED 1.6m historical entry and type-specific launch figures.",
+    "payment":"Branded payment PDF visually checked: booking plus seven 10% instalments and final 20%, with four construction milestones.",
+    "handover":"June 2029 estimated completion corroborated by Property Finder, shown as reported Q2 2029.",
+    "documents":"Official brochure and Block B plans linked, separate Block A source attributed. Launch versus reported registry counts disclosed, not conflated."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["Rosehill’s brochure treats outdoor space as part of the residential experience: planted courtyards, places to sit, a pool deck and areas for children to play. Its mix of padel, half basketball, table tennis and outdoor fitness gives the scheme a more active side too. Golf-course views are advertised for selected terraces; they should be checked against the chosen block, floor and orientation rather than assumed across every home."],
+   "locationNote":"The official location map shows Dubai Hills Golf Course, Dubai Hills Mall, Dubai Hills Park, GEMS International School and King’s College Hospital within the surrounding community. Al Khail Road and Umm Suqeim Street provide the wider road context. Distances and actual journey times vary by route and traffic.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s live page displays units from AED 1,756,888, alongside older starting-price wording of AED 1.6 million. The current published entry figure is shown here; a unit-specific quotation and availability check are still required.",
+   "paymentNote":"The launch plan totals 80% before completion and 20% on estimated completion. Several early dates have passed, so this schedule is historical context rather than a new booking offer. Check the outstanding balance and applicable milestones for the selected unit.",
+   "handoverNote":"The branded payment sheet gives June 2029 as estimated construction completion; Property Finder reports the same month. Current construction status and the contractual handover terms need confirmation.",
+   "units":[
+    {"label":"Block A · 1 bedroom apartment","area":"693.84–822.79 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"Block A · 2 bedroom apartment","area":"1,186.83–1,535.69 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"Block A · 3 bedroom apartment","area":"1,743.86–2,071.84 sq ft total area","sourceIds":["plans-a"]},
+    {"label":"Block B · 1 bedroom apartment","area":"740.88–844.32 sq ft total area","sourceIds":["plans-b"]},
+    {"label":"Block B · 2 bedroom apartment","area":"1,081.02–1,364.86 sq ft total area","sourceIds":["plans-b"]},
+    {"label":"Block B · 3 bedroom apartment","area":"1,656.46–1,798.75 sq ft total area","sourceIds":["plans-b"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection and pricing","value":"The launch sheet lists 353 homes: 197 one bedroom, 118 two bedroom and 38 three bedroom apartments, with entry prices of AED 1.6m, AED 2.31m and AED 3.56m respectively. These are dated launch figures, not remaining stock or current offers.","sourceIds":["facts"]},
+    {"label":"Different count scopes","value":"Mitchell’s October 2026 registry report describes 555 homes across Blocks A, B and C, compared with 353 in the launch sheet. The difference needs developer clarification; neither figure is presented as current availability.","sourceIds":["registry-report","facts"]},
+    {"label":"Balcony versus internal area","value":"All table totals include balcony space. For example, Block A Type 1E unit G03 has a 1,491.99 sq ft suite and 579.85 sq ft balcony, totalling 2,071.84 sq ft. Its plan includes a maid’s room and separate laundry.","sourceIds":["plans-a"]},
+    {"label":"Document scope","value":"The official floor-plan download reviewed is Block B. The separately linked Block A pack has different layouts and size limits. The launch fact-sheet ranges closely match B, so they should not be used as limits for A.","sourceIds":["plans-b","plans-a","facts"]}
+   ],
+   "unresolved":["Block C floor plans and unit-specific dimensions were not available in the reviewed downloads; no range has been inferred from A or B.","Reconciliation of the 353-home launch sheet with the 555-home broker-reported registry total.","Current unit availability, actual view, price, parking allocation and outstanding payment schedule.","Service charges, final material/appliance specifications, construction progress and contractual handover.","Official project imagery is deferred; existing photographs remain illustrative."]
+  }
+ }
+}

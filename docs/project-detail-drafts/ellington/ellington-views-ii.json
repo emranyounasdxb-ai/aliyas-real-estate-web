@@ -1,0 +1,221 @@
+{
+  "id": "ellington-project-25",
+  "name": "Ellington Views II",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Ellington Views II is the separate second release at Al Hamra in Ras Al Khaimah. Its East and West towers contain studios and one- to three-bedroom apartments, including study layouts and terrace-heavy homes, with shared beach, fitness and entertainment facilities.",
+    "areaId": "rak-al-hamra-village",
+    "location": "Al Hamra Village",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 2160828,
+    "handover": "Q1 2027 · portal target",
+    "paymentPlan": "50/50 · published reference",
+    "amenities": [
+      "Beach club pool",
+      "Beach access",
+      "Fitness studio",
+      "Landscaped gardens",
+      "Rooftop terrace",
+      "Mini golf",
+      "Cinema room",
+      "Children’s play area"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-ii/ELLINGTON_VIEWS_II_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-ii/ELLINGTON_VIEWS_II_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Views II own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ellington-views-ii-ras-al-khaimah",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brief",
+          "label": "Views II branded project brief · broker-hosted · 61 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-ii/ELLINGTON_VIEWS_II_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Views II branded plans · broker-hosted · 30 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-ii/ELLINGTON_VIEWS_II_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Views2 · launch and target",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-views-2",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "construction",
+          "label": "Ellington Views II developer construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Ellington_Views_II&lang=en&projectn=Ellington%20Views%20II&url=https://ellingtonproperties.ae/?p=40849",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "plans"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "brief",
+          "finder"
+        ]
+      },
+      "community": "Al Hamra Village",
+      "overview": [
+        "Published parking: one space for studios through 2BR, two for 3BR. AED 14/ft² is an anticipated service charge."
+      ],
+      "locationNote": "Al Hamra, Ras Al Khaimah, near the golf course and marina. Views II is distinct from Views I; the selected apartment determines outlook and terrace area.",
+      "priceLabel": "Portal launch reference · not a current offer",
+      "priceNote": "Property Finder’s FAQ gives AED 2,160,828, rounded to AED 2.2 million in its launch hero. The developer types are marked out of stock; this reference is not a current offer.",
+      "paymentNote": "Branded phase-II terms total 100%. Separate charges: AED 3,000 registration fee and 4% completion title registration. Confirm the selected agreement.",
+      "handoverNote": "Property Finder targets March 2027. No completion certificate or binding selected-unit delivery date was retrieved.",
+      "units": [
+        {
+          "label": "Studio types 1 / 2 / 3",
+          "area": "465.32 / 523.23 / 475.12 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR types 1 / 2 / 3 / 4 / 5",
+          "area": "1,121.17 / 1,037.21 / 933.66 / 933.66 / 973.05 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR types 1 / 2",
+          "area": "1,445.92 / 1,402.32 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + study types 1 / 2 / 3",
+          "area": "1,445.92 / 2,718.10 / 1,530.19 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + study types 1 / 2 / 3",
+          "area": "2,264.08 / 3,392.46 / 2,329.20 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "90 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "180 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 50,
+          "sourceIds": [
+            "brief"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Some printed component sums differ by 0.01 ft²; published totals are retained. Study rooms are not additional bedrooms.",
+        "Current availability, contractual handover, approved charges, title/parking terms, furnishing inventory and facility operation require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact phase II; own page body and correctly titled phaseII documents, no phaseI schedule transferred.",
+        "location": "Own page AlHamraRAK; brief4visualsite map reviewed.",
+        "residences": "All studio through3BR families verified from phaseII plans; main webpage summarises only1–3BR.",
+        "areas": "All16 numerical panels plans14–29 visually inspected, all family rows retained; study not an extra bedroom.",
+        "amenities": "Own phaseII main page, brief amenity levels and diagrams reviewed; no guaranteedoperation.",
+        "pricing": "PFFAQ2160828 and2.2mroundedhero; launchnotcurrentquote.",
+        "payment": "PhaseII brief60 visually reviewed:90/180days,20+6x5+50=100. Fees separate.",
+        "handover": "PFMarch2027 explicitlyportalforecast; noactualhandoverinferred. Own gallery reviewed through October 2026; gallery dates are not completion certificates.",
+        "documents": "Broker-hosted61pageownbrandedbrief and30pageplans reviewed. All overlapping publicderivedpool200:brief100/plans100; sharedI/IIgenericparking/feeclauses compact."
+      }
+    }
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "id": "rak-properties-project-05",
+  "name": "Enta Mina",
+  "developerSlug": "rak-properties",
+  "fields": {
+    "description": "Enta Mina combines private homes with shared workspaces, developed with HIVE and A.R.M Holding.",
+    "areaId": "rak-hayat-island",
+    "location": "Hayat Island",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": "Q1 2028",
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Flexible workspace",
+      "Restaurant and café",
+      "Residents’ lounge",
+      "Library",
+      "Hosting room with kitchen",
+      "Fitness centre",
+      "Infrared sauna and cold plunge",
+      "Pool and outdoor lounge",
+      "Promenade and barbecue areas"
+    ],
+    "brochureUrl": "https://www.rakproperties.ae/wp-content/uploads/2025/05/ENTA_BROCHURE_2026.pdf",
+    "floorPlanUrl": null,
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Enta Mina: developer project page",
+          "url": "https://www.rakproperties.ae/our-properties/enta-mina/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "launch",
+          "label": "Enta Mina: developer launch, 23 May 2025",
+          "url": "https://www.rakproperties.ae/news/rak-properties-grows-residential-portfolio-offering-with-the-launch-of-enta/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "Enta Mina: 2026 original brochure",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/ENTA_BROCHURE_2026.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "older",
+          "label": "Enta Mina: earlier original brochure",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/ENTA-Mina-Brochure-Desktop-compressed.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        },
+        {
+          "id": "facts",
+          "label": "Enta Mina: original factsheet",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/Enta_Factsheet.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "mirror",
+          "label": "Enta Mina: branded presentation hosted by Property Finder",
+          "url": "https://new-projects-media.propertyfinder.com/project/f3fe3754-b0bf-4ab3-8446-4963ecccdac2/brochure/application/n87ng3dZPxeBxv4CqYnmqG7RdUXlqMrk7cVy7TekI-Q%3D/original.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "portal",
+          "label": "Enta Mina: Property Finder project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/rak-properties/enta-mina-residences",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "bayut",
+          "label": "Enta Mina: Bayut project guide",
+          "url": "https://www.bayut.com/for-sale/apartments/ras-al-khaimah/mina-al-arab/enta-mina/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        }
+      ],
+      "community": "Hayat Island",
+      "overview": [
+        "Compare balcony sizes."
+      ],
+      "locationNote": "Hayat Island, within Mina; confirm shared-facility access.",
+      "priceLabel": "Request a current unit quotation",
+      "priceNote": "Property Finder captures vary between AED 896,000 and 960,000, with AED 889,000 in descriptive text. No primary current quotation was verified.",
+      "paymentNote": "Primary: 10% down, 50 / 50. Property Finder: earlier 10 / 40 / 50; later 30 / 70. Bayut: 15 / 35 / 50. Confirm terms.",
+      "handoverNote": "Primary target: Q1 2028; Property Finder’s January date is not contractual.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "348–452 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR A",
+          "area": "699–981 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "766–996 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR",
+          "area": "1,189–1,418 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · primary factsheet",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Construction · earlier portal reference",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · earlier portal reference",
+          "percent": 50,
+          "sourceIds": [
+            "facts",
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Edition count",
+          "value": "Website: 120 homes. Brochure families: 51 studios, 51 one-bedroom and 17 two-bedroom homes, totalling 119.",
+          "sourceIds": [
+            "developer",
+            "brochure",
+            "launch"
+          ]
+        },
+        {
+          "label": "Tenure reference",
+          "value": "Property Finder lists freehold; confirm title eligibility and charges.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Totals include balconies; some studios have none. Website minimum 347 sq ft differs from the brochure’s 348.",
+        "The older mirrored calendar renders illegibly. Binding instalment dates, management terms and service charges remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected05EntaMina retained. Primary23May2025launch JVHIVE/A.R.MHolding/RAK; nooperatorownershipsharesinvented. Currentown120 vslaunch119; 2026broch51studio+34oneA+17oneB+17two=119 explicit. Not60IRJV-equityshare misread asphysicalunitcount.",
+        "location": "Actualownfacts magnifiedlocation readsHayatIslandwithinMina, exactcentralrak-hayat-island. No coordinates/directprivatebeach title inferred. Primarytravel45minDubai marketingnotadopted. SharedMina corporatecopy0.",
+        "residences": "Actual2026brochure whole4familydrawings31/33/34/37 viewed1700px, onelevelstudio/oneA/oneB/two. Earlierownbrochure24p contacts14–17sameactualgeometry/ranges corroborated; notextra inventory. Studios0outdoor isexplicitso nofalse everyhomebalcony promise.",
+        "areas": "Actual2026tablesstudio348internal+0–104balcony348–452;1A647+52–334=699–981;1B662+104–334=766–996;two980+209–438=1189–1418. Wholeownprintedtotals nolevelmultiplication. Currentown347minimumversusactualbroch348 disclosed. Mirror23p10–13 tables corroborativecontacts only; currentclearprimary prevails overbrokenfonttable.",
+        "amenities": "Ownmain lists9amenitycategories. Actualfacts magnifiednetwork supportsservices; facts statespool/outdoor/promenade/BBQ sharedaccesswithneighborHIVE, publiccaveatnotunconditionalexclusiveproperty. Furnishing moveinready prose not interpreted ascontractfullyfurnished package.",
+        "pricing": "Primaryownpage/facts/current43p/older24p noverified price. FreshPF launch896k/description889k conflict, Bayut896k corroborateslaunchbasis; ownheadlineNULL. No resellerselectedquoteasprojectmin. IndependentreviewerfreshPF960k vsauthoractualcapture896k, body889k; explicitcapturevariationnoheadline.",
+        "payment": "Actualmagnifiedownfacts10down/50-50/Q12028. FreshPF10+40+50=100; Bayut15+35+50=100 downpaymentconflict disclosed. OriginalPF23pbrandedpage15 containsgarbledglyphs onactualrender; indexedtextsuggested8dated5percentrows/15serviceestimate notadoptedwithoutlegibleactualcalendar. No manufactured dates. SharedallversionsPDFpool100broch10older40facts50mirror=200. IndependentfreshPF sameURLcapture now30construction70handover vsauthoractualwebcapture10/40/50; publicbothscopesclear, tableearlierreferenceonly. No4%fee/waiver adoption.",
+        "handover": "PrimaryowncurrentandactualfactsQ12028, PFJanuary2028 notbindingday. Ownpage multipledifferentconstructionpercentsundated; notclaimedmonthlyprogress orcompletion. No certificatefound.",
+        "documents": "Currentownnormalpublichrefs43pbrochure/onepagefacts retrieved200,older24pownexactindexedURL200 andPF23pmirror200. Actualwhole4currentnumericsviewed plusoldcontactsandfactslargecroppedpayment/location/amenities. No dedicatedownfloorplanPDFpublichref: DownloadFloorplanlinks samebrochure, floorPlanUrlNULL. Allnumericdrawingsaccessiblebroch. Noform/bypass; genericIR0."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "areaId": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "location": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "emirate": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "community": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "locationNote": [
+          "developer",
+          "launch",
+          "facts"
+        ],
+        "type": [
+          "brochure",
+          "facts"
+        ],
+        "bedrooms": [
+          "brochure",
+          "facts"
+        ],
+        "overview": [
+          "brochure",
+          "facts"
+        ],
+        "units": [
+          "brochure",
+          "facts"
+        ],
+        "unresolved": [
+          "brochure",
+          "facts"
+        ],
+        "amenities": [
+          "developer",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "developer"
+        ],
+        "price": [
+          "portal",
+          "bayut"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "portal",
+          "bayut"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts",
+          "portal",
+          "bayut"
+        ],
+        "paymentStages": [
+          "facts",
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "facts"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "brochure",
+          "launch",
+          "portal"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "danube-project-18",
+  "name": "Fashionz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Fashionz is a FashionTV-branded Danube apartment development in Jumeirah Village Triangle, with studio to three-bedroom layouts and fashion-led shared spaces.",
+    "areaId": "dubai-jvt",
+    "location": "Jumeirah Village Triangle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1513000,
+    "handover": null,
+    "paymentPlan": "30/70 · milestones unverified",
+    "amenities": [
+      "Rooftop pool lounge",
+      "Spa",
+      "Salon",
+      "Fitness centre",
+      "Kids’ play area",
+      "Outdoor cinema",
+      "Business centre",
+      "Mini golf"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/Fashionz.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/fashionz/floor-plans/d8b4267fa73c32ab.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Fashionz own project page",
+          "url": "https://danubeproperties.com/portfolio/fashionz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Fashionz developer-hosted brochure · 28 pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2024/03/Fashionz.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Fashionz branded 18-page unit pack · public broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/fashionz/floor-plans/d8b4267fa73c32ab.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Fashionz project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/fashionz-by-danube",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "construction",
+          "label": "Danube internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/fashionz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "official-plans",
+          "label": "Danube public floor-plan folder ZIP · own branded phase drawings",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/fashionz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "factsheet",
+          "label": "Danube public phase-specific factsheet folder ZIP · English factsheet visually checked",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/fashionz/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer",
+          "factsheet"
+        ],
+        "type": [
+          "developer",
+          "official-plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "official-plans"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "factsheet"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "units": [
+          "official-plans"
+        ],
+        "facts": [
+          "plans",
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Fashionz page, FashionTV-labelled brochure and exact branded plan pack read; not another Danube phase.",
+        "location": "Own page and brochure map establish Jumeirah Village Triangle; a dedicated existing location mapping was not assumed. No exact coordinates or measured travel promise used.",
+        "residences": "Official studio to three-bedroom mix and 788 apartments. Plan pack includes ordinary, executive and presidential variants; private pools not generalized.",
+        "areas": "18-page image-only plan contact reviewed; full numeric panels 3/9/12/14 at 1700 px visually read. Printed totals separated from apartment and balcony ranges; not recomputed by pairing extrema.",
+        "amenities": "Own named rooftop pool lounge, spa, salon and fitness concept checked against actual 28-page brochure contact. No operating/contractual entitlement implied.",
+        "pricing": "Official live heroAED 1513000 starting guide used; portal 830 K/830496 launch figures are older different reference, not adopted as current minimum. No selected-unit quote or inventory assumed.",
+        "payment": "Own 30/70 headline conflicts retained 1%section/FAQ. PF 10/54/1/35 separate reference, with 100%arithmetic; no dated official milestone breakdown retrieved.",
+        "handover": "Own heroJuly 2027 versus own FAQJuly 2026; PFJuly 2027 headline butMarch 2026 FAQ. Dates conflict; card null rather than treating elapsed forecasts as delivered. Own 30 September 2026 internal construction statement 47% reviewed; no completed handover inferred.",
+        "documents": "Official 28-page brochure and public Madena 18-page branded unit plans successfully downloaded and visually checked. No forms, media changes or gated downloads. Subsequently retrieved the visible public official collateral floor-plan folder ZIP; compared actual own numeric panels. The broker PDF remains a direct PDF mirror link, not the primary numerical authority. Own English two-page factsheet retrieved from visible public ZIP; actual page 2 visually checked. Promotional financial/ROI claims excluded."
+      },
+      "community": "Jumeirah Village Triangle",
+      "overview": [
+        "Danube describes Fashionz as a FashionTV-branded residential development and lists 788 apartments. That project figure does not establish current developer or resale stock.",
+        "The amenity concept includes a rooftop pool lounge, spa, salon and branded fitness spaces. Public drawings distinguish ordinary and presidential layouts; private pools apply to selected units."
+      ],
+      "locationNote": "Jumeirah Village Triangle, Dubai. Indicative marketing access routes are not measured walking distances or guaranteed journey times.",
+      "priceLabel": "Developer starting guide",
+      "priceNote": "Danube’s current project hero displays AED 1,513,000. Property Finder carries an older launch reference of about AED 830,000. Neither is a verified current offer for a selected unit; availability and terms need confirmation.",
+      "paymentNote": "The developer hero displays 30/70, while its lower section and FAQ retain 1% monthly. Property Finder separately lists 10% booking, 54% construction, 1% at handover and 35% afterward. No current official milestone sheet reconciles these references. Confirm the exact unit’s contract, dates and charges.",
+      "handoverNote": "Danube’s hero lists July 2027 but its FAQ says July 2026. Property Finder’s headline also says July 2027, while its FAQ retains March 2026. These estimates are inconsistent; actual completion and contractual delivery remain unverified.",
+      "units": [
+        {
+          "label": "Studio Type A",
+          "area": "433–434 ft² printed total / 335–336 apartment / 97–99 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type A · office",
+          "area": "849–873 ft² printed total / 596–610 apartment / 253–264 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A · pool",
+          "area": "1,070–1,078 ft² printed total / 891–894 apartment / 177–186 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · pool and maid’s room",
+          "area": "1,468–1,472 ft² total / 1,188 apartment / 280–284 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Layout-specific features",
+          "value": "The sampled Type A one-bedroom drawing includes an office; Type A two- and three-bedroom examples show a pool. These features are specific to the illustrated units.",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "Dated developer progress",
+          "value": "Danube reports 47% overall progress from its internal inspection on 30 September 2026. This is a dated developer statement, not independent completion certification.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Printed area ranges span multiple units and include balconies; they are not enclosed-space measurements or a complete availability schedule.",
+        "Current contractual completion, milestone dates, handover status, booking charges, parking, service/cooling fees, title terms and furniture inventory remain unverified.",
+        "Branded amenity concepts are not proof of operation, third-party service contracts or automatic access for every unit. Images remain illustrative."
+      ]
+    }
+  }
+}

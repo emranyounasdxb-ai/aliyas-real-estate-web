@@ -1,0 +1,277 @@
+{
+  "id": "bloom-project-05",
+  "name": "Bloom Living Almeria",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Almeria is Bloom Living’s seventh release, comprising three- to six-bedroom villas. Ground-floor entertaining spaces, upstairs family rooms and separate service rooms shape the layouts, while the developer describes a lakeside setting.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": null,
+    "handover": "Q4 2027",
+    "paymentPlan": "Post-handover plan",
+    "amenities": [
+      "Gym",
+      "Swimming pools",
+      "Children’s play areas",
+      "Community centre",
+      "Walking and cycling tracks"
+    ],
+    "brochureUrl": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+    "floorPlanUrl": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "unit-3",
+          "label": "Bloom · Almeria 3-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/3-bedrooms-almeria",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "unit-4",
+          "label": "Bloom · Almeria 4-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/four-bedrooms-almeria",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "unit-5",
+          "label": "Bloom · Almeria 5-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/five-bedrooms-almeria",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "unit-6",
+          "label": "Bloom · Almeria 6-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/six-bedrooms-almeria",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "launch",
+          "label": "Bloom · Almeria seventh-phase launch",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-almeria-seventh-phase-bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Bloom · Almeria original brochure and four villa plans",
+          "url": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "community",
+          "label": "Bloom Living · shared community location and amenities",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Almeria secondary payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties-llc/almeria-serene-lakeside",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "community": "Bloom Living",
+      "overview": [
+        "Use the selected home’s approved schedule: webpage and brochure areas differ for larger villas."
+      ],
+      "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+      "priceLabel": "Request a selected-home quotation",
+      "priceNote": "Original launch: AED 3.7m. Current 5BR and 6BR pages show AED 6.481m and AED 8.591m; 3BR and 4BR cards are marked sold out. No selected-unit availability is verified.",
+      "paymentNote": "Current developer: 5% booking, 35% construction, 40% handover, 20% over one year afterward. Property Finder instead lists 10/40/30/20; confirm the applicable contract.",
+      "handoverNote": "Q4 2027 is the developer’s completion target, corroborated by Property Finder; actual delivery is unverified.",
+      "units": [
+        {
+          "label": "3BR",
+          "area": "2,734 ft² / 254 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR",
+          "area": "3,399 ft² / 316 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5BR",
+          "area": "4,588 ft² / 426 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR · printed total",
+          "area": "5,511 ft² / 512 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "unit-5"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 35,
+          "sourceIds": [
+            "unit-5"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "unit-5"
+          ]
+        },
+        {
+          "stage": "One-year post-handover",
+          "percent": 20,
+          "sourceIds": [
+            "unit-5"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Phase",
+          "value": "Seventh Bloom Living release.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Brochure 6BR total is 5,511 ft²/512 m², but floors sum to 5,537 ft²/514 m²; current webpage says 5,506 ft².",
+        "Brochure 4BR is 3,399 ft²; current webpage rounds to 3,400 ft².",
+        "Plot sizes, binding dates, charges and selected-home specifications require confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-05 Bloom Living Almeria. Own seventh-phase launch confirms3–6BR villas, not5–6BR-only portal shorthand or unrelated Spanish Almeria. No canonical/media edits.",
+        "location": "Own exact launch and unit body ZayedCity/BloomLiving/AbuDhabi. Registry abu-dhabi-zayed-city. Excluded false Nogbase AlJaddafDubai location, no coordinates or guaranteed commute.",
+        "residences": "Own original31p brochure all4 actual numeric/fullGF+FF families8/10/12/15 visually read1700px. Main3/4 cards SoldOut,5/6 categoryguides not verified inventory. Staff/driver rooms not counted extra bedrooms. Public describes internal arrangement based actualwholeplans notimaginedamenity.",
+        "areas": "Visible3BR1432+1302=2734ft2,133+121=254m2;4BR1892+1507=3399,176+140=316;5BR2607+1981=4588,242+184=426. Visible6BRGF3047/283+FF2490/231=5537/514 but printedtotal5511/512. Hidden text has5537 too; adoptedvisibleprinted5511 onlywithexplicitconflict. Currentown6from5506 differsagain,4from3400 vsPDF3399. No silent repair, noMarbella4607/5500 borrowed, wholetotal once, plotnotinferredfromgarden.",
+        "amenities": "Own phase icons and shared community supportgym/pools/childrenplay/centre/tracks. Genericunderlyingcopy20 forthisrecord/group60total. No guaranteed privatepool, furniture/landscapeindicative, premiumupgradeuniversalclaimomitted.",
+        "pricing": "Own primary launch historical3.7m/PFsame; own current5category6481000/6category8591000,3/4 cardsSoldOut. HeadNULLavoidobsolete3BRlaunchascurrentavailablemin. No actualunitID/datedquote/currentstock/servicechargeverified. Secondary3.85/4.4mnotadoptedasnewminimum.",
+        "payment": "Own currentallfour5+35+40+20=100; last20 one-yearposthandover. PF10+40+30+20=100 separatehistorical/secondaryguide, notoverwritten. No primarydatedpaymentcalendarPDFretrieved; no assumedinstalmentdates. HeadPost-handoverplanwithnotesavoidambiguous50/50category.",
+        "handover": "Own launchQ42027 andPFDecember2027corroborate. Forecastnotactualdelivery/occupancy. Publicationdate notinventedfromcrawler2.2years. No allBloomLivingmasterdateapplied.",
+        "documents": "Own primaryrootobservedPDFURL ordinaryGET2007186996bytes31pages. All4numericpanels/fullfamiliesactuallyviewed, PDFremainingpagesreviewedtextonlynotclaimedvisualall. Own4unitHTMLordinaryGET200 retained; no forms/VRsubmissions. Exact3slug3-bedrooms-almeria discoveredviaactualKnownablelink, guessedthree404notbypassed. RelatedPDFversions/mirrors200poolincludesallpublicunits/unresolved/description;fourprimaryphasepagescombined20030/20/80/70;launch100;generic20;portal60."
+      },
+      "fieldSources": {
+        "type": [
+          "unit-5"
+        ],
+        "bedrooms": [
+          "unit-5"
+        ],
+        "priceLabel": [
+          "unit-5"
+        ],
+        "paymentPlan": [
+          "unit-5"
+        ],
+        "paymentStages": [
+          "unit-5"
+        ],
+        "description": [
+          "launch",
+          "brochure"
+        ],
+        "areaId": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "amenities": [
+          "community",
+          "unit-5"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community",
+          "launch"
+        ],
+        "overview": [
+          "brochure",
+          "unit-6"
+        ],
+        "price": [
+          "launch",
+          "unit-3",
+          "unit-4",
+          "unit-5",
+          "unit-6"
+        ],
+        "priceNote": [
+          "launch",
+          "unit-3",
+          "unit-4",
+          "unit-5",
+          "unit-6"
+        ],
+        "paymentNote": [
+          "unit-5",
+          "portal"
+        ],
+        "handover": [
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "launch",
+          "portal"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "launch"
+        ],
+        "unresolved": [
+          "brochure",
+          "unit-4",
+          "unit-6"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      }
+    }
+  }
+}

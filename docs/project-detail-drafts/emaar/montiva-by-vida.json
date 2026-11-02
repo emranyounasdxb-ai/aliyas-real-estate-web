@@ -1,0 +1,62 @@
+{
+ "id":"emaar-project-40","name":"Montiva by Vida","developerSlug":"emaar",
+ "fields":{
+  "description":"Montiva by Vida is a collection of one to three bedroom branded apartments in Green Gate, Dubai Creek Harbour. The proposed design pairs a sculptural tower and light-filled communal spaces with landscaped gardens, an infinity pool and a children’s splash zone. Park and golf-course outlooks form part of the developer’s positioning, with the actual view depending on the home.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1916888,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity pool","Children’s pool and splash zone","Indoor gym and outdoor fitness","Yoga zone","Multipurpose room","Landscaped podium and play area","Community park and plaza","Community sports courts and running track","Community table tennis and badminton","Community lawn and BBQ areas","Community climbing wall and skate park","Promenade retail setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/MONTIVA-BY-VIDA_brochure.pdf","floorPlanUrl":"https://petkovicproperties.com/wp-content/uploads/2025/08/Emaar-Montiva-Floor-plan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Montiva by Vida at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/montiva-by-vida-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Montiva by Vida brochure","url":"https://www.emaar.com/cms-media/uploads/MONTIVA-BY-VIDA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Montiva full floor-plan pack · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/08/Emaar-Montiva-Floor-plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"official-plans","label":"Emaar: Montiva selected floor plans","url":"https://www.emaar.com/cms-media/uploads/montiva-by-vida-at-dubai-creek-harbour-floor-plans.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":35},
+    {"id":"facts","label":"Montiva fact sheet · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/08/Emaar-Montiva-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"payment","label":"Montiva payment plan · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/08/Emaar-Montiva-Payment-plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Montiva at Emaar Green Gate","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/montiva","kind":"portal","checkedOn":"2026-10-31","derivedWords":45}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans","official-plans"],"documents":["brochure","plans","official-plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Montiva by Vida page confirmed, separate from other Vida-branded developments.",
+    "location":"Green Gate district within Dubai Creek Harbour confirmed in brochure map and text.",
+    "residences":"Official page, brochure and plans support one to three bedroom apartments. Stock-only portal summaries do not define the full mix.",
+    "areas":"All numeric schedules in separately hosted 21-page branded plan pack read. Official nine-page raster pack first page visually cross-checked at 754.87 sq ft. Three-bedroom plan visually reviewed.",
+    "amenities":"Residential podium facilities distinguished from wider Green Gate amenities in brochure and fact sheet.",
+    "pricing":"Developer units-from AED 1,916,888 recorded separately from launch type prices.",
+    "payment":"Own branded sheet read and visually checked; launch stages sum to 100% with 30/50/70/90% construction triggers.",
+    "handover":"September 2029 payment-sheet estimate corroborated by PF.",
+    "documents":"Official brochure and selected plans retained as sources; full plan pack linked with broker-hosted attribution. Images unchanged."
+   },
+   "community":"Green Gate · Dubai Creek Harbour",
+   "overview":["The brochure presents Green Gate as a landscaped residential district, with parkland, a central plaza and spaces for sport and play. Within Montiva, the emphasis moves to the lobby, shared interior spaces and the podium deck. This creates two different amenity scales: facilities serving the building and destinations distributed through the wider neighbourhood. A buyer comparing homes should check that distinction, alongside the size of the private balcony or terrace and the orientation of the selected apartment."],
+   "locationNote":"Montiva sits in Green Gate within Dubai Creek Harbour. The brochure map relates the district to Creek Beach, the promenades, marina and central park. It also refers to future Blue Line metro connectivity; this is planned infrastructure, not confirmation of an operating station at the development. Travel times and walking routes require an up-to-date check.",
+   "priceLabel":"Developer-published units from",
+   "priceNote":"Emaar publishes units from AED 1,916,888. The launch fact sheet lists rounded starting prices of AED 1.91m for one bedroom, AED 2.82m for two and AED 4.01m for three. Actual available units and current pricing require confirmation; the published range is not a stock guarantee.",
+   "paymentNote":"The launch sheet splits payments into 10% booking, seven further 10% instalments and 20% at estimated completion. Its early dates have passed. Obtain a current unit-specific payment statement rather than treating the historic schedule as a fresh offer.",
+   "handoverNote":"September 2029 is the estimated completion month in the payment document and is corroborated by Property Finder. Contractual handover and the latest progress remain subject to confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"754.87–1,260.77 sq ft total area","sourceIds":["plans","official-plans"]},
+    {"label":"2 bedroom apartment","area":"1,143.12–1,758.39 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,834.82–1,910.81 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published residential mix","value":"474 apartments: 234 one bedroom, 193 two bedroom and 47 three bedroom homes. This describes the launch collection, not unsold stock.","sourceIds":["facts"]},
+    {"label":"Terrace area changes the comparison","value":"The one-bedroom Type 6A totals 1,260.77 sq ft, including a 441.21 sq ft terrace. The two-bedroom Type 4A totals 1,758.39 sq ft, including a 651.86 sq ft terrace. Compare suite area as well as the overall headline size.","sourceIds":["plans"]},
+    {"label":"Three-bedroom arrangement","value":"The reviewed upper-floor plan totals 1,834.82 sq ft: 1,471.32 sq ft suite and 363.50 sq ft balconies. It includes a maid’s room, laundry, powder room and a separate master-bedroom suite.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current availability, price, parking allocation, service charges, final specifications and Vida-related service arrangements.","The developer’s current size widget covers a narrower selection than the full launch plans; it should not replace the complete apartment range.","Current construction progress, contractual handover and remaining instalments.","Delivery and access arrangements for wider community facilities and future transport infrastructure.","Project imagery remains deferred; existing photography is illustrative."]
+  }
+ }
+}

@@ -1,0 +1,4114 @@
+{
+  "developerSlug": "deyaar",
+  "projects": [
+    {
+      "id": "deyaar-project-01",
+      "slug": "dwtn-residences",
+      "developerSlug": "deyaar",
+      "name": "DWTN Residences",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": "DWTN Residences brings apartments, duplexes, penthouses and a single Royal Palace to Business Bay. Deyaar organises its shared spaces around six vertical settings, from the arrival lobby and family facilities to workspaces and a sky pool.",
+      "areaId": "dubai-business-bay",
+      "location": "Business Bay",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–5",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Family and children’s pool",
+        "Cinema",
+        "Gym",
+        "Yoga studio",
+        "Golf simulator",
+        "Business centre",
+        "Podcast studio",
+        "Infinity pool"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-FLOORPLANS.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-01"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar DWTN Residences project page",
+            "url": "https://www.deyaar.ae/en/properties/dwtn-residences/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 130
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar construction update · DWTN",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "DWTN official brochure · 69 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 35
+          },
+          {
+            "id": "plans",
+            "label": "DWTN official floor plans · 60 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-FLOORPLANS.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "factsheet",
+            "label": "DWTN branded factsheet · broker-hosted copy",
+            "url": "https://naauv.com/projects/21/brochures/22",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          },
+          {
+            "id": "payment",
+            "label": "DWTN branded original payment sheet · broker-hosted copy",
+            "url": "https://naauv.com/projects/21/brochures/24",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "royal",
+            "label": "Royal Palace branded brochure · broker-hosted copy",
+            "url": "https://naauv.com/projects/21/brochures/26",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder DWTN dates and commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/dwtn-residences",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "alternative",
+            "label": "EZRE later post-handover offer · broker, unconfirmed amendment",
+            "url": "https://ezre.ae/projects/dwtn-residences/payment-plan",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 35
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "portal"
+          ],
+          "location": [
+            "portal"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "plans"
+          ],
+          "community": [
+            "portal"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "overview": [
+            "brochure",
+            "construction"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal"
+          ],
+          "paymentPlan": [
+            "payment",
+            "alternative"
+          ],
+          "paymentNote": [
+            "payment",
+            "alternative"
+          ],
+          "handover": [
+            "construction",
+            "portal"
+          ],
+          "handoverNote": [
+            "construction",
+            "portal"
+          ],
+          "units": [
+            "plans"
+          ],
+          "paymentStages": [
+            "payment"
+          ],
+          "facts": [
+            "brochure"
+          ],
+          "unresolved": [
+            "plans",
+            "factsheet",
+            "developer"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Deyaar own mainpage69pbrochure60pplans and public media library confirm exactDWTN. No transfers from Regalia orDubaiProperties. Publicmedia Arabic-floorplan version separately listed, not used as new facts.",
+          "location": "Ownmain golden triangle and actualbrochure14 identify surroundings; PF confirms exactBusinessBayregistry. No inventedcoordinates or travel times.",
+          "residences": "All54 actualnumericpanels read,42distinctfamilies afterrepeatedfloorvariantstotal. Palace actualground57 has reception/kitchens/maid, first58fourbedrooms, second59master=5 actualbedrooms. Headline1–5 includesPalace, ownmain1–4 onlymarketsordinarymix. WholeduplexandPalacetotalsnotmultiplied.",
+          "areas": "Actualnumericcontacts1/7/13/19/25/31/37/43/49/55allread; full3/22/33/50/53/54/55/57/58/59 representativegeometry. 1BRF1777+137=914vs913;3BRC1575+233=1808vs1807;2BRmaidduplexD2035+341=2376vs2375;B31669+241=1910vs1909. Printedtotalsretained; factssheet8versionrangesexplicitlydiffer.",
+          "amenities": "Ownmain namedfacilities; actualbrochure21 sixecosystemleveldiagram reviewed. Omittedsuperlatives/tallestrank/healthpromises/guaranteedviews. Planned110floors445m primarybrochure7readactual.",
+          "pricing": "Noowncurrentpricelist. FreshPF2.1mroundedlowest vsNAAUV2.272m vsEZRE2.0965m differingstock/time; headlinepriceNULL. Noassumptionthatcurrentunitexists.",
+          "payment": "Actual1pbrandedJune2025payment andfacts16 visuallyread:10+10+six5+50=100; originalcalendar displayed as historical. PF10/40/50compatible; laterEZRE70/30posthandover notconfirmedprimary, notblended. HeadlinepaymentNULL.",
+          "handover": "OwncurrentconstructionQ42029 vsPFDec2030 conflicting. Forecastnotactualcompletion, headlineNULL. Sharedconstruction20wordsincludingdate/progress. No actualcompletioncertificate.",
+          "documents": "Allown4publicPDFsretrieved200 rootmanifest; DWTN69p/60p usedhere. BrokerpublicNAAUVfacts17p/payment1p/Royal35pretrieved200 ordinaryGET; correctlybrokerkind. Royalduplicates13114interior butno newarea;0newderivedwords, notbudgetreset. Alloverlappingdocumentspool200:brochure35plans100facts40payment25. Independent actualvisual/source/copy review PASS; publicPDFconservative194/200."
+        },
+        "community": "Business Bay",
+        "locationNote": "Business Bay, close to Sheikh Zayed Road and Downtown Dubai.",
+        "overview": [
+          "Planned mix: 432 apartments, 76 duplexes, 13 penthouses and one Royal Palace; these are design counts, not available stock.",
+          "The developer targets Q4 2029; shoring preparation and design coordination are underway."
+        ],
+        "priceLabel": "Current quotation required",
+        "priceNote": "Property Finder displays a rounded AED 2.1m starting reference. No current official unit quotation was retrieved.",
+        "paymentNote": "Original 50/50 calendar below. A later broker advertises 30% post-handover for duplexes and penthouses; no developer amendment was retrieved.",
+        "handoverNote": "Developer Q4 2029 differs from Property Finder December 2030. Obtain the selected home’s contractual date.",
+        "units": [
+          {
+            "label": "1BR · A–F/F1",
+            "area": "765–913 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR · A/B",
+            "area": "1,210–1,335 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR + maid · seven types",
+            "area": "1,100–1,367 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR + maid · eight types",
+            "area": "1,641–2,202 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR duplex · A/B",
+            "area": "1,607–1,783 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR + maid duplex · ten types",
+            "area": "1,410–2,718 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR + maid duplex · A/B",
+            "area": "3,343–3,448 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR penthouse · A",
+            "area": "4,741 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR penthouse · A/B",
+            "area": "5,286–5,964 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Royal Palace · three levels",
+            "area": "17,791 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · original terms",
+            "percent": 10,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "30 Nov 2025",
+            "percent": 10,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "30 Apr 2026",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "31 Oct 2026",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "30 Apr 2027",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "31 Oct 2027",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "30 Apr 2028",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "31 Oct 2028",
+            "percent": 5,
+            "sourceIds": [
+              "payment"
+            ]
+          },
+          {
+            "stage": "Handover · original terms",
+            "percent": 50,
+            "sourceIds": [
+              "payment"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Design scale",
+            "value": "110 floors · 445m",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Plans and factsheet differ: 1BR 765/764 minimum; 3BR 2,202/2,203 maximum; 3BR duplex 3,448/3,451 maximum; 3BR penthouse 4,741/4,740; 4BR penthouse 5,286–5,964/5,540 entry; Royal Palace 17,791/18,330 ft².",
+          "Printed component sums vary by 1 ft². Whole-home duplex and Palace areas must not be multiplied by floor count.",
+          "Current availability, official revised payment terms, parking allocations, service charges and certified delivery remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-02",
+      "slug": "aya-beachfront-residences",
+      "developerSlug": "deyaar",
+      "name": "AYA Beachfront Residences",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "AYA is Deyaar’s beachfront collection of apartments, garden homes, duplexes, penthouses and villas on Umm Al Quwain’s Al Khor waterfront.",
+      "areaId": "uaq-al-khor-waterfront",
+      "location": "Al Khor Waterfront",
+      "emirate": "Umm Al Quwain",
+      "type": "Apartment",
+      "bedrooms": "Studio–5",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Cinema",
+        "Club room",
+        "Gym",
+        "Children’s splash pad",
+        "Pool and Jacuzzi",
+        "Residents’ lounge",
+        "Rooftop pool",
+        "Yoga studio"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/Aya-Floor-Plans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-02"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar AYA project guide",
+            "url": "https://www.deyaar.ae/en/properties/aya-beachfront-residences/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update · AYA",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "AYA official English brochure · 66 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "plans",
+            "label": "AYA official floor plans · current 33-page pack",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/Aya-Floor-Plans.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 95
+          },
+          {
+            "id": "earlier",
+            "label": "AYA earlier official 31-page floor-plan pack",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/02/Deyaar_Aya_Floorplans.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          },
+          {
+            "id": "facts",
+            "label": "AYA branded summer-offer factsheet · broker-hosted, 32 pages",
+            "url": "https://cdn.geniemap.net/upload/14/e7/c5/5d/50f272ba-9173-46a7-946d-621e01ae0f51.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder AYA historical commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/aya-beachfront-residences",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 95
+          },
+          {
+            "id": "broker",
+            "label": "Tanami later AYA payment offers · unconfirmed amendments",
+            "url": "https://www.tanamiproperties.com/Projects/AYA-Beachfront-Residences-by-Deyaar-PaymentPlan",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "brochure",
+            "plans"
+          ],
+          "areaId": [
+            "brochure"
+          ],
+          "location": [
+            "brochure"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "brochure"
+          ],
+          "locationNote": [
+            "brochure",
+            "portal"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "plans"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal",
+            "broker"
+          ],
+          "handover": [
+            "construction",
+            "portal"
+          ],
+          "handoverNote": [
+            "construction",
+            "portal"
+          ],
+          "paymentPlan": [
+            "facts",
+            "portal",
+            "broker"
+          ],
+          "paymentNote": [
+            "facts",
+            "portal",
+            "broker"
+          ],
+          "paymentStages": [
+            "facts"
+          ],
+          "overview": [
+            "construction"
+          ],
+          "units": [
+            "plans",
+            "earlier"
+          ],
+          "facts": [
+            "brochure",
+            "facts"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "unresolved": [
+            "plans",
+            "earlier",
+            "developer",
+            "facts"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "OwnDeyaarAYApage and66pEnglishbrochure/33pcurrentplans reviewed; publicWPmedia31pearlieroriginalplans and33pFebruarymirror/66poldbrochure also retrieved200. NoAYAAbuDhabi/Dubaicopy adopted despitebrokerlocationerrors.",
+          "location": "Ownmain UmmAlQuwain;brochure40 specificallyAlKhorwaterfront, exactnewuaq-al-khor-waterfront registry; no guessedcoordinates. PFAlRaudahadministrativeindexnotassumedcontradiction orseparateproject. Maintravelclaimsnotadopted.",
+          "residences": "All26currentnumericpanels/19families readactual. Allmultileveldrawings21–31 actual inspected:3BRduplexoneground/twoupper,4BRduplexoneground/threeupper,5BRbeachvillamastermezzanine/fourfirst,4BRskyoneground/threeupper;maidnotbedroom. OwnmainStudio–3excludesactual5BRvilla; headlineStudio–5supportedactualplans. Noassumedavailableunits.",
+          "areas": "Currentactual26numericpanels plusearlier31pallnumericpanels visuallyread. Current33pincludes369studio,2158twoBRsimplex and9854fiveBRvilla;earlier31p1820twoBRsimplex+extra1480twoBRsimplexA/2289threeBRsimplexA. Earlierdrawingslabeledseparately. L-B2BR1146+584=1730vs1729;4BRduplexA2835+2507=5342vs5341;5BRvilla5539+4316=9855vs9854;severalsquaremetresumerrorsretained. Wholeareasnotmultiplied.",
+          "amenities": "Ownmain namedcinema/club/gym/kidssplash/pools/Jacuzzi/lounge/yoga. Actualbrochure9/28/36/49/58/60 andfacts3/24/27read;37700amenityspaceplannednotpublicpark. Smarttechnology/appliances inbrochure but noinventedcertification/healthoutcomes.",
+          "pricing": "No officialcurrentpricelist retrieved. PF exact1095000historic headline1.1m,broker696499latestentry vsold1084050dependsproduct/time, currentpriceNULL ratherthan mixingstudioand1BR. No investmentreturn claims.",
+          "payment": "Actualbranded32pfactsheet29 visuallyread exclusiveSUMMERoffer30/70:10booking,10Dec312025,10Dec312026,70Dec312027=100. Historicalnotcurrent. PFmain5/25/40/30versusFAQ5/35/60, Tanamilater5/5/10/10/70or40+30posthandover unconfirmedamendments;headlineNULL. Expired3yearmanagementbenefitnotmarketedaslive.",
+          "handover": "OwnconstructionQ42027vsPFJune2028conflicting,headlineNULL. Own100% specificallyshoring/enablingandservicerelocation, notwholeprojectcompletion. Publicconstructionderivedcopywithin20. No certificationfound.",
+          "documents": "Own66p/33pcurrentPDFsprimary;31pearlier/33pFebruarymirror/66poldbrochureprimarypublicWPmedia. Broker32pfacts retrievedordinarypublicGETcorrectlybrokerkind. Sourcesincludingversionsallpool200(25brochure95currentplans40earlier40facts). Earliercurrentmirrorduplicate0newallocation. RenderedactualnumericsnotcorruptPDFtextextraction; cleanUTF8publiccopy."
+        },
+        "community": "Al Khor Waterfront",
+        "locationNote": "Al Khor waterfront, Umm Al Quwain; Property Finder indexes the project under Al Raudah.",
+        "overview": [
+          "Shoring and service relocation completed; main works pending."
+        ],
+        "priceLabel": "Current official quotation required",
+        "priceNote": "Property Finder’s historical entry reference is AED 1,095,000. Later broker prices cover different products; none confirms today’s developer stock.",
+        "paymentNote": "Historical summer-offer calendar, not a current offer. Portal headline 5/25/40/30 differs from its FAQ 5/35/60.",
+        "handoverNote": "Developer target Q4 2027; Property Finder June 2028. Confirm the contractual date.",
+        "units": [
+          {
+            "label": "Studio",
+            "area": "369 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR · S/L",
+            "area": "662–743 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR · four apartment types",
+            "area": "1,067–1,729 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR simplex",
+            "area": "2,158 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR · S/L-A/L-B",
+            "area": "1,420–2,138 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR simplex",
+            "area": "2,417 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR duplex",
+            "area": "4,702 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR duplex · A/B",
+            "area": "4,628–5,341 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "5BR beach villa",
+            "area": "9,854 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "4BR sky villa",
+            "area": "7,563 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR penthouse · A/B",
+            "area": "4,606–6,874 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Earlier 2BR simplex",
+            "area": "1,820 ft²",
+            "sourceIds": [
+              "earlier"
+            ]
+          },
+          {
+            "label": "Earlier 2BR simplex-A",
+            "area": "1,480 ft²",
+            "sourceIds": [
+              "earlier"
+            ]
+          },
+          {
+            "label": "Earlier 3BR simplex-A",
+            "area": "2,289 ft²",
+            "sourceIds": [
+              "earlier"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · historical",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 Dec 2025",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 Dec 2026",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 Dec 2027 · handover",
+            "percent": 70,
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Original design",
+            "value": "442 homes · B+G+8F+R",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "Planned amenities",
+            "value": "37,700 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Current 2BR simplex: 2,158 ft²; earlier: 1,820 ft². Earlier simplex-A layouts are version-specific, not confirmed inventory.",
+          "Some printed component sums differ by 1 ft²/m². Multi-level totals describe whole homes.",
+          "Website range 369–7,500 ft² omits the five-bedroom, 9,854 ft² plan; factsheet sizes differ. Confirm approved drawings.",
+          "Current prices, payment amendments, service charges, allocated parking, inventory and delivery certification remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-03",
+      "slug": "parkfive-alder",
+      "developerSlug": "deyaar",
+      "name": "ParkFive Alder",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Alder offers one- to three-bedroom apartments, including terrace variants. Facilities occupy the podium, fifth floor and roof.",
+      "areaId": "dubai-production-city",
+      "location": "Dubai Production City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–3",
+      "price": null,
+      "handover": "Q4 2027 · developer target",
+      "paymentPlan": "10/35/55 · portal reference",
+      "amenities": [
+        "Gym and changing rooms",
+        "Kids club",
+        "Multipurpose club",
+        "Adult and children’s pools",
+        "Outdoor coworking",
+        "BBQ areas",
+        "Rooftop lounge"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Alder-Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Alder-Floorplans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-03"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar ParkFive building guide",
+            "url": "https://www.deyaar.ae/en/properties/park-five/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "Alder official brochure · 33 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/10/Alder-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "plans",
+            "label": "Alder official apartment plans · 15 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/10/Alder-Floorplans.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 16
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder Alder commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/alder-at-park-five",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "launch",
+            "label": "Deyaar final-phase announcement · 25 September 2025",
+            "url": "https://www.deyaar.ae/en/media_center/deyaar-unveils-the-final-phase-of-park-five-community-in-dubai-production-city/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "investor",
+            "label": "Deyaar Q3 2025 investor presentation · page 22",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/11/Deyaar-IR-Presentation-Q3-2025-V2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          }
+        ],
+        "overview": [
+          "Compare the terrace variants separately: their printed totals include outdoor space. The floor-plan furniture is illustrative."
+        ],
+        "community": "ParkFive",
+        "locationNote": "ParkFive, Dubai Production City.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "Property Finder shows AED 1.9m in its selected-listing headline and AED 1.1m in its older starting-price FAQ. Developer stock is labelled sold out. Neither is an authoritative current quotation.",
+        "paymentNote": "Property Finder lists 10% booking, 35% construction and 55% handover. No original developer payment sheet or unit-specific calendar was retrieved.",
+        "handoverNote": "Main contractor mobilised; enabling works complete.",
+        "units": [
+          {
+            "label": "1BR 01",
+            "area": "798 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 02",
+            "area": "780 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 03",
+            "area": "783 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 02-t",
+            "area": "947 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 01",
+            "area": "1,252 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 02",
+            "area": "1,204 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 03",
+            "area": "1,288 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 03-t",
+            "area": "1,578 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 04",
+            "area": "1,289 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 04-t",
+            "area": "1,740 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 05",
+            "area": "1,205 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 02-t",
+            "area": "1,447 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 01",
+            "area": "1,659 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 01-t",
+            "area": "1,751 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 02",
+            "area": "1,754 sq ft · printed total",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · portal reference",
+            "percent": 10,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 55,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "facts": [],
+        "unresolved": [
+          "Printed totals differ from component sums: 2BR 02 by 1 sq ft; 04-t by 10. Request corrected contractual areas.",
+          "September 2025 release: 277 homes across Ivy/Alder. Q3 investor tables: 75 Alder/210 Ivy; the combined counts differ.",
+          "Current stock, final prices, service charges, signed instalment dates and furnishing entitlements require confirmation."
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure",
+            "plans"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal"
+          ],
+          "paymentPlan": [
+            "portal"
+          ],
+          "paymentNote": [
+            "portal"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "facts": [],
+          "unresolved": [
+            "plans",
+            "launch",
+            "investor",
+            "portal"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact Alder branding on all 15 plans and 33-page brochure; distinct from Ivy.",
+          "location": "Primary ParkFive page identifies Dubai Production City; exact parent registry now available and used.",
+          "residences": "Own brochure identifies 1–3 bedrooms. All 15 plan families visually inspected, including terrace variants.",
+          "areas": "All full plan pages 1–15 visually read. 2 BR 02 prints 1,204 despite 1,054+151=1,205; 04-t prints 1,740 despite 1,078+652=1,730. Printed totals retained with warning.",
+          "amenities": "Actual brochure pages 19,21,23,25 visually read; only tower-specific facilities used.",
+          "pricing": "Current primary page publishes no price list. Portal headline1.9 m versus FAQ1.1 m and sold-out tag are qualified; price null.",
+          "payment": "Original payment sheet not retrieved after targeted primary/secondary PDF search. Portal three-stage 10/35/55 reference sums100, no inferred dates.",
+          "handover": "Current primary construction page targets Q4 2027 and says main contractor mobilised after enabling works; no completion claimed.",
+          "documents": "Official brochure33 p/plans15 p downloaded200. Numerical and tower-specific copy pool200; shared primary page20 and construction16 reserved. Q3 issuer page22 visually read; historical75+210 conflicts release277."
+        }
+      }
+    },
+    {
+      "id": "deyaar-project-04",
+      "slug": "parkfive-ivy",
+      "developerSlug": "deyaar",
+      "name": "ParkFive Ivy",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Ivy pairs studio to two-bedroom apartments with two- and three-bedroom duplexes. Amenities span the podium, eighth floor and roof.",
+      "areaId": "dubai-production-city",
+      "location": "Dubai Production City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": null,
+      "handover": "Q4 2027 · developer target",
+      "paymentPlan": "10/35/55 · portal reference",
+      "amenities": [
+        "Gym and changing rooms",
+        "Adult and children’s pools",
+        "Outdoor coworking",
+        "BBQ area",
+        "Pool deck",
+        "Rooftop garden seating",
+        "Jogging track"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-ParkFive-Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-Parkfive-Floorplans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-04"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar ParkFive building guide",
+            "url": "https://www.deyaar.ae/en/properties/park-five/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "Ivy official brochure · 33 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-ParkFive-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "plans",
+            "label": "Ivy official apartment and duplex plans · 19 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-Parkfive-Floorplans.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 140
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 16
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder Ivy commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-development/ivy-at-park-five",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 160
+          },
+          {
+            "id": "launch",
+            "label": "Deyaar final-phase announcement · 25 September 2025",
+            "url": "https://www.deyaar.ae/en/media_center/deyaar-unveils-the-final-phase-of-park-five-community-in-dubai-production-city/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "investor",
+            "label": "Deyaar Q3 2025 investor presentation · page 23",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/11/Deyaar-IR-Presentation-Q3-2025-V2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          }
+        ],
+        "overview": [
+          "Duplex totals cover both levels, including outdoor areas."
+        ],
+        "community": "ParkFive",
+        "locationNote": "ParkFive, Dubai Production City.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "Property Finder shows approximately AED 729,000 for selected listings but quotes AED 685,000 in its older launch description. Developer stock is labelled sold out. No current official quotation was retrieved.",
+        "paymentNote": "Property Finder’s main table gives 10/35/55; its FAQ instead gives 35/55/10. The table is a reference, not a confirmed unit contract. No original developer calendar was retrieved.",
+        "handoverNote": "Main contractor mobilised; enabling works complete.",
+        "units": [
+          {
+            "label": "Studio 01",
+            "area": "419 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Studio 02",
+            "area": "436 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Studio 03",
+            "area": "428 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 01",
+            "area": "810 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 02",
+            "area": "769 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 03",
+            "area": "756 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 04",
+            "area": "803 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 04-t",
+            "area": "925 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 05",
+            "area": "699 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 06",
+            "area": "874 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 07",
+            "area": "800 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR duplex 01",
+            "area": "1,830 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 01",
+            "area": "1,287 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 02",
+            "area": "1,301 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 03",
+            "area": "1,393 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 04",
+            "area": "1,180 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 05",
+            "area": "1,246 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 06",
+            "area": "1,221 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR duplex 01",
+            "area": "2,726 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · portal reference",
+            "percent": 10,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 35,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 55,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "facts": [],
+        "unresolved": [
+          "Several interior/exterior sums differ from printed totals by 1 sq ft; confirm contractual areas.",
+          "September 2025 release: 277 homes across Ivy/Alder. Q3 investor tables: 75 Alder/210 Ivy; the combined counts differ.",
+          "Current stock, price lists, final payment dates, service charges and furnishing entitlements remain unverified."
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure",
+            "plans"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal"
+          ],
+          "paymentPlan": [
+            "portal"
+          ],
+          "paymentNote": [
+            "portal"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "facts": [],
+          "unresolved": [
+            "plans",
+            "launch",
+            "investor",
+            "portal"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact Ivy branding on official 33-page brochure and19-page plans. Not Alder or sibling towers.",
+          "location": "Primary ParkFive page identifies Dubai Production City; exact parent registry now available and used.",
+          "residences": "Brochure introduction omits3 BR duplex, but actual official plan19 explicitlydraws3 BR duplex2726. All19 families adopted fromdrawings.",
+          "areas": "All19 fullplans visually read. Printed total retained despite1 sqft differences at1 BR03,04,06;2 BR04,05,06;3 BRduplex01. Separate2 BR and3 BR wholeduplex totals checked acrossbothlevels.",
+          "amenities": "Own brochure19/21/23/25 visually read. Tower-specific eighth-floor/roof facilities distinct fromAlderfifthfloor.",
+          "pricing": "No original official price list retrieved. Portal729 kselectedheadline versus685 klaunch reference,soldout. Headlineprice null.",
+          "payment": "Portal main10/35/55 totals100; contradictoryFAQ35/55/10 notadopted. Searchfoundbrandedlaunchpresentation403; notread/used. No original calendar claimed.",
+          "handover": "Current developer construction targetsQ42027 andnotescontractormobilisedafterenablingworks. Indicativeonly.",
+          "documents": "Officialbrochure33 p/plans19 p downloaded200; numericaldrawings/allfamiliesvisualchecked. Ownpool200. Sharedmain20/construction16/launch30/issuer20 reserved; no genericamenitycopy."
+        }
+      }
+    },
+    {
+      "id": "deyaar-project-05",
+      "slug": "parkfive-elm",
+      "developerSlug": "deyaar",
+      "name": "ParkFive Elm",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "Elm comprises studios and one- and two-bedroom apartments, with facilities at the podium, eleventh floor and roof.",
+      "areaId": "dubai-production-city",
+      "location": "Dubai Production City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–2",
+      "price": 1010461,
+      "handover": "Q3 2027 · current developer target",
+      "paymentPlan": null,
+      "amenities": [
+        "Gym",
+        "Coworking space",
+        "Adult and children’s pools",
+        "BBQ area",
+        "Children’s sand play area",
+        "Plunge pools",
+        "Rooftop sports area",
+        "Dog park"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/Elm_ParkFive_Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Elm_Floorplan_Tower_A_B.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-05"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar ParkFive building guide",
+            "url": "https://www.deyaar.ae/en/properties/park-five/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "Elm official brochure · 35 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/Elm_ParkFive_Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "plans",
+            "label": "Elm official Tower A/B plans · 20 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Elm_Floorplan_Tower_A_B.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 16
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder Elm historical commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/elm-at-park-five",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 120
+          },
+          {
+            "id": "factsheet",
+            "label": "Elm branded launch factsheet · broker-hosted, 8 pages",
+            "url": "https://vision-ary.com/wp-content/uploads/2025/01/Elm_Park_Five_by_Deyaar.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          }
+        ],
+        "overview": [
+          "Retrieved plans focus on floor-one homes; other-floor layouts remain unverified."
+        ],
+        "community": "ParkFive",
+        "locationNote": "ParkFive, Dubai Production City.",
+        "priceLabel": "Portal historical reference",
+        "priceNote": "Property Finder quotes AED 1,010,461 in its project description and rounds its launch headline to AED 1m. Developer stock is marked sold out. This is not a current available-unit quotation.",
+        "paymentNote": "The branded launch factsheet gives 10/40/50; this table preserves that historical split. Current unit-specific terms were not verified.",
+        "handoverNote": "Superstructure progressing; specialist contractors appointed.",
+        "units": [
+          {
+            "label": "Studio 01",
+            "area": "433 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Studio 01t",
+            "area": "463 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 1At",
+            "area": "897 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 2At",
+            "area": "1,034 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 2B",
+            "area": "778 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 03t",
+            "area": "1,739 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 2At",
+            "area": "1,760 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 2Bt",
+            "area": "1,285 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking/SPA · launch reference",
+            "percent": 10,
+            "sourceIds": [
+              "factsheet"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 40,
+            "sourceIds": [
+              "factsheet"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "factsheet"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Interior provision",
+            "value": "Home automation and built-in kitchen appliances advertised.",
+            "sourceIds": [
+              "factsheet"
+            ]
+          }
+        ],
+        "unresolved": [
+          "1BR 1At and 2BR 2At component sums differ from printed totals by 1 sq ft. Confirm contractual areas.",
+          "The launch factsheet targets summer 2027; Property Finder June 2027 predates the developer’s current Q3 target. No completed handover is established.",
+          "Plans for other floors, current official prices, payment amendments, parking allocations and service charges remain unverified."
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal"
+          ],
+          "paymentPlan": [
+            "factsheet"
+          ],
+          "paymentNote": [
+            "factsheet",
+            "portal"
+          ],
+          "paymentStages": [
+            "factsheet"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "facts": [
+            "factsheet"
+          ],
+          "unresolved": [
+            "plans",
+            "factsheet",
+            "portal",
+            "construction"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Official Elm brochure and TowerA/B plan pack clearly identified. Repeated mirrored drawings deduplicated; notEmber/Neem.",
+          "location": "Own primary placesParkFive inDubai Production City, exactparentregistry used.",
+          "residences": "Own brochurestudio/1 BR/2 BR; no3 BR familyinactualpack. Groundfloorterracevariantsnotrepresentative ofallmarketedfloors.",
+          "areas": "All20 pages visually read;16 drawing pagesinclude repeats,8 distinctprintedfamilies. 1 BR1 At599+299=898 vs897;2 BR2 At1053+706=1759 vs1760. Totalsretained.",
+          "amenities": "Own35 pbrochure19/21/23/25 visually read. Namedfacilitiesonly, noquantityclaims.",
+          "pricing": "PF exact1010461 historicalreferenceversus1 mroundedheadline,soldout; no original price list.",
+          "payment": "Actualbranded8 pfactsheetp7 visually read:10 booking/SPA40 during50 handover,Summer2027. Historicnotcurrent;later45/55 offerconflictlisted,headline paymentnull.",
+          "handover": "OwncurrentconstructionpageQ32027 supersedesPFJune2027 reference; progresssummaryreserved16 words. Originalfactsheetsummer2027 noncontractual.",
+          "documents": "Official brochure35 p/plans20 p downloaded200; branded8 p factsheet broker retrieved200. Overlap pool200(60+90+50); mirroredUltraPDFs add0. Genericmain20/construction16."
+        }
+      }
+    },
+    {
+      "id": "deyaar-project-06",
+      "slug": "parkfive-ember",
+      "developerSlug": "deyaar",
+      "name": "ParkFive Ember",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": "Ember offers studio to three-bedroom apartments. Its facilities include a cinema room, podium pools and eleventh-floor plunge pools.",
+      "areaId": "dubai-production-city",
+      "location": "Dubai Production City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": null,
+      "handover": "Q3 2027 · current developer target",
+      "paymentPlan": null,
+      "amenities": [
+        "Gym and changing rooms",
+        "Cinema room",
+        "Adult and children’s pools",
+        "Jacuzzi",
+        "Outdoor coworking",
+        "Children’s play area",
+        "BBQ areas",
+        "Plunge pools",
+        "Rooftop sports area"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/Ember_ParkFive_Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Ember_Floorplan.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-06"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar ParkFive building guide",
+            "url": "https://www.deyaar.ae/en/properties/park-five/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "Ember official brochure · 35 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/Ember_ParkFive_Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 70
+          },
+          {
+            "id": "plans",
+            "label": "Ember official apartment plans · 14 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Ember_Floorplan.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 130
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 16
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder Ember commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/ember-park-five",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 160
+          },
+          {
+            "id": "broker",
+            "label": "Palmera Ember later payment reference",
+            "url": "https://www.palmera.realestate/property/ember-at-parkfive/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          },
+          {
+            "id": "investor",
+            "label": "Deyaar Q3 2025 investor presentation · page 25",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/11/Deyaar-IR-Presentation-Q3-2025-V2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 10
+          }
+        ],
+        "overview": [
+          "The displayed plans are floor-one variants. Check the selected apartment’s floor and outdoor area before comparing total size."
+        ],
+        "community": "ParkFive",
+        "locationNote": "ParkFive, Dubai Production City.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "Property Finder’s selected-listing headline is AED 1.2m; its studio table records AED 720,000 and marks developer units out of stock. No original current price list was retrieved.",
+        "paymentNote": "Property Finder offers 10/40/50 and 10/30/60; the table below is its first reference option. Palmera advertises 10/35/55. No authoritative current unit schedule was retrieved.",
+        "handoverNote": "Superstructure progressing; specialist contractors appointed.",
+        "units": [
+          {
+            "label": "Studio 01",
+            "area": "433 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 1At",
+            "area": "875 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 2A",
+            "area": "817 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 2At",
+            "area": "942 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 1Ct",
+            "area": "1,324 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 06",
+            "area": "1,153 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 2At",
+            "area": "1,365 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 1Bt",
+            "area": "1,346 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 02",
+            "area": "1,777 sq ft · floor 1",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · portal option 1",
+            "percent": 10,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 40,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Historical issuer count",
+            "value": "200 homes · Q3 2025 table",
+            "sourceIds": [
+              "investor"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Studio 01, 1BR 1At/2A and 2BR 06 have component/total differences of 1 sq ft. Printed totals retained.",
+          "Property Finder’s June 2027 reference predates the developer’s current Q3 target. Completion is not established.",
+          "Other-floor plans, current stock, official pricing, signed instalments, service charges and furnishing terms remain unverified."
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal"
+          ],
+          "paymentPlan": [
+            "portal",
+            "broker"
+          ],
+          "paymentNote": [
+            "portal",
+            "broker"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "facts": [
+            "investor"
+          ],
+          "unresolved": [
+            "plans",
+            "portal",
+            "construction"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Own Ember branding on35 pbrochure and14 pplans; separateElm/Neem/Alder/Ivy.",
+          "location": "PrimaryParkFivepage supportsDubai Production City; exact registry used.",
+          "residences": "Brochureintroomitsstudiosbutactualofficialdrawingp3 explicitstudio433. Studio/1/2/3 drawnallninefamilies.",
+          "areas": "All14 pagesvisually read;ninefullnumericaldrawingsfloors1. Componentdiscrepancies1 sqftStudio01/1 BR1 At/1 BR2 A/2 BR06 keptprinted.",
+          "amenities": "Actualbrochure19/21/23/25 visually read(cinema/gym/pools/Jacuzzi/play/BBQ/plunge/sports). NoElmtea/Zenfeaturesinferred.",
+          "pricing": "PF1.2 mselectedversusstudio720 koutofstock;no original price list,current price null.",
+          "payment": "PFtwohistoricaloptions10/40/50 and10/30/60;laterPalmera10/35/55. Originalunitcalendarunretrieved,headline null;option1 table explicitlyreference.",
+          "handover": "CurrentprimaryQ32027;PFJune2027 earlierreference. Noactualcompletionorverifiedpercentageclaimed.",
+          "documents": "Official35 pbrochure/14 pplans200 downloaded;allnumericpanelsread. Pool200(70+130). Historicalissuerp25 visually read200 homes,notcurrentstock. Main20/construction16/issuer10 sharedbudgets."
+        }
+      }
+    },
+    {
+      "id": "deyaar-project-07",
+      "slug": "parkfive-neem",
+      "developerSlug": "deyaar",
+      "name": "ParkFive Neem",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": "Neem’s published plans include studios and one- to three-bedroom apartments, with standard balconies and larger terrace variants.",
+      "areaId": "dubai-production-city",
+      "location": "Dubai Production City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": null,
+      "handover": "Q3 2027 · current developer target",
+      "paymentPlan": null,
+      "amenities": [
+        "Gym and changing rooms",
+        "Cinema room",
+        "Adult and children’s pools",
+        "Jacuzzi",
+        "Outdoor coworking",
+        "Children’s play area",
+        "BBQ areas",
+        "Plunge pools"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Neem_Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Neem_Floor_Plans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-07"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar ParkFive building guide",
+            "url": "https://www.deyaar.ae/en/properties/park-five/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 20
+          },
+          {
+            "id": "brochure",
+            "label": "Neem official brochure · 34 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Neem_Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          },
+          {
+            "id": "plans",
+            "label": "Neem official apartment plans · 22 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Neem_Floor_Plans.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar current construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 16
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder Neem commercial references",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/neem-at-park-five",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 160
+          },
+          {
+            "id": "broker",
+            "label": "Palmera Neem later payment reference",
+            "url": "https://www.palmera.realestate/property/neem-at-parkfive/",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 40
+          },
+          {
+            "id": "investor",
+            "label": "Deyaar Q3 2025 investor presentation · page 24",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2025/11/Deyaar-IR-Presentation-Q3-2025-V2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 10
+          }
+        ],
+        "overview": [
+          "The terrace variants are single-level apartments; their totals include outdoor areas."
+        ],
+        "community": "ParkFive",
+        "locationNote": "ParkFive, Dubai Production City.",
+        "priceLabel": "Current quotation required",
+        "priceNote": "Property Finder shows an approximately AED 1.1m selected-listing headline and AED 1,011,241 older starting-price FAQ, with developer stock marked sold out. Palmera advertises a three-bedroom selection from AED 2,273,522. These are different unit references, not a verified live price list.",
+        "paymentNote": "Property Finder lists 10/30/60; the table preserves that reference. Palmera advertises 10/35/55. No original developer payment sheet or current unit contract was retrieved.",
+        "handoverNote": "Superstructure progressing; specialist contractors appointed.",
+        "units": [
+          {
+            "label": "Studio 01",
+            "area": "430 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 01",
+            "area": "760 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 02",
+            "area": "777 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 03",
+            "area": "768 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 04",
+            "area": "758 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 4T",
+            "area": "904 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR 05",
+            "area": "764 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 01",
+            "area": "1,210 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 02",
+            "area": "1,125 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 2T",
+            "area": "1,330 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 03",
+            "area": "1,148 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 04",
+            "area": "1,335 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR 05",
+            "area": "1,159 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 01",
+            "area": "1,636 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 02",
+            "area": "1,743 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 2T",
+            "area": "2,028 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR 03",
+            "area": "1,670 sq ft",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking · portal reference",
+            "percent": 10,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 30,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 60,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Historical issuer count",
+            "value": "142 homes · Q3 2025 table",
+            "sourceIds": [
+              "investor"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Studio 01, 1BR 02, 2BR 01 and 3BR 03 component sums differ from printed totals by 1 sq ft.",
+          "The brochure’s rooftop sports heading names Ember; that facility is excluded pending clarification.",
+          "Property Finder’s December 2027 reference differs from the developer’s Q3 target. Current stock, contractual dates, service charges and furnishing terms need confirmation."
+        ],
+        "fieldSources": {
+          "description": [
+            "plans",
+            "brochure"
+          ],
+          "type": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "location": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "portal"
+          ],
+          "priceLabel": [
+            "portal"
+          ],
+          "priceNote": [
+            "portal",
+            "broker"
+          ],
+          "paymentPlan": [
+            "portal",
+            "broker"
+          ],
+          "paymentNote": [
+            "portal",
+            "broker"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "units": [
+            "plans"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "facts": [
+            "investor"
+          ],
+          "unresolved": [
+            "plans",
+            "portal",
+            "construction"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "ExactNeem34 pbrochure/22 pplans. Brochurep5 genericphasecopytwotowersnotadopted. RooftopheadingEmberexcluded,nottransferred.",
+          "location": "PrimaryParkFivepageDubai Production Cityexact registry used.",
+          "residences": "Ownbrochureintro1–3 butactualofficialplanp3 studio430 explicit. All17 familiesfromactualdrawings;noportalpenthouse/townhousegenericclaimsadopted.",
+          "areas": "All22 pagesfullvisualread,17 numericfamilies;studio347+84=431 vs430;1 BR02666+112=778 vs777;2 BR011048+161=1209 vs1210;3 BR031331+340=1671 vs1670. Printedtotalsretained.",
+          "amenities": "Actualbrochure19/21/23/25 read. OwnNeemgym/cinema/pools/Jacuzzi/coworking/play/BBQ/plungeconfirmed. RecycledEmberroofathleticheadingexcluded.",
+          "pricing": "Portal1.1 mselected/1011241 historicalversusPalmera3 BR2273522 selection,notcomparableunitmix.Currentprice null,no original price list.",
+          "payment": "PF10/30/60 versusPalmera10/35/55. Nooriginalunittermssheet,headline payment null;PFscheduletablereferenceonly.",
+          "handover": "CurrentownconstructionQ32027 versusPFDecember2027 conflict. Primarytargetretainedqualified,nocompletionclaimed.",
+          "documents": "Official34 pbrochure/22 pplans200 downloaded. Full17 numericalfamiliesread. UniquePDFpool200(50+150),sharedgenericamenityderivationpooledacrossfamily; main20/construction16/IR10."
+        }
+      }
+    },
+    {
+      "id": "deyaar-project-08",
+      "slug": "rivage",
+      "developerSlug": "deyaar",
+      "name": "Rivage",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": "Rivage is Deyaar’s waterfront development on Al Reem Island, created with Arady Properties. The collection extends from conventional apartments to duplexes, Sky Villas and Sky Palaces, with shared leisure spaces arranged around the island setting.",
+      "areaId": "abu-dhabi-al-reem-island",
+      "location": "Al Reem Island",
+      "emirate": "Abu Dhabi",
+      "type": "Apartment",
+      "bedrooms": "1–5",
+      "price": 1180000,
+      "handover": "Q4 2027 · developer target",
+      "paymentPlan": "50/50 · original launch terms",
+      "amenities": [
+        "Family pool",
+        "Wellness club",
+        "Horizon lounge",
+        "Sky pool"
+      ],
+      "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/85faf71b18434fb0b62514192377b76a.pdf",
+      "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/oyGY0te4-85dkMun9iU8PpsMETA/C5zGjw/Floor%20Plans.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-08"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar Rivage project guide",
+            "url": "https://www.deyaar.ae/en/properties/rivage-by-deyaar/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 120
+          },
+          {
+            "id": "launch",
+            "label": "Deyaar Rivage launch · 5 November 2024",
+            "url": "https://www.deyaar.ae/en/media_center/deyaar-makes-abu-dhabi-debut-with-rivage-a-stunning-resort-style-waterfront-residence-on-al-reem-island/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "sold",
+            "label": "Deyaar sell-out announcement · 19 November 2024",
+            "url": "https://feeds.dfm.ae/documents/2024/Nov/19/bcd3eaa2-398a-410a-a2cf-0030bf22998f/Deyaar%20Press%20Release.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 35
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar published construction update · Rivage",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 18
+          },
+          {
+            "id": "brochure",
+            "label": "Rivage branded presentation · public broker-hosted copy",
+            "url": "https://reelly-backend.s3.amazonaws.com/project_files/85faf71b18434fb0b62514192377b76a.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "plans",
+            "label": "Rivage branded floor-plan collection · public broker-hosted copy",
+            "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/oyGY0te4-85dkMun9iU8PpsMETA/C5zGjw/Floor%20Plans.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 110
+          },
+          {
+            "id": "facts",
+            "label": "Rivage branded launch factsheet · Afdal Home copy",
+            "url": "https://afdalhome.ae/wp-content/uploads/251024-Rivage-Factsheet-Digital.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 30
+          },
+          {
+            "id": "portal",
+            "label": "Dubizzle Rivage resale-market context",
+            "url": "https://abudhabi.dubizzle.com/new-projects/deyaar/rivage/",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 35
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "launch"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer",
+            "plans"
+          ],
+          "price": [
+            "facts"
+          ],
+          "priceLabel": [
+            "facts"
+          ],
+          "priceNote": [
+            "facts",
+            "sold"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction"
+          ],
+          "paymentPlan": [
+            "brochure"
+          ],
+          "paymentNote": [
+            "brochure"
+          ],
+          "paymentStages": [
+            "brochure"
+          ],
+          "units": [
+            "plans"
+          ],
+          "overview": [
+            "sold",
+            "construction"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "unresolved": [
+            "developer",
+            "plans"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Own Rivage page and5Nov2024 release establish Deyaar/Arady AlReem project. Issuer19Nov2024 sellout is historical, not current resale stock. No Miami Rivage source adopted.",
+          "location": "Own page Al Reem Island, Abu Dhabi, beside Reem Central Park. Existing exact registry used; no broker coordinates/journey claims.",
+          "residences": "Own1–3BRapartments/duplex/SkyVillas/SkyPalaces. Actual plan layouts inspected; SkyPalaces1A/2A show4bedrooms, SkyVilla1A one lower+four upper=5, SkyVilla2A one lower+three upper=4. Maids/offices not bedrooms. Headline1–5 includes special homes not allstandardapartments.",
+          "areas": "All33 numerical panels in40-page pack visually read via1700px contacts, representatives full drawings. Published total ranges grouped byseven productfamilies; fulltypes in evidence. SkyVilla lower/upper repeat wholehome total not additive. 2BR1A1248+208=1456 vsprinted1455,2BR5A1079+248=1327 vs1326;1sqft rounding retained. Primary range801–7810 differs suppliedplans800–7790; disclosed.",
+          "amenities": "Four public amenities from own project page; actual brochure17 additional30amenitydiagram visually reviewed but no unsupported healthoutcome claims. Privateplungepool on selected Sky plans not universal.",
+          "pricing": "Branded launch facts/brochure list1.18m/1.86m/2.30m/2.95m/3.44m forfive apartment/duplexfamilies; skyhomes requestprice. Only1.18m publichistoricalentry retained. IssuerNov2024sellout and presentportalresales mean notcurrentdeveloperavailability.",
+          "payment": "Actual brochure43 andfacts3 visually read. 5booking+5SPAwithin45days+10after4months+5each10/15/20/25/29/34months+50handover=100. No calendar anchordate assumed; headline original50/50 only.",
+          "handover": "Own construction update Q42027, facts3same. Mainworks/cranes/raft progress not certifiedpercent. No completioncertificate. Q32025IRsearch H22027 compatiblehalfyear; not adopted ascontractdate.",
+          "documents": "Own mainHTML/public WPmedia endpoint givesno brochure/plans;40p brandedplans+43p brandedpresentation frompublicbrokerpage,5pfacts Afdal and53pduplicatepresentation Insider downloaded. Correctbrokerkind; allbrandedoverlapcombined200 allocation. No forms/bypass. Genericcommunity0,sharedconstruction18of35groupallocation."
+        },
+        "community": "Al Reem Island",
+        "locationNote": "Al Reem Island, beside Reem Central Park, Abu Dhabi.",
+        "overview": [
+          "The developer announced a sell-out on 19 November 2024. That historical announcement does not establish today’s resale availability.",
+          "Developer target: Q4 2027; construction continues."
+        ],
+        "priceLabel": "Historical launch reference",
+        "priceNote": "The branded launch material starts one-bedroom homes at AED 1.18m. This is not a current available-unit quotation.",
+        "paymentNote": "Original launch milestones; obtain the selected home’s remaining contractual schedule.",
+        "handoverNote": "Developer forecast, not completed delivery.",
+        "units": [
+          {
+            "label": "1BR apartments · seven types",
+            "area": "800–913 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR apartments · six types",
+            "area": "1,231–1,606 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR duplexes · five types",
+            "area": "1,488–2,070 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR apartments · two types",
+            "area": "1,985–2,279 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR duplexes · seven types",
+            "area": "2,148–4,131 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Sky Palaces · two types",
+            "area": "7,048–7,790 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Sky Villas · two types",
+            "area": "6,109–7,092 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "SPA · within 45 days",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 4 months",
+            "percent": 10,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 10 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 15 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 20 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 25 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 29 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "After 34 months",
+            "percent": 5,
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 50,
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "facts": [],
+        "unresolved": [
+          "Developer range 801–7,810 ft² differs from retrieved plans: 800–7,790 ft². Confirm the selected unit’s approved drawing.",
+          "Some component totals differ by 1 ft²; printed totals retained. Sky Villa totals repeat across levels and must not be doubled.",
+          "Current developer stock, revised prices, service charges, parking allocations and contract-specific terms remain unverified."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-09",
+      "slug": "eleve",
+      "developerSlug": "deyaar",
+      "name": "Eleve",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Eleve is Deyaar’s apartment tower in Downtown Jebel Ali, on Sheikh Zayed Road. Studios and one- to three-bedroom homes sit above retail and shared leisure spaces, while selected garden apartments provide larger terraces.",
+      "areaId": "dubai-downtown-jebel-ali",
+      "location": "Downtown Jebel Ali",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": 555458,
+      "handover": "Q2 2027 · developer target",
+      "paymentPlan": "70% by handover / 30% afterwards · original terms",
+      "amenities": [
+        "Residents lounge",
+        "Club room",
+        "Gym",
+        "Swimming pool",
+        "Children’s pool",
+        "Outdoor dining and BBQ",
+        "Ground-floor retail"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Brochure_V7.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2024/02/ELEVE_Floorplans_FINAL_2.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-09"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar Eleve project guide",
+            "url": "https://www.deyaar.ae/en/properties/eleve-by-deyaar/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 150
+          },
+          {
+            "id": "launch",
+            "label": "Deyaar Eleve launch · 27 February 2024",
+            "url": "https://feeds.dfm.ae/documents/2024/Feb/27/3828dcad-622d-4fc7-b905-c9eab9ad1fc4/DEYAAR%20PR%20E%2027%2002%2020.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 80
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar Eleve construction update",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 17
+          },
+          {
+            "id": "brochure",
+            "label": "Eleve official bilingual brochure",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Brochure_V7.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 0
+          },
+          {
+            "id": "facts",
+            "label": "Eleve official launch factsheet",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Factsheet_V7.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 115
+          },
+          {
+            "id": "plans",
+            "label": "Eleve official detailed floor plans",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/ELEVE_Floorplans_FINAL_2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 85
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Eleve project comparison",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/eleve-by-deyaar",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "plans"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "locationNote": [
+            "facts",
+            "launch"
+          ],
+          "overview": [
+            "plans",
+            "construction"
+          ],
+          "price": [
+            "facts"
+          ],
+          "priceLabel": [
+            "facts"
+          ],
+          "priceNote": [
+            "facts",
+            "finder"
+          ],
+          "handover": [
+            "launch",
+            "construction"
+          ],
+          "handoverNote": [
+            "facts",
+            "developer"
+          ],
+          "paymentPlan": [
+            "facts"
+          ],
+          "paymentNote": [
+            "facts"
+          ],
+          "paymentStages": [
+            "facts"
+          ],
+          "units": [
+            "plans"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "unresolved": [
+            "plans",
+            "facts",
+            "developer"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Own Eleve page/linkedfacts/brochure andissuer27Feb2024release establish protected Eleve byDeyaar. ExactIDs retained. PortalDeyaarLeasinglabelnotownerchange.",
+          "location": "Primarypage DowntownJebelAli, SheikhZayedRoad. Officialfacts3Zone1; existingexactDowntownJebelAliregistry. NoJAFZAorBusinessBaymisclassification.",
+          "residences": "Ownstudio1/2/3mix, launch33residentialfloors (not assumedtotal38). Own51pageplans45numericfamilies:2studio,15onebedapartments+1garden,16twobedapartments+2garden,6threebedapartments+3garden. Actualrepresentativefullplansread; maidroomsnotbedrooms.",
+          "areas": "Every45numericalpanel visuallyread usingboundedcontacts, sevenproductfamiliesgrouped. Actualplan3BRgarden1C2946 differs ownfacts/main2938 upperend; publicnote. 1BR1C676+114=790vs791,1D678+87=765vs766,1K682+156=838vs837,2BR1A1019+142=1161vs1162,4A1048+163=1211vs1212,5C1018+86=1104vs1103,3BRgarden2B1528+700=2228vs2229. Printedtotalsretained,1sqftdifferencesnotcorrected.",
+          "amenities": "Primarymainowncarousel supportssevenfeatures adopted; facts5panel visuallycorroborates. Issuerlaunchalsojacuzzi/multipurposehall/fourcoveredparkinglevels, butnoindividualparkingallocationassumed.",
+          "pricing": "Ownfacts8publishedstartingstudio555458,1BR882648,2BR1356568,3BR2220020. Historicalonly555458headline. PFcurrentdescription1479767/headline1.5m reflects different availablemix, notdirectsameunitpricechange; noavailabilityclaimed.",
+          "payment": "Actualfacts8 originalbooking10+six8datesJun/Dec2024/2025/2026+12May2027+30over30months1percentmonthly=100. Headline70byhandover/30after clearlynot70duringconstruction. No freshcontractassumed.",
+          "handover": "Issuerlaunchandcurrentconstruction Q22027. Primarymainend30Jun2027; factsoriginalhandoverMay2027. Samequarterbutmonthvariationexplicit. Noactualcompletionclaim. Constructionsharedpage17wordallocation, primarymainprogresspercentnotvisible/nopercentinferred.",
+          "documents": "Ownmain direct67pdouble-spreadbrochure125MB and10pfacts; publicWPmedia discover51pplans3.7MB. All downloadedordinary200;brokercompressedmirror inspectedthenofficialprimaryused. UnderlyingallofficialPDFpool200inclplans/facts/brochure, brochure0corroboration. Genericcommunity0."
+        },
+        "community": "Downtown Jebel Ali",
+        "locationNote": "Downtown Jebel Ali, Zone 1, Sheikh Zayed Road, Dubai.",
+        "overview": [
+          "Garden apartments add outdoor space; compare the internal and total areas separately.",
+          "The developer reports Level 1 slab casting completed."
+        ],
+        "priceLabel": "Historical studio launch reference",
+        "priceNote": "The original factsheet starts studios at AED 555,458. Property Finder now quotes AED 1,479,767 for its advertised mix; this is not equivalent current studio pricing.",
+        "paymentNote": "Historical calendar; confirm remaining contractual instalments.",
+        "handoverNote": "Original factsheet: May 2027; project page: 30 June 2027. Both fall within the developer’s Q2 target.",
+        "units": [
+          {
+            "label": "Studios · two types",
+            "area": "409–424 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR apartments · fifteen types",
+            "area": "750–1,047 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "1BR garden · 1L",
+            "area": "1,059 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR apartments · sixteen types",
+            "area": "1,072–1,318 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR garden · 1B/1C",
+            "area": "1,782–1,907 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR apartments · six types",
+            "area": "1,633–1,697 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR garden · 1B/1C/2B",
+            "area": "2,229–2,946 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "30 June 2024",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 December 2024",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "30 June 2025",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 December 2025",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "30 June 2026",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "31 December 2026",
+            "percent": 8,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "Original handover · May 2027",
+            "percent": 12,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "After handover · 30 months, 1% monthly",
+            "percent": 30,
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "facts": [],
+        "unresolved": [
+          "Plans print a 2,946 ft² garden home; the factsheet/project summary caps sizes at 2,938 ft². Confirm the approved unit drawing.",
+          "Some rounded component sums differ by 1 ft²; printed totals retained.",
+          "Current stock, revised offers, service charges, furnishing inclusions and unit-specific parking allocations were not verified."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-10",
+      "slug": "rosalia-residences",
+      "developerSlug": "deyaar",
+      "name": "Rosalia Residences",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Rosalia Residences is an Al Furjan apartment building with nine residential floors above ground-floor retail. Deyaar’s January 2024 launch described 117 homes, fitted kitchens and a position opposite Discovery Gardens 2 Metro Station.",
+      "areaId": "dubai-al-furjan",
+      "location": "Al Furjan",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "1–3",
+      "price": 1200000,
+      "handover": "December 2026 · developer estimate",
+      "paymentPlan": "10/50/40 · original developer terms",
+      "amenities": [
+        "Swimming pool and Jacuzzi",
+        "Fitness centre",
+        "Children’s splash pad",
+        "Barbecue area",
+        "Residents’ lounge",
+        "Steam and sauna rooms",
+        "Sun deck"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Brochure_WIP.pdf",
+      "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771328810898-ad1d53660ff236dd.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-10"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar Rosalia project page",
+            "url": "https://www.deyaar.ae/en/properties/rosalia-residences/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "press",
+            "label": "Deyaar Rosalia launch · 15 January 2024",
+            "url": "https://www.deyaar.ae/en/media_center/deyaar-launches-rosalia-residences-its-third-project-in-dubais-al-furjan-community/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 80
+          },
+          {
+            "id": "facts",
+            "label": "Rosalia official factsheet",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Factsheet_V2.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 80
+          },
+          {
+            "id": "brochure",
+            "label": "Rosalia original WIP brochure · conflicting plan labels",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2024/01/Rosalia_Brochure_WIP.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 25
+          },
+          {
+            "id": "plans",
+            "label": "Rosalia final branded layouts · broker-hosted 25 pages",
+            "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771328810898-ad1d53660ff236dd.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 95
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar construction update · checked 31 October 2026",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 15
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Rosalia · secondary commercial reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/rosalia-residences",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "press"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "amenities": [
+            "facts",
+            "developer"
+          ],
+          "price": [
+            "finder"
+          ],
+          "priceLabel": [
+            "finder"
+          ],
+          "priceNote": [
+            "finder"
+          ],
+          "handover": [
+            "construction"
+          ],
+          "handoverNote": [
+            "construction",
+            "developer",
+            "press"
+          ],
+          "paymentPlan": [
+            "facts"
+          ],
+          "paymentNote": [
+            "facts",
+            "finder"
+          ],
+          "paymentStages": [
+            "facts"
+          ],
+          "units": [
+            "plans"
+          ],
+          "facts": [
+            "press",
+            "facts",
+            "plans"
+          ],
+          "overview": [
+            "plans"
+          ],
+          "locationNote": [
+            "press"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "unresolved": [
+            "facts",
+            "brochure",
+            "plans",
+            "finder"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact protected10Rosalia record. Launch117homes/G+9 distinct otherDeyaarAlFurjanprojects. No present inventory assumption from launch.",
+          "location": "Primary project/launch/facts AlFurjan Dubai; launch oppositeDiscoveryGardens2metro. No travel timings, geocoordinates or entitlement inferred.",
+          "residences": "Primary1/2/3BR. Final25pbranded broker-hostedpack actually reviewed all23numericfamilies:13onebed/ninetwobed/onethreebed. Final3BRfullplan maidroom visible. Fittedkitchens launch not fully furnished homes.",
+          "areas": "Actualfinalnumericpanels2–24 read, allprintedtotals retained. WIP55pp36–50 stale654labels repeated even2/3BR;embedded tables sometimes differ1741vsfinal1743. Final totals780–1178/1208–1731/1743; facts774minimum differs780. Final component mismatches:1BR01t694+398=1092 vs1086;05t703+408=1111vs1112;08 770+80=850vs851;08t_b771+408=1179vs1178;2BR05 1122+136=1258vs1257. Do not repair source values.",
+          "amenities": "Actualfacts3/4 visuallyread: sevenamenities plus160totalparkingslots, notunitallocation. Primarypage confirms amenitylabels. No broker cinema/valet imported.",
+          "pricing": "Ownpage/facts/launch no price sheet. FreshPFheadline1.2m referscurrentlowestsubjectavailability, developer-unit1mrounded outofstock historicaldifferentbasis. No guarantee availableAliyasstock.",
+          "payment": "Ownfactsheet actual3 visually10booking50duringconstruction40posthandover40months;sum100. Ownpageagrees. PF10/36/14/40 differs stage split; no full monthly datedcalendar verified. Paymentplan.jpg linkedownpage actuallydecorativephoto excluded.",
+          "handover": "PrimaryliveconstructionexpectedDecember2026, finishingstage. Ownprojectend31July2026 and originalJan2024launchbeforeSept2025/PFSeptember2025 are olderconflictingestimates. No completedclaim.",
+          "documents": "Official55pWIP+7pfacts downloaded200, visualpanels saved. Current10JPGgalleryURLs404 normalpublicfetch, excludedHTML. StandardpublicWPmedia listsfacts/WIPonly. Expandify publiclinks yielded broker-hostedfinal25pplans and39pbrochure; mirrorbrochure corroborationonly0. AllunderlyingphasePDFs pooled200=80facts25WIP95plans; genericcommunity0. Imagesdeferred."
+        },
+        "community": "Al Furjan",
+        "overview": [
+          "Balcony and terrace layouts vary substantially; compare the selected drawing, not bedroom count alone."
+        ],
+        "locationNote": "Al Furjan, Dubai; the launch places Rosalia opposite Discovery Gardens 2 Metro Station.",
+        "priceLabel": "Portal headline · subject to stock confirmation",
+        "priceNote": "Property Finder’s headline is AED 1.2 M; its sold-out developer one-bedroom range starts around AED 1m. No current official price sheet was verified.",
+        "paymentNote": "Original terms; obtain remaining contractual instalments. Portal stages 10/36/14/40 differ from the developer’s aggregate split.",
+        "handoverNote": "Revised developer target; earlier July 2026 and September 2025 estimates differ. Completion unconfirmed.",
+        "units": [
+          {
+            "label": "1BR · final layouts",
+            "area": "780–1,178 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "2BR · final layouts",
+            "area": "1,208–1,731 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR",
+            "area": "1,743 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Booking",
+            "percent": 10,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "During construction",
+            "percent": 50,
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "stage": "After handover · over 40 months",
+            "percent": 40,
+            "sourceIds": [
+              "facts"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Building and homes",
+            "value": "G+9; 117 residences at launch.",
+            "sourceIds": [
+              "press"
+            ]
+          },
+          {
+            "label": "Parking",
+            "value": "160 building-wide spaces; selected-unit allocation unverified.",
+            "sourceIds": [
+              "facts"
+            ]
+          },
+          {
+            "label": "Area basis",
+            "value": "Final plan totals include balconies or terraces.",
+            "sourceIds": [
+              "plans"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Factsheet one-bedroom minimum 774 ft² differs from final plans 780 ft². The linked WIP brochure has stale 654 ft² labels and different tables; use a current contractual drawing.",
+          "Some final plan component sums differ from printed totals, including 1BR01t 1,092 versus 1,086 ft². Published totals are retained.",
+          "Current availability, official prices, revised payment dates, unit parking allocation, service charges and completion certificate remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-11",
+      "slug": "mar-casa",
+      "developerSlug": "deyaar",
+      "name": "Mar Casa",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "Mar Casa is a 52-floor residential tower in Dubai Maritime City. Its collection includes apartments, duplexes and penthouses; the brochure describes 580 homes, with shared wellness, family and working spaces.",
+      "areaId": "dubai-maritime-city",
+      "location": "Dubai Maritime City",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–4",
+      "price": 865000,
+      "handover": "Q4 2026 · developer estimate",
+      "paymentPlan": null,
+      "amenities": [
+        "Infinity sand and sky pools",
+        "Gym and yoga room",
+        "Spa, sauna and steam rooms",
+        "Sports court",
+        "Coworking and residents’ lounge",
+        "Children’s pool and splash pad",
+        "Kids’ club",
+        "Barbecue area"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-11"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar Mar Casa project page",
+            "url": "https://www.deyaar.ae/en/properties/mar-casa/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 70
+          },
+          {
+            "id": "brochure",
+            "label": "Mar Casa official brochure and measured layouts · 61 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 200
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar construction update · checked 31 October 2026",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 15
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Mar Casa · secondary reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/mar-casa",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 110
+          },
+          {
+            "id": "alternative",
+            "label": "EZRE Mar Casa · different reported commercial terms",
+            "url": "https://ezre.ae/projects/mar-casa",
+            "kind": "broker",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 45
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "brochure"
+          ],
+          "bedrooms": [
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "facts": [
+            "brochure"
+          ],
+          "unresolved": [
+            "brochure"
+          ],
+          "areaId": [
+            "developer",
+            "brochure"
+          ],
+          "location": [
+            "developer",
+            "brochure"
+          ],
+          "emirate": [
+            "developer",
+            "brochure"
+          ],
+          "type": [
+            "developer",
+            "brochure"
+          ],
+          "locationNote": [
+            "developer",
+            "brochure"
+          ],
+          "price": [
+            "finder",
+            "alternative"
+          ],
+          "priceLabel": [
+            "finder",
+            "alternative"
+          ],
+          "priceNote": [
+            "finder",
+            "alternative"
+          ],
+          "paymentPlan": [
+            "finder",
+            "alternative"
+          ],
+          "paymentNote": [
+            "finder",
+            "alternative"
+          ],
+          "paymentStages": [
+            "finder",
+            "alternative"
+          ],
+          "handover": [
+            "construction",
+            "developer",
+            "finder"
+          ],
+          "handoverNote": [
+            "construction",
+            "developer",
+            "finder"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact11MarCasa, nototherdeveloperMarprojects. Ownbrochure5actual52floors/580homes. No countsfromaggregate hiddenengineeringdata or portal585 imported.",
+          "location": "Ownpage confusing DubaiMaritimeAuthority label; brochureactual5anddistrictpages confirmDubaiMaritimeCity. Exactregistry dubai-maritime-city. No inventeddrive times orcoordinates.",
+          "residences": "OwnpageStudio–3;currentown61pbrochure37classifiesstudios/apartments/duplexes/royal/penthouses. Actualvisible22numericheaders38–59 include4BRpenthouse. Studioplansabsent explicit, no unitarea invented.",
+          "areas": "Actualall22visiblepanels38–59 reviewed, nothiddenengineeringtables. Visible1BR771/772/study1181;2BR1161/1157/1163/1328/suite1550/royal3261/duplex2270;3BR1971/1920/royal4093/4100/duplex2295;3PH2840/3035/2915/2825;4PH2910/2975/royal5830. Full47/52/59 confirm lower/upper withinonewhole total, not added twice. Hidden tables have different statistical averages/min/max and notpublicvisible; excluded. Currentmainpage800–1600 summary incomplete relativeownplans.",
+          "amenities": "Actualbrochure14spread26/27read. Pools,gym/yoga,sports,spa/sauna/steam,coworking,residentlounge,kidsclub/pool/splashpad,BBQ. Not assumealloperationalorbrokerorganicgrocery.",
+          "pricing": "FreshPF200headline865K, subjectstock; ownpriceabsent. Otherbroker2,348,500onlimitedrelease notsamebasis. No guaranteedcurrentoffer or salesinventoryimport.",
+          "payment": "No primarydatedpaymentPDF onownpage/media/currentbrochure. PF12/56/8/24 totals100 usedexplicitsecondaryreferenceonly, headlineNULL becauseEZRE20/30/50 differs. No assumedfees/admin/posthandoverschedule.",
+          "handover": "Ownproject1October2026end vsliveconstructionQ42026stillfinishing. PFDecember2026 matchesquarter. No completionclaim fromelapseddate. Sourceconstruction15wordreservationofshared45.",
+          "documents": "Officialcurrent61p148MBandearlier75pv10downloaded200. Earlier75p containsvisibleLoremipsum/renderplaceholders, excludedfrompublicfactualderivation. Current22actualnumericheaders and3fullmultilevels read, context5/14read. OneunderlyingphasePDFpool200 allmirrors/versions. Noauth/forms/mediaupdates; imagesdeferred."
+        },
+        "community": "Dubai Maritime City",
+        "overview": [
+          "Published layouts range from compact homes to multilevel penthouses. Compare whole-home totals rather than adding floor illustrations."
+        ],
+        "locationNote": "Dubai Maritime City, Dubai.",
+        "priceLabel": "Portal headline · availability unconfirmed",
+        "priceNote": "Property Finder shows AED 865K while describing the developer release as sold out. A separate broker quotes AED 2,348,500 for a limited release. No official current price sheet was verified.",
+        "paymentNote": "The table is Property Finder’s reference only. EZRE reports 20/30/50; confirm unit-specific contractual terms.",
+        "handoverNote": "Construction update: Q4 2026 expected; completion not confirmed. Own project page lists 1 October 2026.",
+        "units": [
+          {
+            "label": "1BR /1BR study",
+            "area": "771 /772 /1,181 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR standard /suite examples",
+            "area": "1,157–1,550 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Royal 2BR /2BR executive duplex",
+            "area": "3,261 /2,270 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR examples",
+            "area": "1,920 /1,971 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Royal 3BR /3BR duplex",
+            "area": "4,093 /4,100 /2,295 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR penthouses",
+            "area": "2,825–3,035 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "4BR penthouses",
+            "area": "2,910 /2,975 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Royal 4BR penthouse",
+            "area": "5,830 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Portal · booking",
+            "percent": 12,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · construction",
+            "percent": 56,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · handover",
+            "percent": 8,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · after handover",
+            "percent": 24,
+            "sourceIds": [
+              "finder"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Building scale",
+            "value": "52 floors; 580 homes in the brochure.",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "Area basis",
+            "value": "Selected whole-home totals include balconies; multilevel totals counted once.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Studios are advertised, but their individual drawings were not found in the current brochure. The project-page 800–1,600 ft² summary does not cover the larger published homes.",
+          "Current availability, official prices, revised payment calendar, parking allocation, approved service charges and completion certification remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-12",
+      "slug": "tria",
+      "developerSlug": "deyaar",
+      "name": "Tria",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": "Tria is a three-wing residential development in Dubai Silicon Oasis. Deyaar announced its handover on 6 October 2026, describing 711 residences and six retail units. The housing mix extends from studios to three-bedroom apartments, duplexes, podium townhouses and penthouses.",
+      "areaId": "dubai-silicon-oasis",
+      "location": "Dubai Silicon Oasis",
+      "emirate": "Dubai",
+      "type": "Apartment",
+      "bedrooms": "Studio–3",
+      "price": 646000,
+      "handover": "Handover announced · 6 October 2026",
+      "paymentPlan": null,
+      "amenities": [
+        "Swimming pools",
+        "Fitness and yoga facilities",
+        "Children’s areas",
+        "Wellness zone",
+        "Paddle tennis and squash courts",
+        "Outdoor cinema",
+        "Residents’ clubhouse",
+        "Rooftop garden lounge",
+        "Outdoor dining and barbecue areas",
+        "Electric-vehicle charging parking"
+      ],
+      "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+      "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "deyaar-project-12"
+      ],
+      "nameSource": {
+        "url": "https://www.deyaar.ae/construction-update/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-10-31",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Deyaar Tria project page",
+            "url": "https://www.deyaar.ae/en/properties/tria/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 60
+          },
+          {
+            "id": "brochure",
+            "label": "Tria official brochure and layouts · 67 pages",
+            "url": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 200
+          },
+          {
+            "id": "handover-release",
+            "label": "Deyaar issuer handover announcement · 6 October 2026",
+            "url": "https://feeds.dfm.ae/documents/2026/Oct/5/2f27620c-7cb8-4fbf-be56-f64bf0533a17/Tria%20Handover%20ENG.Pdf.pdf",
+            "kind": "official-document",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 90
+          },
+          {
+            "id": "construction",
+            "label": "Deyaar construction update · older target",
+            "url": "https://www.deyaar.ae/en/construction-update/",
+            "kind": "developer",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 15
+          },
+          {
+            "id": "finder",
+            "label": "Property Finder Tria · secondary commercial reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/tria-by-deyaar",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 100
+          },
+          {
+            "id": "bayut",
+            "label": "MyBayut Tria · different historical payment calendar",
+            "url": "https://www.bayut.com/mybayut/development-of-the-month-tria-by-deyaar/",
+            "kind": "portal",
+            "checkedOn": "2026-10-31",
+            "derivedWords": 50
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "handover-release",
+            "brochure"
+          ],
+          "areaId": [
+            "developer",
+            "brochure"
+          ],
+          "location": [
+            "developer",
+            "brochure"
+          ],
+          "emirate": [
+            "developer",
+            "brochure"
+          ],
+          "type": [
+            "developer",
+            "brochure"
+          ],
+          "bedrooms": [
+            "developer",
+            "brochure"
+          ],
+          "locationNote": [
+            "developer",
+            "brochure"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "overview": [
+            "brochure"
+          ],
+          "units": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "brochure"
+          ],
+          "price": [
+            "finder"
+          ],
+          "priceLabel": [
+            "finder"
+          ],
+          "priceNote": [
+            "finder"
+          ],
+          "paymentPlan": [
+            "finder",
+            "bayut"
+          ],
+          "paymentNote": [
+            "finder",
+            "bayut"
+          ],
+          "paymentStages": [
+            "finder",
+            "bayut"
+          ],
+          "handover": [
+            "handover-release",
+            "developer",
+            "construction",
+            "finder"
+          ],
+          "handoverNote": [
+            "handover-release",
+            "developer",
+            "construction",
+            "finder"
+          ],
+          "facts": [
+            "handover-release",
+            "brochure"
+          ],
+          "unresolved": [
+            "developer",
+            "brochure",
+            "finder"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Exact protected12Tria, never ATRIA. Own WPmedia searchTria returnsATRIA materials too; allATRIA excluded. Actual issuer6October2026 release confirms announcedhandover711homes6retail, notfuturecompletionguess.",
+          "location": "Ownpage and issuer primary DubaiSiliconOasis. Existing registry dubai-silicon-oasis nameDubaiSiliconOasis. No assumedgeocoordinates or travel times.",
+          "residences": "Own67pbrochure includes StudioA/B,1BRA/B,2BRA/B,3BRA,3BRduplexA,3BRpodiumTHA/B,3BRPHA/B. All12numericfamilies visuallyread. Full49–52 confirms duplex2levels andtownhouses3levels alreadywholehome2325/2600notaddedperfloor. Full53penthouses eachsingleexample, privatepooldrawn but notclaimedallhomes.",
+          "areas": "Actual45–53visible12numericfamilies retained: studio440=333+107,485=353+132;1BR775=680+95,805=711+94;2BR1255=1184+71,1245=1138+107;3BR1770=1641+129;duplex2200=2067+133;TH2325=2104+221,2600=2231+369;PH2885=2556+329,3215=2440+775. Allprinted sums consistent. Units sq.ft explicit no unitinference. Projectpage440–2900doesnotcover3215.",
+          "amenities": "Actualbrochure14spread26/27 visuallyread: pool/gym/yoga,kids,wellness,paddle/squash,outdoorcinema,clubhouse,rooftopgarden,BBQ/EVparking. Issuerhandoverrelease independently generalamenities; no guaranteecurrentoperatinghours orunitparking.",
+          "pricing": "FreshPF200headline646K rounded, cachedsearch650K differs andnotused. Owncurrentprice/signedoffer unavailable. Developerunits listedoutofstock; noresaleinventory count copied.",
+          "payment": "Ownpage/brochure/publicWPmedia no actual primaryinstalmentsheet. PF14/35/11/40=100 explicitreference table only; Bayutdated12+8*6+10+30=100 historicallydifferent. HeadlineNULL, no hypotheticaldates/feesinvented.",
+          "handover": "ActualDFMissuer2pdocument p1visuallyread dated6October2026 announceshandover. Older projectpage31March2026,constructionSeptember2026stillformalities,PFJune2025 remainstaleconflictingforecasts. Do notsubstituteolderstatusforfreshdatedissuerannouncement. Individualunitreadinessstillconfirm.",
+          "documents": "Own67pbrochure public20049157609bytes, allnumericspreads45–53 read plusfullmultilevelplans. Actual2pissuerannouncement200270645bytes p1read. Underlyingbrochure/plans200sharedallmirrors; separateissuerrelease90. NoATRIA, genericcommunity0; noforms oraccessbypass. Imagesdeferred."
+        },
+        "community": "Dubai Silicon Oasis",
+        "overview": [
+          "The larger homes have different floor arrangements; published multilevel totals are counted once."
+        ],
+        "locationNote": "Dubai Silicon Oasis, Dubai.",
+        "priceLabel": "Portal headline · not a confirmed available offer",
+        "priceNote": "Property Finder shows a rounded AED 646K headline and marks developer units out of stock. No current official quotation was found.",
+        "paymentNote": "Historical portal reference only: Bayut instead publishes 12% booking, 48% construction, 10% handover and 30% afterwards. Confirm the selected home’s outstanding balance.",
+        "handoverNote": "Issuer announcement dated 6 October 2026 supersedes older targets: March 2026 on the project page, September 2026 construction update and June 2025 on Property Finder. Confirm the selected home’s handover position.",
+        "units": [
+          {
+            "label": "Studio A /B",
+            "area": "440 /485 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "1BR A /B",
+            "area": "775 /805 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "2BR A /B",
+            "area": "1,255 /1,245 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR A",
+            "area": "1,770 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR duplex A",
+            "area": "2,200 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR townhouse A /B",
+            "area": "2,325 /2,600 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          },
+          {
+            "label": "3BR penthouse A /B",
+            "area": "2,885 /3,215 ft²",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Portal · booking",
+            "percent": 14,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · construction",
+            "percent": 35,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · handover",
+            "percent": 11,
+            "sourceIds": [
+              "finder"
+            ]
+          },
+          {
+            "stage": "Portal · after handover",
+            "percent": 40,
+            "sourceIds": [
+              "finder"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Handover announcement",
+            "value": "711 residences and six retail units; announcement dated 6 October 2026.",
+            "sourceIds": [
+              "handover-release"
+            ]
+          },
+          {
+            "label": "Area basis",
+            "value": "Total areas include balconies; townhouses and duplexes are whole-home totals.",
+            "sourceIds": [
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The project page’s 440–2,900 ft² summary is narrower than the brochure’s 3,215 ft² penthouse example. Use the selected contractual drawing.",
+          "Current availability, official prices, revised payment terms, service charges and unit-specific parking and handover documents remain unverified. Photography is illustrative."
+        ]
+      }
+    },
+    {
+      "id": "deyaar-project-13",
+      "slug": "deyaar-project-13",
+      "developerSlug": "deyaar",
+      "name": "Deyaar Development Project 13",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "deyaar-project-14",
+      "slug": "deyaar-project-14",
+      "developerSlug": "deyaar",
+      "name": "Deyaar Development Project 14",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "deyaar-project-15",
+      "slug": "deyaar-project-15",
+      "developerSlug": "deyaar",
+      "name": "Deyaar Development Project 15",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "deyaar-project-11",
+  "name": "Mar Casa",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Mar Casa is a 52-floor residential tower in Dubai Maritime City. Its collection includes apartments, duplexes and penthouses; the brochure describes 580 homes, with shared wellness, family and working spaces.",
+    "areaId": "dubai-maritime-city",
+    "location": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 865000,
+    "handover": "Q4 2026 · developer estimate",
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity sand and sky pools",
+      "Gym and yoga room",
+      "Spa, sauna and steam rooms",
+      "Sports court",
+      "Coworking and residents’ lounge",
+      "Children’s pool and splash pad",
+      "Kids’ club",
+      "Barbecue area"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar Mar Casa project page",
+          "url": "https://www.deyaar.ae/en/properties/mar-casa/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "Mar Casa official brochure and measured layouts · 61 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2023/07/MAR-CASA-Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar construction update · checked 31 October 2026",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Mar Casa · secondary reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/mar-casa",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "alternative",
+          "label": "EZRE Mar Casa · different reported commercial terms",
+          "url": "https://ezre.ae/projects/mar-casa",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "brochure"
+        ],
+        "unresolved": [
+          "brochure"
+        ],
+        "areaId": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer",
+          "brochure"
+        ],
+        "emirate": [
+          "developer",
+          "brochure"
+        ],
+        "type": [
+          "developer",
+          "brochure"
+        ],
+        "locationNote": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "finder",
+          "alternative"
+        ],
+        "priceLabel": [
+          "finder",
+          "alternative"
+        ],
+        "priceNote": [
+          "finder",
+          "alternative"
+        ],
+        "paymentPlan": [
+          "finder",
+          "alternative"
+        ],
+        "paymentNote": [
+          "finder",
+          "alternative"
+        ],
+        "paymentStages": [
+          "finder",
+          "alternative"
+        ],
+        "handover": [
+          "construction",
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "construction",
+          "developer",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact11MarCasa, nototherdeveloperMarprojects. Ownbrochure5actual52floors/580homes. No countsfromaggregate hiddenengineeringdata or portal585 imported.",
+        "location": "Ownpage confusing DubaiMaritimeAuthority label; brochureactual5anddistrictpages confirmDubaiMaritimeCity. Exactregistry dubai-maritime-city. No inventeddrive times orcoordinates.",
+        "residences": "OwnpageStudio–3;currentown61pbrochure37classifiesstudios/apartments/duplexes/royal/penthouses. Actualvisible22numericheaders38–59 include4BRpenthouse. Studioplansabsent explicit, no unitarea invented.",
+        "areas": "Actualall22visiblepanels38–59 reviewed, nothiddenengineeringtables. Visible1BR771/772/study1181;2BR1161/1157/1163/1328/suite1550/royal3261/duplex2270;3BR1971/1920/royal4093/4100/duplex2295;3PH2840/3035/2915/2825;4PH2910/2975/royal5830. Full47/52/59 confirm lower/upper withinonewhole total, not added twice. Hidden tables have different statistical averages/min/max and notpublicvisible; excluded. Currentmainpage800–1600 summary incomplete relativeownplans.",
+        "amenities": "Actualbrochure14spread26/27read. Pools,gym/yoga,sports,spa/sauna/steam,coworking,residentlounge,kidsclub/pool/splashpad,BBQ. Not assumealloperationalorbrokerorganicgrocery.",
+        "pricing": "FreshPF200headline865K, subjectstock; ownpriceabsent. Otherbroker2,348,500onlimitedrelease notsamebasis. No guaranteedcurrentoffer or salesinventoryimport.",
+        "payment": "No primarydatedpaymentPDF onownpage/media/currentbrochure. PF12/56/8/24 totals100 usedexplicitsecondaryreferenceonly, headlineNULL becauseEZRE20/30/50 differs. No assumedfees/admin/posthandoverschedule.",
+        "handover": "Ownproject1October2026end vsliveconstructionQ42026stillfinishing. PFDecember2026 matchesquarter. No completionclaim fromelapseddate. Sourceconstruction15wordreservationofshared45.",
+        "documents": "Officialcurrent61p148MBandearlier75pv10downloaded200. Earlier75p containsvisibleLoremipsum/renderplaceholders, excludedfrompublicfactualderivation. Current22actualnumericheaders and3fullmultilevels read, context5/14read. OneunderlyingphasePDFpool200 allmirrors/versions. Noauth/forms/mediaupdates; imagesdeferred."
+      },
+      "community": "Dubai Maritime City",
+      "overview": [
+        "Published layouts range from compact homes to multilevel penthouses. Compare whole-home totals rather than adding floor illustrations."
+      ],
+      "locationNote": "Dubai Maritime City, Dubai.",
+      "priceLabel": "Portal headline · availability unconfirmed",
+      "priceNote": "Property Finder shows AED 865K while describing the developer release as sold out. A separate broker quotes AED 2,348,500 for a limited release. No official current price sheet was verified.",
+      "paymentNote": "The table is Property Finder’s reference only. EZRE reports 20/30/50; confirm unit-specific contractual terms.",
+      "handoverNote": "Construction update: Q4 2026 expected; completion not confirmed. Own project page lists 1 October 2026.",
+      "units": [
+        {
+          "label": "1BR /1BR study",
+          "area": "771 /772 /1,181 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR standard /suite examples",
+          "area": "1,157–1,550 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Royal 2BR /2BR executive duplex",
+          "area": "3,261 /2,270 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR examples",
+          "area": "1,920 /1,971 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Royal 3BR /3BR duplex",
+          "area": "4,093 /4,100 /2,295 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR penthouses",
+          "area": "2,825–3,035 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR penthouses",
+          "area": "2,910 /2,975 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Royal 4BR penthouse",
+          "area": "5,830 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · booking",
+          "percent": 12,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · construction",
+          "percent": 56,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · handover",
+          "percent": 8,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · after handover",
+          "percent": 24,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building scale",
+          "value": "52 floors; 580 homes in the brochure.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Selected whole-home totals include balconies; multilevel totals counted once.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Studios are advertised, but their individual drawings were not found in the current brochure. The project-page 800–1,600 ft² summary does not cover the larger published homes.",
+        "Current availability, official prices, revised payment calendar, parking allocation, approved service charges and completion certification remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

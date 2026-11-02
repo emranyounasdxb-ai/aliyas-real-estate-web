@@ -1,0 +1,276 @@
+{
+  "id": "wasl-project-06",
+  "name": "Pinewood Estate Homes",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Pinewood Estate Homes offers three- and four-bedroom townhouses in Jumeirah Golf Estates, within Me’aisem First. The published collection has mid-row and corner layouts, with outdoor seating areas and different plot sizes.",
+    "areaId": "dubai-jumeirah-golf-estates",
+    "location": "Jumeirah Golf Estates",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "3–4",
+    "price": null,
+    "handover": "Q4 2028 · developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Children’s play zone",
+      "Cycling track",
+      "Jogging track",
+      "Community centre",
+      "Swimming pool"
+    ],
+    "brochureUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-brochure.pdf",
+    "floorPlanUrl": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Pinewood Estate Homes project guide",
+          "url": "https://www.wasl.ae/en/project/pinewood-estate-homes",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Pinewood official factsheet and layouts · 29 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/Pinewood%20Estate%20Homes%20Factsheet.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "earlier",
+          "label": "Pinewood official V14A factsheet · 29 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/JGE%20Pinewood%20Factsheet%20V14A.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Pinewood branded plans · broker-hosted, 8 pages",
+          "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-plans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "brochure",
+          "label": "Pinewood branded brochure · broker-hosted, 33 pages",
+          "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Pinewood Estate Homes reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/pinewood-estate-homes",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts"
+        ],
+        "paymentStages": [
+          "facts"
+        ],
+        "units": [
+          "facts"
+        ],
+        "facts": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "finder"
+        ],
+        "handoverNote": [
+          "facts",
+          "finder"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "unresolved": [
+          "facts",
+          "plans",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected Pinewood Estate Homes, not Cedarwood/Ashwood or entire JGE/PinewoodVillage masterplan. Own page200 names3/4BRtownhouses. Two own publicCDN29pfacts retrieved200 andbroker33pbrochure/8pplansordinaryGET200. Noforms.",
+        "location": "Own project page explicitly Me’aisemFirst within JumeirahGolfEstates. Exact centralregistry dubai-jumeirah-golf-estates, no assumedcoordinates or universal golfviews/metrojourneytime. GenericJGEpage0.",
+        "residences": "Ownfacts4planned247=71three+120four+56cornerfour; noactualstockclaim. Actualownlayouts13/16/19 andbrokerplans4–7 fullyviewed: threeBRupper3, fourBRupper4, cornerupper4; maidsnotbedrooms; two-car garage drawn allthree. Onlycorner has privatepool/lift/BBQ/roofaccess, notalltownhouses.",
+        "areas": "Ownfacts5summaryrounded3438/4233/4659 vsownactual13/16/19 precise3438.42/4233.45/4659.16 ft², plots2383.42–3678.13/2970.19–3308.18/4243.13–7269.08. Summary3BRplotmin2383.12 differsdrawing2383.42 by0.30. Broker8pplans7roofprints360.73sqm/3882.90sqft versusmain432.85sqm/4659.16; roof value not added or silently fixed. Samefamily diagrams matchownlayouts.",
+        "amenities": "Actualownfacts4 playzone/cycling/jogging/communitycentre/pool/school. School is planneddistrictfacility, notcurrentenrolmententitlement, omittedamenitylist. ActualcornerpoolandBBQ/lift describedonlyselectcornerfact. No guaranteedgolfmembership/returns/healthclaims/appliances/furnishing added.",
+        "pricing": "Ownpage/facts/brochure no current pricelist. PFhistorical5.6m/6.9mdifferentlayouts, no verifieddeveloperquote; headlineNULL. Broker5.674m/5.678m selectedunitquotes notuniversalentry. No servicecharge5.5 independentlyprimaryverified.",
+        "payment": "Bothactualownfacts6 originalcalendar10booking+seven10Dec2025/May2026/Oct2026/Mar2027/Aug2027/Jan2028/Jun2028+20Dec2028=100.80includesbooking10, notadditional80. Pastdatedcalendar keptoriginal, currentheadlineNULL; PF10/70/20 agreesaggregate notoriginalcontract dates. Laterbrokerdatecalendar differences do notamendownissuedcalendar.",
+        "handover": "Ownactualfacts6 explicitlyDecember2028estimated, PFNovember2028; sameQ4butmonthdifference disclosed. HeaderQ42028developerforecast notcompletedhandover. No constructionpercent/start/completioncertificate inferred fromPFtimelines.",
+        "documents": "Own29pfacts variants are same underlying overlappingphasepack; actual4/5/6/13/16/19viewed. OwnV14A6samecalendar confirmed, terminologyvilla/townhome changes not separate record. Broker33pbrochure/8pplans overlapownlayouts, entirepooledsourcecap200(ownfacts175+additionalroof25, others0). No quote marketingparagraphs. No hidden OCR used alone. Public links usablewithoutgate; no ownbrochure/directstandaloneplanlinkedmain, honestbrokerlabels."
+      },
+      "community": "Jumeirah Golf Estates",
+      "locationNote": "Me’aisem First, within Jumeirah Golf Estates.",
+      "overview": [
+        "Original design: 247 homes, comprising 71 three-bedroom, 120 four-bedroom and 56 four-bedroom corner homes."
+      ],
+      "priceLabel": "Current official quotation required",
+      "priceNote": "Property Finder records an AED 5.6m launch reference. No current developer price list or available-unit quotation was retrieved.",
+      "handoverNote": "Original factsheet: December 2028; Property Finder: November 2028. Both are forecasts.",
+      "paymentNote": "Original dated 80/20 calendar, including booking. Past instalments do not establish a new buyer’s schedule. Confirm current contract terms.",
+      "units": [
+        {
+          "label": "3BR + maid",
+          "area": "3,438.42 ft² saleable · plot 2,383.42–3,678.13 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "4BR + maid",
+          "area": "4,233.45 ft² saleable · plot 2,970.19–3,308.18 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "4BR corner + maid",
+          "area": "4,659.16 ft² saleable · plot 4,243.13–7,269.08 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original calendar",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "December 2025",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "May 2026",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2026",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "August 2027",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "January 2028",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "June 2028",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "December 2028 · estimated handover",
+          "percent": 20,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Corner-home provision",
+          "value": "Private pool, lift, BBQ pit and roof access.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The corner roof sheet prints 3,882.90 ft², versus 4,659.16 on its main layout. Do not add these figures; obtain corrected approved areas.",
+        "The 3BR plot minimum is 2,383.12 ft² in the summary but 2,383.42 on the drawing.",
+        "Current inventory, price lists, payment amendments, service charges and approved final specifications remain unverified."
+      ]
+    }
+  }
+}

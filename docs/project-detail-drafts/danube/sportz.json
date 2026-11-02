@@ -1,0 +1,214 @@
+{
+  "id": "danube-project-14",
+  "name": "Sportz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Sportz is a twin-building apartment development in Dubai Sports City. Its plans combine studios and family layouts with shared sports facilities; pools are shown only on selected presidential and larger configurations.",
+    "areaId": "dubai-sports-city",
+    "location": "Dubai Sports City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 666523,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pools and aquatic gym",
+      "Fitness facilities",
+      "Tennis and badminton",
+      "Outdoor cinema",
+      "Rooftop library",
+      "Children’s play and daycare",
+      "Sports courts",
+      "Jogging and leisure areas"
+    ],
+    "brochureUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/sportz/factsheet",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/sportz/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "page",
+          "label": "Own Danube Sportz project page",
+          "url": "https://danubeproperties.com/portfolio/sportz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "construction",
+          "label": "Own 30 September 2026 Sportz internal inspection",
+          "url": "https://danubeproperties.com/construction/sportz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "facts",
+          "label": "Official public factsheet ZIP · Sportz_A4_factsheet_EN2.pdf, 2 pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/sportz/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "plans",
+          "label": "Official public floorplan ZIP · Sportz_floor_plans.pdf, 20 pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/sportz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Sportz date and commercial guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/sportz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 115
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "page",
+          "plans"
+        ],
+        "location": [
+          "page",
+          "facts"
+        ],
+        "type": [
+          "page"
+        ],
+        "bedrooms": [
+          "page",
+          "plans"
+        ],
+        "amenities": [
+          "page"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "page",
+          "finder"
+        ],
+        "handover": [
+          "page",
+          "finder",
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "page",
+          "construction"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "facts"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Sportz identity checked against its own project page and named plan documents; related phases are separated.",
+        "location": "The sources identify Dubai Sports City, Dubai. No coordinates or guaranteed travel times were invented.",
+        "residences": "The published Studio–3 range was checked against the named layout families; convertible spaces are not counted as extra bedrooms.",
+        "areas": "Numeric plan panels were rendered and visually inspected. Apartment, balcony and total figures are kept distinct; source conflicts are disclosed below.",
+        "amenities": "Project facilities were checked against the cited own page or phase-specific guide. Unit pools are limited to the layouts that show them.",
+        "pricing": "The price basis and source are disclosed. Historical launch references, averages and current availability are not treated as interchangeable.",
+        "payment": "Published schedules were compared and arithmetic reviewed. Conflicting or incomplete current terms remain unresolved rather than merged.",
+        "handover": "Forecast dates are separated from dated construction assessments; no actual handover is inferred from a percentage or elapsed forecast.",
+        "documents": "Named brochures, plans and available commercial documents were reviewed. Numeric evidence, phase distinctions and document allocations are recorded in the project artifact."
+      },
+      "community": "Dubai Sports City",
+      "overview": [
+        "The plan names describe different configurations rather than interchangeable sizes. Confirm the tower, unit number and approved layout; an office or convertible living area should not automatically become another bedroom."
+      ],
+      "locationNote": "Dubai Sports City, Dubai. Confirm the actual entrance, transport connections and route timings for the selected tower.",
+      "priceLabel": "Portal launch reference · developer sold out",
+      "priceNote": "Property Finder’s FAQ gives AED 666,523 and its headline rounds this to AED 667,000. The developer labels Sportz sold out. These historical references do not identify current bookable developer stock or a resale quotation.",
+      "paymentNote": "The own page advertises 30/70 without a complete dated calendar. Property Finder instead allocates 10% on launch, 54% during construction, 1% on handover and 35% afterward. Those percentages total 100%, but their timing cannot be substituted for the selected home’s actual contract.",
+      "handoverNote": "Danube’s portfolio forecasts May 2027; Property Finder retains March 2026. The developer’s 30 September 2026 internal assessment reports 92%, with testing and commissioning underway and DCD inspection still anticipated. Neither the elapsed portal date nor construction percentage proves actual handover.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "389–398 ft² total; 311–330 apartment; 60–79 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio · pool",
+          "area": "451–472 ft² total; 315–342 apartment; 130–136 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Type A",
+          "area": "639 ft² total; 547 apartment; 92 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite · pool",
+          "area": "722 ft² total; 564 apartment; 158 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Prestige A",
+          "area": "840–848 ft² total; 669 apartment; 171–180 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Premier · Tower A",
+          "area": "933 ft² printed total; 758 apartment; 174 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Platinum · Tower A",
+          "area": "1,088 ft² total; 886 apartment; 202 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · pool",
+          "area": "1,208–1,212 ft² total; 971–973 apartment; 237–239 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Developer project scope",
+          "value": "1,110 apartments advertised; not available inventory.",
+          "sourceIds": [
+            "page"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Premier prints 933 ft² despite 758+174=932. Prestige A reaches 848 ft² while 669+180=849. Printed totals are retained; range endpoints need not describe matching units.",
+        "Current live stock, dated instalments, contractual completion, parking, approved service charges, furnishing and unit-specific pool responsibilities remain unverified. Images remain illustrative."
+      ]
+    }
+  }
+}

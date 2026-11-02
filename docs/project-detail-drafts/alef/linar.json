@@ -1,0 +1,330 @@
+{
+  "id": "alef-project-02",
+  "name": "Linar",
+  "developerSlug": "alef",
+  "fields": {
+    "description": "Linar brings high-rise waterfront living to Al Mamzar in Sharjah. Apartments and penthouses sit above shared leisure spaces, with landscaped routes, places to work and a mix of cafés and everyday services planned around the community.",
+    "areaId": "sharjah-al-mamzar",
+    "location": "Al Mamzar",
+    "emirate": "Sharjah",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 945000,
+    "handover": null,
+    "paymentPlan": "30 / 70",
+    "amenities": [
+      "Indoor gym",
+      "Swimming pools",
+      "Children’s play areas",
+      "Youth centre",
+      "Sports courts",
+      "Outdoor games",
+      "Coworking lounges",
+      "Landscaped walkways",
+      "Retail and dining"
+    ],
+    "brochureUrl": "https://www.alefgroup.ae/wp-content/uploads/2026/06/Linar-Brochure-web.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/85a064d32fd746a080e9ee52c8f61d89.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Linar: current developer community page",
+          "url": "https://www.alefgroup.ae/alef-communities/linar/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 190
+        },
+        {
+          "id": "launch",
+          "label": "Linar: developer launch release, 10 June 2026",
+          "url": "https://www.alefgroup.ae/press/alef-group-launches-linar-its-first-waterfront-residential-development-in-al-mamzar-sharjah-valued-at-aed-4-billion/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Linar: original developer brochure",
+          "url": "https://www.alefgroup.ae/wp-content/uploads/2026/06/Linar-Brochure-web.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "facts",
+          "label": "Linar: original launch factsheet, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/063437b9a8394a41a6247774cfa56e51.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "presentation",
+          "label": "Al Mamzar: original launch presentation, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/c0d1527a47f44b84ba5410675f251fb6.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Linar A, B and C: original apartment plans, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/85a064d32fd746a080e9ee52c8f61d89.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 180
+        },
+        {
+          "id": "portal",
+          "label": "Linar: Property Finder project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/alef-group/linar-by-alef",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "later-guide",
+          "label": "Linar: broker payment and completion reference",
+          "url": "https://dubainary.com/off-plan/alef-group-linar",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 115
+        }
+      ],
+      "community": "Al Mamzar waterfront, Sharjah",
+      "overview": [
+        "The planned community contains 2,620 homes across five residential towers and a separate commercial tower. The launch release describes towers of 50–55 floors; these figures represent the wider programme, not current inventory.",
+        "The current developer page includes four-bedroom penthouses alongside one-, two- and three-bedroom apartments. Published layouts below distinguish Towers A, B and C."
+      ],
+      "locationNote": "The developer identifies Al Mamzar, Sharjah, with access from Corniche Road and Al Taawun Street. It is a Sharjah waterfront address, despite some broker pages applying Dubai registration advice.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "The current developer page advertises AED 945,000, compared with AED 849,000 in its June 2026 launch release. Neither establishes availability or the price of a selected residence.",
+      "paymentNote": "The developer currently publishes 30 / 70. The table is a broker’s 10 / 20 / 70 reference. Property Finder instead lists 10 / 40 / 10 / 40; no original dated instalment calendar was retrieved to resolve that difference.",
+      "handoverNote": "The June 2026 developer release expects Tower A to welcome residents from 2030 onwards. Property Finder lists Q4 2030, while another broker lists Q2 2031. A single confirmed completion quarter for all towers is unavailable.",
+      "units": [
+        {
+          "label": "A · 1-bedroom",
+          "area": "74.91–84.29 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "A · 2-bedroom",
+          "area": "115.02–138.27 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "A · 3-bedroom",
+          "area": "179.35 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "A · 4-bedroom penthouse",
+          "area": "319.01–347.71 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B · 1-bedroom",
+          "area": "75.00–84.25 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B · 2-bedroom, including garden",
+          "area": "114.97–327.11 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B · 3-bedroom",
+          "area": "180.16–204.84 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B · 4-bedroom penthouse",
+          "area": "319.50–347.46 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "C · 1-bedroom",
+          "area": "75.00–84.25 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "C · 2-bedroom",
+          "area": "114.97–162.08 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "C · 3-bedroom",
+          "area": "180.16–204.84 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "C · 4-bedroom penthouse",
+          "area": "319.50–347.46 m² net",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking: broker reference",
+          "percent": 10,
+          "sourceIds": [
+            "later-guide"
+          ]
+        },
+        {
+          "stage": "During construction: broker reference",
+          "percent": 20,
+          "sourceIds": [
+            "later-guide"
+          ]
+        },
+        {
+          "stage": "Handover: broker reference",
+          "percent": 70,
+          "sourceIds": [
+            "later-guide"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Planned programme",
+          "value": "2,620 homes; five residential towers and one commercial tower.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Tenure: developer launch statement",
+          "value": "Freehold ownership offered to all nationalities; confirm the selected title and contract.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Areas below are published net totals, including terraces where drawn, rather than gross areas. Tower A’s three-bedroom sheet incorrectly says two bedrooms.",
+        "The brochure’s four-family schedule totals 500 homes, not the full community. Obtain tower-specific approved plans, charges, furnishing, parking and availability."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected alef-project-02 Linar. Own community page, June2026 launch release and brandedPDFs support distinct AlMamzarproject, not AlMamsha globalnav. Headerbody now1–4 includesPH; olderrelease1–3plusPH not exclude4BR.",
+        "location": "Own primaryexactAlMamzar Sharjah and Corniche/AlTaawun roads, centralsharjah-al-mamzar. No DubaiDLDfees/guaranteedtravel times/coordinates adopted. Alnair403 not bypassed.",
+        "residences": "Primary2620homes5residential1commercial,50–55floors. Own17pbroch14/15 schedule212+236+48+4=500 cannotdescribeall2620. Original43pplansA1–9/B10–27/C28–43 allfamilyfulls visuallyread. A3BApage7title2bedcontradicts3actualbedrooms andheading; publiccaveat.",
+        "areas": "All43numericpanels actualviewed linar-numeric-0/5/10/15/20/25/30/35/40.png plus clippedp1full andeight fullcontacts. Public12rows netmetricnotgross: A74.91–84.29/115.02–138.27/179.35/319.01–347.71;B75–84.25/114.97–327.11/180.16–204.84/319.50–347.46;C75–84.25/114.97–162.08/180.16–204.84/319.50–347.46. Bgarden327.11actuallyfullp16read, nofalseoutlierrepair. PHfullp42read, four actual bedrooms. A3BRgross235.30notnet179.35; portal1059/1650/2532 grossnotnet. No conversion invented.",
+        "amenities": "Own currentbody supports all9publishedamenities. Actual17pbrochallcontacts/14/15full numericread andoriginal15plaunch/3pfacts actualcontacts. No universal360view/furnishing/returns inferred fromrenders.",
+        "pricing": "Current own945K versusJune2026primarylaunch849Kexplicitolder. Selectedunitstocknotinferred, noEOIsreservedconvertedactualsales. SecondaryPF850/860Knotheadline.",
+        "payment": "Currentprimary30/70 versusPF10/40/10/40explicitconflict. BrokerDubainary10/20/70 reference100, no originalcalendar. EZREincorrectDubaiDLD4%forSharjah excluded. No brokerillustrativemonthscalendar invented. Independent review: EZRE current target omits the earlier indexed schedule; actual Dubainary page and saved HTML explicitly support10/20/70. Refs corrected without changing numbers.",
+        "handover": "PrimarylaunchTowerA2030onwards only. PFDec2030 versusDubainaryJune2031 mayreleasevariation butunproven, headlinenull. OwnconstructionpagehasnoLinar%verified, nocertificateclaimed.",
+        "documents": "Own17pbrochure2824075bytes actualallpagesread;3pbrandedfacts3226360bytes,15plaunch3273048,43pplans20007760ordinarypublicGET200. PDFsactualnumericpanels/fullfamiliesread <=1750px, noforms. OriginaldatedpaymentPDFgenuinelyunavailable. Allbrochure/facts/plans/presentationoverlap pooled200,brochure20/plans180/facts0/presentation0, genericAlefproperties0."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "handover": [
+          "launch",
+          "portal",
+          "later-guide"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "launch",
+          "plans"
+        ],
+        "priceNote": [
+          "developer",
+          "launch"
+        ],
+        "paymentNote": [
+          "developer",
+          "later-guide",
+          "portal"
+        ],
+        "handoverNote": [
+          "launch",
+          "portal",
+          "later-guide"
+        ],
+        "unresolved": [
+          "brochure",
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "later-guide"
+        ],
+        "facts": [
+          "launch"
+        ]
+      }
+    }
+  }
+}

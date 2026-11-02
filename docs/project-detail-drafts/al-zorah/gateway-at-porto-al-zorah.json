@@ -1,0 +1,333 @@
+{
+  "id": "al-zorah-project-03",
+  "name": "Gateway at Porto Al Zorah",
+  "developerSlug": "al-zorah",
+  "fields": {
+    "description": "Marina-front studios and one- to three-bedroom simplex and duplex apartments beside Al Zorah’s waterfront promenade.",
+    "areaId": "ajman-al-zorah",
+    "location": "Al Zorah",
+    "emirate": "Ajman",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": null,
+    "handover": "2026",
+    "paymentPlan": null,
+    "amenities": [
+      "Floating pool deck",
+      "Landscaped lawn",
+      "Children’s play area",
+      "Internal courtyard",
+      "Waterfront promenade",
+      "Fitness centre",
+      "Multipurpose room",
+      "Underground parking"
+    ],
+    "brochureUrl": "https://www.alzorahcity.com/assets/pdf/Gateway_PortoAlZorah_Brochure.pdf",
+    "floorPlanUrl": "https://www.alzorahcity.com/assets/pdf/Porto_Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Al Zorah · Gateway project page",
+          "url": "https://www.alzorahcity.com/gateway-porto-al-zorah",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Gateway · original brochure",
+          "url": "https://www.alzorahcity.com/assets/pdf/Gateway_PortoAlZorah_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Gateway · developer-hosted plans",
+          "url": "https://www.alzorahcity.com/assets/pdf/Porto_Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 85
+        },
+        {
+          "id": "alternate-plans",
+          "label": "Gateway · alternative branded plans, Remapp mirror",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1770981709125-03ef2dd7c55e3929.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 85
+        },
+        {
+          "id": "alternate-brochure",
+          "label": "Gateway · alternative brochure, Remapp mirror",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1770981714887-cb863bfab3d3c84c.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "launch",
+          "label": "Al Zorah · 26 October 2023 launch",
+          "url": "https://www.alzorahcity.com/assets/pdf/Al-Zorah-City-introduces-its-latest-luxury-marina-front-project-Gateway.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Gateway project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/al-zorah-development/gateway-porto-al-zorah",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut · Gateway building guide",
+          "url": "https://www.bayut.com/buildings/gateway-porto-al-zorah/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        }
+      ],
+      "community": "Al Zorah",
+      "overview": [
+        "The developer advertises 157 apartments. Published plan editions differ; compare the contracted layout before choosing a home."
+      ],
+      "locationNote": "Along the marina boardwalk in Al Zorah, Ajman; nearby beach and golf attractions do not establish private access.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder’s launch reference is AED 896,000; no current developer quotation verified.",
+      "paymentNote": "Bayut reference below totals 100%; Property Finder also reports 10/40/50. Current developer terms remain unverified.",
+      "handoverNote": "Developer forecast: 2026; both portals specify Q4 2026. Actual completion remains unverified.",
+      "units": [
+        {
+          "label": "Studio I",
+          "area": "657 | 672 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "1BR I/II/III",
+          "area": "1,015/1,265/842 | 1,187/1,305/848 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "2BR simplex I/II",
+          "area": "1,686/1,824 | 1,730/1,869 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "2BR duplex III/IV",
+          "area": "1,891/2,045 | 2,274/2,282 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "3BR simplex I/II",
+          "area": "3,274/2,980 | 3,310/3,102 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "3BR duplex III/IV/V",
+          "area": "3,584/2,392/2,635 | 4,030/2,606/3,059 ft²",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Bayut reference · booking",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "3 months after SPA",
+          "percent": 5,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "9 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "15 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "21 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "24 months after SPA",
+          "percent": 5,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Reading the areas",
+          "value": "Developer-hosted | alternative edition; starting whole-home figures, not room-area sums.",
+          "sourceIds": [
+            "plans",
+            "alternate-plans"
+          ]
+        },
+        {
+          "label": "Edition counts",
+          "value": "Developer-hosted types total 147; alternative types total 157, matching the website.",
+          "sourceIds": [
+            "plans",
+            "alternate-plans",
+            "developer"
+          ]
+        },
+        {
+          "label": "Launch edition",
+          "value": "26 October 2023 release: minimum 685 ft², differing from both plan editions.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the contracted plan revision and measurement basis; duplex figures cover both levels once.",
+        "Current inventory, fees, parking allocations and launch membership incentives require confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact own project page and 26 October 2023 issuer release identify Gateway at Porto Al Zorah. Original brochure labels Porto Gate; alternate mirror labels Gateway, not a separate project. Preserve protected identity.",
+        "location": "Own page, original brochure7 and issuer release1 identify marina boardwalk/creek/mangrove setting at Al Zorah, Ajman. Existing exact ajman-al-zorah mapping; no invented GPS/private beach or guaranteed golf membership.",
+        "residences": "All13 full original families actually viewed at even pages2–26, plus all13 alternate full families odd3–27; studio distinct from enclosed1BR, maid rooms not additional bedrooms. All13 mix panels each version actually viewed in readable crops. Original13+76+36+22=147; alternate13+89+33+22=157. No stock claim.",
+        "areas": "Every adopted number visually verified: original even2–26 and alternate odd3–27. Original starting range657–3584 matches website built-up summary; alternative672–4030. Two versions retained side-by-side, not combined as variation ranges or assumed chronological revisions. Original1BR1015/1265/842,2BR1686/1824/1891/2045,3BR3274/2980/3584/2392/2635; alternative1187/1305/848,1730/1869/2274/2282,3310/3102/4030/2606/3059. Duplex whole lower/upper plans seen and single total retained. Room dimension product inconsistencies are not used to recalculate contracted areas.",
+        "amenities": "Own page supports floating pool/lawn/play/courtyard/promenenade. Own issuer release1 confirms fitness/family pool/play. Bayut supports gym/multipurpose/underground parking; primary alternative floorplate28 also corroborates these labels but no numeric parking allocation adopted. Original brochure7/9/10/11 and copyright45 actually read. Wider resorts/golf not represented as unconditional included facilities.",
+        "pricing": "Primary project page and original documents retrieved contain no current unit quote. PF fresh exact page launch896K explicitly historical and availability-qualified. Secondary932257/revised717–4967 areas not silently substituted. Price null; no discounts/current availability inferred.",
+        "payment": "No primary payment calendar in published page/brochure/plans/release. Fresh Bayut seven stages10+5+10+10+10+5+50=100; PF main10/40/50 corroborates aggregate. Reference table secondary, headline null. Public targeted searches included payment/factsheet; JRE/Remapp public docs checked, no primary calendar found. EZRE incorrectly applies Dubai4% to Ajman and has85% malformed post schedule; excluded entirely. Login/form-gated sources not accessed.",
+        "handover": "Own completion2026 and PF/Bayut Q42026 compatible forecasts; no certificate or dated construction milestone verified. PF sales-start2025 not misrepresented as launch: actual issuer launch26October2023. No completion inferred from elapsed forecasts.",
+        "documents": "Own45p brochure/26p plans/2p release ordinary public200. Remapp linked public28p plans/47p brochure ordinary200, honest broker sources. All26 adopted numeric/full family layouts plus both count-panel sets actually read; original brochure selected7/9/10/11/45 and issuerbothpages read. Alternative brochure first contactboard only, corroboration0. Related underlying documents and launch retelling combined200 maximum; generic corporate0; no forms."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "launch",
+          "bayut"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "bayut",
+          "portal"
+        ],
+        "paymentNote": [
+          "bayut",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "bayut",
+          "portal"
+        ],
+        "units": [
+          "plans",
+          "alternate-plans"
+        ],
+        "paymentStages": [
+          "bayut"
+        ],
+        "facts": [
+          "plans",
+          "alternate-plans",
+          "launch",
+          "developer"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "alternate-plans",
+          "launch"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

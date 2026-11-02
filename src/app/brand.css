@@ -1,0 +1,69 @@
+/* Shared Aliyas design system: open canvas, strict grid, original gold identity. */
+.site-frame {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  background: var(--paper);
+}
+.brand {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  background: #151917;
+  padding: 7px 12px;
+}
+.brand-logo {
+  width: 122px;
+  height: auto;
+}
+.brand-light {
+  padding: 0;
+  background: transparent;
+}
+.brand-light .brand-logo {
+  width: 180px;
+}
+.official-contact-list {
+  display: grid;
+  margin-block: 28px;
+}
+.official-contact-list > a {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 19px 0;
+  border-bottom: 1px solid var(--line);
+  font: 14px var(--font-ui);
+}
+.official-contact-list > a > span {
+  flex: 1;
+  overflow-wrap: anywhere;
+}
+.official-contact-list small {
+  display: block;
+  color: var(--muted);
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  margin-bottom: 6px;
+}
+.official-contact-list > a > svg {
+  flex-shrink: 0;
+  color: #80632e;
+}
+.contact-socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  margin: 24px 0;
+  font: 11px var(--font-ui);
+}
+.contact-socials a {
+  display: inline-flex;
+  gap: 5px;
+  align-items: center;
+}
+.info-about-text a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}

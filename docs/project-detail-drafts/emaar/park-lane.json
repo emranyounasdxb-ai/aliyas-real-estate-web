@@ -1,0 +1,330 @@
+{
+  "id": "emaar-project-62",
+  "name": "Park Lane",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Park Lane brings Vida-designed interiors to apartments and townhouses in Dubai Hills Estate. The collection includes one to three bedroom apartments and four three-bedroom townhouses, with a landscaped podium for swimming, exercise and gatherings. Its building and podium layouts offer markedly different balcony sizes, so the specific plan matters as much as the bedroom count.",
+    "areaId": "dubai-hills-estate",
+    "location": "Dubai Hills Estate",
+    "emirate": "Dubai",
+    "type": "Apartment / Townhouse",
+    "bedrooms": "1–3",
+    "price": 1400000,
+    "handover": "Q4 2028 reported",
+    "paymentPlan": "80/20 reported",
+    "amenities": [
+      "Infinity pool and pool deck",
+      "Children’s play area",
+      "Indoor and outdoor fitness facilities",
+      "Indoor multipurpose room",
+      "Landscaped podium deck",
+      "Barbecue area",
+      "Covered parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/PARK-LANE_brochure.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/PARK-LANE_floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Park Lane — Interiors by Vida",
+          "url": "https://www.emaar.com/en/properties/park-lane-at-dubai-hills-estate",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: Park Lane brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/PARK-LANE_brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "podium",
+          "label": "Emaar: Park Lane podium apartments and townhouses",
+          "url": "https://www.emaar.com/cms-media/uploads/PARK-LANE_floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "plans1a",
+          "label": "Park Lane Building 1A plans · Mitchell’s-hosted Emaar copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans1b",
+          "label": "Park Lane Building 1B plans · Mitchell’s-hosted Emaar copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans3b",
+          "label": "Park Lane Building 3B plans · Mitchell’s-hosted Emaar copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Park Lane fact sheet · Mitchell’s-hosted Emaar copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FACT_SHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 185
+        },
+        {
+          "id": "payment",
+          "label": "Park Lane payment schedule · Mitchell’s-hosted Emaar copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Park Lane building guide",
+          "url": "https://www.bayut.com/buildings/park-lane-dubai-hills-estate/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "facts"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "facts"
+        ],
+        "units": [
+          "facts",
+          "podium"
+        ],
+        "documents": [
+          "brochure",
+          "podium",
+          "plans1a",
+          "plans1b",
+          "plans3b"
+        ],
+        "paymentPlan": [
+          "payment",
+          "bayut"
+        ],
+        "handover": [
+          "payment",
+          "bayut"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Park Lane — Interiors by Vida confirmed; Parkland and separate Vida Residences excluded.",
+        "location": "Dubai Hills Estate and park/mall context confirmed; future rail connections qualified.",
+        "residences": "One to three bedroom apartments and four three-bedroom townhouses documented.",
+        "areas": "Official nine-page podium pack and separate 1A/1B/3B packs reviewed. Project-wide rounded ranges attributed to fact sheet; missing 2A/2B/3A packs disclosed.",
+        "amenities": "Developer pool, play, fitness, multipurpose, barbecue and podium facilities checked.",
+        "pricing": "Official AED 1.4m headline separated from historical apartment/townhouse category launch starts.",
+        "payment": "Nine dated stages visually checked; 80% before completion and 20% at completion. Bayut corroborates split.",
+        "handover": "October 2028 in payment sheet, matching Bayut’s Q4 2028 estimate.",
+        "documents": "Official brochure and podium plans retained; three building packs and launch documents linked with broker-hosted provenance. Other building documents not fabricated."
+      },
+      "community": "Dubai Hills Estate",
+      "overview": [
+        "The brochure describes warm, earthy interiors in Vida’s design style. Shared spaces centre on the podium and a flexible indoor room intended for exercise, gatherings and children’s activities. Its apartment and townhouse collection looks towards landscaped outdoor areas and the wider neighbourhood. The interior-design association alone does not establish hotel management, furnished delivery or included hospitality services."
+      ],
+      "locationNote": "Emaar places Park Lane in Dubai Hills Estate, with road access towards Al Khail Road and nearby park and mall destinations. The fact sheet advertises park access; check the exact entrance from the chosen building. Planned rail and metro references are not confirmation of current local services.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "The developer advertises AED 1.4m. March 2024 launch starts are AED 1.4m for one-bedroom apartments, AED 2.18m for two, AED 3.31m for three and AED 5.58m for townhouses. These historical prices require a current unit quotation.",
+      "paymentNote": "The launch document shows 10% on booking, seven further 10% instalments and 20% on completion. Bayut reports the same 10/70/20 split. Obtain the outstanding schedule for a new allocation or resale.",
+      "handoverNote": "October 2028 is the launch document’s estimated completion month; Bayut corroborates Q4 2028. Confirm the current building-specific programme and contract.",
+      "units": [
+        {
+          "label": "1 bedroom apartment · launch summary",
+          "area": "607–1,089 sq ft · rounded published range",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2 bedroom apartment · launch summary",
+          "area": "923–1,718 sq ft · rounded published range",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "3 bedroom apartment · launch summary",
+          "area": "1,523–2,203 sq ft · rounded published range",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Podium · 1 bedroom apartment",
+          "area": "757.99–852.07 sq ft total area",
+          "sourceIds": [
+            "podium"
+          ]
+        },
+        {
+          "label": "Podium · 3 bedroom apartment",
+          "area": "2,142.23–2,203.48 sq ft total area",
+          "sourceIds": [
+            "podium"
+          ]
+        },
+        {
+          "label": "3 bedroom townhouse · TH-01 / TH-03",
+          "area": "2,602.39 / 2,587.54 sq ft total area",
+          "sourceIds": [
+            "podium"
+          ]
+        },
+        {
+          "label": "3 bedroom townhouse · TH-02 / TH-04",
+          "area": "2,587.97 / 2,598.19 sq ft total area",
+          "sourceIds": [
+            "podium"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · March 2024 launch",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2026 · 20% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2026 · 40% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2027 · 60% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2027 · 80% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2028 · estimated completion",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published collection",
+          "value": "The fact sheet lists 850 apartments and four townhouses, or 854 homes in total. This is not an available-stock count.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Townhouse layout",
+          "value": "The podium townhouses are duplex homes. Living, dining, kitchen and a maid’s room are on the lower level; all three bedrooms are upstairs. Their suite areas are about 2,283–2,295 sq ft, with balconies accounting for the rest of the published total.",
+          "sourceIds": [
+            "podium"
+          ]
+        },
+        {
+          "label": "Building 1A example",
+          "value": "One-bedroom unit 2106 is 606.98 sq ft including a 56.73 sq ft balcony. First-floor unit 106 is 968.54 sq ft with a 385.24 sq ft balcony. These are distinct layouts, not interchangeable size descriptions.",
+          "sourceIds": [
+            "plans1a"
+          ]
+        },
+        {
+          "label": "Building 1B example",
+          "value": "Two-bedroom unit 2105 totals 922.90 sq ft. Unit 2007 totals 1,717.81 sq ft, including a 794.27 sq ft balcony. Its much larger advertised area is largely outdoor space.",
+          "sourceIds": [
+            "plans1b"
+          ]
+        },
+        {
+          "label": "Building 3B example",
+          "value": "One-bedroom unit 101 totals 1,088.88 sq ft, with 503.21 sq ft of balcony. Typical one-bedroom plans in this block are approximately 647–652 sq ft. Building-specific drawings are linked in Sources.",
+          "sourceIds": [
+            "plans3b"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Complete Building 2A, 2B and 3A floor-plan packs were not recovered; do not assume another block’s layout applies. Project summary ranges are explicitly rounded launch figures.",
+        "Current stock, prices, outstanding payments, construction progress and contractual completion need confirmation.",
+        "Confirm service charges, parking allocations, finishes and any Vida-related service terms; furnished or hotel-managed status is not established.",
+        "Project images remain illustrative pending the later imagery task."
+      ]
+    }
+  }
+}

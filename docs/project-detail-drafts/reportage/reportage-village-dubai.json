@@ -1,0 +1,241 @@
+{
+  "id": "reportage-project-19",
+  "name": "Reportage Village Dubai",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Reportage Village Dubai is a Dubailand townhouse community with two-, three- and four-bedroom homes.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "2–4",
+    "price": null,
+    "handover": "Q4 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Pool",
+      "Children’s pool",
+      "Gym",
+      "BBQ areas",
+      "Landscape gardens",
+      "Pet areas"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Brochure-Digital.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Brochure-Digital.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reportage · Reportage Village Dubai",
+          "url": "https://reportagegroup.com/projects/residential-communities/reportage-village-dubai/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Reportage · Village Dubai original brochure and unit plans",
+          "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Brochure-Digital.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 145
+        },
+        {
+          "id": "facts",
+          "label": "Reportage · Village Dubai original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Fact-Sheets.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "portal",
+          "label": "Bayut · Reportage Village project reference",
+          "url": "https://www.bayut.com/for-sale/property/dubai/dubailand/reportage-village/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "broker",
+          "label": "PropJunction · Reportage Village payment alternatives",
+          "url": "https://www.propjunction.ae/projects/reportage-village-townhouses-payment-plan",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Dubailand",
+      "overview": [
+        "Original mix: 1,321 two-bedroom, 156 three-bedroom and 290 four-bedroom townhouses; 1,767 homes altogether."
+      ],
+      "locationNote": "Dubailand, Dubai, near Arabian Ranches. This is separate from Reportage Village Abu Dhabi.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Bayut records an AED 1.55 million launch guide. No current developer unit quotation was verified.",
+      "paymentNote": "Bayut shows 20/80; PropJunction attributes 20% booking and 80% completion to its two-bedroom reference. Other unit-specific alternatives exist; no original dated calendar was verified.",
+      "handoverNote": "Bayut forecasts Q4 2027 and displays 25% progress. Reportage displays 35%; neither snapshot is dated. Confirm the current contractual date.",
+      "units": [
+        {
+          "label": "2BR townhouse A",
+          "area": "1,566.80–2,037.18 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR townhouse A",
+          "area": "2,169.50–4,587.04 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR townhouse A",
+          "area": "2,274.70–2,956.07 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Printed whole-home totals include outdoor space, not internal built-up area alone.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Levels",
+          "value": "Two and three bedrooms: ground plus one. Four bedrooms: ground plus two.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Optional feature",
+          "value": "Four-bedroom internal lift is optional.",
+          "sourceIds": [
+            "brochure",
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Broker reference · 2BR booking",
+          "percent": 20,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 80,
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The 2BR components do not match printed totals. Confirm the contracted plan and outdoor-area basis.",
+        "Private pools, optional lifts, current charges and availability require unit-specific confirmation."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "brochure",
+          "facts"
+        ],
+        "bedrooms": [
+          "brochure",
+          "facts"
+        ],
+        "overview": [
+          "brochure",
+          "facts"
+        ],
+        "facts": [
+          "brochure",
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "portal",
+          "developer"
+        ],
+        "handoverNote": [
+          "portal",
+          "developer"
+        ],
+        "unresolved": [
+          "brochure",
+          "facts",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-19/reportage-village-dubai retained. Own1767matchesbrochure19/facts2 sum1321+156+290=1767. No conflationwithroot20AbuDhabi312orTaorminaVillage530/838. No ReportageVillage2 phaseassumption.",
+        "location": "ExactownpageDubailandDubai nearArabianRanches, mappedexistingDubailandregistry. Brochure4containsgenericRukancommunitycarryover, excludedallgenericcommunitycopy. BrokerWadiAlSafa5 labelnotpromotedoverprimarybroadlocation. No inventedcoords/traveltimeguarantees.",
+        "residences": "Allthree actualwholefamilies20/21 read at1600px:2BRAground+firsttwobedrooms,3BRAground+firstthreebedroomsplusmaid,4BRAground+first+secondfourbedrooms. Allcompletelevels read, printedwholehomestotalsnotdoubled/tripled. FourBRoptionalinternal lift actualbrochure19/facts1, not universalfittedlift.",
+        "areas": "Actualvisiblebrochure20/21 tables readft2:2BRAinternal970/outdoor597.4–1067.78/total1566.8–2037.18; minimumcomponents1567.4doesnotmatch1566.8, maximum2037.78not2037.18. 3BRAinternal1213.31/outdoor956.16–3373.73/total2169.5–4587.04; minimum2169.47vs2169.5 rounding.4BRA1670+604.7–1286.07=2274.7–2956.07. Printedtotalincludesprivateoutdoor/parkingasillustrated, notconflatedwithinternalBUAorplot-onlyresalelisting. No unverifiedvariantsfrombrokerquotedplansimported.",
+        "amenities": "Ownsixamenities retained, actualbrochure17/facts1readbroadercourts/Zen/yoga/jogging/chess/nursery/mosque. Ownopeningclaimprivatepoolnot treatedasstandardallunits sinceoriginaladoptedplansnotlabeluniversalpool. Facts1two-large-elevatorsboilerplate notappliedtownhousecommunity. Optionalfourbedliftclearlyqualified.",
+        "pricing": "Primaryphasepage no currentunitprice. Bayut1.55mlaunchguidehistorical, headlineNULL. Broker/resale discounted1.1moffers notinventeddevelopercurrentminimumorreturn.",
+        "payment": "Original25pbrochure/2pfactsno datedpaymentcalendar. Bayut20/80aggregatecorroboratesPropJunction2BRoption6actual20purchase80completion=100. Secondarytablequalified, headlineNULL. Otherbroker2BR10/46/44,15/46/39,20/46/34,30/46/24,30/70;4BR10/40/50,15/40/45,20/40/40,30/40/30all100. Broker33/33/33sums99 rejected anddiscountsnotcurrentoffers. No enquiryformorSalesOfferrequests.",
+        "handover": "BayutQ42027secondaryforecastonly; own35percentvsBayut25percentbothundatedrelativeeditiondifference, no preciseprogressdateinvented oractualcompletionassertion.",
+        "documents": "Ownpublic25p40,242,948bytesbrochure and2pfacts ordinaryGET200. Alladopted3numericwholefamilydrawings20/21 andmix19/amenities17/facts1/2actuallyread. Brochure22isMasterPlanheadingonly, no actualdetailedmasterplanclaim. No distinctfloorplanURLinowncurrentmaterials; publicfloorPlanUrlusesactualbrochurecontainingwholeplans. Allrelatedunderlyingbrochure/facts/retellings/mirrorsone200pool145+55; genericDubailand/corporatecopy0. No forms/authbypass/images."
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "aldar-project-16",
+  "name": "Al Ghadeer Gardens",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Al Ghadeer Gardens brings townhouses and villas to the Abu Dhabi–Dubai border corridor. The design pairs private gardens with pedestrian routes, landscaped recreation areas and a community centre. Two and three bedroom townhouses sit alongside four bedroom villas.",
+    "areaId": "abu-dhabi-al-ghadeer",
+    "location": "Al Ghadeer",
+    "emirate": "Abu Dhabi",
+    "type": "Townhouse",
+    "bedrooms": "2–4",
+    "price": 1700000,
+    "handover": "Q4 2029 · launch estimate",
+    "paymentPlan": "55/45 · launch terms",
+    "amenities": [
+      "Community centre",
+      "Swimming pool",
+      "Splash pad and water slide",
+      "Children’s play areas",
+      "Basketball court",
+      "Padel court",
+      "Events lawn",
+      "Edible garden",
+      "Shaded walkways"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/al_ghadeer_gardens_brochure.pdf/4e261b56534c11f19bc966566d304dd1",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/al_ghadeer_gardens_brochure.pdf/4e261b56534c11f19bc966566d304dd1",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Al Ghadeer Gardens",
+          "url": "https://www.aldar.com/properties/en/uae/al-ghadeer/alghadeer-gardens",
+          "kind": "developer",
+          "derivedWords": 130,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "launch",
+          "label": "Aldar launch announcement · 15 May 2026",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/4912607",
+          "kind": "official-document",
+          "derivedWords": 150,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "sold",
+          "label": "Aldar: launch sell-out · 21 May 2026",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-sells-out-al-ghadeer-gardens-at-launch-generating-more-than-aed-1-billion",
+          "kind": "developer",
+          "derivedWords": 35,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Al Ghadeer Gardens brochure and plans",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/al_ghadeer_gardens_brochure.pdf/4e261b56534c11f19bc966566d304dd1",
+          "kind": "official-document",
+          "derivedWords": 110,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "facts",
+          "label": "Aldar launch factsheet · public copy",
+          "url": "https://files.alnair.ae/uploads/2026/5/24/ef/24efbedb0e5feacd0efda3a4fb451877.pdf",
+          "kind": "official-document",
+          "derivedWords": 160,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "facts",
+          "sold"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "handover": [
+          "facts"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "facts": [
+          "launch"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own official May-2026 Gardens release verified, kept separate from N2 and Parks.",
+        "location": "Official launch places development on Abu Dhabi–Dubai border within Al Ghadeer; no unsupported area ID assigned.",
+        "residences": "Official factsheet and brochure identify two/three-bedroom townhouses and four-bedroom villas.",
+        "areas": "Four floor-plan drawings visually checked. They show room dimensions but no verified aggregate area; numeric areas withheld.",
+        "amenities": "Dedicated official page and factsheet checked.",
+        "pricing": "Original AED 1.7m starting reference retained with developer-reported launch sell-out, not current stock.",
+        "payment": "Official-branded factsheet visually confirms 55/45 and 5% down payment; remaining 50% aggregated without invented dates.",
+        "handover": "Launch factsheet gives Q4 2029; current plot completion remains subject to developer update.",
+        "documents": "Downloaded official 45-page brochure; plans on pages 40–43 and one-page factsheet visually inspected."
+      },
+      "community": "Al Ghadeer Gardens · Abu Dhabi",
+      "overview": [
+        "The official layouts distinguish a middle and a corner three-bedroom townhouse. Both use ground and first floors, while the villa provides a different garden and parking arrangement. Request the selected plot drawing before comparing usable space."
+      ],
+      "locationNote": "Aldar places the project along the Abu Dhabi–Dubai border. The established Al Ghadeer neighbourhood and the new Gardens release should be distinguished when checking routes and existing facilities.",
+      "priceLabel": "Launch starting price",
+      "priceNote": "The launch factsheet lists AED 1.7m. Aldar announced the initial release sold out on 21 May 2026. This historical starting figure is not evidence of an available home at that price.",
+      "paymentNote": "The factsheet sets out 55% before handover, including a 5% deposit, and 45% at handover. The intermediate 50% is grouped below because an independently verified instalment calendar was not established.",
+      "handoverNote": "Q4 2029 is the launch factsheet’s estimated handover. Confirm current timing for the individual plot; it must not be transferred to later Al Ghadeer releases.",
+      "units": [
+        {
+          "label": "2-bedroom townhouse",
+          "area": "Aggregate area to confirm against the selected plot schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · middle",
+          "area": "Aggregate area to confirm against the selected plot schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · corner",
+          "area": "Aggregate area to confirm against the selected plot schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom villa",
+          "area": "Aggregate area to confirm against the selected plot schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch deposit",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Other pre-handover payments",
+          "percent": 50,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 45,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Planned school",
+          "value": "The May 2026 announcement targeted Al Ghadeer British School’s opening for the 2030 academic year. This is a future plan, not a claim that the school is operating or that a place is included.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Original release",
+          "value": "Aldar announced 437 homes at launch. This is the release size, not the number currently available.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Request current stock and a dated payment schedule for the selected plot.",
+        "Confirm contractual area, parking and any pool or landscaping inclusions rather than relying on renderings.",
+        "The area catalogue does not currently include a verified Al Ghadeer entry; areaId remains null.",
+        "Amenities and school opening are development plans; confirm delivery dates and access conditions."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

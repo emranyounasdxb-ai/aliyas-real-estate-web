@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-48","name":"Ovelle","developerSlug":"emaar",
+ "fields":{
+  "description":"Ovelle is a collection of four and five bedroom villas at The Valley. Emaar’s proposal combines landscaped streets and outdoor recreation with homes arranged across three levels. The five-bedroom range includes Medium and Premium plans, with different internal areas, outdoor spaces and service-room arrangements.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":8856888,"handover":"Q4 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community landscaped spaces","Terrace trails and central park","Village market plaza","Fitness areas","Pet park","Sports courts","Canopy walk","Oasis play area","High ropes and zip line","Falaj fountain","Viewing platforms and stepped terraces","Adventure play and picnic areas"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Ovelle-Avelia_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Ovelle-Avelia_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Ovelle at The Valley","url":"https://www.emaar.com/en/properties/ovelle-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"brochure","label":"Emaar: Ovelle brochure","url":"https://www.emaar.com/cms-media/uploads/Ovelle-Avelia_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"plans","label":"Emaar: Ovelle four and five bedroom villa plans","url":"https://www.emaar.com/cms-media/uploads/Ovelle-Avelia_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Ovelle fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/OVELLE_THE_VALLEY_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"payment","label":"Ovelle payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/OVELLE_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Ovelle","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/ovelle","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Own Ovelle page and Ovelle-labelled plans confirmed despite shared Ovelle-Avelia filenames; Avelia remains separately owned.",
+    "location":"The Valley on the Dubai–Al Ain Road corridor; community landscape and access descriptions distinguished from project-specific delivery.",
+    "residences":"Four bedroom and five bedroom Medium/Premium villas; six distinct plans across ground, first and second floors.",
+    "areas":"All seven floor-plan pages read. Type A four-bedroom and Premium five-bedroom drawings visually reviewed; BUA separated from average plot sizes.",
+    "amenities":"Community trails, play, sports and landscape destinations checked against brochure/fact sheet; drawn private pool/lift not guaranteed as included specification.",
+    "pricing":"AED 8,856,888 current developer selection distinguished from AED 7.09m headline and historical category prices.",
+    "payment":"Own Ovelle payment sheet visually checked, nine stages totalling 100% with 50/70/90% construction triggers.",
+    "handover":"December 2029 estimate agrees between original payment sheet and Property Finder.",
+    "documents":"Official brochure and complete Ovelle plans linked; broker-hosted original fact and payment sheets attributed. Images unchanged."
+   },
+   "community":"The Valley",
+   "overview":["Ovelle’s design theme draws on the landscape of Emirati valleys, with earth-toned interiors, gardens and outdoor gathering places. The brochure describes open-plan rooms and terraces that extend daily life outside. Terrace Trails and Central Park form shared places for recreation, alongside more active play and sports settings. The villas offer a separate roof-level lounge and terrace, adding a second place to gather away from the principal living rooms. The proposed landscaping and recreational network should be checked against the delivery programme for the relevant phase."],
+   "locationNote":"Emaar locates The Valley along Dubai–Al Ain Road. Ovelle’s fact sheet also describes connections through Jebel Ali–Lahbab Road towards Emirates Road and other districts. Dubai Outlet Mall and the Rugby Sevens are reference destinations in the launch material; travel times depend on the actual entrance, route and traffic.",
+   "priceLabel":"Developer-published units from",
+   "priceNote":"Emaar’s current selection starts at AED 8,856,888, while the page retains a from-AED-7.09m headline. The launch sheet lists four-bedroom villas from AED 7.09m, five-bedroom Luxury villas from AED 8.85m and five-bedroom Premium villas from AED 13.2m. The plans call the middle category Medium. Confirm current unit pricing and availability.",
+   "paymentNote":"The launch payment sheet allocates 10% on booking, seven further instalments of 10%, and 20% at estimated completion. Later stages are linked to 50%, 70% and 90% construction. Earlier calendar instalments have passed, so a current purchase requires an updated schedule.",
+   "handoverNote":"December 2029 is the estimated completion month printed on the payment sheet and reported by Property Finder. It remains subject to the developer’s current programme and contractual terms.",
+   "units":[
+    {"label":"4 bedroom villa · Type A","area":"4,334.73 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · Type B","area":"4,355.72 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Medium villa · Type A","area":"5,669.88 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Medium villa · Type B","area":"5,639.42 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Premium villa · Type A","area":"7,728.37 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Premium villa · Type B","area":"7,970.24 sq ft built-up area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2029 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection and plots","value":"133 villas: 61 four-bedroom, 45 five-bedroom Luxury and 27 five-bedroom Premium homes. Average plots are respectively 6,509, 7,077 and 8,724 sq ft; these are category averages, not a particular unit’s land area.","sourceIds":["facts"]},
+    {"label":"Area basis","value":"Plan BUA includes suite, parking, balcony and entrance/terrace components. It is not the same as internal floor area or plot size.","sourceIds":["plans"]},
+    {"label":"Three-level arrangements","value":"Drawings show a lift, ground-floor guest bedroom and maid’s room, upper bedrooms and a roof lounge with pantry and terrace. Premium layouts also show a driver’s room and separate show kitchen. Pools and sunken seating are drawn, but inclusion and final specifications must be confirmed in the sale documents.","sourceIds":["plans"]},
+    {"label":"Size comparison","value":"Some portal tables start the four-bedroom range around 4,355 sq ft. The official Type A drawing also includes a smaller 4,334.73 sq ft plan, retained separately here.","sourceIds":["plans","finder"]}
+   ],
+   "unresolved":["Current villa stock, price and payment obligations for the specific plot.","Confirm exact plot area, lift/pool inclusion, landscaping, parking, finishes and any upgrade costs in the contract.","Community-service charges, current construction progress and contractual handover remain unconfirmed.","Avelia is separately owned; its homes and phase information are not included in Ovelle’s launch mix.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

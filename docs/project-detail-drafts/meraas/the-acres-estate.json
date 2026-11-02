@@ -1,0 +1,247 @@
+{
+  "id": "meraas-project-10",
+  "name": "The Acres Estate",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "The Acres Estate is the larger five- to seven-bedroom villa offering within The Acres in Dubailand. Its Ivory and Amber collections have distinct plans, with courtyards, generous family spaces and layouts that connect to the surrounding gardens and lagoon community.",
+    "areaId": "dubai-the-acres",
+    "location": "The Acres",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "5–7",
+    "price": 14500000,
+    "handover": "August 2028 · current linked release estimate",
+    "paymentPlan": "10/55/35 · current linked launch schedule",
+    "amenities": [
+      "Community lagoons",
+      "Halo Park",
+      "Community clubhouse",
+      "Lagoon clubhouse",
+      "Retail",
+      "Community gardens",
+      "Pedestrian paths",
+      "Children’s play areas"
+    ],
+    "brochureUrl": "https://dubaiholding.box.com/s/bulfz03urssutekqp2kecoqij48rdmun",
+    "floorPlanUrl": "https://dubaiholding.box.com/s/nl984s39ibtu1b2wrwv5ymsrh2xlpzil",
+    "research": {
+      "sources": [
+        {
+          "id": "microsite",
+          "label": "The Acres official microsite · Estates section",
+          "url": "https://theacres.meraas.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "developer",
+          "label": "Meraas own The Acres Estate project page",
+          "url": "https://meraas.com/en/project/the-acres-estate",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 135
+        },
+        {
+          "id": "brochure",
+          "label": "The Acres Estates official toolkit brochure",
+          "url": "https://dubaiholding.box.com/s/bulfz03urssutekqp2kecoqij48rdmun",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "The Acres Estates official Ivory/Amber floor plans",
+          "url": "https://dubaiholding.box.com/s/nl984s39ibtu1b2wrwv5ymsrh2xlpzil",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "payment",
+          "label": "The Acres Estates current linked price/payment sheet",
+          "url": "https://dubaiholding.box.com/s/0u43opih4p8pjiic16e54dmymbl7e4oq",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "microsite"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "microsite"
+        ],
+        "type": [
+          "microsite"
+        ],
+        "bedrooms": [
+          "microsite"
+        ],
+        "price": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "5–7-bedroom Estates/Amber/Ivory kept separate from 3–5-bedroom Acres Villas.",
+        "location": "Own The Acres Dubailand location; no assumed plot coordinates.",
+        "residences": "All six non-mirrored Ivory H/J/L and Amber G/I/K types reviewed.",
+        "areas": "Own 22-page plans, type/total panels 4,7,10,14,17,20 visually checked. Built-up totals are not plot sizes.",
+        "amenities": "Own community facilities with phased-delivery/access caveats; private pool/landscaping excluded by plan disclaimer.",
+        "pricing": "Current linked starting guides 14.5/16/22.2 m visually checked; not earlier releases or current stock.",
+        "payment": "Nine-stage 10/10/10/10/10/5/5/5/35 schedule totals 100 and dates visually read.",
+        "handover": "Current linked release August 2028, not universal across all Acres phases.",
+        "documents": "Official 103-page Estates brochure,22-page collection-specific plans and 1-page price/payment sheet retrieved. Shared microsite allocation 100/100 pooled 200."
+      },
+      "community": "The Acres Estate · The Acres",
+      "overview": [
+        "Ivory and Amber are different collections, with separate five-, six- and seven-bedroom plans. Seven-bedroom examples add an upper level. The plan disclaimer excludes swimming pools and landscape works and makes them the end user’s responsibility; these costs should not be assumed included."
+      ],
+      "locationNote": "Within The Acres in Dubailand. Confirm the chosen collection, phase entrance and actual plot boundaries. The community’s proposed facilities and surrounding roads may be delivered in stages.",
+      "priceLabel": "Developer linked-release starting guide · reconfirm",
+      "priceNote": "The current linked sheet gives starting guides of AED 14.5 m for five bedrooms, AED 16 m for six and AED 22.2 m for seven. It does not confirm current inventory, every plot’s price or earlier-release terms.",
+      "paymentNote": "Current sheet: 10% booking; 10% August 2025; 10% February 2026; 10% July 2026; 10% December 2026; 5% May 2027; 5% October 2027; 5% February 2028; 35% August 2028 handover. Past launch dates require the chosen unit’s actual balance statement.",
+      "handoverNote": "The current linked release sheet estimates August 2028. Obtain the selected plot’s contractual date; earlier or later phases can differ.",
+      "units": [
+        {
+          "label": "Ivory · 5-bedroom H-5 BR",
+          "area": "6,913.12 sq ft total; 642.25 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Ivory · 6-bedroom J-6 BR",
+          "area": "7,747.00 sq ft total; 719.72 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Ivory · 7-bedroom L-7 BR",
+          "area": "11,089.73 sq ft total; 1,030.27 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Amber · 5-bedroom G-5 BR",
+          "area": "7,396.85 sq ft total; 687.19 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Amber · 6-bedroom I-6 BR",
+          "area": "7,937.85 sq ft total; 737.45 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Amber · 7-bedroom K-7 BR",
+          "area": "10,748.30 sq ft total; 998.55 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2028 · handover",
+          "percent": 35,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No current availability, signed plot-specific completion date, approved service-charge budget or personalised payment statement confirmed.",
+        "Pools and landscape features in plans are not included and are the end user’s responsibility according to the document. Installation approvals and costs require confirmation.",
+        "Villa total floor areas are not plot areas. Do not copy a plot size or parking entitlement from a neighbouring house or collection.",
+        "Collection/phase terms, community openings and final finishes require contractual confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

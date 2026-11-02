@@ -1,0 +1,440 @@
+.comparison-card-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 9px 12px;
+  border-top: 1px solid color-mix(in srgb, var(--navy, #151917) 13%, transparent);
+  padding-top: 16px;
+  margin-top: 17px;
+  font-family: var(--font-ui, Arial, sans-serif);
+}
+.comparison-select,
+.comparison-clear,
+.comparison-table-remove {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 7px 0;
+  border: 0;
+  background: transparent;
+  color: var(--navy, #151917);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+.comparison-select.is-selected {
+  font-weight: 700;
+}
+.comparison-select.is-selected svg {
+  color: var(--navy, #151917);
+}
+.comparison-card-link {
+  font-size: 11px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: var(--navy, #151917);
+}
+.comparison-card-feedback {
+  flex-basis: 100%;
+  margin: 0;
+  color: var(--navy, #151917);
+  font-size: 12px;
+  line-height: 1.6;
+}
+.comparison-toolbar-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--navy, #151917);
+  font-size: 12px;
+  white-space: nowrap;
+}
+.catalogue-toolbar-actions:has(.comparison-toolbar-link) {
+  flex-wrap: wrap;
+}
+.comparison-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.comparison-page {
+  width: 90%;
+  max-width: 1320px;
+  padding: calc(var(--header-height) + 48px) 0 100px;
+  margin: 0 auto;
+  color: var(--navy, #151917);
+}
+.comparison-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 12px;
+  margin-bottom: 36px;
+}
+.comparison-heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 54px;
+}
+.comparison-eyebrow {
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.comparison-heading h1 {
+  font-family: var(--font-heading, sans-serif);
+  font-size: clamp(52px, 6.2vw, 88px);
+  font-weight: 500;
+  letter-spacing: -2px;
+  line-height: 0.99;
+  margin: 0 0 24px;
+}
+.comparison-heading h1 span {
+  color: var(--navy, #151917);
+}
+.comparison-heading h1 span::after {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 70px;
+  margin-top: 24px;
+  background: var(--copper, #b89b58);
+}
+.comparison-heading > div > p:last-child {
+  font-size: 16px;
+  line-height: 1.7;
+  max-width: 480px;
+  color: color-mix(in srgb, var(--navy, #151917) 80%, white);
+}
+.comparison-clear {
+  white-space: nowrap;
+  font-family: var(--font-ui, Arial, sans-serif);
+  border-bottom: 1px solid color-mix(in srgb, var(--navy, #151917) 35%, transparent);
+  margin-bottom: 5px;
+}
+.comparison-selectors {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.comparison-selector {
+  border: 0;
+  border-block: 1px solid #d8ddd8;
+  padding: 22px 0;
+  border-radius: 0;
+  background: transparent;
+}
+.comparison-selector label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--font-ui, Arial, sans-serif);
+  letter-spacing: 0.8px;
+  font-size: 10px;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.comparison-selector label > span {
+  font-size: 10px;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.comparison-selector > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.comparison-selector select {
+  min-width: 0;
+  width: 100%;
+  padding: 4px 0;
+  border: 0;
+  font-size: 15px;
+  background: transparent;
+  color: var(--navy, #151917);
+}
+.comparison-remove {
+  display: grid;
+  place-items: center;
+  padding: 5px;
+  border: 0;
+  background: transparent;
+  color: var(--navy, #151917);
+  flex-shrink: 0;
+}
+.comparison-feedback {
+  min-height: 22px;
+  font-size: 13px;
+  margin: 12px 0 18px;
+  line-height: 1.6;
+}
+.comparison-empty {
+  text-align: center;
+  background: transparent;
+  border-block: 1px solid #d8ddd8;
+  padding: 70px 24px;
+  border-radius: 0;
+}
+.comparison-empty-icon {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 25px;
+  border: 1px solid color-mix(in srgb, var(--navy, #151917) 25%, transparent);
+  border-radius: 4px;
+}
+.comparison-empty h2 {
+  font-family: var(--font-heading, sans-serif);
+  font-size: clamp(29px, 3vw, 40px);
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.8px;
+  margin-bottom: 15px;
+}
+.comparison-empty p {
+  max-width: 520px;
+  margin: 0 auto;
+  font-size: 15px;
+  line-height: 1.8;
+}
+.comparison-primary-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  margin-top: 28px;
+  padding: 15px 22px;
+  border-radius: 2px;
+  background: var(--navy, #151917);
+  color: var(--warm-cream, #f8f9f7);
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 12px;
+}
+.comparison-scroll-hint {
+  display: none;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.comparison-table-scroll {
+  position: relative;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  border: 1px solid color-mix(in srgb, var(--navy, #151917) 15%, transparent);
+  border-radius: 0;
+  background: #fff;
+}
+.comparison-table {
+  width: 100%;
+  min-width: 750px;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.comparison-table th,
+.comparison-table td {
+  text-align: left;
+  vertical-align: top;
+  padding: 22px;
+  border-right: 1px solid color-mix(in srgb, var(--navy, #151917) 12%, transparent);
+}
+.comparison-table tr > :last-child {
+  border-right: 0;
+}
+.comparison-table thead th {
+  font-weight: 400;
+  padding: 22px 22px 18px;
+}
+.comparison-table .comparison-row-label {
+  width: 21%;
+  vertical-align: bottom;
+  background: var(--warm-cream, #f8f9f7);
+}
+.comparison-row-label > span {
+  display: block;
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  margin-bottom: 18px;
+}
+.comparison-row-label > p {
+  font-family: var(--font-heading, sans-serif);
+  font-size: 25px;
+  line-height: 1.2;
+}
+.comparison-project-image {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1.45;
+  overflow: hidden;
+  border-radius: 4px;
+  margin-bottom: 18px;
+}
+.comparison-project-image img {
+  object-fit: cover;
+}
+.comparison-project-developer {
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 10px;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  margin-bottom: 7px;
+}
+.comparison-project-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-heading, sans-serif);
+  font-size: 31px;
+  line-height: 1.15;
+}
+.comparison-project-title svg {
+  flex-shrink: 0;
+}
+.comparison-table-remove {
+  font-size: 11px;
+  margin-top: 10px;
+}
+.comparison-table tbody th {
+  font-weight: 400;
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 12px;
+  background: var(--warm-cream, #f8f9f7);
+}
+.comparison-table tbody tr > * {
+  border-top: 1px solid color-mix(in srgb, var(--navy, #151917) 12%, transparent);
+  vertical-align: middle;
+}
+.comparison-table tbody td {
+  font-size: 15px;
+}
+.comparison-table tbody tr:first-child td {
+  font-family: var(--font-heading, sans-serif);
+  font-size: 26px;
+}
+.comparison-table tfoot > tr > * {
+  border-top: 1px solid color-mix(in srgb, var(--navy, #151917) 12%, transparent);
+}
+.comparison-table tfoot th {
+  background: var(--warm-cream, #f8f9f7);
+}
+.comparison-enquire {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 13px 15px;
+  background: var(--navy, #151917);
+  color: var(--warm-cream, #f8f9f7);
+  border-radius: 2px;
+  font-family: var(--font-ui, Arial, sans-serif);
+  font-size: 12px;
+}
+.comparison-detail-link {
+  display: block;
+  text-align: center;
+  margin-top: 14px;
+  font-size: 12px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.comparison-notice {
+  margin-top: 32px;
+  padding-top: 22px;
+  border-top: 1px solid color-mix(in srgb, var(--navy, #151917) 15%, transparent);
+  font-size: 12px;
+  line-height: 1.9;
+  color: color-mix(in srgb, var(--navy, #151917) 82%, white);
+}
+.comparison-page :focus-visible,
+.comparison-card-control :focus-visible,
+.comparison-toolbar-link:focus-visible {
+  outline: 2px solid var(--navy, #151917);
+  outline-offset: 5px;
+}
+@media (max-width: 1050px) {
+  .comparison-page {
+    padding: calc(var(--header-height) + 48px) 0 80px;
+  }
+  .comparison-selector {
+    padding: 20px 0;
+  }
+  .comparison-selector select {
+    font-size: 13px;
+  }
+  .comparison-table th,
+  .comparison-table td,
+  .comparison-table thead th {
+    padding: 18px;
+  }
+  .comparison-project-title {
+    font-size: 25px;
+  }
+}
+@media (max-width: 700px) {
+  .comparison-page {
+    padding: calc(var(--header-height) + 32px) 0 64px;
+  }
+  .comparison-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 28px;
+  }
+  .comparison-heading h1 {
+    font-size: 48px;
+    letter-spacing: -1.5px;
+  }
+  .comparison-heading > div > p:last-child {
+    font-size: 14px;
+  }
+  .comparison-selectors {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .comparison-selector {
+    padding: 18px 0;
+  }
+  .comparison-selector label {
+    margin-bottom: 8px;
+  }
+  .comparison-selector select {
+    font-size: 14px;
+  }
+  .comparison-scroll-hint {
+    display: block;
+  }
+  .comparison-table {
+    min-width: 780px;
+  }
+  .comparison-table .comparison-row-label {
+    width: 170px;
+  }
+  .comparison-table th,
+  .comparison-table td,
+  .comparison-table thead th {
+    padding: 18px 14px;
+  }
+  .comparison-empty {
+    padding: 45px 22px;
+  }
+  .comparison-empty p {
+    font-size: 14px;
+  }
+  .comparison-toolbar-link {
+    font-size: 11px;
+  }
+}

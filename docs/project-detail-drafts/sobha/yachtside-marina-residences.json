@@ -1,0 +1,173 @@
+{
+  "id": "sobha-project-44",
+  "name": "Yachtside Marina Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Yachtside Marina Residences is a three-tower apartment development at Sobha Siniya Island in Umm Al Quwain. It faces a planned marina and waterfront promenade. One- and two-bedroom layouts include balcony and yard variants; Tower A is identified as the fully furnished collection.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 1420000,
+    "handover": "Q2 2029 · portal estimate",
+    "paymentPlan": "20/40/40 · reported plan",
+    "amenities": [
+      "Yacht club access",
+      "Waterfront promenade",
+      "Infinity pools",
+      "Fitness facilities",
+      "Landscaped parks",
+      "Children’s outdoor play",
+      "Beach access"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-05/Brochure_Yachtside%20Marina%20Residences.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-05/Brochure_Yachtside%20Marina%20Residences.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Yachtside Marina Residences official project page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/marina-residences/yachtside",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Yachtside Marina Residences own official brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-05/Brochure_Yachtside%20Marina%20Residences.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Yachtside Marina Residences",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/yachtside-marina-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Yachtside own A/B/C site plan checked; other marina launches excluded.",
+        "location": "Official Siniya Island location in Umm Al Quwain checked.",
+        "residences": "One/two-bedroom drawings reviewed, Tower A furnishing scoped.",
+        "areas": "PDF pages 53, 82 and 127 numerical panels visually inspected.",
+        "amenities": "Own podium and landscape descriptions plus official FAQ checked.",
+        "pricing": "Official 1.42m inventory guide compared with portal 1.417m launch.",
+        "payment": "Portal 20/40/40 totals 100; no primary due-date schedule found.",
+        "handover": "Portal June 2029 estimate attributed.",
+        "documents": "Own 138-page official PDF retrieved; actual Type N drawing inspected."
+      },
+      "community": "Sobha Siniya Island",
+      "overview": [
+        "Yard homes and balcony homes have different outdoor arrangements. Compare enclosed space separately from the saleable total and inspect the precise unit plan before choosing a residence."
+      ],
+      "locationNote": "In the marina district of Sobha Siniya Island, Umm Al Quwain. Mooring and access depend on final arrangements; a private berth is not assumed to be included in an apartment.",
+      "priceLabel": "Developer website starting guide",
+      "priceNote": "The developer displays AED 1.42m subject to inventory availability. Property Finder reports a launch reference of AED 1.417m, rounded to 1.4m. The official FAQ retains an approximate 1.3m statement; obtain a dated quote for an actual unit.",
+      "paymentNote": "Property Finder gives 20% booking, 40% construction and 40% handover. These secondary aggregate stages are not a current signed payment calendar.",
+      "handoverNote": "Property Finder reports June 2029, displayed as Q2 2029. Its first-of-month date is not adopted as a developer contractual commitment.",
+      "units": [
+        {
+          "label": "1-bedroom Type A Variant 1",
+          "area": "513.33–514.30 sq ft total saleable, including 48.11 sq ft balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "706.00–718.38 sq ft total saleable, including balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type N",
+          "area": "728.07 sq ft suite + 82.24 sq ft balcony; 810.31 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furnishing scope",
+          "value": "The official page identifies Tower A as fully furnished. The three-tower site plan does not extend that promise to every apartment.",
+          "sourceIds": [
+            "developer",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Primary payment/completion documents, current stock, parking, service charges and mooring terms were not retrieved.",
+        "Some printed component sums differ by 0.01 sq ft through rounding; published totals are retained. Tower A furnishing does not automatically extend to every tower. Images remain illustrative."
+      ]
+    }
+  }
+}

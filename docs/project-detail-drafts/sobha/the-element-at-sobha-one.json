@@ -1,0 +1,184 @@
+{
+  "id": "sobha-project-26",
+  "name": "The Element at Sobha One",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Element at Sobha One is a residential tower with one- to four-bedroom apartments. Its plans combine balconies with layouts ranging from compact one-bedroom homes to larger family residences with service rooms. The tower belongs to the Sobha One setting; its own drawings and launch terms should be used instead of those for the original Sobha One towers.",
+    "areaId": "dubai-sobha-one",
+    "location": "Sobha One",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1830000,
+    "handover": null,
+    "paymentPlan": "60/40 · attributed plan; reconfirm",
+    "amenities": [
+      "Children's play area",
+      "Barbecue and dining spaces",
+      "Jacuzzi",
+      "Outdoor gym",
+      "Business lounge",
+      "Rooftop lounge"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "The Element at Sobha One · own developer page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-one/the-element",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "The Element at Sobha One · own branded brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-02/The%20Element%20at%20Sobha%20One.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "portal",
+          "label": "Attributed commercial reference · Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-element-at-sobha-one",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "fy25",
+          "label": "Sobha Investor Update FY 2025 · historical handover year only",
+          "url": "https://sobharealty.com/sites/default/files/2026-01/Investor%20Update%20FY%202025_3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 7
+        },
+        {
+          "id": "alternative",
+          "label": "House Finder alternative commercial summary",
+          "url": "https://housefinder.ae/projects-detail/the-element-at-sobha-one-2317-overview",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "brochure"
+        ],
+        "bedrooms": [
+          "official",
+          "brochure"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "portal",
+          "fy25"
+        ],
+        "units": [
+          "brochure",
+          "official"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "The Element at Sobha One identity checked against its own developer page and branded pack; neighbouring releases excluded.",
+        "location": "Source-supported project/community location reviewed; existing exact area used only where available.",
+        "residences": "Own advertised bedroom mix and plan configurations reviewed; furnished towers and duplexes explicitly distinguished where applicable.",
+        "areas": "Project-specific plan samples extracted; representative original PDF labels, tables and orientation diagrams visually inspected. Source inconsistencies recorded.",
+        "amenities": "Own developer project-page facilities reviewed; island/community amenities are labelled by their wider scope.",
+        "pricing": "Own current page starting guide captured on 31 October 2026, subject to inventory; not a verified unit quotation.",
+        "payment": "Available secondary commercial schedules compared, payment percentages total 100%; current official unit schedule unavailable unless explicitly stated.",
+        "handover": "Own dates and available commercial references reviewed; conflicts retained rather than guessed.",
+        "documents": "Own brochure/plan pack downloaded and representative tables visually inspected; payment-document search did not establish a current signed developer schedule."
+      },
+      "community": "Sobha One · The Element at Sobha One",
+      "overview": [
+        "One-bedroom Type A has a separate powder room and balcony, while larger apartments add storage or a maid’s room. The four-bedroom Type A shown in the original pack is an apartment; unrelated duplex measurements from broker summaries are not substituted."
+      ],
+      "locationNote": "Sobha One, Dubai, as described in the developer’s own project materials. No nearby district is substituted for the project address.",
+      "priceLabel": "Developer-published starting guide · reconfirm",
+      "priceNote": "The own developer page fetched on 31 October 2026 advertises AED 1,830,000 from, subject to inventory availability. This is a published guide, not a checked available unit, valuation or binding offer. Other historical launch advertisements may use a different price or unit mix.",
+      "paymentNote": "Property Finder publishes 10% booking, 50% construction and 40% handover. House Finder instead advertises 20/40/40. Both are secondary summaries; no current developer-issued unit schedule was available.",
+      "handoverNote": "The FY 2025 developer investor snapshot lists 2028; Property Finder lists December 2029. A revised current tower-specific completion document was not located. Handover remains on request until that conflict is resolved.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "650.46 sq ft suite + 89.56 sq ft balcony = 740.02 sq ft total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "1,216.86 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Type A",
+          "area": "2,278.40 sq ft suite + 166.63 sq ft balcony = 2,445.03 sq ft total",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · attributed example",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · attributed example",
+          "percent": 50,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover · attributed example",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The official FAQ places The Element within Sobha One / Hartland / MBR City, while the portal files it under Ras Al Khor Industrial 1. No exact local Sobha One area entry exists yet, so areaId is null rather than selecting a neighbouring district.",
+        "Current unit availability, signed payment dates, final specification and applicable service charges require developer/unit-specific confirmation."
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id":"emaar-project-101","name":"Palace Residences Hillside - B","developerSlug":"emaar",
+  "fields":{
+    "description":"Palace Residences Hillside B is Emaar’s separate Palace-branded release beside Hillside Park in Dubai Hills Estate. It offers one- to three-bedroom apartments and three-bedroom townhouses, with a shared sky-level connection to its neighbouring tower. This record covers B rather than transferring the earlier Hillside collection’s specifications.",
+    "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1960000,"handover":"Q4 2030 · broker estimate","paymentPlan":"80/20 · broker reported",
+    "amenities":["Resort-style swimming pool","Outdoor gym","Padel courts","Shaded cabanas","Children’s play area","Sky Bridge Amenity Deck","Multipurpose hall","Hillside Park setting"],
+    "brochureUrl":null,"floorPlanUrl":null,
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Palace Residences Hillside B","url":"https://www.emaar.com/en/properties/palace-residences-hillside-b-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"release","label":"Home4you: Hillside B launch prices and dated payment schedule","url":"https://home4you.ae/off-plan/palace-residences-hillside-b-dubai-hills-estate","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"sizes","label":"DirectDXB / Augusta: Hillside B release size bands","url":"https://www.directdxb.com/projects/emaar-palace-residences-hillside-b","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+        {"id":"timing","label":"Lucretia: Hillside B November 2030 estimate","url":"https://www.lucretia-international.com/en/projects/emaar-palace-residences-hillside-b","kind":"broker","checkedOn":"2026-10-31","derivedWords":80},
+        {"id":"finder","label":"Property Finder: Hillside B — conflicting earlier date and size data","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/palace-residences-hillside-b","kind":"portal","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"opr","label":"Metropolitan / OPR: Hillside B launch configurations","url":"https://opr.ae/projects/palace-residences-hillside-b-emaar-dubai-hills-estate","kind":"broker","checkedOn":"2026-10-31","derivedWords":130}
+      ],
+      "fieldSources":{"description":["official"],"overview":["official","opr"],"location":["official"],"type":["official"],"bedrooms":["official"],"amenities":["official"],"price":["official","release"],"units":["sizes","opr"],"documents":["official","finder"],"paymentPlan":["release"],"handover":["release","timing","finder"]},
+      "reviewCoverage":{
+        "identity":"Current official B release checked separately from the earlier Hillside entry.",
+        "location":"Dubai Hills Estate beside Hillside Park confirmed by Emaar.",
+        "residences":"Official one/two/three-bedroom apartments and three-bedroom townhouses confirmed.",
+        "areas":"New-release broker size bands cross-checked; conflicting older portal bands retained as a discrepancy, not mixed into this table.",
+        "amenities":"Only Emaar-confirmed project amenities used in the amenity list; broader broker claims excluded.",
+        "pricing":"Current official AED 1.96m reference and attributed type-specific launch prices checked.",
+        "payment":"Broker-published nine-stage 80/20 schedule checked; no directly published Emaar payment PDF found.",
+        "handover":"November 2030 broker reports conflict with October 2029 portal metadata; displayed as broker estimate with discrepancy disclosed.",
+        "documents":"Official floor-plan dialog says Coming Soon. Portal-linked PDF concerns a different Palace residence; rejected. No substitute phase document linked."
+      },
+      "community":"Dubai Hills Estate · Hillside Park",
+      "overview":["Emaar describes warm, Arabian-influenced interiors and a park-side setting. The Palace Bridge links the two Hillside towers at sky level, with an amenity deck and multipurpose hall forming part of the shared facilities. Buyers should check which spaces their selected home can access and the associated management arrangements.","Current broker launch descriptions distinguish conventional apartments from larger duplex townhouses. OPR reports staff accommodation in the three-bedroom apartments and townhouses. These details await the B-specific developer plan pack; they should not be treated as signed specifications or applied to every home."],
+      "locationNote":"The official page places this release beside Hillside Park, with Dubai Hills Mall, Dubai Hills Park and the golf club in the wider community. A community address does not establish an individual home’s view or walking distance.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 1.96m. Home4you reports launch references of AED 2.89m for two-bedroom apartments, AED 4.05m for three-bedroom apartments and AED 6.97m for three-bedroom townhouses. Current unit quotations and availability require confirmation.",
+      "paymentNote":"Home4you reports 10% booking, seven further 10% instalments and 20% at completion. This is a broker-reported schedule, not a directly verified developer payment document; request the release-specific terms before relying on it.",
+      "handoverNote":"Home4you and Lucretia report November 2030. Property Finder still gives October 2029. Emaar’s current public project page does not resolve this difference, so the displayed Q4 2030 is explicitly a broker estimate requiring written confirmation.",
+      "units":[
+        {"label":"1-bedroom apartment · broker-reported launch band","area":"Approximately 730–862 sq ft","sourceIds":["sizes","opr"]},
+        {"label":"2-bedroom apartment · broker-reported launch band","area":"Approximately 1,119–1,317 sq ft","sourceIds":["sizes","opr"]},
+        {"label":"3-bedroom apartment · broker-reported launch band","area":"Approximately 1,587–1,858 sq ft","sourceIds":["sizes","opr"]},
+        {"label":"3-bedroom townhouse · broker-reported starting area","area":"From approximately 2,691 sq ft","sourceIds":["sizes","opr"]}
+      ],
+      "paymentStages":[
+        {"stage":"Booking · broker-reported launch schedule","percent":10,"sourceIds":["release"]},
+        {"stage":"January 2027","percent":10,"sourceIds":["release"]},
+        {"stage":"September 2027","percent":10,"sourceIds":["release"]},
+        {"stage":"March 2028","percent":10,"sourceIds":["release"]},
+        {"stage":"September 2028","percent":10,"sourceIds":["release"]},
+        {"stage":"March 2029","percent":10,"sourceIds":["release"]},
+        {"stage":"November 2029","percent":10,"sourceIds":["release"]},
+        {"stage":"June 2030","percent":10,"sourceIds":["release"]},
+        {"stage":"November 2030 · reported estimated completion","percent":20,"sourceIds":["release"]}
+      ],
+      "facts":[
+        {"label":"Keep the releases separate","value":"B has its own official project page and starting price. Earlier Hillside plans and payment documents have not been reused as B specifications.","sourceIds":["official"]},
+        {"label":"Size-source distinction","value":"DirectDXB’s current-launch panel reports the bands shown here, while its general table retains smaller earlier figures. Exact internal, balcony and total areas need the B-specific floor plans.","sourceIds":["sizes"]},
+        {"label":"Public documents","value":"Emaar’s floor-plan viewer currently says Coming Soon. Brochure and plan downloads remain pending rather than linking a different Palace development.","sourceIds":["official","finder"]}
+      ],
+      "unresolved":["Obtain the B-specific developer brochure, floor plans and payment document. The portal-linked brochure reviewed was not a reliable B-specific document and has been excluded.","October 2029 portal timing conflicts with November 2030 broker launch reports. Confirm the applicable release and contractual completion date.","Broker pages mix earlier and newer size bands; OPR also retains inconsistent payment/area figures in parts of its page. The displayed bands are attributed provisional references, not verified signed dimensions.","Total residence count, precise floor arrangement, parking allocation, finishes, furnishing, service charges and brand-service inclusions remain unconfirmed from a B-specific primary document.","Prices and the payment calendar do not establish available stock or a binding offer. Confirm the selected unit’s quotation, current stage payments and final terms."]
+    }
+  }
+}

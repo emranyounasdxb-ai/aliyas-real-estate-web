@@ -1,0 +1,288 @@
+{
+  "id": "deyaar-project-06",
+  "name": "ParkFive Ember",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Ember offers studio to three-bedroom apartments. Its facilities include a cinema room, podium pools and eleventh-floor plunge pools.",
+    "areaId": "dubai-production-city",
+    "location": "Dubai Production City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": null,
+    "handover": "Q3 2027 · current developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Gym and changing rooms",
+      "Cinema room",
+      "Adult and children’s pools",
+      "Jacuzzi",
+      "Outdoor coworking",
+      "Children’s play area",
+      "BBQ areas",
+      "Plunge pools",
+      "Rooftop sports area"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/Ember_ParkFive_Brochure.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Ember_Floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar ParkFive building guide",
+          "url": "https://www.deyaar.ae/en/properties/park-five/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "brochure",
+          "label": "Ember official brochure · 35 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/Ember_ParkFive_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "Ember official apartment plans · 14 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Ember_Floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar current construction update",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 16
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Ember commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/ember-park-five",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "broker",
+          "label": "Palmera Ember later payment reference",
+          "url": "https://www.palmera.realestate/property/ember-at-parkfive/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "investor",
+          "label": "Deyaar Q3 2025 investor presentation · page 25",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/11/Deyaar-IR-Presentation-Q3-2025-V2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "overview": [
+        "The displayed plans are floor-one variants. Check the selected apartment’s floor and outdoor area before comparing total size."
+      ],
+      "community": "ParkFive",
+      "locationNote": "ParkFive, Dubai Production City.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder’s selected-listing headline is AED 1.2m; its studio table records AED 720,000 and marks developer units out of stock. No original current price list was retrieved.",
+      "paymentNote": "Property Finder offers 10/40/50 and 10/30/60; the table below is its first reference option. Palmera advertises 10/35/55. No authoritative current unit schedule was retrieved.",
+      "handoverNote": "Superstructure progressing; specialist contractors appointed.",
+      "units": [
+        {
+          "label": "Studio 01",
+          "area": "433 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 1At",
+          "area": "875 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 2A",
+          "area": "817 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 2At",
+          "area": "942 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 1Ct",
+          "area": "1,324 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 06",
+          "area": "1,153 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 2At",
+          "area": "1,365 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 1Bt",
+          "area": "1,346 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR 02",
+          "area": "1,777 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal option 1",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Historical issuer count",
+          "value": "200 homes · Q3 2025 table",
+          "sourceIds": [
+            "investor"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Studio 01, 1BR 1At/2A and 2BR 06 have component/total differences of 1 sq ft. Printed totals retained.",
+        "Property Finder’s June 2027 reference predates the developer’s current Q3 target. Completion is not established.",
+        "Other-floor plans, current stock, official pricing, signed instalments, service charges and furnishing terms remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "handover": [
+          "construction"
+        ],
+        "handoverNote": [
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "facts": [
+          "investor"
+        ],
+        "unresolved": [
+          "plans",
+          "portal",
+          "construction"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Ember branding on35 pbrochure and14 pplans; separateElm/Neem/Alder/Ivy.",
+        "location": "PrimaryParkFivepage supportsDubai Production City; exact registry used.",
+        "residences": "Brochureintroomitsstudiosbutactualofficialdrawingp3 explicitstudio433. Studio/1/2/3 drawnallninefamilies.",
+        "areas": "All14 pagesvisually read;ninefullnumericaldrawingsfloors1. Componentdiscrepancies1 sqftStudio01/1 BR1 At/1 BR2 A/2 BR06 keptprinted.",
+        "amenities": "Actualbrochure19/21/23/25 visually read(cinema/gym/pools/Jacuzzi/play/BBQ/plunge/sports). NoElmtea/Zenfeaturesinferred.",
+        "pricing": "PF1.2 mselectedversusstudio720 koutofstock;no original price list,current price null.",
+        "payment": "PFtwohistoricaloptions10/40/50 and10/30/60;laterPalmera10/35/55. Originalunitcalendarunretrieved,headline null;option1 table explicitlyreference.",
+        "handover": "CurrentprimaryQ32027;PFJune2027 earlierreference. Noactualcompletionorverifiedpercentageclaimed.",
+        "documents": "Official35 pbrochure/14 pplans200 downloaded;allnumericpanelsread. Pool200(70+130). Historicalissuerp25 visually read200 homes,notcurrentstock. Main20/construction16/issuer10 sharedbudgets."
+      }
+    }
+  }
+}

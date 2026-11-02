@@ -1,0 +1,265 @@
+{
+  "id": "samana-project-16",
+  "name": "SAMANA Resorts",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Resorts offers studio, one-bedroom and two-bedroom apartments in Dubai Production City. Its published layouts include private pools, with selected one-bedroom homes adding a store or maid’s room. These ancillary rooms are separate from the bedroom count.",
+    "areaId": "dubai-production-city",
+    "location": "Dubai Production City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 1350882,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Private pools in apartments",
+      "Leisure pool deck",
+      "Kids’ pool",
+      "Sun deck and green spaces",
+      "Smart home systems",
+      "Accessible parking",
+      "Bicycle parking"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/42/1a0c3db6b5f8d4f93cbba6100de34e31.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/samana-resorts/SAMANA_RESORTS_FLOOR_PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Resorts · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-resorts",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "SAMANA Resorts official brochure · 42 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/42/1a0c3db6b5f8d4f93cbba6100de34e31.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "facts",
+          "label": "SAMANA Resorts branded factsheet · broker-hosted, 2 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-resorts/SAMANA_RESORTS_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "SAMANA Resorts branded floor plates · broker-hosted, 5 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-resorts/SAMANA_RESORTS_FLOOR_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "payment",
+          "label": "SAMANA Resorts branded payment options · broker-hosted, 1 page",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-resorts/SAMANA_RESORTS_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · SAMANA Resorts project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-resorts",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "community": "Dubai Production City",
+      "locationNote": "Dubai Production City, Dubai.",
+      "overview": [
+        "The brochure shows five layout families: studio, one-bedroom, one-bedroom with store, one-bedroom with maid’s room, and two-bedroom, all illustrated with pools."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The developer headline and structured offer show AED 1,350,882. Its FAQ gives a rounded AED 1.3m reference; obtain a current unit quotation.",
+      "handoverNote": "Developer FAQ: Q3 2028. Property Finder: December 2026. These materially different targets remain unresolved; neither confirms completion.",
+      "paymentNote": "PDC: 15% booking + 42 monthly payments of 1% + 10% in month 12 + 5% in month 18 + 56 monthly payments of 0.5%. Non-PDC starts at 20% and ends with 46 payments of 0.5%. Each totals 100%; confirm the dated contract.",
+      "units": [
+        {
+          "label": "Studio + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + store + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + maid + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking",
+          "percent": 15,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "42 monthly payments × 1%",
+          "percent": 42,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 12 payment",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 18 payment",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "56 monthly payments × 0.5%",
+          "percent": 28,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current website minimum",
+          "value": "Apartments from 428 ft²; individual unit and area basis are not specified.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The brochure contains a paragraph naming Barari Lagoons. This copy error does not establish a shared project identity or transfer that development’s features.",
+        "The reviewed layouts lack aggregate area totals. Approved unit areas, current inventory, service charges, parking entitlements and final delivery specifications remain unverified.",
+        "Property Finder lists several differently grouped payment options. The displayed monthly schedule above follows the developer and branded sheet, subject to the selected unit’s contract."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "unresolved": [
+          "brochure",
+          "developer",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA Resorts16 only, notResorts2/ResortsbySDotherproject. Own42brochure30 actuallysaysBarariLagoons, sourcecopyerroridentifiednotidentitymerge. No otherphasefacts imported.",
+        "location": "OwnFAQDubaiProductionCityDubai exactdubai-production-city. Ownbrochure8/9 matches, noassumedcoordinates/travelguarantee.",
+        "residences": "OwnFAQstudio/1BR/1store/1maid/2BRprivatepools. Actualown42brochure37–41 allfivefullunitdrawingsread plus3actualfloorplatesbroker5p2–4. Maidstore ancillarynotbedrooms. No secondary603countadoptedwithoutprimaryschedule.",
+        "areas": "Actualfiveownunitdrawings noaggregatearea labels;3floorplates noaggregateunitareas. OwnFAQfrom428sqftonly retainedbasisunknown. BrokerDLDtransactions424–1592notfullapprovedinventoryrangeandnotused. No universal436.43brokermin fromuncitedsourceassumed.",
+        "amenities": "OwnFAQprivatepools/leisuredeck/kidspool/sundeckgreens/smarthome/PODparking/bicycleparking verified. PODtranslatedaccessibleparkingwithoutallocatedspacecount. Genericbrokercourtssportsnotimportedunlessowncorroboration. No universalreservedparking/furnishingclaim.",
+        "pricing": "OwnvisibleheadlineandOffer1350882, FAQ1.3mroundedtext, priceexactheadlinequalifiedadvertised. PFheadline1.4m/old669000narrative mixedsourcesnotcurrentdeveloperquote. No availableunitpromise.",
+        "payment": "OwnHTMLmatchesactualbranded1p:15+42+10+5+28=100 PDC,20+42+10+5+23=100nonPDC. Monthly0.5stage56/46notballoon; extra10/5additional. PF4differentgroupedplansnotreconciledwithoutcontract,headernull. No precise96monthlypaymentsfrom8yearmarketing.",
+        "handover": "OwnFAQ Q32028 vsPFDecember2026materialconflict, headlineNULLnoassumedcompletion. No verificationoforiginal2026targetactualstatus. No staleprogressused.",
+        "documents": "Own42pbrochure retrievedexactJSONLD200; brokerfacts2/plans5/payment1 actualpubliclinkdownloads200,noform. Actualallfiveunitdrawings+3floorplates+fullpaymentvisuallyread<=1650px. AllversionsPDFpool20060brochure20plans120payment,facts0. Publicconservativeunder190,owncurrentHTMLindependent200,portal80. No approvedarea/currentstockdocumentretrieved."
+      }
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "samana-project-01",
+  "name": "SAMANA Downtown One",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Downtown One offers studios and one- and two-bedroom apartments in Downtown Jebel Ali. The developer highlights road and Metro connections alongside spaces for everyday leisure.",
+    "areaId": "dubai-downtown-jebel-ali",
+    "location": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 689000,
+    "handover": "December 2029",
+    "paymentPlan": "10% down · PDC monthly plan",
+    "amenities": [
+      "Adult and children’s pools",
+      "Jacuzzi",
+      "Yoga lawn",
+      "Golf simulator",
+      "Immersive fitness studio",
+      "Outdoor cinema",
+      "Barbecue area",
+      "Indoor and outdoor gyms",
+      "Rooftop lounge"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/10/13/03/46/75677ca3c73ae9458f7ebebb8337c457.pdf",
+    "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1791977328171-b5012be62018e622.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Downtown One · current developer page",
+          "url": "https://www.samanadevelopers.com/projects/samana-downtown-one",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "brochure",
+          "label": "Downtown One · official 43-page brochure",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2026/10/13/03/46/75677ca3c73ae9458f7ebebb8337c457.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "Downtown One · branded 19-page floor plans",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1791977328171-b5012be62018e622.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "facts",
+          "label": "Downtown One · branded factbook",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1791977333756-f0222c6e5c277341",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "augusta",
+          "label": "Augusta · dated launch and project reference",
+          "url": "https://www.augusta-properties.com/explore/samana-developers-samana-downtown-one",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "silveroak",
+          "label": "Silver Oak · secondary layout references",
+          "url": "https://www.silveroakglobal.com/projects/samana-downtown-one-1c7d93c3",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "handover": [
+          "facts",
+          "brochure"
+        ],
+        "handoverNote": [
+          "facts",
+          "brochure"
+        ],
+        "facts": [
+          "facts",
+          "brochure"
+        ],
+        "amenities": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "overview": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "units": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "floorPlanUrl": [
+          "brochure",
+          "plans",
+          "facts"
+        ],
+        "paymentStages": [
+          "developer",
+          "facts",
+          "augusta"
+        ],
+        "paymentNote": [
+          "developer",
+          "facts",
+          "augusta"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "plans",
+          "silveroak",
+          "augusta"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact developer page, branded brochure43pages and factbook7pages; no sibling project facts. Total residential count not established by primary documents.",
+        "location": "Own body names Downtown Jebel Ali and Jebel Ali Industrial2. Existing Downtown Jebel Ali registry is supported; no speculative coordinates.",
+        "residences": "Ten brochure layouts visually read p31–40: two studios, six1BR includingstore, two2BR includingstore. Primaryfloorplan19-pagepack repeats these drawings.",
+        "areas": "No actual square-foot/square-metre totals or dimension schedules printed on reviewed ten drawings; secondary335/550/943 references are explicitly unverified measurement basis, not primary whole-home areas.",
+        "amenities": "Own brochure p29/30 amenity legends visually checked; factbookp5 confirms golf/fitness. No private residential pools inferred.",
+        "pricing": "Current primary starting AED689000; no unit quote, stock or larger-bedroom current prices established.",
+        "payment": "Actual factbookp4 visually checked both PDC10+5+5+80=100 andnonPDC15+5+5+75=100. Live primary matches. No inferred completion split.",
+        "handover": "Factbookp3 visually confirms anticipatedDecember2029, brokerQ42029corroborates; forecast not completion certificate.",
+        "documents": "Own43pagebrochure, broker-hosted19pageplanpack and7pagebrandedfactbook retrieved normally without form. All overlapping material pooled200words."
+      },
+      "community": "Downtown Jebel Ali",
+      "overview": [
+        "Ten brochure designs comprise two studios, six one-bedroom and two two-bedroom layouts, including selected store-room versions."
+      ],
+      "locationNote": "The developer markets Downtown Jebel Ali and identifies Jebel Ali Industrial 2. Nearby road and Metro connections do not establish fixed journey times.",
+      "priceLabel": "Developer starting reference",
+      "priceNote": "The current developer page advertises AED 689,000 from. This is a starting reference, subject to the selected unit and availability.",
+      "paymentNote": "PDC option shown below. The alternative requires 15% down, 75 monthly instalments of 1%, and 5% in months six and twelve. The primary material does not allocate these instalments between construction and post-handover; broker summaries differ.",
+      "handoverNote": "The branded factbook anticipates December 2029. This is a forecast, not evidence of completed construction.",
+      "units": [
+        {
+          "label": "Studio · Types 1–2",
+          "area": "Area not stated in reviewed plans",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR · Types 1–6, including store",
+          "area": "Area not stated in reviewed plans",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · Types 1–2, including store",
+          "area": "Area not stated in reviewed plans",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC · down payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · 1% monthly × 80 months",
+          "percent": 80,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · sixth month",
+          "percent": 5,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · twelfth month",
+          "percent": 5,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building configuration",
+          "value": "Basement + ground + three podiums + 20 floors + roof.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Amenity levels",
+          "value": "First and twentieth floors.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plans give no area totals. Secondary 335/550/943 ft² references have unconfirmed measurement bases; obtain the selected unit’s contractual area.",
+        "Primary residence counts, current stock, service charges and final specifications remain unverified. Images are illustrative."
+      ]
+    }
+  }
+}

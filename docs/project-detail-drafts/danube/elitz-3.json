@@ -1,0 +1,212 @@
+{
+  "id": "danube-project-16",
+  "name": "Elitz 3",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Elitz 3 is Danube’s furnished apartment development in Jumeirah Village Circle, with studios through three-bedroom homes and shared leisure spaces.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 699000,
+    "handover": null,
+    "paymentPlan": "30/70 · milestones unverified",
+    "amenities": [
+      "Swimming pool",
+      "Aquatic gym",
+      "Business centre",
+      "Library",
+      "Outdoor cinema",
+      "Kids’ play area",
+      "Mini golf",
+      "Gym"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/Elitz3.pdf",
+    "floorPlanUrl": "https://s3.vyxlo.com/vyxlo/offplan/563_Elitz_3/Elitz3_floor_plans-2-fdd0b2dd23.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Elitz 3 project page",
+          "url": "https://danubeproperties.com/portfolio/elitz-3/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Elitz 3 developer-hosted brochure · 23 pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2024/03/Elitz3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Elitz 3 branded unit plans · public broker mirror, 14 pages",
+          "url": "https://s3.vyxlo.com/vyxlo/offplan/563_Elitz_3/Elitz3_floor_plans-2-fdd0b2dd23.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut Elitz 3 guide and launch reference",
+          "url": "https://www.bayut.com/for-sale/apartments/dubai/jumeirah-village-circle-jvc/jvc-district-13/elitz-3-by-danube/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "construction",
+          "label": "Danube internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/elitz-3/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "official-plans",
+          "label": "Danube public floor-plan folder ZIP · own branded phase drawings",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/elitz-3/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "factsheet",
+          "label": "Danube public phase-specific factsheet folder ZIP · English factsheet visually checked",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/elitz-3/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer",
+          "factsheet"
+        ],
+        "type": [
+          "developer",
+          "official-plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "official-plans"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "factsheet"
+        ],
+        "price": [
+          "bayut"
+        ],
+        "paymentPlan": [
+          "developer",
+          "bayut"
+        ],
+        "handover": [
+          "developer",
+          "bayut"
+        ],
+        "units": [
+          "official-plans"
+        ],
+        "facts": [
+          "plans",
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Elitz 3 page and distinct Elitz 3 brochure read; not Elitz or Elitz 2. Public HTML saved and parsed excluding scripts/styles.",
+        "location": "Own page establishes Jumeirah Village Circle; branded brochure road map reviewed. No exact plot coordinates or guaranteed travel times inferred.",
+        "residences": "Own page studio through three bedrooms, 692 apartments and twin-tower mixed-use context. Branded unit pack independently identifies Tower A/B units and selected private-pool variants.",
+        "areas": "Image-only 14-page pack contact sheet read; full numeric panels 1/5/8/10 visually inspected at 1700 px. Apartment, balcony and printed total retained separately; range endpoints are not summed as paired units.",
+        "amenities": "Own page amenity list and branded brochure reviewed. Planned facilities do not establish operation, individual entitlement or a guaranteed return; promotional ROI claims excluded.",
+        "pricing": "Developer shows SOLD OUT rather than a price. Bayut AED 699,000 launch reference kept explicitly historical; no live resale quote inferred.",
+        "payment": "Own hero 30/70 conflicts its own 1%-monthly FAQ; no milestone allocation or current signed sheet retrieved. Older Bayut 10/54/1/35 totals 100 but is not substituted for the newer unexplained headline.",
+        "handover": "Own hero April 2027 conflicts own FAQ Q 4 2026 and portal Q 4 2026; null headline date avoids choosing an unsupported contractual schedule. Own 30 September 2026 internal construction statement 50% reviewed; no completed handover inferred.",
+        "documents": "Official 23-page brochure downloaded; branded 14-page unit pack retrieved from public broker mirror after InvestinDXB TLS failure. Form-gated packs not requested. No project images changed. Subsequently retrieved the visible public official collateral floor-plan folder ZIP; compared actual own numeric panels. The broker PDF remains a direct PDF mirror link, not the primary numerical authority. Own English two-page factsheet retrieved from visible public ZIP; actual page 2 visually checked. Promotional financial/ROI claims excluded."
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "Elitz 3 is a separate twin-tower development with residential, retail and commercial uses. Danube markets furnished apartments; the furniture schedule and selected unit’s final specification still require confirmation.",
+        "The public page lists 692 apartments. This is a development figure, not available inventory; its sold-out label does not establish whether an owner has a resale listing."
+      ],
+      "locationNote": "Jumeirah Village Circle, Dubai. Indicative marketing access routes are not measured walking distances or guaranteed journey times.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "Bayut lists AED 699,000 as launch price. Danube currently displays SOLD OUT; no dated current selected-unit quotation was verified.",
+      "paymentNote": "Danube’s hero displays 30/70 without dated milestone definitions, while its FAQ retains 1% monthly. Bayut’s older summary is 10% down payment, 54% before handover, 1% at handover and 35% afterward. These are different references, not a single combined offer. Obtain the unit’s signed schedule and charges.",
+      "handoverNote": "The same developer page displays April 2027 in its hero but Q4 2026 in its FAQ; Bayut also lists Q4 2026. These estimates conflict. No contractual delivery date or completed handover is asserted.",
+      "units": [
+        {
+          "label": "Studio Type A · Towers A/B",
+          "area": "385–389 ft² printed total / 301–308 apartment / 81–84 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "Executive 1-bedroom · Towers A/B",
+          "area": "762–766 ft² printed total / 600–605 apartment / 161–163 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A · pool variant",
+          "area": "1,287 ft² total / 827 apartment / 460 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "3-bedroom · pool and maid’s room",
+          "area": "1,523 ft² total / 1,199 apartment / 324 balcony",
+          "sourceIds": [
+            "official-plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Selected pool layouts",
+          "value": "The Type A two-bedroom drawing includes a pool, but its unit table specifically marks floor-18 unit 1805 without a pool. Confirm the exact unit rather than assuming every layout has one.",
+          "sourceIds": [
+            "official-plans"
+          ]
+        },
+        {
+          "label": "Dated developer progress",
+          "value": "Danube reports 50% overall progress from its internal inspection on 30 September 2026. This is a dated developer statement, not independent completion certification.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Sample areas include balconies and are not enclosed living space. Printed ranges are layout summaries, not measured individual units or exhaustive availability.",
+        "Conflicting developer completion and payment statements require current written clarification. Booking milestones, post-handover eligibility, fees, parking allocation, service/cooling charges and title terms remain unverified.",
+        "Promotional return assurances are excluded; no rental guarantee or investment outcome is offered. Facilities and furniture remain subject to the selected contract."
+      ]
+    }
+  }
+}

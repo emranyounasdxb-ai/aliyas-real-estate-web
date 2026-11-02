@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-22","name":"Golf Meadow","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Meadow combines one to three bedroom apartments with five three bedroom townhouses in Emaar South. Floor-to-ceiling glazing and a muted palette of wood, stone and earthy tones shape the interiors. The outdoor setting brings together golf-course outlooks, poolside spaces and areas for exercise and family recreation.",
+  "areaId":"dubai-south","location":"Dubai South","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":3138888,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s pools","Splash pad","Children’s play area","Padel court","Event lawn","Barbecue area","Table tennis","Indoor and outdoor yoga areas","Indoor and outdoor gyms","Multipurpose room"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Golf-Meadow_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Golf-Meadow_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Meadow at Emaar South","url":"https://www.emaar.com/en/properties/golf-meadow-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Golf Meadow brochure","url":"https://www.emaar.com/cms-media/uploads/Golf-Meadow_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Golf Meadow apartment and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/Golf-Meadow_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Golf Meadow launch fact sheet · Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-meadow/GOLF_MEADOW_ES_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Golf Meadow launch payment plan · Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-meadow/GOLF_MEADOW_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Golf Meadow completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-meadow","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure","facts"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official"],"amenities":["official","brochure","facts"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Meadow separately identified from Golf Verge and Golf Edge using official named project and documents.",
+    "location":"Emaar South within Dubai South; official brochure map confirms context near Al Maktoum airport.",
+    "residences":"One to three bedroom apartments plus five two-level three bedroom townhouses. Portal labels that mix apartment unit numbers into townhouses not imported.",
+    "areas":"Official 15-page plan text uses an encoded font; numerical rows decoded and minima, townhouse and inconsistent 3BR 1A rows visually checked. Range minima include podium-level units missed by portal summaries.",
+    "amenities":"Official list, brochure page 10 and launch fact sheet reviewed. Multipurpose room comes from fact sheet; golf course remains wider community context.",
+    "pricing":"Official displayed units-from AED 3,138,888 used instead of historical AED 1.12 million launch headline.",
+    "payment":"Broker-hosted Emaar payment PDF read and visually checked. Nine stages total 100%, matching broad PF 10/70/20; portal FAQ's conflicting instalment count rejected.",
+    "handover":"July 2029 launch construction-completion target corroborated by PF; no guarantee or verified current completion progress.",
+    "documents":"Official 18-page brochure and 15-page plans linked. Broker-hosted fact and payment PDFs fetched successfully even though web renderer could not open them. Images unchanged."
+   },
+   "community":"Emaar South",
+   "overview":["The leisure programme includes separate adult and children’s pools, a splash pad, padel and quieter yoga spaces. The brochure treats these facilities as part of a landscape-led residential setting. The championship golf course belongs to the wider Emaar South community; a view or nearby location does not establish a membership entitlement."],
+   "locationNote":"Golf Meadow sits in Emaar South, in the Dubai South area near Al Maktoum International Airport. The developer’s map also positions it relative to Dubai Marina and Downtown Dubai. Published journey times are estimates, not guaranteed daily commutes.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s displayed unit pricing begins at AED 3,138,888 on the research date. Its AED 1.12 million launch headline describes an earlier entry point. Confirm the selected unit’s current price and availability; the published unit count is not verified stock.",
+   "paymentNote":"The copied launch plan has an initial 10%, seven further 10% instalments and 20% at estimated completion. The dates below are historical launch terms. Obtain a current agreement for any new purchase rather than assuming passed instalments still apply unchanged.",
+   "handoverNote":"The launch payment sheet targets July 2029 for estimated construction completion. Property Finder also reports July/Q3 2029. Contractual handover and current construction status require confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"705.79–904.17 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,067.56–1,383.70 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,569.59–1,854.41 sq ft printed total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"2,662.67–2,869.98 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · launch plan","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The fact sheet lists 81 one bedroom, 113 two bedroom and 25 three bedroom apartments, plus five townhouses: 224 launch homes, not remaining inventory.","sourceIds":["facts"]},
+    {"label":"Historical launch prices","value":"The launch sheet quoted AED 1.12 million, 1.63 million and 2.45 million for one, two and three bedroom apartments; townhouses started at AED 4.95 million.","sourceIds":["facts"]},
+    {"label":"Townhouse and tower arrangement","value":"The plans show townhouses across ground and podium levels, with three bedrooms upstairs and living spaces, maid’s accommodation and storage below. The tower key section continues through residential level 15.","sourceIds":["plans"]},
+    {"label":"Reading the area figures","value":"Totals include balcony or terrace space. The three bedroom Type 1A sheet prints 1,572.50 sq ft, which does not match its component sum; confirm that specific layout before relying on the measurement.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Selected unit availability, current price, view, parking and payment agreement.","The launch fact sheet’s townhouse maximum differs from the detailed plans; use unit-specific contractual drawings.","Three bedroom Type 1A area discrepancy needs developer clarification; no silent correction has been made.","Current construction progress, contractual completion, service charges and final specifications.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

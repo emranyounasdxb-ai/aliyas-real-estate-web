@@ -1,0 +1,356 @@
+{
+  "id": "deyaar-project-02",
+  "name": "AYA Beachfront Residences",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "AYA is Deyaar’s beachfront collection of apartments, garden homes, duplexes, penthouses and villas on Umm Al Quwain’s Al Khor waterfront.",
+    "areaId": "uaq-al-khor-waterfront",
+    "location": "Al Khor Waterfront",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Cinema",
+      "Club room",
+      "Gym",
+      "Children’s splash pad",
+      "Pool and Jacuzzi",
+      "Residents’ lounge",
+      "Rooftop pool",
+      "Yoga studio"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/Aya-Floor-Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar AYA project guide",
+          "url": "https://www.deyaar.ae/en/properties/aya-beachfront-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar current construction update · AYA",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "brochure",
+          "label": "AYA official English brochure · 66 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "AYA official floor plans · current 33-page pack",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/Aya-Floor-Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "earlier",
+          "label": "AYA earlier official 31-page floor-plan pack",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/02/Deyaar_Aya_Floorplans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "facts",
+          "label": "AYA branded summer-offer factsheet · broker-hosted, 32 pages",
+          "url": "https://cdn.geniemap.net/upload/14/e7/c5/5d/50f272ba-9173-46a7-946d-621e01ae0f51.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder AYA historical commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/aya-beachfront-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "broker",
+          "label": "Tanami later AYA payment offers · unconfirmed amendments",
+          "url": "https://www.tanamiproperties.com/Projects/AYA-Beachfront-Residences-by-Deyaar-PaymentPlan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure",
+          "plans"
+        ],
+        "areaId": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "brochure"
+        ],
+        "locationNote": [
+          "brochure",
+          "portal"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "construction",
+          "portal"
+        ],
+        "handoverNote": [
+          "construction",
+          "portal"
+        ],
+        "paymentPlan": [
+          "facts",
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "facts",
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "facts"
+        ],
+        "overview": [
+          "construction"
+        ],
+        "units": [
+          "plans",
+          "earlier"
+        ],
+        "facts": [
+          "brochure",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "plans",
+          "earlier",
+          "developer",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "OwnDeyaarAYApage and66pEnglishbrochure/33pcurrentplans reviewed; publicWPmedia31pearlieroriginalplans and33pFebruarymirror/66poldbrochure also retrieved200. NoAYAAbuDhabi/Dubaicopy adopted despitebrokerlocationerrors.",
+        "location": "Ownmain UmmAlQuwain;brochure40 specificallyAlKhorwaterfront, exactnewuaq-al-khor-waterfront registry; no guessedcoordinates. PFAlRaudahadministrativeindexnotassumedcontradiction orseparateproject. Maintravelclaimsnotadopted.",
+        "residences": "All26currentnumericpanels/19families readactual. Allmultileveldrawings21–31 actual inspected:3BRduplexoneground/twoupper,4BRduplexoneground/threeupper,5BRbeachvillamastermezzanine/fourfirst,4BRskyoneground/threeupper;maidnotbedroom. OwnmainStudio–3excludesactual5BRvilla; headlineStudio–5supportedactualplans. Noassumedavailableunits.",
+        "areas": "Currentactual26numericpanels plusearlier31pallnumericpanels visuallyread. Current33pincludes369studio,2158twoBRsimplex and9854fiveBRvilla;earlier31p1820twoBRsimplex+extra1480twoBRsimplexA/2289threeBRsimplexA. Earlierdrawingslabeledseparately. L-B2BR1146+584=1730vs1729;4BRduplexA2835+2507=5342vs5341;5BRvilla5539+4316=9855vs9854;severalsquaremetresumerrorsretained. Wholeareasnotmultiplied.",
+        "amenities": "Ownmain namedcinema/club/gym/kidssplash/pools/Jacuzzi/lounge/yoga. Actualbrochure9/28/36/49/58/60 andfacts3/24/27read;37700amenityspaceplannednotpublicpark. Smarttechnology/appliances inbrochure but noinventedcertification/healthoutcomes.",
+        "pricing": "No officialcurrentpricelist retrieved. PF exact1095000historic headline1.1m,broker696499latestentry vsold1084050dependsproduct/time, currentpriceNULL ratherthan mixingstudioand1BR. No investmentreturn claims.",
+        "payment": "Actualbranded32pfactsheet29 visuallyread exclusiveSUMMERoffer30/70:10booking,10Dec312025,10Dec312026,70Dec312027=100. Historicalnotcurrent. PFmain5/25/40/30versusFAQ5/35/60, Tanamilater5/5/10/10/70or40+30posthandover unconfirmedamendments;headlineNULL. Expired3yearmanagementbenefitnotmarketedaslive.",
+        "handover": "OwnconstructionQ42027vsPFJune2028conflicting,headlineNULL. Own100% specificallyshoring/enablingandservicerelocation, notwholeprojectcompletion. Publicconstructionderivedcopywithin20. No certificationfound.",
+        "documents": "Own66p/33pcurrentPDFsprimary;31pearlier/33pFebruarymirror/66poldbrochureprimarypublicWPmedia. Broker32pfacts retrievedordinarypublicGETcorrectlybrokerkind. Sourcesincludingversionsallpool200(25brochure95currentplans40earlier40facts). Earliercurrentmirrorduplicate0newallocation. RenderedactualnumericsnotcorruptPDFtextextraction; cleanUTF8publiccopy."
+      },
+      "community": "Al Khor Waterfront",
+      "locationNote": "Al Khor waterfront, Umm Al Quwain; Property Finder indexes the project under Al Raudah.",
+      "overview": [
+        "Shoring and service relocation completed; main works pending."
+      ],
+      "priceLabel": "Current official quotation required",
+      "priceNote": "Property Finder’s historical entry reference is AED 1,095,000. Later broker prices cover different products; none confirms today’s developer stock.",
+      "paymentNote": "Historical summer-offer calendar, not a current offer. Portal headline 5/25/40/30 differs from its FAQ 5/35/60.",
+      "handoverNote": "Developer target Q4 2027; Property Finder June 2028. Confirm the contractual date.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "369 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR · S/L",
+          "area": "662–743 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · four apartment types",
+          "area": "1,067–1,729 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR simplex",
+          "area": "2,158 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · S/L-A/L-B",
+          "area": "1,420–2,138 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR simplex",
+          "area": "2,417 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex",
+          "area": "4,702 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex · A/B",
+          "area": "4,628–5,341 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR beach villa",
+          "area": "9,854 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR sky villa",
+          "area": "7,563 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR penthouse · A/B",
+          "area": "4,606–6,874 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Earlier 2BR simplex",
+          "area": "1,820 ft²",
+          "sourceIds": [
+            "earlier"
+          ]
+        },
+        {
+          "label": "Earlier 2BR simplex-A",
+          "area": "1,480 ft²",
+          "sourceIds": [
+            "earlier"
+          ]
+        },
+        {
+          "label": "Earlier 3BR simplex-A",
+          "area": "2,289 ft²",
+          "sourceIds": [
+            "earlier"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · historical",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 Dec 2025",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 Dec 2026",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 Dec 2027 · handover",
+          "percent": 70,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original design",
+          "value": "442 homes · B+G+8F+R",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Planned amenities",
+          "value": "37,700 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current 2BR simplex: 2,158 ft²; earlier: 1,820 ft². Earlier simplex-A layouts are version-specific, not confirmed inventory.",
+        "Some printed component sums differ by 1 ft²/m². Multi-level totals describe whole homes.",
+        "Website range 369–7,500 ft² omits the five-bedroom, 9,854 ft² plan; factsheet sizes differ. Confirm approved drawings.",
+        "Current prices, payment amendments, service charges, allocated parking, inventory and delivery certification remain unverified."
+      ]
+    }
+  }
+}

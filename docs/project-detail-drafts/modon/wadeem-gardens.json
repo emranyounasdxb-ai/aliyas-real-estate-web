@@ -1,0 +1,285 @@
+{
+  "id": "modon-project-01",
+  "name": "Wadeem Gardens",
+  "developerSlug": "modon",
+  "fields": {
+    "description": "Four- to six-bedroom villas on Hudayriyat Island connect with Wadeem’s planned schools, shops and community destinations.",
+    "areaId": "abu-dhabi-hudayriyat-island",
+    "location": "Hudayriyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 8700000,
+    "handover": "Q2 2031",
+    "paymentPlan": "25 / 75",
+    "amenities": [
+      "Planned waterfront promenade",
+      "Planned clubhouses",
+      "Planned schools",
+      "Planned healthcare centres",
+      "Planned retail and dining",
+      "Planned arena",
+      "Gated community and security"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/8dfc440f62cf4e39898754a02495538b.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wadeem Gardens: current Modon project and FAQs",
+          "url": "https://www.modon.com/real-estate/wadeem-gardens",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 195
+        },
+        {
+          "id": "launch",
+          "label": "Wadeem Gardens: Modon phase-one launch, 30 September 2026",
+          "url": "https://www.modon.com/about-modon/media-centre/details/2026/09/30/modon-launches-phase-one-of-wadeem-gardens--abu-dhabi-s-first-villa-community-to-offer-up-to-75--off-plan-home-finance-with-adib",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "brochure",
+          "label": "Wadeem Gardens: original brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "plans",
+          "label": "Wadeem Gardens: original six villa layouts, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/8dfc440f62cf4e39898754a02495538b.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 125
+        },
+        {
+          "id": "plan-mirror",
+          "label": "Wadeem Gardens: alternate original plan mirror",
+          "url": "https://goldendomeproperties.ae/interactive/catalogue-media/wadeem-gardens/wadeem-gardens-home-layouts.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Wadeem Gardens: Property Finder payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/modon-properties/wadeem-gardens",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "guide",
+          "label": "Wadeem Gardens: broker account of dated factsheet",
+          "url": "https://impalarealestate.com/hudayriyat-island/wadeem-gardens/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        }
+      ],
+      "community": "Wadeem Gardens, Hudayriyat Island",
+      "overview": [
+        "Arabian and Modern façades accompany two internal layouts per bedroom size. Show and service kitchens, staff rooms and upstairs family spaces distinguish the alternatives.",
+        "Villas are not directly waterfront. Pool provision permits owner installation, subject to approvals."
+      ],
+      "locationNote": "A Hudayriyat Island villa community, distinct from Wadeem’s earlier residential plots.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "Modon advertises starting prices of AED 8.7 / 10.2 / 11.6 million for 4 / 5 / 6BR. Confirm the selected home’s quotation.",
+      "paymentNote": "The 25/75 finance option requires lender approval. Table: portal reference; original dated schedule unverified. Confirm cash terms separately.",
+      "handoverNote": "Modon targets Q2 2031. The portal specifies April 2031; neither replaces the contracted completion terms.",
+      "units": [
+        {
+          "label": "4BR · options A and B",
+          "area": "430 m² printed whole-villa unit size.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR · options A and B",
+          "area": "510 m² printed whole-villa unit size.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6BR · options A and B",
+          "area": "591 m² printed whole-villa unit size.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reservation · secondary reference",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Month 8 · June 2027",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Month 14 · December 2027",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Month 20 · June 2028",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Month 48 · October 2030",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · subject to mortgage approval",
+          "percent": 75,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Developer webpage size figures",
+          "value": "532 / 630 / 720 m² for 4 / 5 / 6BR; broker factsheet account labels these plot sizes.",
+          "sourceIds": [
+            "developer",
+            "guide"
+          ]
+        },
+        {
+          "label": "Ownership",
+          "value": "Developer describes freehold homes open to all nationalities.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Finance eligibility",
+          "value": "ADIB assesses applications; financing is not guaranteed.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Webpage size figures differ from drawn unit totals; confirm the contracted area basis.",
+        "No original dated payment document, current service-charge schedule, construction percentage or selected-home availability was verified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protectedmodon-project-01WadeemGardens; currentownpage and30Sep2026phaseonelaunch. Not2025Wadeemresidentialplots; oldWadeem50/50/Q42028nottransferred.",
+        "location": "Ownmain/launchHudayriyatIslandAbuDhabi; exactrootcentralabu-dhabi-hudayriyat-island. No inventedcoordinates. PrimaryFAQnotdirectwaterfront; noimplicitprivatebeach.",
+        "residences": "Actual6originalfullground/firstlayouts:4/5/6BRbothA/B. Guestbedcountedwithupstairsrooms, staff/majlisnotextrabeds. Original41pbrochure28Arabian/Modernchoices.",
+        "areas": "All6visible1750pxfullnumericpanels read. Wholeunit430/510/591sqm sameA/B, notmultiplylevels. Primary532/630/720unqualifiedsize; independentlyattributedbrokerfactsheetretellingplotbasis, notsilentlysubstituted. No unverifiedft2conversion.",
+        "amenities": "Ownmainplannedspine/arena/clubhouses/schools/healthcare/retail; actualbrochure8/27confirmsdistrictscope. PrimaryFAQpoolprovisiononlysubjectapproval, matchesactualplanfootnotesownerinstalls. No finishedpoolguarantee.",
+        "pricing": "Currentown8.7/10.2/11.6millionfromguides;PFsame. No currentstockorselectedunitquoteassumed. No tax/fee/yieldinventions.",
+        "payment": "Currentown25/75 +ownFAQADIBapprovalcondition;30Sep2026releaseup75finance. PFactualordinaryHTMLNEXT_DATA5/20/75 and4datesverified100. Tableclearlysecondary, no originaldatedpaymentPDFfound. Brokerclaims45/55cashand20bankdrawOctober2028/55June2031notadoptedasoriginalverifiedterms.",
+        "handover": "PrimarycurrentQ22031forecast,PFactualApril2031. No guaranteeactualcompletion. No currentdeveloperconstructionpercent/certificateverified.",
+        "documents": "OwnHTMLordinaryGET200, original41pReellybrochure+6pReellyplans200; Goldenalternate6pPDFsamecontentpooled0. All6wholeplansactualviewed;brochure5/8/27/28/41actualviewed. ADXrelease403notbypassed;sameownrelease200read. Noforms. RelatedPDF170allocated45broch125plans;brokerfactsretelling30withincombined200. GenericModon0."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "overview": [
+          "brochure",
+          "plans",
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "guide",
+          "launch"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "portal"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

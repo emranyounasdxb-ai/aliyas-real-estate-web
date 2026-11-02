@@ -1,0 +1,209 @@
+{
+  "id": "aldar-project-17",
+  "name": "Al Ghadeer Gardens N2",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Al Ghadeer Gardens N2 is a separate release within Aldar’s Al Ghadeer community. Its brochure introduces two bedroom middle and corner townhouses, a three bedroom corner townhouse and a four bedroom villa. Garden space, covered parking and two interior palettes shape the home choices.",
+    "areaId": "abu-dhabi-al-ghadeer",
+    "location": "Al Ghadeer",
+    "emirate": "Abu Dhabi",
+    "type": "Townhouse",
+    "bedrooms": "2–4",
+    "price": 1850000,
+    "handover": null,
+    "paymentPlan": "55/45 · broker-reported",
+    "amenities": [
+      "Community centre",
+      "Swimming pool",
+      "Splash pad and water slide",
+      "Children’s play areas",
+      "Padel court",
+      "Basketball court",
+      "Edible garden",
+      "Shaded pedestrian routes"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Al Ghadeer Gardens N2",
+          "url": "https://www.aldar.com/properties/en/uae/al-ghadeer/alghadeer-gardens-n2",
+          "kind": "developer",
+          "derivedWords": 55,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Gardens N2 brochure and plans",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f",
+          "kind": "official-document",
+          "derivedWords": 195,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "tanami",
+          "label": "Tanami: Gardens Phase 2 commercial references",
+          "url": "https://www.tanamiproperties.com/Projects/Al-Ghadeer-Gardens-2-by-Aldar",
+          "kind": "broker",
+          "derivedWords": 150,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "golden",
+          "label": "Golden Dome: Gardens N2 release",
+          "url": "https://goldendomeproperties.ae/offplan-project/al-ghadeer/al-ghadeer-gardens-n2",
+          "kind": "broker",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "palmstone",
+          "label": "Palmstone: Gardens N2 date cross-check",
+          "url": "https://www.palmstone.ae/en/projects/al-ghadeer-gardens-n2",
+          "kind": "broker",
+          "derivedWords": 30,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "location": [
+          "golden"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "golden"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure",
+          "golden"
+        ],
+        "price": [
+          "tanami",
+          "golden"
+        ],
+        "paymentPlan": [
+          "tanami",
+          "golden"
+        ],
+        "handover": [
+          "tanami",
+          "palmstone"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own official N2 URL and its separate 45-page brochure checked; no phase-one price/date inherited.",
+        "location": "Al Ghadeer border corridor corroborated in N2-specific broker listing.",
+        "residences": "Brochure visually confirms two-bedroom middle/corner, three-bedroom corner and four-bedroom villa drawings.",
+        "areas": "Brochure does not label aggregate areas; broker range attributed at collection level, not assigned to each layout.",
+        "amenities": "N2-specific facilities reviewed; operating status and school opening not assumed.",
+        "pricing": "Two independent broker pages agree AED 1.85m starting reference, not current available inventory.",
+        "payment": "Both broker pages report 5/50/45. No unverified instalment dates added.",
+        "handover": "Tanami and Golden Dome state Q4 2030; Palmstone states Q4 2029. Official brochure does not settle date, so field remains null.",
+        "documents": "Official N2 brochure downloaded and its four plan sheets visually inspected; distinct from first-release drawings."
+      },
+      "community": "Al Ghadeer Gardens N2 · Abu Dhabi",
+      "overview": [
+        "The two-bedroom corner option is a material distinction in the N2 plan set. Review its side windows and outdoor arrangement against the middle townhouse drawing, and check the plot boundary rather than assuming the illustrated garden area is identical across homes."
+      ],
+      "locationNote": "N2 sits within Al Ghadeer on the Abu Dhabi side of the Abu Dhabi–Dubai border. Verify the release and plot on the developer map when arranging a viewing or reviewing a reservation.",
+      "priceLabel": "Broker-advertised starting reference",
+      "priceNote": "Tanami and Golden Dome report AED 1.85m for the second release. This is a project-level starting reference, not a current price or confirmation of an available two-bedroom home.",
+      "paymentNote": "The reviewed N2 broker pages describe 5% on booking, 50% during construction and 45% on handover. The developer’s dated reservation schedule should confirm each instalment and applicable fees.",
+      "handoverNote": "Tanami and Golden Dome publish Q4 2030 for N2; Palmstone publishes Q4 2029. The official brochure reviewed does not resolve this discrepancy. A confirmed date is withheld until Aldar supplies release-specific documentation.",
+      "units": [
+        {
+          "label": "2-bedroom townhouse · middle",
+          "area": "Exact aggregate area to confirm in the selected property schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom townhouse · corner",
+          "area": "Exact aggregate area to confirm in the selected property schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · corner",
+          "area": "Exact aggregate area to confirm in the selected property schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom villa",
+          "area": "Exact aggregate area to confirm in the selected property schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "tanami"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "tanami"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 45,
+          "sourceIds": [
+            "tanami"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published size reference",
+          "value": "Golden Dome reports a collection range of 1,348–2,198 sq ft. Its area basis is not split into internal, outdoor and plot areas; it should not be used as a plot-size range.",
+          "sourceIds": [
+            "golden"
+          ]
+        },
+        {
+          "label": "Interior choices",
+          "value": "The N2 brochure presents light and dark palettes. Confirm the selected specification and whether a choice remains available for the individual home.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Handover year conflicts across brokers; obtain developer confirmation for N2.",
+        "Exact saleable, built-up and plot areas are not established for each drawing.",
+        "Current stock, charges and final inclusion of landscaping or a pool need a specific offer.",
+        "Keep N2 separate from Gardens phase one and Al Ghadeer Parks; their launch terms cannot be interchanged."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

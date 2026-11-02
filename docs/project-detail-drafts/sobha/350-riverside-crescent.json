@@ -1,0 +1,179 @@
+{
+  "id": "sobha-project-46",
+  "name": "350 Riverside Crescent",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "350 Riverside Crescent is an apartment tower in Sobha Hartland 2, Dubai. Its compact one-bedroom homes sit alongside study-equipped layouts and larger two-bedroom apartments. The original plan pack contains several variants whose balcony size and room configuration differ substantially.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 2500000,
+    "handover": "2027 · timing varies",
+    "paymentPlan": "20/60/20 · reported plan",
+    "amenities": [
+      "Infinity pool",
+      "Outdoor gym",
+      "Barbecue area",
+      "Sky garden",
+      "Yoga zone",
+      "Children’s play areas",
+      "Toddler pool",
+      "Jacuzzi",
+      "Sensory gardens",
+      "Library",
+      "Art and music room",
+      "Indoor movie theatre"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-11/14.%20350%20Riverside%20Crescent.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-11/14.%20350%20Riverside%20Crescent.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "350 Riverside Crescent official project page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/350-riverside-crescent",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "350 Riverside Crescent own official brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-11/14.%20350%20Riverside%20Crescent.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: 350 Riverside Crescent",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/350-riverside-crescent",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "alternative",
+          "label": "KMJ: selected 350 Riverside units and alternative payment/completion terms",
+          "url": "https://kmjproperties.com/property/350-riverside-crescent-sobha-hartland-2/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "alternative"
+        ],
+        "paymentPlan": [
+          "finder",
+          "alternative"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own 350 tower brochure inspected; 360 and other Riverside tower data excluded.",
+        "location": "Sobha Hartland 2 location confirmed by official FAQ.",
+        "residences": "One-, study-equipped one-, and two-bedroom drawings reviewed.",
+        "areas": "Actual plan and numerical panels visually checked on pages 36, 51, 74 and 90.",
+        "amenities": "Own official facilities list checked.",
+        "pricing": "Official 2.50m inventory guide versus portal historical 1.5m launch.",
+        "payment": "Portal 20/60/20 versus broker 20/40/40 conflict disclosed; each separate plan totals 100.",
+        "handover": "March 2027 versus broker Q4 2027 conflict disclosed; only shared year shown.",
+        "documents": "Own 102-page official brochure downloaded, with actual drawings inspected."
+      },
+      "community": "Sobha Hartland 2",
+      "overview": [
+        "A study layout is marketed as 1.5 bedrooms. The large Type F drawing also carries that label, so its second enclosed room has not been silently reclassified as a standard bedroom."
+      ],
+      "locationNote": "Within Sobha Hartland 2 in Dubai. The official page names Mohammed Bin Rashid City; individual skyline and lagoon views depend on unit position.",
+      "priceLabel": "Developer website starting guide",
+      "priceNote": "The current official guide is AED 2.50m subject to inventory. Property Finder retains a historical AED 1.5m launch reference. A broker lists a different selected one-bedroom collection; these are not interchangeable quotations.",
+      "paymentNote": "Property Finder reports 20% booking, 60% construction and 20% handover. KMJ instead advertises 20/40/40 for its selected collection. No current primary unit calendar was found; no hybrid plan is inferred.",
+      "handoverNote": "Property Finder gives March 2027, while KMJ reports Q4 2027. The shared year 2027 is displayed with a timing qualifier; the quarter needs a current contractual document.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "467.37 sq ft suite + 59.31 sq ft balcony; 526.68 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1.5-bedroom Type A · one bedroom plus study",
+          "area": "785.55 sq ft suite + 56.19 sq ft balcony; 841.74 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B",
+          "area": "1,103.52 sq ft suite + 115.39 sq ft balcony; 1,218.91 sq ft total saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 60,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Resolve payment and quarter conflicts with a current unit schedule.",
+        "Current stock, furnishing, service charges and parking allocation remain unconfirmed. The broker’s selected-unit claims are not generalised across the tower. Proposed facilities and views require confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

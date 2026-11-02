@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-17","name":"Kaia","developerSlug":"emaar",
+ "fields":{
+  "description":"Kaia brings three and four bedroom townhouses to The Valley, with landscaped paths and places for children to play. The project’s launch documents describe six-home and eight-home groups rather than a single repeated layout. Ava and Vina belong to the six-home designs; Luna is the eight-home option.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2720000,"handover":"Q3 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Communal landscaped grounds","Pool deck","Children’s playground","Fitness centre","Indoor multipurpose room","Pet park"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/KAIA_brochure.pdf","floorPlanUrl":"https://www.mitchellscommercialrealty.com/downloads/kaia/KAIA_TV_FLOORPLAN.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Kaia at The Valley","url":"https://www.emaar.com/en/properties/kaia-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"brochure","label":"Emaar: shared Valley brochure","url":"https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":60},
+    {"id":"plans","label":"Kaia plans · broker-hosted Emaar document","url":"https://www.mitchellscommercialrealty.com/downloads/kaia/KAIA_TV_FLOORPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Kaia launch fact sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/kaia/KAIA_THE_VALLEY_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Kaia launch payment sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/kaia/KAIA_THE_VALLEY_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Kaia project terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/kaia","kind":"portal","checkedOn":"2026-10-31","derivedWords":55},
+    {"id":"bayut","label":"Bayut: Kaia area guide","url":"https://www.bayut.com/area-guides/kaia-the-valley/","kind":"portal","checkedOn":"2026-10-31","derivedWords":50}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["official"],"type":["facts"],"bedrooms":["official"],"amenities":["official"],"price":["official","facts"],"units":["plans"],"documents":["official","plans"],"paymentPlan":["payment","finder","bayut"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Kaia retained. Official KAIA_floorplan.pdf is byte-identical to ELEA_floorplan.pdf and visibly branded Elea; rejected for Kaia dimensions. Copied Kaia pack independently checked.",
+    "location":"The Valley on Dubai–Al Ain Road; canonical The Valley filter used.",
+    "residences":"Three and four bedroom townhouses in six- and eight-home groups. PF narrative adds unsupported five-bedroom villas; excluded.",
+    "areas":"Read all 21 Kaia copied plan pages. Ava, Vina and Luna ranges kept separate. Ava TH01 printed components do not reconcile to printed BUA; discrepancy disclosed rather than silently corrected.",
+    "amenities":"Six facility groups taken from official project page. Wider community schools not represented as operating within Kaia.",
+    "pricing":"AED 2.72 million official headline, matching copied launch three-bedroom price; four-bedroom AED 3.29 million labelled launch only.",
+    "payment":"Copied Emaar-branded launch plan and facts visually checked, nine payments total 100%. 80/20 is not post-handover financing despite Bayut wording.",
+    "handover":"July 2028 on copied launch schedule corroborates PF Q3 2028. No claim of current measured construction progress.",
+    "documents":"Shared brochure available officially; correct owned plans and commercial sheets accessed from broker-hosted Emaar copies, with clear attribution. Erroneous official plan link is not offered as Kaia’s plans."
+   },
+   "community":"The Valley",
+   "overview":["A neutral interior palette and straightforward modern façades are common to the shared Kaia, Elea and Elva brochure. The more specific Kaia drawings show how the home changes between a middle position and an end position, making the individual plan more informative than a generic bedroom count."],
+   "locationNote":"Kaia sits in The Valley along Dubai–Al Ain Road. Emaar identifies connections towards Downtown Dubai, Dubai International Airport and Global Village. Wider community facilities and advertised drive times should be checked against the selected home’s entrance and daily routes.",
+   "priceLabel":"Advertised from",
+   "priceNote":"The official page advertises AED 2,720,000. The copied launch fact sheet gives AED 2.72 million for three bedrooms and AED 3.29 million for four. Launch prices do not establish a currently available home or today’s resale terms.",
+   "paymentNote":"The broker-hosted Emaar launch schedule sets out 10% on booking, seven further 10% instalments and 20% at completion. Several dates are historical. Although one portal calls the plan post-handover, the document places the final balance at completion, with no later instalments shown.",
+   "handoverNote":"The launch sheet targets July 2028, consistent with Property Finder’s Q3 2028. Treat this as a reported completion target; the current contractual date and construction position need confirmation.",
+   "units":[
+    {"label":"3 bedrooms · Vina, six-home group","area":"2,494.32–2,494.96 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Vina, six-home group","area":"2,610.68 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Ava, six-home group","area":"2,375.49–2,375.59 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Ava, six-home group","area":"2,624.78–2,625.42 sq ft printed BUA; TH01 area breakdown needs confirmation","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Luna, eight-home group","area":"2,259.34–2,265.48 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Luna, eight-home group","area":"2,868.04 sq ft printed built-up area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · January 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2028 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The copied launch fact sheet lists 112 three bedroom and 44 four bedroom homes. This 156-home launch mix does not establish current stock.","sourceIds":["facts"]},
+    {"label":"Land and floor area","value":"Launch plot ranges are 1,871–1,875 sq ft for three bedrooms and 2,792–4,018 sq ft for four. The fact sheet’s 2,323 and 2,754 sq ft figures are average built-up areas, not minimum and maximum sizes.","sourceIds":["facts"]},
+    {"label":"Plan provenance","value":"The developer page’s plan download returned an Elea document when checked. The linked Kaia pack is an Emaar-branded copy hosted by a broker; request the current developer-issued revision before selecting a unit.","sourceIds":["official","plans"]}
+   ],
+   "unresolved":["Current developer-issued Kaia floor plans: the official website download incorrectly returns Elea’s pack.","Ava TH01: printed suite, garage and balcony figures do not add to its printed built-up total. Obtain a corrected unit plan.","Current stock, exact price, plot allocation and payment schedule.","Contractual completion, current construction progress, landscaping inclusions and service charges.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

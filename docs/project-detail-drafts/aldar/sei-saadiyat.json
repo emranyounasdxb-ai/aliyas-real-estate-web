@@ -1,0 +1,259 @@
+{
+  "id": "aldar-project-04",
+  "name": "Sei Saadiyat",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Sei Saadiyat brings apartments and Kanso lofts to Saadiyat Cultural District. The six-building development combines 778 homes with shared gardens and wellbeing spaces. Its first launch covered 265 homes, so building and release details matter when comparing a particular apartment.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 2950000,
+    "handover": "Q4 2030 · estimated",
+    "paymentPlan": "50/50 advertised plan",
+    "amenities": [
+      "Rooftop pools and social gardens",
+      "Fitness and yoga studios",
+      "Hot and cold baths",
+      "Spa and sauna",
+      "Cinema rooms",
+      "Co-working spaces",
+      "Zen garden and serenity pool",
+      "Children's play spaces",
+      "Specialist clinic planned",
+      "Library and gaming lounge"
+    ],
+    "brochureUrl": "https://sei-saadiyat.com/storage/hero-sections/September 2026/sVLmtTQaeEe5ztxGWSyQ.pdf",
+    "floorPlanUrl": "https://sei-saadiyat.com/storage/floor-plan-title/October2026/3R933FzCT9TQyAtk1T19.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Sei Saadiyat",
+          "url": "https://www.aldar.com/properties/en/seisaadiyat",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "Aldar Sei launch announcement, 7 September 2026, ADX",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5385232",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar Sei Saadiyat brochure, independent marketing-site copy",
+          "url": "https://sei-saadiyat.com/storage/hero-sections/September 2026/sVLmtTQaeEe5ztxGWSyQ.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "plans",
+          "label": "Aldar Sei Saadiyat plans and floorplates, independent marketing-site copy",
+          "url": "https://sei-saadiyat.com/storage/floor-plan-title/October2026/3R933FzCT9TQyAtk1T19.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "payment",
+          "label": "Masterpiece Property: Sei launch instalments",
+          "url": "https://www.mpinv.ae/sei-saadiyat",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official",
+          "brochure"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official",
+          "launch"
+        ],
+        "price": [
+          "official"
+        ],
+        "units": [
+          "official",
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "paymentPlan": [
+          "official",
+          "payment"
+        ],
+        "handover": [
+          "official"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "778-home six-building development; first release265 homes in two buildings distinguished from overall total.",
+        "location": "Official Cultural District setting verified.",
+        "residences": "One/two-bedroom apartments, three-bedroom Kanso residences and two-bedroom lofts checked against own plan pack.",
+        "areas": "Official 70–208 sq m average range retained; drawings show layouts without verified total area by type, so no room-area sums invented.",
+        "amenities": "Official project page and launch reviewed; planned clinic and shared recreation identified.",
+        "pricing": "Official AED2.95m and advertised2% ADM waiver recorded with conditions.",
+        "payment": "Official50/50 with 5% booking; eight detailed stages corroborated by named broker, total100.",
+        "handover": "Official Q4 2030 commencement verified.",
+        "documents": "Own55-page brochure and45-page plans located; plan index and Kanso residence/loft drawings visually checked."
+      },
+      "community": "Sei Saadiyat · Saadiyat Cultural District",
+      "overview": [
+        "Natural materials and light are central to the interiors. The brochure describes stone, timber, metal and woven finishes, with selected detailing sourced from Japan. Kanso Lofts introduce a split-level arrangement with a living volume open to the floor above, giving these homes a different spatial character from the conventional apartments."
+      ],
+      "locationNote": "Sei Saadiyat is within Saadiyat Cultural District. The brochure situates it near Abrahamic Family House and the district museums; outlook and walking routes depend on the selected building and floor.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "Aldar advertises homes from AED 2.95m and a 2% ADM fee waiver. These do not establish available stock, eligibility for incentives or the full acquisition cost. Confirm a dated unit quotation.",
+      "paymentNote": "Aldar confirms 50/50 with 5% down. Masterpiece Property supplies the dated launch schedule shown below; the signed agreement controls exact dates and remaining balances.",
+      "handoverNote": "Aldar states handovers commence from Q4 2030. This is an estimated programme, not a guarantee for every building or apartment.",
+      "units": [
+        {
+          "label": "Development-wide published average range",
+          "area": "70–208 sq m; not a confirmed range for every residence type",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "1- and 2-bedroom apartments",
+          "area": "Type-specific registered totals require confirmation",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Kanso Residence",
+          "area": "Own layout shown; total registered area to be confirmed",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Kanso Loft",
+          "area": "Two-level layouts shown; total registered area to be confirmed",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 September 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 April 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 December 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 August 2029",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "14 April 2030",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development and first release",
+          "value": "778 homes across six buildings overall. The September 2026 announcement identifies 265 homes in the first two-building release; neither total means unsold inventory.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Design team",
+          "value": "Aldar names Jacobs for architecture and Kettle Collective for interiors.",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "Sustainability target",
+          "value": "The launch announcement targets Estidama Pearl 3 and includes EV provisions. A target is not an achieved certification.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Layout distinction",
+          "value": "The reviewed three-bedroom Kanso plan has a maid room; the loft drawing distributes bedrooms across two levels around an open living volume. Check the exact type and accessibility of its internal stairs.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Unit availability, building allocation, total registered area, balcony accounting, parking and service charges require confirmation.",
+        "The dated payment stages are broker-reported; a developer-issued signed schedule was not retrieved.",
+        "Confirm final amenity access, clinic operation, incentives and finishes; images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "id": "aldar-project-24",
+  "name": "Mandarin Oriental Residences Saadiyat Cultural District, Abu Dhabi",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "This Aldar residential development occupies a setting beside the Zayed National Museum in Saadiyat Cultural District. Its 226 furnished residences were designed by Bjarke Ingels Group, with interiors by Lillian Wu and residential management announced with Mandarin Oriental Hotel Group.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": null,
+    "handover": "Q3 2028 · estimated",
+    "paymentPlan": "65/35 · original schedule",
+    "amenities": [
+      "Indoor fitness centre",
+      "Wellness studio",
+      "Spa",
+      "Salons",
+      "Swimming and children’s pools",
+      "Squash court",
+      "Cinema",
+      "Gaming room",
+      "Children’s club",
+      "Residents’ lounge",
+      "Private dining room",
+      "Shared working space"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/Mandarin-20Oriental-20Presentation.pdf/cf51aa12d43811f08ad5d2c3c52770bc",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/Mandarin-20Oriental-20Presentation.pdf/cf51aa12d43811f08ad5d2c3c52770bc",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Mandarin Oriental Residences",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/mandarin-oriental-residences",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Mandarin Oriental Residences launch, 15 November 2024",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-launches-abu-dhabis-first-mo-residences",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "presentation",
+          "label": "Aldar: residence presentation, layouts and original schedule",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Mandarin-20Oriental-20Presentation.pdf/cf51aa12d43811f08ad5d2c3c52770bc",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "launch",
+          "official"
+        ],
+        "location": [
+          "official",
+          "launch"
+        ],
+        "type": [
+          "presentation"
+        ],
+        "bedrooms": [
+          "presentation"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "presentation"
+        ],
+        "units": [
+          "presentation"
+        ],
+        "documents": [
+          "presentation"
+        ],
+        "paymentPlan": [
+          "presentation"
+        ],
+        "handover": [
+          "presentation"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Aldar page, November 2024 launch and official presentation reviewed; separate older hotel proposals excluded.",
+        "location": "Saadiyat Cultural District and Zayed National Museum setting confirmed.",
+        "residences": "One-to-four-bedroom homes and five-bedroom penthouses verified in own presentation.",
+        "areas": "Page 25 average-area and balcony columns visually inspected; averages are not individual unit sizes.",
+        "amenities": "Facilities taken from the official project page, not unverified broker bundles.",
+        "pricing": "Page 26 describes average prices, not available starting prices. Numeric starting price therefore left null.",
+        "payment": "Page 24 dated seven-stage 65/35 schedule visually checked and totals 100%.",
+        "handover": "Q3 2028 in the original presentation; the current contractual date remains to be confirmed.",
+        "documents": "Official 27-page presentation downloaded. Typical layouts, area mix, original prices and payment table reviewed."
+      },
+      "community": "Saadiyat Cultural District",
+      "overview": [
+        "The announced design combines furnished homes, natural marble, warm timber and carefully considered lighting. Open living areas connect with kitchens and terraces. The branded service proposition is separate from the developer’s ownership and sales role; buyers should review the current management and service documents alongside the home specification."
+      ],
+      "locationNote": "The official launch describes a position overlooking the Zayed National Museum and its fountains, with access to Saadiyat’s cultural destinations and Mamsha Beach. A residence’s exact view depends on its tower, floor and orientation.",
+      "priceLabel": "Current price on request",
+      "priceNote": "The presentation lists average prices: AED 6.2m for one bedroom, 12.2m for two, 16.6m for two plus maid, 25.2m for three plus maid and 42.1m for large three-bedroom pool homes. These are not live offers.",
+      "paymentNote": "The original dated schedule totals 65% before handover and 35% at completion. Reconfirm current terms.",
+      "handoverNote": "The presentation estimates Q3 2028. The contract governs possession.",
+      "units": [
+        {
+          "label": "1-bedroom",
+          "area": "103 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "2-bedroom / with maid’s room",
+          "area": "204 / 215 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "3-bedroom plus maid / large pool variant",
+          "area": "249 / 576 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4-bedroom plus maid and pool",
+          "area": "644 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "5-bedroom penthouse with pool",
+          "area": "2,026 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "5 July 2025",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "5 February 2026",
+          "percent": 15,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "5 September 2026",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "5 April 2027",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "5 November 2027",
+          "percent": 10,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "Q3 2028 handover",
+          "percent": 35,
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Design team",
+          "value": "Aldar’s launch names Bjarke Ingels Group as architect and Lillian Wu as interior designer. Furniture and finishing commitments still need checking against the selected unit’s signed specification.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current price, availability, charges and contractual handover date.",
+        "The area table is averaged; obtain the unit’s gross, internal and balcony definitions before comparison. Do not add the separate balcony column without clarification.",
+        "Confirm current branding, management agreement, services included in charges and any separately billed services.",
+        "Detailed approved drawings and pool specifications remain necessary for the selected residence."
+      ]
+    }
+  }
+}

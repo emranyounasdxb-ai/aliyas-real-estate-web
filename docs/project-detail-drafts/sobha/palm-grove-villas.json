@@ -1,0 +1,193 @@
+{
+  "id": "sobha-project-45",
+  "name": "Palm Grove Villas",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Palm Grove Villas is Sobha’s four-bedroom beach villa collection on Siniya Island in Umm Al Quwain. Private gardens and pools accompany the homes, within a gated island setting. The developer’s current page distinguishes these residences from the larger Coral Beach villas elsewhere on the island.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Villa",
+    "bedrooms": "4",
+    "price": 11530000,
+    "handover": "2028 · timing varies",
+    "paymentPlan": "10/50/40 · reported plan",
+    "amenities": [
+      "Direct beach access",
+      "Private garden",
+      "Private pool",
+      "Lagoon beach",
+      "Water sports",
+      "Children’s play areas",
+      "Outdoor cinema",
+      "Landscaped courtyards"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Palm Grove Villas official project page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/beach-villas/palm-grove-villas",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Official island brochure: Palm Grove PG-V plans on pages 30–35",
+          "url": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Palm Grove Villas",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/palm-groove-villas",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "luxhabitat",
+          "label": "Luxhabitat: Palm Grove villa collection",
+          "url": "https://www.luxhabitat.ae/developments/umm-al-quwain/palm-grove-villas/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "miva",
+          "label": "Miva broker presentation: combined first-phase villas",
+          "url": "https://www.slideshare.net/slideshow/coral-beach-and-palm-grove-villas-phase-1-pdf/283885825",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder",
+          "luxhabitat"
+        ],
+        "handover": [
+          "finder",
+          "luxhabitat",
+          "miva"
+        ],
+        "paymentPlan": [
+          "finder",
+          "miva"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Palm Grove page and PG-V plot references distinguish four-bedroom collection from CB-V Coral Beach.",
+        "location": "Official FAQ confirms Umm Al Quwain despite erroneous Dubai page heading.",
+        "residences": "Four bedrooms only; larger CB-V five/six-bedroom drawings excluded.",
+        "areas": "PG-V numerical panels and actual plans visually inspected on PDF pages 30, 32 and 34.",
+        "amenities": "Own official page facilities and private garden/pool description checked.",
+        "pricing": "Official 11.53m inventory reference distinguished from secondary 11m launch.",
+        "payment": "Property Finder 10/50/40 aggregate totals 100; no primary due-date calendar found.",
+        "handover": "Secondary December versus June 2028 references retained as conflict.",
+        "documents": "Official-linked 42-page island PDF includes PG-V plans, with source budget 120 words maximum."
+      },
+      "community": "Sobha Siniya Island",
+      "overview": [
+        "Plot and saleable areas are different measures. Compare the exact villa type and plot before relying on a collection-wide size range."
+      ],
+      "locationNote": "On Sobha Siniya Island in Umm Al Quwain, as stated in the developer’s FAQ. A heading says villas for sale in Dubai; this is contradicted by the same page’s actual location and is not adopted.",
+      "priceLabel": "Developer website starting guide",
+      "priceNote": "The official page displays AED 11.53m subject to inventory. Property Finder and Luxhabitat retain around AED 11m launch references. A dated unit quote, additional charges and current stock need confirmation.",
+      "paymentNote": "Property Finder publishes 10% booking, 50% construction and 40% handover. A broker-uploaded Miva presentation corroborates that aggregate. Neither substitutes for a current developer instalment calendar.",
+      "handoverNote": "Property Finder and Luxhabitat report Q4/December 2028. A Miva broker presentation instead gives June 2028 for the combined Coral Beach/Palm Grove first phase. Only the shared year is shown; the quarter and unit completion terms remain unresolved.",
+      "units": [
+        {
+          "label": "4-bedroom Type A",
+          "area": "447.30 sq m/4,814.70 sq ft saleable; plot 533.47–560.84 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Type B",
+          "area": "449.30 sq m/4,836.22 sq ft saleable; plot 542.46–830.02 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Type C",
+          "area": "484.90 sq m/5,219.42 sq ft saleable; plot 542.50–849.05 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Plan ownership",
+          "value": "PG-V plot references identify the reviewed four-bedroom drawings; separate CB-V plans are excluded.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Obtain a current primary payment calendar and contractual completion date; secondary quarter estimates differ.",
+        "Service charges, furnishing specification, live stock and unit-specific pool/plot variations need confirmation. The brochure warns plot profiles and pool parameters vary. Photos remain illustrative."
+      ]
+    }
+  }
+}

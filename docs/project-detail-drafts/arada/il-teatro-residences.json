@@ -1,0 +1,302 @@
+{
+  "id": "arada-project-15",
+  "name": "il teatro Residences",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "Apartments and double-height lofts in Aljada’s Naseej District, with rooftop leisure facilities and a setting beside the il teatro cultural complex.",
+    "areaId": "sharjah-aljada",
+    "location": "Aljada",
+    "emirate": "Sharjah",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "Handover began April 2026",
+    "paymentPlan": null,
+    "amenities": [
+      "Rooftop infinity pools",
+      "Health clubs",
+      "Smart-home features",
+      "Ground-floor retail and dining",
+      "Kitchen appliances",
+      "Security and access control",
+      "Parking"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/08/IL-TEATRO-RESIDENCES-BROCHURE-1.pdf",
+    "floorPlanUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/08/IL-TEATRO-RESIDENCES-BROCHURE-1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Arada · il teatro Residences and facilities",
+          "url": "https://www.arada.com/en/property_category/il-teatro-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 180
+        },
+        {
+          "id": "completion",
+          "label": "Arada · construction complete and handover begins, 20 April 2026",
+          "url": "https://www.arada.com/en/latest-news/arada-completes-construction-at-aljadas-naseej-district-as-handover-of-138-homes-at-il-teatro-residences-buildings-begins/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "il teatro Residences 1 · original 37-spread plans brochure",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/08/IL-TEATRO-RESIDENCES-BROCHURE-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "brochure2",
+          "label": "il teatro Residences 2 · original 36-spread plans brochure",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/08/IL-TEATRO-RESIDENCES-2-BROCHURE.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "earlier",
+          "label": "il teatro Residences 1 · earlier 2024 brochure",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/04/IL-TEATRO-RESIDENCES-BROCHURE.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · historical il Teatro 1 commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/arada-sale/il-teatro",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "portal2",
+          "label": "Property Finder · historical il Teatro 2 commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/arada-sale/il-teatro-phaes-2",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "overview": [
+          "brochure",
+          "brochure2"
+        ],
+        "units": [
+          "brochure",
+          "brochure2"
+        ],
+        "price": [
+          "developer",
+          "portal",
+          "portal2"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal",
+          "portal2"
+        ],
+        "priceNote": [
+          "developer",
+          "portal",
+          "portal2"
+        ],
+        "handover": [
+          "completion",
+          "portal",
+          "portal2"
+        ],
+        "handoverNote": [
+          "completion",
+          "portal",
+          "portal2"
+        ],
+        "paymentPlan": [
+          "portal",
+          "portal2"
+        ],
+        "paymentNote": [
+          "portal",
+          "portal2"
+        ],
+        "paymentStages": [
+          "portal",
+          "portal2"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "facts": [
+          "completion",
+          "brochure",
+          "brochure2"
+        ],
+        "unresolved": [
+          "brochure",
+          "brochure2",
+          "earlier",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected arada-project-15 il-teatro-residences; existing generic collection includes buildings1/2, not venueitself. Actual own updatedAugust2025 PDFs separatelylabelled1/2, earlierApril2024original1. Neither TadaoAndo venue design nor hotelservice list applied to residence architectural attribution. Primarycompletion138homescombinednot138each.",
+        "location": "Own primary Naseej cultural district at Aljada, Sharjah. Exactcentralsharjah-aljada; retailplaza/greenconnection contextualnotguaranteedselectedunitview. No mapcoordinateinvented.",
+        "residences": "Actualwhole1BRsingle/1BRloft/2BRsingle/2BRloft/3BRsingle/3BRloft drawings seen.23variants ineachdoc; multilevelwhole totals notmultiplied and voidsnotextra bedroom. Onebedfoldablepartitions andloftdoubleheightfeatures sourcedownpage; loosefurniture notassumed. Architecturalvenue TadaoAndo separatefromunverifiedresidencetowerarchitect.",
+        "areas": "All23visible numerical tables perupdated1 and2 actualviewed as12spreads each. Earlier1 numeric12spreads actualreadmatchcurrentvisiblefigures. Current1hiddenPDFtotal1BRJ165.67 vsvisible142.88,2BRJ209.02vsvisible209.03,K207.46vsvisible207.47,3BRB341.03vsvisible341.04: invisiblelayersrejected. Current2samevisible23unitareas. Combinedunitplusbalcony/wholelofttotals; onlyfamilyextentsandsignatureexamplespublishedtosavepooledsourcewords.",
+        "amenities": "Primarykeyfeatures rooftopinfinitypool/healthclub/groundretail/smarthome/kitchenappliances corroboratedissuercompletion. Generichotelvalet/laundry/inroomdiningnotadoptedfrommixedFacilitieslistwithoutcontractconfirmation. No alreadyoperatingtheatreclaim orprivatepoolpromise.",
+        "pricing": "No currentnumericalprimaryquotation retrieved. Portal1launch836k/2launch1487k onlyhistoricalsecondary; finalpriceNULL, noadoptioncurrentresaleasksorunverifiedreturnguarantees.",
+        "payment": "Ownpage/brochure/media/toolkit no currentdatedcontractualpayPDF. OriginalindexedMay2025sharedavailability actualGET404HTMLexcluded, no cachedcalendarclaimedread. Portal1standard5/35/60=100; portal2option1 5/40/55andoption2 5/30/65both100 separatelynotuniversal. Allhistoricalreferencesforcompletedcollectionnotnewconstructionoffer.",
+        "handover": "Ownissuer20April2026 confirmsconstructioncompletedandhandoverof138combinedhomesbegan. Headlinestatusdescribeshandoverbegannotallindividualtitlestransferred. Earlierportal1Dec2024/2Jun2025forecasts recordedasoutdatednotcurrent. No photo/statuslabelinference.",
+        "documents": "OwnpublicAzurePDFs current1 37spreads/current2 36/earlier1 36 alltextread. All23numericpanels each currentPDFandearlieractualread; fullsample1BRloft24/2BRloft30/3BRloft34plus2BRsingle25,current2loft23. Relatedoverlappingversionsallshare200,110/60/30. PublicanonymousWPmedia/directtoolkitlocators, noforms. Imagesdeferred."
+      },
+      "community": "Naseej District, Aljada",
+      "overview": [
+        "The collection includes conventional apartments and two-level lofts. Published totals include balconies and both loft levels."
+      ],
+      "locationNote": "Naseej District, Aljada, Sharjah, beside the il teatro cultural complex.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder retains launch references of AED 836,000 for building 1 and AED 1,487,000 for building 2; these are not current quotations.",
+      "paymentNote": "Historical building-1 portal plan below. Building 2 separately lists 5/40/55 and 5/30/65. No current dated developer offer was retrieved.",
+      "handoverNote": "Arada announced completed construction and the start of handover on 20 April 2026. Earlier portal forecasts of December 2024 and June 2025 are outdated.",
+      "units": [
+        {
+          "label": "1BR apartment · both buildings",
+          "area": "736–1,090 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "1BR loft · both buildings",
+          "area": "1,538–1,784 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "2BR apartment · both buildings",
+          "area": "1,050–1,255 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "2BR loft · both buildings",
+          "area": "2,234–3,141 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "3BR apartment · both buildings",
+          "area": "1,355 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "3BR loft · both buildings",
+          "area": "3,671 ft²",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · historical building 1",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · historical",
+          "percent": 35,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · historical",
+          "percent": 60,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Completed collection",
+          "value": "138 homes across two buildings; handover began in April 2026.",
+          "sourceIds": [
+            "completion"
+          ]
+        },
+        {
+          "label": "Loft 1BR J · whole home",
+          "value": "142.88 m² / 1,538 ft² across the whole home.",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        },
+        {
+          "label": "Loft 3BR B · whole home",
+          "value": "341.04 m² / 3,671 ft² across both levels and balconies.",
+          "sourceIds": [
+            "brochure",
+            "brochure2"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the contracted plan revision; published schedules may differ.",
+        "Confirm current stock, selected-unit completion, ownership documents, charges, parking and payment terms. Photography is illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-27","name":"Albero","developerSlug":"emaar",
+ "fields":{
+  "description":"Albero offers one to three bedroom apartments and three bedroom townhouses in the Green Gate neighbourhood of Dubai Creek Harbour. Balconies, landscaped arrival spaces and townhouse roof terraces connect the homes to their surroundings. The residential facilities combine an infinity pool, fitness spaces and areas for play and outdoor gatherings.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1813888,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity pool and deck","Children’s pool and splash zone","Gym and outdoor fitness","Yoga zone","Children’s play area","Barbecue and picnic areas","Community garden","Multipurpose room","Communal lawn","Neighbourhood parks and sports spaces"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/401668_brochure_File_18ca13ec56_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ALBERO_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Albero at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/albero-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"brochure","label":"Emaar: Albero brochure","url":"https://www.emaar.com/cms-media/uploads/401668_brochure_File_18ca13ec56_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"plans","label":"Emaar: Albero floor plans","url":"https://www.emaar.com/cms-media/uploads/ALBERO_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"facts","label":"Albero launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/albero/ALBERO_DCH_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"payment","label":"Albero launch payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/albero/ALBERO_DCH_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"finder","label":"Property Finder: Albero estimated delivery and reported payment options","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/albero","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure","facts"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Albero page and project-labelled documents checked; Green Gate identified as its neighbourhood within Dubai Creek Harbour.",
+    "location":"Developer community map reviewed; no guaranteed skyline view or currently operating metro inferred.",
+    "residences":"One to three bedroom apartments and three bedroom townhouses confirmed independently in official page and plans.",
+    "areas":"All tables in official 16-page plan set read, with two-bedroom minimum visually checked. Floor-dependent totals differ from portal ranges; current download does not substantiate every launch-sheet maximum.",
+    "amenities":"Project facilities from brochure page 9 distinguished from Green Gate community facilities on page 19. Children’s pool/splash zone additionally sourced to launch fact sheet.",
+    "pricing":"Official live page's published units-from AED 1,813,888 used; bedroom launch prices separately attributed.",
+    "payment":"April 2025 launch payment PDF visually checked, nine stages total 100%. PF additionally lists a 10/90 variant without matching dated document; not substituted for verified schedule.",
+    "handover":"September 2029 estimated completion in launch sheet and PF, reported Q3 2029.",
+    "documents":"Official 25-page brochure and plans linked; third-party-hosted Emaar fact/payment copies attributed separately. Images untouched."
+   },
+   "community":"Green Gate · Dubai Creek Harbour",
+   "overview":["Albero’s brochure distinguishes its residential pool, yoga, garden and gathering spaces from the wider Green Gate neighbourhood. Community plans include sports courts, running and cycling routes, a skate park and a climbing wall. Inside, earthy colours, generous glazing and kitchens with planned appliances support the quieter residential setting. Facility delivery and final appliance specifications should be checked for the chosen release."],
+   "locationNote":"Albero sits in Green Gate at Dubai Creek Harbour. The developer’s map identifies Creek Beach, the promenade, Central Park and Creek Marina within the wider community. Connections to Downtown Dubai and Dubai International Airport are road journeys; promotional travel times and future transport proposals are not guarantees.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s page displays pricing from AED 1,813,888 on the research date. The published selection is not a reservation or confirmation of stock; obtain a current price for the selected residence.",
+   "paymentNote":"The reviewed launch schedule is 10% at booking, seven 10% instalments and 20% at completion. Property Finder also lists a 10/90 alternative, but no corresponding dated developer document was established. Confirm which agreement applies; the historical schedule below is not a new offer.",
+   "handoverNote":"The launch payment document targets September 2029 for estimated construction completion, corroborated by Property Finder. Current progress and the contractual handover date require confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment · reviewed layouts","area":"754.44–774.57 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment · reviewed layouts","area":"1,177.47–1,453.34 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,847.63–1,848.17 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"4,080.49–4,165.85 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · April 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The fact sheet lists 479 homes: 211 one bedroom, 210 two bedroom and 52 three bedroom apartments, plus six three bedroom townhouses. These figures describe the launch, not remaining availability.","sourceIds":["facts"]},
+    {"label":"Historical type prices","value":"Launch prices started at AED 1.81 million, AED 2.71 million and AED 4.11 million for one, two and three bedroom apartments respectively; townhouses started at AED 6.95 million.","sourceIds":["facts"]},
+    {"label":"Tower arrangement","value":"The official plan pack labels the tower B+G+3P+53. Some apartment areas change by level, so bedroom count alone does not establish the precise size.","sourceIds":["plans"]},
+    {"label":"Townhouse outdoor space","value":"The three-level townhouse drawings include roof terraces and a maid’s room. Internal suites measure 2,439.32–2,443.84 sq ft; the larger published totals include 1,641.17–1,722.01 sq ft of balcony/terrace area.","sourceIds":["plans"]}
+   ],
+   "unresolved":["The launch sheet lists maxima of 776 sq ft for one bedroom and 1,455 sq ft for two; reviewed official layout pages establish smaller maxima. Additional podium/layout sheets would be needed to extend these ranges.","Current availability, precise floor/view, price, parking allocation and applicable payment option.","Latest construction progress, contractual handover, service charges and final appliances/finishes.","Opening dates and access terms for Green Gate and wider Creek Harbour facilities.","Official project imagery is deferred; current images remain illustrative."]
+  }
+ }
+}

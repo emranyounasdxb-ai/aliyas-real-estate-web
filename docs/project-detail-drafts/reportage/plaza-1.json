@@ -1,0 +1,310 @@
+{
+  "id": "reportage-project-16",
+  "name": "Plaza 1",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Plaza 1 brings apartments and three-level townhouses to Masdar City, Abu Dhabi.",
+    "areaId": "abu-dhabi-masdar-city",
+    "location": "Masdar City",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Pool",
+      "Children’s pool",
+      "Gym",
+      "BBQ area",
+      "Covered parking",
+      "Bocce play area"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/15-Plaza-Brochure-24-Feb-Digital-V2.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reportage · Plaza 1",
+          "url": "https://reportagegroup.com/projects/residential-apartments/plaza-1/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Reportage · Plaza 1 original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/15-Plaza-Brochure-24-Feb-Digital-V2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 155
+        },
+        {
+          "id": "plans",
+          "label": "Reportage · Plaza 1 original floor plates",
+          "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Reportage · Plaza 1 original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/PLAZA-FACT-SHEET-V2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Plaza Masdar City",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/plaza-masdar-city",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "Projectory · Plaza 1 reference",
+          "url": "https://projectory.ae/projects/plaza-1/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        }
+      ],
+      "community": "Masdar City",
+      "overview": [
+        "Original mix: 154 studios, 96 one-bedroom apartments, 57 two-bedroom apartments and 41 four-bedroom townhouses; 348 homes altogether."
+      ],
+      "locationNote": "Masdar City, Abu Dhabi.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder records an AED 663,000 launch guide. A current developer unit quotation was not verified.",
+      "paymentNote": "Property Finder lists 10/90, with 90% during construction. Projectory instead lists 10/40/50. No original dated calendar was verified.",
+      "handoverNote": "Property Finder retains September 2025 and a ready label. Reportage displays an undated 81% progress figure; current completion certification remains unverified.",
+      "units": [
+        {
+          "label": "Studio A",
+          "area": "354.35–545.52 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR A",
+          "area": "586.63–838.40 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "696.32 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR C",
+          "area": "743.46 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "1,072.52–1,168.85 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "1,032.69–1,130.32 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "840.55–1,077.90 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR D",
+          "area": "1,024.72–1,406.95 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR E",
+          "area": "1,184.78 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR townhouse A",
+          "area": "2,278.94–2,303.80 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR townhouse B",
+          "area": "2,208–2,303.71 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR townhouse C",
+          "area": "2,331.05–2,344.72 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Printed totals include outdoor space; townhouse figures cover all three levels.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Building",
+          "value": "Residential ground floor, six residential floors and residential roof.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Original facilities",
+          "value": "422 covered parking spaces and nine lifts.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · booking",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 90,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Published component sums sometimes differ from totals; confirm the contracted plan revision.",
+        "Plaza 2 is separate. Verify current stock, charges, furnishings and certified completion."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "brochure",
+          "facts"
+        ],
+        "bedrooms": [
+          "brochure",
+          "facts"
+        ],
+        "overview": [
+          "brochure",
+          "facts"
+        ],
+        "facts": [
+          "brochure",
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "portal",
+          "developer"
+        ],
+        "handoverNote": [
+          "portal",
+          "developer"
+        ],
+        "unresolved": [
+          "brochure",
+          "facts",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-16/plaza-1 retained. Exact own phase1 page348 matches30pbrochure16/facts2:154+96+57+41=348. DistinctPlaza2 pack120/98notused. Genericcorporate/communityderived0.",
+        "location": "Exact current own phasepage confirms MasdarCityAbuDhabi, mapped exact centrallyaddedMasdarCity registry. No projectedroad/traveltime promises or assumedcoordinates.",
+        "residences": "All12 wholefamilies actual30pbrochure21–28 read:StudioA,1BRA/B/C,2BRA/B/C/D/E,4BRtownhouseA/B/C. Allthree ground/upper/top townhouselevels read; maidroom notextra bedroom, whole totals nottripled. Own10p buildingfloorplates downloaded/extracted but no unviewednumericadoptionclaim. Originalmix348 matchescurrentown.",
+        "areas": "All12 visible numericaltables21–28 actuallyread at1600px inft2. Totalsretainedasprinted, not recomputed:Studio329.05+22.71=351.76 vs354.35;1BRA508.81+71.69=580.50vs586.63;2BRA818.92+252.41=1071.33vs1072.52;2BRB895.67+135.09=1030.76vs1032.69;4THA1517.19+781.03=2298.22vs2303.80;4THB1487.03+711.93=2198.96vs2208. Publiccaveatretained. No replacingprimaryrangeswithportalroundedmax-onlyrows.",
+        "amenities": "Actualown amenities and originalbrochure15/facts1 read. Sixamenities sourced ownpage, 422coveredparking/nineliftsoriginalfacts explicit. Original fullyfurnished claim not treated as current unit guarantee; currentinventory/specificationconfirmationrequested. No phase2facilitiesmixed.",
+        "pricing": "Fresh primary phasepage no current unitprice exposed. PF663000 explicitlaunchguide historic only, headlineNULL. Broker500k not currentdeveloperquotation. No assumedavailability or returns.",
+        "payment": "Actual30pbrochure/2pfacts/10pfloorplates no dated paymentcalendar. PF10booking+90duringconstruction=100, not90handover; Projectory10/40/50conflictqualified. HeadlineNULL and secondary referenceonly table, nofees/datesinvented.",
+        "handover": "PFreadylabel retainsSeptember2025, elapsedforecast notproofcertificate. Own81percent undatedsnapshot conflictscurrentcompletioninference; headlineNULL. No newcalendar/date or claimedactualdelivery.",
+        "documents": "All3ownpublishedURLsordinaryGET200:30p26,221,784bytesbrochure,10p16,309,380buildingfloorplates,2p2,662,667facts. Actualbrochure21–28numericwholefamilies and15/16amenitymix,facts1/2read. Relatedbroch/plans/facts/versions/mirrors/retellingspool200155broch45facts, buildingfloorplates0corroboration noareasderived. DistinctPlaza2numericgeometryconfirmedwithauthor, no genericcommunitycopy. No forms/authbypass; imagesdeferred."
+      }
+    }
+  }
+}

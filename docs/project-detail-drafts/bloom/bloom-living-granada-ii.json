@@ -1,0 +1,263 @@
+{
+  "id": "bloom-project-04",
+  "name": "Bloom Living Granada II",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Granada II is the second apartment release within Bloom Living. Studios and one- to three-bedroom homes are arranged across eight low-rise buildings, with different balcony and ground-floor terrace configurations.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 720000,
+    "handover": "Q1 2028",
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Gym",
+      "Swimming pools",
+      "Children’s play areas",
+      "Community centre"
+    ],
+    "brochureUrl": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+    "floorPlanUrl": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "unit-0",
+          "label": "Bloom · Granada II studio release",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/studio-granada-2-1",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "unit-1",
+          "label": "Bloom · Granada II 1-bedroom release",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/one-bedroom-granada-2",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "unit-2",
+          "label": "Bloom · Granada II 2-bedroom release",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/two-bedrooms-granada-2",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "unit-3",
+          "label": "Bloom · Granada II 3-bedroom release",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/three-bedrooms-granada-2",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "launch",
+          "label": "Bloom · second Granada release",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-second-phase-of-granada-premium-community-living-apartments-in-abu-dhabi",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Bloom · Granada II original brochure and 21 apartment plans",
+          "url": "https://bloomholding.com/application/files/7317/4496/5865/Granada_2_E-Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "community",
+          "label": "Bloom Living · shared community location and amenities",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Granada 2 payment and delivery reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-granada-2",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "community": "Bloom Living",
+      "overview": [
+        "Terrace-inclusive maximum areas vary by floor and layout; compare the selected apartment’s own cutsheet."
+      ],
+      "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+      "priceLabel": "Developer guide from",
+      "priceNote": "Current studio page: AED 720,000. The original release started at AED 630,000; Property Finder labels AED 690,000 as a launch price. Confirm a selected-unit quotation.",
+      "paymentNote": "Current developer: 5% booking, 45% construction, 50% handover. The launch mentioned post-handover options without a calendar; Property Finder also lists 10/60/30.",
+      "handoverNote": "The developer targets Q1 2028; Property Finder corroborates January 2028. This is a forecast, not a delivery certificate.",
+      "units": [
+        {
+          "label": "Studio · A1/A2",
+          "area": "366–624 ft² / 34–58 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · eight types",
+          "area": "624–1,098 ft² / 58–102 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · nine types",
+          "area": "1,012–2,002 ft² / 94–186 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A/B",
+          "area": "1,797–2,723 ft² / 167–253 m²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "unit-0"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 45,
+          "sourceIds": [
+            "unit-0"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "unit-0"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release",
+          "value": "Second Granada release; studios to three-bedroom apartments.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Brochure says five-storey buildings; current pages and launch say four-storey. Confirm the selected block.",
+        "Ranges include maximum external areas; terrace sizes require individual cutsheets.",
+        "Binding payment dates, service charges and current availability remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-04 Bloom Living Granada II, distinct from original phase4 Granada. Own release explicitly second phase/eight buildings/studio–3BR. No canonical/media edits.",
+        "location": "Own primary release Zayed City/Bloom Living, exact registry abu-dhabi-zayed-city; no assumed Mohammed Bin Zayed City or coordinates. Shared community20 allocation.",
+        "residences": "All21 actual numeric panels26/27,29–36,38–46,48/49 viewed via1700px full renders and magnified table contacts. Whole four family plans26/29/38/48 read. Studio A1/A2;1BR A/A2/A3/B/C/C2/C3/D;2BR A/A2/A3/B/B2/C2/C3/M/M1;3BR A/B. No maid counted extra bedroom. Own main/launch four-storey vs original PDF five-storey explicit unresolved; no inferred G+4 reconciliation.",
+        "areas": "Actual visible maxima across all floor variants:Studio366–624ft2/34–58m2;1BR624–1098/58–102;2BR1012–2002/94–186;3BR1797–2723/167–253. GF and typical schedules distinct; some single floor tables no GF label not assigned floor. Own current from studio366,1BR624,2BR1065,3BR1808 not universal minimum of all types because brochure2BR C3=1012 and3BR B=1797. Maximum terraces require individual cutsheet. Arithmetic all table components visually checked; no material total error found, integer rounding not corrected.",
+        "amenities": "Verified own primary phase icons/release fitness,pools,children play,centre. Shared generic common copy20 for record/group60; no guarantee all ready/open, no universal private pool.",
+        "pricing": "Own current studio720000/1BR1120000/2BR1710000/3BR2570000 actual body not related cards. Own release historical630000; PF690000 explicitly launch not current min. Head720000 current developer studio category guide, not verified unit stock/dated selected quote. No feed zero service charges adopted.",
+        "payment": "Current4 own pages5+45+50=100. Own launch mentions posthandover options but no calendar. PF independently lists5/45/50 and10/60/30; latter secondary option not primary universal or original PDF. No dated payment PDF retrieved; no guessed8 installment dates.",
+        "handover": "Own second phase release Q12028; PF January2028 same quarter corroborates. Neither actual completion certificate nor invented precise day. Secondary Q42028 guide excluded as weaker conflicting undated broker copy.",
+        "documents": "Own root observed data-url exact5865 PDF ordinary urllib GET20010014992bytes50p. All21 actual numeric tables and4 whole family drawings actually viewed. Older5671 same filename locator not downloaded/not extra allowance; no original Granada phase4 tables borrowed. Own4 unit pages combined200;own PDF all versions/mirrors200;launch120;shared generic20;PF60. No forms/bypass."
+      },
+      "fieldSources": {
+        "type": [
+          "unit-0"
+        ],
+        "bedrooms": [
+          "unit-0"
+        ],
+        "price": [
+          "unit-0"
+        ],
+        "priceLabel": [
+          "unit-0"
+        ],
+        "paymentPlan": [
+          "unit-0"
+        ],
+        "paymentNote": [
+          "unit-0",
+          "launch",
+          "portal"
+        ],
+        "paymentStages": [
+          "unit-0"
+        ],
+        "description": [
+          "launch",
+          "brochure"
+        ],
+        "areaId": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "amenities": [
+          "community",
+          "launch"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community",
+          "launch"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "priceNote": [
+          "unit-0",
+          "launch",
+          "portal"
+        ],
+        "handover": [
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "launch",
+          "portal"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "launch"
+        ],
+        "unresolved": [
+          "brochure",
+          "unit-0",
+          "launch"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      }
+    }
+  }
+}

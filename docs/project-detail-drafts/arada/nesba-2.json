@@ -1,0 +1,220 @@
+{
+  "id": "arada-project-14",
+  "name": "Nesba 2",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "Nesba 2 combines one- to three-bedroom homes with balconies, smart controls and access to residents’ recreation beside East Boulevard.",
+    "areaId": "sharjah-aljada",
+    "location": "Aljada",
+    "emirate": "Sharjah",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": null,
+    "paymentPlan": "Published 45 / 55 reference",
+    "amenities": [
+      "Residents’ gym",
+      "Residents’ swimming pool",
+      "Smart-home features",
+      "Security and access control",
+      "Parking"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/02/Nesba-2-BROCHURE.pdf",
+    "floorPlanUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/02/Nesba-2-BROCHURE.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Arada · Nesba community and facilities",
+          "url": "https://www.arada.com/en/property_category/nesba/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Nesba 2 · original phase-specific brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/02/Nesba-2-BROCHURE.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "construction",
+          "label": "Arada · 12 March 2026 construction contract announcement",
+          "url": "https://www.arada.com/en/latest-news/arada-awards-contracts-valued-at-more-than-aed2-billion-to-build-14-apartment-blocks-in-sharjah-megaproject-aljada/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Nesba 2 catalogue",
+          "url": "https://www.propertyfinder.ae/en/new-projects/arada-sale/nesba-2",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 130
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "handover": [
+          "construction",
+          "portal"
+        ],
+        "handoverNote": [
+          "construction",
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "paymentNote": [
+          "portal"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "unresolved": [
+          "brochure",
+          "developer",
+          "portal"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected arada-project-14/nesba-2; phase 2 original Azure-hosted brochure separately obtained through public WPmedia and sales-toolkit links. No imported other-phase homes/counts. Shared Nesba generic source60 per record180 combined, all3 related phase PDF derivation200 pooled, no corporate/community boilerplate copied.",
+        "location": "Own Nesba page explicitly Aljada, Sharjah, East Boulevard. Exact central sharjah-aljada/Aljada. No inferred coordinates or guaranteed journey times.",
+        "residences": "Own primary1/2/3BR scope; actual original whole family drawings reviewed for bedroom labels, kitchens, balconies and three-bedroom maid rooms. No studio/duplex invented. Furnished images not a furniture contract; only listed kitchen appliances retained.",
+        "areas": "All visible lower numerical panels actually reviewed in 43 physical spreads; hidden upper UnitType/TotalArea text not visible in rendered PDF rejected. Public ranges summarise printed phase-specific total-area extents including balcony, not suite area or live stock. All40 visible lower numerical panels physical20–39 read. Metric totals notmeasuredroomareas; multiple hiddenheaderft²totals differ1fromvisiblelower figures. ThreeBRB3metric145.90+32.645=178.545 vsprinted178.54 rounding retained, no sourcecorrection.",
+        "amenities": "Own phase-family page supports residents gym/pool, smart-home controls, specified kitchen appliances, parking/security. Broader sports complex is nearby community amenity not private building inventory. No fixed parking bay count or equipment brand inferred.",
+        "pricing": "No current numerical own quote on category/landing. Portal figures retained only as historical catalogue reference with sold-out caveat. Not live selected-unit quotation, resale ask or guaranteed return.",
+        "payment": "Original public phase brochure/media/toolkit screened; no dated contractual payment PDF retrieved. Attributed current portal5/40/55 reference sums100. Phase3 own landing independently confirms5booking40over2years55completion. No installment dates invented from unrelated phases.",
+        "handover": "12March2026 issuer contract covers five Nesba buildings plus other Aljada blocks, all scheduledQ22028. Portal dates/status earlier and conflicting, no completion inferred from elapsed date or Ready label; headlineNULL pending project-specific confirmation.",
+        "documents": "Original public 43 physical spreads brochure downloaded200, actual numeric panels and representative whole family drawings seen; directPDF includes plans. Public WPmedia API and sales-toolkit anonymous locators only, no form submission. Shared PDF allocation this record65, all3pool200. Images deferred."
+      },
+      "community": "Aljada",
+      "overview": [
+        "Total-area ranges below include balconies. Availability may cover fewer layouts."
+      ],
+      "locationNote": "East Boulevard, Aljada, Sharjah.",
+      "priceLabel": "Current developer quotation required",
+      "priceNote": "Property Finder retains an AED 888,000 launch reference and a sold-out label; this does not establish current developer stock.",
+      "paymentNote": "5/40/55 is a published reference structure, not a dated selected-unit offer. Original contractual instalment dates remain unverified.",
+      "handoverNote": "Arada’s March 2026 contract update targets Q2 2028 for five Nesba buildings; Property Finder still shows June 2026 and completed. Obtain phase-specific confirmation.",
+      "units": [
+        {
+          "label": "1BR · brochure totals",
+          "area": "721–1,066 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · brochure totals",
+          "area": "1,025–1,609 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · brochure totals",
+          "area": "1,922–2,559 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reference",
+          "percent": 5,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 55,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Kitchen specification",
+          "value": "Cooking range, hood and washer-dryer are advertised; loose furniture is unconfirmed.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the contracted plan revision; published schedules may differ.",
+        "Confirm stock, current price, charges, parking allocation, payment calendar and certified handover. Photography is illustrative."
+      ]
+    }
+  }
+}

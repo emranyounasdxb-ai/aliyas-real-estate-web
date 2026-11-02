@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-28","name":"Altan","developerSlug":"emaar",
+ "fields":{
+  "description":"Altan is a residential tower with one to three bedroom apartments and three bedroom townhouses in Green Gate at Dubai Creek Harbour. Private balconies and townhouse roof terraces sit alongside landscaped communal areas. The brochure adds co-working spaces, a padel court and indoor and outdoor fitness areas to the pool and family facilities.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1813888,"handover":"Q3 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Pool deck","Indoor and outdoor gyms","Outdoor yoga deck","Padel court","Co-working spaces","Barbecue and dining area","Children’s play area","Communal lawn","Multipurpose hall","Landscaped podium deck","Neighbourhood sports and running spaces"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/410790_brochure_File_095285ba79_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ALTAN_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Altan at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/altan-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"brochure","label":"Emaar: Altan brochure","url":"https://www.emaar.com/cms-media/uploads/410790_brochure_File_095285ba79_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Altan floor plans","url":"https://www.emaar.com/cms-media/uploads/ALTAN_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"facts","label":"Altan launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/altan/ALTAN_DCH_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Altan launch payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/altan/ALTAN_DCH_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"finder","label":"Property Finder: Altan estimated completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/altan","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Altan official page and own branded PDFs reviewed. Floor-plan cover and unit page visually checked; similar Albero layouts are not assumed to establish Altan facts.",
+    "location":"Green Gate within Dubai Creek Harbour, with developer map and community context checked. Future transport and views not guaranteed.",
+    "residences":"One to three bedroom apartments and three bedroom townhouses confirmed in official project and plan pack.",
+    "areas":"All 16 plan pages extracted; area tables read and representative two-bedroom page visually checked. Detailed reviewed ranges differ from some rounded fact-sheet and portal maxima.",
+    "amenities":"Official page plus brochure page 9 establish pools, fitness, padel, co-working and family facilities. Wider Green Gate facilities identified separately.",
+    "pricing":"Official page displays units from AED 1,813,888; PF pricing conflicts not used as official starting price. Historical launch type prices separately attributed.",
+    "payment":"Altan's own Emaar-branded nine-stage payment PDF read and visually checked; totals 100%. February/October/March milestone dates are project-specific.",
+    "handover":"July 2029 estimated completion from payment PDF, corroborated by PF, shown as reported Q3 2029.",
+    "documents":"Official brochure and floor plans linked. Fact/payment documents are separately attributed broker-hosted copies. Images unchanged."
+   },
+   "community":"Green Gate · Dubai Creek Harbour",
+   "overview":["Altan gives shared spaces several distinct roles: co-working for quieter work, a padel court and gyms for activity, and a lawn, dining area and pools for time with others. The brochure describes fitted bedroom wardrobes, kitchen cabinetry and a high-ceilinged lobby. Beyond the building, Green Gate’s planned parks and recreation network form the neighbourhood setting; access and opening dates should be checked separately."],
+   "locationNote":"Altan is in Green Gate at Dubai Creek Harbour. The developer’s brochure places Creek Beach and the promenade within the wider community and shows road connections towards Downtown Dubai and the airports. Exact walking routes, commuting times and the selected apartment’s outlook require a unit-level check.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar displays a units-from price of AED 1,813,888 on the research date. This published figure is not confirmation that a home at that price remains available. Obtain a current unit quotation and terms.",
+   "paymentNote":"The reviewed launch plan has 10% at booking, seven further 10% instalments and 20% at estimated completion. Dated launch obligations are retained below for context; some have already passed. A current agreement may require a different payment position.",
+   "handoverNote":"July 2029 is the estimated construction-completion month in Altan’s launch payment sheet, also reported by Property Finder. Contractual handover and current construction progress need confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment · reviewed layouts","area":"754.44–774.57 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment · reviewed layouts","area":"1,177.47–1,453.34 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,847.63–1,848.17 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"4,080.49–4,165.85 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"Altan’s fact sheet lists 479 homes: 211 one bedroom, 210 two bedroom and 52 three bedroom apartments, plus six three bedroom townhouses. This is a launch breakdown, not a current stock count.","sourceIds":["facts"]},
+    {"label":"Historical type prices","value":"The launch sheet quoted AED 1.81 million, AED 2.71 million and AED 4.11 million for one to three bedroom apartments respectively; three bedroom townhouses started at AED 6.95 million.","sourceIds":["facts"]},
+    {"label":"Tower configuration","value":"The official plans identify B+G+3P+53. Apartment areas vary by floor group; compare the actual unit drawing rather than relying only on a general bedroom range.","sourceIds":["plans"]},
+    {"label":"Townhouse arrangement","value":"Three-level townhouses include a maid’s room, roof terraces and storage. Internal suites measure 2,439.32–2,443.84 sq ft. Published totals add substantial terrace/balcony areas; they are not entirely enclosed living space.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Launch fact-sheet maxima of 776 sq ft for one bedroom and 1,455 sq ft for two are not fully represented in the reviewed official plan pages; additional layout documentation is needed.","Current unit availability, price, level, view, parking allocation and current payment terms.","Final fittings/appliances, service charges, current construction progress and contractual handover.","Completion and access arrangements for wider Green Gate facilities and future transport links.","Official project imagery is deferred; existing photographs are illustrative."]
+  }
+ }
+}

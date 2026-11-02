@@ -1,0 +1,58 @@
+{
+ "id":"emaar-project-74","name":"Greenway 2","developerSlug":"emaar",
+ "fields":{
+  "description":"Greenway 2 is a gated townhouse neighbourhood at Emaar South with three- and four-bedroom homes. Ivy and Ilya façade styles have their own published layouts. The plans show homes across two levels, with living areas opening towards a rear terrace and bedrooms arranged around the first-floor landing.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2700000,"handover":"Q2 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Community centre","Adult and children’s swimming pools","Children’s play areas","Gym","Multipurpose room","Linear park and jogging paths","Community sports court","Golf-course setting within Emaar South"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Greenway-2_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Greenway-2_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Greenway 2 at Emaar South","url":"https://www.emaar.com/en/properties/greenway-2-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Greenway 2 brochure","url":"https://www.emaar.com/cms-media/uploads/Greenway-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Greenway 2 floor plans","url":"https://www.emaar.com/cms-media/uploads/Greenway-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenway-2/GREENWAY2_ES_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenway-2/GREENWAY2_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Greenway Phase 2","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenway-2","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official"],"bedrooms":["official","plans"],"amenities":["brochure","facts"],"price":["official","facts"],"units":["plans","facts"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Second Greenway release checked separately from the original neighbourhood.","location":"Emaar South within Dubai South confirmed and mapped to the existing filter.","residences":"Three/four-bedroom Ivy and Ilya designs checked against their own two-level plans.","areas":"Eight plan tables visually inspected; average plot areas distinguished from built-up totals.","amenities":"Neighbourhood pools, sports and community facilities checked in launch and developer material.","pricing":"Current AED 2.7m website headline distinguished from AED 2.72m launch minimum.","payment":"Ten 10% payments verified in the launch schedule and corroborated as 10/80/10 by Property Finder.","handover":"May 2028 estimate corroborated; no current completion assertion.","documents":"Official brochure and 11-page plan pack linked; launch fact/payment copies attributed."
+   },
+   "community":"Emaar South",
+   "overview":["The developer presents Greenway 2 as a contemporary residential setting organised around landscaped outdoor space. The brochure identifies a community park and centre, dining, retail and the wider championship golf course. Its facilities support day-to-day leisure, but final access arrangements and the outlook of an individual townhouse require a plot-specific check."],
+   "locationNote":"Greenway 2 is part of Emaar South in Dubai South, connected by the surrounding road network towards Al Maktoum International Airport and Expo City Dubai. Marketing journey times are not treated as guaranteed commuting times.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar currently displays AED 2.7m. The June 2024 launch fact sheet instead lists starts of AED 2.72m for three bedrooms and AED 3.11m for four bedrooms. The small headline difference is retained transparently; none of these figures is a current unit quotation.",
+   "paymentNote":"The launch plan comprises ten equal payments: 10% on booking, 80% in later construction-period instalments and 10% on completion. Current developer or resale terms should be confirmed for the selected home.",
+   "handoverNote":"The launch plan estimates May 2028 completion, also reported by Property Finder. Q2 2028 remains provisional and subject to the sale agreement and actual construction programme.",
+   "units":[
+    {"label":"3 bedroom · Ivy","area":"2,447.71 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom · Ilya","area":"2,446.20 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Ivy","area":"2,755.45 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Ilya","area":"2,753.08 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom plot · launch average","area":"1,876 sq ft average land area","sourceIds":["facts"]},
+    {"label":"4 bedroom plot · launch average","area":"3,097 sq ft average land area","sourceIds":["facts"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · June 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"August 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2025 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2028 · estimated completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published unit mix","value":"The launch sheet lists 492 homes: 246 three-bedroom and 246 four-bedroom townhouses. Availability must be checked separately.","sourceIds":["facts"]},
+    {"label":"Area basis","value":"Plan totals include the suite, garage and balcony/terrace allocation. Plot figures above are launch averages, not minimum/maximum ranges or measurements for a particular home.","sourceIds":["plans","facts"]},
+    {"label":"Ivy four-bedroom example","value":"The ground floor contains a guest bedroom, bathroom, maid’s room, laundry and carport. Three bedrooms are upstairs, including the main suite with walk-in wardrobe and balcony.","sourceIds":["plans"]},
+    {"label":"Cluster arrangement","value":"The brochure describes clusters of two, while the detailed plan key explicitly shows four homes, TH01–TH04. Use the selected plot’s approved plan to establish its actual neighbours and position.","sourceIds":["brochure","plans"]}
+   ],
+   "unresolved":["Confirm current stock, service charges, construction progress and the contractual completion date.","Exact plot area, final finishes, landscape works and any golf access terms need a unit-specific specification.","Existing imagery remains illustrative; real project photography is deferred."]
+  }
+ }
+}

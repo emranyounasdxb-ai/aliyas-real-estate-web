@@ -1,0 +1,287 @@
+{
+  "id": "imtiaz-project-14",
+  "name": "Cove Edition 6 by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Cove Edition 6 brings furnished studios and one- and two-bedroom apartments to Dubai Land Residence Complex. Rooftop shared facilities include a pool, clubhouse and gym.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": "Q4 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Children’s playground",
+      "Seating area",
+      "Barbecue area",
+      "Rooftop infinity pool",
+      "Outdoor dining",
+      "Meeting area"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Cove Edition 6: developer project",
+          "url": "https://imtiaz.ae/property/cove-edition-6-by-imtiaz-1",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Cove Edition 6: branded 34-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "facts",
+          "label": "Cove Edition 6: branded 7-page factsheet, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 75
+        },
+        {
+          "id": "plans",
+          "label": "Cove Edition 6: branded 4-page building plans, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "payment",
+          "label": "Cove Edition 6: original two-option payment calendar, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-6/COVE_EDITION_6_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "portal",
+          "label": "Cove Edition 6: Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/cove-edition-6",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "payment",
+          "portal"
+        ],
+        "description": [
+          "developer",
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "units": [
+          "facts"
+        ],
+        "facts": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "plans",
+          "portal"
+        ]
+      },
+      "community": "Dubai Land Residence Complex",
+      "overview": [
+        "The typical plate combines all three residential families; shared facilities sit on the roof."
+      ],
+      "locationNote": "Dubai Land Residence Complex, Dubai.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "Property Finder records AED 756,574 launch pricing and a sold-out developer allocation; a current unit quotation is required.",
+      "paymentNote": "Option 1 below. Original alternative: 20% booking, 35% construction, 15% completion and 30% afterward, in twelve quarterly 2.5% instalments. Confirm eligibility.",
+      "handoverNote": "Developer target Q4 2027; original calendar specifies 15 November 2027. Completion is not confirmed.",
+      "units": [
+        {
+          "label": "Studio minimum",
+          "area": "401 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "1BR minimum",
+          "area": "729 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2BR minimum",
+          "area": "1,304 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Option 1: booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 September 2025",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 December 2025",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 April 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion: 15 November 2027",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original mix",
+          "value": "264 homes: 165 studios, 77 one-bedroom and 22 two-bedroom apartments.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Configuration",
+          "value": "2B+G+11+R.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "30% overall; 99% substructure; 55% superstructure; 9% MEP; 5% finishing. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Minimum sizes do not specify net or built-up basis. Building plans omit individual total areas. Confirm charges, parking, stock and furnishings. Photography is illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected14 Cove Edition6, exact actual own URL ends -1; unnumbered guessedslug404 notsource. Actual brochure34/facts7/buildingplans4/payment1 branding matches, no facts transferred from Cove5.",
+        "location": "Own main explicitly Dubailand Residence Complex; exact existing registry dubai-land-residence-complex/Dubai Land Residence Complex. Facts generic Dubailand and plan plot WadiAlSafa5 do not silently replace community. No promised metro availability/travel times.",
+        "residences": "Actual facts7 mix165studio+77one+22two=264; actual typical building plan3 shows all3 families,24perplate*11 agrees264 but published fact mix source retained, not inferred geometry. Fully furnished and smart features actual brochure21/facts4. No bedroom3/penthouse copied from erroneous broker taxonomy.",
+        "areas": "Actual facts7 MINIMUM SIZE RANGE401/729/1304sqft, not universal range or exact selected unit. All4 full buildingplanpages visually read: ground/typical1–11/roof; no individual aggregate area tables. PF401–446 studio discrete metadata, own minimum retained; no assumednet/BUA.",
+        "amenities": "Own eightamenities actual corroboratedfacts4/broch21/30 and roofplan4 poolclubgym. SecondaryPFadds sauna/spa/petfeatures unsupportedown, notadopted. Brochure futuremetro notcurrentamenity, nohealth/performanceclaims.",
+        "pricing": "Own main no price. PF756574 launch andSoldOut qualifiedportalhistorical only, headlineNULL. No contemporary resale price averaged or assumedavailability.",
+        "payment": "Actual facts6/standalone same twooptions visuallyread: option1 20+six5+50=100; dates15Sep25/15Dec25/15Apr26/15Jul26/15Nov26/15Mar27/15Nov27. Option2 20+5+5+10+10+5+15+30=100, latter12*2.5quarterly36months=30. HeadlineNULL because multiple genuine options, tableclearlyoption1 not conflated.",
+        "handover": "Own Q42027; original calendars15Nov2027/PFNovember2027 matchquarter. All forecast notcompletionproof. OwnfreshordinaryHTML30overall99sub55super9MEP5finish undated. No asofinspectiondate invented.",
+        "documents": "Own primary ordinaryGET200 inquirybuttons noform/bypass. Observed Mitchells actualhrefs downloaded34pbroch/7pfacts/4pplans/1ppayment, sourcekindbroker. Allnumericfacts3/6/7 andactualall4plans/payments visuallyread <=1700; brochure21/30/31 visuallyread textall34reviewed. RelatedPDFpool200:35broch75facts30plans60pay, genericindex0."
+      }
+    }
+  }
+}

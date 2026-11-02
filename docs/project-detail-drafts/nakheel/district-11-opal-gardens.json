@@ -1,0 +1,283 @@
+{
+  "id": "nakheel-project-11",
+  "name": "District 11 Opal Gardens",
+  "developerSlug": "nakheel",
+  "fields": {
+    "description": "District 11 Opal Gardens is a gated villa and townhouse community in Mohammed Bin Rashid Al Maktoum City. Originally marketed under Meydan, it appears in Nakheel’s document collection and in its project consultant’s portfolio. Homes include four-bedroom townhouses and semi-detached residences, alongside four- to six-bedroom standalone villas.",
+    "areaId": "dubai-district-11",
+    "location": "District 11",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 4200000,
+    "handover": null,
+    "paymentPlan": "10/50/40 · historical launch plan",
+    "amenities": [
+      "Crystal lagoon and sandy beach areas",
+      "Cycling and pedestrian routes",
+      "Children’s play areas",
+      "Outdoor fitness centre",
+      "Sports court",
+      "Yoga garden",
+      "Picnic and barbecue areas",
+      "Landscaped grounds",
+      "Community hub"
+    ],
+    "brochureUrl": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-73b7e17d.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/FPhCek-kfCaRU-CZCR5TJKbsHsc/L3986w/District%2011%20-%20Opal%20Gardens%20%28%20Floorplans%20%26%20Brochure%29_removed.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official-plans",
+          "label": "Nakheel-hosted original Opal Gardens floor-plan brochure (indexed copy)",
+          "url": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/district-11-opal-gardens-%28floorplans-brochure%29.pdf?sfvrsn=d125bbbf_5",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Meydan-branded Opal Gardens nine-layout pack, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/FPhCek-kfCaRU-CZCR5TJKbsHsc/L3986w/District%2011%20-%20Opal%20Gardens%20%28%20Floorplans%20%26%20Brochure%29_removed.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Meydan-branded community brochure, Property Finder-hosted",
+          "url": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-73b7e17d.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "consultant",
+          "label": "Hill International: Nakheel client and Opal Gardens project scope",
+          "url": "https://www.hillintl.com/project/district-11-opal-gardens/",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Meydan Opal Gardens catalogue",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meydan-group-lcc/opal-gardens",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "market",
+          "label": "Tanami Properties: original Opal Gardens launch guide",
+          "url": "https://www.tanamiproperties.com/projects/opal-gardens",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "calendar",
+          "label": "Binayah Properties: dated Opal Gardens payment calendar",
+          "url": "https://www.binayah.com/payment-plans/opal-gardens-by-meydan/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "status",
+          "label": "FazWaz: secondary reported July 2026 completion",
+          "url": "https://www.fazwaz.ae/projects/united-arab-emirates/dubai/meydan/meydan-avenue/opal-gardens",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure",
+          "official-plans",
+          "consultant"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "brochure",
+          "finder"
+        ],
+        "type": [
+          "brochure",
+          "plans"
+        ],
+        "bedrooms": [
+          "brochure",
+          "plans"
+        ],
+        "price": [
+          "market",
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "status",
+          "consultant"
+        ],
+        "paymentPlan": [
+          "finder",
+          "calendar"
+        ],
+        "amenities": [
+          "brochure",
+          "consultant"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "official-plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Meydan-branded launch documents cross-checked with Nakheel-hosted document and Hill International naming Nakheel as client.",
+        "location": "District 11 within Mohammed Bin Rashid Al Maktoum City; not JVC or Business Bay.",
+        "residences": "Standalone villas 4-6 bedrooms, semi-detached villas and townhouses 4 bedrooms.",
+        "areas": "Nine-layout branded pack downloaded; representative built-up-area tables and drawings visually inspected, including garage and terrace scope.",
+        "amenities": "Community brochure and project consultant scope reviewed; private pool options not presented as standard inclusion.",
+        "pricing": "AED 4.2m broker historical guide differs sharply from portal AED 16m selection; no current developer offer retrieved.",
+        "payment": "Portal 10/ 50/ 40 supported by dated broker calendar totaling 100. Indexed original PDF could not be downloaded; not falsely marked visually verified.",
+        "handover": "Original Q3 2026 estimate contrasted with secondary completed-July-2026 report and consultant delivery wording; current unit status unresolved.",
+        "documents": "29-page branded brochure and nine-layout pack downloaded; original official PDF blocked locally. Selected plan numerical tables visually inspected."
+      },
+      "community": "District 11 Opal Gardens · MBR City",
+      "overview": [
+        "The community is arranged around a lagoon and landscaped recreation spaces, with cycling routes and facilities for outdoor activity. Its home types vary substantially in footprint, number of levels and service spaces. Built-up measurements include components beyond enclosed living rooms, so a specific layout is more useful than a project-wide size average."
+      ],
+      "locationNote": "The documents place Opal Gardens in District 11, Mohammed Bin Rashid Al Maktoum City, near the Al Ain Road and Sheikh Mohammed Bin Zayed Road corridors. No exact existing neighbourhood mapping is used; District 11 is absent from the current catalogue.",
+      "priceLabel": "Broker-reported historical launch guide · reconfirm",
+      "priceNote": "Tanami publishes an original starting reference of AED 4.2m. Property Finder’s present project headline instead shows AED 16m; that selected catalogue figure does not replace the original entry-level guide or establish current available inventory. Obtain the actual home’s resale or developer quotation.",
+      "paymentNote": "Binayah reports the historical schedule as 10% booking; 10% on each of 30 April 2023, 30 October 2023, 30 April 2024 and 30 October 2024; 5% on 30 April 2025; 5% on 30 October 2025; and 40% handover. Property Finder independently gives the same aggregate 10/ 50/ 40. This is not a current resale payment offer; outstanding balances and charges need confirmation.",
+      "handoverNote": "Property Finder retains an anticipated September 2026 completion. FazWaz reports completion in July 2026, while the project consultant describes delivery without a dated unit-level handover record. These public references do not establish the current completion or occupancy status of every home; no single confirmed headline date is assigned.",
+      "units": [
+        {
+          "label": "Four-bedroom standalone villa · Type A",
+          "area": "473.41 sq m / 5,095.74 sq ft built-up",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Five-bedroom standalone villa · Type A",
+          "area": "647.00 sq m / 6,964.25 sq ft built-up",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Six-bedroom standalone villa · Type A",
+          "area": "785.32 sq m / 8,453.12 sq ft built-up",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Four-bedroom semi-detached · Type A",
+          "area": "351.39 sq m / 3,782.33 sq ft built-up",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Four-bedroom townhouse · Type B",
+          "area": "325.84 sq m / 3,507.31 sq ft built-up",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Historical booking",
+          "percent": 10,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 April 2023",
+          "percent": 10,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 October 2023",
+          "percent": 10,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 April 2024",
+          "percent": 10,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 October 2024",
+          "percent": 10,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 April 2025",
+          "percent": 5,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "30 October 2025",
+          "percent": 5,
+          "sourceIds": [
+            "calendar"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "calendar"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area and optional works",
+          "value": "The plans include garages and specified terraces within built-up area. Their disclaimers say landscaping, pools and annex illustrations are not standard inclusions; pool/annex options may carry an additional charge.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Development scale",
+          "value": "Hill International identifies 435 residential units and Nakheel Properties as its client. This is the development scope, not a count of homes available to buy.",
+          "sourceIds": [
+            "consultant"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current completion certificates, occupancy, remaining developer inventory and selected home availability need confirmation.",
+        "The old branded payment PDF was indexed but download attempts failed TLS/ 502; exact dated stages above are attributed to the accessible broker calendar, not claimed as visually checked primary evidence.",
+        "Confirm registered plot and built-up area, parking, service charges, maintenance responsibilities and included landscaping/pool works for the selected property.",
+        "Official website project route could not be retrieved; branded documents and project consultant evidence provide identity support. Owner remains Nakheel in this collection; historic Meydan branding is retained in the notes. Photos remain illustrative."
+      ]
+    }
+  }
+}

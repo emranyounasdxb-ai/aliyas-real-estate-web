@@ -1,0 +1,229 @@
+{
+  "id": "aldar-project-22",
+  "name": "Haven",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Haven is Aldar’s first Dubai residential community, developed with Dubai Holding. The original collection combines three- and four-bedroom townhouses with three- to six-bedroom villas, arranged around a central park and a network of shaded paths.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": 2500000,
+    "handover": "2028 · latest reviewed pipeline",
+    "paymentPlan": "5/65/30 · portal reported",
+    "amenities": [
+      "Central park and treehouse community centre",
+      "Basketball courts",
+      "Cycling routes",
+      "Children’s play area",
+      "Community gardens",
+      "Gym",
+      "Meditation pavilion",
+      "Yoga studio",
+      "Padel court",
+      "Spa",
+      "Planned school and nursery",
+      "Retail hub"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/HAVEN_Brochure.pdf/bc0b1eacc9f211f0a5226a133812b403",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/HAVEN_Brochure.pdf/bc0b1eacc9f211f0a5226a133812b403",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Haven",
+          "url": "https://www.aldar.com/properties/en/uae/dubai/haven",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Haven launch announcement, 26 October 2023",
+          "url": "https://www.aldar.com/en/news-and-media/haven-aldar-first-residential-development-in-dubai",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Haven brochure and layouts",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/HAVEN_Brochure.pdf/bc0b1eacc9f211f0a5226a133812b403",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Haven by Aldar",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/the-haven",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "pipeline",
+          "label": "Aldar: FY2025 project pipeline, page 27",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 12
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "official",
+          "brochure"
+        ],
+        "location": [
+          "launch",
+          "finder"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "amenities": [
+          "official",
+          "launch"
+        ],
+        "price": [
+          "launch",
+          "finder"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "launch",
+          "finder",
+          "pipeline"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Haven community and launch reviewed; Verdes apartment release remains separate.",
+        "location": "Dubailand, opposite Al Habtoor Polo Resort, checked against launch and portal.",
+        "residences": "Three/four-bedroom townhouses and three-to-six-bedroom villas confirmed.",
+        "areas": "Official 98-page brochure extracted; eight representative plan areas visually checked across Park, Serene and Elite collections.",
+        "amenities": "Official community and launch facilities reviewed, with planned services distinguished from unit inclusions.",
+        "pricing": "AED 2.5m townhouse and AED 3.5m villa original developer prices take precedence over the portal’s inconsistent AED 2.3m claim.",
+        "payment": "Portal 5/65/30 found; no current signed phase-specific schedule available.",
+        "handover": "Original launch estimated Q3 2027; portal metadata gives November 2027 while body says Q2 2027. Discrepancy retained. Later FY2025 pipeline table visually reviewed and prioritised for headline.",
+        "documents": "Officially linked brochure downloaded successfully; floor plans and owner-supplied pool annotations inspected."
+      },
+      "community": "Haven · Dubailand",
+      "overview": [
+        "Haven’s homes are organised into Park townhouses, Serene villas and the larger Elite collection. The official project page describes an emphasis on outdoor activity, shared gardens and everyday facilities. The brochure offers distinct layouts within these groups, so bedroom count alone is not a reliable guide to usable area."
+      ],
+      "locationNote": "The launch announcement places Haven opposite Al Habtoor Polo Resort, with access toward Dubai–Al Ain Road. Property Finder identifies the area as Dubailand. Check the chosen plot’s entrance and actual commuting route.",
+      "priceLabel": "Original developer launch price",
+      "priceNote": "The October 2023 announcement began at AED 2.5m for a three-bedroom townhouse and AED 3.5m for a three-bedroom villa. Property Finder advertises a lower historical AED 2.3m reference. Current stock and individual asking prices are not confirmed by these launch figures.",
+      "paymentNote": "Property Finder reports 5% booking, 65% during construction and 30% on handover. Treat this as a reported reference until the particular collection’s contract and remaining balance are checked.",
+      "handoverNote": "Aldar’s original first-phase target was Q3 2027. Property Finder’s current metadata says November 2027, but its body retains Q2 2027. The selected phase needs a current developer completion schedule. The later FY2025 pipeline gives 2028.",
+      "units": [
+        {
+          "label": "Park townhouse · 3 / 4 bedrooms",
+          "area": "1,808 / 2,712 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Serene villa · 3 / 4 / 5 bedrooms",
+          "area": "3,465 / 3,960 / 4,702 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Elite villa · 4-bedroom Type 2",
+          "area": "6,456 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Elite villa · 5-bedroom Type 2",
+          "area": "7,424 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Elite villa · 6-bedroom Type 1",
+          "area": "9,038 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported plan",
+          "percent": 5,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 65,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original launch scale",
+          "value": "The October 2023 announcement described 2,428 homes, with 462 in the first phase. This is historical release information, not unsold inventory.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Compare the exact layout",
+          "value": "The current project page mentions sizes from 2,280 sq ft, while the original Park townhouse drawing labels 1,808 sq ft. These differing area references need reconciliation against the sale agreement rather than being treated as interchangeable.",
+          "sourceIds": [
+            "official",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Pool and lift inclusions",
+          "value": "Several Elite drawings annotate pools and landscaping as owner work; the six-bedroom Type 2 includes provision for a lift/store. These drawings do not establish a finished private pool or installed lift in every villa.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm release, current completion date, available units, selling price and remaining instalments.",
+        "Obtain contractual floor/plot area definitions, service charges and itemised inclusions.",
+        "Planned schools, retail and wellness services require opening dates and access/fee confirmation.",
+        "The portal reports sold-out developer stock; resale availability is separate and has not been verified."
+      ]
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "sobha-project-38",
+  "name": "Starline Beach Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Starline Beach Residences is a four-tower coastal apartment collection on Sobha Siniya Island in Umm Al Quwain. Its compact homes and larger duplexes have distinct layouts, with balconies or yards depending on the type. Tower A is specifically marketed as furnished in the original brochure; that specification should not be extended to every tower automatically.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1670000,
+    "handover": "Q2 2029 · portal estimate",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Beach access",
+      "Infinity pools",
+      "Fitness facilities",
+      "Yoga spaces",
+      "Landscaped trails",
+      "Outdoor cinema",
+      "Water-sports facilities",
+      "Children’s play areas"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-03/Starline%20Beach%20Residences%20Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-03/Starline%20Beach%20Residences%20Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Realty: Starline Beach Residences",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/beach-residences/starline",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Official Starline brochure and floor plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-03/Starline%20Beach%20Residences%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Starline Beach Residences",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/starline-beach-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Starline four-tower collection checked against dedicated official 139-page document.",
+        "location": "Umm Al Quwain island address confirmed; not Sharjah or Dubai.",
+        "residences": "Apartments and duplexes differentiated; furnishing statement explicitly Tower A.",
+        "areas": "Own numerical panels 47/79/127 visually inspected; total saleable includes balcony.",
+        "amenities": "Official project facilities recorded; island-wide proposed facilities not treated as private building inclusions.",
+        "pricing": "Official current-advertised 1.67m versus FAQ1.29m and portal 1.3m historical guides disclosed.",
+        "payment": "Portal 20/40/40 totals 100; exact primary instalment calendar not retrieved.",
+        "handover": "Portal June 2029 estimate attributed; no signed primary completion date found.",
+        "documents": "139-page official brochure downloaded; actual apartment/duplex drawings and area panels visually inspected."
+      },
+      "community": "Starline Beach Residences · Sobha Siniya Island",
+      "overview": [
+        "The one-bedroom layouts focus on compact living, while three-bedroom duplexes add separate levels, service accommodation and a study. Compare the actual tower and type: garden-level yards, balconies and sea-facing positions are not identical throughout the collection."
+      ],
+      "locationNote": "The official Starline page places it on Sobha Siniya Island, Umm Al Quwain. No existing catalogue location is substituted. Mainland connections and broader island facilities should be checked for delivery and access.",
+      "priceLabel": "Developer-advertised starting guide · subject to stock",
+      "priceNote": "The official enquiry section advertises AED 1.67m subject to inventory; its FAQ still cites approximately AED 1.29m and Property Finder retains a rounded AED 1.3m launch headline. These references differ in timing and selection, so the latest unit-specific written quotation is required.",
+      "paymentNote": "Property Finder reports 20% booking, 40% construction and 40% handover. No current primary dated schedule was retrieved. Additional fees, revised offers and any resale balance are separate matters requiring written confirmation.",
+      "handoverNote": "Property Finder reports June 2029, expressed as Q2 2029. This is a secondary estimated date and does not establish a contractual move-in date or completed facilities.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "511.39–513.01 sq ft total saleable; balcony included",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B",
+          "area": "786.09–786.20 sq ft total saleable; 57.48 sq ft balcony included",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex Type A",
+          "area": "2,021.35–2,022.65 sq ft total saleable across two levels, including balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported plan",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furnishing scope",
+          "value": "The original brochure expressly describes Tower A as fully furnished. The actual inclusion list and conditions require confirmation for the chosen home.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "No current primary price list, signed payment calendar, parking allocation or service-charge schedule retrieved.",
+        "Brochure rental/management promotions are not treated as guaranteed returns or universally available benefits. Their specific terms and continuing validity require independent verification.",
+        "Confirm exact registered area, tower specification, water-sports access and completion of surrounding island facilities. Photos remain illustrative."
+      ]
+    }
+  }
+}

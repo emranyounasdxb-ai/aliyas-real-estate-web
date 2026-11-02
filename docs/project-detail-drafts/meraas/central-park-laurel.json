@@ -1,0 +1,218 @@
+{
+  "id": "meraas-project-24",
+  "name": "Central Park Laurel",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Laurel is a residential phase at Central Park, City Walk, pairing one- to four-bedroom apartments with two larger penthouses. The plans offer distinct balcony arrangements and both single-level and split-level penthouse layouts. Shared parks and activity spaces connect the homes to the wider neighbourhood.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 2000000,
+    "handover": null,
+    "paymentPlan": "20/30/50 · historical developer plan",
+    "amenities": [
+      "Pools and water play",
+      "Children’s play areas",
+      "Running track",
+      "Dog park",
+      "Sports courts",
+      "Outdoor fitness",
+      "Yoga areas",
+      "Spa and sauna",
+      "Picnic pavilions",
+      "Barbecue areas"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2023-11/Final-CP-Brochure_ENGLISH_Digital_Laurel_0.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2023-11/CP%20FP_ENGLISH_Digital_Laurel_1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Central Park Laurel official project page",
+          "url": "https://meraas.com/en/project/citywalk-central-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brochure",
+          "label": "Central Park Laurel own official brochure and plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/Final-CP-Brochure_ENGLISH_Digital_Laurel_0.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Central Park Laurel",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/laurel-central-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Official Laurel floor plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/CP%20FP_ENGLISH_Digital_Laurel_1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 105
+        },
+        {
+          "id": "payment",
+          "label": "Official original Laurel payment plan",
+          "url": "https://meraas.com/sites/default/files/2023-11/CP%20PAYMENT%20PLAN%20ENGLISH-Laurel_0.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Laurel building and unit-type guide",
+          "url": "https://www.bayut.com/buildings/laurel-central-park/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "plans",
+          "bayut"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Laurel brochure and separately titled floor plans checked; adjacent phase tables excluded.",
+        "location": "Own brochure establishes Central Park at City Walk.",
+        "residences": "One-to-four-bedroom apartments and two penthouses; Type B drawing and Bayut establish five-bedroom penthouse option.",
+        "areas": "Actual tables and drawings visually inspected on pages 3, 6, 10, 16, 17 and 18 using bounded table crops.",
+        "amenities": "Own phase brochure shared community facilities reviewed.",
+        "pricing": "No numeric official quote; rounded portal 2m launch reference distinguished from current offer.",
+        "payment": "Own official sheet visually inspected: 20 + 10 + 10 + 10 + 50=100.",
+        "handover": "Original November 2025 differs portal December 2025; later official finishing status does not establish delivery.",
+        "documents": "Official 31-page brochure, 19-page plans and one-page payment sheet retrieved; duplicated plan text pooled."
+      },
+      "community": "City Walk",
+      "overview": [
+        "Outdoor area is a large share of the reviewed duplex penthouse total. Compare its internal suite and terraces separately rather than treating the headline figure as enclosed living space."
+      ],
+      "locationNote": "At Central Park in City Walk, Dubai. The park-facing setting and shared community facilities are described in the phase brochure; specific views depend on position and floor.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "Property Finder retains an approximately AED 2m historical launch reference. The current developer page supplies no usable numeric quote. This is not evidence of available developer stock or the price of a particular resale home.",
+      "paymentNote": "The original official sheet gives 20% booking, 10% February 2023, 10% August 2023, 10% May 2024 and 50% November 2025 on handover. Passed dates are retained as historical terms, not a current instalment offer.",
+      "handoverNote": "The original developer payment sheet names November 2025; Property Finder gives December 2025. Meraas lists Laurel sold out and still describes final works and approvals. Actual unit completion remains unconfirmed.",
+      "units": [
+        {
+          "label": "1-bedroom Types B.5–B.7 · unit 203 example",
+          "area": "748.20 sq ft suite + 65.55 sq ft balcony; 813.75 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type C.3 · unit 216 example",
+          "area": "1,125.26 sq ft suite + 65.55 sq ft balcony; 1,190.81 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Type A.1 · unit 118",
+          "area": "2,409.07 sq ft suite + 854.44 sq ft balcony; 3,263.51 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Duplex penthouse Type A · unit 918",
+          "area": "5,132.12 sq ft suite + 4,058.75 sq ft outdoor area; 9,190.87 sq ft whole-unit total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2025 · original handover target",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Obtain current completion/transfer evidence, dated unit price, stock, parking allocation and service charges.",
+        "The main developer heading says one-to-four bedrooms; the own Type B penthouse drawing labels a master plus Bedrooms 1–4 and Bayut lists five-bedroom penthouses. The five-bedroom upper limit applies to that penthouse category, not ordinary apartments.",
+        "The duplex penthouse area repeats on both floor drawings and is counted once. Marketing facilities do not guarantee exclusive access or current operating status. Images remain illustrative."
+      ]
+    }
+  }
+}

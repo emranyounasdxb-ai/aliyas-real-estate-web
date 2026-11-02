@@ -1,0 +1,296 @@
+{
+  "id": "rak-properties-project-04",
+  "name": "Solera",
+  "developerSlug": "rak-properties",
+  "fields": {
+    "description": "Solera pairs compact apartments with larger terrace homes in Downtown Mina, across three buildings connected by a shared podium.",
+    "areaId": "rak-raha-island",
+    "location": "Raha Island",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": null,
+    "handover": "Q2 2028",
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Infinity lap pool",
+      "Children’s splash pool",
+      "Barbecue pavilion",
+      "Co-working lounge",
+      "Outdoor gym and yoga",
+      "Jacuzzi",
+      "Skateboard park",
+      "Sculptural and hammock gardens"
+    ],
+    "brochureUrl": "https://www.rakproperties.ae/wp-content/uploads/2025/06/SOLERA-BROCHURE_comp.pdf",
+    "floorPlanUrl": "https://www.rakproperties.ae/wp-content/uploads/2025/06/SOLERA-FLOOR-PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Solera: developer project page",
+          "url": "https://www.rakproperties.ae/our-properties/solera/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "launch",
+          "label": "Solera: developer launch, 17 June 2025",
+          "url": "https://www.rakproperties.ae/news/rak-properties-unveils-solera-the-pulse-of-minas-dynamic-new-downtown-district/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Solera: original brochure",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/06/SOLERA-BROCHURE_comp.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Solera: original unit drawings",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/06/SOLERA-FLOOR-PLAN.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Solera: original factsheet",
+          "url": "https://solera.rakproperties.ae/wp-content/uploads/2025/06/Solera-Factsheet-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "portal",
+          "label": "Solera: Property Finder project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/rak-properties/solera-downtown-mina",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        }
+      ],
+      "community": "Raha Island",
+      "overview": [
+        "Compare the selected drawing."
+      ],
+      "locationNote": "Downtown Mina, on Raha Island; not a promise of direct beach frontage.",
+      "priceLabel": "Request a current unit quotation",
+      "priceNote": "The June 2025 launch advertised AED 768,000; the factsheet starts at AED 808,000. Neither verifies today’s available-unit price.",
+      "paymentNote": "The factsheet calls 50 / 50 standard. The table adds Property Finder’s 10 / 40 / 50 breakdown; its 65 / 35 alternative requires offer confirmation.",
+      "handoverNote": "The developer targets Q2 2028; the original launch anticipated the end of April 2028. Both are forecasts, not completion certificates.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "395.79–405.69 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR suites A/B",
+          "area": "610.85–628.55 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR premium/corner A–C",
+          "area": "801.70–811.38 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "1,167.13–1,600.70 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR+maid A/B′/C",
+          "area": "1,195.66–1,300.93 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR+maid B · printed",
+          "area": "1,128.27–1,240.76 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A/A′/B",
+          "area": "1,743.22–2,124.80 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouse",
+          "area": "3,268.03 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal breakdown",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Construction · portal breakdown",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "facts",
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Mix",
+          "value": "451: 117 studios, 244 one-bedroom, 76 two-bedroom, ten three-bedroom and four penthouses.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Tenure reference",
+          "value": "Property Finder lists freehold; confirm title and charges.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Printed totals include balconies. Some components and conversions conflict: 2BRM-B’s minimum prints 1,128.27 despite components totalling 1,228.27 sq ft.",
+        "Factsheet size bands differ from drawings, including penthouses. Confirm the contracted revision, specification, charges and current stock."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected04 Solera unchanged; original23pplans/38pbrochure/onepagefacts match own project. 451=117+162suite+82premium+76two+10three+4PH. Threebuildings not PFsinglebuilding schema. Current available-to-buy label is not verified stock.",
+        "location": "Ownmain and17June2025release explicitRahaIsland/DowntownMina, centralrak-raha-island mapped. No coordinates or directprivatebeach ownership inferred. GenericMina communitycopy0.",
+        "residences": "All15 actual whole unit pages2–16 read at1700px. Studio,1BRpremiumA/B/cornerC,suitesA/B,2BRA,2BRM-A/B/Bprime/C,3A/Aprime/B,4bedPH. Maid not family bedroom; allwhole singlelevel not multiplied.",
+        "areas": "All15 visible numeric tables read; printed values retain original edition.2BRM-B components1079.51+148.76=1228.27 vs1128.27printedminimum; sqm100.29+15=115.29vs115.27 printedmaximum. 1BRpremiumA balcony8–14.3sqm conflicts73.64–104.43sqft; total74.48sqm801.70singlevalue notcompletebalconyrange. B similarlytotal75.38 vs66.63+8.76=75.39. Studio351.44+45.32=396.76vs395.79minimum. Minor0.01 values not repaired. Facts351–430studio/3253–3264PH differ actual395.79–405.69/3268.03. Public grouped rows illustrative specificdrawings notwholeinventoryranges.",
+        "amenities": "Ownprimarymain and ownfacts supportlisted facilities, launchconfirmsNOOK/40mpool/pavilion. Broch26–29actualviewed corroborative only0derivedwords. Plannedfacilities not operationalaccessguarantees.",
+        "pricing": "Actualfacts1 price808k, launch17June2025 768k, currentownmainnoquote. SecondaryPF1.2mlaunchguide notuniversalstudiofloor, notcopied. HeadlineNULL; originalpriceshistorical not current stock.",
+        "payment": "Actualfacts1 standard50/50; no own datedinstalmentcalendar retrieved. PF10booking40construction50handover100 reference; option10+55+35100 separate. EZRE98percentanomaly/DubaiDLDgenericfee excluded asunreliable. No assumedstage dates.",
+        "handover": "Ownmain/facts Q22028 and datedlaunchendApril2028 compatiblequartertarget; noactualcompletionassumed. Owncurrentconstructiontables show undatedmultipleversions; excluded latestmonthlyassertionwithoutdatedpanel.",
+        "documents": "ExactownhrefthreePDF ordinaryGET200; factsdiscoveredownsoleramicrositepubliclink. All15unitdrawings2–16 andfacts1 plusbrochure2/26–29 actuallyviewed; remainingtextreviewedforcommercials. SingleoriginalrelatedPDFpool140plans60facts0broch=200inclretellings. No forms/bypass. Genericcorporate0."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "developer",
+          "launch"
+        ],
+        "location": [
+          "developer",
+          "launch"
+        ],
+        "emirate": [
+          "developer",
+          "launch"
+        ],
+        "community": [
+          "developer",
+          "launch"
+        ],
+        "locationNote": [
+          "developer",
+          "launch"
+        ],
+        "amenities": [
+          "developer",
+          "launch"
+        ],
+        "type": [
+          "plans",
+          "facts"
+        ],
+        "bedrooms": [
+          "plans",
+          "facts"
+        ],
+        "overview": [
+          "plans",
+          "facts"
+        ],
+        "units": [
+          "plans",
+          "facts"
+        ],
+        "unresolved": [
+          "plans",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "price": [
+          "launch",
+          "facts"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "launch",
+          "facts"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts",
+          "portal"
+        ],
+        "paymentStages": [
+          "facts",
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "facts",
+          "launch"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts",
+          "launch"
+        ],
+        "facts": [
+          "facts",
+          "portal"
+        ]
+      }
+    }
+  }
+}

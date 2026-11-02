@@ -1,0 +1,383 @@
+{
+  "id": "reportage-project-02",
+  "name": "The Wadi",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "The Wadi plans apartments, duplexes and townhouses around a green valley and marina on Yas Canal.",
+    "areaId": "abu-dhabi-yas-canal",
+    "location": "Yas Canal",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Marina",
+      "Waterfront dining",
+      "Spa",
+      "Gym",
+      "Tennis club",
+      "Rooftop pools",
+      "Children’s play areas",
+      "Cycling paths"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/UAE_WADI_BROCHURE_V3.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/1b686fd13fc843c0b3768dcbdaa410f5.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "The Wadi: current developer project page",
+          "url": "https://reportagegroup.com/projects/residential-communities/the-wadi/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "launch",
+          "label": "The Wadi: developer launch announcement, 18 September 2026",
+          "url": "https://reportagegroup.com/news/cosmo-developments-launches-wadi-abu-dhabi/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "The Wadi: original developer brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_WADI_BROCHURE_V3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "mirror-brochure",
+          "label": "The Wadi: original brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/2750d0f5ff8040dba26c4b0df0fb0438.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "facts",
+          "label": "The Wadi: community and E1/E2 factsheets, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/61947aa82a5b42278e4dda93bdef2df9.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "The Wadi: original E1/E2 drawings, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/1b686fd13fc843c0b3768dcbdaa410f5.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "portal",
+          "label": "The Wadi: Property Finder launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/cosmo-developments/the-wadi",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "The Wadi: Tanami commercial guide",
+          "url": "https://www.tanamiproperties.com/Projects/the-wadi-by-reportage",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        }
+      ],
+      "community": "The Wadi, Yas Canal",
+      "overview": [
+        "Compare buildings."
+      ],
+      "locationNote": "Yas Canal, Abu Dhabi; brochure: Yas Island; factsheet: 11 minutes from Yas Island.",
+      "priceLabel": "Request a selected-home quotation",
+      "priceNote": "Property Finder gives a launch guide of AED 865,000 and AED 864,921 in its FAQ; Tanami advertises AED 750,000. Release, discount and unit selection may differ; no primary live price list was verified.",
+      "paymentNote": "The reference table follows Property Finder’s 20 / 80 plan. Tanami advertises a 5% booking option without a complete calendar. No dated original commercial schedule was verified; confirm the selected offer.",
+      "handoverNote": "Property Finder targets December 2030. This is a forecast, not a verified contractual date or construction certificate.",
+      "units": [
+        {
+          "label": "E1 · Studio",
+          "area": "306–502 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · 1BR",
+          "area": "488–929 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · 1BR+office",
+          "area": "916–1,334 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · 2BR",
+          "area": "717–1,636 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · 3BR",
+          "area": "1,100–2,029 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · 4BR",
+          "area": "2,330–2,418 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E1 · Duplex H/I",
+          "area": "2,213–3,300 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E2 · Studio",
+          "area": "350–521 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E2 · 1BR",
+          "area": "704–1,240 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E2 · 2BR",
+          "area": "1,131–1,512 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "E2 · 3BR labels",
+          "area": "1,912–3,435 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Sales launch",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 80,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development structure",
+          "value": "Cosmo Developments, managed by Reportage Group.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Published scale",
+          "value": "Masterplan: 3,950 homes. E1/E2: 383/147 homes.",
+          "sourceIds": [
+            "launch",
+            "facts"
+          ]
+        },
+        {
+          "label": "Tenure and transaction reference",
+          "value": "Property Finder lists freehold and a 2% government fee. Confirm title eligibility and complete purchase costs.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Visible totals override conflicting hidden layers. Some printed components do not reconcile. E2 Type P is labelled three-bedroom but draws four bedrooms.",
+        "The launch gives approximately 140,700 m²; the factsheet gives 144,703 m². These masterplan plots differ from the 9,165 m² E1/E2 parcel.",
+        "Figures include outdoor areas and whole duplexes. Townhouse and other-cluster dimensions, current charges, inventory, contracted revisions and completion status remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-02 The Wadi exactowner/slug/media retained. Primarylaunchdateline18Sep2026 vsindex29Sep2026. ExactCosmo JVFlagHolding/ReportagefullymanagedbyReportage disclosed. Masterproject3950 distinctE1/E2phase530; neithermergedotherReportageprojects norcountedwholecommunitycurrentlyavailable.",
+        "location": "Ownprimarylaunch exactYasCanal/AbuDhabi supportedcentralabu-dhabi-yas-canal. Ownbrochurep8 saysYasIsland butoriginalfacts2/4 explicitly11mindrivetoYasIsland. Keptnarrowercanalnameandconflict, no speculativecoordinates. Primary animated00minlabels and0%loadernotactualtravel/progress. Brochuregeographiccoordinates25.28090,56.12152elsewhere notAbuDhabiandnotadopted.",
+        "residences": "Original109p E1/E2pack fullrepresentativefamilies actuallyread:17studio,30/45onebed,47one+office,49two,65three,70/71four,72/73wholeduplexH/I;86studio90one94two1023BRPfourbedroomsdrawn. Labels+office notpromotedtwo; maidnotbedroom. Allavailable80numericpages17–73and86–108 visuallyreadvia7contactimages0/12/24/36/48/60/72. Retail106–108inspectedbutnotaddedhomefilter. E2Pheader3BR draws4; no renamedprotectedrecord. Four-storeytownhousebrochdescriptionverifiedp21butnofulltownhouseplansretrieved, no inheritedapartmentareas.",
+        "areas": "IMPORTANT109pPDFhasinvisiblelegacytablelayers with differentpreciseareas; discardallhiddennumerictext. Adoptvisibleintegerft²panels only. E1studioA1–A6 printed306–502 (A1minimum306inconsistentwith306+60components),1B B1–B24 488–929 (B23actual1BRfull929),1B+officeC1/C2 916–1334,2B D1–D16 717–1636,3B E1–E5 1100–2029,4B F/G2330/2418,wholeduplexH/I3300/2213. E2studioA/A1/B/C350–521,1BD–G704–1240,2BH–L1131–1512,3B M–S1912–3435 butPdraws4. ActualE2P1825+1611=3436vsprinted3435, other~1ft roundingdifferencesexplicitgeneralcaveat. Alltotalswholehome, nolevelmultiplicationorassumedmetricconversions. Originalfactsparcel9165phase vs144703master andownlaunch140700master conflictpublic.",
+        "amenities": "Ownmainphasewebprimarysupportswaterfrontdining/spa/gym/privategardens. OwnbrochureV3p23actualmarina/tennis/rooftoppools/childrenplay/cycling/retail plusfacts1/3. Public8amenitiesplannedcommunitynotallindividualbuildingsoperational. Brochp21townhouseprivategym/spa notuniversalapartmentfeature. Furnishing/accessoryillustrative peractualplans; no furnished/appliancepromise.",
+        "pricing": "Ownphaseweb/originalbrochure/facts/plans and18Sepdeveloperrelease containno commercialprice. PF865kheadline/864921FAQ launchguide vsTanami750knotidenticaloffer. No inventedreconciliationoravailableunitstock. Secondarypricesnotprimaryheadline;NULL. Exactresaleorretailunitpricesnotadoptedasprojectminimum.",
+        "payment": "PF20down80handover=100onlyexplicitreference. Ownphasepagenopayment, genericcorporatehomepageWadimonthlyoffersnotused(no sharedderivation). Tanami5downincomplete schedule only, no inventedremaining95stage. OriginalcommercialPDFnotaccessiblefromcurrentownpageandpublicmirrorsretrieved containnone. Noforms/calls/reservations.",
+        "handover": "PrimaryphaseHTMLandbrochure/reportfactsno bindingdate. PFDec2030forecast; no certificate/progressverified. Sourcewebsite0%loadermisleadingnotconstruction. HistoricalsecondaryQ42029Upsidesdiscoverednotadoptedfacts; currentprimaryabsencemeansNULL. No artificialuniformallclustercompletion.",
+        "documents": "OwnordinaryHTML200linksUAE_WADI_BROCHURE_V3.pdf28p; exactpublicDubainaryPDFhrefsReellyoriginal26pbrochure4pfacts109pplans allGET200withoutforms. All80actualnumerictablescroppedandread,14wholefamiliesread; factsall4actualimagesread, brochure21/23read. V3/V4Broch/facts/plansversionsmirrorretellingsONE200pool20+20+50+110. Mainchaptergeneric0. Hiddenlayersdiscarded. No originalC1C2C3/townhousefullnumericdrawingsfoundaftertargetedsearch; excludedinsteadofinvented. Currentwebsiteprimarydocumentsmappedhonestlysecondarymirrorkindbroker."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "developer",
+          "launch"
+        ],
+        "location": [
+          "developer",
+          "launch"
+        ],
+        "emirate": [
+          "developer",
+          "launch"
+        ],
+        "community": [
+          "developer",
+          "launch"
+        ],
+        "locationNote": [
+          "developer",
+          "launch"
+        ],
+        "type": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "bedrooms": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "amenities": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "brochureUrl": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "floorPlanUrl": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "overview": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "launch",
+          "brochure",
+          "mirror-brochure",
+          "facts",
+          "plans",
+          "portal"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "developer",
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "launch",
+          "portal"
+        ]
+      }
+    }
+  }
+}

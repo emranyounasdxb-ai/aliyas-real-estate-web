@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-34","name":"Selvara","developerSlug":"emaar",
+ "fields":{
+  "description":"Selvara is a four bedroom villa neighbourhood within Grand Polo Club & Resort. Its shared pool terrace, gym, yoga pavilion and planted common areas complement homes arranged over three levels. The original Selvara collection has A and B layout families; later Selvara phases should be assessed using their own documents.",
+  "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"4","price":6200000,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community pool terrace","Gymnasium","Yoga pavilion","Multipurpose lounge","Communal landscaped areas","Community parks","Children’s play areas","Retail promenade setting","Gated access and security","Wider estate polo fields, stables and clubhouse"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/SELVARA_GP_BROCHURE.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/SELVARA_GP_FLOORPLAN.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Selvara at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/selvara-at-grand-polo-club-and-resort","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Selvara brochure","url":"https://www.emaar.com/cms-media/uploads/SELVARA_GP_BROCHURE.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Selvara floor plans","url":"https://www.emaar.com/cms-media/uploads/SELVARA_GP_FLOORPLAN.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Selvara launch fact sheet · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/06/Emaar-Selvara-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+    {"id":"payment","label":"Selvara payment plan · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/06/Emaar-Selvara-Payment-plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"materials","label":"Selvara material board · Petkovic-hosted Emaar copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/06/Emaar-Selvara-Material-board.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":75},
+    {"id":"finder","label":"Property Finder: Selvara completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/selvara","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Original Selvara official page and branded PDFs reviewed, separately from Selvara 2/3/4.",
+    "location":"Grand Polo community and Selvara position checked on official brochure map; exact plot not inferred.",
+    "residences":"Four bedroom A/B villa families and their three styles confirmed in official plans.",
+    "areas":"All 12 plan pages read; B Style 2 visually checked. Six distinct printed totals retained; mirrored versions not counted as separate stock.",
+    "amenities":"Official page and brochure support pool, gym, yoga, shared landscape and wider equestrian facilities. Unsupported portal spa/cinema claims omitted.",
+    "pricing":"Official starting AED 6.2 million corroborated by launch fact sheet; no current inventory claim.",
+    "payment":"Branded schedule visually checked; nine instalments total 100%. January 2027 has no stated construction trigger; later 50/70/90% milestones preserved.",
+    "handover":"April 2029 estimated completion corroborated by PF, shown as reported Q2 2029.",
+    "documents":"Official brochure/plans linked; broker-hosted launch fact, payment and material board reviewed and attributed. Images unchanged."
+   },
+   "community":"Grand Polo Club & Resort",
+   "overview":["Selvara’s brochure puts shared outdoor spaces alongside everyday home life: a pool terrace, children’s play areas and paths through planted grounds. A retail promenade and the wider estate’s Green Core provide neighbourhood context. The interiors use muted tones with stone and timber imagery, but buyers should compare the material schedule and exact layout rather than choosing from a rendering alone."],
+   "locationNote":"Selvara is within Grand Polo Club & Resort, near the masterplan’s central polo fields, stables and clubhouse. The developer map relates it to Al Maktoum International Airport, The Oasis and the wider Dubai road network. Access points, walking distances and travel times need a practical check.",
+   "priceLabel":"Advertised starting price",
+   "priceNote":"Emaar’s page advertises Selvara from AED 6.2 million. The figure does not establish remaining availability or a current offer for a selected villa; written unit pricing and terms are needed.",
+   "paymentNote":"The launch plan consists of 10% on booking, seven further 10% instalments and 20% at estimated completion. Dates below belong to that launch schedule, with some already passed. Current outstanding payments depend on the unit’s contract.",
+   "handoverNote":"April 2029 is the launch payment sheet’s estimated construction-completion month, also reported by Property Finder. Confirm current progress and contractual handover separately.",
+   "units":[
+    {"label":"4 bedroom villa · A Style 1","area":"3,819.35 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · A Style 2","area":"3,832.16 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · A Style 3","area":"3,798.69 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · B Style 1","area":"3,651.87 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · B Style 2","area":"3,689.97 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · B Style 3","area":"3,638.52 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The launch fact sheet lists 237 four bedroom villas, with average built-up area of 3,802 sq ft and average plot area of 3,610 sq ft. These are collection averages, not unit-specific dimensions or current availability.","sourceIds":["facts"]},
+    {"label":"Area and layout basis","value":"Reviewed suites range from 2,806.04 to 2,913.68 sq ft; totals include terrace/balcony and carport space. Plans show a ground-floor guest bedroom, three bedrooms above and a second-floor roof lounge. The extra service space is labelled ‘linen room’.","sourceIds":["plans"]},
+    {"label":"Published finish direction","value":"The branded material board shows neutral paint, wood-tone and pale joinery, flooring, a wardrobe carcass finish, mirror and metal finishes, and a veined countertop/backsplash sample. Product grades, brands and final installation scope are not specified there.","sourceIds":["materials"]}
+   ],
+   "unresolved":["Current villa availability, exact plot and orientation, selected style, price and remaining payment obligations.","Final room use and specification: the reviewed plans label a linen room, so a separate maid’s bedroom is not assumed.","Appliance and material brands, service/community charges, construction progress and contractual handover.","Opening dates, membership and access arrangements for shared and equestrian amenities.","Official project imagery is deferred; existing photographs are illustrative."]
+  }
+ }
+}

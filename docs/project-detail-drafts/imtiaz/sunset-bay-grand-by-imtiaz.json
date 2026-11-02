@@ -1,0 +1,259 @@
+{
+  "id": "imtiaz-project-09",
+  "name": "Sunset Bay Grand by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Sunset Bay Grand on Dubai Islands combines furnished one- and two-bedroom apartments with three-bedroom duplexes. Shared leisure spaces extend from the first floor to the roof.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1950000,
+    "handover": "December 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Sky pool",
+      "Family pool",
+      "Gym",
+      "Clubhouse",
+      "Outdoor cinema",
+      "Barbecue area",
+      "Cabanas",
+      "Sunken seating",
+      "Children’s zone",
+      "Outdoor seating"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-grand/SUNSET_BAY_GRAND_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-grand/SUNSET_BAY_GRAND_FLOOR_PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sunset Bay Grand: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/sunset-bay-grand-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Sunset Bay Grand: branded45-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-grand/SUNSET_BAY_GRAND_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Sunset Bay Grand: branded12-page building plans, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-grand/SUNSET_BAY_GRAND_FLOOR_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Sunset Bay Grand project and unit catalogue",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/sunset-bay-grand",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "silveroak",
+          "label": "Silver Oak: differing promotional payment options",
+          "url": "https://www.silveroakglobal.com/projects/sunset-bay-grand-a43a6486",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "description": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "type": [
+          "developer"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentNote": [
+          "developer",
+          "silveroak"
+        ],
+        "units": [
+          "finder"
+        ],
+        "unresolved": [
+          "plans",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected09SunsetBayGrand, notSunsetBay5/BeachWalkGrand. Ownpage title andactual45pbrochure/12pbuildingpack match. Original98mix51+43+4=98 confirmedcurrentFAQ. CurrentPFmarksdeveloperSoldOut; notassumedavailablefromFAQguideprices.",
+        "location": "OwnFAQ/actualbrochure sayDubaiIslands, exactregistrydubai-islands. Travel15minutes marketing notbinding/sitecoordinate; no travel-time or coordinates imported. BrokerDLDproject3868claim notverifiedagainstprimaryregister so notcertified.",
+        "residences": "OwnFAQ fullyfurnished1/2apartments and3duplex, G+2P+10+R. Actualbrochure14 overview and37duplexdescription viewed. Actualall12floorpackpages2–12 viewed:1st2BRpoolterraces+sharedamenities,2–8floor1/2,9/10androof3duplex. No primary3BRsinglelevel confirmed; PFseparate3BRapartmentType12565excludedfromadoptedprimarymix.",
+        "areas": "All45brochurepages extracted/reviewed; noaggregateunitareatables. Actual12buildingfloorplates imageonly noaggregateunitareas or individualunitmeasurementbasis. PFcachedactualunitcatalogue1BR840–1120;2BR1340–1633;3duplex2616–2951 usedonlyattributedsecondaryguides. Otherbrokerrangeslarger2BR1809 excludednotmerged. No floorarea doubled forduplex.",
+        "amenities": "Actualbrochure18 listten facilities; currentownFAQsame. Actualbuildingpack5firstfloorclubhouse/gym/cinema/pool,12roofpool. Privatepools onlyselectedmarkedunits; notuniversalamenity. 3.2mceilings/smarthome/furnishing fromprimaryFAQ, no roomheightderivedfromrenders.",
+        "pricing": "PrimaryFAQhistoricstarting1BR1.95m/2BR2.91m/3duplex4.71m remainpublished. PFlaunch2.29m/SoldOut, otherbroker2.189m to6.366m differsbasis. Headline1950000 labeledpublishedguide notcurrentunitstock. No asserteddiscounteligibility/netprice orservicecharge.",
+        "payment": "PrimaryFAQ20+six5/5/10/10/5/5+40=100, Feb2026–July2027 andDec2027completion. Exact15thdatedJiwakpaymentindexedPDFtextread butordinaryGET403 andwebscreenshottimeout, so notadoptedprecisedaystages. PrimaryownFAQmonths retained aggregate40construction. SilverOak40/60and35/65promotionsdifferent; headlineNULL andnoteconflict. No primarycurrentpromoconfirmed.",
+        "handover": "OwncurrentQ42027/December2027 andPF31Dec2027agree. BrokerclaimedDLD15Feb2028 unverifiedprimaryregister; notadoptedcertifieddate. Targetnotactualcompletion. OrdinaryHTMLcached09-own fetched17overall/43superstructure/100substructure/0MEP/0finishing undatedsnapshot; indexedolder14/23notnewprimarymeasurement.",
+        "documents": "OwnHTML200 buttonsfileids6438/6439/6440inquiryform noactualpublicPDFURL; noformsubmitted orendpointguessed. Mitchellspublicexactbrochure45p36557535bytes andplans12p15449712bytes downloadedordinary200, alltextandactualfloorplatesread; relevantbroch14/18/19/37actualviewed. PublicpaymentJiwak403respected; webPDFtextavailablebutactualscreenshottimeout, nofalsevisualclaim. Sourcepool200broch100/plans100, no genericindexderivation; sourceskindbrokerhonest."
+      },
+      "community": "Dubai Islands",
+      "overview": [
+        "First-floor leisure spaces and rooftop facilities serve different parts of the building. Private pools appear only on selected plans."
+      ],
+      "locationNote": "Dubai Islands, Dubai; confirm the selected unit’s exact plot and orientation.",
+      "priceLabel": "Developer published starting reference",
+      "priceNote": "Primary FAQ: AED 1.95m; portal launch reference: AED 2.29m. The portal marks the developer release sold out; confirm resale or remaining stock.",
+      "paymentNote": "Developer reference: 20% booking, 40% instalments, 40% completion. Broker promotions instead show 40/60 or 35/65. Confirm a dated offer.",
+      "handoverNote": "Developer target: December 2027, also shown by Property Finder. Completion is not certified.",
+      "units": [
+        {
+          "label": "1BR: portal guide",
+          "area": "840–1,120 ft²",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2BR: portal guide",
+          "area": "1,340–1,633 ft²",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3BR duplex: portal guide",
+          "area": "2,616–2,951 ft², whole home",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Six instalments: February 2026–July 2027",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion: December 2027",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published mix",
+          "value": "98 homes: 51 one-bedroom, 43 two-bedroom and 4 three-bedroom duplexes.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Configuration",
+          "value": "G+2P+10+R.",
+          "sourceIds": [
+            "developer",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Specification",
+          "value": "Furnished, smart-home features, 3.2m ceilings; confirm the contractual schedule.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "17% overall; 43% superstructure; 100% substructure; MEP and finishing 0%. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Higher-type guide prices",
+          "value": "2BR AED 2.91m; 3BR duplex AED 4.71m, published references.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Building plans omit total apartment areas; portal guides are not contractual measurements.",
+        "Confirm current prices, payment eligibility, service charges, parking, pool upkeep and approved unit specifications. Photography is illustrative."
+      ]
+    }
+  }
+}

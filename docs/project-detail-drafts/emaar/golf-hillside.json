@@ -1,0 +1,54 @@
+{
+ "id":"emaar-project-68","name":"Golf Hillside","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Hillside is a 20-storey apartment tower in Dubai Hills Estate, facing the golf course and surrounding villa neighbourhoods. One to three bedroom homes sit above an amenity podium. The floor plans range from compact balcony apartments to lower-level homes with substantially larger outdoor areas.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":2902888,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Pool deck","Indoor and outdoor gyms","Multipurpose sports court","Indoor multipurpose room","Barbecue area","Children’s play areas","Landscaped podium","Covered parking","24-hour security"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/GOLF-HILLSIDE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/GOLF-HILLSIDE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Hillside at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/golf-hillside-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"brochure","label":"Emaar: Golf Hillside brochure","url":"https://www.emaar.com/cms-media/uploads/GOLF-HILLSIDE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"plans","label":"Emaar: Golf Hillside floor plans","url":"https://www.emaar.com/cms-media/uploads/GOLF-HILLSIDE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hillside/GOLF-HILLSIDE_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hillside/GOLF-HILLSIDE_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Golf Hillside","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-hillside","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Hillside in Dubai Hills Estate, separate from Emaar South’s Golf Hills projects.","location":"Golf-side Dubai Hills Estate location and nearby district facilities checked; future transport not represented as operational.","residences":"One to three bedroom apartments; 20-storey tower and published 184-home mix confirmed.","areas":"All 16 image-only layout tables visually read, including first-floor and ground-floor variants; exact printed totals retained.","amenities":"Pools, gyms, sports court, play, barbecue and multipurpose facilities checked against the brochure and official page.","pricing":"Current official displayed-unit starting price distinguished from the September 2024 category launch prices.","payment":"Nine stages visually checked in the Emaar-branded launch document; 80/20 aggregate totals 100%.","handover":"December 2028 estimate corroborated by Property Finder; current contract and construction position remain to be confirmed.","documents":"Official brochure and image-only plans linked, with attributed launch fact and payment sheets. Images unchanged."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The residential layouts pair outdoor space with separate sleeping areas and open living rooms. Shared facilities include indoor and outdoor exercise spaces, a sports court and pools for adults and children. The brochure describes LED lighting, water-saving systems and sustainable materials. It also states a future intention to obtain LEED Gold and Al Safat certification; this is not evidence that either certification has already been awarded."],
+   "locationNote":"The project overlooks the Dubai Hills golf-course and villa area, with Dubai Hills Mall and King’s College Hospital among nearby destinations. Al Khail Road provides wider road connections. Views depend on the chosen apartment; golf-club membership and future rail access are not included or guaranteed here.",
+   "priceLabel":"Developer’s displayed units from",
+   "priceNote":"Emaar’s displayed-unit panel starts at AED 2,902,888 on the review date, while its headline retains the historic AED 1.47m launch price. The September 2024 fact sheet lists category starts of AED 1.47m, AED 2.73m and AED 3.65m for one, two and three bedrooms. Request a current unit-specific quotation.",
+   "paymentNote":"The launch schedule allocates eight payments of 10% before completion and 20% at completion. These dated launch terms do not establish the remaining instalments payable on a resale or later release.",
+   "handoverNote":"The Emaar-branded payment document estimates December 2028 completion, also reported by Property Finder. This is an estimate, subject to the applicable contract and subsequent developer updates.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"741.31–1,106.10 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,189.95–1,879.70 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,602.96–2,322.21 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · September 2024 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published residential mix","value":"The launch sheet lists 78 one-bedroom, 62 two-bedroom and 44 three-bedroom apartments, totalling 184 homes. These are development counts, not available inventory.","sourceIds":["facts"]},
+    {"label":"Ground-floor outdoor space","value":"Three-bedroom G01 includes a study, separate toilet, powder room and laundry. Its printed total is 2,322.21 sq ft, including 824.08 sq ft recorded as balcony area and drawn as a wraparound terrace.","sourceIds":["plans"]},
+    {"label":"Compare suite and balcony separately","value":"One-bedroom unit 106 totals 1,106.10 sq ft, including 403.86 sq ft outdoors. Typical B4 homes have a similar 702.24 sq ft suite but a 110.55 sq ft balcony. Larger total area need not mean proportionately larger interiors.","sourceIds":["plans"]},
+    {"label":"Availability needs a fresh check","value":"Property Finder labels the project sold out while Emaar displays selected units. These channels may describe different stock; neither confirms that a particular home can currently be booked through Aliyas.","sourceIds":["finder","official"]}
+   ],
+   "unresolved":["Current unit availability, construction status, contractual delivery and service charges require confirmation.","Parking allocations, final furnishing and specifications, and any awarded sustainability certificates were not verified.","Printed plan subtotals can differ by 0.01 sq ft through rounding; the stated total is retained rather than recalculated.","Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

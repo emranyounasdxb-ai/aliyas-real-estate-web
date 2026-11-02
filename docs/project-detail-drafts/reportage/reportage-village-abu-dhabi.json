@@ -1,0 +1,252 @@
+{
+  "id": "reportage-project-20",
+  "name": "Reportage Village Abu Dhabi",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "A Khalifa City townhouse community with multi-level homes, roof terraces and shared recreation spaces. Reportage Village Abu Dhabi is separate from the Dubai project.",
+    "areaId": "abu-dhabi-khalifa-city",
+    "location": "Khalifa City",
+    "emirate": "Abu Dhabi",
+    "type": "Townhouse",
+    "bedrooms": "3",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pool",
+      "Children’s pool",
+      "Gym",
+      "Children’s play area",
+      "Shaded seating",
+      "BBQ areas"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-UNIT-TYPES.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reportage · Reportage Village Abu Dhabi",
+          "url": "https://reportagegroup.com/projects/residential-communities/reportage-village-abu-dhabi/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "brochure",
+          "label": "Reportage Village Abu Dhabi · original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "Reportage Village Abu Dhabi · original unit types",
+          "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-UNIT-TYPES.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 85
+        },
+        {
+          "id": "facts",
+          "label": "Reportage Village Abu Dhabi · original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Fact-Sheet-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Reportage Village Khalifa City reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/reportage-village-khalifa-city",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut · Reportage Village Abu Dhabi area guide",
+          "url": "https://www.bayut.com/area-guides/reportage-village-abu-dhabi/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        }
+      ],
+      "community": "Khalifa City",
+      "locationNote": "Khalifa City, Abu Dhabi; distinct from Zayed City and the Dubailand village.",
+      "overview": [
+        "Reportage identifies 312 townhouses. Its brochure and current page describe three bedrooms; the factsheet instead says four. Confirm the contracted revision."
+      ],
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder records an AED 4,583,927 launch guide. A current developer unit quotation was not verified.",
+      "paymentNote": "Property Finder lists 10/51/39; Bayut mentions 30% upfront without a complete schedule. No original dated payment calendar was verified.",
+      "handoverNote": "Property Finder forecasts September 2028; Bayut says Q1 2028. Reportage’s 65.81% progress display has no snapshot date. Obtain the contractual completion date.",
+      "units": [
+        {
+          "label": "Townhouse · published 3BR plan",
+          "area": "4,074.67–5,226.41 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Printed whole-home total includes outdoor space across ground, three upper levels and roof.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan arrangement",
+          "value": "Three bedrooms, study and maid room; study and maid room are not counted as extra bedrooms.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Private features",
+          "value": "Original documents show a roof pool; an internal lift is optional. Confirm the unit specification.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Plot editions",
+          "value": "Brochure: 52,626.94 m²; factsheet: 52,629 m².",
+          "sourceIds": [
+            "brochure",
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · at launch",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 51,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 39,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The three-bedroom plan conflicts with the four-bedroom factsheet; obtain an approved unit drawing.",
+        "Published minimum components total 4,074.68 sq ft, versus the printed 4,074.67.",
+        "Current availability, charges and completion certification remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-20/reportage-village-abu-dhabi retained. Exact own page312KhalifaCity; no Dubai2094Townhouse data mixed. Canonical images remain illustrative. Own current mainordinaryGET200saved143941bytes.",
+        "location": "Exact primarypage and originalfacts identifyKhalifaCityAbuDhabi. Added distinct abu-dhabi-khalifa-city registry, notZayedCity aliasKhalifaCityC. NoassumedGPS/travelguarantees.",
+        "residences": "Actualwhole five-level plan inown6punittypesp4 and20pbrochurep15 viewed1800px. Secondfloor twoMasterBR,thirdflooroneMasterBRplusstudy,roofmaidroomandpool. Threebedrooms consistent3Bvisiblelabel/currentmain/brochure14mix312threeBR. Facts2instead312fourBR G+3+R. Sourceeditionconflict public; no invented distinctfourBRtype orcountingstudy/maidasbedroom.",
+        "areas": "Actualvisible unittypesp4 andbrochurep15 table:2837.15–2907.33internal/1237.53–2319.08outdoor/4074.67–5226.41totalft2. Maxsum2907.33+2319.08=5226.41; min2837.15+1237.53=4074.68notprinted4074.67, retainpublishedwithwarning. Wholealllevels countedonce, notfive-times. Roofpool3.8x3shownbutnotconvertedtoarea. Plot52626.94broch/currenttextvs52629facts/currentstatqualified.",
+        "amenities": "Ownsixneutralcommunityamenities retained. Actualbrochure13/14andfacts1 showsharedpools/gym/play/shadedseating/BBQ/landscape androofprivatepool; optionalinternallift notuniversalstandard. Maidroomviewedactualspecificplan, notallfutureunitsassumed. No furnitureservice/parkingquantityguarantees.",
+        "pricing": "Fresh ownphasepage andactual20pbroch/6pplans/2pfactsno currentunitquotation. PF4583927launchguideexplicitlyhistoric reference, notavailable-unitminimum;headpriceNULL. Broker4.5m/4.374mnot adoptedliveoffer. Nofees/returnsinvented.",
+        "payment": "ActualPF10launch51during39handover=100secondarytable;Bayutareaguideonly30upfrontnobalance, notfilledbyassumption. ActualprimaryPDFsnooriginaldatedpaymentdocument;headlineNULLandpublicqualification. Dategovernmentfee/freeholdclaims notverifiedagainstregistryandnotimported.",
+        "handover": "PFQ32028/September2028forecast vsBayutQ12028conflict;primaryown65.81progressundatednotcompletioncertificate. Neithersecondarydatechosenasconfirmedheadline, NULL. Noarbitraryhandoverdayorcertainavailability.",
+        "documents": "Actualowncurrenthrefspointlegacyreportageuae wp-content; ordinaryequivalentgroup3PDFsGET200,20p12554046brochure/6p9140125unittypes/2p3834359facts. Allpagescontacted;actualfullfive-levelnumericbrochure15/unittypes4,facts1/2andbroch13/14visuallyviewed. One200poolallversions/mirrors/retellings=50broch85plans65facts. Genericcorporate0; noforms/challengebypass/imagesimported."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "portal",
+          "bayut",
+          "developer"
+        ],
+        "paymentPlan": [
+          "portal",
+          "bayut"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "brochure",
+          "facts"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentNote": [
+          "portal",
+          "bayut"
+        ],
+        "handoverNote": [
+          "portal",
+          "bayut",
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "plans",
+          "facts",
+          "brochure"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "unresolved": [
+          "plans",
+          "facts",
+          "brochure",
+          "developer"
+        ]
+      }
+    }
+  }
+}

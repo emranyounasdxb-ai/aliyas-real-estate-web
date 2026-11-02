@@ -1,0 +1,58 @@
+{
+ "id":"emaar-project-72","name":"Greenway","developerSlug":"emaar",
+ "fields":{
+  "description":"Greenway brings three- and four-bedroom townhouses to Emaar South, arranged in groups of four. Classic and Modern façades use slightly different layouts and areas. Each home extends to a second-floor lounge and terrace, while the four-bedroom end units add a ground-floor guest bedroom.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":3150000,"handover":"Q2 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Community centre","Adult and children’s swimming pools","Children’s play areas","Linear park and jogging paths","Gym","Multipurpose room","Community retail and dining","Emaar South golf-course setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Greenway_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Greenway_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Greenway at Emaar South","url":"https://www.emaar.com/en/properties/greenway-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Greenway brochure","url":"https://www.emaar.com/cms-media/uploads/Greenway_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"plans","label":"Emaar: Greenway floor plans","url":"https://www.emaar.com/cms-media/uploads/Greenway_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenway/GREENWAY_ES_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenway/GREENWAY_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Greenway","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenway","kind":"portal","checkedOn":"2026-10-31","derivedWords":75}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure","facts"],"price":["official","facts"],"units":["plans","facts"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"First Greenway release checked separately from Greenway 2.","location":"Emaar South mapped to the Dubai South location filter.","residences":"Three/four-bedroom townhouses in Classic and Modern styles; unsupported six-bedroom website wording excluded.","areas":"All eight plan tables visually checked, with plot ranges separately identified.","amenities":"Neighbourhood facilities distinguished from wider community golf and retail.","pricing":"Official AED 3.15m start cross-checked against historical category launch prices.","payment":"Ten 10% instalments visually verified in launch payment PDF.","handover":"May 2028 launch estimate corroborated by Property Finder; not a completion guarantee.","documents":"Official brochure and image-only plans inspected; broker-hosted launch documents attributed."
+   },
+   "community":"Emaar South",
+   "overview":["The neighbourhood contains 232 townhouses set around landscaped outdoor space. Large windows, neutral interiors and roof terraces are the principal residential features described in the brochure. Its wider setting includes a community park and access towards retail and dining. Golf-course views depend on the position of the home; membership should not be inferred from proximity."],
+   "locationNote":"Greenway is within Emaar South in Dubai South, with road connections towards Al Maktoum International Airport and Expo City Dubai. Confirm the selected plot’s route to everyday facilities rather than relying on launch-era drive-time claims.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar shows AED 3.15m. The April 2024 launch sheet lists three-bedroom homes from AED 3.15m and four-bedroom homes from AED 3.68m. These historical category starts do not establish current availability or an individual resale price.",
+   "paymentNote":"The published launch schedule totals 90% before completion and 10% at completion. Property Finder also reports 10% booking, 80% during construction and 10% at handover. An existing buyer’s outstanding balance may follow different transfer terms.",
+   "handoverNote":"The launch payment document estimates May 2028 completion, also reported by Property Finder. Q2 2028 is an estimate requiring confirmation against the applicable sale agreement.",
+   "units":[
+    {"label":"3 bedroom · Classic","area":"3,071.37 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom · Modern","area":"3,092.90 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Classic","area":"3,513.01 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Modern","area":"3,512.05 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom plot","area":"1,811–2,200 sq ft land area","sourceIds":["facts"]},
+    {"label":"4 bedroom plot","area":"2,748–5,487 sq ft land area","sourceIds":["facts"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · April 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"June 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2028 · estimated completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published unit mix","value":"The launch sheet divides 232 townhouses equally: 116 three-bedroom and 116 four-bedroom homes. These are development totals, not available stock.","sourceIds":["facts"]},
+    {"label":"Practical layout","value":"Plans show two-car parking, a maid’s room with bathroom, laundry and storage/pump space. Three bedrooms occupy the first floor; four-bedroom layouts add the ground-floor guest room. The roof level contains a lounge, bathroom and terrace.","sourceIds":["plans"]},
+    {"label":"Area basis","value":"Published totals include garage and balcony/terrace allocations. The Classic three-bedroom example separates 2,403.36 sq ft suite, 382.23 sq ft garage and 285.79 sq ft balcony/terrace. Mirrored layouts retain the same published totals.","sourceIds":["plans"]},
+    {"label":"Bedroom wording discrepancy","value":"A website highlight mentions six-bedroom homes, but its key facts, brochure and floor plans show three and four bedrooms. Only the supported types are included here.","sourceIds":["official","brochure","plans"]}
+   ],
+   "unresolved":["Current stock, service charges, construction progress and final handover need confirmation; historical portal progress is not presented as current.","Confirm plot boundaries, final specifications, landscaping responsibility and any golf access or membership terms.","Existing imagery remains illustrative; project photography is deferred."]
+  }
+ }
+}

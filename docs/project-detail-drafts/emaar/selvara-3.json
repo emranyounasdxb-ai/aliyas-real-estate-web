@@ -1,0 +1,64 @@
+{
+  "id":"emaar-project-105","name":"Selvara 3","developerSlug":"emaar",
+  "fields":{
+    "description":"Selvara 3 is a four-bedroom villa neighbourhood within Grand Polo Club & Resort. Contemporary façades, muted materials and landscaped communal spaces define the setting. Its own launch collection comprises 138 villas, with four layout styles arranged over ground, first and second floors.",
+    "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"4","price":7282888,"handover":"Q2 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Communal landscaped areas","Pool terrace","Gymnasium","Yoga pavilion","Multipurpose lounge","Community parks","Gated access and 24-hour security","Planned retail promenade","Community clubhouse","Polo fields and stables"],
+    "brochureUrl":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELVARA3_GP_BROCHURE.pdf",
+    "floorPlanUrl":"https://www.madena.ae/api/assets/documents/projects/selvara-3/floor-plans/50a97842b7e93632.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Selvara 3 at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/selvara-3-at-grand-polo-club-and-resort","kind":"developer","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"brochure","label":"Emaar Selvara 3 brochure, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELVARA3_GP_BROCHURE.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"plans","label":"Emaar Selvara 3 floor plans, Madena-hosted copy","url":"https://www.madena.ae/api/assets/documents/projects/selvara-3/floor-plans/50a97842b7e93632.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Selvara 3 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELAVARA3_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"payment","label":"Emaar Selvara 3 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELVARA_3_GP_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"finder","label":"Property Finder: Selvara Phase 3 by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/selvara-phase-3-by-emaar","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+      ],
+      "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["official","brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Selvara 3 confirmed with own official page and 138-villa release sheet.",
+        "location":"Grand Polo Club & Resort checked; brochure and fact-sheet journey times differ, so exact travel minutes are omitted.",
+        "residences":"Four-bedroom villas confirmed; own four-style plan pack used rather than Selvara 4's linked drawings.",
+        "areas":"Nine-page own plan pack reviewed; all four area tables and a complete three-level layout visually checked.",
+        "amenities":"Official page and own brochure checked; broader polo facilities described as community amenities with access confirmation required.",
+        "pricing":"Current official AED 7,282,888 panel separated from the page's AED 6.4m historical headline and own fact-sheet AED 6.49m launch price.",
+        "payment":"Own payment document and fact table visually verified; eight 10% stages and final 20% sum to 100%.",
+        "handover":"May 2029 estimated completion corroborated by Property Finder.",
+        "documents":"Official shared-name downloads contained Selvara 4 material. Separately titled Selvara 3 brochure and floor-plan copies were located and linked."
+      },
+      "community":"Grand Polo Club & Resort · Selvara 3",
+      "overview":["Selvara 3's brochure combines clay and stone-toned façades with travertine, wood and textured interior finishes. The landscape programme extends beyond individual gardens to community parks, a pool terrace and a retail promenade. A central green area connects the wider development's polo fields, clubhouse and stables. These descriptions concern the proposed setting; a particular villa's view and access arrangements depend on its plot."],
+      "locationNote":"The neighbourhood is in Grand Polo Club & Resort, Dubai. The brochure identifies Al Maktoum International Airport, Dubai Hills and Dubai Marina among its access destinations. Published journey times vary between the release documents; check an actual route from the selected villa rather than treating those minutes as guaranteed.",
+      "priceLabel":"Developer-published selection price",
+      "priceNote":"The official page's current selection starts at AED 7,282,888. Its historical headline still says AED 6.4m, while the Selvara 3 launch fact sheet states AED 6.49m. These are different published references, not simultaneous offers. Confirm a dated unit quotation and availability.",
+      "paymentNote":"The original schedule spreads 80% across booking and construction, with 20% on estimated completion. The final four construction instalments are linked to progress thresholds. Past dates are shown as launch terms; outstanding obligations must be recalculated for a current purchase.",
+      "handoverNote":"May 2029 is the estimate in Selvara 3's own payment sheet and Property Finder. Completion, possession and contractual handover requirements should be confirmed directly before purchase.",
+      "units":[
+        {"label":"4-bedroom villa · A Style 1","area":"3,819.46 sq ft total; 2,902.16 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · A Style 2","area":"3,832.27 sq ft total; 2,913.68 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · B Style 1","area":"3,651.87 sq ft total; 2,811.64 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · B Style 2","area":"3,689.97 sq ft total; 2,820.36 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch collection and averages","value":"138 four-bedroom villas. The launch sheet gives average BUA of 3,805 sq ft and an average plot of 3,718 sq ft. These averages do not describe every home or current inventory.","sourceIds":["facts"]},
+        {"label":"Three-level living","value":"The A Style 1 drawing places a guest bedroom and living/dining space on the ground floor, three bedrooms on the first floor, and a roof lounge with bathroom and terraces on the second. Carport and terrace/balcony areas contribute to the published total.","sourceIds":["plans"]},
+        {"label":"Availability needs a fresh check","value":"Property Finder carries a sold-out label while Emaar displays a priced selection. Neither is treated here as confirmation that a particular unit can be booked.","sourceIds":["finder","official"]},
+        {"label":"Correct phase documents","value":"The linked copies are labelled Selvara 3. The official page's shared-name downloads returned Selvara 4 documents during this review and have not been used for phase-three sizes.","sourceIds":["official","plans","brochure"]}
+      ],
+      "unresolved":["Confirm live stock, plot-specific quotation, fees, service charges and payment balance.","Obtain the current developer-issued Selvara 3 plan and specification for the chosen villa; public official download targets were mismatched.","Pool, retail, clubhouse and equestrian facilities may open in phases or carry separate access conditions.","Current construction progress and final occupation arrangements are not independently established.","All project imagery remains illustrative pending the separate image task."]
+    }
+  }
+}

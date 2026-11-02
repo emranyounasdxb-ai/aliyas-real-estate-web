@@ -1,0 +1,187 @@
+{
+  "id": "sobha-project-33",
+  "name": "Skyvue Spectra",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Skyvue Spectra is a residential tower within Sobha Hartland II, offering one- to three-bedroom apartments. Its triangular plan and stepped façade produce different outlooks and balcony arrangements across the building. The project’s own apartment drawings are distinct from neighbouring Skyvue releases and are kept separate in this record.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 2520000,
+    "handover": "March 2029 · developer guide",
+    "paymentPlan": "60/40 · attributed plan; reconfirm",
+    "amenities": [
+      "Leisure and infinity pools",
+      "Children's play area",
+      "Open cinema",
+      "Skate park",
+      "Art and music room",
+      "Library and reading room",
+      "Barbecue area",
+      "Jogging loop and gym"
+    ],
+    "brochureUrl": "https://drehomes.ae/sobha-skyvue-spectra-at-dubai/sobha-skyvue-spectra-brochure.pdf",
+    "floorPlanUrl": "https://drehomes.ae/sobha-skyvue-spectra-at-dubai/sobha-skyvue-spectra-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Skyvue Spectra · own developer page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyvue/spectra",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Skyvue Spectra · own branded brochure and plans · Drehomes-hosted copy",
+          "url": "https://drehomes.ae/sobha-skyvue-spectra-at-dubai/sobha-skyvue-spectra-brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "portal",
+          "label": "Attributed commercial reference · Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/skyvue-spectra",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "catalogue",
+          "label": "Sobha current property catalogue · date value only",
+          "url": "https://sobharealty.com/properties-in-uae",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 5
+        },
+        {
+          "id": "fy25",
+          "label": "Sobha Investor Update FY 2025 · historical handover year only",
+          "url": "https://sobharealty.com/sites/default/files/2026-01/Investor%20Update%20FY%202025_3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 7
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "brochure"
+        ],
+        "bedrooms": [
+          "official",
+          "brochure"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "catalogue",
+          "fy25",
+          "portal"
+        ],
+        "units": [
+          "brochure",
+          "official"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Skyvue Spectra identity checked against its own developer page and branded pack; neighbouring releases excluded.",
+        "location": "Source-supported project/community location reviewed; existing exact area used only where available.",
+        "residences": "Own advertised bedroom mix and plan configurations reviewed; furnished towers and duplexes explicitly distinguished where applicable.",
+        "areas": "Project-specific plan samples extracted; representative original PDF labels, tables and orientation diagrams visually inspected. Source inconsistencies recorded.",
+        "amenities": "Own developer project-page facilities reviewed; island/community amenities are labelled by their wider scope.",
+        "pricing": "Own current page starting guide captured on 31 October 2026, subject to inventory; not a verified unit quotation.",
+        "payment": "Available secondary commercial schedules compared, payment percentages total 100%; current official unit schedule unavailable unless explicitly stated.",
+        "handover": "Own dates and available commercial references reviewed; conflicts retained rather than guessed.",
+        "documents": "Own brochure/plan pack downloaded and representative tables visually inspected; payment-document search did not establish a current signed developer schedule."
+      },
+      "community": "Sobha Hartland II · Skyvue Spectra",
+      "overview": [
+        "One-bedroom Type A is a compact suite with a balcony, while the three-bedroom Type A has a different family layout. The branded pack lists unit orientations rather than promising one view for all apartments. Adjacent Skyvue Stellar and Solair plans are not substituted."
+      ],
+      "locationNote": "Sobha Hartland II, Dubai, as described in the developer’s own project materials. No nearby district is substituted for the project address.",
+      "priceLabel": "Developer-published starting guide · reconfirm",
+      "priceNote": "The own developer page fetched on 31 October 2026 advertises AED 2,520,000 from, subject to inventory availability. This is a published guide, not a checked available unit, valuation or binding offer. Other historical launch advertisements may use a different price or unit mix.",
+      "paymentNote": "Property Finder gives 20% launch deposit, 40% construction and 40% handover. The official page did not provide a current payment document; this plan is a portal reference and must be checked for the selected unit.",
+      "handoverNote": "Developer catalogue: March 2029. The FY 2025 developer snapshot also lists 2029, while Property Finder says August 2027. The newer official guide is retained as an estimate, not a guaranteed delivery.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "462.20 sq ft suite + 44.45 sq ft balcony = 506.65 sq ft total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A · webpage",
+          "area": "972.52 sq ft total saleable area",
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · webpage",
+          "area": "1,489.51 sq ft total saleable area",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · attributed example",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · attributed example",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover · attributed example",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The official page did not expose a direct brochure PDF link. The attached Skyvue Spectra branded pack is a public Drehomes-hosted copy, clearly attributed as such.",
+        "Current unit availability, signed payment dates, final specification and applicable service charges require developer/unit-specific confirmation."
+      ]
+    }
+  }
+}

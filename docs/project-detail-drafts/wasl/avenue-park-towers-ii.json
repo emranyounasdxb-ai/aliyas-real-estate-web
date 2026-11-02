@@ -1,0 +1,249 @@
+{
+  "id": "wasl-project-04",
+  "name": "Avenue Park Towers II",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Avenue Park Towers II brings apartments and duplexes to Wasl 1 in Al Kifaf, beside Zabeel Park. Tower A has one- and two-bedroom homes; Tower B adds maid’s rooms and larger duplex layouts, with separate rooftop facilities.",
+    "areaId": "dubai-al-kifaf",
+    "location": "Al Kifaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": "Q2 2030 · developer target",
+    "paymentPlan": "40/60 · developer reference",
+    "amenities": [
+      "Swimming pools",
+      "BBQ area",
+      "Children’s play area",
+      "Indoor and outdoor gyms",
+      "Sauna",
+      "Multipurpose room",
+      "Residents’ lounge"
+    ],
+    "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf",
+    "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_UNIT_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Avenue Park Towers II project guide",
+          "url": "https://www.wasl.ae/en/project/avenue-park-towers2",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Avenue Park Towers II official brochure · 57 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Avenue Park Towers II official factsheet · 3 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_FACTSHEET_0400.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "plans",
+          "label": "Avenue Park Towers II official unit plans · 38 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_UNIT_PLANS.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 125
+        },
+        {
+          "id": "floorplates",
+          "label": "Avenue Park Towers II official floorplates · 14 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_FLOOR_PLANS_1609.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "broker",
+          "label": "Remington Avenue Park Towers II commercial references",
+          "url": "https://remington.ae/avenue-park-towers-ii-2-by-wasl-wasl-1-dubai/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "price": [
+          "broker"
+        ],
+        "priceLabel": [
+          "broker"
+        ],
+        "priceNote": [
+          "broker"
+        ],
+        "handover": [
+          "facts"
+        ],
+        "handoverNote": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "facts": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "unresolved": [
+          "facts",
+          "plans",
+          "broker"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact protected Avenue Park Towers II, not original Avenue Park Towers. Own project page and public broker kit retrieved 200 ordinary GET, no registration submitted. Current page now has full mix and 40/60, unlike stale early-announcement secondary pages.",
+        "location": "Own page explicitly Wasl 1 in Al Kifaf beside Zabeel Park, Dubai Metro walking distance. No guessed coordinates or journey guarantees; exact central dubai-al-kifaf registry.",
+        "residences": "Official facts 2: Tower A 135 one-BR +270 two-BR=405; Tower B 74 two-BR maid +50 three-BR maid +6 three-BR duplex +6 four-BR duplex=136, 541 total. Actual 29 unit-plan panels visually read, duplex lower/upper inspected, maid excluded from bedrooms.",
+        "areas": "All 29 actual numeric panels at 1500px read. Hidden engineering text contains stale duplicated unrelated values (e.g. 1BR B wrongly 1350.33); visible final panels used. Actual ranges 857.35–1503.72/1301.46–3256.19/1598.44–1779.92/2039.76–2118.55/3138/4408.47. Repeated multilevel total not added. Plan 4 visible 797.39+708.27=1505.66 versus 1503.72; smaller 0.01 differences retained. Facts/main rounded ranges differ from final plans explicitly. Independent visual review also confirmed Plan7 malformed suite text79739.40ft², while published total894.91 remains unchanged; public note added.",
+        "amenities": "Own current named pool/BBQ/play/indoor-outdoor gym/sauna/multifunction/lounge verified. Facts 2 shared versus Tower B exclusive rooftop facilities visually read. Actual 3BR duplex lower 34 note pool ONLY 2305/2505/2705, not all six. 4BR lower 36 shows bedroom 4/pool/lift, upper 37 completes family. No room furnishing/appliance entitlements invented.",
+        "pricing": "No own current price list found in public kit (brochure/facts/floorplates/unitplans). Remington 1.9m attributed secondary entry, price NULL, no selected resale quote used as project price. Early GRAF no-price summary stale.",
+        "payment": "Own current page explicit 40 during/60 handover, two-stage sum 100. Public kit has no payment sheet. Remington 10 booking +six 5 +60 ends 30 June 2030 corroborates 40/60 only; exact dates not adopted as contractual. Older GRAF 60/40 DLD-derived unconfirmed contradictory not preferred over current own.",
+        "handover": "Own original facts 2 and brochure 55 explicit Q2 2030 developer target. Secondary DLD-derived pages March 2030 conflict with own current phase pack, not actual completion proof. No progress percentage invented.",
+        "documents": "Own public /en/avenue-park-towers2/brokers-kit links 57p brochure, 3p facts, 14p floorplates, 38p unitplans all 200; actual numeric and facts panels saved and viewed. Brochure 55 duplicates facts 2, no new budget; facts75+plans125=200 pooled all. No generic upcoming/community derivative copy."
+      },
+      "community": "Wasl 1",
+      "locationNote": "Wasl 1, Al Kifaf, adjacent to Zabeel Park and within walking distance of the Metro.",
+      "overview": [
+        "The factsheet identifies 541 planned homes: 405 in Tower A and 136 in Tower B. These are design counts, not current inventory."
+      ],
+      "priceLabel": "Current official quotation required",
+      "priceNote": "Remington advertises an AED 1.9m entry reference. No current developer price list or available-unit quotation was retrieved.",
+      "handoverNote": "Official factsheet target; confirm the selected home’s contractual date.",
+      "paymentNote": "Wasl publishes 40% during construction and 60% on handover. A signed unit calendar was not retrieved; broker instalment dates remain unconfirmed.",
+      "units": [
+        {
+          "label": "Tower A · 1BR",
+          "area": "857.35–1,503.72 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 2BR",
+          "area": "1,301.46–3,256.19 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · 2BR + maid",
+          "area": "1,598.44–1,779.92 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · 3BR + maid",
+          "area": "2,039.76–2,118.55 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · 3BR duplex + maid",
+          "area": "3,138.00 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · 4BR duplex + maid",
+          "area": "4,408.47 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 60,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Tower B rooftop",
+          "value": "Exclusive pool, studio gym and lounge with coworking.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Factsheet ranges differ from the unit pack: 1BR maximum 1,507 versus 1,503.72 ft²; 2BR 3,215 versus 3,256.19; 3BR 2,123 versus 2,118.55. Confirm approved drawings.",
+        "Plan 4 prints 1,503.72 ft² although 797.39+708.27=1,505.66. Plan 7 has a malformed 79739.40 ft² suite figure. Other component totals differ by 0.01 ft². Duplex totals cover both levels.",
+        "The 3BR duplex pool applies only to units 2305, 2505 and 2705. Do not assume every duplex has a pool.",
+        "Current stock, official prices, service charges, allocated parking and binding payment dates remain unverified."
+      ]
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "emaar-project-08",
+  "name": "Serro",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Serro offers three to five bedroom villas within The Heights Country Club and Wellness. Emaar presents a neighbourhood of gardens, terraces and outdoor exercise spaces, with Mediterranean influences in the white facades and warm finishes. Its villa layouts include multi-level family homes, with different amounts of living space, carport area and terraces.",
+    "areaId": "dubai-the-heights",
+    "location": "The Heights Country Club and Wellness",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "3–5",
+    "price": 6000000,
+    "handover": "Q1 2030 reported",
+    "paymentPlan": "80/20 reported",
+    "amenities": [
+      "Community wellness centre",
+      "Meditation garden",
+      "Wellness lake and promenade",
+      "Community private beach",
+      "Fitness area",
+      "Yoga lake",
+      "Social terrace"
+    ],
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Serro",
+          "url": "https://www.emaar.com/en/properties/serro-at-the-heights-country-club-and-wellness",
+          "kind": "developer",
+          "derivedWords": 190,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: The Heights community brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/PHASE_1_SALVA_and_SERRO_brochure_2117fa6bf5.pdf",
+          "kind": "official-document",
+          "derivedWords": 0,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "plans",
+          "label": "Emaar: The Heights shared floor plans",
+          "url": "https://www.emaar.com/cms-media/uploads/PHASE_1_SALVA_and_SERRO_floorplan_681410bc78.pdf",
+          "kind": "official-document",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Serro unit types and terms",
+          "url": "https://www.bayut.com/for-sale/property/dubai/the-heights-country-club-and-wellness/serro/",
+          "kind": "portal",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "payment-copy",
+          "label": "Serro launch payment sheet · broker-hosted copy",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2026/01/Emaar-The-Heights-SERRO-Payment-plan.pdf",
+          "kind": "broker",
+          "derivedWords": 170,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "bayut"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official"
+        ],
+        "units": [
+          "plans",
+          "bayut"
+        ],
+        "documents": [
+          "official"
+        ],
+        "paymentPlan": [
+          "bayut",
+          "payment-copy"
+        ],
+        "handover": [
+          "bayut",
+          "payment-copy"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Serro page independently matched; Serro 2 and Salva retained as separate records.",
+        "location": "The Heights community confirmed officially; E611/E77 access corroborated with Bayut's Serro project description.",
+        "residences": "Official three to five bedroom villas; Serro Types A/C identified by Bayut and measured against the shared developer plan booklet.",
+        "areas": "All 19 pages of the official shared Heights floor plan booklet reviewed; Type A/C totals transcribed. Total includes carports and terraces/balconies, not plot area.",
+        "amenities": "Official project facilities retained as community amenities, with no unit-level private pool guarantee.",
+        "pricing": "Official advertised AED 6 million starting figure recorded with no stock claim.",
+        "payment": "Bayut 10/70/20 corroborated with Emaar-branded Serro launch payment sheet hosted by Petkovic; original schedule shown, current terms require confirmation.",
+        "handover": "Bayut Q1 2030 agrees with the Serro payment sheet's March 2030 estimated construction completion. No current contractual date obtained.",
+        "documents": "Official linked 33-page community brochure and 19-page shared floor-plan booklet read; phase-specific payment-sheet copy read separately. Images not imported."
+      },
+      "community": "The Heights Country Club and Wellness",
+      "overview": [
+        "The plan totals include carports and outdoor terraces, so they are not the same as enclosed living space or land area. Compare the floor-by-floor breakdown and the selected plot before deciding which home offers the room you need."
+      ],
+      "locationNote": "Serro is within The Heights Country Club and Wellness, with access towards Emirates Road (E611) and E77. Check the actual route from the selected cluster to work, school and daily services; the community address alone does not establish a commute time.",
+      "priceLabel": "Advertised from",
+      "priceNote": "Emaar advertises Serro from AED 6,000,000. This is a project starting-price reference. A particular villa’s plot, type and sales release may carry a different price, and available units require a current quotation.",
+      "paymentNote": "The broker-hosted Emaar-branded Serro launch sheet shows 10% on booking, seven instalments of 10%, and 20% at estimated construction completion. Bayut reports the same 10/70/20 split. The dates below belong to the original launch schedule; request the terms for a new purchase rather than assuming past instalments still apply.",
+      "handoverNote": "The Serro launch sheet targets March 2030 for construction completion, consistent with Bayut’s Q1 2030 reference. This is a published estimate from a copied launch document, not confirmation of the contractual handover date or the day keys will be available.",
+      "units": [
+        {
+          "label": "3 bedroom villa · Types A/C",
+          "area": "3,340.04–3,463.07 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4 bedroom villa · Types A/C",
+          "area": "4,302.22–4,312.45 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5 bedroom villa · Types A/C",
+          "area": "5,760.52–5,884.30 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · launch schedule",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "March 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "September 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "September 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "March 2028 · 40% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "August 2028 · 60% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "January 2029 · 80% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        },
+        {
+          "stage": "March 2030 · estimated construction completion",
+          "percent": 20,
+          "sourceIds": [
+            "payment-copy"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Current developer-issued payment terms, contractual completion date and selected villa availability.",
+        "Plot area, parking arrangements, pool inclusion, finishes and service charges for the specific villa.",
+        "Shared plan booklet contains several villa families; confirm the plan code assigned to the selected Serro plot.",
+        "Official photography will be added later; current images are illustrative."
+      ]
+    },
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/PHASE_1_SALVA_and_SERRO_brochure_2117fa6bf5.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/PHASE_1_SALVA_and_SERRO_floorplan_681410bc78.pdf"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id":"emaar-project-99","name":"Velora 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Velora 2 is a three- and four-bedroom townhouse release in The Valley’s second phase. Contemporary homes sit within a gated neighbourhood shaped by green spaces, walking routes and outdoor recreation. This release has its own Ravine, Serene and Nash layouts, separate from the earlier Velora collection.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2930000,"handover":"Q3 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Adult and children’s swimming pools","Fitness centre","Landscaped gardens","Children’s play areas","Barbecue and picnic areas","Community centre","Community garden","Games and fitness pod","Sports courts","Flexible lawn","Cycling and jogging routes","Wider-community retail and skate park"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/VELORA-2_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VELORA-2_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Velora 2 at The Valley Phase 2","url":"https://www.emaar.com/en/properties/velora-2-at-the-valley-phase-2","kind":"developer","checkedOn":"2026-10-31","derivedWords":160},
+        {"id":"brochure","label":"Emaar: Velora 2 brochure","url":"https://www.emaar.com/cms-media/uploads/VELORA-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"plans","label":"Emaar: Velora 2 floor plans","url":"https://www.emaar.com/cms-media/uploads/VELORA-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"facts","label":"Emaar Velora 2 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/velora-2/VELORA2_TV_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"payment","label":"Emaar Velora 2 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/velora-2/VELORA2_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"cluster","label":"Emaar Velora 2 cluster map, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/velora-2/VELORA2_CLUSTERMAP_TV.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"finder","label":"Property Finder: Velora Phase 2 by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/velora-2","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+      ],
+      "fieldSources":{"description":["official","plans"],"overview":["brochure","cluster"],"location":["official"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","cluster"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans","facts","payment","cluster"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Velora 2 checked separately from Velora and Venera.",
+        "location":"The Valley phase two and Dubai–Al Ain Road setting checked.",
+        "residences":"Three/four-bedroom townhouses in three styles and four-home blocks confirmed.",
+        "areas":"All twelve official plan tables visually checked; suite and total area distinguished.",
+        "amenities":"Own cluster map checked alongside brochure and developer amenity descriptions.",
+        "pricing":"AED 2.93m starting reference and AED 3.37m four-bedroom launch reference verified.",
+        "payment":"Nine dated stages and construction milestones checked visually; sum 100%.",
+        "handover":"July 2028 payment-sheet estimate corroborated by Property Finder.",
+        "documents":"Official brochure/plans and attributed Emaar-branded fact sheet, payment and cluster files reviewed."
+      },
+      "community":"The Valley · phase two",
+      "overview":["The brochure describes light-filled interiors, a neutral palette and shared leisure facilities. Adult and children’s pools sit alongside a fitness centre, play areas and places for outdoor dining. The larger Valley masterplan includes further parks and cycling routes; their delivery and access should be checked separately from the townhouse purchase.","Velora 2’s own cluster map identifies a community centre, community garden, flexible lawn and games-and-fitness pod. Sports courts and children’s spaces are distributed around the neighbourhood. These local features help distinguish a plot’s immediate surroundings from the wider community amenities."],
+      "locationNote":"Velora 2 is part of The Valley along the Dubai–Al Ain Road corridor. Compare the exact home’s position, entrance route and connection to green spaces; the master-community address alone does not establish walking distance or commute time.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 2.93m. The launch fact sheet lists three-bedroom homes from AED 2.93m and four-bedroom homes from AED 3.37m. These figures are historical starting references rather than live inventory quotations.",
+      "paymentNote":"The October 2024 launch schedule totals 80% before completion and 20% at completion. It includes construction-linked instalments. Current outstanding amounts, revised dates and resale terms need confirmation for the chosen home.",
+      "handoverNote":"The payment sheet estimates July 2028; Property Finder also gives July 2028. This remains a forecast subject to contractual terms and a current developer update.",
+      "units":[
+        {"label":"Ravine · 3 bedrooms / 4 bedrooms","area":"Total 2,514.34 / 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Serene · 3 bedrooms / 4 bedrooms","area":"Total 2,514.34 / 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Nash · 3 bedrooms","area":"Total 2,456.86–2,460.41 sq ft","sourceIds":["plans"]},
+        {"label":"Nash · 4 bedrooms","area":"Total 2,695.28–2,697.86 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"October 2024 · launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"December 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch unit mix","value":"The fact sheet lists 312 homes, split equally between 156 three-bedroom and 156 four-bedroom townhouses. This is the launch mix, not availability.","sourceIds":["facts"]},
+        {"label":"Arrangement","value":"Plans show two-level homes in four-unit blocks, with three bedrooms in the middle and four bedrooms at the ends. Maid’s rooms, carports and terraces are included in the drawings.","sourceIds":["plans"]},
+        {"label":"Area basis","value":"Totals include suite, garage and balcony/terrace space. Suite areas are approximately 1,981.85–1,982.28 sq ft for three bedrooms and 2,218.66–2,221.45 sq ft for four; land area is separate.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The fact sheet’s prose inconsistently calls all homes four-bedroom semi-detached units; its mix table and official plans clearly show three/four-bedroom homes in four-unit blocks.",
+        "Commercial and cluster documents are Emaar-branded broker-hosted copies. Current payment obligations, plot measurements, service charges and final specifications require developer confirmation.",
+        "No live inventory or independently verified current construction percentage is asserted. Wider-community facilities may have separate delivery dates, and existing site photography remains illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "id": "deyaar-project-09",
+  "name": "Eleve",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Eleve is Deyaar’s apartment tower in Downtown Jebel Ali, on Sheikh Zayed Road. Studios and one- to three-bedroom homes sit above retail and shared leisure spaces, while selected garden apartments provide larger terraces.",
+    "areaId": "dubai-downtown-jebel-ali",
+    "location": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 555458,
+    "handover": "Q2 2027 · developer target",
+    "paymentPlan": "70% by handover / 30% afterwards · original terms",
+    "amenities": [
+      "Residents lounge",
+      "Club room",
+      "Gym",
+      "Swimming pool",
+      "Children’s pool",
+      "Outdoor dining and BBQ",
+      "Ground-floor retail"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Brochure_V7.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2024/02/ELEVE_Floorplans_FINAL_2.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar Eleve project guide",
+          "url": "https://www.deyaar.ae/en/properties/eleve-by-deyaar/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "launch",
+          "label": "Deyaar Eleve launch · 27 February 2024",
+          "url": "https://feeds.dfm.ae/documents/2024/Feb/27/3828dcad-622d-4fc7-b905-c9eab9ad1fc4/DEYAAR%20PR%20E%2027%2002%2020.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar Eleve construction update",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 17
+        },
+        {
+          "id": "brochure",
+          "label": "Eleve official bilingual brochure",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Brochure_V7.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Eleve official launch factsheet",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/Eleve_Factsheet_V7.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 115
+        },
+        {
+          "id": "plans",
+          "label": "Eleve official detailed floor plans",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2024/02/ELEVE_Floorplans_FINAL_2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Eleve project comparison",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/eleve-by-deyaar",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "locationNote": [
+          "facts",
+          "launch"
+        ],
+        "overview": [
+          "plans",
+          "construction"
+        ],
+        "price": [
+          "facts"
+        ],
+        "priceLabel": [
+          "facts"
+        ],
+        "priceNote": [
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "launch",
+          "construction"
+        ],
+        "handoverNote": [
+          "facts",
+          "developer"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts"
+        ],
+        "paymentStages": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "plans",
+          "facts",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Eleve page/linkedfacts/brochure andissuer27Feb2024release establish protected Eleve byDeyaar. ExactIDs retained. PortalDeyaarLeasinglabelnotownerchange.",
+        "location": "Primarypage DowntownJebelAli, SheikhZayedRoad. Officialfacts3Zone1; existingexactDowntownJebelAliregistry. NoJAFZAorBusinessBaymisclassification.",
+        "residences": "Ownstudio1/2/3mix, launch33residentialfloors (not assumedtotal38). Own51pageplans45numericfamilies:2studio,15onebedapartments+1garden,16twobedapartments+2garden,6threebedapartments+3garden. Actualrepresentativefullplansread; maidroomsnotbedrooms.",
+        "areas": "Every45numericalpanel visuallyread usingboundedcontacts, sevenproductfamiliesgrouped. Actualplan3BRgarden1C2946 differs ownfacts/main2938 upperend; publicnote. 1BR1C676+114=790vs791,1D678+87=765vs766,1K682+156=838vs837,2BR1A1019+142=1161vs1162,4A1048+163=1211vs1212,5C1018+86=1104vs1103,3BRgarden2B1528+700=2228vs2229. Printedtotalsretained,1sqftdifferencesnotcorrected.",
+        "amenities": "Primarymainowncarousel supportssevenfeatures adopted; facts5panel visuallycorroborates. Issuerlaunchalsojacuzzi/multipurposehall/fourcoveredparkinglevels, butnoindividualparkingallocationassumed.",
+        "pricing": "Ownfacts8publishedstartingstudio555458,1BR882648,2BR1356568,3BR2220020. Historicalonly555458headline. PFcurrentdescription1479767/headline1.5m reflects different availablemix, notdirectsameunitpricechange; noavailabilityclaimed.",
+        "payment": "Actualfacts8 originalbooking10+six8datesJun/Dec2024/2025/2026+12May2027+30over30months1percentmonthly=100. Headline70byhandover/30after clearlynot70duringconstruction. No freshcontractassumed.",
+        "handover": "Issuerlaunchandcurrentconstruction Q22027. Primarymainend30Jun2027; factsoriginalhandoverMay2027. Samequarterbutmonthvariationexplicit. Noactualcompletionclaim. Constructionsharedpage17wordallocation, primarymainprogresspercentnotvisible/nopercentinferred.",
+        "documents": "Ownmain direct67pdouble-spreadbrochure125MB and10pfacts; publicWPmedia discover51pplans3.7MB. All downloadedordinary200;brokercompressedmirror inspectedthenofficialprimaryused. UnderlyingallofficialPDFpool200inclplans/facts/brochure, brochure0corroboration. Genericcommunity0."
+      },
+      "community": "Downtown Jebel Ali",
+      "locationNote": "Downtown Jebel Ali, Zone 1, Sheikh Zayed Road, Dubai.",
+      "overview": [
+        "Garden apartments add outdoor space; compare the internal and total areas separately.",
+        "The developer reports Level 1 slab casting completed."
+      ],
+      "priceLabel": "Historical studio launch reference",
+      "priceNote": "The original factsheet starts studios at AED 555,458. Property Finder now quotes AED 1,479,767 for its advertised mix; this is not equivalent current studio pricing.",
+      "paymentNote": "Historical calendar; confirm remaining contractual instalments.",
+      "handoverNote": "Original factsheet: May 2027; project page: 30 June 2027. Both fall within the developer’s Q2 target.",
+      "units": [
+        {
+          "label": "Studios · two types",
+          "area": "409–424 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR apartments · fifteen types",
+          "area": "750–1,047 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR garden · 1L",
+          "area": "1,059 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR apartments · sixteen types",
+          "area": "1,072–1,318 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR garden · 1B/1C",
+          "area": "1,782–1,907 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR apartments · six types",
+          "area": "1,633–1,697 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR garden · 1B/1C/2B",
+          "area": "2,229–2,946 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "30 June 2024",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 December 2024",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "30 June 2025",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 December 2025",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "30 June 2026",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "31 December 2026",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Original handover · May 2027",
+          "percent": 12,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "After handover · 30 months, 1% monthly",
+          "percent": 30,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Plans print a 2,946 ft² garden home; the factsheet/project summary caps sizes at 2,938 ft². Confirm the approved unit drawing.",
+        "Some rounded component sums differ by 1 ft²; printed totals retained.",
+        "Current stock, revised offers, service charges, furnishing inclusions and unit-specific parking allocations were not verified."
+      ]
+    }
+  }
+}

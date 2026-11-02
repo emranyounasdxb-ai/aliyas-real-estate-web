@@ -1,0 +1,318 @@
+{
+  "id": "imtiaz-project-26",
+  "name": "Sunset Bay by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "One- and two-bedroom apartments and three-bedroom duplexes in Dubai Islands, with rooftop recreation and landscaped terraces.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "Q4 2026",
+    "paymentPlan": "Published 60 / 40 reference",
+    "amenities": [
+      "Rooftop swimming pool",
+      "Pool deck",
+      "Clubhouse",
+      "Gym",
+      "Outdoor cinema",
+      "Water lounges",
+      "Jacuzzi",
+      "Children’s play area",
+      "Outdoor dining and barbecue",
+      "Yoga area"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sunset Bay · current Imtiaz project and FAQ",
+          "url": "https://imtiaz.ae/property/sunset-bay-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Sunset Bay · branded 40-page brochure, public broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "facts",
+          "label": "Sunset Bay · branded five-page factsheet, public broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Sunset Bay · branded eight-page building plans, public broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "payment",
+          "label": "Sunset Bay · original dated payment calendar, public broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-1/SUNSET_BAY_1_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "portal",
+          "label": "Bayut · Sunset Bay launch catalogue",
+          "url": "https://www.bayut.com/for-sale/property/dubai/dubai-islands/sunset-bay-by-imtiaz/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "broker",
+          "label": "Mitchell’s · Sunset Bay One document directory and registry summary",
+          "url": "https://www.mitchellscommercialrealty.com/projects/sunset-bay-1",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "overview": [
+          "facts",
+          "brochure",
+          "developer"
+        ],
+        "units": [
+          "facts",
+          "brochure",
+          "developer"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "broker"
+        ],
+        "paymentPlan": [
+          "developer",
+          "payment",
+          "facts"
+        ],
+        "paymentStages": [
+          "developer",
+          "payment",
+          "facts"
+        ],
+        "paymentNote": [
+          "developer",
+          "payment",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "facts": [
+          "facts",
+          "brochure",
+          "plans",
+          "developer"
+        ],
+        "unresolved": [
+          "developer",
+          "facts",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected26originalSunsetBay/SunsetBayOne, notphase2/3/4/5/Grand. Original40pbroch/5pfacts/8pplans/1ppay samephase; original66 notliveinventory.",
+        "location": "OwnprojectandFAQexplicitDubaiIslands; existingexactareaID retained. No inventedplotcoordinate/view/beachaccess/journeytime.",
+        "residences": "OwnFAQ1/2/3BRduplex, actualbrochure37/facts5 mix32+32+2=66. Plansall8pagesvisuallyread: groundduplexlower/firstpodiumupper withmaid, nottwohomes orfourbedrooms; secondpodiumclubhouse/gym; floors1,2/4/6/8,3/5/7 showone/two families, rooftoprecreation. No extraresidentialfloor invented from schematic RF label.",
+        "areas": "Actualbrochure37/facts5 numericranges1BR950–1270,2BR1350–2690,3BRduplex2090–2370; currentFAQsameapproximate. Entireduplexrangesnotdoubled. Buildingplansnoaggregate/suite/balconynumerics; individualmeasuredvariantsunavailable, no scaledarea calculation.",
+        "amenities": "CurrentownFAQ/amenitysectionlistedplannedfacilities; actualplans4podiumclubhousegym and8roofpool/deck/green/seating. Selecteddrawingsprivatejacuzzi/poolnotuniversalpromise. Furniture/appliances/parkingallocationnotassumed.",
+        "pricing": "Currentownmainnoheadlineprice. Bayutlaunch1.7msecondaryhistorical notlivequote; currentlistingaskingpricesnotdeveloperstock. PriceNULL.",
+        "payment": "Actualfacts5/payment1calendarvisuallyread20booking+5Mar15 2025+5Jul15+10Nov15+10Mar15 2026+10Jul15+40Nov2026completion=100. OwnFAQ20/40/40matches. Originaldatedcalendarhistoricalnotnewduepayments; noposthandoveroptioninvented.",
+        "handover": "OwnFAQNovember2026/constructionQ42026; brokerregistrysummaryDec25 2026 variationbothQ4reportedwithoutadoptingcertifieddate. ActualordinaryGET97overall/96finishing/100MEP/100superstructure/100substructure undated; webindexed95/94/98oldernotcurrent. Bayutold64/78snapshotnotreplacementcurrentown. No100componentreadinessclaim.",
+        "documents": "OwnbuttonscontactformwithfileIDs, noformsubmit/gatedendpoint. ExactpublicpublishedMitchellslinks200:40p48.39MBbroch,5p1.10MBfacts,8p5.14MBplans,1p0.575MBpay. AllPDFtextextracted, actualnumericbrochure37/38,facts5,pay1 andallplans1–8visuallyread. LocatorPDFretrievedbutnofactsadopted. RelatedPDFpublicderivedpool200 allocated30/40/30/100, mirrorclassifiedbroker. Imagesdeferred. SharedSunset23/26commongeometry/materialpool:26common100+23common100=200; phase-specific26payment100separate. No phase2datesadopted."
+      },
+      "community": "Dubai Islands",
+      "overview": [
+        "The original release contains 66 homes, including two three-bedroom duplexes with maid’s rooms."
+      ],
+      "locationNote": "Dubai Islands. Confirm the selected apartment’s outlook; a location near the coast does not establish direct beach access.",
+      "priceLabel": "Current developer quotation required",
+      "priceNote": "No live developer price published. Bayut records an AED 1.7 million launch price; current availability and selected-unit terms need confirmation.",
+      "paymentNote": "Original dated calendar, not a new instalment offer. The current developer FAQ retains 20% booking, 40% staged and 40% completion.",
+      "handoverNote": "Imtiaz expects November 2026. The broker registry summary retains December 2026; both fall in Q4. Neither establishes certified completion.",
+      "units": [
+        {
+          "label": "1BR · published range",
+          "area": "950–1,270 ft²",
+          "sourceIds": [
+            "developer",
+            "facts",
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · published range",
+          "area": "1,350–2,690 ft²",
+          "sourceIds": [
+            "developer",
+            "facts",
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR duplex + maid · published range",
+          "area": "2,090–2,370 ft²",
+          "sourceIds": [
+            "developer",
+            "facts",
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original release",
+          "percent": 20,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 March 2025",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 July 2025",
+          "percent": 5,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 November 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 March 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "Completion · November 2026 forecast",
+          "percent": 40,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original release mix",
+          "value": "32 one-bedroom, 32 two-bedroom and two three-bedroom duplex homes; 66 total.",
+          "sourceIds": [
+            "facts",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Building plans",
+          "value": "Duplexes span ground and first podium levels. The second podium contains recreation spaces.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Website progress snapshot",
+          "value": "97% overall when checked; no inspection date stated. This is not a completion certificate.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Individual measured unit schedules and suite/balcony breakdowns were not retrieved.",
+        "Confirm stock, charges, parking, current payment dates, specification and certified handover. Photography is illustrative."
+      ]
+    }
+  }
+}

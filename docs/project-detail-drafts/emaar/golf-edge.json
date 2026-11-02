@@ -1,0 +1,64 @@
+{
+ "id":"emaar-project-20","name":"Golf Edge","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Edge brings one to three bedroom apartments and a small collection of three bedroom townhouses to Emaar South. Its understated architecture pairs earthy colours with natural materials. Outdoor spaces focus on the pool, landscaped lawns and places to exercise, with the wider golf community forming the setting.",
+  "areaId":"dubai-south","location":"Dubai South","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1170000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Landscaped lawns","Outdoor gym","Yoga deck","Jogging track","Outdoor barbecue area","Indoor multipurpose room","Children’s play area","Table tennis","Controlled access"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/397817_brochure_File_2166e8a7ea_prod.pdf",
+  "floorPlanUrl":"https://www.madena.ae/api/assets/documents/projects/golf-edge/floor-plans/b8dfbbb133a0637d.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Edge at Emaar South","url":"https://www.emaar.com/en/properties/golf-edge-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Golf Edge brochure","url":"https://www.emaar.com/cms-media/uploads/397817_brochure_File_2166e8a7ea_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":140},
+    {"id":"plans","label":"Golf Edge Emaar floor plans · Madena-hosted copy","url":"https://www.madena.ae/api/assets/documents/projects/golf-edge/floor-plans/b8dfbbb133a0637d.pdf","kind":"portal","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"facts","label":"Golf Edge launch fact and payment sheet · Dubai Listing-hosted copy","url":"https://dxblisting.com/wp-content/uploads/2025/04/EMAAR-SOUTH-GOLF-EDGE-FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"finder","label":"Property Finder: Golf Edge payment and completion","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-edge","kind":"portal","checkedOn":"2026-10-31","derivedWords":45},
+    {"id":"revision","label":"GCC Offplan: alternative published instalment dates","url":"https://gccoffplan.com/project/golf-edge/","kind":"broker","checkedOn":"2026-10-31","derivedWords":45}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official"],"units":["plans"],"documents":["official","plans"],"paymentPlan":["facts","finder","revision"],"handover":["facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Edge distinguished from Golf Acres, Golf Point and later Emaar South launches; official project page and own named documents reviewed.",
+    "location":"Emaar South within canonical Dubai South. Official brochure context used; contradictory Dubai–Al Ain Road marketing line omitted.",
+    "residences":"One to three bedroom apartments and three bedroom townhouses, with separate type rows.",
+    "areas":"All 18 plan pages reviewed; image-only page 18 visually read. Plan totals include balcony/terrace. Launch sheet’s apartment maximum incorrectly includes townhouse-sized area; exact plan ranges used.",
+    "amenities":"Official project facilities distinguished from wider Emaar South golf, retail and community-park offerings.",
+    "pricing":"Official advertised AED 1,170,000 retained. Historical type prices attributed to launch sheet; no stock claim.",
+    "payment":"Launch fact sheet read and visually checked: nine stages total 100%. PF corroborates 10/70/20. Alternative broker dates disclosed rather than merged.",
+    "handover":"February 2029 in launch sheet and PF, shown as reported Q1 2029 target.",
+    "documents":"Official 19-page brochure; developer-branded 18-page plans hosted by Madena; accessible one-page launch sheet hosted by Dubai Listing. Broken older plan links rejected. No imagery changed."
+   },
+   "community":"Emaar South",
+   "overview":["The brochure places the pool and outdoor leisure areas around a raised podium, with landscaped lawns and exercise spaces complementing the homes. Emaar South’s golf course, clubhouse, retail and community-park proposals provide the wider neighbourhood context. Access conditions and opening dates for these facilities need separate confirmation."],
+   "locationNote":"Golf Edge is in Emaar South, within Dubai South and near Al Maktoum International Airport. The brochure maps it within this southern Dubai community. Specific commuting times should be checked for the intended route and time of day.",
+   "priceLabel":"Advertised from",
+   "priceNote":"Emaar advertises a starting price of AED 1,170,000. This is a project headline, not confirmation of an available home at that price. Request the chosen unit’s current quotation and applicable charges.",
+   "paymentNote":"The table reproduces the January 2025 launch schedule. GCC Offplan publishes different early dates: April 2025, September 2025 and February 2026. Both versions retain an 80/20 split; neither establishes the terms of a new booking.",
+   "handoverNote":"The launch sheet targets February 2029 for construction completion, also reported by Property Finder. The contractual handover and current progress require confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"795.67–966.92 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,181.45–1,409.21 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,641.07–2,167.96 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"2,965.03–2,987.42 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · January 2025 launch","percent":10,"sourceIds":["facts"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["facts"]},
+    {"stage":"September 2026 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2027 · 40% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"August 2027 · 60% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2028 · 80% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2029 · estimated construction completion","percent":20,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The launch sheet lists 95 one bedroom, 58 two bedroom and 26 three bedroom apartments, plus five townhouses: 184 homes at launch, not current availability.","sourceIds":["facts"]},
+    {"label":"Historical type prices","value":"Launch prices began at AED 1.17 million, 1.73 million and 2.50 million for one, two and three bedroom apartments; three bedroom townhouses started at AED 4.75 million.","sourceIds":["facts"]},
+    {"label":"Townhouse layout","value":"The two-level plans show living, kitchen, maid’s room, laundry and store at the lower level, with three bedrooms upstairs. Total area includes terraces and balconies; it is not internal living area alone.","sourceIds":["plans"]},
+    {"label":"Building arrangement","value":"The plan key section identifies ground and podium levels below 12 residential floors. The townhouse plans occupy ground and podium levels.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current unit availability, exact selling price, view and contractual payment dates.","Current construction progress and contractual handover; February 2029 remains a reported target.","Final parking allocation, service charges, finish specifications and golf-club access terms.","Published summary areas and early instalment dates vary; use the selected unit’s signed documents.","Official imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

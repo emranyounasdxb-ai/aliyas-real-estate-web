@@ -1,0 +1,1430 @@
+{
+  "developerSlug": "mag",
+  "projects": [
+    {
+      "id": "mag-project-01",
+      "slug": "keturah-ardh",
+      "developerSlug": "mag",
+      "name": "Keturah Ardh",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": "Keturah Ardh is a planned community in Al Rowaiyah First District. Its first release comprises townhouse-development plots arranged around shared landscape and leisure spaces, rather than a verified catalogue of finished homes.",
+      "areaId": "dubai-al-rowaiyah-first",
+      "location": "Al Rowaiyah First District",
+      "emirate": "Dubai",
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": "2030",
+      "paymentPlan": null,
+      "amenities": [
+        "Planned padel courts",
+        "Planned gym",
+        "Planned yoga spaces",
+        "Planned barbecue areas",
+        "Planned pools",
+        "Planned children’s park",
+        "Planned retail and dining"
+      ],
+      "brochureUrl": "https://www.fullstory.ae/api/public-project-documents/2929-1",
+      "floorPlanUrl": "https://magit.blob.core.windows.net/renders/KeturahArdh/Phase1_THPlots/FloorPlan/Ardh-TH01_35.jpg",
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "mag-project-01"
+      ],
+      "nameSource": {
+        "url": "https://keturah.global/ardh/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Ardh: developer master-community page",
+            "url": "https://keturah.global/ardh/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 120
+          },
+          {
+            "id": "release",
+            "label": "Ardh phase-one sales and programme: developer release, 25 February 2026",
+            "url": "https://www.keturah.global/press-ardh-first-phase-sold/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Ardh: branded 35-page brochure, broker-hosted",
+            "url": "https://www.fullstory.ae/api/public-project-documents/2929-1",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 70
+          },
+          {
+            "id": "drawing",
+            "label": "Phase-one plot 35: original MAG development-control drawing",
+            "url": "https://magit.blob.core.windows.net/renders/KeturahArdh/Phase1_THPlots/FloorPlan/Ardh-TH01_35.jpg",
+            "kind": "official-document",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 60
+          },
+          {
+            "id": "offer",
+            "label": "Phase-one plot 35: expired MAG offer, 12 November 2025",
+            "url": "https://sales.mag.ae/Offer/eb37376f-3243-484d-b774-4cd533b23766.html",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 70
+          },
+          {
+            "id": "fam",
+            "label": "Ardh: fäm Properties project FAQ",
+            "url": "https://famproperties.com/faqs/mag-keturah-ardh-prices",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 25
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer",
+            "release"
+          ],
+          "areaId": [
+            "release"
+          ],
+          "location": [
+            "release"
+          ],
+          "emirate": [
+            "release"
+          ],
+          "type": [
+            "release",
+            "offer"
+          ],
+          "bedrooms": [
+            "offer"
+          ],
+          "price": [
+            "offer"
+          ],
+          "handover": [
+            "release",
+            "offer",
+            "fam"
+          ],
+          "paymentPlan": [
+            "offer"
+          ],
+          "amenities": [
+            "brochure"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "drawing"
+          ],
+          "community": [
+            "release"
+          ],
+          "overview": [
+            "release",
+            "offer"
+          ],
+          "locationNote": [
+            "release"
+          ],
+          "priceLabel": [
+            "offer"
+          ],
+          "priceNote": [
+            "offer"
+          ],
+          "paymentNote": [
+            "offer"
+          ],
+          "handoverNote": [
+            "release",
+            "offer",
+            "fam"
+          ],
+          "units": [
+            "drawing"
+          ],
+          "paymentStages": [
+            "offer"
+          ],
+          "facts": [
+            "brochure",
+            "drawing",
+            "developer",
+            "release"
+          ],
+          "unresolved": [
+            "brochure",
+            "drawing",
+            "offer",
+            "developer"
+          ]
+        },
+        "community": "Al Rowaiyah First District",
+        "overview": [
+          "Plot purchases require separately approved home designs and construction budgets."
+        ],
+        "locationNote": "Al Rowaiyah First District, Dubai, according to the developer’s phase-one release.",
+        "priceLabel": "Current plot quotation required",
+        "priceNote": "Expired 12 November 2025 plot 35 offer: AED 9,308,000, not a starting price or current quotation.",
+        "paymentNote": "Expired plot 35 schedule; 4% OQOOD and AED 5,000 registration were additional.",
+        "handoverNote": "Full-community target 2030; infrastructure Q1 2026 unconfirmed. Plot 35’s expired offer specified December 2026; fäm lists July 2028. Different scopes require confirmation.",
+        "units": [
+          {
+            "label": "Plot 35: land",
+            "area": "10,380.25 ft² / 964.36 m²",
+            "sourceIds": [
+              "drawing"
+            ]
+          },
+          {
+            "label": "Plot 35: maximum GFA",
+            "area": "12,455.78 ft² / 1,157.18 m²",
+            "sourceIds": [
+              "drawing"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Historical booking",
+            "percent": 20,
+            "sourceIds": [
+              "offer"
+            ]
+          },
+          {
+            "stage": "11 May 2026",
+            "percent": 30,
+            "sourceIds": [
+              "offer"
+            ]
+          },
+          {
+            "stage": "12 November 2026",
+            "percent": 40,
+            "sourceIds": [
+              "offer"
+            ]
+          },
+          {
+            "stage": "Handover: 31 December 2026",
+            "percent": 10,
+            "sourceIds": [
+              "offer"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Phase-one layout",
+            "value": "93 clusters; 558 townhouses, per brochure. The release instead calls 558 townhouse plots.",
+            "sourceIds": [
+              "brochure",
+              "release"
+            ]
+          },
+          {
+            "label": "Plot 35 permissions",
+            "value": "Four townhouses; G+2; 3 m setbacks on all sides. Preliminary, subject to approval.",
+            "sourceIds": [
+              "drawing"
+            ]
+          },
+          {
+            "label": "Master-community size",
+            "value": "Project page: 18 million ft²; release: 18.47 million ft².",
+            "sourceIds": [
+              "developer",
+              "release"
+            ]
+          }
+        ],
+        "unresolved": [
+          "The site allocation is inconsistent: 9.9 million ft² is labelled 47% of 18 million (55% calculated); 2.7 million is labelled 23% (15% calculated). Confirm revised planning data.",
+          "Offer area is maximum GFA. Confirm approved controls, infrastructure, construction obligations, charges and stock; illustrations are indicative."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected mag-project-01 Keturah Ardh, not Reserve/Creek/Resort. MAG original offer explicitly PhaseI TH Plots. Null type/bedrooms because established filters lack land and no finished-home mix verified.",
+          "location": "Exact developer release Al Rowaiyah First District, Dubai. No inferred Al Warsan equivalence, coordinates, journey guarantees or future metro entitlement. Root added exact primary-supported central area dubai-al-rowaiyah-first without coordinates.",
+          "residences": "35-page original branded brochure p32 visibly93clusters/558townhouses; developer release loosely558townhouseplots. Explicit basis ambiguity retained. Plot 35 original drawing allows four townhouses G+2, not four bedrooms. No assumptions about completed shells/furnishing.",
+          "areas": "All35 brochure pages screened; numerical p12 land-use panel andp32 counts full visual. Original own plot 35 actual drawing visually read:964.36m2/10380.25ft2 plot vs1157.18m2/12455.78ft2 maxGFA;3m setbacks. Offer12455.78137 matchesGFA notland. No individual home plans/areas inferred. GCC alternative indexed brochure403 excluded numeric tables.",
+          "amenities": "Actual brochure24general community programme,33/34phaseI leisure strip full visual:padel,gym,yoga,barbecue,pools,kidspark,retail/dining. All labelled planned; genericwholemasterplan clinics/schools notphaseguarantee. No health-outcome claims.",
+          "pricing": "Original public MAG offer generated12November2025 valid5days:9308000AED cluster 35; not current quote, not starting price. No per-home average calculated and no resale portalaskingprice adopted. Client details not republished.",
+          "payment": "Original MAG HTML20+30+40+10=100; amounts1861600+2792400+3723200+930800=9308000.4%OQOOD372320 and5000 registration outsidepurchase100. ExactdatesMay11/Nov12/Dec31 2026. Expiredcontractreference only, headline null; alternative20/30/50portal not merged.",
+          "handover": "Developer25Feb2026 release targets infrastructureQ12026, constructionQ42026,fullcommunity2030; elapsedinfrastructureunconfirmed. Plot-specific2026offer vsbrokerJuly31,2028 noteddifferent scopes, notsilently collapsed. No completion certificate/currentconstructionpercentageverified.",
+          "documents": "OwnprojectBrochure opensleadform,no submission. PublicFullStory visible Download brochure endpoint ordinary200 retrieved35p originalbrandedPDF38040181bytes; allcontactsread plusfull12/24/32/33/34. OfficialMAG ownlinkedplot 35image actualnumericdrawingread. OriginalselectedofferordinarypublicHTML, noforms. Brochure70+reuseddrawing60+offer70 pooled200 conservative; currentmain120/release100/Fam25separate, no sharedcorporateFAQ derivation. Some masterplan fractions inconsistent disclosed ratherthan repaired."
+        }
+      }
+    },
+    {
+      "id": "mag-project-02",
+      "slug": "keturah-reserve",
+      "developerSlug": "mag",
+      "name": "Keturah Reserve",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": "Keturah Reserve brings apartments, multilevel townhomes and villa plots to Meydan’s District 7. Its landscape-led masterplan combines private homes with shared leisure spaces; individual buildings and releases require separate specifications.",
+      "areaId": "dubai-mbr-city-district-7",
+      "location": "Mohammed Bin Rashid City District 7",
+      "emirate": "Dubai",
+      "type": null,
+      "bedrooms": "1–5",
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Planned shared pools",
+        "Planned gym",
+        "Planned padel courts",
+        "Planned yoga spaces",
+        "Planned children’s play area",
+        "Planned coworking spaces",
+        "Planned cinema"
+      ],
+      "brochureUrl": "https://citiway.com/wp-content/uploads/2017/10/Keturah-Reserve-Townhouses_Brochure.pdf",
+      "floorPlanUrl": "https://www.newlaunchproperties.ae/property-list/6479a74bc3301_sw_keturah-reserve-floor-plan.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "mag-project-02"
+      ],
+      "nameSource": {
+        "url": "https://keturah.global/reserve/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Reserve: current Keturah project page",
+            "url": "https://keturah.global/reserve/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 200
+          },
+          {
+            "id": "legacy",
+            "label": "Reserve: linked project microsite",
+            "url": "https://www.keturahreserve.com/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "apartments",
+            "label": "Reserve: apartment category",
+            "url": "https://www.keturahreserve.com/apartments.html",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 25
+          },
+          {
+            "id": "townplans",
+            "label": "Reserve: original townhouse plans, broker mirror",
+            "url": "https://multaqare.ae/wp-content/uploads/2022/12/keturah-reserve-fp.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 45
+          },
+          {
+            "id": "apartmentplans",
+            "label": "Reserve: original apartment plans, broker mirror",
+            "url": "https://www.newlaunchproperties.ae/property-list/6479a74bc3301_sw_keturah-reserve-floor-plan.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 105
+          },
+          {
+            "id": "brochure",
+            "label": "Reserve: earlier townhouse brochure, broker mirror",
+            "url": "https://citiway.com/wp-content/uploads/2017/10/Keturah-Reserve-Townhouses_Brochure.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 50
+          },
+          {
+            "id": "launch",
+            "label": "MAG: 29 November 2022 launch announcement",
+            "url": "https://www.prnewswire.com/ae/news-releases/mag-unveils-aed-3-billion-keturah-reserve-at-meydan-dubai-301688778.html",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 35
+          },
+          {
+            "id": "pf",
+            "label": "Reserve: Property Finder project guide",
+            "url": "https://www.propertyfinder.ae/en/new-projects/mag-property-development/mag-keturah-reserve",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 45
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "developer"
+          ],
+          "location": [
+            "developer"
+          ],
+          "emirate": [
+            "developer"
+          ],
+          "type": [
+            "developer"
+          ],
+          "bedrooms": [
+            "developer"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "community": [
+            "developer"
+          ],
+          "overview": [
+            "developer"
+          ],
+          "locationNote": [
+            "developer"
+          ],
+          "price": [
+            "legacy",
+            "apartments"
+          ],
+          "priceLabel": [
+            "legacy",
+            "apartments"
+          ],
+          "priceNote": [
+            "legacy",
+            "apartments"
+          ],
+          "paymentPlan": [
+            "developer",
+            "legacy"
+          ],
+          "paymentNote": [
+            "developer",
+            "legacy"
+          ],
+          "paymentStages": [
+            "developer",
+            "legacy"
+          ],
+          "handover": [
+            "launch",
+            "pf"
+          ],
+          "handoverNote": [
+            "launch",
+            "pf"
+          ],
+          "units": [
+            "townplans",
+            "apartmentplans",
+            "brochure",
+            "developer",
+            "apartments"
+          ],
+          "facts": [
+            "townplans",
+            "apartmentplans",
+            "brochure",
+            "developer",
+            "apartments"
+          ],
+          "unresolved": [
+            "townplans",
+            "apartmentplans",
+            "brochure",
+            "developer",
+            "apartments"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "apartmentplans"
+          ]
+        },
+        "community": "Mohammed Bin Rashid City District 7",
+        "overview": [
+          "Apartments, multilevel townhomes and villa plots belong to distinct releases; confirm the building and approved plan before comparing homes."
+        ],
+        "locationNote": "District 7, Meydan, within Mohammed Bin Rashid City.",
+        "priceLabel": "Release-specific quotation required",
+        "priceNote": "The linked microsite advertises AED 3.8m overall, AED 2.7m apartments and AED 8.588m townhouses without a dated offer. These are published references, not verified current availability.",
+        "paymentNote": "Current corporate schedule below totals 100%. The linked microsite instead displays 40/60; obtain the unit-specific signed schedule.",
+        "handoverNote": "MAG’s November 2022 launch targeted Q2 2025; Property Finder now indicates June 2027. Neither establishes actual completion or a universal release date.",
+        "units": [
+          {
+            "label": "4BR rowhouse · total BUA",
+            "area": "5,462.68 ft² / 507.50 m²",
+            "sourceIds": [
+              "townplans",
+              "developer"
+            ]
+          },
+          {
+            "label": "4BR back-to-back · total BUA",
+            "area": "5,883.55 ft² / 546.60 m²",
+            "sourceIds": [
+              "townplans",
+              "developer"
+            ]
+          },
+          {
+            "label": "5BR rowhouse · total BUA",
+            "area": "9,509.91 ft² / 883.50 m²",
+            "sourceIds": [
+              "townplans",
+              "developer"
+            ]
+          },
+          {
+            "label": "2BR A1 · printed table",
+            "area": "2,319.51 ft² / 215.49 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "2BR A2 · printed table",
+            "area": "2,138.25 ft² / 198.65 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "2BR B · printed table",
+            "area": "2,234.59 ft² / 207.60 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "2BR C · printed table",
+            "area": "1,620.18 ft² / 150.52 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "3BR · printed table",
+            "area": "2,872.56 ft² / 266.87 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "4BR penthouse · MU09/10; MU11/12",
+            "area": "3,963.70; 4,287.58 ft² / 368.24; 398.33 m²",
+            "sourceIds": [
+              "apartmentplans"
+            ]
+          },
+          {
+            "label": "1BR apartments",
+            "area": "Plan-specific total unverified",
+            "sourceIds": [
+              "apartments"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Reservation",
+            "percent": 15,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "After 30 days",
+            "percent": 5,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "After 150 days",
+            "percent": 10,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "After 370 days",
+            "percent": 10,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "After 540 days",
+            "percent": 10,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "After 700 days",
+            "percent": 10,
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "stage": "Handover",
+            "percent": 40,
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Published masterplan",
+            "value": "476 apartments, 124 townhomes and 69 villa plots; not available stock.",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "Townhome plots",
+            "value": "4BR: 240 m²; 5BR: 390 m².",
+            "sourceIds": [
+              "townplans"
+            ]
+          },
+          {
+            "label": "Townhome configuration",
+            "value": "G+2+roof, private lift and two-car parking.",
+            "sourceIds": [
+              "developer"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Apartment-pack cover/maps say MU09/10, while 2BR/3BR area tables say MU11/12. Values are retained as printed, not reassigned. The penthouse table distinguishes all four buildings; its MU11/12 components exceed the printed total by 0.01 ft².",
+          "Earlier brochure: 548 apartments/71 plots; 4BR rowhouse 5,307.02 ft² and 5BR 8,892.86 ft². Its 5BR components total 852.49 m² versus 826.17 printed, with an inconsistent first-floor conversion. Do not substitute these for the separate plans.",
+          "Confirm current release inventory, apartment parking, furnishing specification, service charges and villa-plot construction obligations. No completion certificate or current contractual quotation was verified."
+        ],
+        "reviewCoverage": {
+          "identity": "Protected mag-project-02 Keturah Reserve; distinct from Ardh and Creekside Resort. Whole community includes apartment/townhouse/plots, so type null rather than wrong single category. Existing bedrooms1–5 describes verified apartment1–4 and townhome4/5, not6bedvilla assumption.",
+          "location": "Current own corporate explicitly Mohammed Bin Rashid City District7(Meydan). Exact parent-added registry dubai-mbr-city-district-7. No AlQuoz2 portal alias, coordinates or guaranteed drive times inferred.",
+          "residences": "Own corporate180onebed+272twobed+16threebed+8fourbed=476 apartments;83row4bed+31back4bed+10fivebed=124townhomes;69villa plots. Earlier actual brochure17 instead548apts71plots and93townhomes; disclosed version conflict, no aggregate available inventory. Later MU01/02 portal release not conflated with original MU09–12.",
+          "areas": "Visually read full townhouse plans1/14/26 allfourlevels+plantroom:507.50/546.60/883.50sqm totals,plots240/240/390sqm. Original apartment12pactual4–12allninepanels fullyread <=1700px: A1right/left215.49,A2198.65,B207.60,Cleft/right150.52,3BRleft/right266.87,penthouse368.24/398.33. Cover/maps/count headings MU09/10 but2/3BRtableheadersMU11/12 conflict explicitly preserved. Penthouse3497.30+790.29=4287.59 vsprinted4287.58. No multiplication byfloor count. OwnapartmentPNG labels2bed butnoaggregate area,1BRplan notfound. Earlier brochure44/57actualread olderareas;5bed280.41+180.60+240.83+150.65=852.49 vs826.17;firstfloor180.60sqm vs1660.60ft2wrong. Currenttownplansfivecomponents sum883.50sqm/9509.91ft2.",
+          "amenities": "Own Reserve corporate programme checked:plannedsharedpools,gym,padel,yoga,kidsplay,coworking,cinema. Townhouseprivatepool/lift/twocar source scoped onlytowns. No medicaloutcome/circadianhealth/guaranteedvisaprivilege adopted. PrimarylinkedMAGresidences saysfullyfurnished but release-specific current contractual inclusion unavailable; confirm rather than claim entirecommunity.",
+          "pricing": "Primarylinked microsite main3.8m versusapartmentcategory2.7m andtown8.588m un-dated. Currentquotation/inventory unavailable, headline null. No floorplanprice extrapolation, resaleaskingprice orunsourced servicecharge adopted.",
+          "payment": "Own currentcorporate15+5+10+10+10+10+40=100; after30/150/370/540/700days. Linkedmicrosite visible40construction60handover differs, headline null. HiddencommentedoldposthandoverHTML nottreatedcurrent. PFsecondary alternative10+30+10+50 andFAQ20+40+40 differ; notmerged. No own signed dated paymentPDF publicly accessible, no leadform submitted.",
+          "handover": "MAG29November2022 ownannouncement Q22025 forecast elapsed, PF30June2027 forecast differs. No originalcurrentunitcontract/BCC verified, headline null rather than completionassumption. Secondary newer MU01/02different2028target not universalcommunitydate. No broker constructionpercentage promoted as primary.",
+          "documents": "Primary corporate/microsite retrieved200; downloadbuttonsleadforms notsubmitted. Ordinarypublic brandedbroker30ptownplans,74pbrochure,12papartmentplans retrieved200 andrenderedactualnumerics. Public mirrored apartmentbrochure attempts timeout/403; no bypass. UniquezoneallegedaptPDF actually21pvillaplotguidelines cached, excludedmisidentifieddocument. Genericcorporateindex0. Alloverlappingbrochure/plans/versionpublicderivations combined200allocation town45+apartment105+oldbrochure50; primarycorporate200/main100/category25/launch35/PF45separate."
+        }
+      }
+    },
+    {
+      "id": "mag-project-03",
+      "slug": "keturah-resort",
+      "developerSlug": "mag",
+      "name": "Keturah Resort",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": "Creekside residences and twelve mansions beside Ras Al Khor Wildlife Sanctuary, combining landscaped gardens, wellness facilities and Ritz-Carlton residential services.",
+      "areaId": "dubai-al-jaddaf",
+      "location": "Al Jaddaf",
+      "emirate": "Dubai",
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [
+        "Residents’ club",
+        "Wellness centre",
+        "Landscaped gardens",
+        "Swimming pools",
+        "Children’s club",
+        "Concierge services",
+        "Waterfront promenade"
+      ],
+      "brochureUrl": "https://newdevelopments.ae/uploads/projects/Ritz-CarltonBrochure_1652866183.pdf",
+      "floorPlanUrl": "https://newdevelopments.ae/uploads/projects/RitzCarltonResidencesFloorPlans_1652867193.pdf",
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ],
+      "previousSlugs": [
+        "mag-project-03"
+      ],
+      "nameSource": {
+        "url": "https://keturah.global/creek-resort/",
+        "checkedOn": "2026-10-31"
+      },
+      "research": {
+        "status": "reviewed",
+        "reviewedOn": "2026-11-02",
+        "sources": [
+          {
+            "id": "developer",
+            "label": "Keturah · current Resort portfolio page",
+            "url": "https://keturah.global/creek-resort/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 200
+          },
+          {
+            "id": "launch",
+            "label": "MAG · 9 May 2023 residential sales release",
+            "url": "https://mag.global/news/mag-launches-sales-homes-ritz-carlton-residences-dubai-creekside/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "milestone",
+            "label": "Keturah · infrastructure milestone and Q4 2027 target",
+            "url": "https://keturah.global/press-ritz-infrastructure/",
+            "kind": "developer",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "brochure",
+            "label": "Ritz-Carlton Creekside · original 18-page brochure, public broker mirror",
+            "url": "https://newdevelopments.ae/uploads/projects/Ritz-CarltonBrochure_1652866183.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "plans",
+            "label": "Ritz-Carlton Creekside · original 17-page plans, public broker mirror",
+            "url": "https://newdevelopments.ae/uploads/projects/RitzCarltonResidencesFloorPlans_1652867193.pdf",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 160
+          },
+          {
+            "id": "portal",
+            "label": "Property Finder · Resort catalogue and historical payment reference",
+            "url": "https://www.propertyfinder.ae/en/new-projects/mag-property-development/keturah-resort",
+            "kind": "portal",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 100
+          },
+          {
+            "id": "microsite",
+            "label": "Keturah-linked project microsite · advertised terms, sales partner content",
+            "url": "https://keturahresort.com/",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 65
+          },
+          {
+            "id": "earth",
+            "label": "Project microsite · Earth Mansion reference",
+            "url": "https://keturahresort.com/earth.html",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "water",
+            "label": "Project microsite · Water Mansion reference",
+            "url": "https://keturahresort.com/water.html",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          },
+          {
+            "id": "sky",
+            "label": "Project microsite · Sky Mansion reference",
+            "url": "https://keturahresort.com/sky.html",
+            "kind": "broker",
+            "checkedOn": "2026-11-02",
+            "derivedWords": 40
+          }
+        ],
+        "fieldSources": {
+          "description": [
+            "developer"
+          ],
+          "areaId": [
+            "portal"
+          ],
+          "location": [
+            "developer",
+            "portal"
+          ],
+          "emirate": [
+            "developer",
+            "portal"
+          ],
+          "type": [
+            "developer",
+            "plans"
+          ],
+          "bedrooms": [
+            "developer",
+            "plans"
+          ],
+          "price": [
+            "portal",
+            "microsite"
+          ],
+          "handover": [
+            "milestone",
+            "portal"
+          ],
+          "paymentPlan": [
+            "portal",
+            "microsite"
+          ],
+          "amenities": [
+            "developer"
+          ],
+          "community": [
+            "developer",
+            "portal"
+          ],
+          "overview": [
+            "developer",
+            "launch",
+            "milestone"
+          ],
+          "locationNote": [
+            "developer",
+            "portal"
+          ],
+          "priceLabel": [
+            "portal",
+            "microsite"
+          ],
+          "priceNote": [
+            "portal",
+            "microsite"
+          ],
+          "paymentNote": [
+            "portal",
+            "microsite"
+          ],
+          "handoverNote": [
+            "milestone",
+            "portal"
+          ],
+          "brochureUrl": [
+            "brochure"
+          ],
+          "floorPlanUrl": [
+            "plans"
+          ],
+          "units": [
+            "plans",
+            "earth",
+            "water",
+            "sky"
+          ],
+          "paymentStages": [
+            "portal"
+          ],
+          "facts": [
+            "developer",
+            "brochure"
+          ],
+          "unresolved": [
+            "developer",
+            "plans",
+            "portal",
+            "milestone",
+            "earth",
+            "water",
+            "sky"
+          ]
+        },
+        "reviewCoverage": {
+          "identity": "Protected MAG03 KeturahResort umbrella includes Ritz-Carlton Residences DubaiCreekside and12mansions; not KeturahReserve/Ardh or RitzMaryahSAAS. Original /resort/ returns200soft404; currentown /creek-resort/ genuinebody. LicensedMAGofLife ownership disclaimer originalplans everypage; not Ritz-Carlton-owned/developed. Ownbrandlinks keturahresort.com but actualsite AXexclusivepartner/companysection/privacybrokermarketing, conservativelybrokerkind.",
+          "location": "CurrentownDubaiCreek facingRasAlKhorSanctuary; originalbrochureactualmap10 samewaterfront. PFexplicitAlJaddaf supports existingexactcentraldubai-al-jaddaf; no unsupportedDHCC2coordinates added. RasAlKhorSanctuaryview not sameasRasAlKhormunicipalarea. No marketingjourneytime/oxygenclaim adopted.",
+          "residences": "Currentown2/3/4BR/penthouses and12Earth/Water/Skymansions. Ownpageeightbuildings G1/G2/G3+B1/B2/C2/C3/C4;2023MAG177across7;2024milestone200across7; originalplansfivebutterflybuildings48apartmentsonly notwholecurrentinventory. PDFall17pagesactuallyviewed;1buildinglobby,2-4twoBR,5-6threeBR,7summary,8-12Waterfourlevels+summary,13-17Earthfourlevels+summary. Eachwholemultilevelhomecountedonce;8BRmansions confirmedplans12/17. Headlinetype/bedroomsnullmixedproduct.",
+          "areas": "ActualPDFtables2/3/4 totals232m2/2498ft2 and268m2/2885ft2;5/6 threeBR333m2/3585ft2. Summary7incorrect333m2/2810ft2usesinteriorft2, explicitnotpreferred. Water12prints3975.12m2/42787.79ft2 butbasement1898.77m2 vs1795.12page11; floorft2sum42787.80(0.01rounding). Earth17prints3942.13m2/42432.68ft2, earlierperfloor/summaryroundingdiff. Notpresentedinferredcorrectedtotal. CurrentmicrositeEarth46648/Water45927/Sky46906 each8BR differsoriginaltotals; sizesnot merged. Ownbroad702–5438ft2 unexplainedoverallnotfamilyminimum excludedheadline. NoSkyindividualoriginaldrawingsretrieved; publicmicrositeonlycurrenttotalreference.",
+          "amenities": "Ownmainsevenpublicfacilities below200; actual18pbrochureall5contacts read,14servicesversusalaCarte includesfeesdisclaimer,15/16Delosdesignfeatures. No guaranteedhealthbenefit/certification/outcome/schooladmission/Michelinoperatingvenueclaim adopted. Mansionprivatechef/berthsnotuniversalapartmententitlement. Originalplans2-6maidlaundry/twoor3.5baths,Water/Earthfourlevelpool/parking/lift/saunasteamgym, notapartmentuniversal.",
+          "pricing": "No currentwholeprojectdeveloperquote. Ownlinkedpartner micrositemainAED6.9m vsPF6.7mlaunch; threeownlinkedpartnerchildmansionpages330m each notentryresidentialprice. Allconditionalreferences notsalesoffers. No resaleorregistryprice projectedontocurrentinventory, no commonstartingprice copied.",
+          "payment": "No originaldatedpaymentPDFretrieved. PF10launch+40construction+50handover100 clearlysecondarycataloguereference, notcurrentcontract. Linkedpartnermicrosite40construction+60handover100 conflicts,3yearheadlinewithoutcalendarnot convertedintoschedule.2024developerpresslinked theresidencescreeksidedubai.com currentGETfailedexpiredSSL andwebtimeout; indexed5/15/20/60notadoptedwithoutliveverification. No disablecertificate/formPOST/bypass. Headlinepaymentnull.",
+          "handover": "Currentdeveloperown14Nov2024milestone pageQ42027 vs actualsyndicatedoriginalZawya5Nov2024sameQ42027; dateeditiondifference internalrecord. PFcatalogue26Feb2026vsnarrativeMar2026bothpastnow2Nov2026notcertificate. Headlinehandovernull, latest2024ownforecastqualified. No currentindependentcompletioncertificate orliveconstructioninspectionverified. OldbrochureDCCvs2024releaseCECEPchronologicalcontractorchange notcurrentcontractorclaim.",
+          "documents": "18pbrandedbrochure and17pbrandedplanspublicnewdevelopmentsmirrorGET200, allpagesactualcontactvisualread; numericalpanels2-17visuallyread. Brochuretextreversewordorder notrelieduponwithoutactualvisuals. Originalbroch/facts/plans relatedpool200=40+160; licensedsourcefooterverified. Keltbroch404/Westatessuspended/HumanDNS/PortGG403 notbypassed; no fabricatedfactsheetURL. Ownbrochuredialognotformsubmitted. Currentfact01jpgareexteriorrendersnotfacttables, nofactsinferred. Imagesdeferred."
+        },
+        "community": "Al Jaddaf · Dubai Creek",
+        "overview": [
+          "Apartments and penthouses sit alongside the Earth, Water and Sky mansion concepts. Services and specifications depend on the residence category.",
+          "MAG’s May 2023 release described 177 residences across seven buildings. A later developer milestone described 200; the current portfolio page lists eight buildings. These are different published programmes, not a live availability count."
+        ],
+        "locationNote": "Dubai Creek, facing Ras Al Khor Wildlife Sanctuary. Al Jaddaf is the catalogue location; a sanctuary view does not place the development inside the sanctuary.",
+        "priceLabel": "Current developer quotation required",
+        "priceNote": "Property Finder retains an AED 6.7 million launch reference; the linked sales-partner microsite advertises AED 6.9 million. Neither confirms a currently available residence.",
+        "paymentNote": "The portal reference below differs from the linked sales-partner site’s 40/60. Obtain a residence-specific schedule; no verified dated payment document was retrieved.",
+        "handoverNote": "The developer’s 2024 milestone targeted Q4 2027. Property Finder retains February/March 2026 dates, which have passed; completion is not independently confirmed.",
+        "units": [
+          {
+            "label": "2BR + maid · original plans",
+            "area": "2,498 or 2,885 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "3BR + maid · original plans",
+            "area": "3,585 ft²",
+            "sourceIds": [
+              "plans"
+            ]
+          },
+          {
+            "label": "Earth · 8BR mansion, microsite reference",
+            "area": "46,648 ft²",
+            "sourceIds": [
+              "earth"
+            ]
+          },
+          {
+            "label": "Water · 8BR mansion, microsite reference",
+            "area": "45,927 ft²",
+            "sourceIds": [
+              "water"
+            ]
+          },
+          {
+            "label": "Sky · 8BR mansion, microsite reference",
+            "area": "46,906 ft²",
+            "sourceIds": [
+              "sky"
+            ]
+          }
+        ],
+        "paymentStages": [
+          {
+            "stage": "Portal reference · at launch",
+            "percent": 10,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Portal reference · construction",
+            "percent": 40,
+            "sourceIds": [
+              "portal"
+            ]
+          },
+          {
+            "stage": "Portal reference · handover",
+            "percent": 50,
+            "sourceIds": [
+              "portal"
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Mansion collection",
+            "value": "12 · Earth, Water and Sky",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "Developer-published community scale",
+            "value": "80,000 m²",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "Residential tenure",
+            "value": "Freehold in developer material",
+            "sourceIds": [
+              "developer"
+            ]
+          },
+          {
+            "label": "Residential services",
+            "value": "Ritz-Carlton; paid services vary",
+            "sourceIds": [
+              "developer",
+              "brochure"
+            ]
+          }
+        ],
+        "unresolved": [
+          "Current availability, residence-specific price and signed payment calendar remain unconfirmed.",
+          "Original plans: the three-bedroom summary uses 2,810 ft² beside 333 m²; the detailed layout states 3,585 ft². Water’s basement area differs between drawing and summary. Mansion totals also differ from the later microsite. Request the contracted revision.",
+          "The 2023 seven-building programme, later 200-residence release and current eight-building description need reconciliation.",
+          "The current page alternates 300 m and 550 m waterfront figures. Neither is treated as a verified surveyed length.",
+          "Confirm service charges, included versus chargeable services, parking allocation, furnishing specification, mooring rights and completion certification for the selected home.",
+          "Developer material says freehold; Property Finder says leasehold. Confirm the selected residence’s title."
+        ]
+      }
+    },
+    {
+      "id": "mag-project-04",
+      "slug": "mag-project-04",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 04",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-05",
+      "slug": "mag-project-05",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 05",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-06",
+      "slug": "mag-project-06",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 06",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-07",
+      "slug": "mag-project-07",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 07",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-08",
+      "slug": "mag-project-08",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 08",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-09",
+      "slug": "mag-project-09",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 09",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-10",
+      "slug": "mag-project-10",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 10",
+      "image": "/images/project-2.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-2.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-11",
+      "slug": "mag-project-11",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 11",
+      "image": "/images/project-3.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-3.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-12",
+      "slug": "mag-project-12",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 12",
+      "image": "/images/project-4.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-4.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-13",
+      "slug": "mag-project-13",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 13",
+      "image": "/images/project-5.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-5.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-14",
+      "slug": "mag-project-14",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 14",
+      "image": "/images/project-6.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-6.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    },
+    {
+      "id": "mag-project-15",
+      "slug": "mag-project-15",
+      "developerSlug": "mag",
+      "name": "MAG Property Development Project 15",
+      "image": "/images/project-1.jpg",
+      "placeholder": true,
+      "description": null,
+      "areaId": null,
+      "location": null,
+      "emirate": null,
+      "type": null,
+      "bedrooms": null,
+      "price": null,
+      "handover": null,
+      "paymentPlan": null,
+      "amenities": [],
+      "brochureUrl": null,
+      "floorPlanUrl": null,
+      "gallery": [
+        {
+          "src": "/images/project-1.jpg",
+          "label": "Exterior inspiration"
+        },
+        {
+          "src": "/images/concept-apartment-interior.png",
+          "label": "Interior concept"
+        },
+        {
+          "src": "/images/concept-apartment-detail.png",
+          "label": "Material study"
+        }
+      ]
+    }
+  ]
+}

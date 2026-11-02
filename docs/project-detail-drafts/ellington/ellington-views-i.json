@@ -1,0 +1,231 @@
+{
+  "id": "ellington-project-24",
+  "name": "Ellington Views I",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Ellington Views I places two residential towers beside Al Hamra’s golf and waterfront setting in Ras Al Khaimah. Studios and larger apartments include expansive terrace configurations, with shared recreation arranged across the podium, pavilion and rooftop spaces.",
+    "areaId": "rak-al-hamra-village",
+    "location": "Al Hamra Village",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment / Duplex / Penthouse",
+    "bedrooms": "Studio–3",
+    "price": 1500000,
+    "handover": "Q1 2027 · portal target",
+    "paymentPlan": "50/50 · published reference",
+    "amenities": [
+      "Beach club pool",
+      "Beach pavilion",
+      "Fitness studio",
+      "Rooftop clubhouse",
+      "Children’s club",
+      "Indoor cinema",
+      "Indoor golf simulator",
+      "Outdoor yoga",
+      "Mini golf",
+      "EV charging"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20Views%20I/Project%20assets/Ellington%20Views%20I%20-%20Slim%20Brochure.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-i/ELLINGTON_VIEWS_I_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Views I own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ellington-views-i-ras-al-khaimah",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "guide",
+          "label": "Ellington Views I official investor guide · 17 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20Views%20I/Project%20assets/Ellington%20Views%20I%20-%20Slim%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "plans",
+          "label": "Views I branded plans · broker-hosted · 23 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-views-i/ELLINGTON_VIEWS_I_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "configuration",
+          "label": "Ellington Views I interactive configuration",
+          "url": "https://app.ellington.ae/ellingtonviews/configuration.html",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Views1 · launch and target",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-views-1",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "plans"
+        ],
+        "bedrooms": [
+          "plans",
+          "configuration"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "guide",
+          "finder"
+        ]
+      },
+      "community": "Al Hamra Village",
+      "overview": [
+        "Parking: one space for studios–2BR, two for 3BR. AED 14/ft² service charge is anticipated."
+      ],
+      "locationNote": "Al Hamra, Ras Al Khaimah, beside the golf course. This is Views I, not Views II or Dubai’s Eltiera Views.",
+      "priceLabel": "Portal launch reference · not a current offer",
+      "priceNote": "Property Finder’s hero rounds launch pricing to AED 1.5 million, while its FAQ retains AED 800,000. These conflicting historical references do not establish current availability or a developer quotation.",
+      "paymentNote": "Reference terms; AED 3,000 registration and 4% completion title charge are separate. Portal FAQ contradicts completion timing; confirm the agreement.",
+      "handoverNote": "Property Finder specifies March 2027. This portal forecast is not a contractual guarantee or evidence of actual completion.",
+      "units": [
+        {
+          "label": "Studio types 1 / 3",
+          "area": "522.48 / 464.46 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR types 1 / 3",
+          "area": "1,104.81 / 944.86 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR types 2 / 3",
+          "area": "1,382.19 / 1,614.26 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + study types 1 / 2 / 4",
+          "area": "1,575.51 / 2,638.57 / 4,559.81 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + study type 1",
+          "area": "2,264.08 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR penthouse duplex",
+          "area": "3,764.68 ft² total across both levels.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "90 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 50,
+          "sourceIds": [
+            "guide"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Configuration 3BR: 2,274 ft² versus plan 2,264.08. Type 2 study total: 2,638.57 versus component sum 2,638.78. Verify selected schedule.",
+        "Current availability, contractual handover, approved charges, title/parking terms, furnishing inventory and facility operation require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact Views I retained, separate from Views II/Eltiera.",
+        "location": "Own developer AlHamra RAK and plan labels; no travel-time guarantees.",
+        "residences": "Studios through3BR plus2BRduplex from actualplans; study not extra bedroom.",
+        "areas": "All11 numerical example panels plans12–22 visually inspected, including duplex bothlevels. Configuration3BR discrepancy disclosed.",
+        "amenities": "Own main page and actualguide2; operational status not assumed.",
+        "pricing": "Hero1.5m versus FAQ800k internalportalconflict retained; no currentquote.",
+        "payment": "Officialguide15 visually checked:20+6x5+50=100, fees separate. PFFAQconflict retained.",
+        "handover": "PFMarch2027 attributedtarget; no primarydatecertificate.",
+        "documents": "Official17pageinvestorguide and branded23pageplans reviewed; public overlapping derivations guide80/plans100/configuration20 pooled200. Briefdiscovery DNSfailed and404mirror not bypassed. Cover visiblyViewsI; p2renderentrancereadsViewsII, namingcarryoverdisclosedinevidence; configuration separately corroborates parking."
+      }
+    }
+  }
+}

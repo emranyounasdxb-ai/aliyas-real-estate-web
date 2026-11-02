@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-53","name":"Aeon","developerSlug":"emaar",
+ "fields":{
+  "description":"Aeon brings two apartment towers to the Creek Beach district of Dubai Creek Harbour. One, two and three bedroom homes face different combinations of the canal, landscaped spaces and surrounding neighbourhood. The two towers have distinct floor plans: larger balconies and higher-floor three-bedroom layouts are among the choices worth comparing unit by unit.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":3197888,"handover":"Q2 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Clubhouse","Wellness hub and gym","Lounge and games room","Waterfront promenade","Play areas","Adventure playground","Community urban beach","Skate park and sports courts","Fitness and jogging track","Cycling track"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/378815_brochure_File_4f35d53ea5_prod.pdf","floorPlanUrl":"https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_TOWER1_MARKETING_LAYOUT.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Aeon at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/aeon","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: Aeon brochure","url":"https://www.emaar.com/cms-media/uploads/378815_brochure_File_4f35d53ea5_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"plans1","label":"Aeon Tower 1 plans · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_TOWER1_MARKETING_LAYOUT.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans2","label":"Aeon Tower 2 plans · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_TOWER2_MARKETING_LAYOUT.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Aeon launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"payment","label":"Aeon payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"finder","label":"Property Finder: Aeon","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/aeon","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+   ],
+   "fieldSources":{"description":["official","plans1","plans2"],"overview":["brochure"],"location":["official","facts"],"type":["official"],"bedrooms":["official","facts"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans1","plans2"],"documents":["brochure","plans1","plans2"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Aeon page and both separately labelled tower packs confirmed; other Creek Beach projects excluded.",
+    "location":"Creek Beach district within Dubai Creek Harbour confirmed. Proposed transport connections are not presented as operating services.",
+    "residences":"One to three bedroom apartments; launch fact sheet reports 262 homes across Aeon.",
+    "areas":"All 22 Tower 1 and 16 Tower 2 plan pages extracted; bedroom categories and every published total checked. Official single-page download visually checked against Tower 2 podium layout. Fact-sheet rounded ranges corroborate the two packs.",
+    "amenities":"Project clubhouse, wellness and social facilities distinguished from the district recreation offer; brochure sustainability specifications also reviewed.",
+    "pricing":"Developer’s available-unit starting figure distinguished from the lower headline and January 2024 category launch prices.",
+    "payment":"Own launch fact sheet and ten-stage payment sheet visually inspected; ten 10% instalments total 100% and agree with Property Finder’s 10/80/10 summary.",
+    "handover":"April 2028 estimate supported by payment document and portal; current possession or construction completion not asserted.",
+    "documents":"Official brochure and both complete tower packs linked. The developer’s floor-plan button provides only one Tower 2 podium sheet, not the whole collection. Images unchanged."
+   },
+   "community":"Creek Beach · Dubai Creek Harbour",
+   "overview":["Aeon’s setting combines shaded pedestrian routes with outdoor recreation around Creek Beach. Its planned neighbourhood offer includes a promenade, cycling and jogging routes, sports courts and children’s play spaces. The brochure also specifies energy-saving measures such as double glazing, efficient air conditioning, LED lighting controls and condensate reuse for irrigation. EV charging and bicycle parking appear in the sustainability programme; confirm their allocation and operating arrangements for the selected building."],
+   "locationNote":"The development is positioned beside the central plaza in the Creek Beach district. Canal, park and city outlooks depend on tower, floor and orientation. Marketing references to ferry and metro connections describe the wider transport proposition; current stations, routes and opening dates should be checked separately.",
+   "priceLabel":"Developer-listed units from",
+   "priceNote":"Emaar’s available-unit section displays AED 3,197,888, while the page headline retains AED 1.71m. The January 2024 launch fact sheet lists category starts of AED 1.71m, 2.69m and 3.62m for one, two and three bedrooms. These figures describe different dates and stock; obtain a current unit quotation.",
+   "paymentNote":"The launch schedule allocates 10% at booking, eight further 10% stages before completion and 10% at estimated completion. Dates already passed are retained as historical terms, not a new buyer’s payment calendar. Request an updated outstanding-balance schedule for a developer or resale purchase.",
+   "handoverNote":"April 2028 is the estimated completion month in the launch payment sheet and Property Finder. Confirm the current developer programme and contractual handover provisions before purchase.",
+   "units":[
+    {"label":"Tower 1 · 1 bedroom","area":"762.30–763.38 sq ft total area","sourceIds":["plans1"]},
+    {"label":"Tower 1 · 2 bedrooms","area":"1,233.54–1,339.03 sq ft total area","sourceIds":["plans1"]},
+    {"label":"Tower 1 · 3 bedrooms","area":"1,665.29–1,771.95 sq ft total area","sourceIds":["plans1"]},
+    {"label":"Tower 2 · 1 bedroom","area":"813.10–990.50 sq ft total area","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 2 bedrooms","area":"1,233.00–1,663.34 sq ft total area","sourceIds":["plans2"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · January 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"March 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · estimated construction completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The fact sheet reports 262 apartments. Its rounded project-wide size bands are 762–991 sq ft for one bedroom, 1,233–1,663 sq ft for two bedrooms and 1,665–1,772 sq ft for three bedrooms; exact tower-plan totals are listed above.","sourceIds":["facts"]},
+    {"label":"Tower-specific layouts","value":"Tower 1’s three-bedroom drawings cover levels 16–20. Tower 2’s reviewed pack contains one and two bedroom homes on podium and residential levels; it does not establish a three-bedroom collection in that tower.","sourceIds":["plans1","plans2"]},
+    {"label":"Balcony differences","value":"Tower 2 level 1 unit 02 totals 1,663.34 sq ft, including a 501.81 sq ft balcony. The level 2–11 unit 02 layout totals 1,233.00 sq ft with a 71.47 sq ft balcony. Total area therefore needs to be compared alongside internal living space.","sourceIds":["plans2"]},
+    {"label":"Plan measurements","value":"Published totals include suite and balcony areas. The drawings are marketing layouts and allow revisions; confirm the approved plan, orientation and contractual area for the selected apartment.","sourceIds":["plans1"]}
+   ],
+   "unresolved":["Current unit availability, quotation and outstanding instalments need confirmation; launch terms are not current offers.","Construction progress, contractual handover, service charges and parking allocation are not independently established.","Confirm facility delivery, access arrangements and the operational status of advertised transport connections.","Actual project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

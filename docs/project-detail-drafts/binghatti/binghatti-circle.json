@@ -1,0 +1,200 @@
+{
+  "id": "binghatti-project-17",
+  "name": "Binghatti Circle",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Circle is a mixed-use tower in Jumeirah Village Circle, combining studios and one- to three-bedroom apartments with offices and ground-floor retail. Its curved floor plate creates a series of outward-facing balcony plans. The residential catalogue is kept distinct from commercial accommodation and changing sale availability.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 674999,
+    "handover": "Q2 2027 · developer target",
+    "paymentPlan": "70/30 · developer summary",
+    "amenities": [
+      "Swimming pool",
+      "Indoor gym",
+      "Padel court",
+      "Basketball court",
+      "Jogging track",
+      "Children’s play area",
+      "Landscaping",
+      "Cabanas and lounges",
+      "Smart-home features"
+    ],
+    "brochureUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Circle own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-circle",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official-linked own brochure and embedded plans",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Official-linked own project facts",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-circle-assets/binghatti-circle-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Circle May 2027 target and alternative plans",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-circle",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "price": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Circle page and original mixed-use facts identify the project; not a generic JVC building.",
+        "location": "Own page confirms Jumeirah Village Circle; portal narrows it to District 13 without assigning exact coordinates.",
+        "residences": "Studios and one/two/three-bedroom residential families reviewed alongside distinct offices/retail counts.",
+        "areas": "Own 28-page brochure numerical panels 19,21,24,25 visually read at 1750 px; all residential families sampled.",
+        "amenities": "Own facts confirm recreation and smart-home features, without claiming all facilities operational.",
+        "pricing": "Own hero 674,999 distinguished from portal 675,000 launch figure and inconsistent 1,080,000 FAQ.",
+        "payment": "Own 20/50/30 adopted; portal 10/40/50 and 20/50/30 instalment variants explicitly separate.",
+        "handover": "Primary Q2 2027 is compatible with portal May 2027; no actual completion inferred.",
+        "documents": "Official own brochure/facts downloaded; duplicatefacts/plans pooled 190 words; no separate dated payment calendar retrieved."
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "Compare the exact plan and orientation rather than a tower-wide view claim. Office and retail counts describe the mixed-use development, while residential enquiries must identify a specific apartment type and floor."
+      ],
+      "locationNote": "Jumeirah Village Circle, Dubai; Property Finder places Circle in District 13. Exact plot access and apartment outlook should be checked before relying on map or skyline illustrations.",
+      "priceLabel": "Developer marketing reference",
+      "priceNote": "The own hero displays FROM AED 674999. Property Finder gives a rounded 675,000 launch reference, marks developer homes sold out, and retains an inconsistent 1,080,000 FAQ figure. No listed minimum is treated as confirmed current Aliyas inventory or a binding price.",
+      "paymentNote": "The own FAQ states 20% on contract signing, 50% during construction and 30% on completion. Property Finder also lists a 10/40/50 alternative and 20/50/30 variants with different instalment counts. These are distinct published offers; no dated unit schedule or outstanding balance was retrieved.",
+      "handoverNote": "The developer targets Q2 2027, while Property Finder gives May 2027 within that quarter. These are forecast references rather than proof of completed works or an unconditional unit handover promise.",
+      "units": [
+        {
+          "label": "Studio Type 01",
+          "area": "35.70 sq m / 384.27 sq ft total; 28.58 suite + 7.12 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01",
+          "area": "71.11 sq m / 765.42 sq ft total; 54.86 suite + 16.25 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01",
+          "area": "108.11 sq m / 1,163.69 sq ft total; 84.18 suite + 23.93 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type 01",
+          "area": "144.22 sq m / 1,552.37 sq ft total; 112.31 suite + 31.91 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Developer · contract signing",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Developer · construction",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Developer · completion",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original mixed-use schedule",
+          "value": "776 residences:250 studios, 504 one-bedroom, 16 two-bedroom and 6 three-bedroom apartments; 31 offices and 15 shops. Not a current inventory statement.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Vertical components",
+          "value": "Own facts list 2 basements, ground, 4 podiums, 58 floors, 3 mechanical levels, 3 STR levels and roof. The abbreviation STR is not expanded into an assumed residential use.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current developer/resale availability, service charges, parking allocation, furnishings and dated payment obligations require selected-unit confirmation. No construction-progress percentage is invented.",
+        "Total areas include balconies and are published plan examples. Actual suite dimensions, orientation, equipment and finishes must be checked against the selected sale agreement.",
+        "The developer’s tallest-in-JVC description is marketing language, not an independently verified permanent ranking; it is not adopted as a guaranteed fact."
+      ]
+    }
+  }
+}

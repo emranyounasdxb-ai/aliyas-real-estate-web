@@ -1,0 +1,266 @@
+{
+  "id": "aldar-project-36",
+  "name": "Waldorf Astoria Residences",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Waldorf Astoria Residences Yas is Aldar’s furnished residential development beside Yas Links on Yas Island. Three buildings accommodate apartments, one-bedroom duplexes and four-bedroom penthouses, with hospitality-style services and shared leisure facilities.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 3800000,
+    "handover": "2029 · developer pipeline estimate",
+    "paymentPlan": "60/40 · launch plan",
+    "amenities": [
+      "Residents’ lounge",
+      "Cinema",
+      "Games room",
+      "Meeting and private dining room",
+      "Multipurpose room",
+      "Spa treatment room",
+      "Simulator room",
+      "Shared kitchen",
+      "Pool area",
+      "Media room",
+      "Gym",
+      "Children’s club",
+      "Concierge"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/378982e767ae4356abd1726523b5c8de.pdf",
+    "floorPlanUrl": "https://api.reelly.io/vault/ZZLvFZFt/geo6GGGO1_zuc4kUaqkEDKXnN4Q/RCgWiA../Waldorf+Astoria+Residences+Yas+Floor+Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Waldorf Astoria Residences Yas: Aldar project microsite",
+          "url": "https://www.waldorfastoriaresidencesyas.com/en",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Waldorf Astoria Yas launch, 15 May 2025",
+          "url": "https://cdn.aldar.com/-/media/project/aldar-tenant/aldar2/images/press-releases/15-may-2025/250515-waldorf-astoria-announcement-press-release.pdf?rev=c72d268e1db84f22a6837083b281f694",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "facts",
+          "label": "Waldorf Astoria Yas general fact sheet, public hosted copy",
+          "url": "https://d1sn0smw7a0jtd.cloudfront.net/pdfs/1748244745252-wa-residence-yas_general_english.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "brochure",
+          "label": "Waldorf Astoria Yas sales presentation, Reelly-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/378982e767ae4356abd1726523b5c8de.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "plans",
+          "label": "Waldorf Astoria Yas floor plans, public Reelly copy",
+          "url": "https://api.reelly.io/vault/ZZLvFZFt/geo6GGGO1_zuc4kUaqkEDKXnN4Q/RCgWiA../Waldorf+Astoria+Residences+Yas+Floor+Plans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "fy2025",
+          "label": "Aldar FY2025 results, project pipeline page 27",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "official",
+          "launch"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "facts"
+        ],
+        "units": [
+          "brochure",
+          "plans",
+          "launch"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "paymentPlan": [
+          "facts",
+          "brochure"
+        ],
+        "handover": [
+          "facts",
+          "fy2025"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Aldar Yas Island scheme verified; excluded Al Hamra’s Ras Al Khaimah and NABNI’s Dubai projects with similar branding.",
+        "location": "Yas Links setting confirmed by own official microsite and launch announcement.",
+        "residences": "Official 133-home total includes apartments, duplexes and four-bedroom penthouses; 123-home sales-table scope distinguished.",
+        "areas": "Sales-table totals and seven-page drawing set reviewed visually; representative one-bedroom, duplex and three-bedroom plans checked.",
+        "amenities": "Official amenities, concierge and paid housekeeping distinction checked.",
+        "pricing": "AED 3.8m launch reference confirmed visually; no present unit availability inferred.",
+        "payment": "Original dated 60/40 schedule visually checked; percentage total 100.",
+        "handover": "Original Q4 2028 compared with FY2025 pipeline 2029; later year retained.",
+        "documents": "Fact sheet, 46-page public presentation and seven-page floor-plan set downloaded; prices, areas and payment tables visually reviewed."
+      },
+      "community": "Waldorf Astoria Residences Yas · Yas Island",
+      "overview": [
+        "The launch announcement credits Nordic Office Architects and KZ Design Services. Homes are furnished, with apartment and duplex layouts distinct from the larger penthouses.",
+        "The project promotes concierge and valet services alongside residents’ facilities. Housekeeping is listed as an additional paid service. The advertised Yas Links Country Club membership lasts one year from handover, with eligibility conditions; it should not be interpreted as permanent golf access."
+      ],
+      "locationNote": "On Yas Island beside Yas Links, with the Yas Marina Circuit and waterfront forming the wider setting. Confirm the orientation of the selected home; not every residence has every advertised view.",
+      "priceLabel": "Published launch reference",
+      "priceNote": "The original general fact sheet starts at AED 3.8m. This is a historical launch reference, not a current quote. Furnishing specifications and any separately charged services must be confirmed in the sales documents.",
+      "paymentNote": "The table reproduces the original 60/40 launch dates, several of which have passed. A present purchase needs a fresh statement showing amounts already paid, outstanding instalments and any amended schedule.",
+      "handoverNote": "FY2025 lists 2029, replacing Q4 2028 launch timing; reconfirm.",
+      "units": [
+        {
+          "label": "1-bedroom apartment · launch table",
+          "area": "137 sq m stated total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom duplex · Horology collection",
+          "area": "115 sq m stated GSA; two-level drawing",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom + study · launch table",
+          "area": "206 sq m stated total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom + maid · Perpetual Type B",
+          "area": "267 sq m stated GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom + study · launch table",
+          "area": "269 sq m stated total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom penthouse",
+          "area": "Selected plan and registered area to confirm",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original schedule",
+          "percent": 5,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "15 December 2025",
+          "percent": 10,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 10,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "15 February 2027",
+          "percent": 10,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "15 September 2027",
+          "percent": 10,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "15 April 2028",
+          "percent": 15,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Handover · original 20 December 2028 date",
+          "percent": 40,
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Full development and launch schedule",
+          "value": "Aldar announced 133 residences. The public sales presentation schedules 123 apartments and duplexes; it is not the full penthouse-inclusive project count or current stock.",
+          "sourceIds": [
+            "launch",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Drawing scope",
+          "value": "The reviewed plans show Light and Dark palettes. Type A one-bedroom GSA is 119–155 sq m; registered areas and final specifications require unit-level confirmation.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current inventory, price quotations, registered areas, service charges, parking and complete penthouse drawings remain unconfirmed.",
+        "Confirm the later completion schedule and payment amendments before relying on original dated instalments.",
+        "The main Aldar project page contains unrelated Grove Gallery copy; that paragraph was excluded in favour of the correct project microsite and launch documents."
+      ]
+    }
+  }
+}

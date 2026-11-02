@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-19","name":"Parkwood","developerSlug":"emaar",
+ "fields":{
+  "description":"Parkwood overlooks the Hillside Park setting within Dubai Hills Estate. Its collection combines one to three bedroom apartments with larger three bedroom podium townhouses. Vida-inspired interiors use warm tones and natural textures, while the two towers share an outdoor-focused setting of leisure, fitness and social spaces.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1759888,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Swimming pool and deck","Indoor and outdoor gyms","Barbecue and dining area","Multipurpose lounge","Multi-use games area","Outdoor yoga deck","Children’s play area","Communal lawns"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/PARKWOOD_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/PARKWOOD_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Parkwood at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/parkwood-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"brochure","label":"Emaar: Parkwood brochure","url":"https://www.emaar.com/cms-media/uploads/PARKWOOD_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Parkwood tower and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/PARKWOOD_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Parkwood launch fact sheet · Jiwak-hosted copy","url":"https://jiwak.com/files/properties/9075de55f995460873ea996ef5c0aad2644b5d36.pdf","kind":"portal","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Parkwood launch payment sheet · Jiwak-hosted copy","url":"https://jiwak.com/files/properties/ef2503af5c123a2796644181a3614b8e6e2dea6f.pdf","kind":"portal","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Parkwood project terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/parkwood","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official"],"amenities":["brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Parkwood identified separately from Parkland, Parkside Views and other Dubai Hills releases. Vida-inspired positioning confirmed; hotel operation not inferred.",
+    "location":"Dubai Hills Estate with Al Khail Road access; Hillside Park distinguished from the wider Dubai Hills Park.",
+    "residences":"One to three bedroom apartments in Towers A and B plus three bedroom podium townhouses.",
+    "areas":"All 27 official plan pages read and total-area rows extracted by tower and type. Three-level townhouse drawing visually checked. Two-bedroom minimum from plans is 1,073.04, not launch fact sheet’s rounded 1,071.",
+    "amenities":"Brochure page 5 supplies eight building facility groups; pages 11–15 describe surrounding Hillside Park zones separately.",
+    "pricing":"Official published units-from AED 1,759,888 retained, not portal launch headline 1.9 million or historical 1.75 million.",
+    "payment":"Emaar-branded Jiwak payment sheet read and visually checked; nine instalments total 100%, 10/70/20 overall.",
+    "handover":"January 2029 launch completion agrees with PF Q1 2029; no current stock or completion assurance.",
+    "documents":"Official 25-page brochure and 27-page plans; copied launch fact/payment sheets individually linked and attributed. No imagery imported."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure separates Parkwood’s resident facilities from the surrounding Hillside Park. Within the wider park concept, quieter landscaped areas sit alongside active, leisure and fitness zones. These shared outdoor features provide neighbourhood context; they should not all be read as amenities inside the towers."],
+   "locationNote":"Parkwood is in Dubai Hills Estate, with Al Khail Road providing access towards Downtown Dubai and Dubai Marina. Dubai Hills Mall, Dubai Hills Park and the golf club are wider community destinations. Promotional references to future rail or metro connections are not evidence of a currently operating station at Parkwood.",
+   "priceLabel":"Published units from",
+   "priceNote":"Emaar’s displayed unit pricing starts at AED 1,759,888 on the research date. Its rounded AED 1.75 million headline refers to launch pricing. Availability and the chosen home’s quotation require confirmation; the website’s unit count is not treated as verified inventory.",
+   "paymentNote":"The copied launch schedule sets 10% at booking, seven further 10% instalments and 20% at completion. The dated and construction-linked stages below describe that launch plan. A new purchase needs the current agreement, particularly for instalments whose dates have passed.",
+   "handoverNote":"The launch payment sheet targets January 2029 for estimated construction completion. Property Finder also reports January/Q1 2029. This is a reported target rather than a guaranteed handover date.",
+   "units":[
+    {"label":"1 bedroom · Tower A","area":"762.43–830.01 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Tower A","area":"1,233.22–1,507.81 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Tower A","area":"1,806.08–1,944.07 sq ft total area","sourceIds":["plans"]},
+    {"label":"1 bedroom · Tower B","area":"727.60–771.67 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Tower B","area":"1,073.04–1,266.15 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Tower B","area":"1,576.69–1,820.72 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom podium townhouse","area":"3,843.90–3,867.80 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · February 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The copied launch sheet lists 241 one bedroom, 163 two bedroom and 72 three bedroom apartments, plus 11 three bedroom townhouses: 487 homes at launch, not current stock.","sourceIds":["facts"]},
+    {"label":"Historical launch prices","value":"The launch sheet listed AED 1.75 million, AED 2.61 million and AED 3.79 million for one, two and three bedroom apartments, and AED 7.59 million for townhouses. Obtain a current unit quotation.","sourceIds":["facts"]},
+    {"label":"Townhouse arrangement","value":"The podium plan shows living spaces and a bedroom at the entrance level, two more bedrooms upstairs and a roof terrace. A maid’s room, laundry and store are labelled; total area includes substantial outdoor space.","sourceIds":["plans"]},
+    {"label":"Tower levels","value":"The official key sections show Tower A residential levels through 20 and Tower B through 19, above shared ground and podium levels.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current availability, selected view, exact price and payment agreement.","Confirmed construction progress and contractual completion.","Final parking allocation, service charges and Vida-related inclusions; hotel services or furniture are not assumed.","Opening dates and access conditions for surrounding park amenities and future transport proposals.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

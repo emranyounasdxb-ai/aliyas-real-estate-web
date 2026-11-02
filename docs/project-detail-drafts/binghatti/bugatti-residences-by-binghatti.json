@@ -1,0 +1,201 @@
+{
+  "id": "binghatti-project-21",
+  "name": "Bugatti Residences by Binghatti",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Bugatti Residences by Binghatti is the two brands’ residential collaboration in Business Bay. Its curved architecture draws on the French Riviera, with Riviera Mansion residences and a separate Sky Mansion penthouse collection. Layouts and services vary between individual homes.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–5, 8",
+    "price": 19400000,
+    "handover": null,
+    "paymentPlan": "70/30 · portal reference",
+    "amenities": [
+      "Riviera-inspired beach",
+      "Private-pool designs",
+      "Jacuzzi spa",
+      "Fitness club",
+      "Chef’s table",
+      "Valet service",
+      "Private members’ club",
+      "Selected penthouse car lifts"
+    ],
+    "brochureUrl": "https://theaddress-properties.com/wp-content/uploads/2025/07/Bugatti-Residences-by-Binghatti-Brochure.pdf",
+    "floorPlanUrl": "https://www.bugattiresidences.com/#floor-plans",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Bugatti Residences official project microsite",
+          "url": "https://www.bugattiresidences.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "partner",
+          "label": "Bugatti official unveiling · 25 May 2023",
+          "url": "https://newsroom.bugatti.com/press-releases/the-official-unveiling-bugatti-residences-by-binghatti",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "brochure",
+          "label": "Original branded Bugatti brochure · broker-hosted mirror, 45 pages",
+          "url": "https://theaddress-properties.com/wp-content/uploads/2025/07/Bugatti-Residences-by-Binghatti-Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "listing",
+          "label": "Binghatti branded collection · advertised price only",
+          "url": "https://www.binghatti.com/en/branded-projects",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 8
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Bugatti original project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers-fze/bugatti-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "partner"
+        ],
+        "location": [
+          "partner"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "overview": [
+          "partner",
+          "brochure"
+        ],
+        "amenities": [
+          "partner"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "listing",
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "brochure",
+          "finder"
+        ],
+        "documents": [
+          "developer",
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Developer microsite and Bugatti brand-partner 2023 unveiling verified; Dubai Business Bay project, not announced Miami residences.",
+        "location": "Business Bay explicitly confirmed by brand partner.",
+        "residences": "Brochure names two-bedroom Cannes, three-bedroom St Tropez, four-bedroom Monaco, five- and eight-bedroom Sky Mansion designs. Range does not imply six- or seven-bedroom categories.",
+        "areas": "Five official microsite unquantified plans viewed; branded mirror numerical panels 15,24,26,28,30,32–35 visually inspected. Eight-bedroom multi-level totals conflict and are not combined.",
+        "amenities": "Brand-partner amenities distinguished from selected penthouse car-lift rights and chargeable services.",
+        "pricing": "Current developer collection advertises AED 19.4m; portal precise 19.5m/rounded20m differs. Current unit offer unverified.",
+        "payment": "Portal 70% construction/30% handover totals 100; no own dated primary payment document retrieved.",
+        "handover": "Older branded brochure Q4 2026 differs from portal August 2027; headline unset pending current primary confirmation.",
+        "documents": "Current microsite contains plan images without numerical areas. Original branded 45-page brochure retrieved on broker domain and labelled accordingly, not claimed developer-hosted."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "The brand’s launch release describes 171 Riviera Mansions and 11 Sky Mansion penthouses. The original brochure identifies two-, three-, four-, five- and eight-bedroom designs; bespoke penthouses require their own approved drawings."
+      ],
+      "locationNote": "Business Bay, Dubai. No fixed travel-time or every-home view guarantee is adopted.",
+      "priceLabel": "Developer advertised collection guide · reconfirm",
+      "priceNote": "Binghatti’s branded collection advertises from AED 19.4m. Property Finder gives AED 19.5m in its FAQ and a rounded AED 20m headline. Different references are not a selected-unit quotation.",
+      "paymentNote": "Property Finder lists 70% during construction and 30% on handover. A deposit breakdown, dated calendar and current signed terms were not verified from primary documents.",
+      "handoverNote": "The original branded brochure forecasts Q4 2026; Property Finder now forecasts August 2027, with 30 August in its timeline. No current primary source resolves this difference; no headline completion date is assigned.",
+      "units": [
+        {
+          "label": "2-bedroom Cannes · 0205",
+          "area": "413 m² / 4,444 ft² published total; rounded components differ from sum",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom St Tropez · 0406",
+          "area": "548 m² / 5,903 ft² published total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Monaco · 3901",
+          "area": "944 m² / 10,161 ft² published total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom Sky Mansion · 4201",
+          "area": "1,905 m² / 20,501 ft² published total; rounded components differ from sum",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "8-bedroom Sky Mansion · multi-level panels",
+          "area": "4301A: 4,108 m² / 44,214 ft²; later panels: 4,377 m² / 47,111 ft²; not additive or reconciled",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Construction · portal reference",
+          "percent": 70,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original brochure specification · verify contract",
+          "value": "200m building height; 4.25m slab-to-slab ceiling dimension, not clear finished ceiling height. Anticipated service charge AED 30–40 per sq ft is an old estimate, not an approved current budget.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm live availability, signed completion date, current unit price, dated payment milestones, parking and service entitlements, furnishings and approved service charges. Private car lifts apply to selected penthouses, not every home.",
+        "Eight-bedroom drawings publish different totals across level panels; no single contractual whole-home area established. Do not add the repeated level tables. Some rounded component sums differ from printed totals.",
+        "Brochure plot-size entry has no legible measurement unit; excluded. Marketing layout names are not detached-land ownership. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

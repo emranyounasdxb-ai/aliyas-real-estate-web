@@ -1,0 +1,270 @@
+{
+  "id": "samana-project-28",
+  "name": "SAMANA Skyros",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Skyros offers studio- to two-bedroom apartments in Arjan. Its brochure includes pool and non-pool studio and one-bedroom variants, with a two-bedroom pool layout.",
+    "areaId": "dubai-arjan",
+    "location": "Arjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 649000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Private-pool layouts",
+      "Leisure pool deck",
+      "Fitness centre",
+      "Rooftop jogging park",
+      "Children’s play area",
+      "Sauna and steam rooms",
+      "Outdoor cinema",
+      "Rooftop basketball court"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/15/5ef799ec8374d69f03a3770af77ebfd6.pdf",
+    "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771307148883-8866b44ae287f27d.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Skyros · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-skyros",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Skyros · official 39-page brochure and layouts",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/15/5ef799ec8374d69f03a3770af77ebfd6.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "plans",
+          "label": "Skyros branded nine-page floor pack · broker-hosted",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771307148883-8866b44ae287f27d.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Skyros reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-skyros",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "tanami",
+          "label": "Tanami Properties · unit-specific floor-plan references",
+          "url": "https://www.tanamiproperties.com/Projects/Samana-Skyros-FloorPlans",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "description": [
+          "brochure",
+          "developer"
+        ],
+        "overview": [
+          "brochure",
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentNote": [
+          "developer",
+          "finder"
+        ],
+        "units": [
+          "brochure",
+          "tanami"
+        ],
+        "facts": [
+          "brochure",
+          "plans",
+          "tanami"
+        ],
+        "unresolved": [
+          "brochure",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected Skyros28 originalown39pPDF, not Mykonos/Arjanotherproject. Current own649000, no currentinventory claim.",
+        "location": "OwnFAQ andprimarybrochureArjan. Exactregistrydubai-arjan; no inventedplot/coordinates or literaldrivetimes.",
+        "residences": "Actualown36twoStudio without/withpool,37twoonebed without/withpool,38twobedpool fullyread. Fivefamilies; currentFAQonlyfour omitsnonpoolStudio disclosed. Broker9p packcontactsamefivefamilies, noallpoolclaim.",
+        "areas": "Primarythreefullspreads fivefamilies have roomdimensionssomebutnoaggregatearea tables. Broker9ppack noareas. IndexedTanami actualwebmetadataStudio213431.74,1BR101830.54,2BR9021350.12 explicitlysecondaryunitreferences. Tanami2BRclassified870.37contradictsownonebedlabel andexcluded. No soldhistorysizes/imagemeasurements.",
+        "amenities": "Current own eightamenities verified:pool/leisuredeck/fitness/rooftopjogging/kids/sauna/steam/cinema/basketball; selectedpoollayouts. No universalpool/guaranteedreturn.",
+        "pricing": "OwnheadlineandFAQ649000 vsPF791577launch explicitlydifferentbasis. No currentpricePDF/availableunitquote.",
+        "payment": "OwnPDC20+30+10+5+5+30=100; non25+30+10+5+5+25=100. PF15/85differsretainednotadopted. No inferredhandovertrigger/timingoflastmonthlyblock.",
+        "handover": "OwnQ22027 vsPFApril2026/Ready tag inconsistentwithcurrentdeveloperfuturetarget. Nullheadline, no assumedcomplete/delayedstatusfromelapsedforecast.",
+        "documents": "Own39p28.83MB200full36–38fivefamilydrawingsread. BrokerSunlocate exactpublic9p7.37MBplansallcontactreviewed,34p28.13MBbrochurecorroborationonly. TanamifreshdirectGET403 no bypass; search/webaccessactualmetadatareadandattributed. Underlyingallbrochure/facts/plans/versionpool200140+60, generic0. No standaloneprimarypayment/pricelist verified."
+      },
+      "community": "Arjan",
+      "overview": [
+        "Five layout variants appear in the brochure. The studio without a pool is additional to the current FAQ’s four configurations; availability needs confirmation."
+      ],
+      "locationNote": "Arjan, Dubai.",
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Current developer headline and FAQ: AED 649,000. Property Finder lists an AED 791,577 launch reference. Neither confirms a specific available unit.",
+      "paymentNote": "PDC option shown. Non-PDC: 25% booking, the same 30 monthly and three milestone payments, then 50 monthly 0.5% payments. Both total 100%. Portal 15/85 terms differ; confirm the contract.",
+      "handoverNote": "Current developer FAQ anticipates Q2 2027; Property Finder lists April 2026 and labels the project ready. Actual completion was not verified.",
+      "units": [
+        {
+          "label": "Studio without pool",
+          "area": "Total not printed",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Studio + pool · broker unit 213",
+          "area": "431.74 ft²",
+          "sourceIds": [
+            "tanami"
+          ]
+        },
+        {
+          "label": "1BR without pool",
+          "area": "Total not printed",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + pool · broker unit 101",
+          "area": "830.54 ft²",
+          "sourceIds": [
+            "tanami"
+          ]
+        },
+        {
+          "label": "2BR + pool · broker unit 902",
+          "area": "1,350.12 ft²",
+          "sourceIds": [
+            "tanami"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC · booking",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "1% monthly × 30",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Month 6",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Month 12",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Month 18",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "0.5% monthly × 60",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Primary drawings omit aggregate areas. Broker unit references are secondary, not approved typology ranges.",
+          "sourceIds": [
+            "brochure",
+            "plans",
+            "tanami"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Approved unit areas, current inventory, service charges, parking allocation and contractual delivery remain unverified. Illustrative photography."
+      ]
+    }
+  }
+}

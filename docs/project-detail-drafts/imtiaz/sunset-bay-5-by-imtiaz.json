@@ -1,0 +1,271 @@
+{
+  "id": "imtiaz-project-11",
+  "name": "Sunset Bay 5 by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Sunset Bay 5 is a furnished apartment development on Dubai Islands. One- to three-bedroom homes sit above landscaped podium levels, with shared leisure facilities on the roof.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "October 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Rooftop infinity pool",
+      "Jacuzzi",
+      "Gym",
+      "Clubhouse",
+      "Outdoor dining and barbecue",
+      "Children’s playground",
+      "Sunken lounge",
+      "Outdoor seating",
+      "Changing rooms",
+      "Outdoor shower",
+      "Table tennis",
+      "EV charging"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-5/SUNSET_BAY_5_BROCHURE.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/3b9ea1d186ee4561b58062456d454558.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sunset Bay 5: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/sunset-bay-5-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Sunset Bay 5: branded 28-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/sunset-bay-5/SUNSET_BAY_5_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Sunset Bay 5: branded 10-page building plans, broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/3b9ea1d186ee4561b58062456d454558.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "broker",
+          "label": "Mitchell’s: attributed unit mix and minimum-size guide",
+          "url": "https://www.mitchellscommercialrealty.com/projects/sunset-bay-5",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Sunset Bay Phase5 launch reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/sunset-bay-phase-5-by-imtiaz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "ezre",
+          "label": "EZRE: alternative payment allocations",
+          "url": "https://ezre.ae/projects/sunset-bay-5/payment-plan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "broker",
+          "ezre"
+        ],
+        "paymentStages": [
+          "developer",
+          "broker"
+        ],
+        "paymentNote": [
+          "developer",
+          "broker",
+          "ezre"
+        ],
+        "units": [
+          "broker"
+        ],
+        "facts": [
+          "broker",
+          "plans",
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "plans",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected11SunsetBay5, titleown/SunsetBay5floorpack/brochurematch. PFexactphase5URL foundafterguessedshortslug404notused. NotSunsetBay4/original/Grand. Broker62=28+32+2reportedmixonlynotprimarycertified.",
+        "location": "Ownbody/FAQ andactualbrochureDubaiIslands; exactexistingdubai-islands. No directprivatebeach access/coordinates/guaranteedview transferredfrom genericcoastaltext. Brochstepsawayfrombeach marketingnotmeasuredtravelguarantee.",
+        "residences": "OwnFAQ1/2/3apartments fullyfurnished, actualbrochure22furnishingread. All10buildingpackpagesactualread, firstsixresidentialfloors1/2bed,7and8with3bed, roofsharedamenities; notduplexidentified so typeApartment. G+2P+8+R fromactualfloorpacknotanotherSunsetphase.",
+        "areas": "Actual28pbrochureand27pReellymirrorread,10pbuildingpackallpagesrendered/viewed; no aggregateindividualunitareas. Mitchellsactualpublicminsize965/1400/2009quotedfromtheirfactsreview, secondarybrokerreferenceonly; originalfactPDFnotpubliclyretrieved. EZRE966–967/1401–2183/2010showsdifferentroundedselectedunits, notmergedintoexactprimaryrange. PFunitTypeAblankareas; pastsoldtransactionsnotwholeprojectrange.",
+        "amenities": "Actualbrochure27twelveamenitiesand22EVcharging/furnishing viewed, currentprimarysame; selectedpubliclist. Roofdrawing10showscommunalpool/outdoorshower/diningcounter/kidsplay; podium4gymclubhouse. No operatingclaimoruniversalprivatepool.",
+        "pricing": "Currentownnoquotedstartingprice; PFSoldOut1900000launch, EZRE2288324selectedentry; neithercurrentprimaryquote. HeadlineNULL andportalhistoricalrefattributed. Brokeroriginalpricesarefromfactsnotactualvisualread so notadoptedprimary.",
+        "payment": "Own20booking/balance40completion leaves40construction andMitchells/Tanami/otherbrokers20/40/40corroborate. EZRE25/35/40and40/20/40differentpostedplans, actual100each, nofictionalnewbookingschedule. HeadlineNULLdueunconfirmedapplicability. Originalownfact/paybuttonsgated andbrokerfactsnotdownloadlinked; noexactcalendarinvention.",
+        "handover": "CurrentownFAQOctober2027/headerQ42027 matchesPF15Oct2027; no completionproof. OwnordinaryHTML52overall/99substructure/100superstructure/28MEP/37finishingundatedwebsiteprogress; olderrealindexed44/26/19notcurrentcapture. BrokerDLD9July32.62notprimaryindependentlyverified, noDLDcertclaim.",
+        "documents": "Ownpageordinary200 buttonsformmodal noPDFURL, noforms. Mitchellsbrochure28p88MB and2locationmapsordinary200saved; CasadiorpublishedReelly10p6.5MBbuildingplansand27p12.4MBbrochuremirrorordinary200, bothtextreviewed. All10planactualpages<=1700read, originalbroch22/27actualread. FactsandpaymentPDFwerenotlinkedpubliclyonMitchells, sourceclaims remainbrokertextnotpurportedprimaryPDF. Sharedallbrochures/planspool200100/100, no genericindexuse. Independent review reconciled document-based broker retelling with the same underlying brochure/plans pool:60/50/90=200; no additional allowance."
+      },
+      "community": "Dubai Islands",
+      "overview": [
+        "The building pack separates podium leisure areas from the rooftop pool deck. Three-bedroom homes appear on floors seven and eight."
+      ],
+      "locationNote": "Dubai Islands, Dubai; exact views and beach access depend on the selected home and approved plans.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "The developer publishes no price here. Property Finder retains an AED 1.9m launch reference and marks its developer release sold out.",
+      "paymentNote": "Reference below: 20% booking, 40% construction, 40% completion. Other brokers advertise 25/35/40 or 40/20/40; confirm the applicable contract.",
+      "handoverNote": "Developer target: October 2027, also shown by Property Finder. Completion is not certified.",
+      "units": [
+        {
+          "label": "1BR: broker minimum guide",
+          "area": "From 965 ft²",
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "label": "2BR: broker minimum guide",
+          "area": "From 1,400 ft²",
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "label": "3BR: broker minimum guide",
+          "area": "From 2,009 ft²",
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "developer",
+            "broker"
+          ]
+        },
+        {
+          "stage": "Construction reference",
+          "percent": 40,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "Completion reference",
+          "percent": 40,
+          "sourceIds": [
+            "developer",
+            "broker"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Broker-reported mix",
+          "value": "62 homes: 28 one-bedroom, 32 two-bedroom and 2 three-bedroom. Confirm approved inventory.",
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "label": "Building levels",
+          "value": "G+2P+8+R, per building pack.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "52% overall; 99% substructure; 100% superstructure; 28% MEP; 37% finishing. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Fit-out",
+          "value": "Fully furnished; confirm the final furniture and appliance schedule.",
+          "sourceIds": [
+            "developer",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Primary floorplates omit apartment-area totals; broker minimum sizes are not contractual unit measurements.",
+        "Confirm stock, prices, charges, parking, payment terms and delivery certification. Photography is illustrative."
+      ]
+    }
+  }
+}

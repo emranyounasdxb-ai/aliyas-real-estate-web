@@ -1,0 +1,86 @@
+{
+  "status": "published",
+  "date": "2026-10-30",
+  "researchedAt": "2026-10-30",
+  "excerpt": "Use AI to organise a property search while keeping facts, sources and decisions under review. Build a clearer brief, check original records and bring focused questions to local professionals.",
+  "introduction": "AI can turn a messy set of viewing notes into a neat comparison in seconds. The neatness is useful, but it can also be misleading. A missing fact may be filled with a plausible assumption, and an old listing detail may be presented with the same confidence as a current official record.\n\nThe sensible role for AI in a UAE property search is to help organise work you can check. It can structure questions, compare supplied information and expose gaps. It should not become the authority that decides whether a property exists as described, a document is valid or a purchase suits your circumstances.",
+  "takeaways": [
+    "Use AI for organisation and clearly bounded comparisons.",
+    "Open and check the original source behind consequential claims.",
+    "Keep sensitive documents and final decisions within appropriate trusted processes."
+  ],
+  "sections": [
+    {
+      "heading": "Give the tool a bounded job",
+      "body": "A broad request for the best property in Dubai leaves too much undefined. Start with your own criteria: purpose, timing, location preferences, budget boundaries and essential requirements. Ask the tool to organise those criteria or identify questions you have not answered, rather than invent a shortlist from uncertain data.\n\nFor example, provide anonymised viewing notes and ask for a table with columns for observed facts, agent statements and missing evidence. Tell it to leave unknown fields blank. Then compare the output with the notes yourself; an instruction to avoid guessing does not guarantee compliance.\n\nUse the result as a working document. If it makes a sensible new suggestion, add it to the research list. If it assumes something you did not say, correct the brief. The value lies in reducing administrative effort while keeping the underlying information visible."
+    },
+    {
+      "heading": "Recognise confidence without evidence",
+      "body": "[NIST's generative-AI risk profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) describes the risk of confidently presented false content, including misleading explanations and citations. That technical warning matters in a property search because a polished answer can sound more settled than the evidence allows.\n\nCheck names, dates, units and the scope of every consequential statement. A claim about an emirate may have been generalised from one community. A proposed project may have been described as complete. A historic market figure may have lost its reporting period during summarisation.\n\nDo not ask a second generated answer to serve as the only verification of the first. Open the original document or official service and confirm what it actually says. Where legal, financial or technical interpretation is needed, use an appropriately qualified professional. A well-written summary is not the same thing as a verified conclusion."
+    },
+    {
+      "heading": "Build a source trail that survives the conversation",
+      "body": "Keep the source link, document date and relevant question beside each fact. If an answer cites a report, check that the report exists and supports the specific claim. A genuine link to an organisation's homepage does not establish every statement attributed to it.\n\nFor an Abu Dhabi document or advertisement check, [ADREC's verification service](https://adrec.gov.ae/en/verify-document) provides specific checks for tenancy contracts, certificates and Madhmoun permits. Use the appropriate official route for the document and jurisdiction. A generated description of a verification result is not a result you have obtained yourself.\n\nRecord whether information is current, historical, proposed or unconfirmed. The [digital property-folder guide](/journal/digital-property-document-folder) offers a practical place to keep those records. A source trail also helps a local adviser answer the right question without reconstructing how an unsupported statement entered your shortlist.",
+      "table": {
+        "caption": "Useful AI tasks and the checks they still need",
+        "columns": [
+          "Task",
+          "Reasonable use",
+          "Human verification"
+        ],
+        "rows": [
+          [
+            "Organise viewing notes",
+            "Group supplied observations",
+            "Compare against the original notes"
+          ],
+          [
+            "Compare payment schedules",
+            "Lay out stated dates and amounts",
+            "Check documents and arithmetic"
+          ],
+          [
+            "Suggest viewing questions",
+            "Identify possible gaps",
+            "Keep questions relevant to the actual property"
+          ],
+          [
+            "Summarise a source",
+            "Extract a short explanation",
+            "Read the original scope and date"
+          ],
+          [
+            "Evaluate a legal or technical claim",
+            "Prepare questions for a professional",
+            "Obtain qualified advice and primary evidence"
+          ]
+        ],
+        "note": "Original workflow examples; no claim about the accuracy of a particular AI product."
+      }
+    },
+    {
+      "heading": "Make comparisons transparent rather than impressive",
+      "body": "If you use a scoring table, choose the criteria and weights yourself and explain them. A score can organise preferences, but it should not disguise missing information. A property with an unconfirmed service charge should not receive a favourable cost score because the field was left empty.\n\nAsk the tool to show calculations and inputs separately. Recalculate important totals independently and check that annual, monthly and one-time amounts have not been mixed. Keep forecasts apart from observed figures and avoid using invented precision to rank uncertain choices.\n\nReview whether the comparison gives too much weight to what is easiest to quantify. A clear route for a family member, a workable room arrangement or an unacceptable daily journey may deserve more attention than a small difference in an automated score. The household's judgement should remain visible."
+    },
+    {
+      "heading": "Protect information before uploading it",
+      "body": "A property search can involve passports, financial records, contracts and other people's personal details. Do not upload complete documents to an unfamiliar service simply because it offers a convenient summary. Check the service's data handling, access and retention terms, and use an appropriate approved channel where sensitive information is involved.\n\nYou can often ask a useful question with an anonymised description or a limited extract that you are authorised to share. Remove unnecessary identifiers carefully, while preserving an untouched original in secure storage. Do not assume renaming a file removes sensitive information inside it.\n\nThe [online-search privacy guide](/journal/protect-information-online-property-search) covers recipient verification and proportionate sharing. Keep credentials and verification codes out of prompts and shared documents. Convenience should not expand the audience for your personal records without a deliberate reason."
+    },
+    {
+      "heading": "Bring a better brief to the local conversation",
+      "body": "Use the organised notes to ask a broker or relevant professional specific questions: which details are confirmed, what evidence remains missing and what would change the recommendation. Ask for the basis of their answer rather than treating human confidence as automatic proof either.\n\nLocal knowledge is particularly useful when it can be tied to the actual property, building process or current availability. It should complement official records, inspections and appropriate advice, not replace them. Record the response and any promised follow-up in the same comparison file.\n\nA successful use of AI leaves you with fewer administrative distractions and a clearer understanding of the evidence. It does not require pretending the tool has visited the home, checked every document or understood your future perfectly. Keep it useful by giving it work you can inspect."
+    }
+  ],
+  "references": [
+    {
+      "label": "NIST AI 600-1: Generative Artificial Intelligence Profile, section 2.2",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "period": "26 July 2024 technical risk profile, checked 30 October 2026"
+    },
+    {
+      "label": "Abu Dhabi Real Estate Centre: document verification",
+      "url": "https://adrec.gov.ae/en/verify-document",
+      "period": "Official service categories checked 30 October 2026; no individual document checked for this article"
+    }
+  ]
+}

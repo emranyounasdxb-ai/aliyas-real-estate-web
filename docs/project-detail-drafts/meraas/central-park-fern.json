@@ -1,0 +1,202 @@
+{
+  "id": "meraas-project-23",
+  "name": "Central Park Fern",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Fern is an apartment phase within Central Park at City Walk, with one- to four-bedroom homes and two duplex penthouses. Its plans range from compact balcony apartments to large split-level layouts with service rooms and terraces. The park and activity spaces form part of the wider shared community.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1900000,
+    "handover": null,
+    "paymentPlan": "20/30/50 · historical developer plan",
+    "amenities": [
+      "Pools and water play",
+      "Running track",
+      "Dog park",
+      "Children’s play areas",
+      "Tennis and squash courts",
+      "Outdoor fitness",
+      "Spa and sauna",
+      "Yoga areas",
+      "Community dining",
+      "Barbecue areas"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2023-11/Central%20Park%20Fern%20Final-CP-Brochure_ENGLISH_Digital_Fern.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2023-11/Central%20Park%20Fern%20Final-CP-FP_ENGLISH_Print_Fern.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Central Park Fern official project page",
+          "url": "https://meraas.com/en/project/citywalk-central-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brochure",
+          "label": "Central Park Fern own official brochure and plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/Central%20Park%20Fern%20Final-CP-Brochure_ENGLISH_Digital_Fern.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Central Park Fern",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/fern-central-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Official Fern floor plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/Central%20Park%20Fern%20Final-CP-FP_ENGLISH_Print_Fern.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "payment",
+          "label": "Official original Fern payment plan",
+          "url": "https://meraas.com/sites/default/files/2023-11/Central%20Park%20Fern%20CP%20PAYMENT%20PLAN%20ENGLISH-Fern.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Fern brochure and plans inspected, not Laurel or Erin layouts.",
+        "location": "Phase brochure confirms Central Park at City Walk.",
+        "residences": "One-to-four-bedroom apartments plus two penthouses; penthouse guest-room classification explicitly qualified.",
+        "areas": "Actual numerical panels and plans visually checked on PDF pages 3, 6, 10 and 11.",
+        "amenities": "Own phase brochure shared community facility list checked.",
+        "pricing": "No numeric official quote located; portal 1.9m selected reference attributed.",
+        "payment": "Official own payment sheet visually inspected: 20 + 10 + 10 + 10 + 50=100.",
+        "handover": "Official original July 2026 schedule differs portal March 2026; current delivery unconfirmed.",
+        "documents": "Own 25-page brochure, 13-page plans and one-page payment sheet retrieved; overlapping plan text budget pooled."
+      },
+      "community": "City Walk",
+      "overview": [
+        "The penthouse plan has separate upper sleeping rooms and a lower guest room. The repeated area table describes the complete residence, not a second equal floor area to add to the total."
+      ],
+      "locationNote": "At Central Park in City Walk, Dubai. The own phase brochure provides the location and shared park context. Views and access arrangements remain unit-specific.",
+      "priceLabel": "Portal advertised reference · reconfirm",
+      "priceNote": "Property Finder displays about AED 1.9m as a selected-availability reference, while its legacy one-bedroom table begins near AED 1.8m and stock is marked unavailable. No current developer quote is established; the displayed reference is not a live offer.",
+      "paymentNote": "The official original sheet gives 20% booking, 10% April 2023, 10% October 2023, 10% July 2024 and 50% July 2026 on handover. These historical dates do not establish a current unit balance or amended schedule.",
+      "handoverNote": "Original official schedule: July 2026. Property Finder gives March 2026. Meraas lists Fern sold out and nearing handover; actual unit delivery remains unconfirmed.",
+      "units": [
+        {
+          "label": "1-bedroom Types A.7–A.12 · unit 210 example",
+          "area": "714.30 sq ft suite + 67.27 sq ft balcony; 781.57 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type C1 · units 1609–1909",
+          "area": "1,096.52 sq ft suite + 96.77 sq ft balcony; 1,193.29 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Duplex penthouse Type A1 · unit 2001",
+          "area": "6,437.68 sq ft suite + 2,508.10 sq ft outdoor area; 8,945.78 sq ft whole-unit total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "October 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2026 · original handover target",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm actual handover and a current unit quote, resale payment balance, parking and service charges.",
+        "Penthouses show four upper bedrooms plus a lower guest room, while marketing classifies the collection as one-to-four bedrooms. No extra marketed bedroom category is inferred without unit documentation.",
+        "Penthouse totals repeat on lower and upper plans and have not been added together. Facilities remain shared rather than privately included in every unit. Images remain illustrative."
+      ]
+    }
+  }
+}

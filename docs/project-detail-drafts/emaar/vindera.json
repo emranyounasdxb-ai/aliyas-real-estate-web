@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-42","name":"Vindera","developerSlug":"emaar",
+ "fields":{
+  "description":"Vindera is a three and four bedroom townhouse neighbourhood in The Valley Phase 2. Emaar places it among gardens, forest walks and Central Park views, with a clubhouse and outdoor spaces intended for family life. The homes combine contemporary façades with private gardens and open-plan living areas.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":3170000,"handover":"Q4 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Resident clubhouse","Leisure pools and landscaped deck","Gymnasium","Children’s playground","Community parks and discovery trails","Flower farm and orchard","Yoga and meditation areas","Soccer pitch","Tennis, padel and basketball courts","Skatepark and scooter pump track","Dog park","Jogging route","Multipurpose room"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/VINDERA_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VINDERA_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Vindera at The Valley","url":"https://www.emaar.com/en/properties/vindera-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Vindera brochure","url":"https://www.emaar.com/cms-media/uploads/VINDERA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Vindera four-plex and six-plex plans","url":"https://www.emaar.com/cms-media/uploads/VINDERA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Vindera fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/vindera/VINDERA_THE_VALLEY_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Vindera payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/vindera/VINDERA_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Vindera · conflicting delivery and payment terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/vindera","kind":"portal","checkedOn":"2026-10-31","derivedWords":60},
+    {"id":"bayut","label":"Bayut: Vindera · delivery-date cross-check","url":"https://www.bayut.com/for-sale/property/dubai/the-valley-by-emaar/vindera/","kind":"portal","checkedOn":"2026-10-31","derivedWords":35}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder","bayut"],"handover":["payment","finder","bayut"]},
+   "reviewCoverage":{
+    "identity":"Vindera at The Valley Phase 2 confirmed on the official page; not confused with Venera.",
+    "location":"The Valley on Dubai–Al Ain Road; masterplan setting reviewed without treating drive times as guarantees.",
+    "residences":"Three and four bedroom townhouses, four-plex and six-plex blocks in two styles.",
+    "areas":"All 25 plan pages read; eight size categories retained. Four-bedroom four-plex Style 1 visually checked. Total includes garage and balcony/terrace.",
+    "amenities":"Project clubhouse/pools and wider landscape facilities distinguished from operational guarantees; school/hospital references do not confirm opening.",
+    "pricing":"Official AED 3.17m headline distinguished from earlier fact-sheet AED 3.07m and four-bedroom AED 4.14m.",
+    "payment":"Phase-branded nine-stage schedule visually checked and totals 100%; portal 10/80/10 conflict disclosed.",
+    "handover":"Document estimates December 2029; Property Finder and Bayut show Q4 2028, so developer confirmation remains necessary.",
+    "documents":"Official 25-page brochure and 25-page plans linked; broker-hosted Emaar facts and payment document attributed. Images unchanged."
+   },
+   "community":"The Valley · Phase 2",
+   "overview":["The brochure describes a neighbourhood shaped around outdoor routines: landscaped walks, places for children to explore and communal spaces for exercise or an evening gathering. Its wider park plan includes an orchard, flower-growing areas, a river landscape and several different play and sports zones. Inside the homes, kitchen, dining and lounge spaces share an open arrangement, with neutral finishes and direct connections to outdoor areas. The clubhouse and leisure pools are resident facilities; the landscape programme extends across the wider community. Confirm which facilities will be available when the selected home is delivered."],
+   "locationNote":"Vindera is in The Valley Phase 2, within Emaar’s Dubai–Al Ain Road community. Check the exact plot, entrance and journey to work or school rather than relying on the brochure’s indicative drive times.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar currently advertises AED 3.17m. The launch fact sheet lists three-bedroom homes from AED 3.07m and four-bedroom homes from AED 4.14m. These are different published price bases, not confirmation of an available unit; request a dated quotation for the selected home.",
+   "paymentNote":"The Emaar-branded document shows 10% at booking, seven further 10% instalments and 20% at estimated completion. Property Finder instead displays 10/80/10, while Bayut shows 80/20. The document schedule is retained here with the conflict disclosed. Past-due instalments and current terms require confirmation.",
+   "handoverNote":"The project payment sheet estimates December 2029. Both Property Finder and Bayut currently show Q4 2028. The document date is used provisionally; obtain the current developer schedule and contractual handover before making a decision.",
+   "units":[
+    {"label":"3 bedroom · four-plex Style 1","area":"2,401.32 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom · four-plex Style 2","area":"2,396.15 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom · six-plex Style 1","area":"2,403.47–2,406.38 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom · six-plex Style 2","area":"2,396.15 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom · four-plex Style 1","area":"2,923.58 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom · four-plex Style 2","area":"2,906.90 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom · six-plex Style 1","area":"2,922.29 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom · six-plex Style 2","area":"2,906.90 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"578 townhouses: 352 three-bedroom and 226 four-bedroom homes. Minimum advertised plots are 1,617 and 2,588 sq ft respectively. These describe the launch collection, not current stock.","sourceIds":["facts"]},
+    {"label":"Layout and area basis","value":"Published totals include the suite, garage and balcony/terrace. The four-bedroom four-plex Style 1 has a ground-floor guest bedroom, maid’s room and laundry, with three bedrooms upstairs. Furnishings and landscaped drawings are illustrative.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Resolve the December 2029 document date versus Q4 2028 portal dates with the developer and sale agreement.","Confirm current payment terms against conflicting portal summaries, and any already-due instalments.","Current stock, price, exact plot size, specifications, community charges and facility opening dates remain to be confirmed.","Schools and hospitals are community-plan references, not confirmation that a named facility is operating inside Vindera.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

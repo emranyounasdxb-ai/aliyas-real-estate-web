@@ -1,0 +1,175 @@
+{
+  "id": "azizi-project-14",
+  "name": "Azizi Raffi",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi Raffi is an apartment development in Al Furjan, with studios and one- to three-bedroom homes above street-level retail. Published layouts include balconies and different internal configurations. Separate adult and children’s pools and a multipurpose hall are among its marketed shared facilities.",
+    "areaId": "dubai-al-furjan",
+    "location": "Al Furjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 717000,
+    "handover": "Q1 2028 · portal forecast; earlier date conflict",
+    "paymentPlan": "20/20/60 · portal reference",
+    "amenities": [
+      "Adult swimming pool",
+      "Children’s pool",
+      "Gym",
+      "Children’s play area",
+      "Multipurpose hall",
+      "Landscaped walkways",
+      "Retail and dining",
+      "Parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/azizi-raffi/AZIZI_RAFFI_FACTSHEET.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/azizi-raffi/floor-plans/d4c8455a818c8656.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi-branded Raffi factsheet · two-page broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/azizi-raffi/AZIZI_RAFFI_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "plans",
+          "label": "Azizi-branded Raffi AFC-054B unit plans · 27-page broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/azizi-raffi/floor-plans/d4c8455a818c8656.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Raffi project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-raffi",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 115
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "facts"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Branded factsheet and project-specific linked pack verified; official domain returned 403/429, no bypass.",
+        "location": "Al Furjan in branded factsheet; unmapped areaId pending central addition.",
+        "residences": "Studio–three-bedroom homes; three retail units and cafe in branded factsheet.",
+        "areas": "Actual drawing pages 1,20,24–27 visually checked; apartment/balcony/total labels, ft² and alternative revisions distinguished.",
+        "amenities": "Branded factsheet pools, gym, hall, walks, play, retail/dining, parking/security reviewed.",
+        "pricing": "Portal 717k guide, current primary unit-price sheet unavailable.",
+        "payment": "Portal 20/20/60 totals 100; no primary dated calendar retrieved.",
+        "handover": "Branded September 2026 differs from portal January 2028; no completed assumption.",
+        "documents": "Branded two-page facts and 27-page plan pack downloaded as broker mirrors; no primary current payment/availability document."
+      },
+      "community": "Al Furjan",
+      "overview": [
+        "The branded factsheet identifies three retail units and a café alongside the homes. Balcony layouts differ between apartment types."
+      ],
+      "locationNote": "Al Furjan, Dubai. Marketing travel times do not establish guaranteed journeys or an on-site metro entitlement.",
+      "priceLabel": "Portal launch guide · reconfirm",
+      "priceNote": "Property Finder publishes AED 717,000. No current primary unit-price sheet or live stock confirmation was retrieved.",
+      "paymentNote": "Property Finder lists 20% booking, 20% construction and 60% handover. This portal reference does not establish a selected unit’s dated schedule.",
+      "handoverNote": "The older branded factsheet prints September 2026. Property Finder forecasts Q1 2028, with January 2028 and a 15 January timeline. No current primary contractual document resolves the conflict.",
+      "units": [
+        {
+          "label": "Studio Type 02B · unit 219 · plan p1",
+          "area": "373.61 ft² total; 281.69 apartment + 91.92 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01A · unit 209 · plan p20",
+          "area": "605.47 ft² printed total; components sum 605.46 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01 · unit 215 · plan p24",
+          "area": "1,216.64 ft² total; 972.73 apartment + 243.91 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type 01 · unit 208 · plan p26",
+          "area": "1,427.62 ft² printed total; components sum 1,427.61 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal guide",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal guide",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal guide",
+          "percent": 60,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm contractual completion, availability/quote, dated instalments, approved service charges, parking and furnishing. Portal sold-out status does not settle resale stock.",
+        "The pack contains different areas for the same labelled type/unit. Samples identify exact pages; components sometimes round by 0.01 ft². Do not combine revisions or treat samples as certified category ranges.",
+        "Plan disclaimers exclude decorative furniture/equipment. Amenity marketing does not establish operational opening or free access. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

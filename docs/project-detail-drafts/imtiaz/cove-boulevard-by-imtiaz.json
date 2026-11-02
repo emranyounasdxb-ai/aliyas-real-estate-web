@@ -1,0 +1,330 @@
+{
+  "id": "imtiaz-project-20",
+  "name": "Cove Boulevard by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Cove Boulevard combines furnished apartments and office space in Dubai Land Residence Complex, with separate work and residential facilities.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 650000,
+    "handover": null,
+    "paymentPlan": "60 / 40",
+    "amenities": [
+      "Family pool",
+      "Rooftop infinity pool",
+      "Gym",
+      "Clubhouse",
+      "Children’s play area",
+      "Jacuzzi",
+      "Outdoor yoga space",
+      "BBQ area",
+      "Gardens",
+      "Office business lounge"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/cove-boulevard/Cove_Boulevard_Brochure.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/ab12c8f16fe24cefbd4469e714e95c2f.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Cove Boulevard · developer project and FAQ",
+          "url": "https://imtiaz.ae/property/cove-boulevard-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Cove Boulevard · branded brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-boulevard/Cove_Boulevard_Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "facts",
+          "label": "Cove Boulevard · original unit-mix factsheet, broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/7d950a4fc24c4077987b7b3eb4dbecf2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "prices",
+          "label": "Cove Boulevard · historical branded project summary, broker-hosted",
+          "url": "https://jiwak.com/files/properties/826e280b88089fed33d2ed9f881dd5ec90ac31b5.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Cove Boulevard · building floor plates, broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/ab12c8f16fe24cefbd4469e714e95c2f.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Cove Boulevard",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/cove-boulevard",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "brief",
+          "label": "Mitchell’s · original calendar transcription",
+          "url": "https://www.mitchellscommercialrealty.com/projects/cove-boulevard",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        }
+      ],
+      "community": "Dubai Land Residence Complex",
+      "overview": [
+        "The primary mix totals 436: 149 offices and 287 apartments, comprising 172 studios, 62 one-bedroom, 48 two-bedroom and five three-bedroom homes."
+      ],
+      "locationNote": "Dubai Land Residence Complex, Dubailand, Dubai.",
+      "priceLabel": "Historical branded starting-price reference",
+      "priceNote": "Original summary: studio AED 650,000. Property Finder’s narrative instead gives AED 1,865,150, with a rounded AED 1.9m launch headline. Different inventory/bases; current quotation required.",
+      "handoverNote": "Developer forecasts Q2 2028; original summary says June. Property Finder specifies 30 October 2028. Headline withheld pending confirmation.",
+      "paymentNote": "Historical 60/40 calendar transcribed by Mitchell’s shown. Developer also describes 70/30: 70% by completion, then 30% quarterly over three years. Portal instead labels 30% at handover. Confirm the contract.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "360 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "1BR",
+          "area": "740 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "2BR",
+          "area": "1,170 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "3BR",
+          "area": "1,400 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "Office",
+          "area": "650 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "Whole office floor",
+          "area": "12,500 ft² · historical starting size",
+          "sourceIds": [
+            "prices"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · March 2025",
+          "percent": 20,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 June 2025",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 November 2025",
+          "percent": 10,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 March 2026",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "15 October 2027",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "Completion · historical 15 June 2028 forecast",
+          "percent": 40,
+          "sourceIds": [
+            "brief"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published arrangement",
+          "value": "Office levels 1–13; amenities level 14; apartments levels 15–30; rooftop leisure. Configuration printed separately: 2B + G + 4P + 30 + R.",
+          "sourceIds": [
+            "brochure",
+            "facts"
+          ]
+        },
+        {
+          "label": "Historical family prices",
+          "value": "1BR AED 970,000; 2BR AED 1,280,000; 3BR AED 1,450,000; office AED 877,500; whole office floor AED 17m.",
+          "sourceIds": [
+            "prices"
+          ]
+        },
+        {
+          "label": "Developer progress snapshot",
+          "value": "Undated: overall 12; substructure 55, superstructure 1, MEP 0, finishing 0.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Retrieved plans show whole floors, without individual measured-area tables. Office fit-out is shell-and-core in the original summary. Exact unit sizes, charges, parking entitlements and available stock remain unverified. Illustrative photography."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "price": [
+          "prices"
+        ],
+        "priceLabel": [
+          "prices"
+        ],
+        "priceNote": [
+          "prices",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "prices",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "prices",
+          "finder"
+        ],
+        "paymentNote": [
+          "developer",
+          "brief",
+          "finder"
+        ],
+        "paymentStages": [
+          "brief"
+        ],
+        "units": [
+          "prices"
+        ],
+        "facts": [
+          "brochure",
+          "facts",
+          "prices",
+          "developer"
+        ],
+        "unresolved": [
+          "plans",
+          "prices"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected Imtiaz20 exact CoveBoulevard mixed-use primary page and branded covers, not Cove/CoveEdition. All IDs/slugs/owner/media unchanged.",
+        "location": "Current ownFAQ explicitlyDLRC exactexistingregistry, E66/E611 access not assumed travel times or coordinates.",
+        "residences": "Actualfacts2 counts149+172+62+48+5=436; residential287, office149. OwnStudio–3mix. Brochure6 actualstack and fullplans3/8/10/11/12 visuallyread office/Studio/1/2/3 families, no inventedindividual inventory.",
+        "areas": "Actual tall onepage brandedsummary visible UNITS&PRICES table crop read:360/740/1170/1400/650/12500squarefeet starting sizes. Not from OCRwhichomitsrastertable. Plans12p arefloorplates, noindividualareatable. No numericconversion/balconypromoted.",
+        "amenities": "Owncurrentfacilities plusactualoriginalbrochure6 rooftopmale/femalegymand14amenities confirmed, actualplans12rooftop. Officebusinesslounge inoriginalbrochure separatefrom residential amenities. No automatic crossaccess guarantee.",
+        "pricing": "Actualonepage brandedtable historicalprices650000/970000/1280000/1450000/877500/17m visually read. Currentprimarypage noprice. PFheadline1.9m/narrative1865150different unitbasis. No currentunitquoteoravailableinventoryclaim.",
+        "payment": "PrimaryFAQ60/40 and70/30post verified. OriginaldetailedPDFnotretrieved, publicMitchells exactcalendar only attributed secondary,20+5+10+5+5+5+5+5+40=100. Alternative originalsamefirst60then10completion30post=100;12quarterly2.5=30. PF70construction30handover conflicts posthandover interpretation explicit.",
+        "handover": "OwncurrentQ22028 andoriginalsummaryJune2028 differPF30Oct2028; headlineNULL. OriginalMitchellscalendar15June2028 qualifiedhistorical. No assumed actualhandover. Own12progressnumericalsnapshotundated.",
+        "documents": "Ordinarypublic ownHTML31Oct200 butownbuttonsformgated noformsubmitted. Actual broker67pbrochure, alternate67pduplicate,1ptallsummary,4pfacts,12pplans retrieved. Allcontactsseen, actualstack6, facts2, summarynumerictablecrop, plans3/8/10/11/12 fullread. OriginalpublicResaleDXB download returnedHTMLopeninggate notPDF, excluded. Broker sourceshonest. AllrelatedPDFpool20045+30+90+35, alternatebrochure0duplicateonly. No currentprice/paymentPDF retrieved despite targetedpublicsearch."
+      }
+    }
+  }
+}

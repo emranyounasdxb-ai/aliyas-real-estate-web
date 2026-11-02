@@ -1,0 +1,169 @@
+.project-detail .pd-research-citations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  margin: 8px 0 16px;
+  font: 400 12px/20px var(--font-ui);
+}
+.project-detail .pd-research-citations a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--accent-ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.project-detail .pd-research-citations a:hover {
+  color: var(--ink);
+}
+.project-detail .pd-research-block {
+  margin-top: 24px;
+}
+.project-detail .pd-research-table-wrap {
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  margin: 16px 0 24px;
+}
+.project-detail .pd-research-table {
+  width: 100%;
+  border-collapse: collapse;
+  font: 400 14px/20px var(--font-ui);
+  text-align: left;
+}
+.project-detail .pd-research-table caption {
+  caption-side: bottom;
+  padding: 16px;
+  text-align: left;
+  color: var(--muted);
+  font: 400 12px/20px var(--font-ui);
+}
+.project-detail .pd-research-table thead {
+  background: #b89b58;
+  color: #181818;
+}
+.project-detail .pd-research-table th,
+.project-detail .pd-research-table td {
+  padding: 16px;
+  vertical-align: top;
+}
+.project-detail .pd-research-table tbody tr:nth-child(even) {
+  background: var(--raised);
+}
+.project-detail .pd-research-table th {
+  font-weight: 600;
+}
+.project-detail .pd-research-table td .pd-research-citations {
+  margin-bottom: 0;
+}
+.project-detail .pd-research-payments {
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 24px 0;
+}
+.project-detail .pd-research-payments li {
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  min-width: 0;
+}
+.project-detail .pd-research-payments strong {
+  display: block;
+  font: 600 30px/36px var(--font-ui);
+  color: var(--accent-ink);
+  margin-bottom: 8px;
+}
+.project-detail .pd-research-payments li > span {
+  font: 400 14px/20px var(--font-ui);
+}
+.project-detail .pd-research-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+.project-detail .pd-research-facts > div {
+  padding: 16px;
+  background: var(--raised);
+  border-radius: 12px;
+}
+.project-detail .pd-research-facts dt {
+  font: 400 12px/20px var(--font-ui);
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.project-detail .pd-research-facts dd {
+  margin: 0;
+  font: 400 14px/24px var(--font-ui);
+}
+.project-detail .pd-research-source-list {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+  display: grid;
+  gap: 12px;
+}
+.project-detail .pd-research-source-list a {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font: 500 14px/20px var(--font-ui);
+}
+.project-detail .pd-research-source-list a:hover {
+  background: var(--raised);
+}
+.project-detail .pd-research-source-list small {
+  display: block;
+  margin-bottom: 4px;
+  font: 400 12px/16px var(--font-ui);
+  color: var(--accent-ink);
+}
+.project-detail .pd-research-source-list svg {
+  flex-shrink: 0;
+}
+.project-detail .pd-research-pending {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px;
+  font: 400 14px/24px var(--font-ui);
+}
+.project-detail .pd-research-pending summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.project-detail .pd-research-pending ul {
+  padding-left: 16px;
+  margin: 16px 0 0;
+}
+.project-detail .pd-research-pending li + li {
+  margin-top: 8px;
+}
+.project-detail :is(.pd-research-table-wrap, .pd-research-pending summary):focus-visible {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+}
+@media (max-width: 700px) {
+  .project-detail .pd-research-payments,
+  .project-detail .pd-research-facts {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .project-detail .pd-research-payments li {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .project-detail .pd-research-payments strong {
+    min-width: 64px;
+  }
+  .project-detail .pd-research-table th,
+  .project-detail .pd-research-table td {
+    padding: 12px;
+  }
+}

@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-55","name":"Valo","developerSlug":"emaar",
+ "fields":{
+  "description":"Valo combines 285 apartments with six three-bedroom townhouses in Dubai Creek Harbour’s Creek Beach district. The apartments offer one to three bedrooms, while the townhouses span two podium levels. A shared amenities podium brings pools, gardens and fitness spaces together, with the waterfront and neighbourhood plaza forming part of the wider setting.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":2900888,"handover":"Q3 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Swimming pool","Children’s pool and play area","Indoor and outdoor gym","Flexible lawn","Multipurpose room","Barbecue and picnic area","Yoga area","Common garden"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/383250_brochure_File_74bf62e8b9_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VALO_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Valo at Dubai Creek Harbour","url":"https://www.emaar.com/en/properties/valo-at-dubai-creek-harbour","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"brochure","label":"Emaar: Valo brochure","url":"https://www.emaar.com/cms-media/uploads/383250_brochure_File_74bf62e8b9_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"plans","label":"Emaar: Valo apartment and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/VALO_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Valo launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/valo/VALO_DCH_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":155},
+    {"id":"payment","label":"Valo payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/valo/VALO_DCH_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"finder","label":"Property Finder: Valo","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/valo","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official"],"amenities":["official","facts"],"price":["official","facts","finder"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Valo page and own launch documents confirmed; Valia and neighbouring projects excluded.",
+    "location":"Creek Beach district of Dubai Creek Harbour confirmed. Future transport claims qualified rather than represented as running services.",
+    "residences":"Own fact sheet identifies 285 one-to-three bedroom apartments plus six three-bedroom townhouses.",
+    "areas":"All 29 official floor-plan pages reviewed; exact totals recorded separately for apartments and duplex podium townhouses. Townhouse drawing visually checked.",
+    "amenities":"Official page and own fact sheet agree on 6,000 sq m amenities podium and facilities; brochure sustainability measures reviewed.",
+    "pricing":"Developer’s current available-unit figure separated from retained AED 1.79m launch headline and historical category starts. Portal’s higher price not substituted.",
+    "payment":"Own fact sheet and eleven-stage payment PDF visually checked; two 5% stages preserved and percentages total 100%.",
+    "handover":"September 2028 launch estimate agrees with Property Finder; no claim of current completion made.",
+    "documents":"Official brochure and complete floor-plan pack linked alongside attributed Emaar launch fact/payment copies. Imagery unchanged."
+   },
+   "community":"Creek Beach · Dubai Creek Harbour",
+   "overview":["Valo’s architecture uses shaded balconies and locally sourced materials within a contemporary waterfront setting. The brochure sets out practical environmental measures including insulated roofs, double glazing, condensate reuse for irrigation and energy-saving lighting. EV charging and bicycle parking are included in the design programme. Confirm the delivered specification and allocation of these facilities for the chosen home."],
+   "locationNote":"The development sits near the main plaza in the Creek Beach district. Emaar identifies Creek Marina, Harbour Promenade, Central Park and the Viewing Point as nearby destinations. Canal, park and skyline views vary by apartment. Check current road routes and the delivery status of advertised metro and water-transport connections separately.",
+   "priceLabel":"Developer-listed units from",
+   "priceNote":"Emaar’s available-unit section shows AED 2,900,888; the same page retains a starting headline of AED 1.79m. The April 2024 fact sheet lists launches from AED 1.79m, 2.4m and 4.13m for apartments with one, two and three bedrooms, and AED 4.86m for townhouses. Property Finder shows a higher headline. These are differing dated offers, not a current price guarantee.",
+   "paymentNote":"The original plan totals 90% before completion and 10% at estimated completion. September 2025 and February 2028 carry 5% each; the remaining nine stages are 10% each. This is a historical construction-linked schedule. Confirm paid amounts, remaining instalments and any revised terms for the selected unit.",
+   "handoverNote":"The launch payment document estimates September 2028 completion, also reported by Property Finder. Confirm the current programme and contractual possession terms with the developer.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"751.54–796.74 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,071.44–1,263.79 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,785.95–1,876.36 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · podium duplex","area":"2,041.48–2,048.26 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · April 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"June 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":5,"sourceIds":["payment"]},
+    {"stage":"February 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2028 · 90% construction","percent":5,"sourceIds":["payment"]},
+    {"stage":"September 2028 · estimated construction completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"291 homes comprise 285 apartments and six townhouses. These are launch totals and do not indicate today’s available inventory.","sourceIds":["facts"]},
+    {"label":"Shared recreation","value":"The official page and fact sheet describe a 6,000 sq m amenities podium, combining active and quieter uses. Confirm opening dates, maintenance arrangements and any usage rules before relying on specific facilities.","sourceIds":["official","facts"]},
+    {"label":"Townhouse layout","value":"The three-bedroom townhouses occupy podium levels 1 and 2. The reviewed plan places one bedroom, a maid’s room, laundry and living/dining space downstairs, with two bedrooms upstairs. All six show 1,956.34 sq ft of suite area; balcony differences account for their varying totals.","sourceIds":["plans"]},
+    {"label":"Comparing apartment sizes","value":"Totals include balconies. Three-bedroom apartment drawings range from 1,785.95 to 1,876.36 sq ft; the approximately 2,041–2,048 sq ft homes are townhouses, not standard apartments. Use the exact approved plan rather than rounded portal ranges.","sourceIds":["plans","finder"]}
+   ],
+   "unresolved":["Confirm current unit availability, quotation, paid instalments and remaining obligations; launch prices are not live offers.","Current construction progress, contractual handover, service charges and parking allocation are not independently established.","Community facility opening dates and the operating status of advertised transport connections require confirmation.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

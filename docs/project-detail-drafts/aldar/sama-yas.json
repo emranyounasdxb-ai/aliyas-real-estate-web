@@ -1,0 +1,245 @@
+{
+  "id": "aldar-project-30",
+  "name": "Sama Yas",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Sama Yas is Aldar’s residential collection beside Yas Park on Yas Island. Apartments, garden homes and duplexes are arranged around park living, with a hospitality-led service offering and kitchens developed with input from Chef Izu Ani.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "Release-specific · confirm",
+    "paymentPlan": "60/40 · reported",
+    "amenities": [
+      "Swimming pool",
+      "Children’s playroom",
+      "Cafés and restaurants",
+      "Gym",
+      "Concierge",
+      "Valet service",
+      "Canopy Club residents’ lounge",
+      "Cinema",
+      "Exercise track",
+      "Reading room",
+      "Spa",
+      "Community gardens"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/PRO-50254_Sama+Yas_2+%26+3+Development_BROCHURE_V2.pdf/4dfa5356ef8b11f0aaaa3af908aba328",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/PRO-50254_Sama+Yas_2+%26+3+Development_BROCHURE_V2.pdf/4dfa5356ef8b11f0aaaa3af908aba328",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Sama Yas",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/sama-yas",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Sama Yas launch, 23 January 2024",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-unveils-sama-yas-new-residential-community",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Sama Yas buildings 2 and 3 brochure and layouts",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/PRO-50254_Sama+Yas_2+%26+3+Development_BROCHURE_V2.pdf/4dfa5356ef8b11f0aaaa3af908aba328",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Sama Yas project and layout examples",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/sama-yas",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Sama Yas project summary",
+          "url": "https://www.bayut.com/for-sale/property/abu-dhabi/yas-island/sama-yas/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "unit-example",
+          "label": "Aldar: indexed unit SamaYas-B1-G-01 listing",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/sama-yas/a2D8d000001cEZVEA2",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "pipeline",
+          "label": "Aldar FY2025 results: UAE pipeline, page 27",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 8
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "launch",
+          "brochure"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "finder",
+          "bayut",
+          "unit-example"
+        ],
+        "units": [
+          "brochure",
+          "finder",
+          "unit-example"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "finder",
+          "bayut",
+          "unit-example"
+        ],
+        "handover": [
+          "pipeline",
+          "finder",
+          "bayut",
+          "unit-example"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own developer project, January 2024 launch and buildings 2/3 brochure reviewed; release scope kept explicit.",
+        "location": "Yas Park setting on Yas Island confirmed by Aldar.",
+        "residences": "Official brochure distinguishes one-to-three-bedroom apartments, duplexes and maid-room variants. Launch also mentions penthouses without a recovered complete specification.",
+        "areas": "Eight official plan plates visually inspected; no total-area schedule. Portal examples and one indexed official unit are identified rather than generalised.",
+        "amenities": "Own project and brochure checked; bespoke services are not assumed included in charges.",
+        "pricing": "Portal launch minimums conflict, while the official indexed price is unit-specific. Current numeric project minimum left null.",
+        "payment": "Two portals agree on 10/50/40. Indexed official unit shows 5/55/40; both total 60/40 but booking terms differ.",
+        "handover": "FY2025 annual estimate, portal dates and indexed developer unit date conflict. No single quarter imposed on every release.",
+        "documents": "Official current 53-page buildings 2/3 brochure downloaded; eight typical plans visually reviewed. Unit page direct fetch currently omits its indexed details."
+      },
+      "community": "Yas Park",
+      "overview": [
+        "The original launch names Woods Bagot for architecture and Mustard & Linen for interiors. Chef Izu’s involvement extends to kitchen planning and the proposed dining experience. The current brochure presents both single-level homes and duplex arrangements, with varied balconies and maid-room configurations."
+      ],
+      "locationNote": "The community adjoins Yas Park on Yas Island. Aldar’s launch describes connections to the island’s leisure destinations and highways serving wider Abu Dhabi and Dubai. Park-facing views and direct access depend on the chosen home.",
+      "priceLabel": "Current price on request",
+      "priceNote": "Property Finder lists a AED 1.9m launch figure; Bayut lists AED 2.1m. The indexed Aldar B1-G-01 listing quotes AED 6,760,764 for a specific three-bedroom home. These are different bases and do not establish a current project minimum.",
+      "paymentNote": "The portal schedule below is 10% booking, 50% during construction and 40% at handover. Aldar’s indexed B1-G-01 example instead shows 5/55/40. Obtain the applicable unit schedule before reserving.",
+      "handoverNote": "FY2025 pipeline: 2027. Property Finder reports Q3 2027; Bayut reports Q3 2028. Aldar’s indexed B1-G-01 listing shows Q1 2028. Timing requires release-specific written confirmation.",
+      "units": [
+        {
+          "label": "1-bedroom · brochure type A",
+          "area": "Exact total area to be confirmed",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom · portal layout examples",
+          "area": "1,747–3,156 sq ft reported",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom · portal type A example",
+          "area": "3,259 sq ft reported",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom · indexed Aldar B1-G-01",
+          "area": "2,752 sq ft, this unit only",
+          "sourceIds": [
+            "unit-example"
+          ]
+        },
+        {
+          "label": "2- and 3-bedroom duplexes",
+          "area": "Obtain release-specific total-area schedule",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal-reported option",
+          "percent": 10,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        },
+        {
+          "stage": "During construction · same option",
+          "percent": 50,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Handover · same option",
+          "percent": 40,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original release",
+          "value": "The January 2024 announcement described 234 homes across three low-rise buildings, with sales opening on 2 February 2024. This historical scope is not current available stock.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Services and charges",
+          "value": "The brochure describes concierge, room service, a house car and catered park picnics. Confirm booking conditions, operating arrangements and extra charges before treating services as included benefits.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm building, release, exact floor area, current price and stock directly with Aldar.",
+        "A single confirmed handover date cannot be established from the conflicting public sources.",
+        "The current brochure omits total areas and dated commercial terms; obtain the exact unit plan and payment schedule.",
+        "The indexed unit information was readable in search but absent on direct reload; it is an example requiring reconfirmation, not a live availability promise."
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id":"emaar-project-106","name":"Selvara 4","developerSlug":"emaar",
+  "fields":{
+    "description":"Selvara 4 brings four-bedroom villas to Grand Polo Club & Resort, with gardens, shared leisure spaces and access to the wider equestrian community. The phase-four launch comprises 173 homes. Its published plans offer four villa styles with different internal and outdoor area allocations.",
+    "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"4","price":7113888,"handover":"Q2 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Communal landscaped areas","Pool terrace","Gymnasium","Yoga pavilion","Multipurpose lounge","Community parks","Gated access and 24-hour security","Planned retail options","Community clubhouse","Polo fields and stables"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/SELVARA-3-4_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/SELVARA-3-4_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Selvara 4 at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/selvara-4-at-grand-polo-club-and-resort","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"brochure","label":"Emaar: Selvara 4 brochure, shared-name download","url":"https://www.emaar.com/cms-media/uploads/SELVARA-3-4_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"plans","label":"Emaar: Selvara 4 floor plans, shared-name download","url":"https://www.emaar.com/cms-media/uploads/SELVARA-3-4_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Selvara 4 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELAVARA4_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"payment","label":"Emaar Selvara 4 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/selvara-3-4/SELVARA_4_GP_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"finder","label":"Property Finder: Selvara Phase 4 by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/selvara-phase-4-by-emaar","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+      ],
+      "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["brochure","facts"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Selvara 4 verified with its official page and own 173-home launch sheet.",
+        "location":"Grand Polo Club & Resort confirmed; individual frontage, outlook and access are not assumed.",
+        "residences":"Four-bedroom villas and own A2/A3/B2/B3 styles confirmed.",
+        "areas":"All eight floor-plan pages checked; four style tables and complete B3 layout visually reviewed. Fact-sheet averages distinguished from plan measurements.",
+        "amenities":"Official programme and own brochure checked, with shared-community access/delivery qualifications.",
+        "pricing":"Official current AED 7,113,888 selection separated from AED 6.4m page headline and AED 6.43m phase-four launch sheet.",
+        "payment":"Phase-four payment sheet and fact table visually checked; nine stages total 100%.",
+        "handover":"Own May 2029 completion estimate corroborated by Property Finder's phase-four entry.",
+        "documents":"Both official shared-name downloads actually contain Selvara 4 material; linked here with their contents verified."
+      },
+      "community":"Grand Polo Club & Resort · Selvara 4",
+      "overview":["The Selvara 4 brochure describes a restrained palette of natural textures, pale stone and wood detailing. Community spaces include a neighbourhood park, play areas and a pool terrace, while the wider green core brings together the clubhouse, polo fields and stables. The relationship between each villa and these shared spaces varies by plot; marketing illustrations do not establish a guaranteed view."],
+      "locationNote":"Selvara 4 sits within Grand Polo Club & Resort in Dubai. The brochure's map references Al Maktoum International Airport, Expo City and The Oasis. Review actual access roads and the selected home's position within the neighbourhood before assessing everyday journey times.",
+      "priceLabel":"Developer-published selection price",
+      "priceNote":"Emaar currently displays prices from AED 7,113,888 for its published selection. The same page retains a historical AED 6.4m headline; the Selvara 4 fact sheet records a launch starting price of AED 6.43m. A fresh quotation is needed for the particular villa and payment position.",
+      "paymentNote":"The launch schedule allocates 80% before completion and 20% at completion. Payments from March 2027 onward are tied to construction milestones. Historical dates show the original programme and may not match the amounts due on a later purchase.",
+      "handoverNote":"May 2029 is the estimated completion month in the phase-four payment document and Property Finder. Confirm the current construction programme and contractual handover arrangements separately.",
+      "units":[
+        {"label":"4-bedroom villa · A Style 2","area":"3,832.27 sq ft total; 2,913.68 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · A Style 3","area":"3,798.80 sq ft total; 2,895.70 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · B Style 2","area":"3,689.97 sq ft total; 2,820.36 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom villa · B Style 3","area":"3,638.52 sq ft total; 2,806.04 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Separate phase-four collection","value":"173 four-bedroom villas, with average launch BUA of 3,805 sq ft and average plot area of 3,495 sq ft. These are collection averages, not minimum areas or available stock.","sourceIds":["facts"]},
+        {"label":"Space across three floors","value":"The B Style 3 plan has a ground-floor guest bedroom, living/dining area, kitchen and service spaces; three bedrooms occupy the first floor. A second-floor lounge opens to terraces. Published totals combine suite, carport and balcony/terrace areas.","sourceIds":["plans"]},
+        {"label":"Plan range versus marketed selection","value":"The complete pack ranges from 3,638.52 to 3,832.27 sq ft. The official page displays a narrower rounded size range for its current selection; it does not replace the full collection's plans.","sourceIds":["plans","official"]},
+        {"label":"Availability distinction","value":"Property Finder marks the developer release out of stock while Emaar displays a priced selection. Confirm availability directly rather than relying on either cached status.","sourceIds":["finder","official"]}
+      ],
+      "unresolved":["Confirm current villa availability, plot boundaries, price, outstanding instalments and service charges.","Exact finishes, parking entitlement and final approved dimensions depend on the selected unit's documents.","Community amenity completion and any separate clubhouse/equestrian access charges remain to be confirmed.","The published May 2029 target is not a guarantee of possession or final occupation approval.","Approved project photographs are still pending; current imagery is illustrative."]
+    }
+  }
+}

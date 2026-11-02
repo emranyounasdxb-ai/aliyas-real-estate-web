@@ -1,0 +1,183 @@
+{
+  "id": "azizi-project-09",
+  "name": "Azizi Wasel",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Wasel brings apartments and a separate penthouse collection to Dubai Islands. Its planned leisure spaces include pools, a cinema, a clubhouse and children’s play areas. Early drawings and later portal material describe different release details, so the specific unit’s current plan matters more than a single headline size.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 1700000,
+    "handover": null,
+    "paymentPlan": "10/40/50 · portal option",
+    "amenities": [
+      "Swimming pools",
+      "Gym",
+      "Cinema",
+      "Clubhouse",
+      "Children’s play area",
+      "Retail spaces",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771147574911-9ed45fbd119c6d47.pdf",
+    "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771147568190-523777f92533a3ca.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi Wasel branded 2-page factsheet · broker-hosted mirror",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771147574911-9ed45fbd119c6d47.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Wasel 6-page floor-plate pack · broker-hosted mirror",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771147568190-523777f92533a3ca.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "deck",
+          "label": "Early Wasel 17-page shareable deck · broker-hosted mirror",
+          "url": "https://lerestate.com/wp-content/uploads/2025/01/Azizi-Wasel-Shareable-Deck.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Wasel/Wasl project entry",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-wasel",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts",
+          "deck"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts",
+          "deck"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "finder"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "deck",
+          "finder"
+        ],
+        "documents": [
+          "facts",
+          "plans",
+          "deck"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Developer host returned 403/429. Exact branded Wasel documents checked; PFshortnameWasl not treated as a separate project.",
+        "location": "Dubai Islands confirmed in branded map and PF; existing registry ID verified.",
+        "residences": "Studios, 1/2/3-bedroom homes plus penthouses; early 3/4-bedroom PHwork-in-progress qualified.",
+        "areas": "Deck 6/7/12, floorplates 1/5 and three PF plan images visually reviewed. Selectedsizes areportalentries, not numericPDF title blocks.",
+        "amenities": "Two-page branded factsheet page 2 reviewed. Wider island facilities are not promised as private residence rights.",
+        "pricing": "PF 1.7 m launch guide attributed; no current developer price list verified.",
+        "payment": "PF 10/40/50 and 20/30/50 each total 100%; primary dated calendar not found.",
+        "handover": "Early deckJune 2027 versus PFFebruary 2028 conflict; null headline.",
+        "documents": "Two-page factsheet, 17-page deck and 6-page floorplate pack retrieved from public broker mirrors. All overlapping PDF content pooled 195 words."
+      },
+      "community": "Dubai Islands",
+      "overview": [],
+      "locationNote": "Dubai Islands, Dubai. Community beach, marina and yacht-club plans are not promised as private facilities attached to every residence.",
+      "priceLabel": "Attributed launch guide · reconfirm",
+      "priceNote": "Property Finder’s AED 1.7 m is an attributed launch guide. Earlier brochures and listings advertise lower launch figures; no current developer price list or unit availability was verified.",
+      "paymentNote": "Property Finder publishes 10/40/50 and 20/30/50 alternatives, each totalling 100%. The displayed 10/40/50 is one portal option, not a universal current contract. No primary dated payment calendar was retrieved.",
+      "handoverNote": "An early shareable deck targets June 2027; Property Finder’s current entry forecasts February 2028. Other broker feeds differ further. The headline date is withheld until the unit-specific contract is confirmed.",
+      "units": [
+        {
+          "label": "1-bedroom Type F · portal example",
+          "area": "638 sq ft listed; plan image shows 1 bedroom and balcony",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B · portal example",
+          "area": "1,145 sq ft listed; 2 bedrooms and outdoor space",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · portal example",
+          "area": "1,329 sq ft listed; 3 bedrooms and balconies",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · at booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · during construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · on handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Early design snapshot",
+          "value": "The shareable deck lists 221 homes and 3 basements, ground, 13 floors and roof; its penthouse design is explicitly provisional.",
+          "sourceIds": [
+            "deck"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The early deck labels 221 homes and marks its 3/4-bedroom penthouses work in progress. Final penthouse areas, bedroom allocation and private pools need the approved plan; no unit count is treated as current inventory.",
+        "Early penthouse drawings explicitly expect design changes. The 6-page pack is a floor-plate study, not a full unit-area schedule; selected unit sizes above are attributed portal entries. A deck tax footnote is not adopted as a blanket residential tax rule.",
+        "Confirm current stock, selected price, furnishing, final charges, parking allocation, dated payments and contractual completion. Images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id":"emaar-project-100","name":"Terra Heights","developerSlug":"emaar",
+  "fields":{
+    "description":"Terra Heights brings one- and two-bedroom apartments to Expo Living. Four mid-rise buildings frame two landscaped courtyards, combining shared outdoor spaces with an address close to Expo City. This is a distinct release with its own building-specific layouts and payment schedule.",
+    "areaId":"dubai-expo-living","location":"Expo Living","emirate":"Dubai","type":"Apartment","bedrooms":"1–2","price":1400000,"handover":"Q1 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Adult and children’s swimming pools","Landscaped podium courtyards","Outdoor children’s play areas","Gym","Yoga deck","Multipurpose sports courts","Community lawns","Mini-golf area","Barbecue spaces","Indoor multipurpose rooms"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Terra-Heights_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Terra Heights at Expo Living","url":"https://www.emaar.com/en/properties/terra-heights-at-expo-living","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Terra Heights brochure","url":"https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"plans3","label":"Emaar: Terra Heights Building 3 floor plans","url":"https://www.emaar.com/cms-media/uploads/Terra-Heights_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"plans1","label":"Emaar Building 1 floor plans, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T1.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans2","label":"Emaar Building 2 floor plans, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T2.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans4","label":"Emaar Building 4 floor plans, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T4.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"facts","label":"Emaar Terra Heights launch fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_EXPOLIVING_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"payment","label":"Emaar Terra Heights payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRA_HEIGHTS_EXPOLIVING_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"masterplan","label":"Emaar Expo Living masterplan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRA_HEIGHTS_EL_MASTERPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+        {"id":"bayut","label":"Bayut: Terra Heights building guide","url":"https://www.bayut.com/buildings/terra-heights/","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+      ],
+      "fieldSources":{"description":["official"],"overview":["brochure","masterplan"],"location":["official","masterplan"],"type":["official"],"bedrooms":["official","plans3"],"amenities":["official","brochure"],"price":["official","facts"],"units":["facts","plans1","plans2","plans3","plans4"],"documents":["brochure","plans1","plans2","plans3","plans4","facts","payment","masterplan"],"paymentPlan":["payment","bayut"],"handover":["payment","bayut"]},
+      "reviewCoverage":{
+        "identity":"Terra Heights identified separately from other Expo Living releases.",
+        "location":"Expo Living location and relation to Expo City, roads and metro checked against the masterplan.",
+        "residences":"Four buildings and one/two-bedroom apartments confirmed; building-specific plan packs reviewed.",
+        "areas":"Launch size bands and representative apartment/terrace tables in all four buildings visually checked; total areas distinguished from suites.",
+        "amenities":"Official page and brochure checked for podium leisure, fitness and social facilities.",
+        "pricing":"Developer AED 1.4m starting reference and dated two-bedroom launch reference recorded.",
+        "payment":"Nine-stage 80/20 launch schedule visually verified; construction milestones and historical dates retained.",
+        "handover":"March 2029 estimate in the payment document corroborated by Bayut’s Q1 2029 reference.",
+        "documents":"Official brochure/Building 3 pack and attributed original Emaar documents for the other buildings, fact sheet, payment and masterplan reviewed."
+      },
+      "community":"Expo Living · Expo City",
+      "overview":["The residential arrangement puts communal courtyards at the centre of the development. Pools, places to exercise and indoor gathering rooms serve different daily routines, while balconies extend the apartments’ living space. A courtyard-facing home and an outward-facing apartment can offer quite different surroundings; orientation should be checked on the building plan.","The masterplan places Terra Heights beside the metro corridor, with Expo Road and Sheikh Mohammed bin Zayed Road around the wider setting. It also identifies a Dubai Expo Mall development. That drawing describes the planned neighbourhood and does not establish that every retail or transport connection is already complete."],
+      "locationNote":"Expo Living sits in the Expo City/Dubai South area. The developer page and launch fact sheet give different journey-time estimates, so no fixed commute is promised here. Check the actual entrance, walking route to the station and current road access for the chosen building.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 1.4m. The November 2024 launch fact sheet lists one-bedroom apartments from AED 1.4m and two-bedroom apartments from AED 2.07m. These starting references do not confirm an available unit or today’s asking price.",
+      "paymentNote":"The launch schedule totals 80% before completion and 20% at estimated completion. Later instalments reference construction progress. Several dates are historical; a current statement is needed for a new allocation or resale purchase.",
+      "handoverNote":"The original payment document estimates March 2029. Bayut gives Q1 2029. Neither replaces the contractual completion provisions or a current construction update.",
+      "units":[
+        {"label":"1 bedroom · launch collection band","area":"Approximately 728–857 sq ft total","sourceIds":["facts"]},
+        {"label":"2 bedrooms · launch collection band","area":"Approximately 1,093–1,216 sq ft total","sourceIds":["facts"]},
+        {"label":"Building 1 · 1 bedroom / unit 301 example","area":"744.00 sq ft total; 665.21 sq ft suite","sourceIds":["plans1"]},
+        {"label":"Building 1 · 2 bedrooms / unit 219","area":"1,215.68 sq ft total; 1,027.85 sq ft suite","sourceIds":["plans1"]},
+        {"label":"Building 2 · 1 bedroom / unit 214","area":"855.84 sq ft total; 675.87 sq ft suite","sourceIds":["plans2"]},
+        {"label":"Building 2 · 2 bedrooms / unit 206","area":"1,207.82 sq ft total; 1,019.99 sq ft suite","sourceIds":["plans2"]},
+        {"label":"Building 3 · 1 bedroom / unit 301 example","area":"744.11 sq ft total; 664.03 sq ft suite","sourceIds":["plans3"]},
+        {"label":"Building 3 · 2 bedrooms / unit 219","area":"1,215.46 sq ft total; 1,027.74 sq ft suite","sourceIds":["plans3"]},
+        {"label":"Building 4 · 1 bedroom / unit 214","area":"856.70 sq ft total; 676.83 sq ft suite","sourceIds":["plans4"]},
+        {"label":"Building 4 · 2 bedrooms / unit 206","area":"1,208.68 sq ft total; 1,020.96 sq ft suite","sourceIds":["plans4"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking · November 2024 reference","percent":10,"sourceIds":["payment","facts"]},
+        {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"October 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"April 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"October 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch apartment mix","value":"1,004 apartments: 484 one-bedroom and 520 two-bedroom homes. This describes the launch collection, not available stock.","sourceIds":["facts"]},
+        {"label":"Building arrangement","value":"Four mid-rise buildings around two courtyards; the Building 3 section identifies ground plus 13 floors.","sourceIds":["official","plans3"]},
+        {"label":"Understanding the size table","value":"Totals include balconies or terraces. The examples identify individual plan variants, not all available layouts; larger terraces do not necessarily mean larger interiors.","sourceIds":["plans1","plans2","plans3","plans4"]},
+        {"label":"Plan documents","value":"The main floor-plan download covers Building 3. Separate Building 1, 2 and 4 documents are linked in the research sources.","sourceIds":["plans1","plans2","plans3","plans4"]}
+      ],
+      "unresolved":["Current availability, exact unit pricing, service charges and the purchaser’s outstanding payment balance require confirmation.","Published journey-time estimates differ between the developer page and launch fact sheet; actual routes and traffic should be assessed independently.","The masterplan’s proposed mall and wider-community elements are not represented as operational facilities.","Unit numbering repeats across buildings. Match the selected apartment to its own building’s plan and signed area schedule; rounded launch bands and exact plan measurements are not interchangeable.","March 2029 is a published estimate. Current construction progress, final specifications and contractual completion terms remain subject to confirmation."]
+    }
+  }
+}

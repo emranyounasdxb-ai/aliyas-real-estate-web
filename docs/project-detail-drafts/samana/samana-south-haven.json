@@ -1,0 +1,256 @@
+{
+  "id": "samana-project-05",
+  "name": "SAMANA South Haven",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA South Haven offers studios and one- and two-bedroom apartments in Dubai Industrial City. Pools, rooftop fitness and shared leisure spaces extend the accommodation beyond the apartment.",
+    "areaId": "dubai-industrial-city",
+    "location": "Dubai Industrial City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 599000,
+    "handover": "June 2029",
+    "paymentPlan": "10% down · PDC monthly plan",
+    "amenities": [
+      "Adult and children’s pools",
+      "Outdoor jacuzzi",
+      "Outdoor cinema",
+      "Pilates studio",
+      "Library and lounge",
+      "Barbecue area",
+      "Walking and jogging track",
+      "Sauna and steam room",
+      "Co-working lounge",
+      "Indoor and outdoor gyms"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/07/08/11/45/e3d3a071a073ec6a796a43e580ad030b.pdf",
+    "floorPlanUrl": "https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/07/27/10/34/6a66fbea506e1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "South Haven · current developer page",
+          "url": "https://www.samanadevelopers.com/projects/samana-south-haven",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "microsite",
+          "label": "South Haven · official project microsite",
+          "url": "https://samana-projects.samanadevelopers.com/projects/samana-south-haven",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "brochure",
+          "label": "South Haven · official 38-page brochure",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/08/11/45/e3d3a071a073ec6a796a43e580ad030b.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "South Haven · official 19-page plans",
+          "url": "https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/07/27/10/34/6a66fbea506e1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "facts",
+          "label": "South Haven · official eight-page factbook",
+          "url": "https://samana-projects.samanadevelopers.com/storage/projects/files/fact-sheets/2026/07/27/10/35/6a66fc287a8d8.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · individual South Haven 1 listing",
+          "url": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-dubai-industrial-city-saih-shuaib-2-samana-south-haven-samana-south-haven-1-166071325.html",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "microsite"
+        ],
+        "location": [
+          "microsite"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "locationNote": [
+          "microsite",
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "amenities": [
+          "developer",
+          "facts",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "facts"
+        ],
+        "units": [
+          "brochure",
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "microsite"
+        ],
+        "handover": [
+          "facts"
+        ],
+        "handoverNote": [
+          "facts",
+          "developer"
+        ],
+        "paymentStages": [
+          "developer",
+          "facts"
+        ],
+        "paymentNote": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "developer",
+          "microsite",
+          "brochure",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "OwnSouthHavenoriginalnotphase2. Official38pbrochure19pplans8pfactbookexactbrandingverified.",
+        "location": "Ownmicrositeplot50municipality531-409DubaiIndustrialCityconfirmed; registrymappednotgeneralDubaiSouth.",
+        "residences": "Fiveactualfullbrochure33–37panelsvisuallyreadstudio/three1BR/2BRstore. No privatepoolsinferred.",
+        "areas": "No numericareatotalsonfiveplans. MainFAQ354versusmicrosite355.85explicit; neitherassignedtoaparticulartype.",
+        "amenities": "Primarybody/factbook4brochure19–21actualselections; noextrauniversalclaims.",
+        "pricing": "Currentown599000referencequalified;PFselectedunit954000notadoptedasstartingprice.",
+        "payment": "Actualfactbook3visuallyconfirmsPDC10+5+10+75/non15+5+10+70both100, mainFAQsame.",
+        "handover": "Actualfactbook3June2029matchesownmainQ22029; anticipatednotcompletion.",
+        "documents": "AllthreeofficialPDFsretrievedordinary; underlyingoverlappingpool200. Ownmicrocurrentpublicaddressdifferentfromwidermarketingdisclosed."
+      },
+      "community": "Dubai Industrial City",
+      "overview": [
+        "Five illustrated layouts comprise a studio, three one-bedroom types and a two-bedroom home with a store. The published plans do not state individual apartment areas."
+      ],
+      "locationNote": "The official microsite specifies plot 50, municipality number 531-409, Dubai Industrial City. The main page markets the wider address as Dubai South; the more precise community is retained here.",
+      "priceLabel": "Developer starting reference",
+      "priceNote": "The current developer starting reference is AED 599,000. Individual broker listings may describe different units, discounts and payment options; none is treated as guaranteed available stock.",
+      "paymentNote": "PDC option shown below. Non-PDC terms require 15% down, 5% in month four, 10% in month twelve and 70 monthly instalments of 1%. Confirm the selected unit’s dated calendar; the entire monthly amount is not automatically post-handover.",
+      "handoverNote": "The official factbook anticipates June 2029; the current main FAQ gives Q2 2029. These agree in period and remain forecasts.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "No area total printed in reviewed drawings",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR · Types 1–3",
+          "area": "No area total printed in reviewed drawings",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + store",
+          "area": "No area total printed in reviewed drawings",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC · down payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · 1% monthly × 75 months",
+          "percent": 75,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · fourth month",
+          "percent": 5,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        },
+        {
+          "stage": "PDC · twelfth month",
+          "percent": 10,
+          "sourceIds": [
+            "developer",
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Starting-size discrepancy",
+          "value": "The main FAQ says 354 ft²; the official microsite gives 355.85 ft². Neither identifies the selected unit.",
+          "sourceIds": [
+            "developer",
+            "microsite"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The starting-size references differ, and the drawings provide no numeric area schedule. Confirm contractual suite, balcony and total areas before comparing homes.",
+        "The brochure and website describe different selections of shared facilities; confirm the final amenity and fit-out schedule. Current stock, residence count, service charges and construction progress remain unverified. Images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "ellington-project-27",
+  "name": "Ocean House",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Ocean House brings apartments, duplexes and larger signature residences to Palm Jumeirah’s Crescent. Curved balconies and distinct single- or dual-aspect layouts shape the homes, while shared wellness, fitness and social spaces are arranged around the building’s seafront setting.",
+    "areaId": "dubai-palm-jumeirah",
+    "location": "Palm Jumeirah",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–6",
+    "price": 23000000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Wellness spa",
+      "Fitness studio",
+      "Shared pool",
+      "Clubhouse",
+      "Cinema room",
+      "Children’s play area",
+      "Co-working spaces"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ocean%20House/Project%20assets/Ocean%20House%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ocean%20House/Project%20assets/Ocean%20House%20-%20Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ocean House own developer page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ocean-house-palm-jumeirah",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "microsite",
+          "label": "Ocean House official product and detailed payment schedule",
+          "url": "https://oceanhouse.ellingtonproperties.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Ocean House official brochure · 43 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ocean%20House/Project%20assets/Ocean%20House%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "partner-document",
+          "label": "Ocean House branded presentation on SHUAA partner site · 30 pages",
+          "url": "https://www.shuaa.com/wp-content/uploads/2022/12/Ocean-House.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Ocean House launch and commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-ocean-house",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "construction",
+          "label": "Ocean House developer construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Ocean_House&lang=en&projectn=Ocean%20House&url=https://ellingtonproperties.ae/?p=12911",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "microsite"
+        ],
+        "bedrooms": [
+          "microsite",
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "microsite",
+          "finder"
+        ]
+      },
+      "community": "Palm Jumeirah",
+      "overview": [
+        "The signature plans distinguish a six-bedroom presidential suite from a five-bedroom corner penthouse. Duplex totals cover both levels, rather than an area to repeat for each floor."
+      ],
+      "locationNote": "Palm Jumeirah, The Crescent, Dubai. Views and access rights depend on the actual residence and agreement.",
+      "priceLabel": "Portal rounded launch reference · not a current offer",
+      "priceNote": "Property Finder’s launch hero rounds pricing to AED 23 million. This is a marketing reference for the listed mix, not a current developer quotation or the cost of every two-bedroom home.",
+      "paymentNote": "The official microsite ends with 40% on completion; Property Finder instead lists 20/50/30. These schedules conflict; the table preserves the developer reference without asserting current contract terms.",
+      "handoverNote": "Property Finder’s structured field targets December 2026, while its body gives Q1 2026. These inconsistent forecasts do not establish a binding handover or actual completion.",
+      "units": [
+        {
+          "label": "2BR single aspect / A / B / C",
+          "area": "2,049.23 / 1,785.84 / 1,642.25 / 1,926.95 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR dual aspect / duplex",
+          "area": "2,118.23 / 4,213.85 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR dual aspect / corner / duplex",
+          "area": "3,233.58 / 3,531.96 / 4,769.91 ft² total.",
+          "sourceIds": [
+            "brochure",
+            "partner-document"
+          ]
+        },
+        {
+          "label": "4BR dual aspect / duplex / corner duplex",
+          "area": "5,352.35 / 6,139.73 / 9,917.32 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5BR corner penthouse",
+          "area": "14,036.88 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR presidential suite",
+          "area": "11,770.11 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "Reservation agreement signed",
+          "percent": 15,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "At 70% construction",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 40,
+          "sourceIds": [
+            "microsite"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The developer brochure prints 1,926.95 ft² under the 3BR corner plan; the partner presentation gives 3,531.96 ft² for that drawing. Confirm the selected schedule. Minor rounding differences are retained.",
+        "Current availability, contractual dates and payment, approved charges, parking/title terms, furnishing inventory and facility operation require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact Ocean House Palm product retained; unrelated LaMer7BR hero excluded. Partner document hosted bySHUAA correctlyattributed.",
+        "location": "Own PalmJumeirah primary; PFTheCrescent. No guaranteedview/traveltime.",
+        "residences": "Officialmicrosite2–6BR includingduplex/penthouse; all families verified fromactualdrawings.",
+        "areas": "Fourteen example panels brochure34–40 visuallyread; partner25corner and29penthouse independentlychecked. Maincorner wronglyrepeats2BRvalues; conflict retained.",
+        "amenities": "Ownmain andbrochure wellness/fitness/cinema/play; no automaticall-unitprivatepool promise.",
+        "pricing": "PF23mroundedhero reference, not wholeprojectentry/currentquotation.",
+        "payment": "Ownmicro5+15+8x5+40=100 versusPF20/50/30; headline null. Formsnot submitted.",
+        "handover": "PFDecember2026 versusearlierinternalreferences; no actualcompletionorcontractdate. Own gallery reviewed through October 2026; gallery dates are not completion certificates.",
+        "documents": "Own43pbrochure +SHUAA30pbrandedpresentation sharepooled200 publicwords. WrongguessedmicrositeTLSfailed; actualellingtonproperties subdomainnormal200, no bypass."
+      }
+    }
+  }
+}

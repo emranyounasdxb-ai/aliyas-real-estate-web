@@ -1,0 +1,294 @@
+{
+  "id": "bloom-project-07",
+  "name": "Bloom Living Seville",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Villas and townhouses in Seville, Bloom Living’s lakeside phase, with Mediterranean-inspired façades and landscaped streets.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "2–7",
+    "price": 6500000,
+    "handover": "Q1 2027",
+    "paymentPlan": "50/50",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Play areas",
+      "Walking/cycling paths"
+    ],
+    "brochureUrl": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+    "floorPlanUrl": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Bloom · Seville five-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/five-bedrooms-seville",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "four-bedroom",
+          "label": "Bloom · Seville four-bedroom villas",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/four-bedrooms-seville",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "brochure",
+          "label": "Bloom · Seville brochure and plans",
+          "url": "https://bloomholding.com/application/files/3217/1376/5670/Seville_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 170
+        },
+        {
+          "id": "launch",
+          "label": "Bloom · Seville launch announcement",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-seville-exceptional-lakeside-community-abu-dhabi",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "progress",
+          "label": "Bloom · Seville construction update",
+          "url": "https://bloomholding.com/construction-updates/seville-construction-update",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "community",
+          "label": "Bloom · community catalogue",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "construction-index",
+          "label": "Bloom · September 2026 construction archive",
+          "url": "https://bloomholding.com/construction-updates",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        }
+      ],
+      "community": "Bloom Living",
+      "overview": [
+        "Seville combines two- and three-bedroom townhouses with three- to six-bedroom villas. Its launch also announced seven-bedroom mansions; corresponding plans were not verified."
+      ],
+      "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+      "priceLabel": "Developer five-bedroom guide",
+      "priceNote": "Bloom’s five-bedroom page advertises AED 6.5 million; this is not a guide for every home. The 2024 launch started at AED 1.8 million. Confirm current availability.",
+      "paymentNote": "The current five-bedroom page shows 25% booking, 25% construction and 50% handover. This is an advertised structure; a dated unit-specific calendar was not verified.",
+      "handoverNote": "Bloom’s September 2026 update reports over 64% progress and targets Q1 2027. This is a dated developer snapshot, not a completion certificate.",
+      "units": [
+        {
+          "label": "2BR townhouse · 2M",
+          "area": "1,346 ft² / 125 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR townhouse · 2M-1",
+          "area": "1,303 ft² / 121 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR townhouse · 2E",
+          "area": "1,335 ft² / 124 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR townhouse · 3M",
+          "area": "1,636 ft² / 152 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR townhouse · 3E",
+          "area": "1,851 ft² / 172 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR villa",
+          "area": "2,745 ft² / 255 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR villa",
+          "area": "3,412 ft² / 317 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5BR villa",
+          "area": "4,596 ft² / 427 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR villa",
+          "area": "5,533 ft² / 514 m² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Whole-home sellable totals; gardens and parking are not added.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Project number",
+          "value": "20240000251244, as displayed by Bloom.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 25,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 25,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Townhouse 2E and 3E totals each exceed their rounded floor sums by 1 ft²; printed totals are retained.",
+        "Current four-/five-bedroom web guides show 3,407/4,593 ft², versus brochure totals 3,412/4,596 ft². Confirm the contracted revision.",
+        "Current stock, fees, service charges, parking allocations and final specifications require confirmation."
+      ],
+      "fieldSources": {
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "areaId": [
+          "community"
+        ],
+        "location": [
+          "community"
+        ],
+        "emirate": [
+          "community"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community"
+        ],
+        "amenities": [
+          "community"
+        ],
+        "description": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "launch"
+        ],
+        "overview": [
+          "brochure",
+          "launch"
+        ],
+        "priceNote": [
+          "developer",
+          "launch"
+        ],
+        "handover": [
+          "progress",
+          "construction-index"
+        ],
+        "handoverNote": [
+          "progress",
+          "construction-index"
+        ],
+        "facts": [
+          "brochure",
+          "developer"
+        ],
+        "unresolved": [
+          "brochure",
+          "developer",
+          "four-bedroom"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-07/bloom-living-seville/Bloom owner kept. Exact own Seville unit pages/2024 launch/original44p brochure confirm phasefive; not similarly named Seville elsewhere.",
+        "location": "Own issuerlaunch places BloomLivingZayedCityAbuDhabi; supported centralabu-dhabi-zayed-cityaliasKhalifaCityC, no coordinates/traveltimeguarantees. Actualoriginalmasterplan4/5phaseoutline inspected, not numericalgeolocation.",
+        "residences": "Actualall9numericwholeGF/FFfamilies read p9/10/11/14/15/23/25/27/30.2BRtownhouse2M/2M-1/2E,3BR3M/3E,villas3/4/5/6. Staff anddriversrooms notmarketedextraBR. Original2024launchalso7BRmansions, absent current44p plans/current3–6villacopy;7BRannouncedonlyexplicitlyunverifiedindividualdetails. No pretend7BRfloorplan.",
+        "areas": "Wholeprintedft2/m2:1346/125,1303/121,1335/124,1636/152,1851/172,2745/255,3412/317,4596/427,5533/514. AllGF/FFactuallyviewed.2E764+570=1334vs1335;3E956+894=1850vs1851printed, publiccaveat. Others743+6031346,743+5601303,829+8071636,1432+13132745,1894+15183412,2605+19914596,3068+24655533match. Wholehomeonce, gardens/plot/parkingnotadded. Owncurrent4BR3407/5BR4593slightlydifferentfrom3412/4596explicitrevisionconflict. Carmona2E1346/3E1841notcopieddespitesomesharedtownhomegeometry.",
+        "amenities": "OwnSevillecurrenticons pools/gym/play/trails corroborate genericBloomLivingfacilities; concisesharedamenity/locationderivation25withinroot80/global200, notperphaseinventedprivatebenefits. No operational/free/exclusivefacilityguarantee.",
+        "pricing": "CurrentactualownfivebedroompageAED6500000specificguideadoptedwithfivebedroomlabel, notuniversalfromprice. Own2024launch1.8mexplicitlyhistorical. Fourbedroomcurrentpagehasnoprice, maincurrent5BRsame6.5mnotindependentquote. Availability/fees/servicechargenoexactcurrentunitpricelistverified.",
+        "payment": "Actualown5BRHTML25down/25construction/50handover=100. NotborrowedCarmona5/35/60orGranada5/35/40/20. Original44pnoactualdatedpaymentcalendar. Currentadvertisedaggregate50/50qualifiedrelease-specific, no milestone datesinvented.",
+        "handover": "Ownexactconstructionpagecurrentbodyover64%andQ12027; publicconstructionindexlabelsSeptember2026. Retainassnapshotnotliveasof2Novprogress, notcompletedcertificate. Own2024launchQ12027agrees; no forcedbrokeralternateforecast. Date attribution independently verified from the actual construction-index card: September2026, not an inferred date on the individual update.",
+        "documents": "OrdinarypublicownPDF44pages6,910,850bytesGET200; rastertextempty soactualcontactsheetALL44andninefullnumericwholeplansactuallyread. Page2introand4/5mapsrendered; notfake7BRdrawing. Own5BRHTMLGET200saved;fourbedwebread200;sixbedwebattempttimedoutnotclaimedread. OriginaldatedpayPDFnotretrievedafterpubliclinks/search, noforms/bypass. AllrelatedSevillebrochure/plans/versions/mirrors/retellingsandduplicatedlaunchbody collective200allocation170+30; publicmixedreviewrequired. OwncurrentphaseHTMLcombined200allocation160+40, notperURLextra. Generic25withinroot80andallBloom200. Sharedidenticaltownhousegeometryonlyboundedcompactnumericrows, noexpandedduplicatedcopy. Imagesdeferred."
+      }
+    }
+  }
+}

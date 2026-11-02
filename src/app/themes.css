@@ -1,0 +1,313 @@
+/* Light is the default; a saved selection is restored before the first paint. */
+:root {
+  color-scheme: light;
+  --raised: #eff2ee;
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --canvas: #111512;
+  --surface: #1a201c;
+  --raised: #252e27;
+  --ink: #f3f4ef;
+  --ink-deep: #080c09;
+  --accent: #c8ad6d;
+  --accent-ink: #d7bd80;
+  --muted: #b6c0b8;
+  --line: #39453b;
+}
+.signature-utilities {
+  gap: 6px;
+}
+.theme-toggle {
+  color: var(--ink);
+}
+@media (min-width: 1100px) and (max-width: 1300px) {
+  .signature-utilities {
+    gap: 2px;
+  }
+  .signature-utilities .signature-icon-button {
+    width: 36px;
+    min-width: 36px;
+    padding: 7px;
+  }
+}
+@media (max-width: 1099px) {
+  .signature-utilities {
+    gap: 0;
+  }
+  .signature-utilities .signature-icon-button {
+    width: 36px;
+    min-width: 36px;
+    padding: 7px;
+  }
+}
+:root[data-theme='dark'] :is(.signature-header, .signature-bar, .signature-panel) {
+  background: var(--surface);
+  color: var(--ink);
+}
+:root[data-theme='dark']
+  :is(
+    .signature-icon-button,
+    .signature-nav > a,
+    .signature-nav-trigger,
+    .signature-enquire,
+    .signature-search-form input
+  ) {
+  color: var(--ink);
+}
+:root[data-theme='dark'] :is(.signature-enquire, .signature-search-form input) {
+  background: var(--surface);
+}
+:root[data-theme='dark']
+  :is(
+    .signature-icon-button:hover,
+    .signature-icon-button[aria-expanded='true'],
+    .signature-enquire:hover,
+    .signature-developer-card:hover
+  ) {
+  background: var(--raised);
+  color: var(--accent-ink);
+}
+:root[data-theme='dark']
+  :is(
+    .signature-eyebrow,
+    .signature-index,
+    .signature-text-link svg,
+    .signature-city-caption > svg,
+    .signature-developer-card > span,
+    .signature-developer-card > svg,
+    .signature-mobile-nav svg,
+    .signature-enquire svg
+  ) {
+  color: var(--accent-ink);
+}
+:root[data-theme='dark']
+  :is(
+    .signature-city-caption p,
+    .signature-developer-card p,
+    .signature-search-hints > span,
+    .signature-search-form > div > svg
+  ) {
+  color: var(--muted);
+}
+:root[data-theme='dark'] .signature-search-form input::placeholder {
+  color: var(--muted);
+}
+:root[data-theme='dark']
+  :is(
+    .signature-developer-card,
+    .signature-panel-footer,
+    .signature-mobile-nav > a,
+    .signature-mobile-nav > button,
+    .signature-search-form > div
+  ) {
+  border-color: var(--line);
+}
+:root[data-theme='dark'] .signature-search-submit {
+  background: var(--accent);
+  color: #111512;
+  border-color: var(--accent);
+}
+:root[data-theme='dark'] .signature-search-submit:hover {
+  background: #dbc58f;
+}
+:root[data-theme='dark'] :is(.signature-header :focus-visible, .site-frame :focus-visible) {
+  outline-color: var(--accent-ink);
+}
+:root[data-theme='dark'] .future-home h2 > span {
+  color: #b6c0b8;
+}
+:root[data-theme='dark']
+  :is(
+    .future-hero-description p,
+    .future-hero-foot,
+    .future-developers > span,
+    .future-city-tabs button > span,
+    .future-city-tabs button > strong,
+    .future-city-tabs button > svg,
+    .future-story-index,
+    .future-story-copy > p,
+    .home-search .search-field label > span
+  ) {
+  color: var(--muted);
+}
+:root[data-theme='dark'] :is(.future-cross, .home-search .search-field > svg) {
+  color: var(--accent-ink);
+}
+:root[data-theme='dark'] :is(.future-hero-action, .future-scroll-line) {
+  border-color: var(--line);
+}
+:root[data-theme='dark'] .future-scroll-line {
+  background: var(--muted);
+}
+:root[data-theme='dark'] :is(.future-round-arrow, .button-dark, .button-taupe) {
+  color: var(--paper);
+}
+:root[data-theme='dark'] :is(.button-dark:hover, .button-taupe:hover) {
+  background: var(--action-bg);
+  color: var(--action-fg);
+}
+:root[data-theme='dark'] .future-round-arrow:hover {
+  background: var(--accent);
+}
+:root[data-theme='dark'] .future-project-arrow {
+  color: #151917;
+}
+:root[data-theme='dark'] .future-developer {
+  color: var(--ink);
+}
+:root[data-theme='dark'] .future-city-tabs button[aria-selected='true'] {
+  color: var(--ink);
+}
+:root[data-theme='dark'] .future-search .home-search {
+  background: var(--surface);
+}
+:root[data-theme='dark'] .footer-invitation {
+  background: var(--surface);
+}
+:root[data-theme='dark'] .footer-invitation-copy {
+  color: var(--muted);
+}
+:root[data-theme='dark'] .footer-eyebrow {
+  color: var(--accent-ink);
+}
+:root[data-theme='dark'] .footer-whatsapp {
+  background: transparent;
+  color: var(--ink);
+}
+:root[data-theme='dark'] .footer-invitation .footer-whatsapp:hover {
+  background: var(--raised);
+  color: var(--ink);
+}
+/* Inner pages inherit the same semantic surfaces, including overlays and forms. */
+:root[data-theme='dark'] .site-frame :is(.catalogue-page, .info-page) {
+  --page-muted: var(--muted);
+  --panel-muted: var(--muted);
+  --inner-panel: var(--surface);
+  --inner-border: var(--line);
+}
+:root[data-theme='dark'] .site-frame .project-detail {
+  --pd-muted: var(--muted);
+  --pd-line: var(--line);
+}
+:root[data-theme='dark']
+  .site-frame
+  :is(
+    select option,
+    .project-card-badge,
+    .project-save,
+    .catalogue-summary,
+    .info-contact-panel,
+    .enquiry-form input,
+    .enquiry-form select,
+    .enquiry-form textarea,
+    .pd-enquiry-panel,
+    .pd-mobile-enquiry,
+    .pd-resource-button,
+    .comparison-table-wrap,
+    .comparison-selector
+  ) {
+  background: var(--surface);
+  color: var(--ink);
+}
+:root[data-theme='dark']
+  .site-frame
+  :is(
+    .catalogue-active-filter,
+    .catalogue-saved.active,
+    .enquiry-project,
+    .enquiry-success,
+    .enquiry-reference,
+    .enquiry-success-icon
+  ) {
+  background: var(--raised);
+  color: var(--ink);
+  border-color: var(--line);
+}
+:root[data-theme='dark'] .site-frame :is(.catalogue-button, .info-button) {
+  background: var(--accent);
+  color: #111512 !important;
+  border-color: var(--accent);
+}
+:root[data-theme='dark'] .site-frame :is(.catalogue-button:hover, .info-button:hover) {
+  background: #dbc58f;
+}
+:root[data-theme='dark'] .site-frame .project-detail .pd-button:hover {
+  background: var(--action-bg);
+  border-color: var(--action-bg);
+  color: var(--action-fg);
+}
+:root[data-theme='dark'] .enquiry-drawer-panel {
+  background: var(--surface);
+  border-color: var(--line);
+}
+:root[data-theme='dark']
+  :is(
+    .enquiry-drawer-intro h2 span,
+    .enquiry-drawer .enquiry-project,
+    .enquiry-drawer .enquiry-success-icon
+  ) {
+  color: var(--ink);
+}
+:root[data-theme='dark']
+  :is(
+    .enquiry-drawer-top > span,
+    .enquiry-drawer-intro > p,
+    .enquiry-drawer .enquiry-field > span,
+    .enquiry-drawer .enquiry-consent,
+    .enquiry-drawer .enquiry-preview,
+    .enquiry-drawer-contact,
+    .enquiry-drawer-contact > p,
+    .enquiry-drawer .enquiry-success > p,
+    .enquiry-drawer .enquiry-project-note
+  ) {
+  color: var(--muted);
+}
+:root[data-theme='dark'] .enquiry-drawer :is(input, select, textarea) {
+  background: var(--surface);
+  color: var(--ink);
+  border-color: #78867b;
+}
+:root[data-theme='dark'] .enquiry-drawer :is(input, textarea)::placeholder {
+  color: var(--muted);
+}
+:root[data-theme='dark']
+  .enquiry-drawer
+  :is(.enquiry-project, .enquiry-success, .enquiry-success-icon, .enquiry-reference) {
+  background: var(--raised);
+  color: var(--ink);
+}
+:root[data-theme='dark'] .enquiry-drawer .enquiry-submit {
+  background: var(--accent);
+  color: #111512;
+  border-color: var(--accent);
+}
+:root[data-theme='dark'] .enquiry-drawer-close:hover {
+  background: var(--raised);
+}
+:root[data-theme='dark'] .enquiry-error {
+  background: #38251f;
+  color: #f3c5b4;
+  border-color: #9d6a55;
+}
+:root[data-theme='dark'] .skip-link {
+  color: var(--paper);
+}
+:root[data-theme='dark'] .site-frame .info-page .enquiry-form,
+:root[data-theme='dark'] .project-detail .pd-neighbourhood,
+:root[data-theme='dark'] .comparison-table-scroll {
+  background: var(--surface);
+  color: var(--ink);
+  border-color: var(--line);
+}
+:root[data-theme='dark']
+  .site-frame
+  .info-page
+  .enquiry-form
+  :is(input:not([type='checkbox']), select, textarea) {
+  background: var(--surface);
+  color: var(--ink);
+}
+:root[data-theme='dark'] .enquiry-optional {
+  color: var(--muted);
+}

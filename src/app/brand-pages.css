@@ -1,0 +1,988 @@
+/* Inner pages share the open, architectural grid of the main site. */
+.site-frame .catalogue-page,
+.site-frame .info-page {
+  --page-muted: #59615b;
+  --panel-muted: #59615b;
+  --inner-panel: #fff;
+  --inner-border: #d8ddd8;
+  width: 90%;
+  max-width: 1320px;
+  margin-inline: auto;
+  padding: calc(var(--header-height) + 48px) 0 100px;
+  color: var(--navy);
+  font-family: var(--font-body), sans-serif;
+}
+.site-frame :is(.catalogue-page, .info-page) :is(h1, h2, h3) {
+  font-family: var(--font-heading), sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.035em;
+  color: inherit;
+}
+.site-frame :is(.catalogue-page, .info-page) h1 {
+  font-size: clamp(52px, 6.2vw, 88px);
+  line-height: 0.99;
+  letter-spacing: -0.045em;
+}
+.site-frame :is(.catalogue-page, .info-page) h2 {
+  font-size: clamp(34px, 3.4vw, 50px);
+  line-height: 1.06;
+}
+.site-frame :is(.catalogue-page, .info-page) em {
+  font-family: var(--font-heading), sans-serif;
+  font-style: normal;
+  font-size: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+.site-frame :is(.catalogue-page, .info-page) :is(button, input, select, textarea),
+.site-frame :is(.catalogue-eyebrow, .info-eyebrow, .catalogue-toolbar, .info-breadcrumb) {
+  font-family: var(--font-ui), sans-serif;
+}
+.site-frame :is(.catalogue-page, .info-page) :focus-visible {
+  outline: 2px solid var(--navy);
+  outline-offset: 5px;
+}
+.site-frame :is(.catalogue-heading, .info-intro) {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(230px, 0.6fr);
+  gap: 0 6%;
+  padding: 0 0 64px;
+  margin-bottom: 0;
+}
+.site-frame :is(.catalogue-eyebrow, .info-eyebrow) {
+  color: var(--navy);
+  font:
+    600 11px/1.5 var(--font-ui),
+    sans-serif;
+  letter-spacing: 0.1em;
+}
+.site-frame .catalogue-page .catalogue-eyebrow {
+  font-size: 11px !important;
+}
+.site-frame :is(.catalogue-heading, .info-intro) > :is(.catalogue-eyebrow, .info-eyebrow) {
+  grid-column: 1 / -1;
+  margin: 0 0 28px;
+  border: 0;
+  padding: 0;
+}
+.site-frame :is(.catalogue-heading, .info-intro) > h1 {
+  margin: 0;
+}
+.site-frame .catalogue-heading > p:last-child,
+.site-frame .info-intro > p:last-child:not(.info-eyebrow) {
+  align-self: end;
+  color: var(--page-muted);
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 0 0 4px;
+  max-width: 370px;
+}
+.site-frame
+  :is(
+    .catalogue-back,
+    .catalogue-location,
+    .catalogue-long-copy,
+    .catalogue-source,
+    .catalogue-disclaimer
+  ) {
+  color: var(--page-muted);
+}
+.site-frame .catalogue-back,
+.site-frame .info-breadcrumb {
+  font:
+    12px/1.6 var(--font-ui),
+    sans-serif;
+  margin: 0 0 38px;
+}
+.site-frame .catalogue-back:hover,
+.site-frame .info-breadcrumb,
+.site-frame .info-breadcrumb a:hover {
+  color: var(--navy);
+}
+.site-frame .catalogue-disclaimer {
+  border-color: var(--inner-border);
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 44px;
+  padding-top: 24px;
+}
+
+/* A single precise filter rail, followed by an open property grid. */
+.site-frame .catalogue-filters {
+  grid-template-columns: 1.6fr 1fr 1fr 1fr;
+  background: transparent;
+  border: 0;
+  border-block: 1px solid var(--inner-border);
+  border-radius: 0;
+  padding: 24px 0;
+  color: var(--navy);
+  margin-bottom: 24px;
+}
+.site-frame .catalogue-filters label {
+  padding-inline: 24px;
+  border-color: var(--inner-border);
+  min-width: 0;
+}
+.site-frame .catalogue-filters label:first-child {
+  padding-left: 0;
+}
+.site-frame .catalogue-filters label:last-child {
+  padding-right: 0;
+}
+.site-frame .catalogue-filters label > span {
+  color: var(--panel-muted);
+  font:
+    600 10px/1.4 var(--font-ui),
+    sans-serif;
+  letter-spacing: 0.08em;
+}
+.site-frame .catalogue-filters :is(select, input) {
+  color: var(--navy);
+  font:
+    14px/1.5 var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-filters input::placeholder {
+  color: var(--panel-muted);
+  opacity: 1;
+}
+.site-frame .catalogue-search svg {
+  color: var(--navy);
+}
+.site-frame .catalogue-toolbar {
+  margin-bottom: 32px;
+}
+.site-frame :is(.catalogue-count, .catalogue-count strong, .catalogue-saved, .catalogue-reset) {
+  color: var(--navy);
+}
+.site-frame :is(.catalogue-saved, .catalogue-reset) {
+  min-height: 38px;
+  font-size: 12px;
+}
+.site-frame .catalogue-saved.active {
+  color: var(--navy);
+  text-decoration: underline;
+  text-decoration-color: var(--copper);
+  text-underline-offset: 6px;
+}
+.site-frame .catalogue-sort select {
+  color: var(--navy);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--inner-border);
+  border-radius: 0;
+  padding: 10px 0;
+  font:
+    12px var(--font-ui),
+    sans-serif;
+}
+.site-frame :is(.catalogue-page, .info-page) select option {
+  color: var(--navy);
+  background: #fff;
+}
+.site-frame .catalogue-active-filter {
+  color: var(--navy);
+  background: #eff2ee;
+  border: 0;
+  border-radius: 2px;
+  font-size: 13px;
+}
+.site-frame .catalogue-active-filter button {
+  color: var(--navy);
+  text-underline-offset: 3px;
+}
+.site-frame .catalogue-project-grid {
+  gap: 54px 30px;
+}
+.site-frame .catalogue-page .project-card {
+  color: var(--navy);
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow: visible;
+  box-shadow: none;
+}
+.site-frame .catalogue-page .project-card-visual {
+  border-radius: 4px;
+  background: var(--deep-navy);
+  aspect-ratio: 1.26;
+}
+.site-frame .catalogue-page :is(.project-card-badge, .project-save) {
+  background: #fff;
+  color: var(--navy);
+  font-family: var(--font-ui), sans-serif;
+  border-radius: 2px;
+}
+.site-frame .catalogue-page .project-card-badge {
+  font-size: 10px;
+  letter-spacing: 0.02em;
+  padding: 9px 12px;
+}
+.site-frame .catalogue-page .project-save {
+  width: 36px;
+  height: 36px;
+}
+.site-frame .catalogue-page .project-save.is-saved {
+  color: var(--navy);
+  box-shadow: inset 0 -2px 0 var(--copper);
+}
+.site-frame .catalogue-page .project-card-developer {
+  color: #fff;
+  font:
+    600 10px var(--font-ui),
+    sans-serif;
+  letter-spacing: 0.08em;
+  text-shadow: 0 1px 6px #0c100e;
+}
+.site-frame .catalogue-page .project-card-body {
+  padding: 24px;
+}
+.site-frame
+  .catalogue-page
+  :is(
+    .project-location,
+    .project-meta,
+    .project-card-bottom > span:first-child,
+    .project-plan small
+  ) {
+  color: var(--panel-muted);
+}
+.site-frame .catalogue-page .project-location {
+  font-size: 12px;
+  line-height: 1.6;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+.site-frame .catalogue-page .project-location svg {
+  margin-top: 3px;
+}
+.site-frame .catalogue-page .project-title-row h3 {
+  font:
+    500 32px/1.05 var(--font-heading),
+    sans-serif;
+  letter-spacing: -0.025em;
+  color: var(--navy);
+}
+.site-frame .catalogue-page .project-arrow {
+  border: 0;
+  border-radius: 0;
+  color: var(--navy);
+  width: 34px;
+  height: 34px;
+}
+.site-frame .catalogue-page .project-arrow:hover {
+  color: var(--navy);
+  background: #eff2ee;
+}
+.site-frame .catalogue-page .project-meta {
+  font:
+    11px/1.6 var(--font-ui),
+    sans-serif;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin: 16px 0 20px;
+}
+.site-frame .catalogue-page :is(.project-card-bottom > span:first-child, .project-plan small) {
+  font-size: 11px;
+  line-height: 1.5;
+}
+.site-frame .catalogue-page :is(.project-meta span + span, .project-card-bottom) {
+  border-color: var(--inner-border);
+}
+.site-frame .catalogue-page .project-card-bottom strong {
+  color: var(--navy);
+  font:
+    500 29px/1.2 var(--font-heading),
+    sans-serif;
+  letter-spacing: -0.02em;
+  margin-top: 5px;
+}
+.site-frame .catalogue-page .project-plan {
+  color: var(--navy);
+  font:
+    14px var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-page .project-card :focus-visible {
+  outline-color: var(--navy);
+  outline-offset: 4px;
+}
+
+/* Editorial detail pages use fine rules instead of enclosing cards. */
+.site-frame .catalogue-detail-heading {
+  align-items: flex-end;
+  gap: 30px;
+  margin-bottom: 42px;
+}
+.site-frame .catalogue-hero-image {
+  border: 0;
+  border-radius: 4px;
+  background: var(--deep-navy);
+}
+.site-frame .catalogue-hero-image > span {
+  color: var(--navy);
+  background: #fff;
+  border-radius: 2px;
+  font:
+    10px var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-detail-grid {
+  gap: 8%;
+  padding-top: 72px;
+}
+.site-frame .catalogue-long-copy {
+  font-size: 18px;
+  line-height: 1.85;
+}
+.site-frame .catalogue-subheading {
+  font:
+    500 28px var(--font-heading),
+    sans-serif;
+  color: var(--navy);
+}
+.site-frame .catalogue-amenities {
+  color: var(--navy);
+  font:
+    13px/1.6 var(--font-ui),
+    sans-serif;
+  gap: 18px;
+}
+.site-frame .catalogue-amenities svg {
+  color: var(--navy);
+}
+.site-frame .catalogue-source {
+  font-size: 12px;
+}
+.site-frame .catalogue-source a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-decoration-color: var(--copper);
+  text-underline-offset: 4px;
+}
+.site-frame .catalogue-summary {
+  color: var(--navy);
+  background: #fff;
+  border: 1px solid var(--inner-border);
+  border-top: 2px solid var(--navy);
+  border-radius: 2px;
+  padding: 30px;
+}
+.site-frame .catalogue-summary :is(.catalogue-eyebrow, dd) {
+  color: var(--navy);
+}
+.site-frame .catalogue-summary-price {
+  font:
+    500 44px var(--font-heading),
+    sans-serif;
+  letter-spacing: -0.035em;
+}
+.site-frame .catalogue-summary-price small,
+.site-frame .catalogue-summary dt,
+.site-frame .catalogue-summary > p:last-child {
+  color: var(--panel-muted);
+  font-family: var(--font-body), sans-serif;
+}
+.site-frame .catalogue-summary dl > div {
+  border-color: var(--inner-border);
+  font:
+    12px/1.6 var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-summary > p:last-child {
+  font-size: 12px;
+  line-height: 1.7;
+}
+.site-frame .catalogue-page .catalogue-button,
+.site-frame .info-page .info-button {
+  color: #fff !important;
+  background: var(--navy);
+  border: 1px solid var(--navy);
+  border-radius: 2px;
+  font:
+    600 12px/1.5 var(--font-ui),
+    sans-serif;
+  min-height: 50px;
+  padding: 15px 23px;
+}
+.site-frame .catalogue-page .catalogue-button:hover,
+.site-frame .info-page .info-button:hover {
+  background: var(--deep-navy);
+  box-shadow: none;
+}
+.site-frame .catalogue-empty {
+  background: transparent;
+  border: 0;
+  border-block: 1px solid var(--inner-border);
+  border-radius: 0;
+  color: var(--navy);
+  padding: 80px 24px;
+}
+.site-frame .catalogue-empty :is(h2, p) {
+  color: var(--navy);
+}
+.site-frame .catalogue-empty h2 {
+  margin: 18px auto 15px;
+}
+.site-frame .catalogue-empty p {
+  font-size: 16px;
+  margin-bottom: 28px;
+}
+
+/* Developer profiles and journal stories remain open, generous and readable. */
+.site-frame .catalogue-developer-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 32px;
+}
+.site-frame .catalogue-developer-card {
+  color: var(--navy);
+  background: transparent;
+  border: 0;
+  border-top: 1px solid var(--inner-border);
+  border-radius: 0;
+  padding: 34px 0 28px;
+  min-height: 280px;
+}
+.site-frame .catalogue-developer-card:hover {
+  background: transparent;
+  box-shadow: none;
+  transform: translateY(-3px);
+  border-top-color: var(--navy);
+}
+.site-frame .catalogue-developer-wordmark {
+  font:
+    500 46px/1.1 var(--font-heading),
+    sans-serif;
+  letter-spacing: -0.03em;
+  margin: 12px 0 27px;
+}
+.site-frame .catalogue-developer-card p,
+.site-frame .catalogue-developer-card > div:last-child,
+.site-frame .catalogue-developer-card:hover p,
+.site-frame .catalogue-developer-card:hover > div:last-child {
+  color: var(--panel-muted);
+}
+.site-frame .catalogue-developer-card p {
+  font:
+    16px/1.7 var(--font-body),
+    sans-serif;
+}
+.site-frame .catalogue-developer-card > div:last-child {
+  border-color: var(--inner-border);
+  font:
+    12px var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-journal-grid {
+  gap: 32px;
+}
+.site-frame .catalogue-journal-card {
+  background: transparent;
+  border: 0;
+  color: var(--navy);
+  padding-bottom: 28px;
+  border-radius: 0;
+  overflow: visible;
+}
+.site-frame .catalogue-journal-card > :not(.catalogue-journal-image) {
+  margin-left: 0;
+  margin-right: 0;
+}
+.site-frame .catalogue-journal-image {
+  border-radius: 4px;
+  background: var(--deep-navy);
+  aspect-ratio: 1.22;
+  margin-bottom: 26px;
+}
+.site-frame .catalogue-journal-card h2 {
+  color: var(--navy);
+  font:
+    500 34px/1.1 var(--font-heading),
+    sans-serif;
+  letter-spacing: -0.03em;
+  margin-block: 17px;
+}
+.site-frame .catalogue-journal-card > p {
+  color: var(--panel-muted);
+  font-size: 15px;
+  line-height: 1.8;
+}
+.site-frame .catalogue-journal-meta {
+  color: var(--navy);
+  font:
+    11px/1.6 var(--font-ui),
+    sans-serif;
+  letter-spacing: 0.04em;
+  flex-wrap: wrap;
+}
+.site-frame .catalogue-journal-meta span + span {
+  color: var(--page-muted);
+  border-color: var(--inner-border);
+}
+.site-frame .catalogue-read {
+  color: var(--navy);
+  border-color: var(--navy);
+  font:
+    12px var(--font-ui),
+    sans-serif;
+  margin-top: 22px;
+}
+.site-frame :is(.catalogue-journal-card, .catalogue-developer-card):focus-visible {
+  outline-color: var(--navy);
+}
+.site-frame .catalogue-article-heading {
+  max-width: 920px;
+  margin: 0 auto 55px;
+  text-align: center;
+}
+.site-frame .catalogue-article-heading > p,
+.site-frame .catalogue-article-heading time,
+.site-frame .catalogue-article-body p {
+  color: var(--page-muted);
+}
+.site-frame .catalogue-article-heading > p {
+  font-size: 18px;
+  max-width: 650px;
+  margin-inline: auto;
+}
+.site-frame .catalogue-article-heading time {
+  font:
+    11px var(--font-ui),
+    sans-serif;
+}
+.site-frame .catalogue-article-body {
+  max-width: 740px;
+  margin-block: 72px;
+}
+.site-frame .catalogue-article-body h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.site-frame .catalogue-article-body p {
+  font-size: 19px;
+  line-height: 1.9;
+}
+.site-frame .catalogue-article-cta {
+  background: transparent;
+  color: var(--navy);
+  border: 0;
+  border-block: 1px solid var(--inner-border);
+  border-radius: 0;
+  max-width: 740px;
+  padding: 42px 0;
+}
+.site-frame .catalogue-article-cta :is(.catalogue-eyebrow, h2) {
+  color: var(--navy);
+}
+.site-frame .catalogue-article-cta p {
+  color: var(--panel-muted);
+  font-size: 16px;
+}
+
+/* Contact, about and privacy follow the same page grid. */
+.site-frame
+  .info-page
+  :is(
+    .contact-story > p,
+    .contact-focus span,
+    .contact-explore,
+    .info-about-text p:not(.info-eyebrow),
+    .info-prose p
+  ) {
+  color: var(--page-muted);
+}
+.site-frame .info-page .contact-story > p {
+  font-size: 19px;
+  line-height: 1.8;
+}
+.site-frame .info-page .contact-focus strong {
+  color: var(--navy);
+  font:
+    600 12px/1.6 var(--font-ui),
+    sans-serif;
+}
+.site-frame .info-page :is(.contact-focus svg, .contact-explore svg) {
+  color: var(--navy);
+}
+.site-frame .info-page .contact-focus {
+  border-color: var(--inner-border);
+}
+.site-frame .info-page .contact-focus span {
+  font-size: 13px;
+}
+.site-frame .info-page .contact-explore {
+  font:
+    12px/1.7 var(--font-ui),
+    sans-serif;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--inner-border);
+}
+.site-frame .info-page :is(.contact-image, .info-about-image) {
+  background: var(--deep-navy);
+  border: 0;
+  border-radius: 4px;
+}
+.site-frame .info-page :is(.contact-image > span, .info-about-image > div) {
+  font-family: var(--font-heading), sans-serif;
+  font-style: normal;
+  color: #fff;
+}
+.site-frame .info-page .contact-image > span {
+  font-size: 34px;
+  letter-spacing: -0.025em;
+}
+.site-frame .info-page .info-about-image:after {
+  background: linear-gradient(transparent 18%, #0c100ec7);
+}
+.site-frame .info-page .info-about-image span {
+  font:
+    11px var(--font-ui),
+    sans-serif;
+}
+.site-frame .info-page .info-about-image h2 {
+  color: #fff;
+}
+.site-frame .info-page .info-about-text {
+  padding-block: 85px;
+}
+.site-frame .info-page .info-about-text p:not(.info-eyebrow) {
+  font-size: 18px;
+  line-height: 1.85;
+}
+.site-frame .info-page .info-values {
+  gap: 32px;
+}
+.site-frame .info-page .info-values article {
+  color: var(--navy);
+  background: transparent;
+  border: 0;
+  border-top: 1px solid var(--inner-border);
+  border-radius: 0;
+  padding: 30px 0;
+}
+.site-frame .info-page .info-values article > svg {
+  color: var(--navy);
+  margin-bottom: 32px;
+}
+.site-frame .info-page .info-values article > span {
+  color: var(--panel-muted);
+  font:
+    11px var(--font-ui),
+    sans-serif;
+}
+.site-frame .info-page .info-values h3 {
+  color: var(--navy);
+  font-size: 32px;
+  line-height: 1.1;
+}
+.site-frame .info-page .info-values p {
+  color: var(--panel-muted);
+  font-size: 16px;
+  line-height: 1.8;
+}
+.site-frame .info-page .info-invitation {
+  border-color: var(--inner-border);
+  margin-top: 75px;
+  padding-top: 48px;
+}
+.site-frame .info-page .info-prose {
+  max-width: 780px;
+}
+.site-frame .info-page .info-prose section {
+  border-color: var(--inner-border);
+  padding-block: 34px;
+}
+.site-frame .info-page .info-prose h2 {
+  font-size: 34px;
+}
+.site-frame .info-page .info-prose p {
+  font-size: 18px;
+  line-height: 1.85;
+}
+.site-frame .info-page .info-prose .info-updated {
+  font:
+    11px var(--font-ui),
+    sans-serif;
+}
+.site-frame .info-page .contact-grid {
+  gap: 8%;
+}
+.site-frame .info-page :is(.enquiry-form, .enquiry-success) {
+  color: var(--navy);
+  background: #fff;
+  border: 1px solid var(--inner-border);
+  border-radius: 4px;
+  padding: 36px;
+}
+.site-frame .info-page :is(.enquiry-form-header h2, .enquiry-success h2) {
+  color: var(--navy);
+  font-family: var(--font-heading), sans-serif;
+  letter-spacing: -0.03em;
+}
+.site-frame .info-page .enquiry-form-header h2 {
+  font-size: 36px;
+  line-height: 1.05;
+}
+.site-frame .info-page :is(.enquiry-form, .enquiry-success) .info-eyebrow {
+  color: var(--navy);
+  font-size: 11px;
+}
+.site-frame .info-page .enquiry-form label {
+  color: var(--navy);
+  font:
+    12px/1.6 var(--font-ui),
+    sans-serif;
+}
+.site-frame .info-page .enquiry-form input:not([type='checkbox']),
+.site-frame .info-page .enquiry-form select,
+.site-frame .info-page .enquiry-form textarea {
+  color: var(--navy);
+  background: #fff;
+  border-color: #929b93;
+  border-radius: 2px;
+  font:
+    14px/1.5 var(--font-ui),
+    sans-serif;
+  padding: 13px 14px;
+  margin-top: 9px;
+  min-height: 48px;
+}
+.site-frame .info-page .enquiry-form :is(input, select, textarea):focus-visible {
+  outline: 2px solid var(--navy);
+  outline-offset: 2px;
+  box-shadow: none;
+  border-color: var(--navy);
+}
+.site-frame .info-page .enquiry-form input::placeholder,
+.site-frame .info-page .enquiry-form textarea::placeholder,
+.site-frame
+  .info-page
+  :is(
+    .enquiry-optional,
+    .enquiry-preview,
+    .enquiry-form .enquiry-consent,
+    .enquiry-success > p:not(.info-eyebrow):not(.enquiry-preview)
+  ) {
+  color: var(--panel-muted);
+  opacity: 1;
+}
+.site-frame .info-page .enquiry-form .enquiry-consent {
+  font-size: 12px;
+  line-height: 1.75;
+}
+.site-frame .info-page .enquiry-optional {
+  font-size: 11px;
+}
+.site-frame .info-page .enquiry-consent input {
+  accent-color: var(--navy);
+  width: 17px;
+  height: 17px;
+}
+.site-frame .info-page .enquiry-consent a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.site-frame .info-page .enquiry-project {
+  color: var(--navy);
+  background: #eff2ee;
+  border: 0;
+  border-radius: 2px;
+  padding: 13px 15px;
+  font-size: 14px;
+}
+.site-frame .info-page .enquiry-error {
+  color: var(--deep-navy);
+  background: #f8f9f7;
+  border: 1px solid var(--navy);
+  border-radius: 2px;
+  font-size: 13px;
+}
+.site-frame .info-page .enquiry-preview {
+  font-size: 12px;
+  line-height: 1.7;
+}
+.site-frame .info-page .enquiry-success {
+  padding-block: 48px;
+}
+.site-frame .info-page .enquiry-success-icon {
+  background: var(--navy);
+  color: #fff;
+  box-shadow: none;
+  border-radius: 4px;
+}
+.site-frame .info-page .enquiry-success h2 {
+  font-size: 48px;
+}
+.site-frame .info-page .enquiry-reference {
+  color: var(--navy);
+  background: #eff2ee;
+  border: 1px solid var(--inner-border);
+  border-radius: 2px;
+  overflow-wrap: anywhere;
+  max-width: 100%;
+}
+.site-frame .info-page :is(.enquiry-form, .enquiry-success) :focus-visible {
+  outline-color: var(--navy);
+}
+
+@media (max-width: 1100px) {
+  .site-frame .catalogue-filters label {
+    padding-inline: 14px;
+  }
+  .site-frame .catalogue-detail-grid {
+    grid-template-columns: 1.15fr 1fr;
+    gap: 5%;
+  }
+  .site-frame .catalogue-summary {
+    padding: 25px;
+  }
+  .site-frame .info-page :is(.enquiry-form, .enquiry-success) {
+    padding: 28px;
+  }
+  .site-frame .info-page .contact-grid {
+    gap: 5%;
+  }
+  .site-frame .catalogue-developer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 700px) {
+  .site-frame .catalogue-page,
+  .site-frame .info-page {
+    width: 90%;
+    padding: calc(var(--header-height) + 32px) 0 64px;
+  }
+  .site-frame :is(.catalogue-page, .info-page) h1 {
+    font-size: clamp(44px, 10vw, 60px);
+    line-height: 1.02;
+    letter-spacing: -0.035em;
+  }
+  .site-frame :is(.catalogue-heading, .info-intro) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+    padding-bottom: 38px;
+  }
+  .site-frame :is(.catalogue-heading, .info-intro) > :is(.catalogue-eyebrow, .info-eyebrow) {
+    margin-bottom: 0;
+  }
+  .site-frame .catalogue-heading > p:last-child,
+  .site-frame .info-intro > p:last-child:not(.info-eyebrow) {
+    font-size: 15px;
+    line-height: 1.75;
+  }
+  .site-frame .catalogue-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 20px 0;
+    gap: 22px 18px;
+  }
+  .site-frame .catalogue-filters label {
+    padding-inline: 0;
+    border-right: 0;
+  }
+  .site-frame .catalogue-filters .catalogue-search {
+    grid-column: 1/-1;
+    padding: 0 0 18px;
+    border-bottom: 1px solid var(--inner-border);
+  }
+  .site-frame .catalogue-search input {
+    max-width: none;
+  }
+  .site-frame .catalogue-filters :is(select, input) {
+    font-size: 16px;
+  }
+  .site-frame .catalogue-toolbar-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: center;
+    gap: 10px 24px;
+  }
+  .site-frame .catalogue-toolbar-actions button,
+  .site-frame .catalogue-sort select {
+    font-size: 12px;
+  }
+  .site-frame .catalogue-project-grid {
+    gap: 38px;
+  }
+  .site-frame .catalogue-page .project-card-body {
+    padding: 16px;
+  }
+  .site-frame .catalogue-page .project-title-row h3 {
+    font-size: 32px;
+  }
+  .site-frame .catalogue-detail-heading {
+    align-items: flex-start;
+  }
+  .site-frame .catalogue-detail-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 36px;
+    padding-top: 40px;
+  }
+  .site-frame :is(.catalogue-detail, .catalogue-related) h2 {
+    font-size: 38px;
+  }
+  .site-frame .catalogue-long-copy {
+    font-size: 17px;
+  }
+  .site-frame .catalogue-amenities {
+    font-size: 12px;
+    gap: 16px 12px;
+  }
+  .site-frame .catalogue-summary {
+    padding: 25px;
+  }
+  .site-frame .catalogue-developer-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+  .site-frame .catalogue-journal-grid {
+    gap: 40px;
+  }
+  .site-frame .catalogue-journal-card h2 {
+    font-size: 34px;
+  }
+  .site-frame .catalogue-article-body {
+    margin-block: 44px;
+  }
+  .site-frame .catalogue-article-body p {
+    font-size: 18px;
+    line-height: 1.85;
+  }
+  .site-frame .catalogue-article-body h2 {
+    font-size: 32px;
+  }
+  .site-frame .catalogue-article-cta {
+    padding: 30px 0;
+  }
+  .site-frame .info-page .contact-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 40px;
+  }
+  .site-frame .info-page .contact-story > p {
+    font-size: 18px;
+  }
+  .site-frame .info-page :is(.enquiry-form, .enquiry-success) {
+    padding: 24px 20px;
+  }
+  .site-frame .info-page .enquiry-form-header h2 {
+    font-size: 32px;
+  }
+  .site-frame .info-page .enquiry-form input:not([type='checkbox']),
+  .site-frame .info-page .enquiry-form select,
+  .site-frame .info-page .enquiry-form textarea {
+    font-size: 16px;
+  }
+  .site-frame .info-page .enquiry-success h2 {
+    font-size: 42px;
+  }
+  .site-frame .info-page .info-about-text {
+    padding-block: 55px;
+  }
+  .site-frame .info-page :is(.info-about-text p:not(.info-eyebrow), .info-prose p) {
+    font-size: 17px;
+  }
+  .site-frame .info-page .info-invitation {
+    margin-top: 48px;
+    padding-top: 36px;
+  }
+}

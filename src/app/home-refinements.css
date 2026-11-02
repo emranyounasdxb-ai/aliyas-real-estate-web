@@ -1,0 +1,318 @@
+/* Home-only refinements: preserve the approved brand and bring discovery forward. */
+.site-frame .future-home .curated-grid {
+  position: relative;
+}
+.lifestyle-controls {
+  display: none;
+}
+.home-project-actions {
+  --navy: #edf1e9;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 10px;
+  border-top: 1px solid #d8e0d323;
+  font: 12px var(--font-ui);
+  color: #edf1e9;
+}
+.home-project-save {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+  min-width: 64px;
+  min-height: 44px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.home-project-save[aria-pressed='true'] {
+  color: #ddcca1;
+}
+.home-project-actions .comparison-card-control {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+.home-project-actions :is(.comparison-select, .comparison-card-link) {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding-block: 0;
+  color: inherit;
+}
+.home-project-actions .comparison-card-link {
+  color: #ddcca1;
+}
+.home-project-actions .comparison-action-extra {
+  display: none;
+}
+.home-project-actions :is(button, a):focus-visible,
+.lifestyle-controls button:focus-visible,
+.site-frame .future-home .curated-grid:focus-visible {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+}
+.site-frame .rich-perspective .perspective-detail-image {
+  min-height: 390px;
+}
+.perspective-journey {
+  list-style: none;
+  margin: 24px 0 0;
+  padding: 0;
+}
+.perspective-journey li {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  padding: 12px 0;
+  border-top: 1px solid var(--line);
+}
+.perspective-journey li > span {
+  font: 11px var(--font-ui);
+  color: var(--accent-ink);
+}
+.perspective-journey h3 {
+  font: 400 23px/1.15 var(--font-heading);
+  letter-spacing: -0.02em;
+}
+.perspective-journey li > div {
+  display: grid;
+  grid-template-columns: 76px minmax(0, 1fr);
+  gap: 10px;
+  align-items: baseline;
+}
+.perspective-journey p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+.site-frame .rich-perspective .perspective-story .future-text-link {
+  margin-top: 14px;
+  min-height: 44px;
+  align-items: center;
+}
+.future-home .journal-home-image:has(img[src$='journal-neighbourhood-study.svg']) {
+  background: #e7e9df;
+}
+.future-home .journal-home-image:has(img[src$='journal-floor-plan-study.svg']) {
+  background: #19231f;
+}
+.future-home .journal-home-image img[src$='.svg'] {
+  object-fit: contain;
+}
+@media (max-width: 1100px) {
+  .site-frame .rich-perspective .perspective-detail-image {
+    min-height: 300px;
+  }
+  .perspective-journey {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+  }
+  .perspective-journey li {
+    gap: 10px;
+  }
+  .perspective-journey li > div {
+    display: block;
+  }
+  .perspective-journey p {
+    margin-top: 5px;
+  }
+}
+@media (max-width: 700px) {
+  .site-frame .future-home .curated-living {
+    padding-block: 42px 38px;
+  }
+  .site-frame .future-home .curated-living .rich-section-heading {
+    margin-bottom: 22px;
+  }
+  .site-frame .future-home .curated-living .rich-section-heading > p {
+    margin-top: 14px;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  .site-frame .future-home .curated-grid {
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    overscroll-behavior-y: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    padding-bottom: 3px;
+  }
+  .site-frame .future-home .curated-grid::-webkit-scrollbar {
+    display: none;
+  }
+  .site-frame .future-home .curated-card {
+    flex: 0 0 calc(100% - 34px);
+    height: 310px;
+    min-height: 0;
+    scroll-snap-align: start;
+    scroll-margin-inline: 0;
+  }
+  .site-frame .future-home .curated-card > div {
+    min-height: 108px;
+    padding: 17px 60px 18px 16px;
+  }
+  .site-frame .future-home .curated-card > img {
+    height: calc(100% - 108px) !important;
+  }
+  .site-frame .future-home .curated-card h3 {
+    font-size: clamp(27px, 7.5vw, 34px);
+  }
+  .site-frame .future-home .curated-card p {
+    font-size: 13px;
+    margin-bottom: 7px;
+  }
+  .site-frame .future-home .curated-number {
+    top: 17px;
+    left: 16px;
+    font-size: 10px;
+  }
+  .site-frame .future-home .curated-arrow {
+    right: 12px;
+    bottom: 20px;
+  }
+  .lifestyle-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 44px;
+    margin-top: 12px;
+    font: 11px var(--font-ui);
+    color: var(--ink);
+  }
+  .lifestyle-controls output {
+    white-space: nowrap;
+  }
+  .lifestyle-controls output > span {
+    color: var(--muted);
+  }
+  .lifestyle-progress {
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+  .lifestyle-progress > span {
+    display: block;
+    height: 100%;
+    background: var(--accent-ink);
+    transform-origin: left;
+    transition: transform 0.2s;
+  }
+  .lifestyle-swipe-hint {
+    font-size: 9px;
+    color: var(--muted);
+  }
+  .lifestyle-controls > div {
+    display: flex;
+    gap: 6px;
+  }
+  .lifestyle-controls button {
+    display: grid;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    background: transparent;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .lifestyle-controls button:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+  .home-project-actions {
+    gap: 14px;
+  }
+  .home-project-actions .comparison-card-control {
+    gap: 0 12px;
+  }
+  .site-frame .future-home .rich-perspective {
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1fr);
+    gap: 16px 14px;
+    padding-block: 36px;
+  }
+  .site-frame .rich-perspective .perspective-brand-panel {
+    padding: 14px 12px;
+    gap: 8px;
+  }
+  .site-frame .rich-perspective .perspective-detail-image {
+    min-height: 210px;
+  }
+  .site-frame .rich-perspective .signature-graphic {
+    min-height: 98px;
+  }
+  .site-frame .rich-perspective .perspective-brand-panel .future-label {
+    font-size: 9px;
+  }
+  .site-frame .rich-perspective .perspective-note {
+    font-size: 10px;
+  }
+  .site-frame .rich-perspective .perspective-story {
+    padding-top: 8px;
+  }
+  .site-frame .rich-perspective .perspective-story .future-label {
+    margin-bottom: 16px;
+  }
+  .site-frame .rich-perspective h2 {
+    font-size: 35px;
+  }
+  .site-frame .rich-perspective .perspective-story > p:not(.future-label) {
+    margin-top: 14px;
+    font-size: 15px;
+    line-height: 1.55;
+  }
+  .perspective-journey {
+    display: block;
+    margin-top: 20px;
+  }
+  .perspective-journey li {
+    padding-block: 10px;
+    gap: 14px;
+  }
+  .perspective-journey li > div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
+  }
+  .perspective-journey h3 {
+    font-size: 21px;
+  }
+  .perspective-journey p {
+    margin: 0;
+    font-size: 12px;
+  }
+}
+@media (max-width: 360px) {
+  .lifestyle-swipe-hint {
+    display: none;
+  }
+  .site-frame .future-home .curated-card {
+    height: 300px;
+  }
+  .site-frame .future-home .curated-card > div {
+    padding-right: 58px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lifestyle-progress > span {
+    transition: none;
+  }
+}

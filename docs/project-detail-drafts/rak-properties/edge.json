@@ -1,0 +1,279 @@
+{
+  "id": "rak-properties-project-09",
+  "name": "Edge",
+  "developerSlug": "rak-properties",
+  "fields": {
+    "description": "Studios, apartments, chalets and two-bedroom penthouses on Raha Island, with yacht-inspired balconies and shared indoor and outdoor leisure spaces.",
+    "areaId": "rak-raha-island",
+    "location": "Raha Island",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 750000,
+    "handover": "Q2 2027",
+    "paymentPlan": "60 / 40",
+    "amenities": [
+      "Clubhouse",
+      "Skating area",
+      "Swimming pool",
+      "Indoor and outdoor gyms",
+      "BBQ area",
+      "Children’s play area",
+      "Kids club",
+      "Retail"
+    ],
+    "brochureUrl": "https://www.rakproperties.ae/wp-content/uploads/2025/05/Egde-Updated-Brochure-compressed.pdf",
+    "floorPlanUrl": "https://www.rakproperties.ae/wp-content/uploads/2024/06/EDGE-Floorplans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "RAK Properties · Edge",
+          "url": "https://www.rakproperties.ae/our-properties/edge/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Edge · updated original brochure and home plans",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/Egde-Updated-Brochure-compressed.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "facts",
+          "label": "Edge · current-linked original fact sheet",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/EDGE-Factsheet_updated.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Edge · earlier original floor plans",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2024/06/EDGE-Floorplans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "earlier-facts",
+          "label": "Edge · earlier original fact sheet",
+          "url": "https://www.rakproperties.ae/wp-content/uploads/2024/06/EDGE-Fact-Sheet.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        },
+        {
+          "id": "launch",
+          "label": "RAK Properties · 30 May 2024 Edge launch",
+          "url": "https://www.rakproperties.ae/news/rak-properties-unveils-edge-a-yacht-inspired-waterfront-residential-tower-on-raha-island-at-mina-al-arab/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Edge commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/rak-properties/edge-at-raha-island",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        }
+      ],
+      "community": "Raha Island, Mina Al Arab",
+      "locationNote": "Raha Island in Mina Al Arab, Ras Al Khaimah.",
+      "overview": [
+        "The developer lists 237 homes; its launch was announced on 30 May 2024."
+      ],
+      "priceLabel": "Published fact-sheet guide",
+      "priceNote": "The current-linked fact sheet lists studios from AED 750,000. Obtain a current unit quotation and availability confirmation.",
+      "paymentNote": "Primary sheets list standard 60/40 and two-year post-handover 60/40. A fresh portal capture instead lists 20/80; confirm the contractual schedule.",
+      "handoverNote": "The developer and original sheets target Q2 2027. Undated construction snapshots do not verify completion; confirm the contractual date.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "379–504 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR suite",
+          "area": "618–630 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR chalet",
+          "area": "791–1,008 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR premium",
+          "area": "768–940 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR corner",
+          "area": "1,160–1,169 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR holiday",
+          "area": "1,137–1,140 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR penthouse",
+          "area": "1,546–1,583 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Published sellable areas include balconies or terraces.",
+          "sourceIds": [
+            "facts",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Earlier plan examples",
+          "value": "Studio:394–517; suite:633; penthouse:1,625 sq ft.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Fresh portal reference · during construction",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 80,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Brochure, floor-plan and fact-sheet measurements differ; confirm the approved unit revision.",
+        "Current charges, furnishing inclusions, payment applicability and available units remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protectedrak-properties-project-09/edge retained. Exactownpage237inprogress, launch30May2024Q22027; notSelectGroupTheEdgeBusinessBay. No publicinventorystatementfromcontactus. Illustrativeimages unchanged.",
+        "location": "Ownphasepage/launch explicitRahaIsland MinaAlArab RasAlKhaimah; newexactrak-raha-island adopted. No inferredcoordinates/countrywrongDubaiPR8Mtag. GenericMina/coastlinecopy0.",
+        "residences": "Actualupdated41pbrochurewhole7familydrawings31–37visuallyread1800px:studio,1suite/chalet/premium,2corner/holiday/penthouse;all single-level,staff/storage notadditionalbedrooms. Earlier11punitpackall7wholefamilies2–8actuallyviewed too. Two2BRpenthouses actualdrawingsandlevel11, avoidcurrentmain1–2headermissingstudios. Brochurepodium10chaletcountmarketing notused toinventunitmix.",
+        "areas": "Updatedbroch31studio prints504–379descending; normalize numericinterval379–504withoutunitconversion;32suite618–630,33chalet791–1008,34premium768–940,35corner1160–1169,36holiday1137–1140,37PH1546–1583. Earlierofficialplans2–8studio394–517,suite633,premium772–947,chalet806–1008,columnswapped chalet75–94actualsqm/806–1008actualsqftconfirmedfacts;corner1167–1173,holiday1139–1143,PH1625. Sourceearlierholidaymetric97incorrectfor1139ft2butnotautocorrected. Currentfacts375–400/616–630/754–940/806–1008/1136–1166/1543–1582different,variationqualified. No assumedlatestchronologybeyondcurrentlinked/earlierpath; publictableexplicitupdatedbrochsource. Sellableincludesbalcony.",
+        "amenities": "Actualcurrentfacts1clubhouse/skating/outdoorkids/loungebar/pool/outdoorgym/BBQ/indoor gym/retailfood/kidsclub andownmainconsistent. Prospectivespacesnotoperationalcertification. Sourceapplianceslistedbutcontractinclusionsunverified. No beach-rights/GoldenVisaguarantee invented.",
+        "pricing": "Currentlinkedupdatedfacts1publicstudios750000startingguide; earlierfacts1same. Otherfamily961000/1147000/1332000/1820000/2856000observednotallrepeatedtoavoid unnecessarypoolusage. Ownmainno currentprice. No listingunitofferimplied. Currentchargesandavailabilityunknown.",
+        "payment": "Bothactual1pfactsstandard60/40andposthandover2years60/40;headline60/40standard summaryonly. PFactual10down50construction40handover=100attributedsecondaryreference;nooriginal datedcalendarretrieved. Posthandoverremainingtimingnotassumedfromsummary. No inventmonthlypercentage. Independent fresh exactPFcapture instead20construction80handover; publictableupdated20/80secondary notmixedwithprimary60/40. Earlier10/50/40snapshot retained onlyinternal.",
+        "handover": "Owncurrentmain/bothfacts/30May2024launchQ22027consistent, PFJune2027withinquarter. Leading34%overallactualfreshsavedmain, undated; otherdisplayed31/28.5notassumedchronologicalmonths. No certificate/readyclaim. All public undatedprogresspercentagesremoved due capture variation.",
+        "documents": "PrimaryordinaryGET20041pupdatedbrochure11pcurrentlinkedfloorplanand1pfacts. Earlieredge.rakproperties.ae11pPDFhashidenticalcurrentlinked /2024/06/EDGE-Floorplans.pdf sooneunderlyingsource. Oldfacts1pactualviewed. All7wholefamilieseachversion plusbothfactsactualvisualread. Combinedallrelateddocs200=90broch60facts40plans10oldfacts; generic0, own150launch50portal70 separate. No forms/auth bypass/newimages."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "facts"
+        ],
+        "handover": [
+          "developer",
+          "facts",
+          "launch"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "launch"
+        ],
+        "priceLabel": [
+          "facts"
+        ],
+        "priceNote": [
+          "facts"
+        ],
+        "paymentNote": [
+          "facts",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "facts",
+          "plans",
+          "brochure"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "unresolved": [
+          "brochure",
+          "facts",
+          "plans",
+          "portal"
+        ]
+      }
+    }
+  }
+}

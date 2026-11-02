@@ -1,0 +1,209 @@
+{
+  "id": "damac-project-03",
+  "name": "DAMAC District",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "DAMAC District is a mixed-use development within DAMAC Hills, combining apartment towers with a separate office building. The original residential release offers one- and two-bedroom homes, while later broker references also show studios. Shared recreation and work facilities are allocated to their respective components.",
+    "areaId": "dubai-damac-hills",
+    "location": "DAMAC Hills",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 1100000,
+    "handover": "Q3 2029 · original document estimate",
+    "paymentPlan": "60/40 · original launch plan",
+    "amenities": [
+      "Shared swimming pool",
+      "Garden yoga",
+      "Outdoor calisthenics",
+      "Padel courts",
+      "Barbecue stations",
+      "Private dining pods",
+      "Gaming lounge",
+      "Indoor golf simulator",
+      "Gym and AI training area",
+      "Children's play area"
+    ],
+    "brochureUrl": "https://resources.pamgolding.co.za/web/developments/cbc310e1-39e2-481e-82bf-68a94fe33b8c/Brochure/damac-district-launch-presentation-11th-sept.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/711e552a0a544f29b8d24bd94ca90912.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "presentation",
+          "label": "DAMAC District launch presentation, 11 September 2025, Pam Golding-hosted",
+          "url": "https://resources.pamgolding.co.za/web/developments/cbc310e1-39e2-481e-82bf-68a94fe33b8c/Brochure/damac-district-launch-presentation-11th-sept.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "payment",
+          "label": "DAMAC District launch payment sheet, broker-hosted",
+          "url": "https://www.dubai-p.com/wp-content/uploads/2025/09/DAMAC-DISTRICT-LAUNCH-PAYMENT-PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "DAMAC District floor plans, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/711e552a0a544f29b8d24bd94ca90912.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: DAMAC District",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/damac-district",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "later",
+          "label": "Casadior: later DAMAC District references",
+          "url": "https://maisondubai.com/projects/damac-district",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "presentation"
+        ],
+        "overview": [
+          "presentation"
+        ],
+        "location": [
+          "presentation"
+        ],
+        "type": [
+          "presentation"
+        ],
+        "bedrooms": [
+          "presentation",
+          "later"
+        ],
+        "price": [
+          "payment"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "amenities": [
+          "presentation"
+        ],
+        "units": [
+          "presentation",
+          "later"
+        ],
+        "documents": [
+          "presentation",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own branded 39-page presentation identifies mixed-use DAMAC District at DAMAC Hills; not DAMAC Lagoons District.",
+        "location": "Own presentation location/masterplan reviewed; DAMAC Hills neighbourhood not yet in existing area catalogue.",
+        "residences": "Original one/two-bedroom release separated from later broker studio references and commercial offices.",
+        "areas": "Own image-only presentation averages and office leasable areas visually read; later studio values clearly broker-reported.",
+        "amenities": "Own residential amenity slides distinguish apartment facilities from office-only facilities and wider community access.",
+        "pricing": "Original 1.1m/1.7m/6.1m guides retained with scope; later portal 1.2m and studio listings not treated as same release.",
+        "payment": "Own monthly 20/40/40 plan and quarterly alternative visually reviewed; total 100 and extraDLD fee disclosed.",
+        "handover": "Own August 2029 conflicts with Property FinderMarch 2029; preferred own release date qualified.",
+        "documents": "Own 39-page presentation, 31-page plans and 1-page price/payment sheet downloaded. Representative layouts and numerical slides visually checked."
+      },
+      "community": "DAMAC District · DAMAC Hills",
+      "overview": [
+        "Two residential towers sit alongside a separate office component in the launch presentation. Homes and workplaces have different facility programmes, so office-only features should not be assumed to come with apartment ownership. The residential concept combines shared recreation, outdoor spaces and areas for social use."
+      ],
+      "locationNote": "The launch presentation places District within DAMAC Hills near DAMAC Mall. Golf and lagoon outlooks are shown as potential views; confirm the actual tower, floor and orientation rather than assuming every home has that outlook.",
+      "priceLabel": "Original apartment launch guide · reconfirm",
+      "priceNote": "The launch sheet starts at AED 1.1m for one bedroom and AED 1.7m for two bedrooms; its office-space reference is AED 6.1m. Property Finder instead shows AED 1.2m, and later broker material includes studios. These references concern different releases or dates; obtain a current unit-specific offer.",
+      "paymentNote": "The original monthly plan collects 20% immediately, 1% a month from months 3 through 42, and 40% on completion. Its quarterly option collects 3% at months 4/7/10/13/16/19/22/25/28/31/34/37 and 2% at months 40/43, retaining 20% deposit and 40% completion. The sheet adds 4% DLD to the initial deposit. Later schedules require separate written confirmation.",
+      "handoverNote": "The launch payment document states August 2029, shown here asQ 3 2029. Property Finder reports March 2029. This conflict remains unresolved for a particular unit; use its signed contractual programme.",
+      "units": [
+        {
+          "label": "1-bedroom original release",
+          "area": "740 sq ft average saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "2-bedroom original release",
+          "area": "1,221 sq ft average saleable area",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Studio · later broker-reported selection",
+          "area": "413–438 sq ft; confirm release and registered basis",
+          "sourceIds": [
+            "later"
+          ]
+        },
+        {
+          "label": "Separate commercial office units",
+          "area": "3,164–6,588 sq ft leasable unit area; not apartment area",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Immediate deposit",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Months 3–42 · 1% monthly",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Measurement distinction",
+          "value": "The presentation uses average saleable area for apartments and leasable area for offices. These measurements should not be treated as interchangeable with plot area or a specific registered unit total.",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Later release references",
+          "value": "Later broker material lists studio apartments and alternative 50/50 and 70/30 payment structures. Their applicability, incentives and current validity are unconfirmed; they are not substituted for the original launch sheet.",
+          "sourceIds": [
+            "later"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the selected release, availability, exact registered area, parking, service charges, furnishings and final specification.",
+        "Conflicting completion months and later payment options need a dated developer offer. The original launch schedule does not prove it remains available.",
+        "Primary website access failed during this review. Publicly hosted branded documents were checked; broker pages remain secondary sources.",
+        "Launch-presentation return/appreciation examples are promotional and are not adopted as forecasts. Facility access and delivery require confirmation. Photos remain illustrative."
+      ]
+    }
+  }
+}

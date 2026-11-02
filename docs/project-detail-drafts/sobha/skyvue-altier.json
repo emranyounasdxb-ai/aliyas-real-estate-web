@@ -1,0 +1,178 @@
+{
+  "id": "sobha-project-10",
+  "name": "Skyvue Altier",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Skyvue Altier is the final tower in Sobha’s Skyvue collection within Sobha Hartland II. Its angular architecture arranges one- and two-bedroom apartments around different skyline, community and sanctuary-facing orientations.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 1830000,
+    "handover": "June 2030 · portal-reported estimate",
+    "paymentPlan": "20/40/40 · broker-reported plan",
+    "amenities": [
+      "Leisure and infinity pools",
+      "Children’s play area",
+      "Outdoor cinema",
+      "Skate park",
+      "Social seating areas",
+      "Art and music room",
+      "Library and reading room",
+      "BBQ zone",
+      "Jogging loop",
+      "Yoga zone",
+      "Indoor cinema"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-11/SKYVUE%20ALTIER%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-11/SKYVUE%20ALTIER%20-%20Brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Skyvue Altier official page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyvue/altier",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Skyvue Altier brochure and floor plans, November 2025 file",
+          "url": "https://sobharealty.com/sites/default/files/2025-11/SKYVUE%20ALTIER%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Skyvue Altier completion and aggregate plan",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/skyvue-altier",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "schedule",
+          "label": "JRE Skyvue Altier booking/construction split",
+          "url": "https://jre.ae/projects/skyvue-altier",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder",
+          "schedule"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own official Altier page and brochure, not Skyvue Stellar/Solair/Spectra.",
+        "location": "Sobha Hartland II confirmed; no speculative Bukadra/Riviera mapping.",
+        "residences": "One- and two-bedroom Luxe/Premium variants; study/store excluded from bedroom count.",
+        "areas": "Own78-page brochure indexed, numeric panels pages31,61,76 visually read.",
+        "amenities": "Own official page amenity list reviewed.",
+        "pricing": "Official current AED1.83m start distinguished from variable portal/live selection prices.",
+        "payment": "Portal60/40 plus broker20/40/40; no verified signed developer schedule.",
+        "handover": "PortalJune2030; no primary contractual date retrieved.",
+        "documents": "Official78-page brochure contains floorplans; no separately linked plan/payment PDF found."
+      },
+      "community": "Skyvue Altier · Sobha Hartland II",
+      "overview": [
+        "Luxe and Premium variants differ in usable rooms and outdoor space. The larger two-bedroom Type E adds a study/store and a powder room; that additional room does not turn the advertised home into a three-bedroom apartment."
+      ],
+      "locationNote": "In Sobha Hartland II, with marketed outlooks towards Downtown Dubai, the community and Ras Al Khor. View references are unit-specific; adjacency to the sanctuary does not provide private access to protected land.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha publishes AED 1.83m subject to inventory. Property Finder displays a lower current selection reference and a sold-out label; these different catalogue states do not confirm developer availability. Obtain a dated unit quotation.",
+      "paymentNote": "Property Finder publishes 60% during construction and 40% at handover. JRE reports the more detailed split of 20% booking, 40% construction and 40% completion. The displayed stages are secondary reported terms; exact dates and fees require the developer’s offer.",
+      "handoverNote": "Property Finder reports June 2030. This is a public portal estimate, not a verified contractual commitment; confirm the latest programme for the selected residence.",
+      "units": [
+        {
+          "label": "1-bedroom Luxe Type A",
+          "area": "551.01 sq ft total: 498.37 suite + 52.64 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Luxe Type A",
+          "area": "1,001.58 sq ft total: 921.71 suite + 79.87 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Premium Type E with study/store",
+          "area": "1,595.32 sq ft total: 1,389.19 suite + 206.13 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported plan",
+          "percent": 20,
+          "sourceIds": [
+            "schedule"
+          ]
+        },
+        {
+          "stage": "Construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "schedule"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "schedule"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No current developer inventory, signed payment schedule, parking allocation, service charges or binding handover date retrieved.",
+        "Website layout selections are not the full brochure range. Examples are individually identified; study/store, powder rooms and balcony areas are not extra bedrooms.",
+        "Brochure plans are indicative and may change. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

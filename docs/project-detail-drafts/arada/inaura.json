@@ -1,0 +1,321 @@
+{
+  "id": "arada-project-01",
+  "name": "Inaura",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "Inaura combines branded homes and a hotel in Downtown Dubai. Apartments, sky villas and a penthouse sit within MVRDV’s tower design, with an elevated lounge and spaces for fitness, work and relaxation.",
+    "areaId": "dubai-downtown",
+    "location": "Downtown Dubai",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–6",
+    "price": 3599000,
+    "handover": "Q2 2030",
+    "paymentPlan": "10 / 40 / 50",
+    "amenities": [
+      "Formative fitness centre",
+      "Sky Lounge",
+      "Spa and sauna",
+      "Cinema",
+      "Library",
+      "Coworking and meeting rooms",
+      "Children’s play area",
+      "Smart-home controls"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf",
+    "floorPlanUrl": "https://strapiallsopp.s3.eu-west-1.amazonaws.com/Inaura_FP_a76b574d9f.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Inaura: developer residences and payment plan",
+          "url": "https://www.arada.com/en/inaura-downtown/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 175
+        },
+        {
+          "id": "launch",
+          "label": "Inaura: developer launch, 14 January 2026",
+          "url": "https://www.arada.com/en/latest-news/arada-introduces-inaura-a-dynamic-fitness-led-hospitality-and-branded-residences-concept-with-a-debut-location-in-downtown-dubai/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "architect",
+          "label": "Inaura: MVRDV project and tower design",
+          "url": "https://www.mvrdv.com/projects/1213/inaura",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "brochure",
+          "label": "Inaura: original developer brochure, 50 spreads",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Inaura: original 29-page residence plans, broker mirror",
+          "url": "https://strapiallsopp.s3.eu-west-1.amazonaws.com/Inaura_FP_a76b574d9f.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 190
+        },
+        {
+          "id": "portal",
+          "label": "Inaura: Property Finder project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/arada-sale/inaura-hotels-and-residences",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch",
+          "architect"
+        ],
+        "areaId": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch",
+          "plans"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "launch"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "community": [
+          "launch"
+        ],
+        "overview": [
+          "launch",
+          "architect",
+          "developer"
+        ],
+        "locationNote": [
+          "launch"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "handoverNote": [
+          "portal",
+          "developer",
+          "launch"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "launch",
+          "architect",
+          "developer"
+        ],
+        "unresolved": [
+          "plans",
+          "developer",
+          "launch"
+        ]
+      },
+      "community": "Downtown Dubai",
+      "overview": [
+        "Arada’s January 2026 launch describes 114 branded homes alongside a hotel: one- to four-bedroom apartments, two five-bedroom duplexes and a six-bedroom triplex.",
+        "MVRDV designed the tower around an elevated orb-shaped social space. Fitness, spa facilities and hotel services form part of the residential setting."
+      ],
+      "locationNote": "At the edge of Downtown Dubai, close to Business Bay. Developer journey times are estimates, not guaranteed travel times.",
+      "priceLabel": "Developer guide from",
+      "priceNote": "The developer advertises AED 3,599,000 for a Lumen one-bedroom residence. Property Finder marks its project selection sold out; this guide is not a confirmed available-unit quotation.",
+      "paymentNote": "Current developer terms: 10% down, 40% during construction and 50% on handover. Obtain dated instalments and fees for the selected home; no original signed payment calendar was available.",
+      "handoverNote": "Property Finder gives June 2030; the reviewed developer landing page and launch release do not publish a completion date. Treat this as a secondary forecast, not a confirmed handover.",
+      "units": [
+        {
+          "label": "1-bedroom Lumen A",
+          "area": "705–834 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Lumen B",
+          "area": "715–782 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Lumen A",
+          "area": "1,272–1,508 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Lumen B",
+          "area": "1,627–1,685 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Lumen C",
+          "area": "1,426–1,437 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Lumen D",
+          "area": "1,344 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Lumen",
+          "area": "2,874–2,937 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Radiance",
+          "area": "4,034–4,667 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Sky Villas 1 / 2",
+          "area": "7,449 / 6,781 ft²",
+          "sourceIds": [
+            "plans"
+          ],
+          "note": "Whole duplex totals, not repeated per floor."
+        },
+        {
+          "label": "6-bedroom Sky Penthouse",
+          "area": "17,770 ft²",
+          "sourceIds": [
+            "plans"
+          ],
+          "note": "All three levels, including roof terrace."
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Launch residential programme",
+          "value": "114 branded homes; hotel accommodation is separate.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Design",
+          "value": "MVRDV; architect describes a 210-metre tower.",
+          "sourceIds": [
+            "architect"
+          ]
+        },
+        {
+          "label": "Sustainability target",
+          "value": "LEED Gold precertified, as stated by Arada; not a completed-building certification.",
+          "sourceIds": [
+            "developer",
+            "launch"
+          ]
+        },
+        {
+          "label": "Upper residences",
+          "value": "Two five-bedroom duplexes and one six-bedroom, three-storey penthouse.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Sky Villa 2 drawings repeat Villa 1 inset floor areas; its own summary instead states 6,781 ft². Obtain corrected schedules.",
+        "Penthouse component totals differ from its printed grand total by 0.01 m²; retain the published 17,770 ft² whole-home figure.",
+        "The landing page describes one to five bedrooms; the launch and plans also include the six-bedroom penthouse. Confirm its availability, title, furnishing, parking and charges.",
+        "Published suite-range labels contain inconsistencies; confirm the contracted plan."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected arada-project-01 Inaura. Exact own landing,14January2026 release and MVRDV architect independently identify Downtown mixed hotel/residences. Primary launch114homes, not119total records inferred from broker. No other Arada project facts used.",
+        "location": "Own launch explicitly edge of Downtown Dubai, nearBusinessBay; exact existing registry dubai-downtown. No coordinates or guaranteed routes inferred.",
+        "residences": "Launch1–4apartments/two5BRduplexes/one6BRthree-storey matches actual original floor families; main own landing1–5 excludes6 so conflict explicit. Apartment established filter only, larger families retained units.",
+        "areas": "Actual plans15–29 all numerical full drawing panels viewed via bounded1750x1600 images and contacts, plus full23/25/26/27. Brochure44–68 same underlying layouts. Whole villa1 total692m2/7449ft2 and villa2 629.97m2/6781ft2 not multiplied; villa2 inset duplicated438.83/4724 and upper253.16/2725 inconsistent with own summary292.35+252.88+84.75=629.98 vs629.97. Penthouse lower833.92 upper289.73 roof527.26 sum1650.91 vsprinted1650.90, grand17770 correct withrounding. No unsupported22511ft2 range adopted. Ranges exact printed not recomputed conversions. Independent actual panel review also found inverted suite-only min/max labels: Lumen B54.80min/54.55max m²; 3BR185.34min/184.02max;4BR289.89min/289.62max. Published whole-home totals retained without correction.",
+        "amenities": "Own landing and launch supportFormative gym/sky lounge/spa/sauna/smart-home/cinema/library/cowork/children play. No medical outcomes, guaranteed view permanence, universal private pools or free services assumed.",
+        "pricing": "Actual own current landing advertises3599000 for Lumen1BR. PF3.6m rounded andsoldout qualifier retained, not currentstock promise. Secondary older40/60 andbroker quotedselectedprices not treated primary.",
+        "payment": "Own current10/40/50 sums100. No original dated commercial PDF retrieved or fabricated. Thirdparty40/60 not preferred to actual current developer terms. Fees/calendar left forunit verification.",
+        "handover": "Own landing/release no completion calendar; PF June2030 explicitsecondary forecast. Architect statusInprogress noconstructionpercentage. PF future Dec2026 timeline not current completed milestone; excluded.",
+        "documents": "Ordinary Nodefetch own landing200 saved; initialurllib403 not bypassed. Brochure100p and plans29p exact public brokerURLs retrieved directGET and rendered. Public derivative commonPDFpool200 (brochure10/plans190) includes numeric labels/notes and source-error clauses; no independent mirror allowance. Architect own200cap separate45. GenericAradahomepage0. Noforms/sales submissions. Later exact public sales-toolkit href revealed original official50spread brochure; retrieved14524555bytes and matched embedded629.97/17770numeric panels tobroker100singlepageversion, sameunderlyingpool. OfficialonepageEDMactualimagealso10/40/50 androunded3.59m, no extra-derived facts."
+      }
+    }
+  }
+}

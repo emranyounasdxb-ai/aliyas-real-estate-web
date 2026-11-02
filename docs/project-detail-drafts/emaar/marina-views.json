@@ -1,0 +1,62 @@
+{
+ "id":"emaar-project-82","name":"Marina Views","developerSlug":"emaar",
+ "fields":{
+  "description":"Marina Views is a three-tower apartment collection at Rashid Yachts & Marina. A landscaped podium connects the buildings, with pools, fitness spaces and ground-level retail shaping daily life around the marina. The detailed plans cover one- to four-bedroom homes, including larger upper-floor layouts with separate study and family spaces.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment","bedrooms":"1–4","price":1650000,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Gym","Children’s play areas","Multipurpose rooms","Landscaped podium","Infinity pool","Children’s pool","Ground-floor retail"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/MARINA-VIEWS_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MARINA-VIEWS_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Marina Views","url":"https://www.emaar.com/en/properties/marina-views-at-rashid-yachts-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Marina Views brochure","url":"https://www.emaar.com/cms-media/uploads/MARINA-VIEWS_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":135},
+    {"id":"plans1","label":"Emaar: Marina Views Tower 1 plans","url":"https://www.emaar.com/cms-media/uploads/MARINA-VIEWS_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans2","label":"Emaar Tower 2 plans, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/marina-views/MARINA%20VIEWS%20-%20MARKETING%20LAYOUT%20-%20Tower%202.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"plans3","label":"Emaar Tower 3 plans, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/marina-views/MARINA%20VIEWS%20-%20MARKETING%20LAYOUT%20-%20Tower%203.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":125},
+    {"id":"facts","label":"Emaar launch fact sheet, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/marina-views/MARINA_VIEWS_RYM_FACT_SHEET%20(1).pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Emaar launch payment plan, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/marina-views/MARINA_VIEWS_RYM_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Marina Views","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/marina-views","kind":"portal","checkedOn":"2026-10-31","derivedWords":85}
+   ],
+   "fieldSources":{"description":["official","plans1","finder"],"overview":["brochure"],"location":["official","brochure"],"type":["brochure","plans1","plans2","plans3"],"bedrooms":["brochure","plans1","plans2","plans3"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans1","plans2","plans3"],"documents":["brochure","plans1","plans2","plans3"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{"identity":"Marina Views at Rashid Yachts & Marina distinguished from similarly named Dubai Marina projects.","location":"Mina Rashid community mapped; no Dubai Marina location substituted.","residences":"One- to four-bedroom apartments verified in brochure and all three towers’ plans; conflicting live-page key facts disclosed.","areas":"Tower-specific totals extracted from all detailed plans, with representative area tables and a four-bedroom layout visually inspected.","amenities":"Podium, pools, fitness, play and retail checked against developer information.","pricing":"AED 1.65m official headline and bedroom-specific launch prices recorded separately.","payment":"Eight 10% payments plus a 20% completion balance verified visually; construction triggers retained.","handover":"December 2028 launch estimate corroborated by Property Finder.","documents":"Official 26-page brochure and 31-page Tower 1 PDF; attributed Tower 2/3 copies and launch fact/payment sheets inspected."},
+   "community":"Rashid Yachts & Marina",
+   "overview":["The brochure positions Marina Views between the older waterfront districts and central Dubai. Its homes range from compact one-bedroom layouts to substantially larger four-bedroom apartments. Views depend on tower, floor and orientation; marina-facing marketing imagery should not be treated as a promise for every home."],
+   "locationNote":"Marina Views is in Rashid Yachts & Marina, Mina Rashid. Emaar references the QE2 Hotel and access towards Downtown Dubai, Dubai Mall and Dubai International Airport. The marina, promenade and wider community facilities should be assessed alongside the project’s own residential amenities.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar’s headline is AED 1.65m. The launch sheet lists one-bedroom homes from AED 1.65m, two-bedroom from AED 2.52m, three-bedroom from AED 4.30m and four-bedroom from AED 9.10m. These are historical category starts, not current offers or available inventory.",
+   "paymentNote":"The launch plan allocates 10% at booking, seven further 10% instalments and 20% at completion. Several later dates are linked to construction milestones. Property Finder corroborates 10/70/20; confirm purchase-specific terms before relying on this historical schedule.",
+   "handoverNote":"The launch payment document estimates December 2028 completion. Property Finder also reports Q4 2028. The contractual date and current construction position require building-specific confirmation.",
+   "units":[
+    {"label":"Tower 1 · 1 bedroom","area":"740.88–807.29 sq ft total","sourceIds":["plans1"]},
+    {"label":"Tower 1 · 2 bedrooms","area":"1,251.41–1,278.75 sq ft total","sourceIds":["plans1"]},
+    {"label":"Tower 1 · 3 bedrooms","area":"1,687.35–1,691.55 sq ft total","sourceIds":["plans1"]},
+    {"label":"Tower 1 · 4 bedrooms","area":"2,925.09–2,976.76 sq ft total","sourceIds":["plans1"]},
+    {"label":"Tower 2 · 1 bedroom","area":"723.98–819.78 sq ft total","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 2 bedrooms","area":"1,219.98–1,925.56 sq ft total","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 3 bedrooms","area":"1,693.81–1,701.88 sq ft total","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 4 bedrooms","area":"2,904.64–2,953.19 sq ft total","sourceIds":["plans2"]},
+    {"label":"Tower 3 · 1 bedroom","area":"741.96–807.40 sq ft total","sourceIds":["plans3"]},
+    {"label":"Tower 3 · 2 bedrooms","area":"1,250.76–1,425.68 sq ft total","sourceIds":["plans3"]},
+    {"label":"Tower 3 · 3 bedrooms","area":"1,687.35–1,884.65 sq ft total","sourceIds":["plans3"]},
+    {"label":"Tower 3 · 4 bedrooms","area":"2,925.20–2,974.82 sq ft total","sourceIds":["plans3"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"249 one-bedroom, 175 two-bedroom, 107 three-bedroom and 14 four-bedroom homes: 545 apartments in the launch sheet. This is not remaining stock.","sourceIds":["facts"]},
+    {"label":"Larger upper-floor layout","value":"Tower 1 four-bedroom Type A is shown on levels 19–20. The plan includes a study, laundry and multiple balconies; its 2,976.76 sq ft total includes 374.80 sq ft of balconies.","sourceIds":["plans1"]},
+    {"label":"Compare outdoor and indoor areas","value":"Apartment totals include balconies or terraces. The tower-specific ranges matter: Tower 2’s largest two-bedroom plan is substantially larger than its standard layouts.","sourceIds":["plans2"]}
+   ],
+   "unresolved":["Emaar’s live key-facts panel says one- to three-bedroom apartments and three-bedroom penthouses. Its brochure and detailed plans instead document one- to four-bedroom apartments. Four-bedroom plans are retained; an unverified penthouse category is not added.","The launch fact table is headed ‘Villas’ despite its apartment descriptions and tower plans. Its category counts and prices are attributed to the launch sheet, not used to create a villa category.","Current availability, parking allocations, service charges, final specifications and contractual delivery require confirmation.","Images remain illustrative; project photography is deferred."]
+  }
+ }
+}

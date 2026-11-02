@@ -1,0 +1,256 @@
+{
+  "id": "reportage-project-10",
+  "name": "The District",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "The District combines homes, offices and everyday services on Al Reem Island. Its residential collection ranges from one-bedroom apartments to four-bedroom penthouses, duplexes and three-level townhouses, with noticeably different outdoor areas between layouts.",
+    "areaId": "abu-dhabi-al-reem-island",
+    "location": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": "Q2 2029",
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pools",
+      "Children’s play areas",
+      "Gym and fitness centres",
+      "Seating areas",
+      "Retail",
+      "Clinic and pharmacy"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/The-District-by-Reportage-Brochure-Artwork.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/The-District-Updated-Unit-Types.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reportage · The District current project page",
+          "url": "https://reportagegroup.com/projects/residential-apartments/the-district/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "offer",
+          "label": "Reportage · The District indicative offer and alternatives",
+          "url": "https://reportagegroup.com/ar/districtoffer/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Reportage · The District original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/The-District-final-fact-sheet.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "plans",
+          "label": "Reportage · The District updated unit drawings",
+          "url": "https://reportagegroup.com/wp-content/uploads/The-District-Updated-Unit-Types.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 155
+        },
+        {
+          "id": "brochure",
+          "label": "Reportage · The District original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/The-District-by-Reportage-Brochure-Artwork.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · The District secondary commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/the-district",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "community": "The District, Al Reem Island",
+      "overview": [
+        "Three residential towers and townhouses total 874 homes."
+      ],
+      "locationNote": "Al Reem Island, Abu Dhabi.",
+      "priceLabel": "Request a unit-specific quotation",
+      "priceNote": "The developer’s offer advertises AED 0.88m with cash-discount conditions, while its metadata says AED 1.49m. Property Finder’s launch headline is AED 1.7m; these are not comparable unit quotations.",
+      "paymentNote": "The developer offers multiple alternatives, including 20/10/70. The table shows that reference; confirm its dated installments and eligibility. No signed unit schedule was retrieved.",
+      "handoverNote": "The developer’s offer targets Q2 2029, corroborated by Property Finder’s June 2029 forecast. The main page’s undated “Starting Soon” label does not establish current progress.",
+      "units": [
+        {
+          "label": "1BR · A–D",
+          "area": "683.29–1,247.75 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · A–E",
+          "area": "917.51–1,852.79 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · A1–E",
+          "area": "1,187.47–2,060.86 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR · Duplex A1–A4/B",
+          "area": "1,934.81–3,014.86 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR · Duplex A5",
+          "area": "Unresolved printed total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR · Penthouse",
+          "area": "1,763.02–3,042.74 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR · Townhouse",
+          "area": "2,524.46–3,350.80 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · developer reference",
+          "percent": 20,
+          "sourceIds": [
+            "offer"
+          ]
+        },
+        {
+          "stage": "First-year installment",
+          "percent": 10,
+          "sourceIds": [
+            "offer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 70,
+          "sourceIds": [
+            "offer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Areas include outdoor space; duplex and townhouse figures cover whole homes once.",
+        "Duplex A5 prints 22,089.27 ft², but its components sum to 2,089.27; this unresolved anomaly is excluded from the duplex range. Other totals show small component differences.",
+        "Confirm current stock, charges, parking allocation and contractual specifications."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-10 The District AlReem, not DistrictOne or unrelated developers. Exactown page/currentownoffer andthree exposed PDFs ordinaryGET200. No identity/media/canonical changes.",
+        "location": "Main explicitAlReemIslandAbuDhabi; exactexisting registry abu-dhabi-al-reem-island. No inferredTamouh subdistrict orcoordinates from portal.",
+        "residences": "All38updated unitdrawing numeric panels actuallyviewed. Whole1,5,10,21,27,37,38 checked (1BR/2BR/3BR/4duplex/simplexPH/three-levelTH). Facts1 read: eachA/B305=106+110+73+7+9;C234=92+78+54+4+6;TH30 =>874. Facts16/10fourbedrows are sub-totals ofPH/DPH, not additionalhomes. Brochure14mix consistent. Office/clinic/retail not calledadditionalresidentialstock.",
+        "areas": "Allactual38footerpanels1–38 read via district-numeric-1 for1–4 and district-allnumeric-5/9/13/17/21/25/29/33/37 thereafter. 1BR683.29–1247.75;2BR917.51–1852.79;3BR1187.47–2060.86;4DPHexceptA51934.81–3014.86;PH1763.02–3042.74;TH2524.46–3350.80. Actual25 A5 total22089.27 vs1808.44+280.83=2089.27; never silentlyrepair, explicitlyexcludedfromrange. Common0.01componentdifferences p7/9/12; variableinternal/outdoorendpoints notnecessarilypaired. Wholeduplex/triplexonce, no multiplication.",
+        "amenities": "Own main actualpool/play/gym/seat/retail and ownfactsclinic/pharmacy. No unverified schools/metro/medicalcentre operational claim or residencefullyfurnished assumption. Privateparkingallocationmustconfirm.",
+        "pricing": "Actual own /ar/districtoffer/ GET200 publiclyconditional0.88m cash40discount andmetadata1.49m; sourceequivalentretelling100words. Do not universallyapplydiscountorclaimstock/yield8.5/94occupancy/GoldenVisa. PF1.7mheadline/FAQ1.67m/description1.135m not coherentuniversalquote; headlineNULL.",
+        "payment": "Actual own offer HTML options include20/10/70-no-discount; JSdown.20/y1.10/mo0 =>70balance. Otheroptions30down,10/20/30monthly1%,cash40discount distinctconditions. Adopt20+10+70=100referenceonly, no inferreddatedmonthlycalendar. PFfivealternatives100corroborated but no secondaryprimarysubstitution.",
+        "handover": "Current ownoffer exactQ2,2029scheduledhandover, PFJune2029consistentforecast; no actualcompletion. Ownmain undatedStartingSoon notcertificate. No oldportal constructiontimeline treated ascurrent.",
+        "documents": "Ownupdatedunit38p17266699B,brochure36p18860053B,facts2p4037591B. All38actualnumericpanels+seven wholefamilies+facts1 read, brochuretextmix/copyreviewed. Single relatedPDFpool20045facts155plans0broch. Primarymain+offercombined200not200each. Portal100,generic0. No forms/bypass."
+      },
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "price": [
+          "offer",
+          "portal"
+        ],
+        "priceLabel": [
+          "offer"
+        ],
+        "priceNote": [
+          "offer",
+          "portal"
+        ],
+        "paymentPlan": [
+          "offer"
+        ],
+        "paymentNote": [
+          "offer"
+        ],
+        "paymentStages": [
+          "offer"
+        ],
+        "handover": [
+          "offer",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "offer",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "unresolved": [
+          "plans",
+          "facts",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

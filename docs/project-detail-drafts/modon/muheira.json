@@ -1,0 +1,358 @@
+{
+  "id": "modon-project-05",
+  "name": "Muheira",
+  "developerSlug": "modon",
+  "fields": {
+    "description": "Muheira brings one-, two- and three-bedroom apartments to the waterfront of Al Reem Island. The current release combines residential towers with swimming, fitness and shared leisure spaces.",
+    "areaId": "abu-dhabi-al-reem-island",
+    "location": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": null,
+    "paymentPlan": "50 / 50",
+    "amenities": [
+      "Lap pool",
+      "Children’s pool and play areas",
+      "Gym and yoga space",
+      "Cinema",
+      "Padel court",
+      "BBQ and picnic areas",
+      "Residents’ lounge"
+    ],
+    "brochureUrl": "https://knightsbridge-partners.com/wp-content/uploads/2025/09/Muheira-Brochure-Phase2-v19.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/muheira/MUHEIRA_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Muheira: current developer release and FAQ",
+          "url": "https://www.modon.com/real-estate/muheira",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "Muheira: developer launch, 22 May 2025",
+          "url": "https://www.modon.com/about-modon/media-centre/details/2025/05/22/modon-unveils-muheira--the-first-modon-freehold-residential-towers-on-reem-island",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "soldout",
+          "label": "Muheira: issuer launch-day sell-out statement, 23 May 2025",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/4386345",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Muheira: earlier original floor plans, broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/muheira/MUHEIRA_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "phase2",
+          "label": "Muheira Phase 2: original brochure, distribution-partner mirror",
+          "url": "https://knightsbridge-partners.com/wp-content/uploads/2025/09/Muheira-Brochure-Phase2-v19.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "facts",
+          "label": "Muheira: earlier original factsheet and calendar, broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/muheira/MUHEIRA_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "payment",
+          "label": "Muheira: earlier payment artwork, conflicting callouts",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/muheira/MUHEIRA_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 15
+        },
+        {
+          "id": "brochure",
+          "label": "Muheira: earlier original brochure, broker mirror",
+          "url": "https://mcpuae.com/wp-content/uploads/2026/01/Muheira-at-Maysan-By-Modon-Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        }
+      ],
+      "community": "Al Reem Island",
+      "overview": [
+        "The May 2025 launch comprised 475 apartments in two towers. The issuer subsequently reported a launch-day sell-out. The current developer page advertises a new phase; the earlier announcement does not establish its availability."
+      ],
+      "locationNote": "Muheira is on Al Reem Island, Abu Dhabi, close to Abu Dhabi Global Market.",
+      "priceLabel": "Request a release-specific quotation",
+      "priceNote": "Current published averages are AED 1.6m / 2.8m / 4.3m for 1 / 2 / 3BR, not starting prices. The May 2025 launch started at AED 1.2m.",
+      "paymentNote": "Current terms are 50 / 50. The table preserves the earlier factsheet’s dated calendar.",
+      "handoverNote": "Current target: Q2 2029. Earlier factsheet: Q1 2029, with completion in March 2029.",
+      "units": [
+        {
+          "label": "Current 1BR",
+          "area": "74–86 m²",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Current 2BR",
+          "area": "113–156 m²",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Current 3BR",
+          "area": "188–240 m²",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Earlier 1BR",
+          "area": "73–107 m² average GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Earlier 2BR",
+          "area": "110–180 m² average GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Earlier 3BR",
+          "area": "182–237 m² average GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Phase 2 1BR",
+          "area": "74–87 m² average GSA",
+          "sourceIds": [
+            "phase2"
+          ]
+        },
+        {
+          "label": "Phase 2 2BR",
+          "area": "113–157 m² average GSA",
+          "sourceIds": [
+            "phase2"
+          ]
+        },
+        {
+          "label": "Phase 2 3BR",
+          "area": "187–340 m² average GSA",
+          "sourceIds": [
+            "phase2"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reservation — May 2025",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "November 2025",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "April 2026",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2026",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "February 2027",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "July 2027",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "November 2027",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "March 2028",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "August 2028",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "January 2029",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Completion — March 2029",
+          "percent": 50,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Tenure",
+          "value": "Developer states freehold ownership for local and international buyers.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Phase 2 Type C prints 340 m²; the current developer 3BR maximum is 240 m². Confirm the selected layout.",
+        "Standalone payment artwork prints repeated 50% callouts; the factsheet instead prints 5%. Its calendar is used here.",
+        "Selected-unit availability, service charges and binding completion terms remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected modon-project-05 Muheira. Own current page explicitly new phase/two towers/1–3BR. Original own May2025 launch475 apartments and dated issuer sell-out kept historical, not transferred as current new-phase inventory.",
+        "location": "Own project page and dated launch explicitly Reem Island Abu Dhabi; exact existing Al Reem Island registry used. No inferred neighbourhood, coordinates or generic Reem master derivation.",
+        "residences": "Earlier plans all17 numeric panels and whole1BR/2BR/3BR drawings read; Phase2 all15 numeric panels18–32 and whole families18/21/29/30/31/32 actually viewed. No staff bedrooms counted, no assumed storeys or current phase count.",
+        "areas": "Older original35p plans numerical pages2/3/4/6/7/9/11/13/15/17/19/23/25/27/29/31/32: 1BR73–107,2BR110–180,3BR182–237 averageGSA. Phase2 original34p all15 panels18–32:1BR74/75/87;2BR145/142/145/145/137/142/141/113/157;3BR192/187/340. Current own74–86/113–156/188–240 separately attributed, basis unstated. Actual Phase2 p32 TypeC340m² huge terrace visibly read, not silently repaired to240. Whole plans not multiplied by levels.",
+        "amenities": "Current own project body/FAQ supports published lap pool/children pool/play/gym/yoga/cinema/padel/BBQ/lounge. Proposed amenities not asserted operational; no generic master amenities borrowed.",
+        "pricing": "Current own cards explicitly Average price1.6/2.8/4.3m, not starting offers. Own dated launch1.2m starting historical. Headline null avoids turning averages into minimum; no selected current unit or availability verified.",
+        "payment": "Own current50/50 consistent aggregate. Actual earlier factsheet visible11stage table reservation5+9construction5+completion50=100. Dates May2025/Nov2025/Apr2026/Oct2026/Feb2027/Jul2027/Nov2027/Mar2028/Aug2028/Jan2029/Mar2029 preserved historical. Actual standalone payment artwork visible ten50% callouts plusfinal50=550, although hidden extracted text5%; rejected hidden corrected text and disclosed artwork conflict. Factsheet independently supports adopted5% table.",
+        "handover": "Own current cards andFAQQ22029; older factsQ12029 andMarch2029 completion. Headline null; no assumed actual handover or construction milestones completed.",
+        "documents": "Public branded broker PDFs retrieved ordinaryGET200:35pplans/1pfacts/1ppayment/34pPhase2. Actual all17+15 numeric panels and whole families read. Earlier brochure review-only0. Related originals/versions/mirrors pooled200:plans50+Phase270+facts65+payment15; no independent allowances per version. Current own200/dated launch100/issuer release40 separate. Generic Reem master0. No forms or bypass."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "overview": [
+          "launch",
+          "soldout",
+          "developer"
+        ],
+        "price": [
+          "developer",
+          "launch"
+        ],
+        "priceNote": [
+          "developer",
+          "launch"
+        ],
+        "handover": [
+          "developer",
+          "facts"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts"
+        ],
+        "paymentNote": [
+          "developer",
+          "facts"
+        ],
+        "units": [
+          "developer",
+          "plans",
+          "phase2"
+        ],
+        "paymentStages": [
+          "facts"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "unresolved": [
+          "developer",
+          "phase2",
+          "payment",
+          "facts"
+        ],
+        "brochureUrl": [
+          "phase2"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

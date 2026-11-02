@@ -1,0 +1,246 @@
+{
+  "id": "danube-project-05",
+  "name": "Breez",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Breez is a furnished waterfront residential tower in Dubai Maritime City. Its homes include compact apartments, larger pool layouts and the separately marketed Breez Villa collection. Shared facilities span family recreation, fitness and rooftop leisure.",
+    "areaId": "dubai-maritime-city",
+    "location": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": 1300000,
+    "handover": "2029 · developer target; timing conflicts",
+    "paymentPlan": "70/30 · launch reference; options vary",
+    "amenities": [
+      "Breez Lagoon",
+      "Infinity pool",
+      "Children’s splash pool",
+      "Gym and open-air fitness",
+      "Spa",
+      "Clubhouse",
+      "Cinema",
+      "Children’s daycare and play areas",
+      "Sports courts",
+      "BBQ areas",
+      "Viewing deck",
+      "Jacuzzi"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2025/09/Breez-Brocure-small.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Breez own project page · sold-out badge",
+          "url": "https://danubeproperties.com/portfolio/breez/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official 30-page Breez brochure",
+          "url": "https://danubeproperties.com/wp-content/uploads/2025/09/Breez-Brocure-small.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Danube public collateral ZIP · main, floors 22–25, villas and retail PDF plans",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "payment",
+          "label": "Branded four-bedroom Breez template · broker mirror, historical dates",
+          "url": "https://timehomesrealestate.com/storage/9tkxLzjZtn044StUSOFZckNOhY5KedQaHFXrdgQ8.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Breez launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/breez-by-danube",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "tanami",
+          "label": "Tanami Breez project guide · alternative payment terms",
+          "url": "https://www.tanamiproperties.com/Projects/Breez-by-Danube",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "finder",
+          "plans"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "finder",
+          "developer"
+        ],
+        "paymentPlan": [
+          "brochure",
+          "payment",
+          "finder",
+          "tanami",
+          "developer"
+        ],
+        "handover": [
+          "developer",
+          "finder",
+          "payment"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Breez branded source. Not Oceanz nor other Danube Maritime City projects.",
+        "location": "Own page Dubai Maritime City; no guessed unit view or proposed transport treated as operating.",
+        "residences": "Own page1200apartments, studios through4beds plusBreezVilla. Tanami identifies5bedroomduplexvillas; labels retained separately.",
+        "areas": "Main pack pages2/6/7/13/15 checked; official22–25pack pages13–15 totals3088/3266/3460, officialvilla pages2/4/6/8 totals7211/7202/6176/10319 visually checked. All totals include outdoorareas; villa upper/lower levels notdoublecounted.",
+        "amenities": "Own developer list only. Privatepools relate to selected plan families; not universal.",
+        "pricing": "PF1.3m launch guide, own officialpageSOLDOUT. Not a current available entry quote.",
+        "payment": "Own page now0.5percent versusbrochure1percent70/30. Historical4bed template visually read; own claimedcompletionDec2028 incompatible withinstalmentsJune2029 andPHJuly2029. PF20/50/30 labels30onhandover, Tanami10/59/1/30; variants notmerged.",
+        "handover": "Own currentpage2029, PFMarch2029, templateDec2028 conflicting. No actualcompletion certificate.",
+        "documents": "Official30pagebrochure and officialpublicZIP four ownplanPDFs downloaded. Earlier19/20pagebroker packs overlapmainpack, countedonce. Combinedbrochure+plans190. Paymentonepagehistoricaltemplatevisuallyread."
+      },
+      "community": "Dubai Maritime City",
+      "overview": [
+        "The developer describes a 60-floor tower with 1,200 apartments and furnished interiors. Its page currently displays “Sold out”; this is not a live resale inventory check."
+      ],
+      "locationNote": "Dubai Maritime City waterfront. Confirm the selected home’s orientation, view corridor and final surrounding development before purchase.",
+      "priceLabel": "Portal launch guide · reconfirm",
+      "priceNote": "Property Finder gives AED 1.3m at launch; the developer’s current page shows Sold out. No current direct-sale allocation or binding quote is confirmed.",
+      "paymentNote": "The brochure says 70/30 at 1% monthly; the current page advertises 0.5%. A historical four-bedroom template totals 70% by completion and 30% afterward. Property Finder instead labels 20/50/30 with 30% on handover; Tanami shows 10/59/1/30. Confirm the selected option.",
+      "handoverNote": "The developer states 2029; Property Finder says March 2029. The historical template prints December 2028 despite instalments through June 2029 and post-handover from July 2029. No completion is confirmed.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "394–404 ft² total; starred variant 368 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex Studio A",
+          "area": "414 ft² total / 331 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex 1-bedroom A",
+          "area": "656–662 ft² total / 516 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Premium A · pool",
+          "area": "1,026–1,029 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Premium · pool",
+          "area": "1,769 ft² total / 1,276 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom A / B / C",
+          "area": "3,088 / 3,266 / 3,460 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Breez Villa A / B",
+          "area": "7,211 / 7,202 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Breez Villa C / D",
+          "area": "6,176 / 10,319 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "5 September 2025 · historical template",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "5 November 2025 · historical template",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2026–June 2029 instalments · template",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30 months after completion · template",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Plans distinguish convertible Flex layouts from normal bedroom counts. Totals include balconies; selected pool drawings do not establish universal private pools.",
+        "Plan totals include outdoor space; villa totals cover both levels. Confirm the selected executed drawing and furniture inventory.",
+        "The payment sheet is a four-bedroom template, not a current offer; its AED 10.5m illustration is not a project starting price. Monthly instalments include annual larger payments. Confirm availability, applicable calendar, approved charges, parking and furnishing inventory. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

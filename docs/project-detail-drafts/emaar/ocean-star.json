@@ -1,0 +1,58 @@
+{
+ "id":"emaar-project-81","name":"Ocean Star","developerSlug":"emaar",
+ "fields":{
+  "description":"Ocean Star brings one- to three-bedroom apartments to Rashid Yachts & Marina. Its two buildings sit around landscaped shared spaces, with balconies and larger first-floor terraces offering different ways to use the waterfront setting. The collection is apartment-only; it should not be confused with nearby Ocean Point’s townhouse offering.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1700000,"handover":"Q3 2028 reported","paymentPlan":"90/10 reported",
+  "amenities":["Indoor and outdoor gyms","Indoor and outdoor children’s play areas","Multipurpose room","Multi-use games court","Barbecue area","Swimming pool","Landscaped gardens"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/382665_brochure_File_999c128c7d_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/OCEAN-STAR_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Ocean Star","url":"https://www.emaar.com/en/properties/ocean-star-at-rashid-yachts-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"brochure","label":"Emaar: Ocean Star brochure","url":"https://www.emaar.com/cms-media/uploads/382665_brochure_File_999c128c7d_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":135},
+    {"id":"plans1","label":"Emaar Building 1 plans, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Star-Floor-Plans-Building-1.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"plans2","label":"Emaar: Ocean Star Building 2 floor plans","url":"https://www.emaar.com/cms-media/uploads/OCEAN-STAR_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"facts","label":"Emaar launch fact sheet, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/ocean-star/OCEANSTAR_RYM_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Emaar launch payment schedule, Mitchell’s-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/ocean-star/OCEAN_STAR_RYM_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Ocean Star","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/ocean-star","kind":"portal","checkedOn":"2026-10-31","derivedWords":95},
+    {"id":"investor-copy","label":"Emaar FY2025 presentation text, Earnings Calendar reproduction","url":"https://earningscalendar.co/app/event/AE/EMAAR/2025-q4-46ddbf15f4e6/presentation","kind":"portal","checkedOn":"2026-10-31","derivedWords":50}
+   ],
+   "fieldSources":{"description":["official","plans1","plans2"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans1","plans2"],"bedrooms":["official","plans1","plans2"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans1","plans2"],"documents":["brochure","plans1","plans2"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{"identity":"Ocean Star distinguished from Ocean Point; launch unit mix attributed, conflicting investor-table reproduction disclosed.","location":"Rashid Yachts & Marina / Mina Rashid checked and mapped.","residences":"One-, two- and three-bedroom apartments in two buildings; no townhouse category in the documents.","areas":"Both building-specific plan sets extracted, with range endpoints and representative layouts visually checked.","amenities":"Developer-listed residential facilities separated from master-community and proposed school/clinic references.","pricing":"AED 1.7m developer headline and launch bedroom-specific starts recorded without availability claims.","payment":"Ten 10% stages visually checked in the branded launch schedule; portal agrees with 10/80/10.","handover":"July 2028 in launch documents conflicts with Property Finder’s March 2028; both attributed.","documents":"Official brochure and Building 2 plans; broker-hosted Building 1, fact and payment PDFs inspected."},
+   "community":"Rashid Yachts & Marina",
+   "overview":["The brochure places Ocean Star beside the marina district’s landscaped paths, canal-pool setting and promenade. Apartment layouts combine open kitchen and living areas with separate bedrooms and outdoor space. Brochure references to nearby schooling and a clinic describe the planned setting; they do not establish that those services are operating or included in ownership."],
+   "locationNote":"Ocean Star is in Rashid Yachts & Marina, Mina Rashid, Dubai. Emaar identifies the QE2 Hotel and routes towards Downtown Dubai and Dubai International Airport. Check a specific unit’s orientation and the surrounding development schedule before relying on a particular view or amenity.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.7m. The launch fact sheet starts one-bedroom apartments at AED 1.7m, two-bedroom at AED 2.4m and three-bedroom at AED 3.4m. These are launch benchmarks; current inventory and a unit-specific quotation need confirmation.",
+   "paymentNote":"The launch document sets ten payments of 10%: booking, eight intermediate stages and the completion balance. Property Finder corroborates 10/80/10. Historical dates are shown for context; the schedule for a new purchase must come from its contract.",
+   "handoverNote":"The branded launch payment sheet estimates July 2028, while Property Finder reports March 2028. Q3 2028 here follows the launch document, not a confirmed completion announcement. Obtain the latest building-specific contractual date.",
+   "units":[
+    {"label":"Building 1 · 1-bedroom apartment","area":"790.61–975.64 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 1 · 2-bedroom apartment","area":"1,155.18–1,470.13 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 1 · 3-bedroom apartment","area":"1,617.39–2,025.01 sq ft published total area","sourceIds":["plans1"]},
+    {"label":"Building 2 · 1-bedroom apartment","area":"789.86–993.51 sq ft published total area","sourceIds":["plans2"]},
+    {"label":"Building 2 · 2-bedroom apartment","area":"1,155.18–1,513.08 sq ft published total area","sourceIds":["plans2"]},
+    {"label":"Building 2 · 3-bedroom apartment","area":"1,617.82–1,984.65 sq ft published total area","sourceIds":["plans2"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2028 · estimated completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch unit mix","value":"The launch sheet lists 58 one-bedroom, 76 two-bedroom and 20 three-bedroom apartments: 154 homes. This is a launch-document count, not remaining stock.","sourceIds":["facts"]},
+    {"label":"Different published counts","value":"An online reproduction of Emaar’s FY2025 investor table assigns 217 units to Ocean Star, conflicting with the 154-home launch sheet. The current total needs direct confirmation.","sourceIds":["facts","investor-copy"]},
+    {"label":"First-floor outdoor space","value":"Building 1 unit 113 has 1,456.36 sq ft suite plus 568.66 sq ft terrace, totalling 2,025.01 sq ft. Its three-bedroom plan also labels utility, laundry and storage spaces.","sourceIds":["plans1"]},
+    {"label":"A compact home with a larger terrace","value":"Building 2 unit 112 combines 731.41 sq ft suite and 262.1 sq ft terrace. Its 993.51 sq ft total includes outdoor space; it is not indoor-only area.","sourceIds":["plans2"]}
+   ],
+   "unresolved":["Confirm the current completion date: the launch payment document and Property Finder differ.","The investor-table reproduction and launch sheet disagree on unit count. The old official investor-PDF URL now redirects to Emaar’s homepage; the reproduced table was read as text, not visually checked against the original slide.","Current availability, construction status, service charges, parking entitlements and final specifications require confirmation.","Images remain illustrative; project photography is deferred."]
+  }
+ }
+}

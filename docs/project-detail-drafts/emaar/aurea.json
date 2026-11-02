@@ -1,0 +1,60 @@
+{
+ "id":"emaar-project-43","name":"Aurea","developerSlug":"emaar",
+ "fields":{
+  "description":"Aurea brings one, two and three bedroom apartments to the promenade at Rashid Yachts & Marina. Emaar’s design pairs broad glazing and terraces with a landscaped amenities podium. The setting connects the homes to waterfront walks, shops and dining, with marina, park and skyline outlooks dependent on the apartment selected.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":2310888,"handover":"Q2 2030 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity-edge pool","Gym facilities","Children’s play areas","Landscaped amenities podium","Multipurpose rooms","Retail outlets","Padel court","Yoga area","Lawn","BBQ areas"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/AUREA_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/AUREA_RYM_FLOORPLANS.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Aurea at Rashid Yachts & Marina","url":"https://www.emaar.com/en/properties/aurea-at-rashid-yachts-and-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Aurea brochure","url":"https://www.emaar.com/cms-media/uploads/AUREA_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Aurea apartment plans","url":"https://www.emaar.com/cms-media/uploads/AUREA_RYM_FLOORPLANS.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Aurea fact sheet · Laviva-hosted Emaar copy","url":"https://laviva.ae/wp-content/uploads/2025/10/AUREA_RYM_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":130},
+    {"id":"payment","label":"Aurea payment plan · My Off Plan Investment-hosted Emaar page","url":"https://myoffplaninvestment.com/wp-content/uploads/2025/10/Aurea-by-Emaar-at-Mina-Rashid-Payment-Plan-Pdf.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Aurea","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/aurea","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Aurea project and own branded documents confirmed.",
+    "location":"Rashid Yachts & Marina, Mina Rashid; brochure road connections and community context reviewed.",
+    "residences":"One to three bedroom apartments. Plans identify a ground/podium/13-storey residential arrangement.",
+    "areas":"All 28 official plan pages read, including repeated layouts with floor-dependent sizes; largest three-bedroom Type A4 visually checked.",
+    "amenities":"Official project facilities and brochure’s padel/yoga/lawn/BBQ provision recorded; yacht-club membership not inferred.",
+    "pricing":"Official published selection starts AED 2,310,888; earlier fact-sheet prices separately identified.",
+    "payment":"Emaar-branded first page visually verified; broker advertising second page excluded. Nine stages total 100%, with 10/30/50/70% construction triggers.",
+    "handover":"June 2030 estimated completion agrees with Property Finder; no construction-progress percentage inferred.",
+    "documents":"Official brochure and floor plans linked; fact/payment copies explicitly attributed to hosts. Images unchanged."
+   },
+   "community":"Rashid Yachts & Marina",
+   "overview":["The marina promenade is central to Aurea’s proposed daily life: a pedestrian waterfront with retail, cafés and leisure destinations beyond the residential entrance. The brochure pairs this public setting with quieter spaces for swimming, exercise, yoga and informal gatherings. Apartments use open living arrangements and large windows, while the stepped building profile creates noticeably different outdoor areas between layouts. A larger advertised total can therefore mean a larger terrace rather than more enclosed living space. Berthing and yacht-club services belong to the wider marina offer; their cost and access are separate questions from buying an apartment."],
+   "locationNote":"Aurea is within Rashid Yachts & Marina in Mina Rashid. The brochure identifies Sheikh Rashid Road and Al Mina Road as connections to the wider city, with Al Shindagha and the QE2 among the surrounding heritage destinations. Published journey times are indicative, and exact access should be checked on site.",
+   "priceLabel":"Developer-published units from",
+   "priceNote":"Emaar’s published selection starts at AED 2,310,888. The launch fact sheet gives one-, two- and three-bedroom starting prices of AED 2.31m, AED 3.32m and AED 4.89m respectively. These historic type prices do not confirm present stock or a quotation for a particular floor and view.",
+   "paymentNote":"The launch document sets 10% at booking, seven 10% instalments and 20% at estimated completion. Later stages are linked to construction progress. Early calendar dates have passed, so obtain the current offer and outstanding instalment schedule for the selected apartment.",
+   "handoverNote":"June 2030 is the payment document’s estimated construction-completion month, corroborated by Property Finder’s Q2 2030 entry. Contractual handover and current progress should be checked with Emaar.",
+   "units":[
+    {"label":"1 bedroom apartment","area":"798.90–988.02 sq ft total","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,228.91–1,426.43 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,698.33–2,483.77 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2028 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2029 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2030 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch unit mix","value":"169 apartments: 83 one-bedroom, 65 two-bedroom and 21 three-bedroom homes. This is the original collection, not remaining inventory.","sourceIds":["facts"]},
+    {"label":"Building and outdoor space","value":"Plans show ground, podium and 13 floors. Three-bedroom Type A4 on level 8 totals 2,483.77 sq ft: 1,450.22 sq ft suite and 1,033.55 sq ft balcony/terrace. It includes a maid’s room and laundry. Unit-specific totals must be compared on the same basis.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current stock, exact price, floor/view, parking allocation, service charges and final apartment specifications.","The official availability widget’s size range covers its selected units, not the entire original floor-plan collection.","Current construction progress, contractual delivery date and any updated payment terms.","Marina berth availability, yacht-club access and operating fees are not established by the apartment marketing material.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

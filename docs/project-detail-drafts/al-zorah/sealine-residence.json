@@ -1,0 +1,313 @@
+{
+  "id": "al-zorah-project-02",
+  "name": "Sealine Residence",
+  "developerSlug": "al-zorah",
+  "fields": {
+    "description": "Sealine Residence combines simplex and duplex apartments in Al Zorah’s beachfront village. Courtyards, leisure facilities and beach access connect the homes to the coast.",
+    "areaId": "ajman-al-zorah",
+    "location": "Al Zorah",
+    "emirate": "Ajman",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": "Q4 2026",
+    "paymentPlan": null,
+    "amenities": [
+      "Private beach access",
+      "Swimming pool",
+      "Gym",
+      "Green courtyards",
+      "Retail shops",
+      "Children’s playground",
+      "Multipurpose room",
+      "Basement parking"
+    ],
+    "brochureUrl": "https://www.alzorahcity.com/assets/pdf/sealine-brochure.pdf",
+    "floorPlanUrl": "https://www.alzorahcity.com/assets/pdf/sealine-plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Al Zorah · Sealine Residence",
+          "url": "https://www.alzorahcity.com/sealine-residence",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 195
+        },
+        {
+          "id": "brochure",
+          "label": "Sealine Residence · original brochure",
+          "url": "https://www.alzorahcity.com/assets/pdf/sealine-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Sealine Residence · original plans and specifications",
+          "url": "https://www.alzorahcity.com/assets/pdf/sealine-plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 165
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Sealine project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/al-zorah-development/sealine-residence",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut · Sealine building and payment guide",
+          "url": "https://www.bayut.com/buildings/sealine-residence/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        }
+      ],
+      "community": "Al Zorah",
+      "overview": [
+        "Original plans show starting whole-home areas; duplex totals cover both levels and are not doubled."
+      ],
+      "locationNote": "In Al Zorah’s beachfront village, near the Village Center and Beach Club. Confirm access conditions.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder’s launch header is AED 1.4 million, while its description states AED 1,362,862. No current developer quotation was verified.",
+      "paymentNote": "Bayut references 10/40/50, or 10/40/10/40 with three post-handover years. Property Finder instead shows 10/50/40. No original payment document was verified.",
+      "handoverNote": "The developer targets December 2026, consistent with portal Q4 2026 references. This is a forecast, not confirmation of completed homes.",
+      "units": [
+        {
+          "label": "1BR I simplex",
+          "area": "From 934 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR II simplex",
+          "area": "From 924 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR III simplex",
+          "area": "From 931 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR I simplex",
+          "area": "From 1,844 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR II duplex",
+          "area": "From 1,999 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR III simplex",
+          "area": "From 1,762 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR IV simplex",
+          "area": "From 2,700 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR V simplex",
+          "area": "From 2,615 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR I simplex",
+          "area": "From 2,757 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR II duplex",
+          "area": "From 2,794 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex",
+          "area": "4,483 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Bayut reference · booking",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 50,
+          "sourceIds": [
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development scope",
+          "value": "99 homes and four shops, according to the developer.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Specification",
+          "value": "Original plans show fitted kitchens, ceramic flooring and double glazing; confirm contracted finishes.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Source labels",
+          "value": "2BR V is labelled II inside its plan; 4BR I is labelled V. Printed areas retained.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Edition differences",
+          "value": "Brochure maximum: 4,480 ft²; plan: 4,483 ft². Portal building-specific examples differ; match the contracted unit.",
+          "sourceIds": [
+            "brochure",
+            "plans",
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Verify unit-specific areas, parking allocation, tenure, charges, furnishing and payment eligibility. Public plans do not establish available inventory."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected al-zorah-project-02/sealine-residence/Sealine Residence owner/name retained. Current primary page confirms99homes1–4BR/fourshops. Actualplanfamilycounts21+21+22+8+4+7+2+4+4+5+1=99, not liveinventory. OwnbrochurebuttoncurrentlywronglylinksCreekside_Residence_Brochure.pdf; unrelatedtargetexcluded. Indexedexactownsealine-brochure.pdf retrieved200andactualSealinecontentverified.",
+        "location": "Existing exact ajman-al-zorah/Al Zorah/Ajman. Ownpage explicitly beachfrontvillageAlZorahCity, nearVillageCenter/BeachClub; no coordinates or transportguesses. Brochure5/15projectbeachaccess reviewed. Genericbrochure25–52corporate/awards/travel/visa/investmentcopy0adopted, no impliedfreegolf/resortmembership.",
+        "residences": "All11actualfull numericalunitfamilies official25pplans3/5/7/9/11/13/15/17/19/21/23 visuallyread1700px. Allthreewholeduplexlower+upper11/21/23read. StaffroomsnotextraBR. Preceding2BRVsheet contrasts p17headingII/footerV;4BRprecedingI contrasts p23headingV/footerI. Source errorspubliclyqualified, no repairedfigures.",
+        "areas": "Actual visible starting934/924/9311BR;1844/1999duplex/1762/2700/26152BR;2757/2794duplex3BR;4483whole4BRduplex. Wholeareas not roomdimensionssum or multipliedbyfloors. Brochure6actual1/2BR920–2730and3/4BR2750–4480; max4480vsplan4483explicit. PFcurrentbuilding4twoBR2668/duplex2024/3BR2821–2832 differ ownminimumexamples; not silentlymerged. Publicbroker13floorplatesdownloaded andtextreviewed, no aggregatearea labels found; GF/8F/9Factuallyviewed contextonly, no inventedcurrenttotals.",
+        "amenities": "Primarymainpool/gym/greencourtyards/privatebeach/fourshops. Actualplan24facts/finishes and25GF/LG1/LG2readconfirmbasementparking/pool/kidspool/playground/multipurposeroom/fittedkitchens/ceramics/doubleglazing. Brochure9/15projectsimplex/duplex/privatebeach/lowlevelgardenconditionsverified; not allhomesguaranteedgarden/seaview. No genericmasterresortamenitiesborrowed.",
+        "pricing": "No primarycurrentprices verified frommain/originalbrochure/plans. FreshPFmain1.4mlaunchvsbody1362862secondaryreferenceonly, headlineNULL. SecondaryImpala1368176/EZRE1425926 release/snapshotreferences notchosen currentminimum. No stock/yield/currency invention. PFbuildingpricesnotadopted aswholeprojectminimum; noDubaiDLDtemplatefee copied.",
+        "payment": "No publicoriginaldatedpaymentdocumentretrieved frommain/brochure/plans. alzorahcity.online salesformsite not independentlyverifiedprimary, no bypass. ActualBayut table10booking40construction50handover=100referenceonly;alternative10/40/10/40over3years=100publicqualified. FreshPF10/50/40differs; headlineNULL. No inventedrelative/absolutecalendar or equal6posthandoverinstalmentsfromaggregate40.",
+        "handover": "CurrentprimaryexplicitDecember2026 andPF/BayutQ42026match. HeadQ42026forecast, notcompleted/readystatus. No completioncertificate verified. GlobalconstructionYouTubeexistsnotusedunbudgetedprojectpercentage. PFsalestart14April2026 andconstructionstart15July2024 not treated asownverifiedhistory.",
+        "documents": "Original54pbrochure16.6MB/25pplans4.5MBordinaryGET200 savedmanifest. PublicKonnect25pdigitalhashmatchesownoriginal,54pmirror and8pflapsretrieved200, relatedsame200poolnotextraallowance. Public13floorplatesretrieved200,GF/8F/9Factuallyviewed0derivedcopy. Original11numeric/fullpanels plus24finish/25access andbrochure5/6/9/15actualread. Alloriginalversions/mirrors/retellings pool200:brochure35+plans165. Genericcorporate0. No forms/bypass/images/canonicalwrites."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "amenities": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "bayut",
+          "portal"
+        ],
+        "paymentNote": [
+          "bayut",
+          "portal"
+        ],
+        "paymentStages": [
+          "bayut"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "plans",
+          "brochure",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "bayut",
+          "portal"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

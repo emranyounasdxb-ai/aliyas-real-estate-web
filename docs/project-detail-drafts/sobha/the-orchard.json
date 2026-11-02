@@ -1,0 +1,193 @@
+{
+  "id": "sobha-project-04",
+  "name": "The Orchard",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Orchard is the estate-villa collection at Sobha City in Abu Dhabi. Four-, five- and six-bedroom homes are arranged over several levels, with private outdoor space and larger family rooms. Its individual drawings distinguish saleable home area from plot size, so the two figures should be compared separately.",
+    "areaId": "abu-dhabi-sobha-city",
+    "location": "Sobha City",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 9700000,
+    "handover": "December 2029 · anticipated",
+    "paymentPlan": "20/40/40 · portal reference",
+    "amenities": [
+      "Private backyard",
+      "Lift in illustrated villa types",
+      "Swimming pool in illustrated villa types",
+      "Covered parking",
+      "Community forest trails",
+      "Cycling routes",
+      "Shared wellness spaces"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2026-04/The%20Orchard%20at%20Sobha%20City%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2026-04/The%20Orchard%20at%20Sobha%20City%20-%20Brochure.pdf#page=30",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Sobha: The Orchard",
+          "url": "https://sobharealty.com/properties-in-abu-dhabi/sobha-city/the-orchard",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "brochure",
+          "label": "The Orchard official brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2026-04/The%20Orchard%20at%20Sobha%20City%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder: The Orchard launch reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-orchard",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure",
+          "official"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official",
+          "portal"
+        ],
+        "type": [
+          "brochure",
+          "official"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "brochure",
+          "portal"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own dedicated developer page and project-named brochure checked against the protected record; no transfer from another Sobha City release.",
+        "location": "Sobha City in Abu Dhabi confirmed by official route and brochure; Al Bahya district corroborated by the portal. No invented coordinates.",
+        "residences": "Own floor plans reviewed, including named types and additional release scope where the current PDF goes beyond the webpage.",
+        "areas": "Published saleable and plot or suite/external areas recorded separately. Representative numeric sheets rendered and visually inspected; original printed figures retained.",
+        "amenities": "Own page and brochure checked; private facilities restricted to the illustrated types and shared facilities described as planned, not confirmed operational.",
+        "pricing": "Current dedicated-page guide distinguished from older portal launch references; absent current primary quote expressly recorded.",
+        "payment": "Secondary 20/40/40 aggregate checked to total 100%. A current developer-issued dated payment sheet was not located; no dates inferred.",
+        "handover": "Primary completion statement or developer forecast checked with secondary portal month; no forecast treated as a contractual guarantee.",
+        "documents": "Own developer-hosted brochure downloaded, PDF header verified, text extracted and named plan sheets visually checked. Plans are included in this document; no separate pack found."
+      },
+      "community": "Sobha City",
+      "overview": [
+        "The four-bedroom Type A includes a ground-floor guest room, two first-floor bedrooms and a further bedroom above. Five- and six-bedroom drawings provide different room arrangements and service spaces. Mirrored layouts retain their own plot schedules; a mirror suffix does not establish an identical plot."
+      ],
+      "locationNote": "Within Sobha City, Abu Dhabi. Property Finder places the collection in Al Bahya, also written Al Bahia. Confirm the exact villa plot or tower position on its own approved plan; community travel times are not unit-specific measurements.",
+      "priceLabel": "Developer-listed price guide",
+      "priceNote": "The dedicated developer page currently advertises AED 9.70m, subject to inventory. Property Finder retains an approximately AED 9.1m launch reference. Neither figure is a quotation for an identified available villa.",
+      "paymentNote": "Property Finder reports 20% at launch, 40% during construction and 40% on handover. No dated developer-issued schedule was located in the project page or reviewed brochure. This is an attributed launch reference; obtain the current instalments, fees and deadlines in writing.",
+      "handoverNote": "The project brochure expressly prints ACD December 2029. Property Finder reports the same month. ACD is an anticipated completion reference; the selected sale agreement governs delivery.",
+      "units": [
+        {
+          "label": "4-bedroom · Type A",
+          "area": "4,515.57 sq ft saleable; 4,506.10–5,214.79 sq ft plot",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom · Type B",
+          "area": "4,309.44 sq ft saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom · Type A",
+          "area": "5,418.34 sq ft saleable; 5,489.49–5,489.59 sq ft plot",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom · Type B",
+          "area": "5,317.80 sq ft saleable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6-bedroom · Type B",
+          "area": "6,383.11 sq ft saleable; 6,490.75 sq ft plot",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover reference",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Plan collection",
+          "value": "The brochure includes original and mirrored villa drawings; the illustrated Type A four-bedroom home spans ground, first and second floors.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The current catalogue extends beyond the original brochure examples. Obtain the exact current villa drawing and plot schedule rather than extending these examples to every release.",
+        "Payment terms are a secondary launch reference; promotions and later releases may differ. The selected developer offer and contract must establish the applicable schedule.",
+        "Confirm registered areas, parking allocation, final finishes, furnishing inclusions, service charges, ownership eligibility and transaction costs. No exact current stock has been confirmed.",
+        "Shared amenity completion, operating rules and access require confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

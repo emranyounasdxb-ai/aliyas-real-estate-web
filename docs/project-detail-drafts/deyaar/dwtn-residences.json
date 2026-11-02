@@ -1,0 +1,356 @@
+{
+  "id": "deyaar-project-01",
+  "name": "DWTN Residences",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "DWTN Residences brings apartments, duplexes, penthouses and a single Royal Palace to Business Bay. Deyaar organises its shared spaces around six vertical settings, from the arrival lobby and family facilities to workspaces and a sky pool.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Family and children’s pool",
+      "Cinema",
+      "Gym",
+      "Yoga studio",
+      "Golf simulator",
+      "Business centre",
+      "Podcast studio",
+      "Infinity pool"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-FLOORPLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar DWTN Residences project page",
+          "url": "https://www.deyaar.ae/en/properties/dwtn-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar construction update · DWTN",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "brochure",
+          "label": "DWTN official brochure · 69 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "DWTN official floor plans · 60 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-FLOORPLANS.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "factsheet",
+          "label": "DWTN branded factsheet · broker-hosted copy",
+          "url": "https://naauv.com/projects/21/brochures/22",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "payment",
+          "label": "DWTN branded original payment sheet · broker-hosted copy",
+          "url": "https://naauv.com/projects/21/brochures/24",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "royal",
+          "label": "Royal Palace branded brochure · broker-hosted copy",
+          "url": "https://naauv.com/projects/21/brochures/26",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder DWTN dates and commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/dwtn-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "alternative",
+          "label": "EZRE later post-handover offer · broker, unconfirmed amendment",
+          "url": "https://ezre.ae/projects/dwtn-residences/payment-plan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "portal"
+        ],
+        "location": [
+          "portal"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "community": [
+          "portal"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "brochure",
+          "construction"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "payment",
+          "alternative"
+        ],
+        "paymentNote": [
+          "payment",
+          "alternative"
+        ],
+        "handover": [
+          "construction",
+          "portal"
+        ],
+        "handoverNote": [
+          "construction",
+          "portal"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [
+          "brochure"
+        ],
+        "unresolved": [
+          "plans",
+          "factsheet",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Deyaar own mainpage69pbrochure60pplans and public media library confirm exactDWTN. No transfers from Regalia orDubaiProperties. Publicmedia Arabic-floorplan version separately listed, not used as new facts.",
+        "location": "Ownmain golden triangle and actualbrochure14 identify surroundings; PF confirms exactBusinessBayregistry. No inventedcoordinates or travel times.",
+        "residences": "All54 actualnumericpanels read,42distinctfamilies afterrepeatedfloorvariantstotal. Palace actualground57 has reception/kitchens/maid, first58fourbedrooms, second59master=5 actualbedrooms. Headline1–5 includesPalace, ownmain1–4 onlymarketsordinarymix. WholeduplexandPalacetotalsnotmultiplied.",
+        "areas": "Actualnumericcontacts1/7/13/19/25/31/37/43/49/55allread; full3/22/33/50/53/54/55/57/58/59 representativegeometry. 1BRF1777+137=914vs913;3BRC1575+233=1808vs1807;2BRmaidduplexD2035+341=2376vs2375;B31669+241=1910vs1909. Printedtotalsretained; factssheet8versionrangesexplicitlydiffer.",
+        "amenities": "Ownmain namedfacilities; actualbrochure21 sixecosystemleveldiagram reviewed. Omittedsuperlatives/tallestrank/healthpromises/guaranteedviews. Planned110floors445m primarybrochure7readactual.",
+        "pricing": "Noowncurrentpricelist. FreshPF2.1mroundedlowest vsNAAUV2.272m vsEZRE2.0965m differingstock/time; headlinepriceNULL. Noassumptionthatcurrentunitexists.",
+        "payment": "Actual1pbrandedJune2025payment andfacts16 visuallyread:10+10+six5+50=100; originalcalendar displayed as historical. PF10/40/50compatible; laterEZRE70/30posthandover notconfirmedprimary, notblended. HeadlinepaymentNULL.",
+        "handover": "OwncurrentconstructionQ42029 vsPFDec2030 conflicting. Forecastnotactualcompletion, headlineNULL. Sharedconstruction20wordsincludingdate/progress. No actualcompletioncertificate.",
+        "documents": "Allown4publicPDFsretrieved200 rootmanifest; DWTN69p/60p usedhere. BrokerpublicNAAUVfacts17p/payment1p/Royal35pretrieved200 ordinaryGET; correctlybrokerkind. Royalduplicates13114interior butno newarea;0newderivedwords, notbudgetreset. Alloverlappingdocumentspool200:brochure35plans100facts40payment25. Independent actualvisual/source/copy review PASS; publicPDFconservative194/200."
+      },
+      "community": "Business Bay",
+      "locationNote": "Business Bay, close to Sheikh Zayed Road and Downtown Dubai.",
+      "overview": [
+        "Planned mix: 432 apartments, 76 duplexes, 13 penthouses and one Royal Palace; these are design counts, not available stock.",
+        "The developer targets Q4 2029; shoring preparation and design coordination are underway."
+      ],
+      "priceLabel": "Current quotation required",
+      "priceNote": "Property Finder displays a rounded AED 2.1m starting reference. No current official unit quotation was retrieved.",
+      "paymentNote": "Original 50/50 calendar below. A later broker advertises 30% post-handover for duplexes and penthouses; no developer amendment was retrieved.",
+      "handoverNote": "Developer Q4 2029 differs from Property Finder December 2030. Obtain the selected home’s contractual date.",
+      "units": [
+        {
+          "label": "1BR · A–F/F1",
+          "area": "765–913 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · A/B",
+          "area": "1,210–1,335 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + maid · seven types",
+          "area": "1,100–1,367 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + maid · eight types",
+          "area": "1,641–2,202 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR duplex · A/B",
+          "area": "1,607–1,783 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + maid duplex · ten types",
+          "area": "1,410–2,718 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + maid duplex · A/B",
+          "area": "3,343–3,448 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR penthouse · A",
+          "area": "4,741 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouse · A/B",
+          "area": "5,286–5,964 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Royal Palace · three levels",
+          "area": "17,791 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original terms",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30 Nov 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30 Apr 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "31 Oct 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30 Apr 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "31 Oct 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30 Apr 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "31 Oct 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · original terms",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Design scale",
+          "value": "110 floors · 445m",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plans and factsheet differ: 1BR 765/764 minimum; 3BR 2,202/2,203 maximum; 3BR duplex 3,448/3,451 maximum; 3BR penthouse 4,741/4,740; 4BR penthouse 5,286–5,964/5,540 entry; Royal Palace 17,791/18,330 ft².",
+        "Printed component sums vary by 1 ft². Whole-home duplex and Palace areas must not be multiplied by floor count.",
+        "Current availability, official revised payment terms, parking allocations, service charges and certified delivery remain unverified."
+      ]
+    }
+  }
+}

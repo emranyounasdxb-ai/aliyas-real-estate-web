@@ -1,0 +1,269 @@
+{
+  "id": "ellington-project-21",
+  "name": "Ellington Sands",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Ellington Sands is a beachfront development on Dubai Islands. Its two releases pair apartment buildings with shared pools, gardens and beach facilities; the named phase documents need to be checked against the specific home being offered.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment / Penthouse",
+    "bedrooms": "Studio–4",
+    "price": 1700000,
+    "handover": null,
+    "paymentPlan": "70/30 · published reference",
+    "amenities": [
+      "Private beach",
+      "Leisure and lap pools",
+      "Waterfall pool",
+      "Yoga studio",
+      "Fitness studio",
+      "Beach gardens",
+      "Beach clubhouse",
+      "Water sports pavilion"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20Sands/Project%20assets/Ellington%20Sands%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/ellington-sands/ELLINGTON_SANDS_I_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Sands own page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ellington-sands-dubai-islands",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Ellington Sands official brochure",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20Sands/Project%20assets/Ellington%20Sands%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brief",
+          "label": "Sands I branded brief · broker-hosted",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/2904/Ellington_Sands.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Sands I branded plans · broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-sands/ELLINGTON_SANDS_I_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "brief-ii",
+          "label": "Sands II branded brief · broker-hosted",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/2905/Ellington_Sands_2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans-ii",
+          "label": "Sands II branded plans · broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-sands/ELLINGTON_SANDS_II_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "payment",
+          "label": "Ellington Sands official payment sheet",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20Sands/Project%20assets/Ellington%20Sands%20-%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Sands launch reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-sands",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "brief",
+          "brief-ii",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ]
+      },
+      "community": "Dubai Islands",
+      "overview": [
+        "Sands I parking: one space for 1–2BR, two for 3–4BR. AED 18/ft² is an anticipated service charge, not an approved current levy."
+      ],
+      "locationNote": "Dubai Islands, Island A. Confirm release, tower, orientation and selected-home beach-access rights.",
+      "priceLabel": "Portal launch reference · not a current offer",
+      "priceNote": "Property Finder lists AED 1.7 million at launch. No current developer quotation or selected-unit availability was established.",
+      "paymentNote": "Published stages total 100%; Property Finder’s 20/50/30 has the same aggregate 70/30 split. Confirm the applicable agreement.",
+      "handoverNote": "Both branded release briefs anticipate Q2 2028; Property Finder specifies December 2028. These conflicting targets do not establish actual completion.",
+      "units": [
+        {
+          "label": "1BR A / B",
+          "area": "816.12 / 489.00 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR / 2BR + study",
+          "area": "1,172.30 / 1,399.20 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR / 3BR deluxe",
+          "area": "1,730.62 / 2,248.90 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouse",
+          "area": "5,886.14 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Sands I retail 1–4",
+          "area": "1,695.85 ft² internal; 4,498.35 / 5,759.01 / 3,928.83 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Sands II retail 1–4",
+          "area": "1,585.20 ft² internal; 3,662.21 / 5,594.97 / 5,627.26 ft² total.",
+          "sourceIds": [
+            "plans-ii"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Both phase plan documents repeat the residential examples below; retail plans differ. Verify the selected-unit schedule. Minor component rounding differences are retained.",
+        "The developer includes studios, but no standalone measured studio example was found. Study rooms are not additional bedrooms.",
+        "Current availability, contractual dates and terms, approved charges, furnishing inventory and facility operation require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Canonical family retained; four-building brochure and two release-specific briefs reviewed. Brief freehold; selected title and parking contract unconfirmed.",
+        "location": "Own page Dubai Islands; brief Island A; no assumed travel times.",
+        "residences": "All seven available residential example panels and retail panels in each release visually inspected; no measured studio example.",
+        "amenities": "Own page facilities; operational status unconfirmed.",
+        "payment": "Official sheet visually inspected: 20% booking, 50% construction and 30% completion total 100%, equivalent to portal 20/50/30.",
+        "handover": "Brief Q2 2028 versus portal December 2028; headline null.",
+        "documents": "Official general brochure50p/payment1p; broker-hosted I brief18p/plans20p and II brief60p/plans20p. Own microsite three I PDF links404. Overlapping public document pool200.",
+        "areas": "All seven available residential example panels and retail panels in each release visually inspected; no measured studio example.",
+        "pricing": "Portal launch reference only, no current quotation."
+      }
+    }
+  }
+}

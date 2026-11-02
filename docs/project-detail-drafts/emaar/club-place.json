@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-65","name":"Club Place","developerSlug":"emaar",
+ "fields":{
+  "description":"Club Place is an apartment development beside the golf-course neighbourhood of Dubai Hills Estate. One to three bedroom homes include ground-floor options with larger terraces, while shared facilities occupy landscaped podium and upper-level spaces. The setting looks towards fairways and low-rise communities, with the exact outlook depending on the building, floor and orientation.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":2852888,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity pool and pool deck","Poolside cabanas","Children’s play area","Indoor and outdoor fitness facilities","Yoga deck","Indoor multipurpose room","Landscaped podium","Landscaped deck on the 17th floor","Covered parking","24-hour security"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/CLUB-PLACE_brochure.pdf",
+  "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/CLUB-PLACE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Club Place at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/club-place-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"brochure","label":"Emaar: Club Place brochure","url":"https://www.emaar.com/cms-media/uploads/CLUB-PLACE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"plans","label":"Emaar: Club Place Buildings A, B and C floor plans","url":"https://www.emaar.com/cms-media/uploads/CLUB-PLACE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/club-place/CLUB_PLACE_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/club-place/CLUB_PLACE_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Club Place","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/club-place","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure","facts"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Club Place confirmed independently of Vida Residences Club Point.",
+    "location":"Golf-side Dubai Hills Estate address and nearby district facilities confirmed; no guaranteed views or commute times asserted.",
+    "residences":"One to three bedroom apartments, including ground-floor homes; three buildings identified in official plan pack.",
+    "areas":"All 39 official plan pages checked; A, B and C size ranges kept separate and terrace components reviewed.",
+    "amenities":"Own official page and brochure support pool, cabanas, fitness, yoga, play and landscaped decks.",
+    "pricing":"AED 2,852,888 is the price from Emaar’s displayed selection, not the historic AED 1.45m launch headline.",
+    "payment":"Nine launch stages visually checked; 10/70/20 totals 100% and agrees with portal headline structure.",
+    "handover":"December 2028 document estimate corroborated by Property Finder; not a delivery guarantee.",
+    "documents":"Official brochure and complete A/B/C plan pack linked, attributed launch fact/payment copies retained. Images unchanged."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure emphasises natural light, balconies and clean-lined interiors, with the surrounding golf landscape informing the setting. It describes energy-conscious design but does not supply a verified certification or a quantified saving. The launch sheet adds a residents’ lounge and a neutral finish palette. Apartment plans vary by building, so comparisons should consider the suite and outdoor areas separately rather than relying on bedroom count alone."],
+   "locationNote":"Club Place sits in Dubai Hills Estate near the golf-course villas. Dubai Hills Mall, the park and King’s College Hospital are district destinations, with access through Al Khail Road and Umm Suqeim Street. Golf membership and guaranteed travel times are not established as purchase inclusions.",
+   "priceLabel":"Developer’s displayed units from",
+   "priceNote":"On review, Emaar’s displayed selection starts at AED 2,852,888, while the same page retains a historic AED 1.45m launch headline. The July 2024 fact sheet lists launch starts of AED 1.45m, AED 2.23m and AED 3.4m for one, two and three bedrooms. Confirm current unit availability and terms.",
+   "paymentNote":"The dated launch plan totals 80% before completion, including 10% on booking, and 20% on completion. Later releases or resales can have different outstanding instalments; obtain the selected unit’s schedule.",
+   "handoverNote":"December 2028 is the estimated completion in the launch payment document and Property Finder. Confirm the contractual delivery date and current construction position.",
+   "units":[
+    {"label":"1 bedroom · Building A","area":"693.30–833.02 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Building A","area":"1,168.10–1,559.15 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Building A","area":"1,653.98–1,931.37 sq ft total area","sourceIds":["plans"]},
+    {"label":"1 bedroom · Building B","area":"726.89–901.80 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Building B","area":"1,085.65–1,571.96 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Building B","area":"1,551.29–1,799.73 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Building C","area":"1,087.37–1,283.06 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · July 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published residence mix","value":"The launch sheet lists 234 one-bedroom, 164 two-bedroom and 75 three-bedroom apartments, totalling 473 homes. This does not describe current stock.","sourceIds":["facts"]},
+    {"label":"Ground-floor outdoor space","value":"Building B two-bedroom BG04 totals 1,571.96 sq ft: a 1,007.39 sq ft suite and 564.57 sq ft of outdoor area. Building A three-bedroom AG01 totals 1,931.37 sq ft and includes a maid’s room, powder room and long terrace.","sourceIds":["plans"]},
+    {"label":"Availability needs confirmation","value":"Property Finder labels the launch sold out, while Emaar displays a priced selection. Neither establishes availability for a specific buyer; ask for a current unit confirmation.","sourceIds":["official","finder"]}
+   ],
+   "unresolved":["Current inventory, construction progress and unit-specific sale terms require confirmation; portal stock labels differ from the developer display.","Service charges, parking allocations, final specifications and any energy certification were not verified.","The official plan set identifies Buildings A, B and C; a portal building-count field differs and is not used here.","Views are orientation-dependent. Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

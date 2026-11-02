@@ -1,0 +1,249 @@
+{
+  "id": "aldar-project-31",
+  "name": "The Arthouse",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Arthouse brings apartments and two sky villas to Saadiyat Cultural District. Three residential buildings share creative and social spaces, with interiors by DiLeonardo and a rooftop garden overlooking the district.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 3300000,
+    "handover": "Q2 2028 · estimated",
+    "paymentPlan": "65/35 launch plan",
+    "amenities": [
+      "Art studio",
+      "Creative majlis",
+      "Cinema",
+      "Gym and health club",
+      "Yoga and Pilates rooms",
+      "Tennis court",
+      "Children’s playroom",
+      "Rooftop swimming pool",
+      "Sky garden",
+      "Entertainment lounge",
+      "Supper club",
+      "Coworking space"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/arthouse_digital-brochure.pdf/e0ca9084d50911f0a7f7ba8084900a82",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/arthouse_digital-brochure.pdf/e0ca9084d50911f0a7f7ba8084900a82#page=42",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: The Arthouse",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/arthouse",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: 26 July 2024 launch announcement",
+          "url": "https://cdn.aldar.com/-/media/project/aldar-tenant/aldar2/images/press-releases/26-july-2024-pr/aldar---the-arthouse---prl-eng-final.pdf?rev=466ba1afb33d4e49ae1afd1ddeb97327",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: The Arthouse",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/the-arthouse",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "sales",
+          "label": "Aldar Arthouse sales presentation, public Bitex-hosted copy",
+          "url": "https://bitex-co.com/wp-content/uploads/2024/07/Final-The-Arthouse_Sales-PDF.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: The Arthouse official brochure and floor plans",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/arthouse_digital-brochure.pdf/e0ca9084d50911f0a7f7ba8084900a82",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "official",
+          "launch"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "official",
+          "launch"
+        ],
+        "price": [
+          "finder"
+        ],
+        "units": [
+          "finder",
+          "sales"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "finder",
+          "sales"
+        ],
+        "handover": [
+          "finder",
+          "sales"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Aldar project and dated launch announcement confirm ownership and the 281-home release.",
+        "location": "Official Saadiyat Cultural District location retained; no travel time or guaranteed view inferred.",
+        "residences": "One to three bedroom apartments, including two-plus layouts, and two five-bedroom sky villas verified.",
+        "areas": "Portal size ranges reviewed against representative sales drawings; area labels preserved.",
+        "amenities": "Project-specific official amenity list and launch announcement reviewed.",
+        "pricing": "Portal AED 3.3m launch price retained as historical, not current inventory.",
+        "payment": "Seven-stage sales schedule visually checked; 10/55/35 portal summary agrees and stages total 100%.",
+        "handover": "May 2028 estimate matches sales document and Property Finder; contract still governs.",
+        "documents": "Official 56-page customer brochure and separate 62-page sales presentation downloaded. Representative one/three-bedroom and five-bedroom sky-villa plans, and sales area/payment tables visually reviewed."
+      },
+      "community": "Saadiyat Cultural District",
+      "overview": [
+        "The residential concept borrows from private members’ clubs, but its spaces are intended for residents. Cultural institutions including Louvre Abu Dhabi and Guggenheim Abu Dhabi form the surrounding district. Apartment orientation determines the actual outlook; the project-wide description is not a guarantee for an individual home."
+      ],
+      "locationNote": "Located on Saadiyat Island in Abu Dhabi’s Cultural District. Aldar places the homes near the museums and the retail and leisure spaces of Saadiyat Grove.",
+      "priceLabel": "Portal-reported launch price",
+      "priceNote": "Property Finder records AED 3.3m at launch and currently marks developer stock sold out. This does not establish today’s resale price or availability. Obtain a dated quotation and cost breakdown.",
+      "paymentNote": "The reviewed launch schedule totals 65% before handover and 35% at handover. Several original dates have passed; a current purchase needs the outstanding balance and contractual schedule.",
+      "handoverNote": "May 2028 is the published estimate in the reviewed sales presentation and Property Finder. It is not evidence of completed construction or a guaranteed possession date.",
+      "units": [
+        {
+          "label": "1-bedroom apartments",
+          "area": "990–1,506 sq ft · portal range",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2-bedroom apartments",
+          "area": "1,582–2,464 sq ft · portal range",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom apartments",
+          "area": "2,690–4,585 sq ft · portal range",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "5-bedroom sky villa",
+          "area": "13,863 sq ft · portal figure; drawing states 1,288 sq m",
+          "sourceIds": [
+            "finder",
+            "sales"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "31 January 2025",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "30 September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "31 May 2026",
+          "percent": 15,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "31 January 2027",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "30 September 2027",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "31 May 2028 · estimated handover",
+          "percent": 35,
+          "sourceIds": [
+            "sales"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Announced scale",
+          "value": "Aldar announced 281 homes across three buildings, including two sky villas, in July 2024. This is the launch count, not current availability.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Design and sustainability",
+          "value": "Interiors are by DiLeonardo. Aldar stated targets of 3 Pearl Estidama and 2-star Fitwel; these are targets, not verified awarded certifications.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Representative drawings",
+          "value": "The sales presentation shows a 95 sq m one-bedroom A1, 147 sq m two-bedroom A1 and 256 sq m three-bedroom A1 with maid’s room. Compare the exact drawing and outdoor-area treatment for the selected unit.",
+          "sourceIds": [
+            "sales"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock, individual prices, service charges, parking rights and remaining instalments need written confirmation.",
+        "Match the published brochure drawing to the selected unit and current revision; furniture illustrations and outdoor areas require contractual confirmation.",
+        "Portal construction-start dates differ from the launch announcement’s Q1 2025 plan; no present construction percentage is asserted.",
+        "Amenities, service charges and any optional paid services require the selected contract."
+      ]
+    }
+  }
+}

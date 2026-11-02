@@ -1,0 +1,329 @@
+{
+  "id": "mag-project-03",
+  "name": "Keturah Resort",
+  "developerSlug": "mag",
+  "fields": {
+    "description": "Creekside residences and twelve mansions beside Ras Al Khor Wildlife Sanctuary, combining landscaped gardens, wellness facilities and Ritz-Carlton residential services.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": null,
+    "bedrooms": null,
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Residents’ club",
+      "Wellness centre",
+      "Landscaped gardens",
+      "Swimming pools",
+      "Children’s club",
+      "Concierge services",
+      "Waterfront promenade"
+    ],
+    "brochureUrl": "https://newdevelopments.ae/uploads/projects/Ritz-CarltonBrochure_1652866183.pdf",
+    "floorPlanUrl": "https://newdevelopments.ae/uploads/projects/RitzCarltonResidencesFloorPlans_1652867193.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Keturah · current Resort portfolio page",
+          "url": "https://keturah.global/creek-resort/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "launch",
+          "label": "MAG · 9 May 2023 residential sales release",
+          "url": "https://mag.global/news/mag-launches-sales-homes-ritz-carlton-residences-dubai-creekside/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "milestone",
+          "label": "Keturah · infrastructure milestone and Q4 2027 target",
+          "url": "https://keturah.global/press-ritz-infrastructure/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Ritz-Carlton Creekside · original 18-page brochure, public broker mirror",
+          "url": "https://newdevelopments.ae/uploads/projects/Ritz-CarltonBrochure_1652866183.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Ritz-Carlton Creekside · original 17-page plans, public broker mirror",
+          "url": "https://newdevelopments.ae/uploads/projects/RitzCarltonResidencesFloorPlans_1652867193.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Resort catalogue and historical payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/mag-property-development/keturah-resort",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "microsite",
+          "label": "Keturah-linked project microsite · advertised terms, sales partner content",
+          "url": "https://keturahresort.com/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "earth",
+          "label": "Project microsite · Earth Mansion reference",
+          "url": "https://keturahresort.com/earth.html",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "water",
+          "label": "Project microsite · Water Mansion reference",
+          "url": "https://keturahresort.com/water.html",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "sky",
+          "label": "Project microsite · Sky Mansion reference",
+          "url": "https://keturahresort.com/sky.html",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "portal"
+        ],
+        "location": [
+          "developer",
+          "portal"
+        ],
+        "emirate": [
+          "developer",
+          "portal"
+        ],
+        "type": [
+          "developer",
+          "plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "portal",
+          "microsite"
+        ],
+        "handover": [
+          "milestone",
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal",
+          "microsite"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer",
+          "portal"
+        ],
+        "overview": [
+          "developer",
+          "launch",
+          "milestone"
+        ],
+        "locationNote": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "portal",
+          "microsite"
+        ],
+        "priceNote": [
+          "portal",
+          "microsite"
+        ],
+        "paymentNote": [
+          "portal",
+          "microsite"
+        ],
+        "handoverNote": [
+          "milestone",
+          "portal"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "units": [
+          "plans",
+          "earth",
+          "water",
+          "sky"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "plans",
+          "portal",
+          "milestone",
+          "earth",
+          "water",
+          "sky"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected MAG03 KeturahResort umbrella includes Ritz-Carlton Residences DubaiCreekside and12mansions; not KeturahReserve/Ardh or RitzMaryahSAAS. Original /resort/ returns200soft404; currentown /creek-resort/ genuinebody. LicensedMAGofLife ownership disclaimer originalplans everypage; not Ritz-Carlton-owned/developed. Ownbrandlinks keturahresort.com but actualsite AXexclusivepartner/companysection/privacybrokermarketing, conservativelybrokerkind.",
+        "location": "CurrentownDubaiCreek facingRasAlKhorSanctuary; originalbrochureactualmap10 samewaterfront. PFexplicitAlJaddaf supports existingexactcentraldubai-al-jaddaf; no unsupportedDHCC2coordinates added. RasAlKhorSanctuaryview not sameasRasAlKhormunicipalarea. No marketingjourneytime/oxygenclaim adopted.",
+        "residences": "Currentown2/3/4BR/penthouses and12Earth/Water/Skymansions. Ownpageeightbuildings G1/G2/G3+B1/B2/C2/C3/C4;2023MAG177across7;2024milestone200across7; originalplansfivebutterflybuildings48apartmentsonly notwholecurrentinventory. PDFall17pagesactuallyviewed;1buildinglobby,2-4twoBR,5-6threeBR,7summary,8-12Waterfourlevels+summary,13-17Earthfourlevels+summary. Eachwholemultilevelhomecountedonce;8BRmansions confirmedplans12/17. Headlinetype/bedroomsnullmixedproduct.",
+        "areas": "ActualPDFtables2/3/4 totals232m2/2498ft2 and268m2/2885ft2;5/6 threeBR333m2/3585ft2. Summary7incorrect333m2/2810ft2usesinteriorft2, explicitnotpreferred. Water12prints3975.12m2/42787.79ft2 butbasement1898.77m2 vs1795.12page11; floorft2sum42787.80(0.01rounding). Earth17prints3942.13m2/42432.68ft2, earlierperfloor/summaryroundingdiff. Notpresentedinferredcorrectedtotal. CurrentmicrositeEarth46648/Water45927/Sky46906 each8BR differsoriginaltotals; sizesnot merged. Ownbroad702–5438ft2 unexplainedoverallnotfamilyminimum excludedheadline. NoSkyindividualoriginaldrawingsretrieved; publicmicrositeonlycurrenttotalreference.",
+        "amenities": "Ownmainsevenpublicfacilities below200; actual18pbrochureall5contacts read,14servicesversusalaCarte includesfeesdisclaimer,15/16Delosdesignfeatures. No guaranteedhealthbenefit/certification/outcome/schooladmission/Michelinoperatingvenueclaim adopted. Mansionprivatechef/berthsnotuniversalapartmententitlement. Originalplans2-6maidlaundry/twoor3.5baths,Water/Earthfourlevelpool/parking/lift/saunasteamgym, notapartmentuniversal.",
+        "pricing": "No currentwholeprojectdeveloperquote. Ownlinkedpartner micrositemainAED6.9m vsPF6.7mlaunch; threeownlinkedpartnerchildmansionpages330m each notentryresidentialprice. Allconditionalreferences notsalesoffers. No resaleorregistryprice projectedontocurrentinventory, no commonstartingprice copied.",
+        "payment": "No originaldatedpaymentPDFretrieved. PF10launch+40construction+50handover100 clearlysecondarycataloguereference, notcurrentcontract. Linkedpartnermicrosite40construction+60handover100 conflicts,3yearheadlinewithoutcalendarnot convertedintoschedule.2024developerpresslinked theresidencescreeksidedubai.com currentGETfailedexpiredSSL andwebtimeout; indexed5/15/20/60notadoptedwithoutliveverification. No disablecertificate/formPOST/bypass. Headlinepaymentnull.",
+        "handover": "Currentdeveloperown14Nov2024milestone pageQ42027 vs actualsyndicatedoriginalZawya5Nov2024sameQ42027; dateeditiondifference internalrecord. PFcatalogue26Feb2026vsnarrativeMar2026bothpastnow2Nov2026notcertificate. Headlinehandovernull, latest2024ownforecastqualified. No currentindependentcompletioncertificate orliveconstructioninspectionverified. OldbrochureDCCvs2024releaseCECEPchronologicalcontractorchange notcurrentcontractorclaim.",
+        "documents": "18pbrandedbrochure and17pbrandedplanspublicnewdevelopmentsmirrorGET200, allpagesactualcontactvisualread; numericalpanels2-17visuallyread. Brochuretextreversewordorder notrelieduponwithoutactualvisuals. Originalbroch/facts/plans relatedpool200=40+160; licensedsourcefooterverified. Keltbroch404/Westatessuspended/HumanDNS/PortGG403 notbypassed; no fabricatedfactsheetURL. Ownbrochuredialognotformsubmitted. Currentfact01jpgareexteriorrendersnotfacttables, nofactsinferred. Imagesdeferred."
+      },
+      "community": "Al Jaddaf · Dubai Creek",
+      "overview": [
+        "Apartments and penthouses sit alongside the Earth, Water and Sky mansion concepts. Services and specifications depend on the residence category.",
+        "MAG’s May 2023 release described 177 residences across seven buildings. A later developer milestone described 200; the current portfolio page lists eight buildings. These are different published programmes, not a live availability count."
+      ],
+      "locationNote": "Dubai Creek, facing Ras Al Khor Wildlife Sanctuary. Al Jaddaf is the catalogue location; a sanctuary view does not place the development inside the sanctuary.",
+      "priceLabel": "Current developer quotation required",
+      "priceNote": "Property Finder retains an AED 6.7 million launch reference; the linked sales-partner microsite advertises AED 6.9 million. Neither confirms a currently available residence.",
+      "paymentNote": "The portal reference below differs from the linked sales-partner site’s 40/60. Obtain a residence-specific schedule; no verified dated payment document was retrieved.",
+      "handoverNote": "The developer’s 2024 milestone targeted Q4 2027. Property Finder retains February/March 2026 dates, which have passed; completion is not independently confirmed.",
+      "units": [
+        {
+          "label": "2BR + maid · original plans",
+          "area": "2,498 or 2,885 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + maid · original plans",
+          "area": "3,585 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Earth · 8BR mansion, microsite reference",
+          "area": "46,648 ft²",
+          "sourceIds": [
+            "earth"
+          ]
+        },
+        {
+          "label": "Water · 8BR mansion, microsite reference",
+          "area": "45,927 ft²",
+          "sourceIds": [
+            "water"
+          ]
+        },
+        {
+          "label": "Sky · 8BR mansion, microsite reference",
+          "area": "46,906 ft²",
+          "sourceIds": [
+            "sky"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · at launch",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Portal reference · construction",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Portal reference · handover",
+          "percent": 50,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Mansion collection",
+          "value": "12 · Earth, Water and Sky",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Developer-published community scale",
+          "value": "80,000 m²",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Residential tenure",
+          "value": "Freehold in developer material",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Residential services",
+          "value": "Ritz-Carlton; paid services vary",
+          "sourceIds": [
+            "developer",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current availability, residence-specific price and signed payment calendar remain unconfirmed.",
+        "Original plans: the three-bedroom summary uses 2,810 ft² beside 333 m²; the detailed layout states 3,585 ft². Water’s basement area differs between drawing and summary. Mansion totals also differ from the later microsite. Request the contracted revision.",
+        "The 2023 seven-building programme, later 200-residence release and current eight-building description need reconciliation.",
+        "The current page alternates 300 m and 550 m waterfront figures. Neither is treated as a verified surveyed length.",
+        "Confirm service charges, included versus chargeable services, parking allocation, furnishing specification, mooring rights and completion certification for the selected home.",
+        "Developer material says freehold; Property Finder says leasehold. Confirm the selected residence’s title."
+      ]
+    }
+  }
+}

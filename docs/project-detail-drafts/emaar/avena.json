@@ -1,0 +1,69 @@
+{
+  "id":"emaar-project-96","name":"Avena","developerSlug":"emaar",
+  "fields":{
+    "description":"Avena brings four-bedroom villas to the second phase of The Valley. Three façade options give the streets a varied appearance, while landscaped surroundings and access to the wider central park shape the outdoor setting. Emaar’s plans describe semi-detached homes, with family spaces spread over three levels.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4","price":4360000,"handover":"Q2 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Landscaped lawns","Swimming pool and deck","Children’s play areas","Fitness centre","Indoor multipurpose room","Controlled community access","Wider-community nature trails","Wider-community skate park","Adventure playscape","Flower farm and sensory play"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/388793_brochure_File_d043e66dd6_prod.pdf",
+    "floorPlanUrl":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-Floor-Plans.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Avena at The Valley","url":"https://www.emaar.com/en/properties/avena-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Avena community brochure","url":"https://www.emaar.com/cms-media/uploads/388793_brochure_File_d043e66dd6_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans","label":"Emaar Avena floor plans, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-Floor-Plans.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Avena launch overview, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-One-Pager.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+        {"id":"payment","label":"Emaar Avena payment schedule, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"finder","label":"Property Finder: Avena by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/avena","kind":"portal","checkedOn":"2026-10-31","derivedWords":60},
+        {"id":"launch-report","label":"Petkovic Properties: Avena and Avena 2 launch details","url":"https://petkovicproperties.com/property/emaar-avena-1-avena-2-the-valley-2-dubai/","kind":"broker","checkedOn":"2026-10-31","derivedWords":30}
+      ],
+      "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official"],"type":["plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans","facts","payment"],"paymentPlan":["payment"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Avena launch distinguished from Avena 2 and its different named villa types.",
+        "location":"The Valley phase two and Dubai–Al Ain Road setting checked.",
+        "residences":"Four-bedroom semi-detached villas; three styles and A/B variants checked against plans.",
+        "areas":"All six plan tables visually checked. Published totals retained with a component reconciliation warning; plot sizes kept separate.",
+        "amenities":"Local amenities and wider-community attractions distinguished.",
+        "pricing":"AED 4.36m official advertised starting price corroborated by the launch overview.",
+        "payment":"Nine stages checked visually in the Emaar-branded payment sheet; total 100%.",
+        "handover":"June 2028 estimate corroborated by the portal’s main delivery timeline.",
+        "documents":"Official brochure and attributed Emaar-branded plans, overview and payment documents reviewed."
+      },
+      "community":"The Valley · phase two",
+      "overview":["The brochure links the residential neighbourhood with a broader landscape of nature walks, play spaces and recreation. Its park concepts include a dunescape, forest and meadow walks, sensory play and a shallow river. These are master-community proposals; their location and opening dates should be checked separately from an individual villa’s delivery."],
+      "locationNote":"Avena sits within The Valley on Dubai’s Al Ain Road corridor. Review the selected plot’s entrance, park access and daily driving route rather than treating promotional travel times as fixed commuting times.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 4.36m, matching the Avena launch overview. This is a starting reference, not confirmation that a particular villa remains available at that figure.",
+      "paymentNote":"The launch structure totals 80% before completion and 20% at completion. Later instalments carry construction milestones. The dated schedule is historical marketing; obtain the sale-specific outstanding balance and current contractual terms.",
+      "handoverNote":"The payment document estimates June 2028. Property Finder’s main delivery field also states June 2028, although other portal sections contain inconsistent terms. The signed agreement and a current developer update take priority.",
+      "units":[
+        {"label":"4 bedrooms · Gardenia A / B","area":"Published total 3,709.46 sq ft; suite 2,852.97 sq ft","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Lotus A / B","area":"Published total 3,688.25 sq ft; suite 2,846.41 sq ft","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Lily A / B","area":"Published total 3,684.59 sq ft; suite 2,846.19 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"On booking · July 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+        {"stage":"September 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Reported project size","value":"Petkovic’s July 2024 launch report lists 322 Avena homes. This is an attributed project count, not current inventory.","sourceIds":["launch-report"]},
+        {"label":"Plot area","value":"The launch overview lists plots from 3,082 to 5,364 sq ft. Those figures describe land, not internal living area.","sourceIds":["facts"]},
+        {"label":"Three-level arrangement","value":"Plans show a ground-floor guest bedroom, three first-floor bedrooms and a second-floor roof lounge with terrace. The lounge is not labelled as an additional bedroom.","sourceIds":["plans"]},
+        {"label":"Practical spaces","value":"Drawings include two parking spaces, a store, laundry and a linen room. Confirm the final room schedule rather than treating a labelled linen room as a maid’s bedroom.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The floor-plan suite, garage and balcony figures do not add up to their printed totals. Totals are reproduced as published; obtain the signed area breakdown before relying on them.",
+        "Several portal payment descriptions conflict or fail to total 100%; the linked Emaar-branded launch schedule is used here.",
+        "Plans and commercial sheets are broker-hosted copies. Final specifications, actual plot size, remaining payments, service charges and current availability need developer confirmation.",
+        "Current construction progress and the timing of wider-community facilities were not independently established. Existing site images remain illustrative."
+      ]
+    }
+  }
+}

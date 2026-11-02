@@ -1,0 +1,250 @@
+{
+  "id": "dubai-properties-project-01",
+  "name": "La Tilia",
+  "developerSlug": "dubai-properties",
+  "fields": {
+    "description": "La Tilia is a three- and four-bedroom townhouse development in Villanova, Dubailand. Its plans offer both two-storey and roof-level family-room layouts. This profile keeps the original project’s commercial references separate from later La Tilia releases.",
+    "areaId": "dubai-villanova",
+    "location": "Villanova",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "3–4",
+    "price": 2690000,
+    "handover": null,
+    "paymentPlan": "60/40 · original launch schedule",
+    "amenities": [
+      "Community pool",
+      "Beach pool",
+      "Children’s play areas",
+      "Sports hub and padel court",
+      "Walking and cycling routes",
+      "Dog park",
+      "Landscaped sikkas",
+      "Community retail"
+    ],
+    "brochureUrl": "https://www.dp.ae/images/campaign/latilia/La%20Tilia%20Brochure.pdf",
+    "floorPlanUrl": "https://www.dp.ae/images/campaign/latilia/La%20Tilia%20Floor%20Plan-Digital.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Dubai Properties: La Tilia own project page",
+          "url": "https://www.dp.ae/our-portfolio/all-projects/143/la-tilia/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "brochure",
+          "label": "Official La Tilia brochure · 25 PDF pages",
+          "url": "https://www.dp.ae/images/campaign/latilia/La%20Tilia%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "plans",
+          "label": "Official La Tilia floor plans · 10 PDF pages",
+          "url": "https://www.dp.ae/images/campaign/latilia/La%20Tilia%20Floor%20Plan-Digital.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "contract",
+          "label": "Dubai Holding construction contract announcement · 14 April 2026",
+          "url": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-properties-awards-contracts-worth-aed-1-1-billion-to-expand-villanova-with-850-new-homes",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: La Tilia original project, not La Tilia 2",
+          "url": "https://www.propertyfinder.ae/en/new-projects/dubai-properties/la-tilia-at-villanova",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "payment",
+          "label": "Historic La Tilia Phase 1 price/payment sheet · broker-hosted branded copy",
+          "url": "https://d1ov4zfz2t2vta.cloudfront.net/storage/project_files/La%20Tilia%20Phase%201%20%7C%20Payment%20Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "plans"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "overview": [
+          "plans",
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "payment",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ],
+        "facts": [
+          "contract"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own dedicated La Tilia page and parent construction release checked; original La Tilia kept distinct from La Tilia 2 commercial listing.",
+        "location": "Villanova in Dubailand, Dubai, supported by own page and brochure; no coordinates inferred.",
+        "residences": "All four type families inspected: 3B1/3B2 three-bedroom mid and 4B1/4B2 four-bedroom end homes, including mirrored options.",
+        "areas": "Visible plan panels pages 2,4,6,8,9 checked. Visible 4B1 2476.66 and 4B2 3158.12 sq ft differ by 0.01 from hidden drawing text; no plot or internal-net-area substitution.",
+        "amenities": "Own brochure community facilities checked; no private pool guarantee.",
+        "pricing": "Accessible historical branded sheet visually verified: AED2.69m3BR/2.99m4BR. Broker-hosted copy, not own official-hosted current offer; portal current guide/index differ. Historical headline explicitly labelled.",
+        "payment": "Original eight-stage sheet visually checked,10/10/10/5/10/10/5/40 totals100. Public broker-hosted branded copy discovered from actual Dubricks Phase1 page; not mislabelled official. Portal aggregate corroborates.",
+        "handover": "Historic branded broker-hosted sheet September2028 vs portal August2028/Q3 forecast. No primary current contractual date established; headline null and conflict public.",
+        "documents": "Own25page brochure and10page plans downloaded, visible numeric panels inspected. Broker-hosted historical price/payment sheet downloaded and visually inspected after two earlier mirrors were inaccessible. Official parent construction release and established portal reviewed. Current contract/inventory/fees unresolved."
+      },
+      "community": "La Tilia at Villanova",
+      "overview": [
+        "The plans distinguish two-storey homes from layouts with an additional roof-level family room and terrace. Four-bedroom drawings show a ground-floor guest bedroom and double-volume living space.",
+        "Landscaped pedestrian sikkas connect the homes; facilities shown in the brochure belong to the community rather than being private inclusions in every townhouse."
+      ],
+      "locationNote": "Villanova, Dubailand, Dubai. The developer identifies Emirates Road access with links to Sheikh Mohammed Bin Zayed Road and Al Ain Road. No fixed travel-time promise or approximate map coordinate is used.",
+      "priceLabel": "Original launch from",
+      "priceNote": "The historic broker-hosted branded sheet lists AED 2.69m for three-bedroom and AED 2.99m for four-bedroom homes. These are launch references, not available-unit quotations. Property Finder retains AED 2.69m in its overview but displays a rounded AED 2.7m dynamic guide; its collection index showed AED 2.73m. The original project is marked sold out, which does not establish current resale stock.",
+      "paymentNote": "The broker-hosted original sheet totals 60% before handover and 40% at handover, including 10% booking. Its historical dates are shown below. Property Finder corroborates the 10/50/40 split. A resale may have a different outstanding balance; obtain the selected home’s original contract and account statement.",
+      "handoverNote": "The historic branded sheet, retrieved from a broker-hosted public copy, estimates September 2028 completion. Property Finder gives Q3 2028, with August 2028 in its key information and 21 August in its timeline. These forecasts differ at month level. No current primary contractual date was verified, so the headline remains unconfirmed.",
+      "units": [
+        {
+          "label": "3B1 · 3 bedrooms · G+1",
+          "area": "218.71 m² / 2,354.17 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3B2 · 3 bedrooms · G+2",
+          "area": "272.89 m² / 2,937.36 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4B1 · 4 bedrooms · G+1",
+          "area": "230.09 m² / 2,476.66 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4B2 · 4 bedrooms · G+2",
+          "area": "293.40 m² / 3,158.12 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2025",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2028 · original handover estimate",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Construction award · 14 April 2026",
+          "value": "The parent company announced a nearly AED 1.1bn contract covering 850 homes across La Tilia phases 1 and 2: 410 in phase 1 and 440 in phase 2. The combined mix is 500 three-bedroom and 350 four-bedroom townhouses. These counts are not current availability.",
+          "sourceIds": [
+            "contract"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm selected-unit availability, price, contractual date, dated instalments, outstanding balance and resale eligibility before committing. No current inventory feed or contractual schedule was verified.",
+        "Plan totals are published marketing areas, not plot sizes or independently measured net interiors. Visible 4B1/4B2 totals differ by 0.01 sq ft from embedded drawing text; confirm contractual measurements. Mirrored versions do not represent additional bedroom types.",
+        "Service charges, cooling bills, final specifications, transaction costs and individual title/escrow details require current primary documentation. No guaranteed yield, visa eligibility or completion percentage is asserted."
+      ]
+    }
+  }
+}

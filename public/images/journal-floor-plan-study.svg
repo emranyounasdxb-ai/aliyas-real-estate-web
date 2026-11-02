@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#19231f"/>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#35433a" stroke-width="1"/></pattern></defs>
+  <rect width="1200" height="900" fill="url(#grid)" opacity=".6"/>
+  <g stroke="#d5bf86" stroke-width="8" stroke-linejoin="round">
+    <path d="M180 195H1030V697H695V750H180Z" fill="#222e27"/>
+    <path d="M180 480H485V195M485 480H695V697M695 480H1030M760 195V360H1030"/>
+  </g>
+  <g stroke="#9da99b" stroke-width="3">
+    <path d="M180 295V395M180 560V650M310 195H410M595 195H680M1030 415V455M780 697H900" stroke="#83a1a2" stroke-width="12"/>
+    <path d="M370 480V405A75 75 0 0 1 445 480M695 565H770A75 75 0 0 1 695 640M920 360V285A75 75 0 0 1 995 360"/>
+    <rect x="234" y="245" width="160" height="190" rx="7" fill="#354038"/>
+    <path d="M234 295H394M250 260H300V285H250ZM322 260H376V285H322Z"/>
+    <rect x="252" y="552" width="148" height="110" rx="7" fill="#354038"/>
+    <path d="M252 585H400M268 565H315M339 565H385"/>
+    <rect x="766" y="551" width="168" height="65" rx="9" fill="#495045"/>
+    <rect x="814" y="630" width="75" height="37" rx="10"/>
+    <rect x="575" y="290" width="93" height="130" rx="35" fill="#354038"/>
+    <path d="M557 315V350M557 370V405M686 315V350M686 370V405" stroke-width="7"/>
+    <path d="M795 225H998V255H795ZM995 225V325H965V255"/>
+    <circle cx="994" cy="651" r="20" stroke="#8e9b82"/>
+    <path d="M981 644L1007 658M988 666L1000 638" stroke="#8e9b82"/>
+  </g>
+  <g stroke="#8a977f" stroke-width="2"><path d="M180 155H1030M180 145V165M1030 145V165M135 195V750M125 195H145M125 750H145"/></g>
+  <g font-family="Arial,sans-serif" fill="#bdc6b6" font-size="17" letter-spacing="3">
+    <text x="185" y="92">ALIYAS / THE JOURNAL</text>
+    <text x="765" y="520">LIVING</text><text x="255" y="721">REST</text><text x="560" y="460">GATHER</text>
+    <text x="180" y="825" fill="#d5bf86">SPACE. FLOW. POSSIBILITY.</text>
+    <text x="180" y="855" font-size="13" letter-spacing="1.5">CONCEPT DIAGRAM — NOT A PROJECT FLOOR PLAN</text>
+  </g>
+  <g stroke="#d5bf86" stroke-width="2"><circle cx="1000" cy="806" r="30"/><path d="M985 818L1000 790L1015 818L1000 810Z"/></g>
+</svg>

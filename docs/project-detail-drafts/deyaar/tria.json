@@ -1,0 +1,292 @@
+{
+  "id": "deyaar-project-12",
+  "name": "Tria",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Tria is a three-wing residential development in Dubai Silicon Oasis. Deyaar announced its handover on 6 October 2026, describing 711 residences and six retail units. The housing mix extends from studios to three-bedroom apartments, duplexes, podium townhouses and penthouses.",
+    "areaId": "dubai-silicon-oasis",
+    "location": "Dubai Silicon Oasis",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 646000,
+    "handover": "Handover announced · 6 October 2026",
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pools",
+      "Fitness and yoga facilities",
+      "Children’s areas",
+      "Wellness zone",
+      "Paddle tennis and squash courts",
+      "Outdoor cinema",
+      "Residents’ clubhouse",
+      "Rooftop garden lounge",
+      "Outdoor dining and barbecue areas",
+      "Electric-vehicle charging parking"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar Tria project page",
+          "url": "https://www.deyaar.ae/en/properties/tria/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Tria official brochure and layouts · 67 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2023/07/260722_Tria-Brochure_compressed.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "handover-release",
+          "label": "Deyaar issuer handover announcement · 6 October 2026",
+          "url": "https://feeds.dfm.ae/documents/2026/Oct/5/2f27620c-7cb8-4fbf-be56-f64bf0533a17/Tria%20Handover%20ENG.Pdf.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar construction update · older target",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Tria · secondary commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/tria-by-deyaar",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "bayut",
+          "label": "MyBayut Tria · different historical payment calendar",
+          "url": "https://www.bayut.com/mybayut/development-of-the-month-tria-by-deyaar/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "handover-release",
+          "brochure"
+        ],
+        "areaId": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer",
+          "brochure"
+        ],
+        "emirate": [
+          "developer",
+          "brochure"
+        ],
+        "type": [
+          "developer",
+          "brochure"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "locationNote": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder",
+          "bayut"
+        ],
+        "paymentNote": [
+          "finder",
+          "bayut"
+        ],
+        "paymentStages": [
+          "finder",
+          "bayut"
+        ],
+        "handover": [
+          "handover-release",
+          "developer",
+          "construction",
+          "finder"
+        ],
+        "handoverNote": [
+          "handover-release",
+          "developer",
+          "construction",
+          "finder"
+        ],
+        "facts": [
+          "handover-release",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact protected12Tria, never ATRIA. Own WPmedia searchTria returnsATRIA materials too; allATRIA excluded. Actual issuer6October2026 release confirms announcedhandover711homes6retail, notfuturecompletionguess.",
+        "location": "Ownpage and issuer primary DubaiSiliconOasis. Existing registry dubai-silicon-oasis nameDubaiSiliconOasis. No assumedgeocoordinates or travel times.",
+        "residences": "Own67pbrochure includes StudioA/B,1BRA/B,2BRA/B,3BRA,3BRduplexA,3BRpodiumTHA/B,3BRPHA/B. All12numericfamilies visuallyread. Full49–52 confirms duplex2levels andtownhouses3levels alreadywholehome2325/2600notaddedperfloor. Full53penthouses eachsingleexample, privatepooldrawn but notclaimedallhomes.",
+        "areas": "Actual45–53visible12numericfamilies retained: studio440=333+107,485=353+132;1BR775=680+95,805=711+94;2BR1255=1184+71,1245=1138+107;3BR1770=1641+129;duplex2200=2067+133;TH2325=2104+221,2600=2231+369;PH2885=2556+329,3215=2440+775. Allprinted sums consistent. Units sq.ft explicit no unitinference. Projectpage440–2900doesnotcover3215.",
+        "amenities": "Actualbrochure14spread26/27 visuallyread: pool/gym/yoga,kids,wellness,paddle/squash,outdoorcinema,clubhouse,rooftopgarden,BBQ/EVparking. Issuerhandoverrelease independently generalamenities; no guaranteecurrentoperatinghours orunitparking.",
+        "pricing": "FreshPF200headline646K rounded, cachedsearch650K differs andnotused. Owncurrentprice/signedoffer unavailable. Developerunits listedoutofstock; noresaleinventory count copied.",
+        "payment": "Ownpage/brochure/publicWPmedia no actual primaryinstalmentsheet. PF14/35/11/40=100 explicitreference table only; Bayutdated12+8*6+10+30=100 historicallydifferent. HeadlineNULL, no hypotheticaldates/feesinvented.",
+        "handover": "ActualDFMissuer2pdocument p1visuallyread dated6October2026 announceshandover. Older projectpage31March2026,constructionSeptember2026stillformalities,PFJune2025 remainstaleconflictingforecasts. Do notsubstituteolderstatusforfreshdatedissuerannouncement. Individualunitreadinessstillconfirm.",
+        "documents": "Own67pbrochure public20049157609bytes, allnumericspreads45–53 read plusfullmultilevelplans. Actual2pissuerannouncement200270645bytes p1read. Underlyingbrochure/plans200sharedallmirrors; separateissuerrelease90. NoATRIA, genericcommunity0; noforms oraccessbypass. Imagesdeferred."
+      },
+      "community": "Dubai Silicon Oasis",
+      "overview": [
+        "The larger homes have different floor arrangements; published multilevel totals are counted once."
+      ],
+      "locationNote": "Dubai Silicon Oasis, Dubai.",
+      "priceLabel": "Portal headline · not a confirmed available offer",
+      "priceNote": "Property Finder shows a rounded AED 646K headline and marks developer units out of stock. No current official quotation was found.",
+      "paymentNote": "Historical portal reference only: Bayut instead publishes 12% booking, 48% construction, 10% handover and 30% afterwards. Confirm the selected home’s outstanding balance.",
+      "handoverNote": "Issuer announcement dated 6 October 2026 supersedes older targets: March 2026 on the project page, September 2026 construction update and June 2025 on Property Finder. Confirm the selected home’s handover position.",
+      "units": [
+        {
+          "label": "Studio A /B",
+          "area": "440 /485 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR A /B",
+          "area": "775 /805 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR A /B",
+          "area": "1,255 /1,245 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,770 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR duplex A",
+          "area": "2,200 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR townhouse A /B",
+          "area": "2,325 /2,600 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR penthouse A /B",
+          "area": "2,885 /3,215 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · booking",
+          "percent": 14,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · construction",
+          "percent": 35,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · handover",
+          "percent": 11,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · after handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Handover announcement",
+          "value": "711 residences and six retail units; announcement dated 6 October 2026.",
+          "sourceIds": [
+            "handover-release"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Total areas include balconies; townhouses and duplexes are whole-home totals.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The project page’s 440–2,900 ft² summary is narrower than the brochure’s 3,215 ft² penthouse example. Use the selected contractual drawing.",
+        "Current availability, official prices, revised payment terms, service charges and unit-specific parking and handover documents remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

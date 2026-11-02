@@ -1,0 +1,190 @@
+{
+  "id": "binghatti-project-11",
+  "name": "Binghatti Titania",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Titania brings studios and one- and two-bedroom apartments to Majan. A tall residential stack rises above podium parking, with a family-oriented leisure deck. Its own plans show why the balcony contribution matters when comparing homes with the same bedroom count.",
+    "areaId": "dubai-majan",
+    "location": "Majan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 679999,
+    "handover": "Q1 2027 · portal target",
+    "paymentPlan": "50/50 · portal summary",
+    "amenities": [
+      "Adult and shallow-water pools",
+      "Children’s pool and splash area",
+      "Floating pergola deck",
+      "Children’s play area",
+      "Yoga zone",
+      "Gym",
+      "Outdoor seating and walkways"
+    ],
+    "brochureUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-titania-assets/binghatti-titania-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-titania-assets/binghatti-titania-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Titania own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-titania",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official-linked own brochure and embedded plans",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-titania-assets/binghatti-titania-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Official-linked own project facts",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-titania-assets/binghatti-titania-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Titania project dates and payment summary",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/titania-by-binghatti",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "developer",
+          "facts"
+        ],
+        "price": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Titania page, brochure and facts reviewed; 789 residential homes distinguished from current inventory.",
+        "location": "Own page confirms Majan, Dubai; brochure map is indicative, not a cadastral plot coordinate.",
+        "residences": "Own studio / one / two-bedroom mix reviewed, with numerical sample plans from each family.",
+        "areas": "Own 33-page brochure plans on pages 22, 24 and 27 visually inspected at 1750 px; suite/balcony/total labels checked.",
+        "amenities": "Own page and facts confirm family leisure deck facilities, with access and final delivery subject to contract.",
+        "pricing": "Current retrieved own hero FROM 679,999 separated from indexed regional inventory and portal price bases.",
+        "payment": "Own retrieved documents contain no dated commercial calendar; Property Finder 10/40/50 attributed, not a universal current offer.",
+        "handover": "Property Finder February/Q1 2027 forecast recorded as portal target only; no official unit handover evidence retrieved.",
+        "documents": "Own linked brochure and facts downloaded from public Binghatti S3 mirror; no separate signed payment or completion document found."
+      },
+      "community": "Majan",
+      "overview": [
+        "Start with the selected apartment’s enclosed accommodation, then compare its outdoor area and floor position. The published building schedule is not a substitute for a unit plan and sale agreement."
+      ],
+      "locationNote": "Majan, Dubai, near Al Barari and the E 311 road network. Exact outlook and journey times depend on the home and route.",
+      "priceLabel": "Developer marketing reference",
+      "priceNote": "The retrieved developer hero displays a reference from AED 679,999. Its indexed UK inventory instead lists studios from AED 688,999, while Property Finder quotes a much higher launch/FAQ basis around AED 1.46 m. These are different published references; none confirms an available unit or a binding offer.",
+      "paymentNote": "Property Finder lists 10% at launch, 40% during construction and 50% on handover. The retrieved own brochure and facts do not provide a dated instalment calendar. This third-party summary must be replaced by the selected unit’s written terms before committing.",
+      "handoverNote": "Property Finder gives February 2027, within Q1 2027. This is a forecast rather than evidence of completion or key delivery. The retrieved developer FAQ does not supply a project completion date, so no precise contractual date is asserted.",
+      "units": [
+        {
+          "label": "Studio Type 01",
+          "area": "35.91 sq m / 387 sq ft total; 27.81 sq m suite + 8.10 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01",
+          "area": "63.13 sq m / 680 sq ft published total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01",
+          "area": "112.95 sq m / 1,216 sq ft total; 69.92 sq m suite + 43.03 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · at sales launch",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · during construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · on handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published residential mix",
+          "value": "789 homes: 473 studios, 284 one-bedroom apartments and 32 two-bedroom apartments. These are design counts, not available stock.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Building schedule",
+          "value": "Official facts specify 3 basements, ground, 4 podiums, 32 residential floors, a mechanical floor and roof. The FAQ’s shorthand floor count uses a different convention.",
+          "sourceIds": [
+            "facts",
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current inventory, selected-unit prices, dated instalments and contractual handover require written developer confirmation. No service-charge estimate, unit-specific parking allocation or furnishing inclusion was established.",
+        "Areas are brochure examples including outdoor space, not net usable interiors. Rounded printed totals are retained; use the sale agreement for the exact unit. Floor, orientation, material and amenity illustrations can vary."
+      ]
+    }
+  }
+}

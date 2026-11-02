@@ -1,0 +1,216 @@
+{
+  "id": "binghatti-project-01",
+  "name": "Binghatti Starfall",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Starfall is a residential and retail development in Al Jaddaf, Dubai. Studios, one- and two-bedroom apartments sit above a podium with shared leisure facilities. This profile separates the developer’s scheme information from secondary commercial forecasts.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 759999,
+    "handover": null,
+    "paymentPlan": "20/50/30 · portal reference",
+    "amenities": [
+      "Adults’ pool and jacuzzi",
+      "Children’s pool and splash zone",
+      "Gym and fitness centre",
+      "Outdoor yoga platform",
+      "Observatory deck",
+      "Family seating areas"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-starfall-assets-9392624/binghatti-starfall-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-starfall-assets-9392624/binghatti-starfall-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Starfall own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-starfall",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "brochure",
+          "label": "Official Starfall brochure · 41 PDF pages; plan samples34/36/38",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-starfall-assets-9392624/binghatti-starfall-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "facts",
+          "label": "Official Starfall project facts · 26 PDF pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-starfall-assets-9392624-4478710/binghatti-starfall-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Starfall project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-starfall",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "facts"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "facts": [
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated own project and developer collection identify Starfall; not Spectre/Wraith. Own linked public S3 brochures/facts retrieved without submitting a form.",
+        "location": "Al Jaddaf, Dubai, with Sheikh Rashid Road frontage identified by developer; no inferred coordinates or fixed travel times.",
+        "residences": "Studio/one/two-bedroom apartments with ground-floor retail. Own facts distinguish standard apartments and three Royal Suites within the754residential total.",
+        "areas": "Brochure visible pages34/36/38 independently inspected: six total-area samples with separate suite/balcony figures; figures are not minimum/maximum inventory ranges. Royal Suite sizes not established.",
+        "amenities": "Own facts resort/wellness/observatory facilities reviewed; no guaranteed view/private amenity inclusion attached to every apartment.",
+        "pricing": "Own hero AED759999 advertised guide vs PF800k launch reference retained with date/qualification; neither proves available stock.",
+        "payment": "Own page/PDFs contain no dated payment calendar retrieved. PF20/50/30 attributed; differing agent50/50 claims not merged or adopted as developer terms.",
+        "handover": "PFSeptember2028/Q32028 forecast, not primary contractual confirmation. No own dated completion schedule found in retrieved documents; headline remainsnull.",
+        "documents": "Own41pagebrochure/26pagefacts and three numeric spreads viewed; original current price matrix,dated payment calendar,contract,charges andliveinventory genuinely unresolved."
+      },
+      "community": "Binghatti Starfall",
+      "overview": [
+        "Starfall occupies an Al Jaddaf address facing Sheikh Rashid Road. The developer describes residential floors above a podium with retail at ground level.",
+        "The published collection spans studios through two-bedroom apartments. Its architectural concept centres on a glazed façade and an open-frame crown; a particular skyline view depends on the selected home."
+      ],
+      "locationNote": "Al Jaddaf, Dubai. The official page places the project on Sheikh Rashid Road and identifies connections to Sheikh Zayed Road and Al Khail Road. Advertised journey times are not guaranteed; check the selected route and entrance.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "Binghatti’s own project hero showed AED 759,999 on 31 October 2026. Property Finder instead labels AED 800,000 as a launch reference. These guides have different bases and may change with inventory, size, floor and terms; request a dated selected-unit quotation.",
+      "paymentNote": "Property Finder publishes 20% at launch, 50% during construction and 30% at handover. This secondary summary is not a dated developer schedule. Conflicting agent 50/50 advertisements cannot establish a project-wide offer. Confirm the actual contract, instalment dates and any incentives directly.",
+      "handoverNote": "Property Finder forecasts September 2028, with 30 September in its timeline and Q3 in the page header. No current primary contractual completion date was established from the retrieved developer documents. Treat this as a secondary forecast, not confirmed handover.",
+      "units": [
+        {
+          "label": "Studio · Type01",
+          "area": "39.88 m² / 429 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Studio · Type02",
+          "area": "42.11 m² / 453 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type01",
+          "area": "72.33 m² / 779 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type02",
+          "area": "58.09 m² / 625 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type01",
+          "area": "133 m² / 1,432 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type02",
+          "area": "79.52 m² / 856 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch · portal reference",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal reference",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published mix",
+          "value": "754 apartments: 528 studios, 168 one-bedroom, 55 two-bedroom, one one-bedroom Royal Suite and two two-bedroom Royal Suites; plus 17 retail stores. These are scheme counts, not current availability.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Building configuration",
+          "value": "2 basements + ground + 4 podium levels + 14 residential floors + roof.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The six published plan samples are total home areas including balconies; not net internal areas, inventory-wide ranges or contract-specific measurements. Published square-foot values are rounded independently. Royal Suite dimensions require their own plans.",
+        "Current availability, exact price, dated payments, completion certification, selected-home specifications, service/cooling charges and legal eligibility were not independently established. No tax treatment, visa entitlement or rental yield is promised.",
+        "Brochure renders and material palettes are illustrative; lobby finishes and apartment finishes differ. Obtain the final selected-unit specification and sales agreement."
+      ]
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "azizi-project-06",
+  "name": "Azizi David",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi David combines apartments and rooftop penthouses in Al Jaddaf, with retail, shared leisure facilities and varied outdoor layouts. Selected penthouse plans include private pools.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 824000,
+    "handover": null,
+    "paymentPlan": "50/50 · branded reference",
+    "amenities": [
+      "Cinema",
+      "Gym",
+      "Swimming pools",
+      "Children’s play area",
+      "Multipurpose room",
+      "Retail",
+      "Parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/azizi-david/AZIZI_DAVID_BROCHURE.pdf",
+    "floorPlanUrl": "https://storage.googleapis.com/xdil-qda0-zofk.m2.xano.io/vault/ZZLvFZFt/9_miLapH_oNZJw-auQ2dm-g-zXg/QACZ7A../Azizi%20David%20Floorplans.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "brochure",
+          "label": "Azizi-branded David 25-page brochure · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/azizi-david/AZIZI_DAVID_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "facts",
+          "label": "Azizi-branded David factsheet · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/azizi-david/AZIZI_DAVID_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "Azizi-branded David 73-page individual plans · broker mirror",
+          "url": "https://storage.googleapis.com/xdil-qda0-zofk.m2.xano.io/vault/ZZLvFZFt/9_miLapH_oNZJw-auQ2dm-g-zXg/QACZ7A../Azizi%20David%20Floorplans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "payment",
+          "label": "Azizi-branded David prices and 21-stage relative calendar · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/azizi-david/AZIZI_DAVID_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: David 2027 date and differing commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-david",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: DavidQ 3 2028 date and 70/30 summary",
+          "url": "https://www.bayut.com/for-sale/apartments/dubai/al-jaddaf/azizi-david/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure",
+          "plans"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts",
+          "plans"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "price": [
+          "payment",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder",
+          "bayut"
+        ],
+        "handover": [
+          "finder",
+          "bayut"
+        ],
+        "units": [
+          "brochure",
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "facts",
+          "plans",
+          "payment"
+        ],
+        "overview": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact David covers and JADAF/PROJECT 4 individual plans reviewed; not Jaddaf Beach Oasis despite an indexed portal PDFmisfile. Official project site 403/429; no inaccessible page claims.",
+        "location": "Own-branded factsheet identifies Al Jaddaf creekside setting; map/time marketing not converted into a universal view/walkable-access claim.",
+        "residences": "Studio/one/two-bedroom brochure families and roof-floor 3/4-bedroom penthouse plans visually checked; retail separate from homes.",
+        "areas": "Brochure pages 22–23 and individual plans pages 3,8,65,66 visually read at 1700–1750 px; suite vs balcony vs total distinguished. All 73 planpages reviewed as overview contact sheets, selected numeric panels enlarged.",
+        "amenities": "Factsheet pages 1–2 visually read. Pool/private-pool scope qualified; no operational amenity guarantee.",
+        "pricing": "Branded 824 kstudio/1.3 monebed/1.7 mtwobed reference not a current quote; PDFhas no visible issue date.",
+        "payment": "Own-branded 21-stage sheet visually read; total 100 verified. Relative 30–570-day milestones retained separately from contradictory PF 10/60/30 and Bayut 70/30.",
+        "handover": "PFDecember 2027 versus BayutQ 3 2028 unresolved; card remainsnull, no progress inferred.",
+        "documents": "25 pbrochure,2 pfacts,73 pplans and 2 pcommercial sheet downloaded. Brochure/facts/plans pooled 200 including overlap; commercial source separate 190. No gated forms."
+      },
+      "community": "Al Jaddaf",
+      "overview": [
+        "A penthouse terrace can account for more than half a quoted total. Compare enclosed accommodation and outdoor maintenance responsibilities before treating an apartment and a roof-level home as equivalent."
+      ],
+      "locationNote": "Al Jaddaf, Dubai, in the creekside district. Actual views, transport access and road connections depend on the selected apartment.",
+      "priceLabel": "Undated branded price reference",
+      "priceNote": "The Azizi-branded sheet lists studios from AED 824,000, one-bedroom homes from AED 1.3 million and two-bedroom homes from AED 1.7 million. It carries no visible issue date and permits changes. Property Finder separately retains AED 829,000 in its FAQ and changes its displayed unit selection; none establishes current stock.",
+      "paymentNote": "The branded calendar totals 100%:10% on booking, 10% after 30 days, 1% monthly at the intervening stages, 5% at 210, 390 and 570 days, and 50% on handover. All day counts run from booking. Property Finder instead shows 10/60/30 and Bayut 70/30; those are separate published offers. Confirm the selected unit’s current signed terms and fees.",
+      "handoverNote": "Property Finder targets December 2027/Q4 2027; Bayut gives Q3 2028. No later primary completion notice or contract resolves these references. Do not treat either forecast as actual completion or key delivery.",
+      "units": [
+        {
+          "label": "Studio Type 1 · brochure sample",
+          "area": "326.26 sq ft total; 262.96 suite.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 1 · brochure sample",
+          "area": "650.36 sq ft total; 523.67 suite.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 1 · brochure sample",
+          "area": "843.04 sq ft total; 757.79 suite.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Penthouse Type 01 · 1601",
+          "area": "3,474.73 sq ft total; 1,683.49 apartment +1,791.24 outdoor.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Penthouse Type 02 · 1602",
+          "area": "2,819.09 sq ft total; 1,326.88 apartment +1,492.21 outdoor.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reference · booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 30",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 60",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 90",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 120",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 150",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 180",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 210",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 240",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 270",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 300",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 330",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 360",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 390",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 420",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 450",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 480",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 510",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 540",
+          "percent": 1,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · day 570",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · handover",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Brochure studio sample says floors 11–13; the corresponding 326.26 sq ft technical example says 14–15. Confirm the selected unit’s approved plan.",
+        "Property Finder labels ownership leasehold in its key facts but freehold in its FAQ. Title rights require primary verification.",
+        "Current live availability, approved service/cooling charges, furnishing, parking allocation, construction status and private-pool responsibilities were not verified. Published sizes include outdoor space. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "id": "union-properties-project-01",
+  "name": "Mirdad",
+  "developerSlug": "union-properties",
+  "fields": {
+    "description": "Mirdad brings four residential towers and a shared retail setting to Motor City. Studios, apartments and garden lofts offer different ways to use the space, supported by places to exercise, work and spend time outdoors.",
+    "areaId": "dubai-motor-city",
+    "location": "Motor City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": null,
+    "handover": "Q4 2028",
+    "paymentPlan": null,
+    "amenities": [
+      "Lap pool",
+      "Padel courts",
+      "Gyms",
+      "Indoor cinema",
+      "Golf simulator",
+      "Coworking space",
+      "Children’s play areas",
+      "Pet parks",
+      "Yoga lawn",
+      "Community clubhouse"
+    ],
+    "brochureUrl": "https://up.ae/?jet_download=1890b1d4e85d721700554562981bf7fd0d5d3024",
+    "floorPlanUrl": "https://up.ae/?jet_download=4140c49ccbedafc6da39783915f43d33decc3d9c",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Mirdad: developer project and public layouts",
+          "url": "https://up.ae/mirdad/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "release",
+          "label": "Mirdad: original launch release, 30 October 2025",
+          "url": "https://up.ae/wp-content/uploads/2026/04/PR-Union-Properties-Mirdad-English-30-Oct-2025.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "groundbreaking",
+          "label": "Mirdad: issuer groundbreaking release, 12 December 2025",
+          "url": "https://feeds.dfm.ae/documents/2025/Dec/11/76b5335a-00e8-4888-bd73-74459071925b/News%20Brief-%20Union%20Properties%20breaks%20ground%20Mirdad%20another%20flagship%20community%20development%20in%20Motor%20City-%20English.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "Mirdad: original 26-page developer brochure",
+          "url": "https://up.ae/?jet_download=1890b1d4e85d721700554562981bf7fd0d5d3024",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "facts",
+          "label": "Mirdad: original two-page factsheet, broker mirror",
+          "url": "https://www.dubai-immobilienwelt.com/pdf/Mirdad_Fact_Sheet.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans1",
+          "label": "Mirdad 1: original developer layouts",
+          "url": "https://up.ae/?jet_download=4140c49ccbedafc6da39783915f43d33decc3d9c",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans2",
+          "label": "Mirdad 2: original developer layouts",
+          "url": "https://up.ae/?jet_download=8cdced65ee1c3fd95770a524a9f13a7e3d647653",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans3",
+          "label": "Mirdad 3: original developer layouts",
+          "url": "https://up.ae/?jet_download=b5aaaddd7fcc5c9917b884bafdcafde7f4a5cef2",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans4",
+          "label": "Mirdad 4: original developer layouts",
+          "url": "https://up.ae/?jet_download=c3e8221e8ef56790ae973c9f89dd795683ada294",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 15
+        },
+        {
+          "id": "guide",
+          "label": "Mirdad: attributed launch schedule and dated register summary",
+          "url": "https://www.mitchellscommercialrealty.com/projects/mirdad",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "portal",
+          "label": "Mirdad: Property Finder catalogue",
+          "url": "https://www.propertyfinder.ae/en/new-projects/union-properties-p-j-s-c/mirdad",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "release"
+        ],
+        "areaId": [
+          "release"
+        ],
+        "location": [
+          "release"
+        ],
+        "emirate": [
+          "release"
+        ],
+        "type": [
+          "release"
+        ],
+        "bedrooms": [
+          "release"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "release",
+          "groundbreaking"
+        ],
+        "paymentPlan": [
+          "developer",
+          "portal",
+          "guide"
+        ],
+        "amenities": [
+          "release"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans1"
+        ],
+        "community": [
+          "release"
+        ],
+        "overview": [
+          "plans1",
+          "plans2",
+          "plans3",
+          "plans4"
+        ],
+        "locationNote": [
+          "release"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "paymentNote": [
+          "developer",
+          "portal",
+          "guide"
+        ],
+        "handoverNote": [
+          "developer",
+          "release",
+          "groundbreaking"
+        ],
+        "units": [
+          "plans1",
+          "plans2",
+          "plans3",
+          "plans4"
+        ],
+        "paymentStages": [
+          "guide"
+        ],
+        "facts": [
+          "facts",
+          "release",
+          "groundbreaking",
+          "guide"
+        ],
+        "unresolved": [
+          "plans1",
+          "plans4",
+          "developer"
+        ]
+      },
+      "community": "Motor City",
+      "overview": [
+        "Plus layouts include multipurpose rooms; loft totals include their stated garden areas."
+      ],
+      "locationNote": "Motor City, Dubai. The developer cites Hessa Street and Sheikh Mohammed bin Zayed Road; future transport illustrations are not operating-service guarantees.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "The project section shows AED 999,000; its top banner shows AED 2,796,000, while Property Finder retains AED 763,000 launch pricing. Confirm a dated unit offer.",
+      "paymentNote": "Broker launch reference below; original payment document unavailable. Developer 50/50 differs from Property Finder’s 60/40.",
+      "handoverNote": "Q4 2028 is the developer target, repeated in the December 2025 issuer release. It is a forecast, not completion confirmation.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "377.38–510.86 ft²",
+          "sourceIds": [
+            "plans1",
+            "plans4"
+          ]
+        },
+        {
+          "label": "1BR",
+          "area": "628.07–977.15 ft²",
+          "sourceIds": [
+            "plans1",
+            "plans2",
+            "plans3",
+            "plans4"
+          ]
+        },
+        {
+          "label": "1BR plus",
+          "area": "760.69–1,080.91 ft²",
+          "sourceIds": [
+            "plans1",
+            "plans2",
+            "plans3",
+            "plans4"
+          ]
+        },
+        {
+          "label": "2BR",
+          "area": "997.71–1,640.85 ft²",
+          "sourceIds": [
+            "plans1",
+            "plans2",
+            "plans3",
+            "plans4"
+          ]
+        },
+        {
+          "label": "2BR plus",
+          "area": "1,236.24–1,757.53 ft²",
+          "sourceIds": [
+            "plans2",
+            "plans3"
+          ]
+        },
+        {
+          "label": "3BR",
+          "area": "1,450.65–2,262.25 ft²",
+          "sourceIds": [
+            "plans2",
+            "plans3"
+          ]
+        },
+        {
+          "label": "Loft: 1–3BR",
+          "area": "895.88–3,169.11 ft²",
+          "sourceIds": [
+            "plans1",
+            "plans2",
+            "plans3",
+            "plans4"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "30 April 2026",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "31 October 2026",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "30 April 2027",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 70% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "At 85% construction",
+          "percent": 5,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "Completion: Q4 2028",
+          "percent": 50,
+          "sourceIds": [
+            "guide"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original residential mix",
+          "value": "1,087: 60 studios, 524 one-bedroom, 380 two-bedroom, 105 three-bedroom and 18 lofts/duplexes.",
+          "sourceIds": [
+            "facts",
+            "release"
+          ]
+        },
+        {
+          "label": "Tower heights: M1 / M2 / M3 / M4",
+          "value": "G+19 / G+31 / G+39 / G+13.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Masterplan scale",
+          "value": "Plot 356,931 ft²; built-up area 2,241,323 ft²; GFA 1,243,845 ft².",
+          "sourceIds": [
+            "facts",
+            "release"
+          ]
+        },
+        {
+          "label": "Parking: different published programmes",
+          "value": "Factsheet: 1,235 cars, 84 bicycles. December 2025 release: 1,294 car spaces, 647 with EV charging.",
+          "sourceIds": [
+            "facts",
+            "groundbreaking"
+          ]
+        },
+        {
+          "label": "Reported construction snapshot",
+          "value": "Broker: 6.02% on 28 September 2026; original DLD inspection report unretrieved.",
+          "sourceIds": [
+            "guide"
+          ]
+        }
+      ],
+      "unresolved": [
+        "M1/M4 three-bedroom lofts print suite 178.86 m² plus garden 44.05 m², but total 224.91 m². Obtain corrected unit schedules.",
+        "HTML tables contain transcription errors. Confirm approved areas, furnishing, charges, parking and stock; imagery is illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected union-properties-project-01 Mirdad, fourtower mastercommunity not Takaya. Ownpage has strayTAKAYA subheading/globalhero; excludedotherprojectprose.30Oct2025primarylaunchPDF4p exactidentity. Sourcefacts60+524+380+105+18=1087 matchesissuer.",
+        "location": "Primaryownlaunch explicitlyMotorCity andHessaStreet/E311, exactregistrydubai-motor-city. Nofuturemetrodate/guaranteedjourneys/coordinates inferred.",
+        "residences": "Studio,1BR/1BRplus,2BR/2BRplus,3BR and1–3BRlofts documented originalfourpack plans44/60/64/44pages. Plusroom not extraapprovedbedroom. Wholeloftupper/lowerareasnotaddedagain. Mastercountnotcurrentstock.",
+        "areas": "Actualodd-pagefullfamilytablesallfourpacks visuallyread:22+30+32+22=106numericpanels, plusM1upperfloor2/10/20/28 actualtotals. Sevenpublicfamilies preservewhole originalprintedranges, M3p1one628.07, M2p7one977.15, M2p9plus1080.91,M3p23two1640.85,M2p35twoplus1236.24,M3p45twoplus1757.53,M2p43three1450.65,M3p55three2262.25,M3p63loft3169.11. M1/M4p43suite178.86+44.05=222.91 notprinted224.91;ft1946.76+474.15=2420.91. OwnHTML1BR1A777.46versusPDF774.46 and2BR1Bm2mistakes notadopted; sourceconflictsdisclosed. Roomdimensionsnotpublishedasnewmeasurements.",
+        "amenities": "Actual26pbrochure17/18 fullvisual andfacts2, officiallaunchPDF1/2 supportlap/padel/gyms/cinema/golf/cowork/play/pet/yoga/clubhouse. No health-outcomeclaims,furnishingrenderguarantee oruniversalprivatepool.",
+        "pricing": "Currentownproject999k versusglobalbanner2796k andPF763klaunch conflict. HeadlineNULL ratherthanassumecurrentstock. Earlierbroker799klaunchpresentationnotretrieved due403, notadoptedasverifiedPDFprice.",
+        "payment": "Ownshows50/50, PF60/40. AttributedMitchelllaunchreference20+six5+50=100, dates30Apr26/31Oct26/30Apr27 then50/70/85construction. OriginaldatedcommercialPDFnotretrieved; publictableexplicitsecondaryreference only. No separatefeesinferred. Promotional20/80/30/70elsewherenotmerged.",
+        "handover": "OwnprojectQ42028 plusactual30Oct2025launchPDF3 and12Dec2025DFMgroundbreakingPDF1 agreeforecast. DFMreleasepublishesphysicalgroundbreakingbutnoconstructioncompletioncertificate. Brokerreports6.02%inspection28Sep2026, explicitlynotdirectDLDverification. PF0.27%Oct2025oldernotcurrent.",
+        "documents": "Exactvisibleownjet_downloadlinksnormalGET200:brochure26p17501426bytes,T1plans44p20874474,T2plans60p24924679,T3plans64p26273647,T4plans44p19121280. Originaltwofacts5752743bytesbrokermirror andofficiallaunch/DFMrelease PDFs downloadedactualnumericread. Tablescontactsbounded1500x1300;representativefullplansbounded1600h. RelatedPDF/mirrorsandbrokerlaunchretelling pooled200 (broch20facts20T1/2/3 25eachT4 15guide70). Noforms/challengebypass. Corporategeneric0. Missingoriginalpaymentdocumenthonest."
+      }
+    }
+  }
+}

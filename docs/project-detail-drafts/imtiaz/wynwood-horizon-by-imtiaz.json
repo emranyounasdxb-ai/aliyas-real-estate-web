@@ -1,0 +1,254 @@
+{
+  "id": "imtiaz-project-10",
+  "name": "Wynwood Horizon by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Wynwood Horizon is a lagoon-facing apartment development in Meydan Horizon. Its podium brings together residences, retail and leisure spaces, with larger homes on the upper floors.",
+    "areaId": "dubai-meydan-horizon",
+    "location": "Meydan Horizon",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "May 2028",
+    "paymentPlan": "60/40 published reference",
+    "amenities": [
+      "Adult and children’s pools",
+      "Clubhouse",
+      "Gym",
+      "Outdoor cinema",
+      "Barbecue area",
+      "EV charging",
+      "Landscaped courtyard",
+      "Sunken seating",
+      "Children’s zone"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/75472960043a4e79962695fb75da9dff.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/89450fb7d72d421480ce9b6ea21c311e.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wynwood Horizon: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/wynwood-horizon-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Wynwood Horizon: branded37-page brochure, broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/75472960043a4e79962695fb75da9dff.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "Wynwood Horizon: branded23-page building plans, broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/89450fb7d72d421480ce9b6ea21c311e.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Wynwood Horizon unit catalogue",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/wynwood-horizon",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "indexed-facts",
+          "label": "Wynwood Horizon branded factsheet: indexed text only; visual unavailable",
+          "url": "https://mayors.co.il/wp-content/uploads/2025/08/IMTIAZ_Wynwood-Horizon-Factsheet.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "description": [
+          "brochure",
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "units": [
+          "finder",
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "plans"
+        ],
+        "unresolved": [
+          "developer",
+          "finder",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected10WynwoodHorizon inMeydanHorizon not15Wynwood onDubaiIslands. Actual37pbrochuretitleand23pbuildingpackmatch ownbody. PFgeographicFAQincorrectlysaysDubaiIslands/Wynwood, excluded; primaryMeydanHorizoncorrect. Indexedfacts104/49/6+7retail numbersnotvisuallyread so notadopted asverifiedcount.",
+        "location": "Actualownmainbody explicitlyheartofMeydanHorizonsmasterplan; exactdubai-meydan-horizon/nameMeydanHorizon. FAQbroadMeydan consistent; PFbuildinglocationBukadra notsilentlysubstitutedforcommunity. Futuremetroclaimnotexistingoperatingstation; nofixedjourneytimes/coordinates.",
+        "residences": "OwnFAQ1/2/select3BR; finished/moveinready describesfuturefitoutnotcompletedconstruction. OwnquestionAreResidencesFurnishedansweronlyfinished,kitchens,appliances,smartcontrols notexplicitfurnitureinventory so noassumedfullyfurnishedpromise. Actual23pplans2–23allviewed retailground/podium and1/2residences,16/17threebed,18/roofthreebedpenthouse; no doubledwholeareas.",
+        "areas": "All37brochurepagesextracted; noaggregateunitareatable. All22actualfloorplatesread; noaggregateindividualareatable. PFactualHTMLdetailResult1BR700–755,2BR1211–1437,3BR1840–2003 assecondaryguidesonly. Penthouseareaunstated; no standard3BRrangeassignedtopenthouse. Indexedfactsminimum700/1211/1840machineonly notusedasprimaryvisualevidence.",
+        "amenities": "Actualbrochure36tenfacilitiesandownFAQverified; selectedsharedamenitiespublic. Actualplan7gymclubhouse/poolfirstfloor. EVchargingandcourtyardfromprimary. No guaranteeoflagoonviewsforallunits; nohealthbenefitclaim.",
+        "pricing": "Ownpagehasnoquotedstartingprice, PF1800209launchandSoldOut. HeadlineNULL; portalreferenceattributednotstockquotation. Indexedfacts1.69mhistoricextractnotactualvisualpanel so notadoptedverifiedprimaryprice. Noservicecharge/discountinvented.",
+        "payment": "OwnFAQ20booking+40instalments+40completionMay2028=100, PFsame. Indexedfactsexactseveninstalments5+10+5+5+5+5+5=40 machineextractonly, noexactdateddaycalendarpublicbecauseallfactsretrieval403/largewebPDF. Noassumedeligibility/newbookingschedule.",
+        "handover": "OwnFAQMay2028/headerQ22028andPF31May2028agree asforecastnotguarantee. ActualordinaryownHTMLprogress14overall/92substructure/1superstructure/0MEP/0finishing, undatedwebsite snapshot; indexedwebsearch9/82oldernotadoptedcurrent. Noindependentcertification.",
+        "documents": "OwnHTML200 brochure/facts/plansbuttonsleadmodal; noforms orendpointguess. CasadiorpublicHTMLactualReellyURLsretrieved37p8182296bytesbrochure/23p6418647bytesfloorpackordinary200; alltextreviewed and22actualfloorplates2–23readplusbroch10/32/36. Mayorsfactsordinary403,DOM403,Jiwakgated403; webMayors17.6MBtooLargeandcannotrender; factsreviewtextonly withnumericclaimsnotimported. Offplanbazaarfactnamedimagesactuallyrendersnotnumericfacttable, excludedasnumericproof. Sourcepool200alloverlapbrochure70/plans130; indexedfacts0publicderivation."
+      },
+      "community": "Meydan Horizon",
+      "overview": [
+        "Retail occupies the lower levels. The building pack distinguishes ordinary three-bedroom homes from upper-level penthouses."
+      ],
+      "locationNote": "Meydan Horizon, Dubai; confirm the selected home’s orientation and lagoon access.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "The developer publishes no starting price here. Property Finder’s AED 1,800,209 launch reference is not current inventory; its developer release is marked sold out.",
+      "paymentNote": "Published reference: 20% booking, 40% instalments and 40% completion. Confirm the selected unit’s calendar and eligibility.",
+      "handoverNote": "Developer target May 2028, corroborated by Property Finder; completion unverified.",
+      "units": [
+        {
+          "label": "1BR: portal guide",
+          "area": "700–755 ft²",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "2BR: portal guide",
+          "area": "1,211–1,437 ft²",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3BR: portal guide",
+          "area": "1,840–2,003 ft²",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3BR penthouse: primary building plans",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction instalments",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion target: May 2028",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building levels",
+          "value": "Ground, four podiums, 18 residential floors and roof, per building pack.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Fit-out",
+          "value": "Custom kitchens, appliances and smart controls; confirm furniture inventory separately.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "14% overall; 92% substructure; 1% superstructure; MEP and finishing 0%. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Primary building plans omit individual total areas. Portal ranges do not identify penthouse measurements.",
+        "The portal incorrectly mentions Dubai Islands in places; the developer identifies Meydan Horizon.",
+        "Confirm residence count, furnishings, charges, parking, current stock and approved specifications. Photography is illustrative."
+      ]
+    }
+  }
+}

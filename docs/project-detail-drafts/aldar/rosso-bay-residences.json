@@ -1,0 +1,202 @@
+{
+  "id": "aldar-project-28",
+  "name": "Rosso Bay Residences",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Rosso Bay Residences is Aldar’s beachfront residential development on Al Marjan Island in Ras Al Khaimah. Its resort-inspired setting combines apartments and larger residences with beachside lounges, leisure facilities and spaces for residents to work and gather.",
+    "areaId": "rak-al-marjan-island",
+    "location": "Al Marjan Island",
+    "emirate": "Ras Al Khaimah",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1760000,
+    "handover": "Q4 2028 · reported",
+    "paymentPlan": "60/40 · brochure",
+    "amenities": [
+      "Beach clubhouse",
+      "Beach lounge",
+      "Beach sports",
+      "Convenience retail",
+      "Co-working spaces",
+      "Games room",
+      "Indoor and outdoor children’s play",
+      "Library",
+      "Outdoor gym",
+      "Sauna and treatment room",
+      "Splash pad",
+      "Swimming pool",
+      "Yoga deck",
+      "Family lounge"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/rosso_bay_brochure_en.pdf/645a7588ce9b11f0a4824e47afc2fc16",
+    "floorPlanUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/rosso_bay_brochure_en.pdf/645a7588ce9b11f0a4824e47afc2fc16",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Rosso Bay Residences",
+          "url": "https://www.aldar.com/properties/en/uae/ras-al-khaimah/rosso-bay-residences",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "presentation",
+          "label": "Aldar: combined Nikki Beach / Rosso Bay presentation, Rosso pages 35–49",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/rosso_bay_brochure_en.pdf/645a7588ce9b11f0a4824e47afc2fc16",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Rosso Bay project terms",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/rosso-bay-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Rosso Bay Residences building guide",
+          "url": "https://www.bayut.com/buildings/rosso-bay-residences/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "official"
+        ],
+        "location": [
+          "official",
+          "bayut"
+        ],
+        "type": [
+          "presentation"
+        ],
+        "bedrooms": [
+          "presentation"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "presentation"
+        ],
+        "units": [
+          "presentation"
+        ],
+        "documents": [
+          "presentation"
+        ],
+        "paymentPlan": [
+          "presentation",
+          "finder",
+          "bayut"
+        ],
+        "handover": [
+          "presentation",
+          "finder",
+          "bayut"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Aldar project verified; combined presentation Rosso section kept separate from Nikki section.",
+        "location": "Al Marjan Island, Ras Al Khaimah confirmed in project-specific sources.",
+        "residences": "Rosso table distinguishes apartments and penthouses; Nikki five-bedroom types not imported.",
+        "areas": "Official presentation page 36 average-area table visually checked, with terrace-inclusive definition preserved.",
+        "amenities": "Facilities taken from own developer page; hotel-style extras not assumed complimentary.",
+        "pricing": "Official presentation starting-price table visually checked; brochure basis distinguished from live stock.",
+        "payment": "Presentation headline split corroborated by two portals; sub-stages attributed to portals.",
+        "handover": "Official year agrees with portal Q4 timing; quarter remains reported rather than guaranteed.",
+        "documents": "49-page official combined presentation downloaded; Rosso table, four plan plates and terms visually inspected."
+      },
+      "community": "Al Marjan Island",
+      "overview": [
+        "Rosso Bay’s shared spaces combine beachside recreation with quieter places to read, work and relax. A beach clubhouse and lounge sit alongside pools, play spaces and fitness facilities. Buyers should distinguish residential facilities from optional hospitality services when reviewing ongoing charges."
+      ],
+      "locationNote": "The development is on Al Marjan Island in Ras Al Khaimah. Bayut identifies Sheikh Mohammed Bin Salem Road (E11) as the wider connection. Check the exact building approach and beach access for the selected home.",
+      "priceLabel": "Brochure starting price",
+      "priceNote": "The developer presentation starts one-bedroom homes at AED 1.76m. The undated figure requires a fresh quotation.",
+      "paymentNote": "The brochure’s overall split is corroborated by Property Finder and Bayut, which report 10% booking, 50% construction instalments and 40% at handover. Unit-specific transfer balances can differ.",
+      "handoverNote": "The brochure gives 2028; both portals report Q4 2028. Obtain written confirmation for the selected unit.",
+      "units": [
+        {
+          "label": "1-bedroom apartment",
+          "area": "94 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment",
+          "area": "125 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "3-bedroom apartment",
+          "area": "200 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4-bedroom apartment",
+          "area": "320 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "4-bedroom penthouse",
+          "area": "304 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported",
+          "percent": 10,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        },
+        {
+          "stage": "During construction · reported",
+          "percent": 50,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Handover · reported",
+          "percent": 40,
+          "sourceIds": [
+            "finder",
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm current stock, price, charges, furnishing package and contractual completion date.",
+        "Published sizes are category averages including terraces; obtain the selected unit’s measured area schedule.",
+        "No dated official instalment calendar recovered; the detailed split is portal-reported.",
+        "Some portal tables mix five-bedroom sky terraces into Rosso; those are excluded because the official Rosso table lists one-to-four-bedroom homes."
+      ]
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": "emaar-project-10",
+  "name": "Greencrest",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Greencrest is an apartment development beside the golf landscape of Dubai Hills Estate. Emaar offers one to three bedroom homes with balconies and terraces. The official plans distinguish a taller Block A from a lower Block B, giving buyers a meaningful choice of floor level, outlook and outdoor-space proportions.",
+    "areaId": "dubai-hills-estate",
+    "location": "Dubai Hills Estate",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1743888,
+    "handover": "Q2 2029 reported",
+    "paymentPlan": "80/20 reported",
+    "amenities": [
+      "Indoor and outdoor gyms",
+      "Indoor and outdoor children’s play areas",
+      "Swimming pool",
+      "Children’s pool",
+      "Multi-use games court",
+      "Yoga deck",
+      "Barbecue area",
+      "Multipurpose hall",
+      "Seating deck"
+    ],
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Greencrest",
+          "url": "https://www.emaar.com/en/properties/greencrest-at-dubai-hills-estate",
+          "kind": "developer",
+          "derivedWords": 145,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: Greencrest brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_BROCHURE_f64d104e7b.pdf",
+          "kind": "official-document",
+          "derivedWords": 190,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "plans",
+          "label": "Emaar: Greencrest floor plans",
+          "url": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_FLOORPLANS_a355c75989.pdf",
+          "kind": "official-document",
+          "derivedWords": 180,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Greencrest project terms",
+          "url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/greencrest",
+          "kind": "portal",
+          "derivedWords": 110,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Greencrest payment and completion references",
+          "url": "https://www.bayut.com/for-sale/apartments/dubai/dubai-hills-estate/greencrest/",
+          "kind": "portal",
+          "derivedWords": 50,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "plans"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "official"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "official"
+        ],
+        "paymentPlan": [
+          "finder",
+          "bayut"
+        ],
+        "handover": [
+          "finder",
+          "bayut"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Greencrest official page matched to the existing Emaar record; no launch or stock-status assumptions from portal labels.",
+        "location": "Dubai Hills Estate and nearby mall, park, golf course, school and hospital verified in the project brochure and map.",
+        "residences": "One to three bedroom apartments confirmed by official page and plan booklet; Block A and B distinctions retained.",
+        "areas": "All 36 official floor-plan pages reviewed. Total-area ranges calculated separately by block and bedroom count; balconies included, not internal-only area.",
+        "amenities": "Brochure page 7 supplies the specific amenities; generic portal additions such as concierge and smart-home claims not imported.",
+        "pricing": "Current official units-from figure AED 1,743,888 retained; earlier AED 1.57 million key fact explicitly distinguished.",
+        "payment": "Property Finder and Bayut agree on reported 10/70/20. No developer-hosted dated payment sheet located in the page or brochure.",
+        "handover": "Property Finder June 2029 agrees with Bayut Q2 2029. Developer page/brochure do not give a contractual completion date.",
+        "documents": "Official 25-page brochure and 36-page floor-plan PDF downloaded and read. No imagery imported."
+      },
+      "community": "Dubai Hills Estate",
+      "overview": [
+        "The brochure combines neutral interiors with facilities for exercise, play and meeting neighbours. Dubai Hills Mall, Dubai Hills Park, the golf course and King’s College Hospital appear in its neighbourhood context. A golf-facing setting does not guarantee the same view from every apartment, so the unit’s orientation matters."
+      ],
+      "locationNote": "The project brochure places Greencrest within Dubai Hills Estate, with Al Khail Road and Umm Suqeim Street shown on its local map. GEMS International School, Dubai Hills Mall, the park and King’s College Hospital are nearby destinations. Check the route and travel time for the selected building rather than treating the marketing map as a walking-distance promise.",
+      "priceLabel": "Published units from",
+      "priceNote": "Emaar currently displays units from AED 1,743,888 while retaining an earlier AED 1.57 million starting-price statement. The published unit figure is used here as a dated reference; it is not a guarantee of remaining stock or a specific view or floor.",
+      "paymentNote": "Property Finder and Bayut report 10% at booking, 70% during construction and 20% on handover. The split below is portal-reported. Ask for the current dated schedule for the chosen unit, including any charges outside the purchase price.",
+      "handoverNote": "Property Finder reports June 2029 and Bayut reports Q2 2029. These references agree, but the reviewed developer page and brochure do not confirm a contractual completion date. The quarter shown remains a reported target.",
+      "units": [
+        {
+          "label": "1 bedroom · Block A",
+          "area": "773.71–847.34 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2 bedrooms · Block A",
+          "area": "1,265.84–1,543.12 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3 bedrooms · Block A",
+          "area": "1,877.12–1,927.50 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2 bedrooms · Block B",
+          "area": "1,270.25–1,359.59 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3 bedrooms · Block B",
+          "area": "1,735.03–1,820.61 sq ft total area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking, as reported",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction, as reported",
+          "percent": 70,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover, as reported",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building arrangement",
+          "value": "The official massing plan labels Block A G + P + 20 and Block B G + P.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Working from home",
+          "value": "The published three bedroom plans include a study; check its dimensions and the specific plan code when comparing units.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current unit availability: Property Finder labels the project sold out while Emaar displays units. No live inventory count is claimed.",
+        "Official dated payment schedule and contractual completion date.",
+        "Selected unit view, parking allocation, furnishing specifications, service charges and final quotation.",
+        "Official photographs are deferred; existing imagery is illustrative."
+      ]
+    },
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_BROCHURE_f64d104e7b.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_FLOORPLANS_a355c75989.pdf"
+  }
+}

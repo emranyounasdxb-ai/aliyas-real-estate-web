@@ -1,0 +1,171 @@
+{
+  "id": "azizi-project-08",
+  "name": "Azizi Leily",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Leily combines studios, one- and two-bedroom apartments and penthouses in Al Jaddaf. Its plans separate indoor area from balconies; shared facilities include a rooftop garden and cinema.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 828000,
+    "handover": null,
+    "paymentPlan": "10/40/50 · portal reference",
+    "amenities": [
+      "Adult and children’s pools",
+      "Gym",
+      "Sauna and steam room",
+      "Indoor and outdoor play areas",
+      "Cinema",
+      "Rooftop garden",
+      "Multipurpose hall",
+      "Accessible facilities"
+    ],
+    "brochureUrl": "https://bayut-production.s3.eu-central-1.amazonaws.com/file/1437929/6c5b96b8a96f4dc2934af99da9ae87db.pdf",
+    "floorPlanUrl": "https://jiwak.com/files/properties/053a4679c503fd26bbc687ffcb366aa815be60ae.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi Leily branded factsheet · Bayut-hosted mirror",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/file/1437929/6c5b96b8a96f4dc2934af99da9ae87db.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "plans",
+          "label": "Azizi Leily branded 81-page plan pack · broker-hosted mirror",
+          "url": "https://jiwak.com/files/properties/053a4679c503fd26bbc687ffcb366aa815be60ae.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Leily launch terms and conflicting dates",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-leily",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Developer host returned 403/429. Exact Leily branded factsheet and 81-pageplan pack reviewed; a differently named external brochure route was excluded.",
+        "location": "Al Jaddaf confirmed in branded factsheet and Property Finder; exact existing area mapping retained.",
+        "residences": "Studios, 1/2-bedroom apartments and penthouses verified. No inferred penthouse bedroom count.",
+        "areas": "Branded plans 3/5/11/30/55/63–67/70–75 visually inspected at 1700 px; encoded extraction ignored. Printed components, units and rounding checked.",
+        "amenities": "Factsheet page 2 visually read for pools, gym, play, cinema, garden and accessible facilities.",
+        "pricing": "PF 828 k historical launch guide and sold-out label attributed, not current availability.",
+        "payment": "PF 10/40/50 totals 100%; no primary dated calendar retrieved.",
+        "handover": "PFSeptember 2028 key information conflicts with December 2027 narrative; null headline.",
+        "documents": "Two-page branded factsheet and 81-page plans retrieved from public third-party hosts; pooledPDFallowance 200 words. No gated forms."
+      },
+      "community": "Al Jaddaf",
+      "overview": [],
+      "locationNote": "Al Jaddaf, near Dubai Creek. Confirm the exact residence’s outlook.",
+      "priceLabel": "Attributed launch guide · reconfirm",
+      "priceNote": "Property Finder publishes AED 828,000 as a launch guide and labels the collection sold out. This does not establish current stock or a selected-unit quote.",
+      "paymentNote": "Property Finder reports 10% booking, 40% construction and 50% handover. No current signed primary payment calendar was available; fees are separate.",
+      "handoverNote": "The same portal gives September 2028 in key information and 30 September 2028 in its timeline, but December 2027 in its narrative. A current primary contractual date was not retrieved, so the headline date is withheld.",
+      "units": [
+        {
+          "label": "Studio Type 03 B · unit 101",
+          "area": "400.96 sq ft total: 265.87 interior +135.09 balcony; 37.25 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01 B · units 218–1118",
+          "area": "644.01 sq ft total: 521.95 interior +122.06 balcony; 59.83 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01 B · unit 110",
+          "area": "1,369.07 sq ft total: 758.11 interior +610.96 balcony; 127.19 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01 A · units 1212–1312",
+          "area": "847.23 sq ft total: 757.36 interior +89.88 balcony; 78.71 sq m printed",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · at booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · during construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · on handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The branded factsheet describes freehold; Property Finder labels leasehold. Confirm legal tenure against the actual title and sale agreement rather than choosing between these conflicting labels.",
+        "The penthouse floor plate identifies two PH types without a numerical size schedule. Penthouse bedroom counts, areas and current release require the approved unit pack. The sampled 847.23 sq ft total differs from its printed components by 0.01 sq ft; rounding is retained.",
+        "Current availability, final price, payment dates, completion, furnishing, parking allocation and approved service charges remain unconfirmed. Areas include balconies. Images remain illustrative."
+      ]
+    }
+  }
+}

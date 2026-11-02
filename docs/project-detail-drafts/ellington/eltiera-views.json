@@ -1,0 +1,351 @@
+{
+  "id": "ellington-project-04",
+  "name": "Eltiera Views",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Eltiera Views is Ellington’s apartment development in Jumeirah Islands, with one- to four-bedroom homes and a shared four-level clubhouse overlooking the lakes.",
+    "areaId": "dubai-jumeirah-islands",
+    "location": "Jumeirah Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2200000,
+    "handover": "Q4 2029 · developer target",
+    "paymentPlan": "70/30 · published schedule",
+    "amenities": [
+      "Four-level clubhouse",
+      "Infinity-edge pool",
+      "Games areas",
+      "Outdoor children’s play",
+      "Fitness spaces",
+      "Steam and sauna rooms",
+      "Bicycle parking and repair",
+      "Water garden",
+      "Outdoor seating"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Eltiera%20Views/Launch/Eltiera%20Views%20-%20Slim%20Brochure.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/eltiera-views/ELTIERA_VIEWS_TOWER_1_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Eltiera Views project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/eltiera-views-jumeirah-islands",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "brochure",
+          "label": "Eltiera Views official slim brochure",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Eltiera%20Views/Launch/Eltiera%20Views%20-%20Slim%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "payment",
+          "label": "Eltiera Views official payment schedule",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Eltiera%20Views/Launch/Eltiera%20Views_Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans1",
+          "label": "Eltiera Views Tower 1 branded plans · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/eltiera-views/ELTIERA_VIEWS_TOWER_1_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "plans2",
+          "label": "Eltiera Views Tower 2 branded plans · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/eltiera-views/ELTIERA_VIEWS_TOWER_2_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "facts",
+          "label": "Eltiera Views branded factsheet · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/eltiera-views/ELTIERA_VIEWS_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Eltiera Views project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/eltiera-views",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer",
+          "plans1",
+          "plans2"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans1",
+          "plans2"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans1"
+        ],
+        "units": [
+          "plans1",
+          "plans2"
+        ],
+        "facts": [
+          "brochure",
+          "plans1",
+          "plans2"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact Eltiera Views project body and branded documents checked, distinct from Eltiera Heights. Four-tower masterplan appears in own brochure; no portal single-building field applied to whole development.",
+        "location": "Own project/community identifies Jumeirah Islands. Brochure narrative also uses Jumeirah Heights; retained as a location-label issue, not an invented second project.",
+        "residences": "One- to three-bedroom ordinary apartments and study layout; Tower 1 three-bedroom penthouses and Tower 2 four-bedroom penthouses checked against actual plans. Tower 3/4 sizes not assumed.",
+        "areas": "Primary30-page brochure fully text-read; actual configuration3/summary6/payment29 visually checked. Broker21-page Tower 1 and18-page Tower 2 packs text-read; all20 residential numeric panels7–16 visually read via full-resolution crops, two actual penthouse drawings read full size. Twelve unique families shown.",
+        "amenities": "Own project lists four-level clubhouse, infinity-edge pool, games, play, fitness, steam/sauna, water garden and bicycle provision. Planned features, not a statement of present operation.",
+        "pricing": "No primary current price quote found. Property Finder advertises AED 2.2 million and marks its project sold out; neither establishes available developer stock.",
+        "payment": "Actual one-page official sheet and brochure29 match:20+10+eight5+30=100. Secondary headline20/50/30 is consistent grouping, not a second offer.",
+        "handover": "Primary brochure3 givesQ4 2029 anticipated completion; portalDecember 2029 corroborates only a forecast. No actual handover evidence adopted.",
+        "documents": "Own brochure/payment retrieved successfully. Public branded Tower 1/Tower 2 floorplan and factsheet mirrors downloaded and labelled broker. No public Tower 3/4 individual pack retrieved in this review. Main construction button offered no usable dated report in saved HTML; no percentage inferred."
+      },
+      "community": "Jumeirah Islands",
+      "overview": [
+        "Four apartment towers share a clubhouse centred on work, leisure and well-being. The examples below identify Towers 1 and 2 explicitly; floor plans for later towers should be checked separately."
+      ],
+      "locationNote": "Jumeirah Islands, Dubai, as identified by the developer project page. The brochure narrative also uses Jumeirah Heights; confirm the registered plot and building on the selected contract.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder advertises AED 2.2 million and labels this project sold out. This is a historical/portal reference, not an available-unit quotation. Confirm any developer or resale opportunity separately.",
+      "paymentNote": "The primary schedule totals 100%, with 70% payable before completion and 30% on completion. Relative dates and construction triggers must match the selected contract; fees are separate.",
+      "handoverNote": "Q4 2029 is the developer brochure’s anticipated completion, consistent with Property Finder’s December 2029 estimate. It remains a forecast, not confirmed delivery.",
+      "units": [
+        {
+          "label": "Towers 1/2 · 1-bedroom A",
+          "area": "801.59 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 1-bedroom B",
+          "area": "833.99 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 1-bedroom C",
+          "area": "817.52 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 2-bedroom A",
+          "area": "1,259.49 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 2-bedroom B",
+          "area": "1,284.35 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 2-bedroom C",
+          "area": "1,221.49 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 2-bedroom + study",
+          "area": "1,404.80 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Towers 1/2 · 3-bedroom",
+          "area": "1,671.96 ft² total",
+          "sourceIds": [
+            "plans1",
+            "plans2"
+          ]
+        },
+        {
+          "label": "Tower 1 · 3-bedroom penthouse A",
+          "area": "5,727.58 ft² total",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Tower 1 · 3-bedroom penthouse B",
+          "area": "5,914.66 ft² total",
+          "sourceIds": [
+            "plans1"
+          ]
+        },
+        {
+          "label": "Tower 2 · 4-bedroom penthouse A",
+          "area": "5,984.63 ft² total",
+          "sourceIds": [
+            "plans2"
+          ]
+        },
+        {
+          "label": "Tower 2 · 4-bedroom penthouse B",
+          "area": "5,929.52 ft² total",
+          "sourceIds": [
+            "plans2"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "180 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Service charge reference",
+          "value": "Anticipated AED 21/ft²; confirm billing basis and final budget.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Penthouse plan differences",
+          "value": "Brochure three-bedroom penthouse range 5,509–5,694 ft² differs from Tower 1 drawings 5,727.58–5,914.66. Actual printed plan totals shown below, including occasional 0.01 ft² rounding.",
+          "sourceIds": [
+            "brochure",
+            "plans1"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current inventory, signed price, parking/furnishing and approved service-charge budget require a selected-unit quotation.",
+        "Tower 1/2 example layouts and building counts must not be copied to Towers 3/4. Complete later-tower individual plans remain to be obtained.",
+        "Brochure and detailed penthouse sizes differ; approved sale agreement and developer clarification are needed. No current construction percentage or actual handover confirmed."
+      ]
+    }
+  }
+}

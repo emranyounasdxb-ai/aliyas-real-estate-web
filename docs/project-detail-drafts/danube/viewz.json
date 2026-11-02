@@ -1,0 +1,215 @@
+{
+  "id": "danube-project-19",
+  "name": "Viewz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Viewz is Danube’s twin-tower residential project in Jumeirah Lake Towers, combining apartments with duplex Sky Villas and shared leisure facilities.",
+    "areaId": "dubai-jlt",
+    "location": "Jumeirah Lakes Towers",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": 950000,
+    "handover": null,
+    "paymentPlan": "30/70 · milestones unverified",
+    "amenities": [
+      "Swimming pool",
+      "Business centre",
+      "Cinema",
+      "Library",
+      "Gym",
+      "Kids’ play area",
+      "Spa",
+      "BBQ area"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/viewz/floor-plans/da9ac2bee40bfea4.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Viewz own project page",
+          "url": "https://danubeproperties.com/portfolio/viewz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Viewz developer-hosted brochure · 23 pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plans",
+          "label": "Viewz branded apartment and Sky Villa unit pack · public broker mirror, 21 pages",
+          "url": "https://www.madena.ae/api/assets/documents/projects/viewz/floor-plans/da9ac2bee40bfea4.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Viewz guide · older commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/viewz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "construction",
+          "label": "Danube Viewz internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/viewz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "official-sky",
+          "label": "Danube public Sky Villa plan ZIP · 24-page own pack",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/viewz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "brochure",
+          "developer",
+          "finder"
+        ],
+        "type": [
+          "developer",
+          "plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans",
+          "official-sky"
+        ],
+        "overview": [
+          "developer",
+          "brochure",
+          "construction"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "units": [
+          "plans",
+          "official-sky"
+        ],
+        "facts": [
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact Viewz own page/brochure and branded Tower 1/2 plan pack reviewed. Portal Viewz 2 distinct listing not silently substituted as a whole-project record.",
+        "location": "Brochure map and own JLT section establish Jumeirah Lake Towers. Own page also prints Dubai Marina in a generic location line; JLT primary map retained, not Marina. No exact coordinates or measured walking promise.",
+        "residences": "Own headline 1132 homes and Studio 1/2/3/4/5 SkyVilla mix. Branded 21-page pack separates apartment and duplex SkyVilla types with lower/upper floors.",
+        "areas": "All 21 contact pages and actual numeric 1 left/right,3 right,4 right,12/18 at 1500–1700 px inspected. Upper plans 13/19 checked; printed SkyVilla totals retained once, not doubled or presented as lower-floor area.",
+        "amenities": "Actual 23-page own brochure contact reviewed alongside own pool/cinema/library/business/gym/children’s list. Branding and pool entitlement not generalized to every unit.",
+        "pricing": "Own hero SOLD OUT but FAQ 950000; PF 950000 launch. Kept historical guide, no live availability or selected resale minimum inferred.",
+        "payment": "Official hero 30/70 versus 1%FAQ. PFolder 10/53/1/36 totals 100 but not current universal contract; no official dated schedule retrieved.",
+        "handover": "Own hero 2027 versusQ 22026 FAQ/PFJune 2026. September 2026 own 57%progress contradicts elapsed completion inference; handover null.",
+        "documents": "Own 23-page brochure and public Madena 21-page branded apartment/SkyVilla pack downloaded. Proprain returnedHTMLnotPDF and excluded; InvestinDXB TLS fail excluded. No forms or images. Public official Viewz floor-plan ZIP contains the own 24-page Sky Villa pack; actual pages 8/14 compared against mirror. Ordinary apartment plans remain broker-hosted branded material."
+      },
+      "community": "Jumeirah Lake Towers",
+      "overview": [
+        "The developer lists 1,132 homes and markets studios, one- to three-bedroom apartments and larger Sky Villas. Its public materials promote Aston Martin/Formitalia furnishings; the selected furnishing specification needs contractual confirmation.",
+        "Danube’s internal inspection dated 30 September 2026 reports 57% overall progress. This is a dated developer update, not independent regulatory certification or proof of handover."
+      ],
+      "locationNote": "Jumeirah Lake Towers, Dubai, as identified in the project brochure and developer’s JLT section. A conflicting Dubai Marina label on the same webpage is not used as the project’s community.",
+      "priceLabel": "Historical starting guide",
+      "priceNote": "The developer FAQ and Property Finder retain AED 950,000, while the developer hero says SOLD OUT. This is a historical starting reference, not current inventory or a selected-unit offer.",
+      "paymentNote": "The developer hero displays 30/70 without milestone dates, while its FAQ retains 1% monthly. Property Finder’s older schedule is 10% booking, 53% construction, 1% at handover and 36% after handover. These references are not interchangeable; obtain the selected unit’s current signed schedule and fees.",
+      "handoverNote": "The developer hero states 2027 but its FAQ and Property Finder retain Q2/June 2026. A developer inspection dated 30 September 2026 still reports construction progress. No completed handover or contractual date is established.",
+      "units": [
+        {
+          "label": "Studio Type A · Viewz 1/2",
+          "area": "401–420 ft² total / 335–336 apartment / 66–84 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type A · office",
+          "area": "737 ft² total / 594 apartment / 143 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A · pool",
+          "area": "1,051–1,061 ft² total / 801 apartment / 250–260 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · pool and maid’s room",
+          "area": "1,552 ft² total / 1,342 apartment / 210 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Sky Villa Type A · duplex",
+          "area": "3,360 ft² printed total / 2,591 apartment / 769 balcony",
+          "sourceIds": [
+            "official-sky"
+          ]
+        },
+        {
+          "label": "5-bedroom Sky Villa Type A · duplex",
+          "area": "5,761 ft² printed total / 3,615 apartment / 2,146 balcony",
+          "sourceIds": [
+            "official-sky"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Dated developer progress",
+          "value": "Danube reports 57% overall construction from its internal inspection on 30 September 2026. This is a dated developer statement, not an independent completion certificate.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Sky Villa totals are transcribed from the paired lower/upper-floor unit drawings and are not doubled. Balcony totals are not enclosed living space. Other variants require their own plans.",
+        "Current unit availability, furniture schedule, service/cooling charges, parking, title terms, dated commercial milestones and contractual handover remain unverified.",
+        "Private pools, lift, storage and maid’s rooms depend on the selected Sky Villa/layout; shared facilities and brand references do not prove universal entitlement or operation."
+      ]
+    }
+  }
+}

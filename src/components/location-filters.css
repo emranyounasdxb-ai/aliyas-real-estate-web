@@ -1,0 +1,196 @@
+/* Location controls share canonical geography, across home, catalogue and developer collections. */
+.site-frame .home-search.home-search-locations {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr) minmax(0, 1fr) minmax(0, 1fr) auto;
+  gap: 8px;
+}
+.home-search-locations > :is(.location-emirate-field, .location-area-field) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  min-width: 0;
+  padding: 16px;
+}
+.home-search-locations > label > span:first-child {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--muted);
+}
+.home-search-locations .brand-select-trigger {
+  min-height: 40px;
+}
+.site-frame .home-search-locations > .search-field {
+  padding: 16px;
+  border: 0;
+}
+.site-frame .home-search-locations > .search-field > svg {
+  display: none;
+}
+.site-frame .home-search-locations > .button {
+  padding-inline: 24px;
+}
+.home-area-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin-top: 16px;
+}
+.home-area-links > span {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+.home-area-links > a {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 44px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 9999px;
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 20px;
+}
+.home-area-links > a:is(:hover, :focus-visible) {
+  background: var(--surface);
+  border-color: var(--accent);
+}
+.site-frame .catalogue-browser-locations .catalogue-filters {
+  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) minmax(0, 1.35fr) minmax(0, 1fr) minmax(
+      0,
+      1fr
+    );
+}
+.site-frame .catalogue-browser-locations .catalogue-filters > label {
+  min-width: 0;
+  padding-inline: 12px;
+}
+.site-frame .catalogue-browser-locations .catalogue-filters .brand-select-trigger {
+  font-size: 14px;
+  line-height: 20px;
+}
+.location-active-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.location-active-filter button {
+  min-height: 44px;
+}
+.developer-location-filters {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr) auto;
+  gap: 16px;
+  align-items: end;
+  margin-block: 24px 16px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface);
+}
+.developer-location-filters > label {
+  min-width: 0;
+  display: grid;
+  gap: 8px;
+}
+.developer-location-filters > label > span:first-child {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+.developer-location-filters .location-reset,
+.developer-location-empty > button {
+  min-height: 48px;
+  padding: 8px 16px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  font:
+    500 14px/20px var(--font-manrope),
+    sans-serif;
+}
+.developer-location-count {
+  margin-bottom: 24px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 20px;
+}
+.developer-location-empty {
+  padding: 32px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  text-align: center;
+}
+.developer-location-empty h3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.developer-location-empty p {
+  max-width: 520px;
+  margin: 16px auto 24px;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--muted);
+}
+@media (min-width: 701px) and (max-width: 1100px) {
+  .site-frame .home-search.home-search-locations {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .site-frame .home-search-locations > .button {
+    grid-column: 1/-1;
+    min-height: 48px;
+  }
+  .site-frame .catalogue-browser-locations .catalogue-filters {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px 0;
+  }
+  .site-frame .catalogue-browser-locations .catalogue-filters .catalogue-search {
+    grid-column: 1/-1;
+    min-height: 48px;
+  }
+}
+@media (max-width: 700px) {
+  .site-frame .home-search.home-search-locations {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+    padding: 8px;
+  }
+  .home-search-locations > :is(.location-emirate-field, .location-area-field) {
+    padding: 12px;
+  }
+  .site-frame .home-search-locations > .search-field {
+    padding: 12px;
+  }
+  .site-frame .home-search-locations > .button {
+    min-height: 48px;
+    margin-top: 8px;
+  }
+  .home-area-links {
+    gap: 8px;
+  }
+  .home-area-links > span {
+    width: 100%;
+  }
+  .home-area-links > a {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px 12px;
+  }
+  .site-frame .catalogue-browser-locations .catalogue-filters > label:not(.catalogue-search) {
+    display: none;
+  }
+  .site-frame .catalogue-browser-locations .catalogue-filters .catalogue-search {
+    padding-inline: 0;
+  }
+  .developer-location-filters {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 16px;
+  }
+  .developer-location-empty {
+    padding: 24px 16px;
+  }
+}

@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-49","name":"Avelia","developerSlug":"emaar",
+ "fields":{
+  "description":"Avelia brings four and five bedroom villas to The Valley, with separate family rooms, guest accommodation and roof-level living spaces. The collection has its own 139-home launch mix. Three villa categories offer different amounts of built-up and outdoor space, so the individual plan matters more than a single headline size.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":7250000,"handover":"Q4 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Landscaped community spaces","Pool deck","Outdoor children’s play","Fitness areas","Multipurpose room","Pet park","Terrace trails and plateau views","Themed central park","Village market plaza","Falaj fountain","Viewing platform and stepped terraces","Sports courts","Oasis play area","Canopy walk"],
+  "brochureUrl":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_BROCHURE.pdf","floorPlanUrl":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_FLOORPLAN.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Avelia at The Valley","url":"https://www.emaar.com/en/properties/avelia-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Avelia brochure · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_BROCHURE.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":40},
+    {"id":"plans","label":"Avelia villa plans · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_FLOORPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Avelia fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_THE_VALLEY_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"payment","label":"Avelia payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Avelia","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/avelia","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Avelia’s official page confirmed. Its download buttons led to Ovelle-labelled documents, so separately named Avelia documents were located and reviewed; Ovelle is a different record.",
+    "location":"The Valley on Dubai–Al Ain Road, with community access described separately from specific villa positioning.",
+    "residences":"Four bedroom and five bedroom Medium/Premium villas; own Avelia fact sheet lists 139 homes, not Ovelle’s 133.",
+    "areas":"All seven Avelia plan pages read; Premium Type B visually checked. Exact BUA distinguished from category averages and average plot sizes.",
+    "amenities":"Official project page and Avelia fact sheet reviewed for proposed community facilities. Drawn pool and lift not represented as guaranteed inclusions.",
+    "pricing":"AED 7.25m official advertised starting price retained; launch category prices attributed separately, without asserting availability.",
+    "payment":"Avelia’s own payment sheet visually reviewed. Nine stages total 100%; the 90% construction stage is February 2029, distinct from Ovelle’s January date.",
+    "handover":"December 2029 estimate in the payment sheet agrees with Property Finder; contractual date remains unconfirmed.",
+    "documents":"Avelia-labelled brochure, floor plans, fact sheet and payment sheet are broker-hosted Emaar copies, explicitly attributed. Incorrect developer download targets excluded."
+   },
+   "community":"The Valley",
+   "overview":["Avelia’s brochure centres the design on gardens, terraces and quiet outdoor recreation. Warm materials and open living spaces connect the villas with a wider network of trails and landscaped gathering places."],
+   "locationNote":"The Valley is on the Dubai–Al Ain Road corridor. The launch sheet describes access through Jebel Ali–Lahbab Road and nearby reference destinations including the Rugby Sevens and Dubai Outlet Mall. Exact journey times depend on the villa entrance, route and traffic.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises prices from AED 7.25m. Avelia’s launch sheet lists four-bedroom villas from AED 7.25m, five-bedroom Luxury villas from AED 8.86m and Premium villas from AED 13.09m. The drawings call the middle category Medium. These are launch guide prices, not a current unit quotation.",
+   "paymentNote":"The launch schedule is 10% on booking, seven further 10% instalments and 20% at estimated completion. Construction triggers apply to later payments. Calendar instalments already past must be reconciled with a current purchase schedule.",
+   "handoverNote":"The reviewed payment sheet estimates completion in December 2029, also reported by Property Finder. Obtain the developer’s current programme and the contractual completion terms for the selected villa.",
+   "units":[
+    {"label":"4 bedroom villa · Type A","area":"4,334.73 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"4 bedroom villa · Type B","area":"4,355.72 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Medium villa · Type A","area":"5,669.88 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Medium villa · Type B","area":"5,639.42 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Premium villa · Type A","area":"7,728.37 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"5 bedroom Premium villa · Type B","area":"7,970.24 sq ft built-up area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2029 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Avelia launch mix","value":"139 villas: 54 four-bedroom, 55 five-bedroom Luxury and 30 five-bedroom Premium homes. Category-average plots are 6,273, 7,005 and 8,883 sq ft respectively; request the actual plot plan for a specific property.","sourceIds":["facts"]},
+    {"label":"Comparing sizes","value":"The fact sheet’s average BUAs of 4,346, 5,655 and 7,857 sq ft also appear in portal summaries. The individual drawings give the more precise type-specific areas listed above. BUA includes parking and outdoor components and is not plot size.","sourceIds":["facts","plans","finder"]},
+    {"label":"Villa arrangement","value":"Plans span ground, first and second floors, with a ground-floor guest bedroom, maid’s room and a roof lounge, pantry and terrace. Premium plans add a driver’s room and separate show kitchen. Lifts, pools and sunken seating appear in drawings; confirm their inclusion and finish specifications before purchase.","sourceIds":["plans"]},
+    {"label":"Document identity","value":"The developer page’s download links opened Ovelle-labelled files during review. The documents linked here instead carry Avelia’s name and its own key plans, collection mix and payment dates.","sourceIds":["official","brochure","plans","facts","payment"]}
+   ],
+   "unresolved":["Current villa availability and pricing need confirmation; Property Finder displays a sold-out label while the developer page retains a starting price.","Confirm the exact plot, lift/pool specification, landscaping, parking and any optional upgrades in the sale documents.","Current construction status, service charges and contractual handover are not independently established.","Avelia and Ovelle remain separate records even where their villa sizes overlap.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

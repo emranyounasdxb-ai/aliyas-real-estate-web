@@ -1,0 +1,216 @@
+{
+  "id": "aldar-project-21",
+  "name": "Gardenia Bay",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Gardenia Bay is Aldar’s canal-side residential community on Yas Island, opposite Yas Park. Its original apartment collection ranges from studios to three-bedroom homes, with shaded outdoor spaces and a waterfront promenade connecting daily life to the landscape.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 805000,
+    "handover": "2028 · latest reviewed pipeline",
+    "paymentPlan": "5/45/50 · original release",
+    "amenities": [
+      "Beach club",
+      "Swimming pool",
+      "Gym",
+      "Dog park",
+      "Meeting rooms",
+      "Private cinema",
+      "Mosque",
+      "Waterfront promenade"
+    ],
+    "brochureUrl": "https://almiraproperties.com/api/media/file/13-6.pdf",
+    "floorPlanUrl": "https://almiraproperties.com/api/media/file/13-6.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Gardenia Bay",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/gardenia-bay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Gardenia Bay launch, 30 August 2023",
+          "url": "https://www.aldar.com/en/news-and-media/ultimate-green-canal-side-living-at-gardenia-bay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar Gardenia Bay brochure, Almira-hosted copy",
+          "url": "https://almiraproperties.com/api/media/file/13-6.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Gardenia Bay",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/gardenia-bay",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "later",
+          "label": "Aldar: Gardenia Jasmine building 14 apartment reference",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/gardenia-bay/a2D8d000001UyeEEAS",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "pipeline",
+          "label": "Aldar: FY2025 project pipeline, page 27",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 12
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "launch"
+        ],
+        "overview": [
+          "official"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "launch",
+          "finder"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "launch",
+          "later",
+          "pipeline"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Aldar project and original launch reviewed; later releases are not treated as the same delivery tranche.",
+        "location": "Yas Island and position opposite Yas Park confirmed by Aldar’s launch release.",
+        "residences": "Original studio to three-bedroom apartments verified; later townhouse/expanded collections need separate unit confirmation.",
+        "areas": "Brochure pages 32–40 visually reviewed, including ten original layout area labels in square metres.",
+        "amenities": "Named amenities checked against the official project page.",
+        "pricing": "Original AED 805,000 starting price retained as historical launch information; portal headline and unit-type prices differ.",
+        "payment": "Property Finder reports 5/45/50 for the original release; no universal current schedule established.",
+        "handover": "Original Q2 2027 target checked against the launch release; later official unit references show 2028. Later FY2025 pipeline table visually reviewed and prioritised for headline.",
+        "documents": "Official CDN brochure returned 503; an Aldar-branded 50-page broker-hosted copy was downloaded and visually inspected. Floor plans are inside this brochure."
+      },
+      "community": "Yas Island · Gardenia Bay",
+      "overview": [
+        "The official presentation places shared facilities along the waterfront, with spaces for exercise, work and recreation. Apartment outlooks and walking distances vary by building; select the release and orientation before comparing homes."
+      ],
+      "locationNote": "Aldar locates the community opposite Yas Park, with connections toward Yas Mall, Ferrari World and SeaWorld. Check the selected building’s access rather than treating promotional travel times as a guaranteed commute.",
+      "priceLabel": "Original developer launch price",
+      "priceNote": "Aldar’s August 2023 launch began at AED 805,000 for studios and AED 3.1m for three-bedroom apartments. Property Finder currently mixes a higher headline asking reference with older unit-type prices. The displayed figure is historical, not a confirmed available offer.",
+      "paymentNote": "Property Finder’s original-release schedule is 5% at launch, 45% during construction and 50% on handover. Obtain the chosen building’s actual dated contract and paid-to-date balance; later phases may use different terms.",
+      "handoverNote": "Q2 2027 was the original first-phase estimate. Later Aldar unit references include Q3 2028 for Jasmine building 14. A single completion date should not be applied to every Gardenia Bay building. The later FY2025 pipeline gives 2028.",
+      "units": [
+        {
+          "label": "Studio · Types A / B",
+          "area": "43.828 / 45.625 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom · Middle / Corner",
+          "area": "73.467 / 70.780 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom · A Corner / A Middle / B Corner",
+          "area": "109.641 / 106.375 / 132.289 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom · A / B / C Corner",
+          "area": "153.224 / 145.533 / 179.719 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original launch booking",
+          "percent": 5,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 45,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Launch scope",
+          "value": "The 2023 announcement described 2,434 homes across the community, with 210 in the first release. These are masterplan and launch counts, not remaining availability.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Interior options",
+          "value": "The reviewed brochure presents light and dark palettes. Its original plans cover Rosa, Orchid, Ivy and Iris; later buildings require their own approved drawings.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the exact building, current sale status, price, fees, service charges and handover date.",
+        "Original brochure layouts do not cover every later Gardenia Bay release.",
+        "Official CDN download was unavailable during review; the linked brochure is a broker-hosted developer document.",
+        "Construction progress, final area and amenity opening dates are not independently certified here."
+      ]
+    }
+  }
+}

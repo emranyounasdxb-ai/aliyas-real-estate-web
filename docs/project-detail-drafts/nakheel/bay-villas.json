@@ -1,0 +1,275 @@
+{
+  "id": "nakheel-project-05",
+  "name": "Bay Villas",
+  "developerSlug": "nakheel",
+  "fields": {
+    "description": "Bay Villas brings five distinct home collections to Island B at Dubai Islands. The homes range from three-bedroom family layouts to six-bedroom beachfront residences. Landscaped parks, shared leisure spaces and the shoreline give the community its coastal setting; each collection has its own layout and specification.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": 4000000,
+    "handover": "Q2 2027 · published estimate",
+    "paymentPlan": "80/20 · historical plan; variants exist",
+    "amenities": [
+      "Beach and waterfront promenade",
+      "Community swimming pools",
+      "Clubhouse",
+      "Landscaped parks",
+      "Sports courts and fitness areas",
+      "Children's play areas and tot lots",
+      "Barbecue areas"
+    ],
+    "brochureUrl": "https://ggfx-providentestate.s3.eu-west-2.amazonaws.com/i/Bay_Villas_Brochure_32763d5c33.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/bay-villas/BAY_VILLAS_TOWNHOUSE_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Bay Villas developer microsite",
+          "url": "https://bayvillas.dubaiislands.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "beach",
+          "label": "Developer: six-bedroom Beachfront Villas",
+          "url": "https://bayvillas.dubaiislands.ae/beach-villas",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "contract",
+          "label": "Nakheel construction contract announcement, 18 August 2025",
+          "url": "https://www.nakheel.com/en/media-centre/press-releases/news-detail/2025/08/18/nakheel-awards-new-aed-2.6-billion-contract-to-develop-bay-villas-community-at-dubai-islands",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "townplans",
+          "label": "Nakheel-branded townhouse drawings, broker-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/bay-villas/BAY_VILLAS_TOWNHOUSE_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "waterplans",
+          "label": "Nakheel-branded waterfront villa drawings, broker-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/bay-villas/BAY_VILLAS_WATERFRONT_VILLA_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "payment",
+          "label": "Nakheel-branded payment sheet: two conflicting versions in one file, broker-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/bay-villas/BAY_VILLAS_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder: Bay Villas catalogue, historical guide and resale availability",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nakheel/bay-villas",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "brochure",
+          "label": "Bay Villas waterfront brochure, Provident-hosted branded copy",
+          "url": "https://ggfx-providentestate.s3.eu-west-2.amazonaws.com/i/Bay_Villas_Brochure_32763d5c33.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "beach",
+          "contract"
+        ],
+        "overview": [
+          "official",
+          "contract",
+          "townplans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "contract"
+        ],
+        "bedrooms": [
+          "official",
+          "beach",
+          "townplans",
+          "waterplans"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "payment",
+          "portal"
+        ],
+        "handover": [
+          "payment",
+          "portal"
+        ],
+        "units": [
+          "townplans",
+          "waterplans"
+        ],
+        "documents": [
+          "brochure",
+          "townplans",
+          "waterplans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Bay Villas on Island B distinguished from Bay Estate on Island E.",
+        "location": "Developer location reviewed; unmapped exact community retained with null areaId.",
+        "residences": "Five collections researched, including separately verified six-bedroom beachfront homes.",
+        "areas": "Own townhouse and waterfront plan tables visually inspected; sample built-up areas retained, never converted into plot areas.",
+        "amenities": "Developer community facilities checked; pool/landscape exclusions from plan disclaimer recorded.",
+        "pricing": "Historical AED 4m guide separated from AED 5m resale headline and sold-out status.",
+        "payment": "Both pages visually inspected; page 1 totals 100%, page 2 totals 95%; variant explicitly disclosed.",
+        "handover": "Own Q2 2027 estimate corroborated by portal June 2027 reference.",
+        "documents": "57-page waterfront brochure, 39-page townhouse plans, 18-page waterfront plans and two-page payment PDF downloaded; relevant tables/plans visually inspected."
+      },
+      "community": "Bay Villas · Island B · Dubai Islands",
+      "overview": [
+        "The developer identifies 636 homes across townhouses, semi-detached, garden, waterfront and beachfront villas. The waterfront and beachfront collections are distinct: a waterfront address does not establish that every property has direct beach frontage.",
+        "The reviewed townhouse drawings show several block and layout codes. Pool and landscape drawings are illustrative, and the plan disclaimer says these are not provided by the developer. Included works must be checked against the chosen unit specification."
+      ],
+      "locationNote": "Island B, Dubai Islands, is confirmed by the developer. Dubai Islands is not yet an exact location entry in the local taxonomy; no nearby area or invented coordinates have been substituted.",
+      "priceLabel": "Historical published starting price · reconfirm",
+      "priceNote": "Property Finder retains AED 4 million as its historical project guide while its live headline shows AED 5 million for the lowest advertised listing and marks developer stock sold out. These have different bases. AED 4 million is not a current developer offer or evidence of available stock.",
+      "paymentNote": "Page 1 of the reviewed branded sheet totals 100%: 15% booking, 65% dated instalments and 20% handover. Page 2 instead prints 10% for December 2025, producing a 95% total. The schedule below transcribes page 1, not a correction to page 2. Property Finder separately publishes 20/ 60/ 20. Current terms require a unit-specific signed schedule.",
+      "handoverNote": "The branded sheet gives estimated handover Q2 2027; Property Finder gives June 2027. No guarantee or unit-specific revised contractual date was established.",
+      "units": [
+        {
+          "label": "3-bedroom townhouse · TH4P.A.2",
+          "area": "3,409.36 sq ft built-up area",
+          "sourceIds": [
+            "townplans"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · TH6P.B.5",
+          "area": "3,401.61 sq ft built-up area",
+          "sourceIds": [
+            "townplans"
+          ]
+        },
+        {
+          "label": "4-bedroom townhouse · TH4P.A.1",
+          "area": "3,949.60 sq ft built-up area",
+          "sourceIds": [
+            "townplans"
+          ]
+        },
+        {
+          "label": "5-bedroom waterfront villa · WF5B.A",
+          "area": "7,260.80 sq ft built-up area",
+          "sourceIds": [
+            "waterplans"
+          ]
+        },
+        {
+          "label": "5-bedroom waterfront villa · WF5B.E",
+          "area": "6,690.52 sq ft built-up area",
+          "sourceIds": [
+            "waterplans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · historical page 1",
+          "percent": 15,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 July 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 December 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 June 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 December 2025 · page 1",
+          "percent": 15,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 June 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 December 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "On handover · estimated Q2 2027",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Community scale",
+          "value": "636 homes · five property collections",
+          "sourceIds": [
+            "contract"
+          ]
+        }
+      ],
+      "unresolved": [
+        "No current developer inventory, unit quotation or applicable resale payment balance verified.",
+        "The payment PDF contains a 100% page 1 and 95% page 2; obtain the contractual schedule before quoting instalments.",
+        "Garden, semi-detached and beachfront unit-specific registered areas and current specifications remain to be supplied."
+      ]
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "binghatti-project-09",
+  "name": "Binghatti Skyterraces",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Skyterraces introduces studios and one- to three-bedroom apartments in Motor City. Its connected building form is shaped by deep terraces and a shared leisure landscape. The official plan pack separates Tower A and Tower B, including layouts where outdoor space forms a substantial part of the advertised total.",
+    "areaId": "dubai-motor-city",
+    "location": "Motor City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 774999,
+    "handover": "December 2027 · broker-hosted guide",
+    "paymentPlan": "20/50/30 · published commercial reference",
+    "amenities": [
+      "Adult pool",
+      "Shallow-water pool",
+      "Children’s pool",
+      "Children’s play area",
+      "Jogging track",
+      "Family seating",
+      "Padel court",
+      "Green terraces",
+      "Yoga area",
+      "Walkways",
+      "Indoor gym"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Skyterraces own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-skyterraces",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "brochure",
+          "label": "Official Skyterraces36-page brochure with TowerA/B plans",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 185
+        },
+        {
+          "id": "facts",
+          "label": "Official8-page project facts, overlapping brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "investor",
+          "label": "Broker-hosted2025 Binghatti-branded Skyterraces investor sheet",
+          "url": "https://jiwak.com/files/properties/87f39a7cead808190cd1d2da5aac74a859c831ec.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer",
+          "investor"
+        ],
+        "paymentPlan": [
+          "investor"
+        ],
+        "handover": [
+          "investor"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts",
+          "investor"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Skyterraces Motor City only; Tower A/B labels retained.",
+        "location": "Own project page Motor City with Emirates/E 311/AlQudra connections; no guessed coordinates.",
+        "residences": "Studio/1/2/3 bed; own brochure counts 643 + 1035 + 156 + 6=1840 homes and 26 retailunits.",
+        "areas": "Own 36-page brochure selected panels 18,21,25,27 and 33 visually inspected; Tower A 3 bedhaslarge terrace; Tower Bstudioexample distinct.",
+        "amenities": "Own FAQ named facilities; no private-home pool inferred from community pool render.",
+        "pricing": "OwnpageAED 774999 versus historical 2025 investor 1127999 promotion on 100%payment; conditional price not substituted.",
+        "payment": "Broker-hosted 5-page brandedPDF page 3 visually read:20/50/30; no datedselectedunitcalendar.",
+        "handover": "InvestorPDF page 1 visually states 31 December 2027; no current primary commitment established.",
+        "documents": "Official 36-page brochure and 8-page facts retrieved, pooled 200. Broker-hosted commercialPDF 5 pages independently downloaded and visually checked; unrelatedROI/servicecharge estimates omitted."
+      },
+      "community": "Binghatti Skyterraces",
+      "overview": [
+        "The official brochure lists 1,840 homes and 26 retail units. Its structure distinguishes 40 residential floors from basements, podium, ground, mechanical and roof levels.",
+        "A Tower A three-bedroom example allocates more area to balcony/terrace than to the suite. An interior-only comparison would give a different result from comparing the advertised total."
+      ],
+      "locationNote": "Motor City, Dubai. The developer identifies access towards Emirates Road, Sheikh Mohammed Bin Zayed Road and Al Qudra Road. Confirm actual entry routes and the selected-home outlook.",
+      "priceLabel": "Developer published starting guide · reconfirm",
+      "priceNote": "Own-page guide: AED 774999. The 2025 investor sheet’s AED 1127999 promotion required 100% payment. Different dates and terms do not establish current inventory.",
+      "paymentNote": "The 2025 investor reference states 20%down payment,50%during construction and 30%on completion, with monthly, bi-monthly or quarterly variants. It is broker-hosted rather than on the current official domain. Obtain the exact unit’s signed schedule; the cash-price promotion is a separate offer basis.",
+      "handoverNote": "The broker-hosted 2025 guide states 31 December 2027. No current dated developer commitment was retrieved; confirm the contracted date directly.",
+      "units": [
+        {
+          "label": "Tower A · studio Type 01",
+          "area": "388.36 sq ft total /36.08 sq m; 307.74 suite + 80.62 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A · 1-bedroom Type 01",
+          "area": "722.80 sq ft total /67.15 sq m; 569.30 suite + 153.49 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A · 2-bedroom Type 03",
+          "area": "1,114.06 sq ft total /103.50 sq m; 787.70 suite + 326.36 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A · 3-bedroom Type 01",
+          "area": "2,724.78 sq ft total /253.14 sq m; 1,140.76 suite + 1,584.02 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower B · studio Type 01",
+          "area": "482.01 sq ft total /44.78 sq m; 331.31 suite + 150.69 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment · published reference",
+          "percent": 20,
+          "sourceIds": [
+            "investor"
+          ]
+        },
+        {
+          "stage": "During construction · calendar unverified",
+          "percent": 50,
+          "sourceIds": [
+            "investor"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 30,
+          "sourceIds": [
+            "investor"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Selected printed totals differ by 0.01 sqft from rounded components. Outdoor space is included; examples are not universal size-range endpoints.",
+        "Current stock, construction status, exact calendar, approved service charges, parking and furnishing inclusions require unit-specific confirmation. Historical investor estimates are not approved operating budgets or guaranteed returns.",
+        "The investor sheet and current brochure describe the building’s base levels differently. The current official brochure’s configuration is preferred; verify approved unit documents. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

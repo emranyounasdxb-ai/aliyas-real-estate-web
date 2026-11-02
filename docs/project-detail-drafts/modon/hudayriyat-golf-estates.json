@@ -1,0 +1,334 @@
+{
+  "id": "modon-project-02",
+  "name": "Hudayriyat Golf Estates",
+  "developerSlug": "modon",
+  "fields": {
+    "description": "Hudayriyat Golf Estates brings townhomes, villas and mansions around fairways and water channels. Andalusian-inspired architecture connects compact family homes with larger multilevel residences.",
+    "areaId": "abu-dhabi-hudayriyat-island",
+    "location": "Hudayriyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": 4200000,
+    "handover": "Q3 2030",
+    "paymentPlan": "40 / 60",
+    "amenities": [
+      "Planned 18-hole golf course",
+      "Planned country clubhouse",
+      "Planned wellness centre",
+      "Planned sports courts",
+      "Planned private school",
+      "Planned cycling trails",
+      "Planned parks",
+      "Planned retail and dining",
+      "Planned coworking spaces"
+    ],
+    "brochureUrl": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_Brochure.pdf",
+    "floorPlanUrl": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Hudayriyat Golf Estates: current Modon project and FAQs",
+          "url": "https://www.modon.com/real-estate/hudayriyat-golf-estates",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Golf Estates: original residence brochure, broker mirror",
+          "url": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "facts",
+          "label": "Golf Estates: original factsheet, broker mirror",
+          "url": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_FACTSHEETS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "payment",
+          "label": "Golf Estates: original instalment schedule, broker mirror",
+          "url": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_Payment_Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "par3",
+          "label": "Par 3 Villas: original brochure, broker mirror",
+          "url": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_PAR_VILLAS_BROCHURE_PAR3.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "par4",
+          "label": "Par 4 Villas: original brochure, broker mirror",
+          "url": "https://ffive-doc.s3.ap-south-1.amazonaws.com/offplan-upcoming/hge/HGE_PAR_VILLAS_BROCHURE_PAR4.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "community": "Hudayriyat Golf Estates, Hudayriyat Island",
+      "overview": [
+        "Layouts range from two-storey townhomes to Fairway Villas with a penthouse level and Golf Mansions with a basement. GSA totals already include their published levels."
+      ],
+      "locationNote": "Hudayriyat Island, Abu Dhabi. Golf access, membership charges and individual plot outlook require confirmation.",
+      "priceLabel": "Developer average · 3BR townhome",
+      "priceNote": "Current Modon averages: 3BR townhome AED 4.2m; 4BR townhome 4.9m; Golf Home 7.4m; Range Villa 10.3m; Fairway Villa 26.8m; Mansion 35.8m; Par 3 4.9m; Par 4 6.6m. These are not starting quotations. Older factsheet townhomes start at AED 4.25m.",
+      "paymentNote": "The undated original schedule totals 40/60. Construction instalments run March 2027–March 2030; confirm the applicable phase schedule.",
+      "handoverNote": "Modon targets Q3 2030, with August 2030 in its FAQ. March 2030 is the final dated construction instalment, not handover.",
+      "units": [
+        {
+          "label": "3BR Golf Townhome",
+          "area": "204 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR Golf Townhome",
+          "area": "237 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR Golf Home",
+          "area": "372 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5BR Range Villa",
+          "area": "547 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR Fairway Villa",
+          "area": "910 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6BR Golf Mansion",
+          "area": "1,150 m² GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR Par 3 Villa · original drawing",
+          "area": "229 m² GSA; webpage 235 m².",
+          "sourceIds": [
+            "par3",
+            "developer"
+          ]
+        },
+        {
+          "label": "4BR Par 4 Villa · original drawing",
+          "area": "318 m² GSA; webpage 327 m².",
+          "sourceIds": [
+            "par4",
+            "developer"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2029",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2029",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2030",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · date not printed",
+          "percent": 60,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Golf-course design",
+          "value": "Lobb + Partners is named in the original brochure.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Ownership",
+          "value": "Modon states freehold eligibility for all nationalities.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Garden specification",
+          "value": "Garden space is provided; owners may arrange landscaping.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Par 3 and Par 4 brochures print 229 / 318 m² GSA; the current webpage gives 235 / 327 m². Confirm the contracted revision.",
+        "Plot areas, live availability, service charges and membership entitlements remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected modon-project-02 whole precinct, eight families. Not only Waterfront phase. Propro HTML contains unrelated Canopies/Yas Point material; excluded except exact branded PDF locators.",
+        "location": "Own main Hudayriyat Island Abu Dhabi and actual brochure map; exact central registry. No coordinates invented.",
+        "residences": "All eight full family layouts visually read: 3/4BR townhomes, 4BR Golf Home, 5BR Range, 6BR Fairway/Mansion, 3BR Par3, 4BR Par4. Mansion basement/ground/first/penthouse pages27/28, Fairway three levels31/32. Staff and optional office not extra bedrooms.",
+        "areas": "Actual brochure panels26:238+372+420+120=1150;30:418+388+104=910;34:285+262=547;37:201+171=372;41:154+83=237;43:121+83=204 sqm GSA. Actual Par3p7:102+127=229 versus current235; Par4p7:161+157=318 versus current327. No multiplication or invented net/plot areas.",
+        "amenities": "Own project amenities corroborated brochure11/facts. Lobb+Partners visibly named brochure10. No universal golf membership, landscaping or pool inclusion assumed.",
+        "pricing": "Own exact labels AVERAGE, not FROM:4.2/4.9/7.4/10.3/26.8/35.8/4.9/6.6m. Headline4.2 clearly average3BRtownhome. Original facts from4.25m differs in basis. No live quote or stock assumed.",
+        "payment": "Actual original one-page schedule and facts visually read: eight5% +60%=100. Dates March2027/Sep2027/March2028/Sep2028/March2029/Sep2029/March2030, handover date not printed. Own40/60 corroborates. No bank details copied or inferred date.",
+        "handover": "Current all eight cards Q32030 and FAQ August2030 consistent. Older PDF no handover date; last construction instalment not promoted to completion. No actual certificate or progress percentage verified.",
+        "documents": "Five branded broker-hosted PDFs ordinaryGET200:46pbrochure/1pfacts/1ppayment/9pPar3/9pPar4. Actual visible panels/full drawings read:brochure10/11/26–28/30–32/34–35/37–38/41–44; Par3/4p7/8; facts/payment1, max1750px. All related documents pooled200 (70/20/65/20/25). GenericModon0, no forms/bypass."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "facts"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "paymentNote": [
+          "developer",
+          "payment"
+        ],
+        "units": [
+          "brochure",
+          "par3",
+          "par4",
+          "developer"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "par3",
+          "par4"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      }
+    }
+  }
+}

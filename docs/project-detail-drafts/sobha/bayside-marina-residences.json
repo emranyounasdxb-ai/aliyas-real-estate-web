@@ -1,0 +1,177 @@
+{
+  "id": "sobha-project-34",
+  "name": "Bayside Marina Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Bayside Marina Residences offers one- to three-bedroom homes on Sobha Siniya Island’s marina waterfront. The drawings range from compact apartments to three-bedroom duplexes, with landscaped parks and water views varying by position. The brochure identifies Tower C as the furnished collection, so furniture inclusion is checked by tower rather than assumed across the development.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1390000,
+    "handover": "2029 · month to confirm",
+    "paymentPlan": "60/40 · attributed plan; reconfirm",
+    "amenities": [
+      "Marina promenade",
+      "Landscaped parks",
+      "Island yacht and boat-mooring facilities",
+      "Island golf facilities",
+      "Shared leisure spaces"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-01/Marina%20Beach%20residences%20Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-01/Marina%20Beach%20residences%20Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Bayside Marina Residences · own developer page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/marina-residences/bayside",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Bayside Marina Residences · own branded brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-01/Marina%20Beach%20residences%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "portal",
+          "label": "Attributed commercial reference · Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/bayside-marina-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "catalogue",
+          "label": "Sobha current property catalogue · date value only",
+          "url": "https://sobharealty.com/properties-in-uae",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 5
+        },
+        {
+          "id": "fy25",
+          "label": "Sobha Investor Update FY 2025 · historical handover year only",
+          "url": "https://sobharealty.com/sites/default/files/2026-01/Investor%20Update%20FY%202025_3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 7
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "brochure"
+        ],
+        "bedrooms": [
+          "official",
+          "brochure"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "catalogue",
+          "fy25",
+          "portal"
+        ],
+        "units": [
+          "brochure",
+          "official"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Bayside Marina Residences identity checked against its own developer page and branded pack; neighbouring releases excluded.",
+        "location": "Source-supported project/community location reviewed; existing exact area used only where available.",
+        "residences": "Own advertised bedroom mix and plan configurations reviewed; furnished towers and duplexes explicitly distinguished where applicable.",
+        "areas": "Project-specific plan samples extracted; representative original PDF labels, tables and orientation diagrams visually inspected. Source inconsistencies recorded.",
+        "amenities": "Own developer project-page facilities reviewed; island/community amenities are labelled by their wider scope.",
+        "pricing": "Own current page starting guide captured on 31 October 2026, subject to inventory; not a verified unit quotation.",
+        "payment": "Available secondary commercial schedules compared, payment percentages total 100%; current official unit schedule unavailable unless explicitly stated.",
+        "handover": "Own dates and available commercial references reviewed; conflicts retained rather than guessed.",
+        "documents": "Own brochure/plan pack downloaded and representative tables visually inspected; payment-document search did not establish a current signed developer schedule."
+      },
+      "community": "Siniya Island · Bayside Marina Residences",
+      "overview": [
+        "Three-bedroom Type C is a duplex with a maid’s room, powder room and balcony. The smaller two-bedroom Type A has a different space arrangement and cannot be compared by bedroom count alone. View diagrams are illustrative and remain unit-specific."
+      ],
+      "locationNote": "Sobha Siniya Island, Umm Al Quwain. Island golf, marina and leisure facilities are wider master-community amenities; their access and opening arrangements need confirmation.",
+      "priceLabel": "Developer-published starting guide · reconfirm",
+      "priceNote": "The own developer page fetched on 31 October 2026 advertises AED 1,390,000 from, subject to inventory availability. This is a published guide, not a checked available unit, valuation or binding offer. Other historical launch advertisements may use a different price or unit mix.",
+      "paymentNote": "Property Finder publishes 60% during construction and 40% handover without separately breaking out the booking deposit. That aggregate is preserved; a booking percentage is not invented. Obtain the detailed current instalment schedule.",
+      "handoverNote": "Developer catalogue: September 2029. Property Finder instead reports March 2029; the FY 2025 developer snapshot supports only the year. Confirm the current unit contract before relying on either month.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "513.22–514.30 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "704.50–708.59 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex Type C",
+          "area": "2,154.61–2,158.38 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "During construction · aggregate portal summary",
+          "percent": 60,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover · portal summary",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The official webpage FAQ calls the project “Bayside Beach Residences”, while its page title and branded marina brochure identify Bayside Marina Residences. The wording is retained as a source inconsistency, not a second project.",
+        "Current unit availability, signed payment dates, final specification and applicable service charges require developer/unit-specific confirmation."
+      ]
+    }
+  }
+}

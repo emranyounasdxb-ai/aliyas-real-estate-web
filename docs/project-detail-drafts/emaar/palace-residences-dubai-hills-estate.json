@@ -1,0 +1,68 @@
+{
+ "id":"emaar-project-64",
+ "name":"Palace Residences Dubai Hills Estate",
+ "developerSlug":"emaar",
+ "fields":{
+  "description":"Palace Residences in Dubai Hills Estate combines three residential towers with three-bedroom townhouses. Its setting connects residents with the district’s park, mall and business park, while a landscaped podium provides shared leisure space at home. Apartments range from one to three bedrooms, with balconies or terraces that vary considerably between floors and layouts.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1760000,"handover":"Q2 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Lap pool and pool deck","Children’s splash and play areas","Indoor gym","Outdoor fitness and yoga area","Multipurpose room","Landscaped podium","Barbecue area","Rooftop terrace","Covered parking","24-hour security"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/388458_brochure_File_93a4710414_prod.pdf",
+  "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-DHE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Palace Residences at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/palace-residences-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Palace Residences Dubai Hills Estate brochure","url":"https://www.emaar.com/cms-media/uploads/388458_brochure_File_93a4710414_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"plans","label":"Emaar: Building 1 and townhouse floor plans","url":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-DHE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-dhe/PALACE_RESIDENCES_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-dhe/PALACE_RESIDENCES_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Palace Residences Dubai Hills","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/palace-residences-dubai-hills","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["facts","plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Dubai Hills Estate scheme confirmed, separate from Palace projects at Dubai Creek Harbour and Hillside.",
+    "location":"Dubai Hills Estate park, mall and Al Khail Road connections confirmed; future rail proposals not described as operating.",
+    "residences":"Three towers in brochure, one to three bedroom apartments and three-bedroom townhouses; 962 total homes in launch sheet.",
+    "areas":"All 36 official Building 1/townhouse plan pages reviewed. Whole-development rounded ranges separately attributed; complete Building 2/3 PDF sets not obtained.",
+    "amenities":"Own official page and brochure support shared pool, fitness, play, terrace and podium facilities.",
+    "pricing":"Official AED 1.76m headline retained; category starting prices explicitly historical.",
+    "payment":"Nine dated launch stages visually checked, eight 10% payments and 20% completion, total 100%.",
+    "handover":"April 2028 payment-document estimate corroborated by Property Finder.",
+    "documents":"Official brochure and Building 1 plans linked, broker-hosted Emaar fact/payment copies attributed. No imagery changed."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure describes three towers arranged around a shared landscaped setting. The interiors draw on the Palace brand’s design language, with an earthy colour palette and contemporary detailing. Recreation includes indoor and outdoor exercise, yoga, children’s play, a multipurpose room and areas to gather beside the pool. The park and mall broaden the neighbourhood’s facilities, but golf-club or other paid memberships are not established as part of the purchase."],
+   "locationNote":"The address is within Dubai Hills Estate, near Dubai Hills Park, Dubai Hills Mall and the business park. Al Khail Road provides access to the wider city. Emaar’s references to planned rail and Metro connections are future proposals, not confirmation of a current station serving the development.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.76m. The May 2024 launch sheet gives category starts of AED 1.76m, AED 2.59m and AED 3.58m for one, two and three bedrooms, and AED 6.26m for townhouses. Current availability and an individual quotation require confirmation.",
+   "paymentNote":"The launch schedule totals 80% before completion and 20% at completion, including a 10% booking payment. Property Finder reports the same 10/70/20 split. Historical dates do not describe the outstanding balance of a resale unit.",
+   "handoverNote":"April 2028 is the estimated completion in the launch payment sheet and Property Finder. Confirm the current construction programme and contractual date before purchase.",
+   "units":[
+    {"label":"1 bedroom · development launch range","area":"738–920 sq ft, rounded fact-sheet figures","sourceIds":["facts"]},
+    {"label":"2 bedrooms · development launch range","area":"1,106–1,515 sq ft, rounded fact-sheet figures","sourceIds":["facts"]},
+    {"label":"3 bedrooms · development launch range","area":"1,466–1,959 sq ft, rounded fact-sheet figures","sourceIds":["facts"]},
+    {"label":"1 bedroom · Building 1 plans","area":"743.36–865.85 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Building 1 plans","area":"1,114.50–1,364.54 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Building 1 plans","area":"1,488.11–1,820.39 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom duplex townhouse","area":"2,294.11–2,302.51 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · May 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"July 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published development total","value":"The launch fact sheet lists 962 apartments and townhouses combined. This is a development total, not a statement of current inventory.","sourceIds":["facts"]},
+    {"label":"Townhouse layout","value":"Type A.1 has one bedroom and a maid’s room downstairs, with two bedrooms upstairs. TH01 totals 2,296.27 sq ft; TH03 totals 2,302.51 sq ft. Both plans show a terrace, upstairs balcony and separate laundry.","sourceIds":["plans"]},
+    {"label":"Terrace-sensitive sizing","value":"Building 1 three-bedroom unit 103 totals 1,820.39 sq ft, including a 465.97 sq ft terrace. Compare internal suite area separately when assessing it against a typical upper-floor home.","sourceIds":["plans"]}
+   ],
+   "unresolved":["The official downloadable plan set covers Building 1 and townhouses. Obtain Building 2 or 3 plans before selecting a home in either tower.","Current stock, construction progress, service charges, parking allocations and final specifications require confirmation.","Palace branding alone does not verify furnishing, hotel management or a particular hospitality-service package.","Views and exact areas are unit-specific. Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

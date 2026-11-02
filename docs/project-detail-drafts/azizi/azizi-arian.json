@@ -1,0 +1,183 @@
+{
+  "id": "azizi-project-13",
+  "name": "Azizi Arian",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi Arian is a residential apartment development in the Jebel Ali area, with studios and one- to three-bedroom homes. Its published plans include individual balconies and layouts of different sizes. A cinema, clubhouse and pools form part of the marketed shared facilities.",
+    "areaId": "dubai-downtown-jebel-ali",
+    "location": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 571000,
+    "handover": "Q1 2028 · portal forecast",
+    "paymentPlan": "10/40/50 · portal option; alternatives",
+    "amenities": [
+      "Cinema",
+      "Clubhouse",
+      "Swimming pools",
+      "Gym",
+      "Children’s play area",
+      "Retail spaces",
+      "Parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://files.alnair.ae/uploads/2025/10/58/c5/58c5544f1e54376cc68fafadc5806edf.pdf",
+    "floorPlanUrl": "https://files.alnair.ae/uploads/2025/10/58/c5/58c5544f1e54376cc68fafadc5806edf.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi-branded Arian factsheet · Visionary-hosted mirror",
+          "url": "https://vision-ary.com/wp-content/uploads/2024/12/AZIZI-ARIAN-Factsheet.pdf.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "brochure",
+          "label": "Azizi-branded multi-project Jebel Ali brochure · Arian pages 33–38 only, broker-hosted",
+          "url": "https://files.alnair.ae/uploads/2025/10/58/c5/58c5544f1e54376cc68fafadc5806edf.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Arian · legacy Aryan URL spelling",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-aryan",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "oldguide",
+          "label": "JRE Arian broker guide · older Q4 2026 reference",
+          "url": "https://jre.ae/projects/azizi-arian",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts"
+        ],
+        "location": [
+          "facts",
+          "finder"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "oldguide"
+        ],
+        "documents": [
+          "facts",
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Arian branding verified; some copy/portal slugs spell Aryan. Canonical Arian identity retained. Direct official site returned 403/429.",
+        "location": "Branded factsheet Jebel Ali/JAFZA context; Property Finder Downtown Jebel Ali. No mapping to Palm Jebel Ali or Al Furjan.",
+        "residences": "Studio and one/two/three-bedroom plan families confirmed; only Arian pages from multi-project brochure used.",
+        "areas": "Arian brochure actual pages 37/38 visually checked: studio 340.78, one-bed 801.92, two-bed 1,293.29, three-bed 1,741.94 ft²; suite/total distinguished.",
+        "amenities": "Two-page branded factsheet cinema, clubhouse, retail, pools, gym, children’s play, parking/security reviewed.",
+        "pricing": "Portal 571k advertised launch guide, no current developer unit price sheet.",
+        "payment": "Property Finder offers 10/40/50 and 10/30/60 options. One complete 100% schedule shown with alternatives disclosed, not mixed together.",
+        "handover": "Portal January 2028 versus older broker Q4 2026 references; no primary current dated contract retrieved.",
+        "documents": "Own-branded two-page facts mirror and 46-page multi-project brochure downloaded; only Arian pages 33–38 used, pooled reservation 80 words for shared brochure. No current primary dated payment schedule."
+      },
+      "community": "Downtown Jebel Ali",
+      "overview": [
+        "The branded factsheet places Arian beside Sheikh Zayed Road and metro connections in Jebel Ali’s business district. Its shared facilities include cinema and clubhouse space. Verify actual walking access and the chosen residence’s outlook."
+      ],
+      "locationNote": "Branded factsheet describes Jebel Ali and JAFZA; Property Finder labels Downtown Jebel Ali. Exact site/title designation remains to confirm. This is not Palm Jebel Ali.",
+      "priceLabel": "Portal advertised launch guide · reconfirm",
+      "priceNote": "Property Finder publishes AED 571,000 as its launch guide. This does not establish available stock or a current quotation for every apartment type.",
+      "paymentNote": "Property Finder lists alternatives: 10% booking/40% construction/50% handover, or 10%/30%/60%. The displayed stages use the first option only; select the applicable signed unit schedule before relying on dates or amounts.",
+      "handoverNote": "Property Finder forecasts Q1 2028, with January 2028 and a 16 January timeline. Older broker material still uses Q4 2026. No current primary contractual date or actual completion was verified.",
+      "units": [
+        {
+          "label": "Studio Type 1 · first floor",
+          "area": "340.78 ft² total / 272.86 ft² suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 1 · floors 2–17",
+          "area": "801.92 ft² total / 641.75 ft² suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 1 · floors 2–17",
+          "area": "1,293.29 ft² total / 988.14 ft² suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type 1 · floors 2–17",
+          "area": "1,741.94 ft² total / 1,362.72 ft² suite",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal option 1",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · portal option 1",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal option 1",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm live unit availability, current price, contractual completion, payment option/dates, approved service charges, parking and furnishing. Portal sold-out status does not settle resale availability.",
+        "Brochure is multi-project: Arian pages 33–38 only. Other projects’ areas and amenities are excluded. Published totals include balcony space; no independent net-interior measurement is implied.",
+        "Marketing describes freehold residential space in JAFZA, but selected title/tenure and exact plot require primary contractual confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

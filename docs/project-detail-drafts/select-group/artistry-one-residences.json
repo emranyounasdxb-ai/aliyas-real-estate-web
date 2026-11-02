@@ -1,0 +1,228 @@
+{
+  "id": "select-group-project-02",
+  "name": "Artistry One Residences",
+  "developerSlug": "select-group",
+  "fields": {
+    "description": "Artistry One Residences is Select Group’s residential development in Dubai Design District. One-, two- and three-bedroom apartments sit alongside four-bedroom penthouses, with private terraces and shared spaces for leisure, fitness and work.",
+    "areaId": "dubai-design-district",
+    "location": "Dubai Design District",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2300000,
+    "handover": "2029 · developer target",
+    "paymentPlan": "50/50 · current developer FAQ",
+    "amenities": [
+      "Infinity lap pool",
+      "Leisure and children’s pools",
+      "Fitness and private training studios",
+      "Sauna, steam room and ice bath",
+      "Residents’ lounge and co-working space"
+    ],
+    "brochureUrl": "https://cdn.prod.website-files.com/63b6a14f5c053488b83bcaca/6ac356df5f590dd7a89176a0_Artistry%20One%20Brochure_Oct%202026.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/0475e9decafa44908999de55022c5bb2.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Select Group Artistry One Residences · current specifications and FAQ",
+          "url": "https://www.select-group.ae/developments/artistry-one-residences",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Artistry One Residences · official October 2026 brochure · 48 pages",
+          "url": "https://cdn.prod.website-files.com/63b6a14f5c053488b83bcaca/6ac356df5f590dd7a89176a0_Artistry%20One%20Brochure_Oct%202026.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Artistry One Residences · branded individual plans · broker mirror · 42 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/0475e9decafa44908999de55022c5bb2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "earlier-brochure",
+          "label": "Artistry One Residences · earlier brochure and payment calendar · broker mirror · 37 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/42701621cae14148a6c093f16e7a531b.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Artistry One Residences guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/select-group/artistry-one-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact ArtistryOne ownpage and linkedOctober2026brochure used, separate ArtistryTwo retained. Original42pindividualplanpack mapped asOne; some mirrored variants differ slightly in outdoor areas, not copied fromTwo.",
+        "location": "Ownpage/brandedbrochure establishDubaiDesignDistrict(d3),Dubai. Existingexactbroadregistryarea used; not guessedZabeelplotcoordinates or guaranteedjourney/viewentitlements.",
+        "residences": "Ownmain1/2/3bedapartments plus4bedduplexpenthouses; maid/study notcountedasadditionalbedrooms. Actual37floors/upperamenity22 onTwo versus36storeys/amenity21 onOne separately checked. No inventedremaininginventory or registeredunitcount.",
+        "areas": "Full42pplans read; all31actualnumericpanels12–42 visuallyverified via renderednumericcontact sheets, plusfullindividual/doublelevel/roofexamples. All14typefamilies grouped5rows, within-familyvariantsretained. WholepenthouseAincludeslower/middle/roof, notdoubled. Brochure17/19roundedranges741–765/909–1702/1964–1988/4638–7765 reviewed. Printed0.01ft²differencesretained.",
+        "amenities": "Officialbrochure27/28/31/33 actualfacilities andkeyplanchecked. Two22ndfloorlap poolversusOne21stfloor notmixed; publicmainTwoaddspadel. Privateplungepools restrictedpenthouses, notpromisedallapartments. No claimedmedicaleffect.",
+        "pricing": "Actualcapturedcurrentownmain advertisesAED2.3m forbothseparately; primaryreferenceused. PFPhase2launch2.4m differsbasis, OnePF2.3mwithsoldoutnotice differsownAvailablestrip. No verifiedselectedstock/currentquotation.",
+        "payment": "ActualfreshownHTMLFAQ20down+10at20%construction+10at30%+10at40%+50handover=100. Searchindex/older37pbrochure insteadcalendar6/12/18months and50kreservation/balance20; notblendedwithcurrentprogressmilestones. Confirmapplicablesignedschedule.",
+        "handover": "ActualcurrentownFAQ2029 target; PFspecifiesFebruary2029/Q1. Portalprecisionnotrepresentedofficialdayguarantee; noactualcompletioninferred.",
+        "documents": "Ownlinked48pOct2026brochure retrieved; publicCasadiorlinksyield37pearlierbrochure/42pindividualplans. All62numericalpanelsacrosstwodifferentphasepacksvisuallyread; no imagesinstalled. Tanamidirect403notbypassed. Similarunderlyingbrochure/layoutmaterialpooledacrossBOTHArtistryrecords200, not200each. GenericSelectindex0."
+      },
+      "community": "Dubai Design District",
+      "overview": [
+        "A residential address in d3, with shared spaces for leisure, fitness and working close to home."
+      ],
+      "locationNote": "Dubai Design District, Dubai. Views depend on the selected residence, orientation and surrounding development.",
+      "priceLabel": "Developer advertised reference · availability unverified",
+      "priceNote": "The current developer page advertises homes from AED 2.3 million. Property Finder also quotes AED 2.3 million but labels developer stock sold out; confirm direct availability.",
+      "paymentNote": "Current FAQ: construction milestones. Earlier schedules: 6/12/18 months. Confirm your agreement.",
+      "handoverNote": "Select Group specifies 2029. Property Finder gives February 2029; that additional precision is a portal forecast.",
+      "units": [
+        {
+          "label": "1BR A/B",
+          "area": "751.00–764.56; 741.10 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A/B/C/D",
+          "area": "1,698.65–1,701.67; 1,468.52–1,471.32; 1,549.90–1,550.00; 909.34–909.55 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A/B",
+          "area": "1,988.09; 1,963.77–1,965.06 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouses A/B/C",
+          "area": "7,764.98; 7,755.61; 4,662.93 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouses D/E/F",
+          "area": "4,637.52; 6,207.33; 6,181.82 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "20% construction achieved",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "30% construction achieved",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "40% construction achieved",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Upper amenities",
+          "value": "Level 21 infinity lap pool; private plunge pools are described for the penthouses.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Service-charge estimate",
+          "value": "The developer estimates AED 19–22/ft². Confirm the annual basis, approved budget and selected-unit calculation.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current selected-unit availability, price, approved charges, title/parking allocation and handover documentation require confirmation. Images remain illustrative.",
+        "Some plan component sums differ by 0.01 ft²; printed totals are retained.",
+        "The portal says sold out while the developer page describes available off-plan homes; direct availability remains unverified."
+      ]
+    }
+  }
+}

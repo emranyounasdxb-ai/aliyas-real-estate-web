@@ -1,0 +1,216 @@
+{
+  "id": "meraas-project-05",
+  "name": "Solaya",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Solaya is a gated Jumeirah beachfront collection of 234 homes across nine buildings, developed by Meraas with Brookfield Properties. Foster + Partners designed the architecture and 1508 London the interiors. Classic residences are joined by garden homes, duplexes and penthouses.",
+    "areaId": "dubai-jumeirah-1",
+    "location": "Jumeirah 1",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–5",
+    "price": 16560000,
+    "handover": "April 2030 · current linked payment-sheet estimate",
+    "paymentPlan": "20/40/40 · current linked schedule",
+    "amenities": [
+      "Direct beach access",
+      "Beach and sunset pools",
+      "Children’s pool and play area",
+      "Community gardens",
+      "Yoga deck",
+      "Gym and fitness studio",
+      "Spa and sauna",
+      "Residents’ lounge",
+      "Cinema",
+      "Meeting rooms"
+    ],
+    "brochureUrl": "https://dubaiholding.box.com/s/spblkwohcclnogw8hwfaejj0omjy7x48",
+    "floorPlanUrl": "https://dubaiholding.box.com/s/n10152fsyv8fr4xgcmlnrn04w31zq614",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Solaya official microsite",
+          "url": "https://solaya.meraas.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Solaya official toolkit brochure ·69pages",
+          "url": "https://dubaiholding.box.com/s/spblkwohcclnogw8hwfaejj0omjy7x48",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Solaya official toolkit floor plans ·28pages",
+          "url": "https://dubaiholding.box.com/s/n10152fsyv8fr4xgcmlnrn04w31zq614",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "payment",
+          "label": "Solaya official toolkit average-price and payment sheet",
+          "url": "https://dubaiholding.box.com/s/58a74a4ggz842j3ihlolkiqtdld0b9xf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "older",
+          "label": "PXP Solaya older June 2029 delivery reference",
+          "url": "https://pxp.ae/projects/solaya/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "payment",
+          "older"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Meraas/Brookfield collection and design partners verified; no transaction/stock claims.",
+        "location": "Own Jumeirah beachfront location, not Port de La Mer inferred from portal taxonomy.",
+        "residences": "Classic 2–5 bed, 3 bed garden, 4 bed duplex and penthouse collections; current toolkit plans identify Building 8.",
+        "areas": "Official 28-page current plans; type/area panels 4, 7, 18, 22 visually read, exterior/interior separated.",
+        "amenities": "Own brochure/community facilities and optional paid services distinguished.",
+        "pricing": "Current toolkit sheet explicitly AVERAGE prices, not starting prices; full table visually checked.",
+        "payment": "One-page toolkit 20/10/10/10/10/40 schedule visually read; 100 total.",
+        "handover": "Current linked sheet April 2030 differs from broker June 2029 older reference; phase/date applicability unresolved.",
+        "documents": "Official linked 69-page brochure, 28-page plans and 1-page payment sheet retrieved directly through public Boxstatic URLs. Payment-detail instruction sheet inspected but bank details excluded."
+      },
+      "community": "Solaya · Jumeirah 1",
+      "overview": [
+        "Classic residences range from two to five bedrooms. Selected garden homes have their own pool; four-bedroom duplexes and penthouses form separate collections. Cleaning, personal training and other à la carte services should be budgeted separately from general building services."
+      ],
+      "locationNote": "On the Jumeirah beachfront beside the J 1 Beach setting. Confirm the selected building, outlook and beach-access terms; nearby hotel and restaurant facilities are not automatically included with ownership.",
+      "priceLabel": "2-bedroom average price · current toolkit guide",
+      "priceNote": "The linked developer sheet lists AVERAGE prices: AED 16.56 m two bedrooms; 26.83 m three; 35.78 m four; 54.69 m five; 113.95 m penthouse. These are not minimum prices or confirmed unit offers.",
+      "paymentNote": "The currently linked sheet requires 20% booking, 10% May 2027, 10% November 2027, 10% May 2028, 10% November 2028 and 40% April 2030 handover. It is not a personalised contract. Confirm whether this release’s calendar applies to the chosen building.",
+      "handoverNote": "The current linked payment sheet estimates April 2030. An older broker reference gives June 2029. Keep each release’s schedule separate and obtain the selected unit’s signed date.",
+      "units": [
+        {
+          "label": "Building 8 · 2-bedroom Type C, units 103/203",
+          "area": "2,050 sq ft total: 1,841 interior + 209 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Building 8 · 3-bedroom Type D, units 102/202",
+          "area": "3,136 sq ft total: 2,646 interior + 490 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Building 8 · 3-bedroom garden Type H, G 01",
+          "area": "6,726 sq ft total: 3,094 interior + 3,632 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Building 8 · 4-bedroom duplex Type B, 302/502",
+          "area": "5,278 sq ft total: 4,457 interior + 821 terrace; whole home, not each level",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2030 · handover",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No live inventory, approved service-charge budget, unit-specific parking allocation or final signed completion date retrieved.",
+        "Current toolkit documents appear release-specific; older portal dates and different plan packs must not be substituted for the selected building.",
+        "The average-price guide is not a from-price. Garden pools and penthouse-only facilities do not apply to all apartments. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

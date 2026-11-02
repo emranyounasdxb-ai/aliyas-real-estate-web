@@ -1,0 +1,206 @@
+{
+  "id": "aldar-project-15",
+  "name": "Athlon",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Athlon is Aldar’s activity-led villa and townhouse community in Dubailand. Walking, running and cycling routes connect homes with parks and shared recreation areas. The collection includes three and four bedroom townhouses, standard villas and larger premium villas with distinct layouts.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "3–6",
+    "price": 2800000,
+    "handover": "2028 · developer estimate",
+    "paymentPlan": "60/40 · portal-reported",
+    "amenities": [
+      "Walking and cycling loops",
+      "Community parks",
+      "Swimming pools",
+      "Splash pad",
+      "Gym",
+      "Outdoor fitness areas",
+      "Basketball court",
+      "Squash court",
+      "Skate park",
+      "Outdoor cinema"
+    ],
+    "brochureUrl": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+    "floorPlanUrl": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Athlon",
+          "url": "https://www.aldar.com/properties/en/uae/dubai/athlon",
+          "kind": "developer",
+          "derivedWords": 170,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Athlon brochure and representative plans",
+          "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+          "kind": "official-document",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Athlon by Aldar",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/athlon-by-aldar",
+          "kind": "portal",
+          "derivedWords": 195,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "results",
+          "label": "Aldar FY2025 results: project completion estimates",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "derivedWords": 10,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "location": [
+          "finder"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "finder"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "results"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Athlon villa/townhouse page checked; not the separate Rise by Athlon apartment release.",
+        "location": "Dubailand location confirmed against the dedicated portal project record.",
+        "residences": "Official three-to-six-bedroom villas and three/four-bedroom townhouses; standard/premium plans reviewed.",
+        "areas": "Portal sample sizes recorded by type, not assumed to be universal plot or internal areas.",
+        "amenities": "Developer project facilities reviewed.",
+        "pricing": "AED 2.8m is explicitly a portal launch reference, not present inventory.",
+        "payment": "Portal 5/55/40 schedule transcribed; no assumption of the same schedule for all premium releases.",
+        "handover": "Developer FY2025 table visually confirms 2028. Portal narrows this to May, but no universal month asserted.",
+        "documents": "Official 75-page brochure inspected visually for representative townhouse, standard-villa and premium-villa plans."
+      },
+      "community": "Athlon · Dubailand",
+      "overview": [
+        "The brochure separates standard and premium villas. Compare the relevant drawing rather than relying on bedroom count alone: the arrangement of reception rooms, service spaces, garden and upper-floor rooms changes between collections."
+      ],
+      "locationNote": "The development is in Dubailand. Request the cluster and plot map when reviewing a home; a community-wide location does not establish its distance from a particular clubhouse or road.",
+      "priceLabel": "Reported launch starting price",
+      "priceNote": "Property Finder quotes an AED 2.8m launch price. It is a historical entry reference, not an offer for currently available inventory. Villa and premium-collection prices differ.",
+      "paymentNote": "Property Finder publishes 5% at launch booking, 55% during construction and 40% on completion. Obtain the applicable cluster and property schedule before treating these proportions as an available offer.",
+      "handoverNote": "Aldar’s FY2025 pipeline lists completion in 2028. Property Finder states May 2028. The month is secondary-source information; confirm the selected cluster’s contractual timing and any subsequent developer update.",
+      "units": [
+        {
+          "label": "3-bedroom townhouse",
+          "area": "2,281 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "4-bedroom townhouse",
+          "area": "3,100 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "3-bedroom villa",
+          "area": "2,960 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "4-bedroom villa",
+          "area": "3,336–6,673 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "5-bedroom villa",
+          "area": "4,441–4,445 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "label": "6-bedroom villa",
+          "area": "8,772 sq ft · portal-listed sample size; basis to confirm",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking",
+          "percent": 5,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 55,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Different home collections",
+          "value": "The official brochure distinguishes townhouses, standard villas and premium villas. The bedroom range combines these collections.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current inventory, exact floor/plot area, service charges and included finishes for the selected home.",
+        "Premium-villa terms can differ; the portal schedule is not verified for every release.",
+        "Published visuals and plans are illustrative and do not establish the final plot view."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

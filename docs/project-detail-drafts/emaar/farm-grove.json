@@ -1,0 +1,72 @@
+{
+  "id":"emaar-project-98","name":"Farm Grove","developerSlug":"emaar",
+  "fields":{
+    "description":"Farm Grove is a four- and five-bedroom villa neighbourhood in The Valley, planned around Ghaf trees, gardens and shared outdoor spaces. Its collection includes both detached and semi-detached homes. A community centre, farming allotments and recreation areas give the development a distinct emphasis on everyday life outdoors.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":4800000,"handover":"Q4 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Community centre","Adult swimming pool","Shaded children’s pool","Fitness and sports centre","Yoga areas","Ghaf forest","Community gardening","Farming allotments","Pet park","Children’s play areas","Picnic areas","Neighbourhood parks","Local retail and mosque"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/FARM-GROVE_brochure.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/FARM-GROVE_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Farm Grove at The Valley","url":"https://www.emaar.com/en/properties/farm-grove-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Farm Grove brochure","url":"https://www.emaar.com/cms-media/uploads/FARM-GROVE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+        {"id":"plans","label":"Emaar: Farm Grove floor plans","url":"https://www.emaar.com/cms-media/uploads/FARM-GROVE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Farm Grove fact sheet, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/12/Emaar-Farm-Grove-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Farm Grove payment plan, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/12/Emaar-Farm-Grove-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"cluster","label":"Emaar Farm Grove 1 cluster map, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/12/Emaar-Farm-Grove-Clustermap.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"finder","label":"Property Finder: Farm Grove","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/farm-grove","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+      ],
+      "fieldSources":{"description":["official"],"overview":["brochure","cluster"],"location":["official"],"type":["plans"],"bedrooms":["official"],"amenities":["official","brochure","facts","cluster"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans","facts","payment","cluster"],"paymentPlan":["payment"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Farm Grove’s original launch pack checked; later Farm Grove 2 figures not merged.",
+        "location":"The Valley and Dubai–Al Ain Road setting confirmed.",
+        "residences":"Four/five-bedroom detached and semi-detached types checked.",
+        "areas":"Ten plan tables visually checked; plot bands kept separate from total and suite areas.",
+        "amenities":"Official brochure and the original cluster legend reviewed.",
+        "pricing":"Current official AED 4.8m display distinguished from December 2024 launch prices.",
+        "payment":"Nine stages total 100%; dates and construction conditions checked visually.",
+        "handover":"December 2028 estimate corroborated by Property Finder.",
+        "documents":"Official brochure/plans and attributed launch fact sheet, payment and cluster map reviewed."
+      },
+      "community":"The Valley · original Farm Grove release",
+      "overview":["The brochure pairs contemporary façades with natural tones and large windows. Shared amenities include garden spaces, lawns, a pool-facing fitness facility and places for children to play. Personalising a garden or adding a pool is discussed as an option, so rendered outdoor features should not be assumed to form part of the purchase specification.","The original cluster plan distributes neighbourhood parks and sports courts between residential streets. It also identifies a community centre, local retail, a mosque and a guardhouse. Compare a selected plot with this plan to understand its relationship to shared spaces and access roads."],
+      "locationNote":"Farm Grove is within The Valley on the Dubai–Al Ain Road corridor. Its marketing setting is suburban and landscape-led; check practical driving routes, school access and the delivery of wider-community facilities for your household.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar currently displays AED 4.8m. The December 2024 fact sheet contains lower launch references for some types. Historical launch terms are shown separately and do not establish today’s available stock or asking price.",
+      "paymentNote":"Launch payments are 10% initially, seven further 10% instalments and 20% at estimated completion. Later stages are linked to construction. Obtain the unit’s actual paid-to-date statement and contractual remaining schedule.",
+      "handoverNote":"December 2028 is the estimated completion in the launch payment document and Property Finder. It is not a guaranteed handover date or confirmation of present construction progress.",
+      "units":[
+        {"label":"4 beds · Willow / Lavender · standalone","area":"Total 5,580.76 sq ft; suite 3,833.89 sq ft","sourceIds":["plans"]},
+        {"label":"5 beds · Ivy / Orchid · standalone","area":"Total 6,078.16 sq ft; suite 4,361.96 sq ft","sourceIds":["plans"]},
+        {"label":"4 beds · Gardenia · detached","area":"Total 3,754.88 sq ft; suite 2,885.59 sq ft","sourceIds":["plans"]},
+        {"label":"4 beds · Lotus · detached","area":"Total 3,741.32 sq ft; suite 2,876.11 sq ft","sourceIds":["plans"]},
+        {"label":"4 beds · Marigold A / B · semi-detached","area":"Total 3,764.89 sq ft; suite 2,864.70 sq ft","sourceIds":["plans"]},
+        {"label":"4 beds · Lily A / B · semi-detached","area":"Total 3,750.36 sq ft; suite 2,851.90 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"December 2024 · launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch collection","value":"The fact sheet totals 482 villas: 91 four-bedroom standalone, 48 five-bedroom standalone, 68 semi-detached and 275 other detached homes. These are launch counts.","sourceIds":["facts"]},
+        {"label":"Standalone launch references","value":"Four bedrooms: plots 5,081–8,736 sq ft, from AED 6.68m. Five bedrooms: plots 6,646–11,291 sq ft, from AED 7.83m.","sourceIds":["facts"]},
+        {"label":"Other four-bedroom launch references","value":"Semi-detached: plots 3,229–6,604 sq ft, from AED 4.44m. Detached: plots 3,229–6,075 sq ft, from AED 4.62m.","sourceIds":["facts"]},
+        {"label":"Layout and inclusions","value":"Plans span three levels. Larger standalone layouts show lifts and maid’s rooms; smaller types label a linen room. Pools drawn on the larger plans are explicitly marked as not provided.","sourceIds":["plans"]},
+        {"label":"Size basis","value":"Plan totals include suite, garage and balcony/terrace components; plot sizes describe separate land areas.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The launch documents and current developer page quote different starting prices. Current unit-level prices and availability require confirmation.",
+        "Broker-hosted commercial documents are attributed copies. Obtain current developer terms, the signed floor plan and the final inclusion schedule.",
+        "Service charges, confirmed construction progress, landscaping costs and optional pool specifications were not established. Existing photographs remain illustrative."
+      ]
+    }
+  }
+}

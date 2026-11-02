@@ -1,0 +1,215 @@
+/* Keep owned project previews independent of older catalogue type/hover overrides. */
+.site-frame .catalogue-page .project-card.developer-project-placeholder {
+  gap: 0;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: none;
+  transition:
+    transform 500ms var(--motion-curve),
+    border-color 300ms var(--motion-curve),
+    box-shadow 500ms var(--motion-curve);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-visual {
+  border-radius: 0;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-body {
+  container: developer-card-body / inline-size;
+  min-width: 0;
+  padding: 24px;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-location {
+  display: flex;
+  min-height: 20px;
+  gap: 4px;
+  margin: 0 0 12px;
+  color: var(--muted);
+  font: 400 12px/20px var(--font-ui);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-location svg {
+  margin: 4px 0 0;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-title-row {
+  min-height: 56px;
+  align-items: flex-start;
+  gap: 12px;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-title-row h3 {
+  display: block;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+  color: var(--ink);
+  font: 600 20px/28px var(--font-ui);
+  letter-spacing: -0.025em;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-arrow {
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
+  margin-top: -8px;
+  border-radius: 8px;
+  color: var(--ink);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-arrow:hover {
+  background: var(--raised);
+  color: var(--accent-ink);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-meta {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  min-height: 20px;
+  margin: 16px 0;
+  gap: 8px;
+  color: var(--muted);
+  font: 400 12px/20px var(--font-ui);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-meta > span {
+  grid-column: auto;
+  gap: 4px;
+  line-height: 20px;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-bottom {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  align-items: start;
+  min-height: 0;
+  margin-top: auto;
+  padding-top: 16px;
+  gap: 16px;
+  border-color: var(--line);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-bottom > span,
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan small {
+  color: var(--muted);
+  font: 400 12px/16px var(--font-ui);
+}
+.site-frame
+  .catalogue-page
+  .developer-project-placeholder.project-card
+  .project-card-bottom
+  strong {
+  display: block;
+  margin-top: 8px;
+  color: var(--ink);
+  font: 600 20px/28px var(--font-ui);
+  letter-spacing: -0.02em;
+}
+.site-frame
+  .catalogue-page
+  .developer-project-placeholder.project-card
+  .project-card-bottom
+  .project-price-pending,
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan strong {
+  font: 500 16px/24px var(--font-ui);
+  letter-spacing: 0;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan {
+  display: block;
+  max-width: none;
+  text-align: right;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan small {
+  margin: 0;
+  white-space: normal;
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card .developer-project-details {
+  min-height: 44px;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-color: var(--line);
+  color: var(--ink);
+  font: 500 14px/20px var(--font-ui);
+}
+.site-frame
+  .catalogue-page
+  .developer-project-placeholder.project-card
+  .developer-project-details:hover {
+  color: var(--accent-ink);
+}
+.site-frame .catalogue-page .developer-project-placeholder.project-card :focus-visible {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+}
+.site-frame
+  .catalogue-page
+  .developer-project-placeholder.project-card
+  .project-card-image-link:focus-visible {
+  outline-offset: -4px;
+}
+@media (hover: hover) {
+  .site-frame .catalogue-page .project-card.developer-project-placeholder:hover {
+    border-color: var(--accent);
+    box-shadow: 0 8px 24px #0000000d;
+    transform: translateY(-4px);
+  }
+}
+@media (max-width: 700px) {
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-body {
+    padding: 16px;
+  }
+}
+@container developer-card-body (min-width: 360px) {
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-title-row h3 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+@container developer-card-body (max-width: 260px) {
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-title-row {
+    min-height: 0;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-title-row h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-arrow {
+    display: none;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-meta {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .site-frame
+    .catalogue-page
+    .developer-project-placeholder.project-card
+    .project-meta
+    > span:last-child {
+    grid-column: 1 / -1;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-bottom {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    text-align: left;
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-plan strong {
+    margin: 0;
+  }
+}
+@container developer-card-body (max-width: 180px) {
+  .site-frame .catalogue-page .developer-project-placeholder.project-card .project-meta {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .site-frame .catalogue-page .project-card.developer-project-placeholder:hover,
+  .site-frame
+    .catalogue-page
+    .developer-project-placeholder.project-card:hover
+    .project-card-visual
+    img {
+    transform: none;
+  }
+}

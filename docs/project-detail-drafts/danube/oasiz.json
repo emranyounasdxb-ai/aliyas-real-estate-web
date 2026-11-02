@@ -1,0 +1,210 @@
+{
+  "id": "danube-project-10",
+  "name": "Oasiz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Oasiz combines compact apartments and selected pool-equipped layouts in Dubai Silicon Oasis. Shared leisure spaces extend across the podium and roof; private pools belong only to specified configurations.",
+    "areaId": "dubai-silicon-oasis",
+    "location": "Dubai Silicon Oasis",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 699000,
+    "handover": "November 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pool",
+      "Indoor gym",
+      "Children’s play and daycare areas",
+      "Library",
+      "Business centre",
+      "Sports and jogging areas",
+      "Spa",
+      "Party facilities"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2024/09/Oasiz_brochure_final.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/b9477af4fb0843e289d6907a4ab5e61c.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "page",
+          "label": "Danube Oasiz own project page",
+          "url": "https://danubeproperties.com/portfolio/oasiz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 185
+        },
+        {
+          "id": "construction",
+          "label": "Developer internal inspection, 30 September 2026",
+          "url": "https://danubeproperties.com/construction/oasiz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "brochure",
+          "label": "Official Oasiz 23-page brochure",
+          "url": "https://danubeproperties.com/wp-content/uploads/2024/09/Oasiz_brochure_final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Oasiz1 16-page branded plan pack, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/b9477af4fb0843e289d6907a4ab5e61c.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "sales",
+          "label": "Oasiz branded prelaunch sales presentation, broker mirror",
+          "url": "https://lerestate.com/wp-content/uploads/2024/09/Oasiz-Sales-Presentation.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Oasiz guide and commercial summary",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/danube-oasiz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "page",
+          "plans"
+        ],
+        "location": [
+          "page"
+        ],
+        "type": [
+          "page"
+        ],
+        "bedrooms": [
+          "page",
+          "plans"
+        ],
+        "amenities": [
+          "page"
+        ],
+        "price": [
+          "page",
+          "finder",
+          "sales"
+        ],
+        "paymentPlan": [
+          "page",
+          "sales",
+          "finder"
+        ],
+        "handover": [
+          "page",
+          "construction",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "page",
+          "construction"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Oasiz identity checked against its own project page and named plan documents; related phases are separated.",
+        "location": "The sources identify Dubai Silicon Oasis, Dubai. No coordinates or guaranteed travel times were invented.",
+        "residences": "The published Studio–3 range was checked against the named layout families; convertible spaces are not counted as extra bedrooms.",
+        "areas": "Numeric plan panels were rendered and visually inspected. Apartment, balcony and total figures are kept distinct; source conflicts are disclosed below.",
+        "amenities": "Project facilities were checked against the cited own page or phase-specific guide. Unit pools are limited to the layouts that show them.",
+        "pricing": "The price basis and source are disclosed. Historical launch references, averages and current availability are not treated as interchangeable.",
+        "payment": "Published schedules were compared and arithmetic reviewed. Conflicting or incomplete current terms remain unresolved rather than merged.",
+        "handover": "Forecast dates are separated from dated construction assessments; no actual handover is inferred from a percentage or elapsed forecast.",
+        "documents": "Named brochures, plans and available commercial documents were reviewed. Numeric evidence, phase distinctions and document allocations are recorded in the project artifact."
+      },
+      "community": "Dubai Silicon Oasis",
+      "overview": [
+        "The illustrated plan separates enclosed accommodation from balcony space. Published type bands do not establish a particular unit’s approved net area or furnishing inventory."
+      ],
+      "locationNote": "Dubai Silicon Oasis, Dubai. A proposed Metro reference is future connectivity; verify the actual route and transport status before relying on it.",
+      "priceLabel": "Developer FAQ reference · sold out",
+      "priceNote": "Danube’s FAQ retains studios around AED 699,000 while its headline marks Oasiz sold out. Property Finder retains AED 769,000; an older sales deck gives AED 775,000 as an average. These are different references, not current bookable stock.",
+      "paymentNote": "The own page says 30/70 without a detailed calendar. The older branded presentation instead allocates 65% through handover and 35% across 35 months afterward. Property Finder places its final 35% on handover. These schedules cannot be merged; obtain the selected unit’s dated agreement.",
+      "handoverNote": "The developer forecasts November 2027. Its 30 September 2026 internal inspection reports 35% progress and a slab at floor 20. This is a dated developer assessment, not regulatory certification or a promise of key delivery.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "367–381 ft² total; 288–299 apartment; 78–82 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio · pool",
+          "area": "369–381 ft² total; 287–295 apartment; 82–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Type A",
+          "area": "547–569 ft² total; 471–489 apartment; 76–80 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite A · pool",
+          "area": "552–564 ft² total; 470–478 apartment; 82–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type A",
+          "area": "756–768 ft² total; 672–680 apartment; 84–88 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · pool",
+          "area": "1,146–1,163 ft² total; 879–891 apartment; 267–272 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Developer building scope",
+          "value": "410 apartments advertised on the own project page; not an available-unit count.",
+          "sourceIds": [
+            "page"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The retrieved plan pack uses area bands; endpoint sums may differ through rounding. Presidential is a marketing layout name, not an extra bedroom category.",
+        "A dated current contract, exact payment dates, live availability, approved parking and service charges, furnishing inventory and selected-unit pool obligations remain unverified. Images remain illustrative."
+      ]
+    }
+  }
+}

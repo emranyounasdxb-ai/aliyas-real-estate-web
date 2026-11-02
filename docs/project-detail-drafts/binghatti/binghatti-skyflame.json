@@ -1,0 +1,196 @@
+{
+  "id": "binghatti-project-07",
+  "name": "Binghatti Skyflame",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Skyflame is a two-tower apartment development in Majan, with stepped terraces and shared recreation spaces. The published drawings separate Tower 1 from Tower 2 and include selected two-bedroom homes with a private pool. A similar type name in another tower should not be treated as an identical apartment.",
+    "areaId": "dubai-majan",
+    "location": "Majan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio, 1, 2 & 4",
+    "price": 585000,
+    "handover": "December 2027 · developer estimate",
+    "paymentPlan": "20/50/30 · developer published split",
+    "amenities": [
+      "Adult and shallow-water pool",
+      "Children’s pool",
+      "Children’s play area",
+      "Green areas",
+      "Walkways",
+      "Family seating",
+      "Basketball court",
+      "Gym",
+      "Padel court",
+      "Outdoor cinema",
+      "Jogging track",
+      "Water features"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyflame-assets/binghatti-skyflame-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyflame-assets/binghatti-skyflame-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Skyflame own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-skyflame",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "brochure",
+          "label": "Official Skyflame37-page two-tower brochure and floor plans",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyflame-assets/binghatti-skyflame-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "facts",
+          "label": "Official Skyflame11-page facts pack; overlapping brochure content",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyflame-assets/binghatti-skyflame-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: separate Skyflame1/2 selections",
+          "url": "https://www.propertyfinder.ae/en/new-projects/lp/dubai/majan-binghatti-skyflame",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Overall Skyflame two-tower identity retained; Tower 1/2 examples explicitly scoped.",
+        "location": "Own page Majan, Dubai; no invented site coordinates.",
+        "residences": "OwnFAQ studios/1/2 bed and 2 bedRoyalSuites; brochure Tower 1 adds one 4 bed home, disclosed rather than inferred stock.",
+        "areas": "37-page brochure contact sheet inspected. Tower 1 pages 27–29 andTower 2 pages 31/32/34 visually read; six bounded numerical crop panels checked.",
+        "amenities": "Own brochure page 17 named facilities; private pools not assigned to all homes.",
+        "pricing": "Own pageAED 585000 guide; portalcurrentselection 1099999 not equivalent unit/terms.",
+        "payment": "OwnFAQ 20/50/30; no dated primary instalment sheet retrieved.",
+        "handover": "OwnFAQ 31 December 2027 estimate; no completion or present allocation inferred.",
+        "documents": "Own 37-page brochure and 11-page facts pack downloaded. Overlapping content pooled 200; units tables/image-only text manually reviewed."
+      },
+      "community": "Binghatti Skyflame",
+      "overview": [
+        "Tower 1 lists 1,378 homes and 29 shops; Tower 2 lists 782 homes and 19 shops. The developer separates 27 and 22 residential floors respectively from podium, mechanical and roof levels.",
+        "The website emphasises studios through two bedrooms; the brochure also records one four-bedroom home in Tower 1. No four-bedroom plan or current availability was established."
+      ],
+      "locationNote": "Majan, Dubai, with developer-described connections to E 311 and Sheikh Zayed Road. Verify the selected tower’s access, orientation and outlook independently.",
+      "priceLabel": "Developer published starting guide · reconfirm terms",
+      "priceNote": "The own project page displays AED 585000, without proving a specific unit or payment eligibility. Property Finder’s two separate tower selections currently show AED 1099999. These are different unit/offer references; confirm the price, discount basis and payment option in writing.",
+      "paymentNote": "The developer FAQ states 20%booking,50%during construction and 30%on completion. No exact calendar or selected-unit payment schedule was established from the retrieved primary documents. A discounted cash offer must not be assumed to qualify for this split.",
+      "handoverNote": "The own page estimates 31 December 2027. Treat that as the developer’s forecast, not evidence of completed works or a guaranteed key date. Confirm any tower-specific revision directly.",
+      "units": [
+        {
+          "label": "Tower 1 · studio Type 01",
+          "area": "407.31 sq ft total; 304.83 suite + 102.47 balcony. Printed total differs 0.01 from rounded sum.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower 1 · 1-bedroom Type 01",
+          "area": "723.87 sq ft total; 575.65 suite + 148.22 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower 1 · 2-bedroom Type 02 · pool drawing",
+          "area": "2,123.07 sq ft total; 838.29 suite + 1,284.78 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower 2 · studio Type 01",
+          "area": "407.63 sq ft total; 304.94 suite + 102.69 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower 2 · 2-bedroom Type 02 · pool drawing",
+          "area": "2,123.07 sq ft total; 838.29 suite + 1,284.78 balcony.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction · dates unverified",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Some source totals retain minor rounding differences. Balcony/pool-terrace space is included in the printed total; these examples are not a complete size range.",
+        "The single 4-bedroom home in the Tower 1 facts is outside the website’s studio–2 bed headline. Its specification and sale status remain unverified.",
+        "Current stock, dated construction evidence, parking, furnishing, service charges, private-pool costs and signed payment calendar require confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

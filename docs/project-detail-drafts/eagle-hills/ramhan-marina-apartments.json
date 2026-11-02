@@ -1,0 +1,272 @@
+{
+  "id": "eagle-hills-project-03",
+  "name": "Ramhan Marina Apartments",
+  "developerSlug": "eagle-hills",
+  "fields": {
+    "description": "One- to three-bedroom waterfront apartments within Ramhan Island’s marina district, with advertised marina and channel outlooks, balconies and access to the promenade.",
+    "areaId": "abu-dhabi-ramhan-island",
+    "location": "Ramhan Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Residents’ swimming pool",
+      "Gym",
+      "Residents’ lounge",
+      "Waterfront promenade",
+      "Marina and yacht club",
+      "Dining and retail",
+      "Waterfront plaza"
+    ],
+    "brochureUrl": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-ramhan-island-brochure-english.pdf",
+    "floorPlanUrl": null,
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "marina",
+          "label": "Ramhan Marina · official apartment collection",
+          "url": "https://ramhanmarina.com/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 180
+        },
+        {
+          "id": "island",
+          "label": "Eagle Hills · Ramhan Island destination",
+          "url": "https://ramhanisland.com/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "brochure",
+          "label": "Ramhan Island · currently linked master brochure",
+          "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-ramhan-island-brochure-english.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "facts",
+          "label": "Ramhan Island · currently linked factsheet",
+          "url": "https://ramhanislandcdn.eaglehills.ai/pdf/ramhan-island-factsheet%20v2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "contract",
+          "label": "Rowad · Marina Apartments contract announcement, 3 September 2026, distributed by Zawya",
+          "url": "https://www.zawya.com/en/press-release/companies-news/rowad-modern-engineering-awarded-main-works-contract-for-marina-apartments-on-ramhan-island-abu-dhabi-477152",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "contract-scope",
+          "label": "TradeArabia · published Marina Apartments contract scope, 3 September 2026",
+          "url": "https://www.tradearabia.com/News/467557/Rowad-Modern-Engineering-wins-contract-for-Marina-Apartments-in-Ramhan-Island",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "payment-context",
+          "label": "The Upsides · Marina payment and completion information on enquiry",
+          "url": "https://theupsides.ae/projects/ramhan-marina/payment-plan",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "layouts-context",
+          "label": "The Upsides · Marina floor-plan information on enquiry",
+          "url": "https://theupsides.ae/projects/ramhan-marina/floor-plans",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "marina"
+        ],
+        "areaId": [
+          "marina"
+        ],
+        "location": [
+          "marina"
+        ],
+        "emirate": [
+          "marina"
+        ],
+        "type": [
+          "marina"
+        ],
+        "bedrooms": [
+          "marina"
+        ],
+        "amenities": [
+          "marina"
+        ],
+        "community": [
+          "marina"
+        ],
+        "locationNote": [
+          "marina"
+        ],
+        "price": [
+          "marina",
+          "payment-context"
+        ],
+        "priceLabel": [
+          "marina",
+          "payment-context"
+        ],
+        "priceNote": [
+          "marina",
+          "payment-context"
+        ],
+        "paymentPlan": [
+          "marina",
+          "payment-context"
+        ],
+        "paymentNote": [
+          "marina",
+          "payment-context"
+        ],
+        "paymentStages": [
+          "marina",
+          "payment-context"
+        ],
+        "handover": [
+          "contract",
+          "payment-context"
+        ],
+        "handoverNote": [
+          "contract",
+          "payment-context"
+        ],
+        "overview": [
+          "marina",
+          "island",
+          "contract-scope"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "marina",
+          "layouts-context"
+        ],
+        "units": [
+          "marina",
+          "layouts-context"
+        ],
+        "facts": [
+          "brochure",
+          "facts",
+          "contract",
+          "contract-scope",
+          "marina"
+        ],
+        "unresolved": [
+          "marina",
+          "facts",
+          "brochure",
+          "payment-context",
+          "layouts-context"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected eagle-hills-project-03 / ramhan-marina-apartments. Marina apartment collection distinct from Infinity villas and separately protected Bristol hotel/residences. Official Ramhan homepage directly links ramhanmarina.com, whose apartment section confirms 1–3BR. Master counts are not a current release or available inventory. No expansion to an unsupported residential phase.",
+        "location": "Own Ramhan and linked Marina page explicitly locate the apartments on Ramhan Island, Abu Dhabi. Inner channel/harbour-side and open-shore positions described; exact tower, plot, orientation and journey times not guaranteed. Exact centrally added abu-dhabi-ramhan-island mapping; no invented coordinates.",
+        "residences": "Own Marina apartment section advertises 1,2,3 bedrooms and three formats: Marina Living, Waterfront Residence, Signature Residence. No genuine individual apartment floor drawing retrieved; original public master PDFs contain villa layouts, not apartment family areas. No bedroom count inferred from generic4–8BR villa feeds. Collections not arbitrarily assigned exact bed counts because own page lists overall1–3 and collection descriptions separately.",
+        "areas": "Actual linked brochure42p p12 visible master count1126 and facts9p p4 count900 both read, no chronological order inferred. Neither document publishes individual Marina apartment areas. No numerical unit areas, balcony/sellable/gross basis or full family apartment drawing verified; all three rows explicitly unavailable. DRE one-page PDF actually a broker contact card, not brochure or plan; excluded. No villa/Bristol/Infinity areas transplanted.",
+        "amenities": "Own Marina page confirms residents pool/gym/lounge and district marina, yacht club, promenade, retail/dining/plaza. All are advertised planned facilities, not independently operating or a contractual entitlement. No private beach/private yacht berth/furnishing/parking-per-home/service fee claims. 443 is contract parking total, not allocation per buyer.",
+        "pricing": "No original apartment price list or selected live unit quotation found on own page, generic PDFs, public linked assets or established portal research. Main own price/availability enquiry only. Rejected FCP/UAEProjects/abudhabiproperties.ai generic13m/4–8BR/ready2025 feed as internally inconsistent villa material; not adopted. Bristol3.1m not Marina minimum. No yield/fee/stock invented.",
+        "payment": "No dated original Marina apartment payment schedule retrieved. Own request floorplans/register buttons are enquiry triggers, not public PDF. The Upsides payment page explicitly says phase schedule on enquiry; no percentages published. Other umbrella/villa/Bristol50/50 calendars cannot be assumed. No synthetic100% payment schedule added; stages empty/headlineNULL. No form submitted or gated material accessed.",
+        "handover": "Contractor press release distributed3Sep2026 actual primary issuer text and TradeArabia scope reviewed: Rowad mainworks, Mirage consultant, two towers187units443parking. No completion date in release; award not completion. BrokerOffPlanInsider8Sep award date not substituted for release date. No elapsed villa or Bristol target applied; mainhandoverNULL and no ready/certifiedstatus claim.",
+        "documents": "Ordinary unauthenticatedGET own Marina/primary Ramhan and currently linked42p brochure/9p facts200. Wholebrochure/facts text searched; actual full numeric master panels12/4 and amenity19/5 viewed bounded1600px. Brochure13 image only also read. No apartment individual drawing exists in retrieved genericfiles; all phase-specificnumericdrawing outcomes explicitly unavailable, not claimed reviewed. Publicfloorplanbuttonsformonly; no submissions/bypass. DRE public1pPDF downloaded/viewedandexcludedcontactcard. BrokerUpsides floorplan/payment pages actually read. Generic home+relatedmasterPDF public budget100 combined this record; other100 Infinity author reserved. Own Marina page180 allocation, rootBristol alerted≤20 remaining ifsamepage; original concise copy and no reused numerical unit material. Images deferred."
+      },
+      "community": "Ramhan Island",
+      "overview": [
+        "The apartment collection sits within Ramhan’s marina district, separate from the island’s villa neighbourhoods and The Bristol Hotel & Residences.",
+        "A September 2026 construction announcement covers a two-tower Marina Apartments package; it does not establish that every marina residence is released for sale."
+      ],
+      "locationNote": "Ramhan Island, Abu Dhabi; advertised positions include the inner channel and open shoreline. Confirm the building and view on the contracted plan.",
+      "priceLabel": "Current apartment quotation required",
+      "priceNote": "No current developer apartment price list was verified. Obtain the tower, floor, chargeable area and price together.",
+      "paymentNote": "A Marina apartment instalment schedule was not publicly verified. Confirm the release-specific terms; villa and Bristol payment plans are separate.",
+      "handoverNote": "No Marina apartment completion date was verified. Rowad’s main-works award was announced in September 2026; an award is not a handover certificate.",
+      "units": [
+        {
+          "label": "1BR apartment",
+          "area": "Individual area unverified",
+          "sourceIds": [
+            "marina",
+            "layouts-context"
+          ]
+        },
+        {
+          "label": "2BR apartment",
+          "area": "Individual area unverified",
+          "sourceIds": [
+            "marina",
+            "layouts-context"
+          ]
+        },
+        {
+          "label": "3BR apartment",
+          "area": "Individual area unverified",
+          "sourceIds": [
+            "marina",
+            "layouts-context"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "Masterplan apartment counts",
+          "value": "Linked brochure: 1,126 marina apartments; linked factsheet: 900. These are different published masterplan figures.",
+          "sourceIds": [
+            "brochure",
+            "facts"
+          ]
+        },
+        {
+          "label": "Published construction package",
+          "value": "Two towers, 187 homes and 443 parking spaces; this package is not the whole marina masterplan.",
+          "sourceIds": [
+            "contract-scope"
+          ]
+        },
+        {
+          "label": "Contractor and consultant",
+          "value": "Rowad ME General Contracting; Mirage Leisure & Development.",
+          "sourceIds": [
+            "contract"
+          ]
+        },
+        {
+          "label": "Waterfront destination",
+          "value": "Yacht club, promenade, dining and retail; residents’ pool, gym and lounge advertised.",
+          "sourceIds": [
+            "marina"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the current release, contracted layout and gross/sellable area, balcony, parking allocation, price and service charges.",
+        "Published masterplan counts differ; verify the applicable revision rather than treating either figure as available inventory.",
+        "Individual apartment drawings, dated payment schedules and a certified completion date remain unverified. Advertised facilities and views require contract confirmation."
+      ]
+    }
+  }
+}

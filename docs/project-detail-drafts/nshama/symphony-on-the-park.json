@@ -1,0 +1,275 @@
+{
+  "id": "nshama-project-21",
+  "name": "Symphony on The Park",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Symphony on The Park offers one- to three-bedroom apartments on Town Square’s boulevard. Curved architectural details frame the building, while fitted kitchens and built-in wardrobes serve everyday use. A landscaped courtyard links its pool, deck and play spaces.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 830388,
+    "handover": null,
+    "paymentPlan": "50/50 · historical primary schedule",
+    "amenities": [
+      "Swimming pool",
+      "Residents’ gym",
+      "Children’s play areas",
+      "BBQ area",
+      "Retail outlets",
+      "Landscaped courtyard",
+      "Pool deck"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2023/10/Symphony-Brochure-FINAL-1.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2023/10/Symphony-Floor-Plans-1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Symphony project and construction update",
+          "url": "https://nshama.ae/properties/symphony/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "brochure",
+          "label": "Nshama official Symphony brochure",
+          "url": "https://nshama.ae/wp-content/uploads/2023/10/Symphony-Brochure-FINAL-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Symphony on the Park project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/symphony-on-the-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "payment",
+          "label": "Nshama official Symphony historical payment sheet",
+          "url": "https://nshama.ae/wp-content/uploads/2023/10/Symphony-PaymentPlan-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Nshama official Symphony floor plans",
+          "url": "https://nshama.ae/wp-content/uploads/2023/10/Symphony-Floor-Plans-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "payment",
+          "portal"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "portal"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactSymphonyontheParkbyNshama; primaryunderconstructionandPFcompletedconflictdisclosed; noactualcompletedassertionfromelapseddate.",
+        "location": "OfficialTownSquareDubai; exactTownSquare/dubai-town-squareregistry. No inventedtravel/distance/coordinates.",
+        "residences": "Ownbrochure 1–3 BRscope; actualsevennumericfamilies 1 BR A;2 BR A/B/C/F;3 BR A/B. Noduplexfamilyinvented. Someactualplanlabelsmaidroom/storevary; noincorrectuniversalmaidroomclaim.",
+        "areas": "Own 9 pplanPDFactual 2–8 all 7 numericpanelsvisuallychecked,corroborated 25 pbrochure.2 BRFmin 855.40+71.79=927.19 vsprinted 927.20;max 855.83+75.45=931.28 vs 931.29;3 BRB 1297.69+57.26=1354.95 vs 1354.96. Printedtotalsretained. 2 BRBMIN/MAXsuitevaluesnotresortedindependently.",
+        "amenities": "Actualbrochure 13 visuallyconfirmsgym,pool,kidsplay,BBQ/retail. Ownprojectbodyfinishspecs; courtyard/deckbrochure 8. Communitytrailsnotprivatebuildingamenities.",
+        "pricing": "ActualPFNextDatastarting 830388;cached 910000 andFAQ 830000 differentrounding/basis,notcurrentunitquote. Primarypriceunavailable.",
+        "payment": "Official 1 ppaymentfullvisual:Oct/Dec 2023,Jun/Dec 2024,Jun 2025 each 10+50 indicativeJul 2026=100. Historical 50/50 notassumedcurrentcontract;brokers 20/80 offersnotprimaryverified.",
+        "handover": "OwnhistoricalJuly 2026 vsPFSeptember 2026 completed. Actualprimarypage 73.16%September 2026 andunderconstruction; currentprimarycompletioncertificateunavailable.",
+        "documents": "PublicunauthWPmedia 200 exposesexactPDFURLs;original 25 pbrochure,9 pplans,1 ppaymentall 200. Numericfamiliesactualvisualchecked;noforms/auth. WholephasePDFpool 200=brochure 140/payment 60/plans 0 additional."
+      },
+      "overview": [
+        "The plans distinguish several two-bedroom layouts and balcony sizes. Compare the exact drawing for each home."
+      ],
+      "community": "Town Square",
+      "locationNote": "Town Square, Dubai. The boulevard and community park form the project’s setting; outlook varies with the chosen home.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "Property Finder’s actual project record lists AED 830,388 as its starting reference. This is a historical portal guide, not a current inventory quotation.",
+      "paymentNote": "The original calendar, shown below, is historical. A new reservation or resale requires its own confirmed payment terms.",
+      "handoverNote": "The original sheet indicates July 2026; the portal labels September 2026 and completed. Nshama still says under construction, reporting 73.16% as of September 2026. Actual completion is unconfirmed.",
+      "units": [
+        {
+          "label": "1BR · A",
+          "area": "60.21 m² / 648.09 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · A",
+          "area": "88.76–90.37 m² / 955.40–972.73 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · B",
+          "area": "88.90–90.38 m² / 956.91–972.84 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · C",
+          "area": "83.92 m² / 903.30 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · F",
+          "area": "86.14–86.52 m² / 927.20–931.29 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · A",
+          "area": "121.56–122.30 m² / 1,308.45–1,316.42 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · B",
+          "area": "125.88 m² / 1,354.96 ft²",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "October 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · indicative July 2026",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Total built-up includes balcony space; drawings are approximate",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Primary progress snapshot",
+          "value": "73.16% · September 2026 update, not a current independent audit",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The primary under-construction status conflicts with the portal’s completed label. Both forecast dates have elapsed; completion or possession is not verified.",
+        "Printed 2 BR F minimum/maximum and 3 BR B totals differ from their component sums by 0.01 sq ft. Printed totals are retained.",
+        "The original 50/50 calendar is historical. Any different current offer, parking allocation, approved charges, unit availability or price needs written confirmation."
+      ]
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "meraas-project-16",
+  "name": "Madinat Jumeirah Living Jomana",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Jomana introduces The Urban Edition’s contemporary architecture to Madinat Jumeirah Living. Its one- to four-bedroom apartments sit within a pedestrian-oriented neighbourhood with courtyards, parks and community facilities. Building-specific plans include both balcony homes and ground-floor homes with larger terraces.",
+    "areaId": "dubai-madinat-jumeirah-living",
+    "location": "Madinat Jumeirah Living",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": "70/30 · original historical calendar",
+    "amenities": [
+      "Community swimming pools",
+      "Fitness centres",
+      "Parks and open spaces",
+      "Children’s play areas",
+      "Community retail",
+      "Pedestrian walkways"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2023-11/MJL_JOMANA_Brochure%20English.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2023-11/MJL_JomanaFloor%20Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Meraas: Jomana own project page",
+          "url": "https://meraas.com/en/project/mjl-jomana",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Jomana official21-page brochure",
+          "url": "https://meraas.com/sites/default/files/2023-11/MJL_JOMANA_Brochure%20English.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Jomana official142-page building-specific plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/MJL_JomanaFloor%20Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "payment",
+          "label": "Jomana official original payment calendar",
+          "url": "https://meraas.com/sites/default/files/2023-11/MJLJomanaPaymentPlanA4FENew.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Jomana dated external reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/jomana",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Jomana page sold out; cross-copied Elara paragraph and Riwa 3D link excluded.",
+        "location": "Own Madinat Jumeirah Living community location.",
+        "residences": "Own one-to-four-bedroom types; building 1 numerical examples reviewed.",
+        "areas": "142-page official pack actual visible pages 3/4 support ground floor examples; hidden repeated technical layers not used.",
+        "amenities": "Own shared pools/fitness/retail/walkways/play spaces checked.",
+        "pricing": "Official current amount blank; no current developer minimum invented.",
+        "payment": "Original 20 + five 10 + 30=100, all dated 2023–2026 milestones historical.",
+        "handover": "OriginalMay 2026 target elapsed; own June 2026 progress still describes finishing/approvals; no completion inferred.",
+        "documents": "Own 21-page brochure, 142-page official plans, original one-page payment and masterplan retrieved."
+      },
+      "community": "Jomana · Madinat Jumeirah Living",
+      "overview": [
+        "The reviewed Building 1 ground-floor examples have private terraces counted within total area. A larger terrace does not mean proportionately more enclosed living space; assess suite and outdoor components independently."
+      ],
+      "locationNote": "Madinat Jumeirah Living in Dubai. Community retail and circulation routes are shared neighbourhood features; confirm the chosen home’s access rights and delivered facilities.",
+      "priceLabel": "Current official price unavailable · sold-out catalogue",
+      "priceNote": "The Meraas page is marked sold out and displays no numeric current starting price. No current developer quotation or available unit was verified; historical launch guides should not be treated as a present offer.",
+      "paymentNote": "The original official calendar gives 20% booking; 10% August 2023; 10% February 2024; 10% August 2024; 10% February 2025; 10% August 2025; 30% May 2026 handover. These elapsed dates do not establish a new purchase schedule or prove that all units have handed over.",
+      "handoverNote": "May 2026 is the original sheet’s estimated construction completion date. The own website’sJune 2026 update still describes finishing, approvals and handover preparations. A current completion certificate or selected-unit handover confirmation was not retrieved; the headline remains unset. Property Finder marks the project Ready and lists April 2026, whereas the developer’s older progress narrative describes handover preparations. That external status was not independently established for every home.",
+      "units": [
+        {
+          "label": "Building 1 · 1-bedroomA · ground floorBL 1-G01",
+          "area": "1,097.92 sq ft total: 730.33 suite + 367.59 outdoor area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Building 1 · 2-bedroomB · ground floorBL 1-G02",
+          "area": "1,580.79 sq ft total: 1,065.52 suite + 515.27 outdoor area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Building 1 · 3-bedroomC · ground floorBL 1-G03",
+          "area": "2,598.84 sq ft total: 1,822.44 suite + 776.40 outdoor area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · original calendar",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2026 · original handover target",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Property Finder’s Ready status and April 2026 reference differ from the original May 2026 target and developer’s June progress narrative. No selected-unit completion/handover certificate or signed revised schedule retrieved.",
+        "The website contains an Elara paragraph and a Riwa 3-bedroom 3D link; those mismatched elements were not used for Jomana unit facts.",
+        "No current service charges, parking allocation, stock or furnishing specification confirmed. Images remain illustrative."
+      ]
+    }
+  }
+}

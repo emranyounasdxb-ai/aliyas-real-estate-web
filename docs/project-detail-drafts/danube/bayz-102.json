@@ -1,0 +1,225 @@
+{
+  "id": "danube-project-09",
+  "name": "Bayz 102",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Bayz 102 is a furnished residential tower in Business Bay, with studios, one- to four-bedroom apartments and five-bedroom penthouses. Convertible layouts, outdoor areas and selected private pools vary between homes.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": 2400000,
+    "handover": "June 2029 · developer target; conflicting dates",
+    "paymentPlan": "30/70 · current headline; confirm schedule",
+    "amenities": [
+      "Infinity pool",
+      "Indoor gym",
+      "Aquatic gym",
+      "Children’s pool",
+      "BBQ areas",
+      "Business centre",
+      "Library",
+      "Cinema",
+      "Basketball court",
+      "Spa",
+      "Yoga deck",
+      "Private pools · selected layouts"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2024/09/Bayz_102_brochure_04.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Bayz 102 own project page · headline and FAQ conflicts",
+          "url": "https://danubeproperties.com/portfolio/bayz102/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official 27-page Bayz 102 brochure",
+          "url": "https://danubeproperties.com/wp-content/uploads/2024/09/Bayz_102_brochure_04.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Danube public collateral ZIP · VER4 apartments and penthouse plans",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "factsheet",
+          "label": "Danube public collateral ZIP · two-page Bayz 102 factsheet",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 5
+        },
+        {
+          "id": "construction",
+          "label": "Danube internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/bayz102/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Bayz 102 guide · historical launch and payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/bayz-102",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "payment",
+          "label": "Homeblocks broker-hosted payment summary · undated historical reference",
+          "url": "https://homeblocks.io/wp-content/uploads/2025/08/Bayz-102-payment-plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "construction",
+          "factsheet"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder",
+          "payment"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "factsheet",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Bayz 102 only, not Bayz 101 or original Bayz.",
+        "location": "Own Business Bay and Al Mustaqbal Street map link; no guessed coordinates or travel-time guarantee.",
+        "residences": "Own headline 956 apartments; official penthouse pack identifies five bedrooms. Main residential total not assumed to exclude penthouses.",
+        "areas": "Visually read official VER4 apartment pages4/6/7/9/16/17 and penthouse pages4/5/7/9/11. All totals retained exactly. Duplex total on upper-floor area panel is whole-home, not duplicated per floor.",
+        "amenities": "Own project list, private pools only selected plans. Proposed helipad not represented as an operating transport service.",
+        "pricing": "Current own headline2.4m versus own FAQ1.27m studio/older launch figures; no current inventory claim.",
+        "payment": "Current own30/70 has no primary dated schedule. PF10/59/1/30post agrees with broker summary total10+10+12+2+11+2+22+1+30=100, but not assumed equivalent to current headline.",
+        "handover": "Current own June2029, own FAQDecember2028, PFDecember2029; explicit unresolved conflict. Internal30Sept2026 construction17percent.",
+        "documents": "Official27pbrochure, publicZIP24pVER4+16ppenthouses and2pfactsheet downloaded. All numeric panels visually read bounded1700. PooledPDF derivation170, full payment onepage visually read."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "Danube lists 956 apartments and 102 levels. Its internal 30 September 2026 update reports 17% progress, shoring and piling completed, with excavation and strut installation continuing. This is a dated developer report, not confirmation of completion."
+      ],
+      "locationNote": "Business Bay, on the developer’s Al Mustaqbal Street map. Confirm the selected orientation and surrounding construction.",
+      "priceLabel": "Developer guide · reconfirm",
+      "priceNote": "The current headline is AED 2.4m, while the same page’s FAQ retains a studio guide of AED 1.27m. Property Finder carries an older launch guide. These snapshots do not establish current entry stock.",
+      "paymentNote": "The developer now advertises 30/70 without a dated calendar. Property Finder and the broker summary instead describe 10% booking, 59% construction, 1% completion and 30% post-handover. The broker sheet spreads the final 30% over 30 months. Confirm the contract; the schedules are not treated as equivalent.",
+      "handoverNote": "The developer headline targets June 2029, its FAQ says December 2028, and Property Finder says December 2029. None establishes actual handover; the conflict needs written clarification.",
+      "units": [
+        {
+          "label": "Studio · VER4",
+          "area": "392–405 ft² total / 325–334 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex 1-bedroom",
+          "area": "737–806 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex Presidential A · pool",
+          "area": "760–772 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex Premier 2-bedroom A · pool",
+          "area": "1,452–1,464 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom · pool",
+          "area": "1,598–1,615 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom · pool",
+          "area": "1,997–2,009 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom penthouse A / B",
+          "area": "8,320 / 7,503 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom penthouse C / D",
+          "area": "6,826 / 8,643 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [],
+      "unresolved": [
+        "Areas include balconies. Penthouse totals cover both levels; printed totals are not doubled. Layout variants differ from older portal ranges.",
+        "Convertible marketing labels do not automatically change the registered bedroom count. Confirm the executed plan and furnishing inventory.",
+        "Helipad and sky-taxi imagery does not confirm operational approvals or available services. Current stock, charges, parking, final milestones and completion documents remain unverified. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

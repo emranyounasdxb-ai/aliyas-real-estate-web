@@ -1,0 +1,71 @@
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.placeholder {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: #1f1f1f;
+  color: #d7bd80;
+  overflow: hidden;
+  container-type: inline-size;
+}
+.top {
+  position: absolute;
+  inset: 24px 24px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.frame {
+  position: absolute;
+  inset: 64px 24px;
+  border: 1px solid #45402f;
+  border-radius: 4px;
+}
+.placeholder .logo {
+  position: relative;
+  width: 36%;
+  max-width: 160px;
+  min-width: 96px;
+  height: auto;
+  object-fit: contain;
+  transform: none;
+}
+.caption {
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  color: #b7b7b7;
+  font-size: 12px;
+  line-height: 16px;
+}
+@container (max-width: 300px) {
+  .top {
+    inset: 16px 16px auto;
+    letter-spacing: 0.04em;
+  }
+  .frame {
+    inset: 48px 16px;
+  }
+  .caption {
+    left: 16px;
+    bottom: 16px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .placeholder * {
+    transition: none !important;
+    transform: none !important;
+  }
+}

@@ -1,0 +1,58 @@
+{
+ "id":"emaar-project-73","name":"Golf Lane","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Lane is a villa neighbourhood at Emaar South, offering four-bedroom semi-detached homes and five-bedroom standalone homes. Six named layouts provide different internal arrangements across ground, first and second floors, with balconies, patios and roof terraces overlooking the surrounding community.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Villa","bedrooms":"4–5","price":4480000,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s swimming pools","Community centre","Linear park","Children’s play areas","Multipurpose room","Gym","Jogging path","Golf course and clubhouse within Emaar South"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Golf-Lane_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Golf-Lane_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Lane at Emaar South","url":"https://www.emaar.com/en/properties/golf-lane-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Golf Lane brochure","url":"https://www.emaar.com/cms-media/uploads/Golf-Lane_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"plans","label":"Emaar: Golf Lane floor plans","url":"https://www.emaar.com/cms-media/uploads/Golf-Lane_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/golf-lane/GOLF_LANE_ES_ONE_PAGER.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":125},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/golf-lane/GOLF_LANE_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Golf Lane","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-lane","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Lane identity and 664-villa published scale checked on Emaar’s page.","location":"Emaar South mapped to Dubai South without using portal drive-time claims.","residences":"Four-bedroom semi-detached and five-bedroom standalone villas, six named types.","areas":"All 12 original/mirrored plan tables inspected; differing Sage areas retained.","amenities":"Developer-listed neighbourhood facilities separated from community golf access.","pricing":"AED 4.48m official start and historical AED 5.36m five-bedroom start identified.","payment":"Nine payments total 100%: eight 10% instalments and 20% on completion.","handover":"October 2028 launch estimate corroborated by Property Finder.","documents":"Official brochure and 13-page floor-plan pack linked; launch fact/payment copies attributed."
+   },
+   "community":"Emaar South",
+   "overview":["The brochure emphasises contemporary façades, warm interiors and substantial outdoor terraces. Shared facilities sit within the wider Emaar South golf community, which also includes a community park, retail kiosks, a skate park, a multipurpose court and events space. These are neighbourhood features, not assurances that every home has a golf view or that golf membership is included."],
+   "locationNote":"Golf Lane is in Emaar South, within Dubai South, with highway connections towards Al Maktoum International Airport and Expo City Dubai. Check the selected home’s access and outlook against its plot plan, and test regular commuting routes at the times you expect to travel.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 4.48m. The May 2024 launch sheet lists four-bedroom villas from AED 4.48m and five-bedroom villas from AED 5.36m. These category starts are historical reference points; they are not confirmation of currently available units.",
+   "paymentNote":"The launch plan requires 10% on booking, 70% in seven later instalments and 20% at estimated completion. Property Finder reports the same 10/70/20 split. Current unit and resale terms need separate confirmation.",
+   "handoverNote":"The launch payment PDF estimates October 2028 completion, consistent with Property Finder. Q4 2028 remains an estimated delivery period rather than a guarantee.",
+   "units":[
+    {"label":"4 bedroom · Ava","area":"4,043.36 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Terra","area":"4,042.60 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Sage original","area":"4,038.19 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Sage mirrored","area":"4,016.44 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom · Myra","area":"4,899.73 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom · Kyra","area":"4,851.94 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom · Livia","area":"4,917.71 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · May 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"July 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published development scale","value":"Emaar describes 664 villas. This is the development count, not the number currently available.","sourceIds":["official"]},
+    {"label":"Area definition","value":"Totals include suite, garage and balcony/terrace areas; they are not plot sizes. Original and mirrored totals match except for Sage, which is listed separately above.","sourceIds":["plans"]},
+    {"label":"Ava layout example","value":"A ground-floor guest bedroom and maid’s room sit below three bedrooms. A second-floor flex room, bathroom and terrace provide additional space without changing the four-bedroom classification.","sourceIds":["plans"]},
+    {"label":"Myra layout example","value":"One bedroom is on the ground floor, three on the first and one on the second. Plans also mark a lift, maid’s room, laundry, storage and garage; confirm delivered specifications in the contract.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Individual plot sizes, available inventory, service charges and current construction progress require confirmation.","Check final lift, landscaping, parking and golf membership provisions for the selected villa; renderings do not establish inclusions.","Photography remains illustrative; real project images are deferred."]
+  }
+ }
+}

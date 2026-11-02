@@ -1,0 +1,293 @@
+{
+  "id": "imtiaz-project-12",
+  "name": "Pearl House 4 by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Pearl House 4 in Jumeirah Village Circle offers furnished studios and one- and two-bedroom apartments. Shared pool and leisure spaces are distributed between the first and thirteenth floors.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Adult pool",
+      "Children’s pool",
+      "Clubhouse",
+      "Gym",
+      "Outdoor cinema",
+      "Barbecue area",
+      "Sunken seating",
+      "Outdoor seating",
+      "Outdoor shower",
+      "Changing rooms"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Pearl House 4: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/pearl-house-4-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Pearl House 4: branded 33-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "facts",
+          "label": "Pearl House 4: branded 3-page factsheet, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Pearl House 4: branded 5-page building plans, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "payment",
+          "label": "Pearl House 4: original dated payment sheet, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/pearl-house-4/PEARL_HOUSE_4_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "priceNote": [
+          "facts",
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer",
+          "facts",
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "paymentNote": [
+          "facts",
+          "payment"
+        ],
+        "handover": [
+          "developer",
+          "facts",
+          "payment"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts",
+          "payment"
+        ],
+        "units": [
+          "facts"
+        ],
+        "facts": [
+          "facts",
+          "developer"
+        ],
+        "unresolved": [
+          "facts",
+          "plans",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected12PearlHouse 4 notIII/II/original. Actualownpageand33pbrochure/3pfacts/5pplans/1ppaymentbrandingmatch. Actualmix72studio+112one+25two=209homes plus2retail=211totalunits, not211residences.",
+        "location": "OwnFAQandactualfacts1explicitJVC, exactregistrydubai-jvc/JumeirahVillageCircle. No road-time guarantee/coordinates adopted. Mapsreviewonlynotmeasurement.",
+        "residences": "OwnFAQfullyfurnishedstudio/1/2 confirmsactualfloorplates3/4allthreefamilies;13thfloorstudio/onewithsharedfacilities notassumedpenthouse. Actualfacts2G+4P+13, floorpackshowsground/1/2–12typical/13. No inferredunitcountfromscaledfloorplate.",
+        "areas": "Actualfacts2table401studio/793one/1205two/1014retail MINIMUMSIZE RANGE SQFT; basisnotnet/BUAdisclosed. Actualall5floorplanpagesvisuallyread, noindividualaggregateareas. No minimum convertedtorange ormappedtooneexactunit. Brochureall33pagestextreviewed nofurthernumericunitareas.",
+        "amenities": "Owncurrenttenamenities/actualfacts2same, groundplan2retail/lobby, firstfloor3kidspool/play,13th5adultpool/clubhouse/gym/cinema. Privatepoolnotclaimedforallhomes. Furnitureinventory/maintenancependingcontract; nohealth/returnsclaims.",
+        "pricing": "Actualfacts2starting765000studio,1.3mone,1.6mtwo,2.53mretail; datedfileSept2025claimsecondarymetadata notverifiedprintedpublicationdate. Historicalguideonly becauseowncurrentnoquote, headlineNULL. Currentstock/discountsnotassumed.",
+        "payment": "Actualfacts2firstdated5on15Dec2025 differsactualstandalone5on15Jan2026, bothremaining10March/5July/10October2026/5Feb/5July2027/40completionQ42027orDec2027. Both20+5+10+5+10+5+5+40=100. CurrentownFAQincorrectJune2026completion conflictsQ42027header/FAQhandover andactualsheets. HeadlinepaymentNULL anddateNULL; explicitunresolved notsilentlyrepair.",
+        "handover": "CurrentprimaryhandoverQ42027 vsownpaymentFAQJune2026; actualfactsQ42027 andpayDec2027. HeadlineNULLdueprimaryconflict; noactualcompletioncertclaim. OwnfreshordinaryHTML21overall/98substructure/45superstructure/4MEP/1finishing undatedwebsite snapshot, olderindexed18/36/3notused.",
+        "documents": "OwnordinaryHTML200 actualinquiry-modal documentbuttons, noformsubmitted/bypass. Mitchellspublichrefactual33pbroch23541998bytes/3pfacts7884180/5pplans3743877/1ppay2000239download200. Factsall3andall5plansandpaymentactualPNG<=1700read; brochurealltextreviewed. Pool200combined20broch90facts30plans60pay; no extrabudgetformirrors/version. No genericindexsource."
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "The building plans distinguish shared children’s facilities from the higher-level adult pool and clubhouse."
+      ],
+      "locationNote": "Jumeirah Village Circle, Dubai; confirm the exact unit orientation.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "Original factsheet: studios from AED 765,000. This is a historical reference; current prices and stock are unconfirmed.",
+      "paymentNote": "Standalone dated reference below. The factsheet starts its first 5% instalment in December 2025 instead of January 2026. Confirm the applicable calendar.",
+      "handoverNote": "Header and handover FAQ: Q4 2027; payment FAQ: June 2026. Original payment sheet: December 2027. The primary sources conflict.",
+      "units": [
+        {
+          "label": "Studio minimum",
+          "area": "401 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "1BR minimum",
+          "area": "793 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2BR minimum",
+          "area": "1,205 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Retail minimum",
+          "area": "1,014 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 January 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 March 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 October 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 February 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 July 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion: December 2027",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original mix",
+          "value": "209 homes: 72 studios, 112 one-bedroom, 25 two-bedroom; 2 retail units separately.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Configuration",
+          "value": "G+4P+13.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "21% overall; 98% substructure; 45% superstructure; 4% MEP; 1% finishing. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Minimum areas are not individual-unit measurements. Confirm approved areas, charges, parking, stock and fit-out. Photography is illustrative."
+      ]
+    }
+  }
+}

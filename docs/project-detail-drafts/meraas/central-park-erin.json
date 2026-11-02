@@ -1,0 +1,216 @@
+{
+  "id": "meraas-project-21",
+  "name": "Central Park Erin",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Erin is an apartment phase at Central Park, City Walk, with one- to four-bedroom homes. Some lower-level plans have broad outdoor areas, while other floors use smaller balconies. The contemporary buildings face the shared landscaped park rather than forming a separate gated destination.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1590000,
+    "handover": null,
+    "paymentPlan": "20/50/30 · historical developer plan",
+    "amenities": [
+      "Pools and water play",
+      "Running track",
+      "Dog park",
+      "Children’s play areas",
+      "Sports courts",
+      "Outdoor fitness",
+      "Spa and sauna",
+      "Yoga areas",
+      "Community retail",
+      "Barbecue areas"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2023-11/FinalCPBrochure_ENGLISH_DIGITAL_Erin.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2023-11/FinalCPFloorPlans_ENGLISH_digital_Erin.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Central Park Erin official project page",
+          "url": "https://meraas.com/en/project/citywalk-central-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brochure",
+          "label": "Central Park Erin own official brochure and plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/FinalCPBrochure_ENGLISH_DIGITAL_Erin.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Central Park Erin",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/erin-central-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Official Erin floor plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/FinalCPFloorPlans_ENGLISH_digital_Erin.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "payment",
+          "label": "Official original Erin 2023 prices/payment plan",
+          "url": "https://meraas.com/sites/default/files/2023-11/FinalCPErinPricePaymentPlan2023.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ],
+        "price": [
+          "payment",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Erin brochure and separately titled plans inspected; no adjacent-phase data used.",
+        "location": "Own brochure identifies Central Park at City Walk.",
+        "residences": "Own original documents show one-to-four-bedroom apartments; unsupported five-bedroom claims excluded.",
+        "areas": "Actual tables and drawings visually inspected on plan pages 3, 9 and 15 with bounded crops.",
+        "amenities": "Own brochure page 8 shared community facilities checked.",
+        "pricing": "Original official 1.59m guide distinguished from current portal 2.1m selected-unit reference.",
+        "payment": "Official own payment sheet visually inspected; 20 + 5x10 + 30=100.",
+        "handover": "Original April 2026 target differs portal August 2026; current actual completion unconfirmed.",
+        "documents": "Official 31-page brochure, 18-page plans and one-page price/payment document retrieved."
+      },
+      "community": "City Walk",
+      "overview": [
+        "The selected one-bedroom plan has a much larger balcony than the reviewed two-bedroom plan. Their total areas therefore should not be read as a comparison of enclosed living space."
+      ],
+      "locationNote": "At Central Park in City Walk, Dubai. The phase brochure confirms its park setting. Shared facilities and unit-specific outlooks should be distinguished from private apartment space.",
+      "priceLabel": "Historical developer launch guide",
+      "priceNote": "The original official price sheet starts at AED 1.59m for one bedroom, 2.61m for two, 4.85m for three and 9.16m for four. These are historical launch tiers. Property Finder now displays about AED 2.1m for selected availability; no current developer quote is confirmed.",
+      "paymentNote": "The original developer sheet specifies 20% booking; five 10% instalments in June/December 2023, June/December 2024 and June 2025; then 30% April 2026 on handover. Passed dates do not establish a current resale balance or amended contract schedule.",
+      "handoverNote": "Original official target: April 2026. Property Finder gives August 2026. The developer lists Erin sold out and still describes finishing and approvals. These references do not confirm actual delivery of a particular unit.",
+      "units": [
+        {
+          "label": "1-bedroom Type A.1, unit 109",
+          "area": "716.88 sq ft suite + 593.41 sq ft balcony; 1,310.29 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B.1, units 811/911/1011/1109",
+          "area": "1,196.52 sq ft suite + 65.55 sq ft balcony; 1,262.07 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Type A.1, unit 116",
+          "area": "2,390.66 sq ft suite + 873.92 sq ft balcony; printed 3,264.59 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2026 · original handover target",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Obtain current handover evidence, dated price and remaining payment obligations; original targets have passed.",
+        "The four-bedroom printed total differs from its rounded components by 0.01 sq ft; the printed total is retained. Service charges, parking allocation and current stock need confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

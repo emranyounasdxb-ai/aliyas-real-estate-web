@@ -1,0 +1,175 @@
+{
+  "id": "sobha-project-15",
+  "name": "The Eden",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Eden is a one- and two-bedroom apartment tower within Sobha Central on Sheikh Zayed Road. Its setting combines landscaped podium space with planned internal links to shopping, leisure and everyday services.",
+    "areaId": "dubai-sobha-central",
+    "location": "Sobha Central",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 1710000,
+    "handover": "December 2029 · developer brochure estimate",
+    "paymentPlan": "20/40/40 · portal-reported option",
+    "amenities": [
+      "Leisure pool",
+      "Outdoor gym",
+      "Outdoor cinema",
+      "Family BBQ area",
+      "Children’s play area",
+      "Landscaped podium",
+      "Community retail and supermarket",
+      "Multiplex cinema"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha The Eden official page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-central/the-eden",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Eden official 65-page brochure and plans, June 2025 file",
+          "url": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Eden two reported payment options",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-eden-at-sobha-central",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "register-note",
+          "label": "Mitchell’s secondary wider-project register date",
+          "url": "https://www.mitchellscommercialrealty.com/projects/sobha-central-the-eden",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "brochure",
+          "register-note"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Eden tower, separate from Horizon/other Central launches.",
+        "location": "Official Sobha Central Sheikh Zayed Road location.",
+        "residences": "One/two bedrooms; no invented third-bedroom or office inventory.",
+        "areas": "Own65-page brochure indexed; numeric panels36,56,60 and date64 visually checked.",
+        "amenities": "Official listed leisure/services are shared community programme.",
+        "pricing": "Official currentAED1.71m, no portal resale headline substituted.",
+        "payment": "Portal options60/40 and20/40/40 distinguished as aggregate versus explicit booking split; no dated developer sheet.",
+        "handover": "Own officialACDDecember2029; secondary June2030 register reference qualified.",
+        "documents": "Official65-page brochure includes plans; no separate public current payment document found."
+      },
+      "community": "The Eden · Sobha Central",
+      "overview": [
+        "The cited one-bedroom Type A has a compact suite and balcony. Two-bedroom variants differ in orientation and outdoor area, including the larger Type G. Buyers should compare a specific drawing rather than applying a single average to all homes."
+      ],
+      "locationNote": "Within Sobha Central on Sheikh Zayed Road. The planned internal circulation connects residential and community uses; confirm actual delivery, tower access and the selected home’s orientation.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha advertises AED 1.71m subject to inventory. Older portal launch guides and selected resale prices differ; they do not establish the current price or availability of any particular unit.",
+      "paymentNote": "Property Finder presents two versions: 60% during construction/40% handover, and 20% launch down payment/40% construction/40% handover. The displayed stages use its explicit booking option. Obtain the dated current developer calendar and fees before relying on either.",
+      "handoverNote": "The official brochure prints anticipated completion in December 2029. A broker attributes June 2030 to the wider Phase I regulatory record, without primary verification here. These references are distinct; request the unit’s current contractual delivery date.",
+      "units": [
+        {
+          "label": "1-bedroom Type A range",
+          "area": "568.33–568.55 sq ft total: 479.10 suite + 89.23–89.45 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type D",
+          "area": "956.48 sq ft total: 837.32 suite + 119.16 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type G range",
+          "area": "1,201.90–1,202.01 sq ft total: 1,019.13 suite + balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch down payment · reported option",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · dates unconfirmed",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No current unit inventory, signed instalment schedule, parking allocation or service-charge rate retrieved.",
+        "Developer anticipated completion and a secondary wider-project register date differ; neither is a guarantee of a unit’s move-in date.",
+        "Community retail, clinic, cinema and road links require delivery/access confirmation. Plans allow amendments and furnishings are illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

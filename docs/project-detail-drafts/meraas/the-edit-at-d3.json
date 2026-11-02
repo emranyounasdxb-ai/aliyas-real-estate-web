@@ -1,0 +1,233 @@
+{
+  "id": "meraas-project-02",
+  "name": "The Edit at d3",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "The Edit at d3 is a three-tower residential development on the waterfront in Dubai Design District. Landscaped sky gardens and shared social spaces connect the scheme’s architecture with its setting. The collection includes one- to four-bedroom apartments and explicitly labelled five-bedroom penthouses in the official plans.",
+    "areaId": "dubai-design-district",
+    "location": "Dubai Design District",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 2000000,
+    "handover": "June 2030 · developer estimate",
+    "paymentPlan": "75/25 · dated developer release plan",
+    "amenities": [
+      "Gym",
+      "Cinema room",
+      "Children’s club",
+      "Events lounge",
+      "Coworking space",
+      "Teenagers’ club",
+      "Yoga studio",
+      "Wellness studio",
+      "Sky gardens",
+      "Padel court"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2025-11/The%20Edit%20at%20d3%20Brochure.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2025-11/The%20Edit%20at%20d3%20FloorPlans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Meraas: The Edit at d3",
+          "url": "https://meraas.com/en/the-edit-at-d3",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "The Edit at d3 official brochure",
+          "url": "https://meraas.com/sites/default/files/2025-11/The%20Edit%20at%20d3%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "The Edit at d3 official floor plans",
+          "url": "https://meraas.com/sites/default/files/2025-11/The%20Edit%20at%20d3%20FloorPlans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "payment",
+          "label": "The Edit at d3 dated developer price and payment sheet",
+          "url": "https://meraas.com/sites/default/files/2025-11/The%20Edit%20at%20d3%20PaymentPlan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "plans"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "payment",
+          "official"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own dedicated developer page and project-named documents checked against protected identity; current release/tower scope retained.",
+        "location": "Named community and Dubai setting verified by developer; no coordinates or drive-time guarantees invented.",
+        "residences": "Named official apartment and special-residence types reviewed; explicit plan labels take precedence over incomplete headline ranges.",
+        "areas": "Own plan packs extracted, then selected numbered tables visually inspected. Hidden or transposed PDF text was not treated as numeric evidence; printed area labels retained.",
+        "amenities": "Own project-page and brochure facilities reviewed; shared/community facilities are not guaranteed private apartment inclusions.",
+        "pricing": "Own dated developer release guides transcribed; no available allocation, valuation or live quotation claimed.",
+        "payment": "Own dated schedule visually checked; eight stages total 100%. Past calendar dates retained as historical published instalments, not a fresh booking offer.",
+        "handover": "Own payment document anticipated completion date visually checked; no contractual guarantee or actual completion inferred.",
+        "documents": "Own official brochure, plan pack and dated payment sheet retrieved and inspected; source links retained for exact chosen-unit comparison."
+      },
+      "community": "Dubai Design District",
+      "overview": [
+        "The reviewed examples belong to Tower A. Curved balcony lines create different outdoor areas across otherwise similar apartment types. The five-bedroom A-PH-A penthouse devotes almost as much published area to balconies as to the enclosed suite; its total should not be read as internal living space."
+      ],
+      "locationNote": "Dubai Design District, Dubai, as identified by Meraas. Confirm the selected building, entrance and unit outlook on its approved plan; surrounding facilities and travel conditions can change.",
+      "priceLabel": "Developer release guide · reconfirm",
+      "priceNote": "The official payment sheet publishes starting guides of AED 2.0m for one bedroom, AED 4.0m for two bedrooms, AED 5.1m for two bedrooms plus maid, AED 7.7m for three bedrooms, AED 10.7m for four bedrooms and AED 34.1m for a penthouse. These are release guides, not a current unit allocation.",
+      "paymentNote": "The linked developer document uses 20% booking, six construction instalments totalling 55% and 25% at anticipated handover. Some dates have already passed. This is the published release calendar, not confirmation that a new reservation receives those terms; obtain a dated unit offer and remaining-balance statement.",
+      "handoverNote": "The own developer payment sheet states estimated construction completion and handover in June 2030. The selected contract establishes the applicable delivery provisions; no completed inventory is asserted.",
+      "units": [
+        {
+          "label": "Tower A · 1-bedroom A-1B-A.2",
+          "area": "754.66 sq ft total NSA; 685.77 suite NIA + 68.89 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 2-bedroom A-2B-D.1 · unit 1603",
+          "area": "1,328.27 sq ft total NSA; 1,269.28 suite + 58.99 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 4-bedroom A-4B-B.1",
+          "area": "2,812.82 sq ft total NSA; 2,515.52 suite + 297.30 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 5-bedroom penthouse A-PH-A · unit 3001",
+          "area": "9,398.93 sq ft total NSA; 4,874.97 suite + 4,523.96 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · published release schedule",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2026 · published instalment 1",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2026 · published instalment 2",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2027 · published instalment 3",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2027 · published instalment 4",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2027 · published instalment 5",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2028 · published instalment 6",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2030 · estimated handover instalment",
+          "percent": 25,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Tower-specific layouts",
+          "value": "The linked plan pack separates Towers A, B and C. The table presents named Tower A examples; another tower or similarly numbered type may have different areas.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The webpage’s headline range is one to four bedrooms plus penthouses. The floor-plan pack expressly labels the penthouse example as five bedrooms, which supports the extended numeric range here.",
+        "Current stock, exact parking allocation, approved service charges, final finishes and furnishing inclusions require unit-specific confirmation. No operating-cost budget or live allocation was established.",
+        "Amenity completion, operating rules and any separate access charges require confirmation. Project images remain illustrative."
+      ]
+    }
+  }
+}

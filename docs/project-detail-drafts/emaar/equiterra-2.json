@@ -1,0 +1,63 @@
+{
+  "id":"emaar-project-104","name":"Equiterra 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Equiterra 2 is a three- and four-bedroom townhouse neighbourhood at Grand Polo Club & Resort. Its architecture takes cues from equestrian estates, with contemporary interiors and landscaped communal spaces. This second release has a separate 384-home launch collection and its own payment programme.",
+    "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":3500000,"handover":"Q3 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Community polo fields","Clubhouse","Stables and riding arenas","Linear park","Multipurpose lounge","Community centre","Fitness area","Playground","Padel court","Swimming pools","Yoga platforms","Amphitheatre","Barbecue and bonfire area"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/425766_brochure_File_b49fc7e745_prod.pdf",
+    "floorPlanUrl":"https://reelly-backend.s3.amazonaws.com/project_files/15048ece2bdc4718858e3970ad51d67a.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Equiterra 2 at Grand Polo Club & Resort","url":"https://www.emaar.com/en/properties/equiterra-2-at-grand-polo-club-and-resort","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Equiterra 2 brochure","url":"https://www.emaar.com/cms-media/uploads/425766_brochure_File_b49fc7e745_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"plans","label":"Emaar Equiterra 2 floor plans, CASADIOR-linked Reelly copy","url":"https://reelly-backend.s3.amazonaws.com/project_files/15048ece2bdc4718858e3970ad51d67a.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Equiterra 2 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_2_GP_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"payment","label":"Emaar Equiterra 2 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_2_GP_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"host","label":"CASADIOR: Equiterra 2 document listing","url":"https://maisondubai.com/projects/equiterra-2","kind":"broker","checkedOn":"2026-10-31","derivedWords":30}
+      ],
+      "fieldSources":{"description":["official","facts"],"overview":["brochure"],"location":["brochure"],"type":["official","facts"],"bedrooms":["official","facts"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["official","plans","host"],"paymentPlan":["payment"],"handover":["payment","host"]},
+      "reviewCoverage":{
+        "identity":"Own Emaar phase-two page and 384-home fact sheet checked; Equiterra phase-one 547-home mix excluded.",
+        "location":"Grand Polo Club & Resort and brochure location map checked; exact unit access and views remain unconfirmed.",
+        "residences":"Three/four-bedroom townhouses confirmed; five-bedroom homes mentioned in a broker's generic paragraph are not included.",
+        "areas":"All fifteen own floor-plan pages extracted; representative Style A/B layouts and area tables visually checked, including inconsistent mirrored metric figures.",
+        "amenities":"Own official page, brochure and phase-two fact sheet checked; wider-community equestrian facilities distinguished from individual-home inclusions.",
+        "pricing":"Official AED 3.5m starting reference distinguished from fact-sheet average prices and average plot/BUA values.",
+        "payment":"Own eight-stage schedule visually checked; 10/10/10/10/10/15/15/20 totals 100%.",
+        "handover":"July 2029 estimate verified on own payment sheet; independent document host reports Q3 2029.",
+        "documents":"Official brochure and an explicitly titled phase-two floor-plan copy linked. Own fact/payment sheets retained separately from Equiterra phase one."
+      },
+      "community":"Grand Polo Club & Resort · Equiterra 2",
+      "overview":["The brochure brings together warm neutral interiors, textured finishes and polished stone flooring. Outside the homes, a green central landscape connects the equestrian setting with places to exercise, gather and relax. Pools, yoga platforms and an amphitheatre complement the larger clubhouse, stables and riding arenas. These are proposed community facilities; opening dates and any membership requirements need separate confirmation."],
+      "locationNote":"Equiterra 2 is part of Grand Polo Club & Resort in Dubai. The developer's location map uses Al Maktoum International Airport, The Oasis and Expo City as nearby reference destinations. Travel depends on the chosen entrance, road network and traffic; brochure journey times are not a commute guarantee.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 3.5m. The phase-two fact sheet lists average launch prices of AED 3.5m for three-bedroom and AED 4.6m for four-bedroom homes. An average is not a minimum or a current quotation. Confirm the selected unit's availability, price and payment balance.",
+      "paymentNote":"The release schedule requires 80% before completion and 20% at completion. The two 15% instalments are tied to construction progress. Historical dates remain launch references; a later purchase requires a fresh statement of amounts due.",
+      "handoverNote":"The Equiterra 2 payment document estimates July 2029, consistent with the document host's Q3 2029 listing. This is an estimated construction-completion date, subject to the contract and current developer updates.",
+      "units":[
+        {"label":"3-bedroom townhouse · Style A","area":"2,180.24 sq ft total; 1,559.37 sq ft suite","sourceIds":["plans"]},
+        {"label":"3-bedroom townhouse · Style B variants","area":"2,163.44 / 2,171.42 / 2,178.53 sq ft total","sourceIds":["plans"]},
+        {"label":"4-bedroom townhouse · Style A","area":"2,460.19 sq ft total; 1,985.94 sq ft suite","sourceIds":["plans"]},
+        {"label":"4-bedroom townhouse · Style B","area":"2,471.50 sq ft total; 1,992.94 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2027","percent":10,"sourceIds":["payment"]},
+        {"stage":"July 2027","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2028 · 60% construction","percent":15,"sourceIds":["payment"]},
+        {"stage":"June 2028 · 80% construction","percent":15,"sourceIds":["payment"]},
+        {"stage":"July 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Phase-two launch mix","value":"384 townhouses: 246 three-bedroom and 138 four-bedroom homes. This is the launch collection, not current available stock.","sourceIds":["facts"]},
+        {"label":"Category averages","value":"Three-bedroom homes: average BUA 2,175 sq ft and plot 1,583 sq ft. Four-bedroom homes: average BUA 2,467 sq ft and plot 3,087 sq ft. Individual plots and layouts vary.","sourceIds":["facts"]},
+        {"label":"Layout and area basis","value":"Styles A and B sit in four-, six- and eight-home rows. The four-bedroom Style A drawing includes a ground-floor guest bedroom and maid's room, with three bedrooms upstairs. Published total areas include garage and balcony/terrace components.","sourceIds":["plans"]},
+        {"label":"Drawing discrepancy","value":"The 2,171.42 sq ft Style B variant has inconsistent metric totals and a small component discrepancy across mirrored drawings. Published square-foot totals are retained; verify the signed unit area schedule.","sourceIds":["plans"]}
+      ],
+      "unresolved":["Current direct/resale availability, exact plot, price, service charges and payment balance require confirmation.","Confirm the selected unit's approved dimensions and finish specification; the public plan pack contains a mirrored-layout area inconsistency.","Clubhouse, riding facilities, pools and other community amenities may have phased delivery or separate access conditions.","Current construction progress, final handover and occupation permissions are not independently established.","Project photography remains deferred; existing imagery is illustrative."]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "aldar-project-12",
+  "name": "Mamsha Garden",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Mamsha Garden sits beside Mamsha Al Saadiyat and the cultural district, bringing apartments and a small townhouse collection into landscaped grounds. Its 493-home launch combines one to three bedrooms with shared places to work, exercise and meet, close to Mamsha Beach.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 3200000,
+    "handover": "2028 · developer estimate",
+    "paymentPlan": "65/35 · portal-reported",
+    "amenities": [
+      "Adult and children’s pools",
+      "Gym",
+      "Cinema",
+      "Kids’ club",
+      "Meditation spaces",
+      "Coworking and outdoor workspaces",
+      "Podium gardens",
+      "Concierge",
+      "Multipurpose room",
+      "Fragrance garden"
+    ],
+    "brochureUrl": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_mamsha_garden/mamsha_gardens_printed_brochure_v09.pdf?rev=1457c4780c714aa49e8fc4d9955a9b30",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/5bCCguGAR0ulqsYdRtWaxGfi0ZE/XNoR5g/Floor%20Plans.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Mamsha Garden",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/mamsha-garden",
+          "kind": "developer",
+          "derivedWords": 60,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Mamsha Gardens launch, November 2024",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-launches-mamsha-gardens",
+          "kind": "developer",
+          "derivedWords": 190,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Mamsha Gardens brochure",
+          "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_mamsha_garden/mamsha_gardens_printed_brochure_v09.pdf?rev=1457c4780c714aa49e8fc4d9955a9b30",
+          "kind": "official-document",
+          "derivedWords": 190,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "plans",
+          "label": "Aldar Mamsha Gardens floor plans, CASADIOR-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/5bCCguGAR0ulqsYdRtWaxGfi0ZE/XNoR5g/Floor%20Plans.pdf",
+          "kind": "broker",
+          "derivedWords": 170,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Mamsha Gardens",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/mamsha-gardens",
+          "kind": "portal",
+          "derivedWords": 170,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "results",
+          "label": "Aldar FY2025 results: project completion estimates",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "location": [
+          "official",
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "results"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Aldar page, dated launch and current brochure verified; exact existing catalogue title retained.",
+        "location": "Saadiyat Cultural District beside Mamsha Al Saadiyat confirmed by developer.",
+        "residences": "One to three bedroom apartments and two/three bedroom townhouses verified; apartment is the primary filter category.",
+        "areas": "Six sample layout sizes visually checked from Aldar-branded, publicly linked floor-plan pack; not claimed as full ranges.",
+        "amenities": "Developer brochure facilities and optional paid services reviewed.",
+        "pricing": "AED 3.2m portal asking reference; official page has no current project-wide quotation.",
+        "payment": "10/55/35 portal schedule verified; no dated project-wide contractual schedule established.",
+        "handover": "Developer FY2025 table visually confirms 2028; quarter/month conflicts retained in the note and not presented as confirmed.",
+        "documents": "Official brochure text checked and broker-linked sample plans visually reviewed; published sample drawings require final unit confirmation."
+      },
+      "community": "Mamsha Gardens · Saadiyat Cultural District",
+      "overview": [
+        "Aldar’s November 2024 announcement describes a development designed by ACME, with landscaped gardens, retail and pedestrian routes between homes and the surrounding district. The launch includes 13 townhouses alongside apartments. Interior choices and furnishing packages need to be checked against the particular building and release."
+      ],
+      "locationNote": "The developer locates the project beside Mamsha Al Saadiyat and Saadiyat Cultural District, within 200 metres of Mamsha Beach at launch. That is a development-level description rather than the measured walk from every apartment.",
+      "priceLabel": "Portal-advertised starting price",
+      "priceNote": "Property Finder advertises a starting reference of AED 3.2m while marking developer stock sold out. Confirm whether an available offer is a developer sale or resale, its furnishing package and all transaction costs.",
+      "paymentNote": "The portal reports 10% on booking, 55% during construction and 35% at handover. This is a launch-style summary, not confirmation of a new buyer’s remaining instalments.",
+      "handoverNote": "Aldar’s FY2025 pipeline lists completion in 2028. Property Finder gives June 2028. Treat this as an estimate for the listed release and obtain the chosen building’s current schedule; later releases or furnished collections can have different dates.",
+      "units": [
+        {
+          "label": "1-bedroom apartment · Type 1",
+          "area": "99 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment · Type 1, study",
+          "area": "195 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment · Type 3, maid and study",
+          "area": "216 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom apartment · Type 2, maid and study",
+          "area": "262 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom townhouse with maid room",
+          "area": "284 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse with maid room",
+          "area": "387 sq m GSA · sample plan",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 55,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Estimated completion",
+          "percent": 35,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furnishing and services",
+          "value": "The brochure distinguishes fully furnished residences from unfurnished apartments. Housekeeping, laundry, pet sitting and other à la carte services are available for an additional fee; confirm the package attached to the selected home.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Townhouse arrangement",
+          "value": "The sample townhouse drawings include ground, first and roof levels. Their GSA should not be compared directly with an apartment’s enclosed room area or with a villa plot.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Environmental targets",
+          "value": "The launch announcement targets Estidama 3 Pearl and Fitwel 3-star ratings. A target is not represented here as a completed building certification.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock and price require a dated offer; a portal starting figure is not an inventory guarantee.",
+        "Confirm building, furnishing, final approved layout, parking allocation and service charges.",
+        "Obtain contractual handover and the remaining payment schedule for the selected release.",
+        "Broker floor-plan copies are illustrative samples; their publication is not approval of an individual unit. Existing website imagery remains illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "samana-project-06",
+  "name": "SAMANA Business Hub",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Business Hub is a commercial development in Jebel Ali combining offices and retail. Business facilities sit alongside shared leisure spaces, including a pool, gyms, cafés and places for informal meetings.",
+    "areaId": "dubai-jebel-ali-industrial-2",
+    "location": "Jebel Ali Industrial 2",
+    "emirate": "Dubai",
+    "type": "Office",
+    "bedrooms": null,
+    "price": null,
+    "handover": "June 2029",
+    "paymentPlan": null,
+    "amenities": [
+      "Executive business club",
+      "Conference rooms",
+      "Co-working space",
+      "Podcast rooms",
+      "Indoor and outdoor meeting spaces",
+      "Indoor and outdoor cafés",
+      "Adult pool and cabanas",
+      "Indoor gym",
+      "Outdoor amphitheatre"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf",
+    "floorPlanUrl": "https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/08/19/17/45/6a85b37ed0276.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Business Hub · current developer page",
+          "url": "https://www.samanadevelopers.com/projects/samana-business-hub",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "microsite",
+          "label": "Business Hub · official project microsite",
+          "url": "https://samana-projects.samanadevelopers.com/projects/samana-business-hub",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Business Hub · official 36-page brochure",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plans",
+          "label": "Business Hub · official 66-page plans",
+          "url": "https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/08/19/17/45/6a85b37ed0276.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "facts",
+          "label": "Business Hub · official ten-page factbook",
+          "url": "https://samana-projects.samanadevelopers.com/storage/projects/files/fact-sheets/2026/08/19/18/07/6a85b89ab0e11.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut · Business Hub launch reference",
+          "url": "https://www.bayut.com/for-sale/property/dubai/jebel-ali/downtown-jebel-ali/samana-business-hub/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "areaId": [
+          "microsite"
+        ],
+        "location": [
+          "microsite"
+        ],
+        "locationNote": [
+          "microsite",
+          "developer",
+          "bayut"
+        ],
+        "price": [
+          "microsite",
+          "bayut"
+        ],
+        "priceNote": [
+          "microsite",
+          "developer",
+          "bayut"
+        ],
+        "paymentPlan": [
+          "developer",
+          "facts"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "facts"
+        ],
+        "overview": [
+          "facts",
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "developer"
+        ],
+        "handoverNote": [
+          "facts",
+          "developer",
+          "bayut"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "facts",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactBusinessHubnotBusinessPark. Own36pbrochure66pplans10pfactbookverified. Commercialoffice+retailnotresidentialbedrooms.",
+        "location": "Own microsite plot34, municipality518-0203, Jabal Ali Industrial Second; central exact Jebel Ali Industrial2 registry with matchingalias mapped. Bayut Downtown grouping not silently equated.",
+        "residences": "Commercialunits. Factbook4release307offices16retailvisuallyread; detailedall16retail10firstoffice18upperofficetypesnumericpanelsread.",
+        "areas": "All44numericpanelsvisuallyread(19–28,30–35,37–46,48–65). Publicfourgroup totalranges calculatedfromactualpublishedtotals; suitesnot substituted,wholehomearithmeticnotapplicable.",
+        "amenities": "Ownbodyandbrochure/factbook7business+leisurefacilitiesverified; notgeneralresidentialclaims.",
+        "pricing": "Ownmicro1160000butmainnoquote;Bayut1460000historicalreference. Headlinenull,selectedunitpriceunverified.",
+        "payment": "Actualfactbook5PDC15+85/non20+80versusmaincurrentPDC20+80explicitconflict. Publictablecurrentreference100;headlinenull.",
+        "handover": "Actualfactbook5June2029vsownFAQ Q22029agree, BayutQ32029conflictleftattributed. Datebasedpaymentnotactualcompletiondisclosed.",
+        "documents": "Primary36/66/10pdocumentsordinarypublicretrieval. All44numericalpanelsactualvisuals saved. PDFpool200,no genericindexclaims."
+      },
+      "community": "Jebel Ali",
+      "overview": [
+        "The release schedule totals 307 offices and 16 retail units. Plans separate ground-floor retail, podium retail and offices with floor-dependent variations."
+      ],
+      "locationNote": "The official microsite identifies plot 34, municipality 518-0203, Jabal Ali Industrial Second. The main page uses Jebel Ali; Bayut groups it under Downtown Jebel Ali. Exact community mapping remains unconfirmed.",
+      "priceLabel": "Unit-specific price required",
+      "priceNote": "The official microsite lists AED 1.16m from; the main page publishes no starting price. Bayut retains AED 1.46m launch pricing. These references do not establish a current selected-unit quotation.",
+      "paymentNote": "Current website reference below: 20% down and 80 monthly payments of 1%, called PDC. The factbook instead labels PDC as 15% + 85 months and non-PDC as 20% + 80 months. Confirm eligibility and the dated contract.",
+      "handoverNote": "The factbook anticipates June 2029, matching the main FAQ’s Q2 2029. Bayut instead gives Q3 2029; the final contractual date needs confirmation.",
+      "units": [
+        {
+          "label": "Ground retail · ten types",
+          "area": "838.51–2,574.30 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Podium retail · six types",
+          "area": "445.84–883.72 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "First-floor offices · ten types",
+          "area": "742.39–1,554.42 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Upper offices · 18 types",
+          "area": "593.41–2,040.51 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Current website reference · down payment",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Current website reference · 1% × 80 months",
+          "percent": 80,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published configuration",
+          "value": "18 office floors; five parking levels; 13 elevators; 3.6m floor-to-floor height.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plan totals are retained as printed; some component sums differ by 0.01 ft². Balconies and office sizes vary by floor; do not substitute suite area for total.",
+        "Handover-linked payments are date-based, regardless of completion. Current stock, service charges and delivery specifications need confirmation. Images are illustrative."
+      ]
+    }
+  }
+}

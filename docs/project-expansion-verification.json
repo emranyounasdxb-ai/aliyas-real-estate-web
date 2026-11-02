@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "checkedOn": "2026-10-31",
+  "projectNames": 575,
+  "developers": 30,
+  "addedNames": 269,
+  "buildId": "saGjTq12owZ8zCLuMSXDZ",
+  "staticRoutes": 1052,
+  "previewUrl": "http://127.0.0.1:3000",
+  "previewPid": 53236,
+  "build": "passed",
+  "typecheck": "passed",
+  "canonicalRoutes": "All 575 returned 200, correct project identity and noindex.",
+  "collections": "All 30 card/hero collections match their research records; original 306 identities and canonical/alias slugs preserved.",
+  "browserCases": "All 15 relevant cases passed across the 14-pass main run and one successful targeted accessibility rerun.",
+  "initialTestLimitation": "Eight whole-page axe scans of the now 108-card Emaar page exceeded the 45-second test budget. Scoped this gallery-specific axe test to .developer-hero; document overflow checks and separate full detail-page axe checks remain. Targeted rerun passed in 27.4 seconds.",
+  "interaction": "Desktop wheel, phone/tablet/landscape native-touch emulation, arrow-key access, final-card release, reduced motion, owner navigation, old redirects, invalid routes, gallery and enquiry context passed without form submission.",
+  "visual": "Emaar at 320/390/768/1024/1440 in both themes: no document overflow, all visible images decoded, 108 cards and 108 hero records. Final seven projects and Montura 3 owned link checked. Browser page-error list empty.",
+  "visualReview": [
+    "artifacts/project-expansion/emaar-final-projects-1440.png",
+    "artifacts/project-expansion/emaar-390-light.png",
+    "artifacts/project-expansion/emaar-768-dark.png",
+    "artifacts/project-expansion/emaar-320-light.png"
+  ],
+  "evidence": [
+    "artifacts/project-expansion/build.log",
+    "artifacts/project-expansion/verification.log",
+    "artifacts/project-expansion/accessibility.log",
+    "artifacts/project-expansion/visual-verification.json"
+  ],
+  "limits": "Browser emulation, not physical devices. Research limitations are in project-expansion-progress.md; source verification does not confirm inventory, commercial terms or present construction completion. Names-only and illustrative labels retained. Local only; no deployment."
+}

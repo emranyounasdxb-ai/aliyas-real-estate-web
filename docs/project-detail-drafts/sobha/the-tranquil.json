@@ -1,0 +1,165 @@
+{
+  "id": "sobha-project-12",
+  "name": "The Tranquil",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Tranquil is a Sobha Central apartment tower on Sheikh Zayed Road, planned around an elevated landscaped podium. Its official floor-plan collection spans compact one-bedroom homes, two-bedroom layouts and a larger three-bedroom arrangement.",
+    "areaId": "dubai-sobha-central",
+    "location": "Sobha Central",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1750000,
+    "handover": "December 2029 · portal-reported estimate",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Leisure pool",
+      "Calisthenic gym",
+      "Outdoor cinema",
+      "Family BBQ and gathering area",
+      "Picnic lawn",
+      "Children’s play area",
+      "Landscaped podium park"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2026-07/The%20Tranquil%20at%20Sobha%20Central_Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2026-07/The%20Tranquil%20at%20Sobha%20Central_Brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha The Tranquil official page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-central/the-tranquil",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha The Tranquil official brochure and plans, July 2026 file",
+          "url": "https://sobharealty.com/sites/default/files/2026-07/The%20Tranquil%20at%20Sobha%20Central_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder The Tranquil timeline and payment plan",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-tranquil",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Tranquil-specific page and current July2026 brochure.",
+        "location": "Sobha Central on Sheikh Zayed Road; exact tower/entrance not guessed.",
+        "residences": "Official prose says1/2 bedrooms but own plan collection visibly includes3-bedroom TypeA; disclosed.",
+        "areas": "Own98-page brochure indexed; selected numeric panels29,63,96 visually inspected.",
+        "amenities": "Own official page facilities recorded, shared podium scope qualified.",
+        "pricing": "OfficialAED1.75m start preferred to portal2.5m selection; no live stock inference.",
+        "payment": "Portal20/40/40, no dated primary calendar retrieved.",
+        "handover": "PortalDecember2029 estimate, not promise of timely delivery.",
+        "documents": "Official98-page brochure includes floorplans; no separate public payment PDF found."
+      },
+      "community": "The Tranquil · Sobha Central",
+      "overview": [
+        "A landscaped podium links the homes with outdoor activity and community facilities. Apartment size and room arrangements vary materially: the three-bedroom Type A includes a maid room, while the compact Type A one-bedroom drawing uses a much smaller footprint."
+      ],
+      "locationNote": "Within Sobha Central along Sheikh Zayed Road. Confirm the actual tower arrival, pedestrian route and unit orientation; marketing travel times and proposed road links are not fixed journey guarantees.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "The official page advertises AED 1.75m subject to inventory. Property Finder displays AED 2.5m for its selection and labels developer stock sold out. Different selections and dates do not establish a current available unit; request a written quotation.",
+      "paymentNote": "Property Finder lists 20% down payment at launch, 40% during construction and 40% on handover. No dated current developer instalment sheet was found, so amounts, dates, fees and any transfer balance require confirmation.",
+      "handoverNote": "Property Finder lists December 2029, expressed as Q4 2029. This is a portal-reported estimate. Its promotional claims about future timely completion are not adopted as verified outcomes.",
+      "units": [
+        {
+          "label": "1-bedroom Type A example",
+          "area": "495.47 sq ft total: 410.97 suite + 84.50 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A range",
+          "area": "859.50–859.71 sq ft total, including 99.78 sq ft balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A with maid room",
+          "area": "1,669.16 sq ft total: 1,537.41 suite + 131.75 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment · reported launch plan",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · dates unconfirmed",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The official narrative focuses on one/two bedrooms, whereas its own current brochure and website plan tabs include three. Confirm the currently released mix.",
+        "No signed handover schedule, current inventory, parking allocation or service-charge rate retrieved.",
+        "Illustrated furniture and views are not contractual specifications. Total saleable areas include balconies. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

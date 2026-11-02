@@ -1,0 +1,225 @@
+{
+  "id": "aldar-project-09",
+  "name": "Rise by Athlon",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Rise by Athlon brings apartments to Aldar’s Athlon community in Dubailand. Its eight buildings have different activity themes, with one to three bedroom layouts arranged around social spaces and facilities for everyday movement. The apartment release is separate from Athlon’s villa and townhouse collection.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1700000,
+    "handover": "2030 · developer estimate",
+    "paymentPlan": "60/40 · reference terms",
+    "amenities": [
+      "Themed building clubhouses",
+      "Fitness and recovery spaces",
+      "Social and games rooms",
+      "Community sports courts",
+      "Walking and cycling routes",
+      "Outdoor activity spaces"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/RISE_MAGENTA_BROCHURE-V2.pdf/e4a09770f6d911f08e63b6ec98be2ad5",
+    "floorPlanUrl": "https://storage.googleapis.com/xdil-qda0-zofk.m2.xano.io/vault/ZZLvFZFt/Al7mWg8kaIf5WmcKXyVkwSU6zCo/SVIl7A../Rise%20by%20Athlon%20Floorplans.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Rise by Athlon",
+          "url": "https://www.aldar.com/properties/en/rise-by-athlon",
+          "kind": "developer",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: Rise by Athlon launch announcement",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-launches-rise-by-athlon",
+          "kind": "developer",
+          "derivedWords": 180,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: Rise Magenta brochure",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/RISE_MAGENTA_BROCHURE-V2.pdf/e4a09770f6d911f08e63b6ec98be2ad5",
+          "kind": "official-document",
+          "derivedWords": 100,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "plans",
+          "label": "Aldar: Rise by Athlon plan collection · public copy",
+          "url": "https://storage.googleapis.com/xdil-qda0-zofk.m2.xano.io/vault/ZZLvFZFt/Al7mWg8kaIf5WmcKXyVkwSU6zCo/SVIl7A../Rise%20by%20Athlon%20Floorplans.pdf",
+          "kind": "official-document",
+          "derivedWords": 150,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "broker",
+          "label": "CASADIOR: Rise by Athlon reference terms",
+          "url": "https://maisondubai.com/projects/rise-by-athlon",
+          "kind": "broker",
+          "derivedWords": 150,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "corroboration",
+          "label": "Impala Real Estate: Rise by Athlon payment reference",
+          "url": "https://www.impalarealestate.com/projects/rise-by-athlon/",
+          "kind": "broker",
+          "derivedWords": 50,
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "id": "results",
+          "label": "Aldar FY2025 results: project completion estimates",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "derivedWords": 10,
+          "checkedOn": "2026-10-31"
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "launch"
+        ],
+        "overview": [
+          "brochure",
+          "plans"
+        ],
+        "units": [
+          "broker"
+        ],
+        "price": [
+          "official"
+        ],
+        "paymentPlan": [
+          "broker",
+          "corroboration"
+        ],
+        "handover": [
+          "results",
+          "broker"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "facts": [
+          "launch",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Rise apartment collection distinguished from Athlon villas and from its individual building releases, including Magenta.",
+        "location": "Official launch identifies the Athlon location near Global Village and E311/E611; existing Dubailand area ID retained.",
+        "residences": "One to three bedroom apartments confirmed; branded plan collection shows low-rise and tower arrangements.",
+        "areas": "All eleven plan sheets visually reviewed; no reliable aggregate unit areas printed. Broker sample ranges attributed without claiming a universal size schedule.",
+        "amenities": "Building-specific activity themes distinguished from shared Athlon community facilities.",
+        "pricing": "Current official Rise landing page starts at AED 1.7m; superseded AED 1.35m launch references excluded from the price field.",
+        "payment": "Two independent brokers corroborate 5/55/40; this is a reference structure pending a building-specific developer offer.",
+        "handover": "Official FY2025 project table places completion in 2030, replacing older 2029 marketing estimates. A broker Q1 2030 estimate remains separately attributed.",
+        "documents": "Official Magenta brochure and branded twelve-page plan collection downloaded. Plans visually checked; Magenta document scope explicitly labeled."
+      },
+      "community": "Rise by Athlon · Dubailand",
+      "overview": [
+        "The plan collection covers low-rise homes and tower apartments, including a two-bedroom layout with a maid’s room and a three-bedroom terrace arrangement. That variety makes the selected building and plan code important: a general bedroom count alone does not describe the outdoor space or layout."
+      ],
+      "locationNote": "Rise sits within Athlon in Dubailand. Use the selected building’s entrance and access route when assessing daily journeys; it should not be confused with an apartment in the neighbouring Arabian Ranches communities.",
+      "priceLabel": "Developer-advertised starting reference",
+      "priceNote": "The current Aldar Rise landing page advertises prices from AED 1.7m. Confirm the building, plan, remaining inventory and full quotation; this is not a reserved-home price.",
+      "paymentNote": "CASADIOR and Impala publish a reference of 5% booking, 55% through construction and 40% handover. The available building’s signed schedule controls; do not assume every Rise release has identical deposit dates.",
+      "handoverNote": "Aldar’s FY2025 pipeline estimates completion in 2030. CASADIOR specifies Q1 2030, while older marketing references used 2029. Confirm the current building-specific schedule before relying on a month or quarter.",
+      "units": [
+        {
+          "label": "1-bedroom apartment",
+          "area": "914–1,068 sq ft · broker-published examples",
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment",
+          "area": "1,440–1,720 sq ft · broker-published examples",
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "label": "3-bedroom apartment",
+          "area": "2,057–2,718 sq ft · broker-published examples",
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 5,
+          "sourceIds": [
+            "broker",
+            "corroboration"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 55,
+          "sourceIds": [
+            "broker",
+            "corroboration"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "broker",
+            "corroboration"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Building identities",
+          "value": "The collection names Neon, Azul, Magenta, Cyan, Teal, Foundry, Grid and Tempo. Their activity themes and facilities differ; check the amenity list for the chosen building.",
+          "sourceIds": [
+            "plans",
+            "launch"
+          ]
+        },
+        {
+          "label": "Document scope",
+          "value": "The linked Aldar brochure is the Magenta release document. The separate branded plan collection illustrates low-rise and tower layouts across Rise; neither substitutes for the purchased apartment’s unit schedule.",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock, exact unit areas and balcony inclusions require a selected-home offer.",
+        "Reference broker areas may describe different buildings; use the signed area schedule for a comparison.",
+        "Request current deposit dates, fees and service charges.",
+        "Confirm which amenities are inside the selected building, shared within Rise or part of the wider Athlon community."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

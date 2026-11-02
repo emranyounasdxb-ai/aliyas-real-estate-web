@@ -1,0 +1,67 @@
+{
+ "id":"emaar-project-25","name":"Address Villas – Tierra","developerSlug":"emaar",
+ "fields":{
+  "description":"Address Villas – Tierra is a collection of four to six bedroom detached villas within The Oasis. Its waterfront setting combines canals, landscaped spaces and shared leisure facilities with Address branding. The homes pair glass, stone, steel and wood with open interiors; layouts vary from three-level five bedroom homes to larger basement configurations.",
+  "areaId":"dubai-the-oasis","location":"The Oasis","emirate":"Dubai","type":"Villa","bedrooms":"4–6","price":13160000,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Swimmable lagoon","Community beaches","Swimming pools","Community parks and playgrounds","Jogging and cycling tracks","Wellness and spa facilities","Sports courts and fitness facilities","Retail centres","Community centre","Pocket parks","Clubhouse","Water Stream Park","Spring Garden","Multipurpose hall"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/ADDRESS_TIERRA_OASIS_BROCHURE.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ADDRESS_VILLAS_TIERRA_THE_OASIS_FLOOR_PLAN.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Address Villas – Tierra","url":"https://www.emaar.com/en/properties/address-villas-tierra","kind":"developer","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"brochure","label":"Emaar: Address Villas – Tierra brochure","url":"https://www.emaar.com/cms-media/uploads/ADDRESS_TIERRA_OASIS_BROCHURE.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Address Villas – Tierra floor plans","url":"https://www.emaar.com/cms-media/uploads/ADDRESS_VILLAS_TIERRA_THE_OASIS_FLOOR_PLAN.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Tierra launch fact sheet and payment plan · SAMS-hosted Emaar copy","url":"https://sams.ae/wp-content/uploads/2025/03/ADDRESS_VILLAS_TIERRA_THE_OASIS_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"finder","label":"Property Finder: Tierra completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/address-villas-tierra","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["facts","finder"],"handover":["facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Address Villas – Tierra page and project-labelled documents reviewed separately from Palace Villas – Ostra.",
+    "location":"The Oasis, Dubai, with official brochure map and southeast-Dubai positioning; dedicated location registry reused.",
+    "residences":"Four to six bedroom detached villas; ten official layout pages establish Classic, Chamfer and Contemporary variants. No Ostra drop types imported.",
+    "areas":"All ten unit tables in the 11-page official plan pack read; six-bedroom Chamfer page visually checked. Plans report totals including carport and outdoor components; plot averages kept distinct.",
+    "amenities":"Official project page and 27-page brochure establish community wellness, water, recreation and social spaces; no unverified private-service promise.",
+    "pricing":"Official AED 13.16 million advertised starting price used. Historical bedroom-specific prices from the copied launch fact sheet separately labelled.",
+    "payment":"Copied Emaar fact sheet extracted and visually checked. January 2027 milestone is 20% construction, June 2027 is 30%; dates not copied from Ostra. Instalments sum to 100%.",
+    "handover":"June 2029 estimated completion in copied fact sheet, corroborated by PF; displayed as reported Q2 2029.",
+    "documents":"Official brochure and plans plus separately attributed fact/payment copy linked. Imagery unchanged; regulator status and current inventory not independently established."
+   },
+   "community":"The Oasis",
+   "overview":["The neighbourhood is arranged around water and landscaped outdoor spaces. Its brochure brings together a clubhouse, lagoon, Spring Garden, Water Stream Park and multipurpose hall. Inside the homes, natural materials and neutral finishes complement open living areas. Address branding describes the development; a buyer should confirm the actual service package and charges rather than assume that hotel services are included."],
+   "locationNote":"Tierra is within The Oasis, southeast of central Dubai according to Emaar’s brochure. The community map shows the surrounding highway network and wider links to Dubai Marina, Dubai Hills and Al Maktoum International Airport. A selected plot and current access route should be checked separately.",
+   "priceLabel":"Advertised from",
+   "priceNote":"The official project page advertises homes from AED 13.16 million. The launch fact sheet quoted AED 13.16 million for four bedrooms, AED 13.86 million for five and AED 24.4 million for six. Current unit availability and pricing require confirmation.",
+   "paymentNote":"The published launch schedule allocates 10% at booking, 70% across seven instalments and 20% at estimated completion. Dates below are historical launch terms, including amounts that would already have fallen due. They do not replace a current offer or contract.",
+   "handoverNote":"The copied launch fact sheet targets June 2029 for estimated construction completion. Property Finder reports the same month. Current progress and the contractual handover date remain to be confirmed.",
+   "units":[
+    {"label":"4 bedrooms · Classic · basement","area":"7,301.15 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Chamfer · basement","area":"7,268.86 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Contemporary · basement","area":"7,296.85 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedrooms · Contemporary","area":"8,047.63 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedrooms · Chamfer","area":"7,922.34 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedrooms · Classic · basement","area":"10,362.84 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedrooms · Chamfer · basement","area":"10,394.05 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedrooms · Contemporary · basement","area":"10,310.63 sq ft total area","sourceIds":["plans"]},
+    {"label":"6 bedrooms · Contemporary · basement","area":"12,777.07 sq ft total area","sourceIds":["plans"]},
+    {"label":"6 bedrooms · Chamfer · basement","area":"12,958.77 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["facts"]},
+    {"stage":"May 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2026","percent":10,"sourceIds":["facts"]},
+    {"stage":"January 2027 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2027 · 30% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2028 · 60% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"September 2028 · 80% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2029 · estimated construction completion","percent":20,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The fact sheet describes 487 detached villas: 178 four bedroom, 260 five bedroom and 49 six bedroom homes. These are release totals, not available stock.","sourceIds":["facts"]},
+    {"label":"Average plot sizes","value":"Four bedroom plots average 9,174 sq ft, five bedroom plots 11,254 sq ft and six bedroom plots 16,746 sq ft in the launch sheet. Each selected plot needs its own measurement check.","sourceIds":["facts"]},
+    {"label":"Comparing villa layouts","value":"Plan totals include terraces/balconies and carports. Four bedroom types have basements; five bedroom options have either three levels or a basement plus roof level. Six bedroom layouts include basement and roof levels.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Selected villa availability, exact plot, view, current price and applicable payment terms.","Contractual specifications, private pool and landscape inclusions, and final fitted materials.","Current construction status and contractual completion/hand-over dates.","Address service inclusions, recurring charges and community-facility opening dates.","Master-community residence counts differ between the brochure and current page; neither is used as Tierra inventory.","Official project images remain deferred; existing images are illustrative."]
+  }
+ }
+}

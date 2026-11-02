@@ -1,0 +1,52 @@
+{
+ "id":"emaar-project-85","name":"Porto View","developerSlug":"emaar",
+ "fields":{
+  "description":"Porto View is a waterfront collection of one- to three-bedroom apartments and four three-bedroom townhouses in Rashid Yachts & Marina. Emaar describes two connected residential buildings around a landscaped podium. The larger two-level homes place bedrooms upstairs, with living spaces and terraces below, while apartments offer a more compact way into the neighbourhood.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1930000,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Infinity pool","Fitness centre","Children’s play areas","Multipurpose rooms","Landscaped gardens","Yoga and wellness platforms","Barbecue areas","Outdoor gym","Retail spaces"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/PORTO-VIEW_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/PORTO-VIEW_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Porto View","url":"https://www.emaar.com/en/properties/porto-view-at-rashid-yachts-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"brochure","label":"Emaar: Porto View brochure","url":"https://www.emaar.com/cms-media/uploads/PORTO-VIEW_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"plans","label":"Emaar: Porto View apartment and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/PORTO-VIEW_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+    {"id":"facts","label":"Emaar launch fact sheet, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/09/Emaar-Porto-View-Fact-Sheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Emaar launch payment schedule, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/09/Emaar-Porto-View-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Porto View","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/porto-view-mina-rashid","kind":"portal","checkedOn":"2026-10-31","derivedWords":125}
+   ],
+   "fieldSources":{"description":["official","facts","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{"identity":"Porto View checked against its dedicated Emaar page and labelled brochure/plans.","location":"Rashid Yachts & Marina / Mina Rashid confirmed and mapped.","residences":"One- to three-bedroom apartments plus four three-bedroom townhouses verified; inconsistent portal four-bedroom wording excluded.","areas":"All detailed plan totals extracted; range tables and townhouse layout visually checked.","amenities":"Pool, fitness, play, gardens, yoga, barbecue and retail checked; surrounding marina context separated.","pricing":"AED 1.93m official headline and bedroom-specific launch starts recorded without current-stock claims.","payment":"Eight 10% payments and a 20% completion payment checked visually; portal’s principal 10/70/20 schedule agrees.","handover":"October 2028 launch estimate corroborated by Property Finder.","documents":"Official 23-page brochure and 24-page floor-plan PDF inspected alongside attributed launch fact/payment sheets."},
+   "community":"Rashid Yachts & Marina",
+   "overview":["The landscaped podium is central to Porto View’s layout, providing outdoor seating and recreation between the residential buildings. The brochure puts the emphasis on daylight, outdoor living and access to the marina neighbourhood. Water and skyline views should be assessed for the chosen home rather than assumed from the project’s promotional images."],
+   "locationNote":"Porto View sits in Rashid Yachts & Marina, Mina Rashid, Dubai. Emaar identifies the QE2 Hotel and connections to Downtown Dubai, Dubai Mall and Dubai International Airport. Surrounding promenade, dining and community attractions have their own access and delivery arrangements.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.93m. The launch fact sheet lists one-bedroom apartments from AED 1.93m, two-bedroom from AED 2.87m, three-bedroom from AED 4.07m and townhouses from AED 8.73m. Property Finder displays a different current-market headline; these historical launch prices do not establish today’s inventory.",
+   "paymentNote":"The launch payment document sets 10% on booking, seven further 10% stages and 20% at completion. Later stages carry construction milestones. Property Finder’s main schedule agrees with 10/70/20; obtain the current contract rather than using historical dates as payment instructions.",
+   "handoverNote":"October 2028 is the estimated completion month in the launch payment sheet and Property Finder. Verify the contractual date and current progress for the selected home.",
+   "units":[
+    {"label":"1-bedroom apartment","area":"773.71–810.52 sq ft published total area","sourceIds":["plans"]},
+    {"label":"2-bedroom apartment","area":"1,212.66–1,372.72 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3-bedroom apartment","area":"1,669.37–1,907.26 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3-bedroom townhouse","area":"2,684.63–2,718.75 sq ft published total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection","value":"The fact sheet lists 53 one-bedroom, 48 two-bedroom and nine three-bedroom apartments, plus four townhouses: 114 homes in total, not remaining stock.","sourceIds":["facts"]},
+    {"label":"Townhouse Type A.3","value":"TH03 places all three bedrooms upstairs. Its lower level includes kitchen/dining, living, maid’s room, laundry, storage and terrace; the primary bedroom has a walk-in wardrobe and private bathroom.","sourceIds":["plans"]},
+    {"label":"Indoor versus total area","value":"TH03’s 2,718.75 sq ft total comprises 2,199.71 sq ft suite and 519.04 sq ft outdoor area. Townhouse total areas are not plot measurements.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Property Finder’s body text labels the townhouses four-bedroom in one section, conflicting with its introduction, Emaar’s page and the three-bedroom plans. The developer-supported three-bedroom category is retained.","Emaar describes two interconnected buildings; Property Finder groups the development as one building. Confirm the registered building/wing designation for a selected unit.","Current availability, charges, parking entitlements, final specifications, construction status and contractual terms need confirmation.","Images remain illustrative; project photography is deferred."]
+  }
+ }
+}

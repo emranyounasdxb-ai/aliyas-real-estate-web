@@ -1,0 +1,152 @@
+{
+  "id": "sobha-project-17",
+  "name": "Pearlside Marina Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Pearlside Marina Residences brings one-, two- and three-bedroom apartments to Sobha Siniya Island in Umm Al Quwain. Its plans include compact balcony apartments and larger homes with private yards or terraces, making the outdoor component particularly important when comparing advertised total areas.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1400000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pools",
+      "Fitness centres",
+      "Residents’ lounges",
+      "Outdoor children’s play areas",
+      "Marina promenade"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "brochure",
+          "label": "Sobha Pearlside official brochure and floor plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-08/Pearlside%20Marina%20Residences%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Pearlside launch reference and reported terms",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/pearlside-marina-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut Pearlside building guide and alternative payment plan",
+          "url": "https://www.bayut.com/buildings/pearlside-marina-residences/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "fy25",
+          "label": "Sobha FY2025 investor update · Pearlside entry on page12",
+          "url": "https://sobharealty.com/sites/default/files/2026-01/Investor%20Update%20FY%202025_3.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "price": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder",
+          "bayut"
+        ],
+        "handover": [
+          "brochure",
+          "finder",
+          "fy25"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Pearlside PDF verified. Canonical developer URL currently displays Canalside content and was not used for Pearlside facts.",
+        "location": "Own brochure identifies Sobha Siniya Island, Umm Al Quwain; no Dubai fee rules inferred.",
+        "residences": "Own one-, two- and three-bedroom drawings reviewed.",
+        "areas": "Own 117-page PDF; actual visible type/area panels 53,96,112 visually checked, avoiding stale hidden text.",
+        "amenities": "Own podium amenities separated from planned wider island facilities.",
+        "pricing": "Portal launch guide only; no correct current official project price retrieved.",
+        "payment": "Conflicting portal 10/50/40 versus 20/40/40; no primary dated schedule retrieved, headline withheld.",
+        "handover": "Brochure page 47 March 2030, investor page 12 year 2029, portal September 2030; headline withheld pending confirmation.",
+        "documents": "Own correct official 117-page brochure contains plans and ACD; no official payment document retrieved."
+      },
+      "community": "Pearlside Marina Residences · Sobha Siniya Island",
+      "overview": [
+        "The two-bedroom example includes a yard; the three-bedroom example has a large terrace. Compare outdoor and enclosed areas separately."
+      ],
+      "locationNote": "Located at Sobha Siniya Island in Umm Al Quwain. The brochure presents the marina and island setting; access arrangements, surrounding works and the selected home’s actual outlook should be confirmed independently.",
+      "priceLabel": "Portal launch guide · not a current offer",
+      "priceNote": "Property Finder records a rounded AED 1.4 m launch guide. This is historical marketing information, not confirmed stock or a current quotation. The previously linked Sobha page currently shows a different project and supplies no reliable current Pearlside price.",
+      "paymentNote": "Property Finder reports 10% down payment, 50% construction and 40% handover; Bayut instead reports 20/40/40. Neither is adopted as an authoritative current schedule. Obtain a dated developer unit offer before budgeting.",
+      "handoverNote": "The own brochure prints March 2030. FY2025 reports 2029; Property Finder lists September 2030. Confirm dates in writing.",
+      "units": [
+        {
+          "label": "1-bedroom Type A with powder room and balcony",
+          "area": "509.99–513.33 sq ft total; suite 463.17–466.51 + balcony 46.82",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type F with yard",
+          "area": "929.36 sq ft total: 775.32 suite + 154.03 yard; rounding difference 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A with powder room and terrace",
+          "area": "2,164.19 sq ft total: 1,298.77 suite + 865.42 terrace",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [],
+      "unresolved": [
+        "The previously linked developer page serves Canalside content, which was not used for Pearlside facts.",
+        "No current dated developer payment schedule, unit availability, service charge, parking allocation or signed completion date retrieved.",
+        "Portal payment plans conflict; brochure, investor report and portal completion dates differ. No guaranteed delivery date is asserted.",
+        "Wider island amenities may open in phases and carry separate charges. Furnishing and access rights require the selected contract. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

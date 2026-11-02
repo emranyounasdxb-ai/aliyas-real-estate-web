@@ -1,0 +1,191 @@
+{
+  "id": "binghatti-project-20",
+  "name": "One by Binghatti",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "One by Binghatti is a canal-side residential tower in Business Bay. Its collection extends from studios and apartments to pool villas and royal penthouses. The larger homes have different outdoor spaces and specifications from the standard apartment layouts.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 2000000,
+    "handover": "Q4 2026 · developer estimate",
+    "paymentPlan": "20/50/30 · developer guide",
+    "amenities": [
+      "Adult pool",
+      "Children’s pool",
+      "Pool deck",
+      "Gym",
+      "Children’s play area",
+      "Tennis court",
+      "Padel court",
+      "Mini basketball court"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "One by Binghatti own project page",
+          "url": "https://www.binghatti.com/en/projects/one-by-binghatti",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Official linked One brochure · 43 pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "facts",
+          "label": "Official linked One project facts · 10 pages; overlapping brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder One by Binghatti project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers-fze/one-by-binghatti",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own project page and linked original One documents; not another Binghatti Business Bay development.",
+        "location": "Business Bay confirmed by primary page; portal FAQ mistakenly says Downtown in investment prose, not adopted.",
+        "residences": "Brochure includes studios, one/two/three-bedroom apartments, three-bedroom pool villas and four-bedroom royal penthouses; FAQ shorthand alone is incomplete.",
+        "areas": "Actual brochure visible plans 35–40 inspected, including repeated duplex villa totals and royal penthouse area table; not added twice.",
+        "amenities": "Own amenities-floor plan reviewed; private lap pools restricted to drawn selected homes.",
+        "pricing": "Own hero advertises AED 2m; portal FAQ AED 2,574,999 versus rounded 2.6m headline. Current unit quote unconfirmed.",
+        "payment": "Own FAQ 20/50/30 corroborated by portal, totals 100. No current primary dated monthly calendar retrieved.",
+        "handover": "Own Q4 2026 and portal December 2026 forecasts align; no completed or handed-over claim.",
+        "documents": "Own 43-page brochure and 10-page facts downloaded; repeated content pooled at 195 words. Suite/balcony/total distinctions retained."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "The brochure lists 647 residential homes, including 192 studios, 220 one-bedroom, 186 two-bedroom, 31 three-bedroom apartments, 10 pool villas and eight royal penthouses. Nine shops are separate. Planned counts do not establish current availability."
+      ],
+      "locationNote": "Business Bay, Dubai Water Canal setting. A portal FAQ’s Downtown wording conflicts with the developer location; Business Bay is retained.",
+      "priceLabel": "Developer advertised from-guide · reconfirm",
+      "priceNote": "The developer hero advertises from AED 2m. Property Finder gives AED 2,574,999 in its FAQ and rounds its headline to AED 2.6m. These different guides do not establish current unit availability or a personalised quotation.",
+      "paymentNote": "The developer states 20% on signing, 50% during construction and 30% on completion. Confirm a dated unit schedule, outstanding balance and all additional charges.",
+      "handoverNote": "The developer targets Q4 2026; Property Finder specifies December 2026. This remains a forecast pending current contractual and completion evidence.",
+      "units": [
+        {
+          "label": "Premium Studio Type 01",
+          "area": "56.78 m² / 611.17 ft² total; 457.14 suite + 154.03 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Royal Suite Type 01",
+          "area": "96.94 m² / 1,043.45 ft² total; 638.41 suite + 405.05 balcony; rounding 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Suite Type 01",
+          "area": "156.61 m² / 1,685.74 ft² total; 996.09 suite + 689.64 balcony; rounding 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Wing Type 01",
+          "area": "213.31 m² / 2,296.05 ft² total; 1,452.37 suite + 843.68 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Royal Penthouse Type 01",
+          "area": "630.64 m² / 6,788.15 ft² total; 2,424.25 suite + 4,363.90 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Signing · developer guide",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction · developer guide",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion · developer guide",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm live stock, unit-specific price, contractual date, furnishing, parking, service charges, final approvals and completion position. Portal sold-out labelling does not determine resale availability.",
+        "The pool-villa drawing repeats the same total on both level panels; it is not evidence to double the area. The executed unit plan governs.",
+        "Suite areas follow the brochure’s marketing measurement method; totals include balconies. A lap pool on a selected plan does not make it standard for every home. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

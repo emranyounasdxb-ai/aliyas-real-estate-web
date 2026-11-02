@@ -1,0 +1,72 @@
+{
+  "id":"emaar-project-94","name":"Venera","developerSlug":"emaar",
+  "fields":{
+    "description":"Venera is a three- and four-bedroom townhouse neighbourhood in The Valley’s second phase. Emaar combines contemporary facades, large windows and garden-facing living spaces with paths and outdoor recreation. The gated setting is planned around landscaped common areas, with seven named townhouse styles in its own floor-plan collection.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2480000,"handover":"Q3 2028 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Nature-themed play areas","Retail plaza and kiosks","Skate park","Multipurpose court","Cycling routes","Jogging trails","Community centre","Games and fitness pod","Pet park","Sports centre","Neighbourhood mosque"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VENERA_floorplan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Venera at The Valley Phase 2","url":"https://www.emaar.com/en/properties/venera-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"brochure","label":"Emaar: Valley phase two brochure with Venera cluster plan","url":"https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":100},
+        {"id":"plans","label":"Emaar: Venera floor plans","url":"https://www.emaar.com/cms-media/uploads/VENERA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Venera payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/venera/VENERA_TV_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+        {"id":"map","label":"Emaar phase two location map, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/venera/VENERA_THE_VALLEY_MASTER_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":45},
+        {"id":"finder","label":"Property Finder: Venera","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/venera","kind":"portal","checkedOn":"2026-10-31","derivedWords":110},
+        {"id":"presentation","label":"Emaar FY2025 presentation text, Earnings Calendar reproduction","url":"https://earningscalendar.co/app/event/AE/EMAAR/2025-q4-46ddbf15f4e6/presentation","kind":"portal","checkedOn":"2026-10-31","derivedWords":25}
+      ],
+      "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","map"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","finder"],"units":["plans"],"documents":["brochure","plans","payment","map"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Venera separated from Velora and Vindera; shared brochure sections identified.",
+        "location":"The Valley phase two cluster position and road-based community access checked.",
+        "residences":"Three/four-bedroom four-home blocks; seven style names confirmed in the official pack.",
+        "areas":"All 28 area tables visually checked; published totals distinguished from suite and plot measurements.",
+        "amenities":"Venera-labelled cluster legend and developer page checked separately from Velora’s facilities.",
+        "pricing":"AED 2.48m official starting figure recorded; portal bedroom references and shared brochure scope checked.",
+        "payment":"Nine dated stages total 100%; construction thresholds visually checked.",
+        "handover":"September 2028 payment-document estimate corroborated by Property Finder.",
+        "documents":"Official brochure and 29-page plans plus attributed payment sheet and location map reviewed."
+      },
+      "community":"The Valley · phase two",
+      "overview":["Venera’s cluster plan distributes play spaces, flexible lawns and sports facilities through the neighbourhood. The wider phase-two landscape adds trails and outdoor gathering areas. These shared facilities belong to the development plan; their delivery and access should be confirmed for the selected home."],
+      "locationNote":"Venera lies in the southern part of the published Valley phase-two plan. The Valley is on the Dubai–Al Ain Road corridor. Emaar also describes wider Jebel Ali–Lahbab connectivity; this does not establish a direct junction, metro station or fixed commute for an individual townhouse.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar’s Venera page displays AED 2.48m. Property Finder records approximately AED 2.5m for three bedrooms and AED 2.8m for four as developer references. These starting figures do not confirm currently available stock or the asking price of a resale home.",
+      "paymentNote":"The launch plan consists of 10% on booking, seven further 10% stages and 20% at completion. Four interim stages carry construction conditions. The dates are historical contractual milestones, not a live progress report.",
+      "handoverNote":"September 2028 is the completion estimate in the Emaar-branded payment document and Property Finder timeline. Confirm the current date and conditions in the selected home’s contract.",
+      "units":[
+        {"label":"Slate","area":"3 beds: 2,437.49–2,452.02 sq ft; 4 beds: 2,659.76–2,718.96 sq ft","sourceIds":["plans"]},
+        {"label":"Oakley","area":"3 beds: 2,477.63–2,478.93 sq ft; 4 beds: 2,689.47 sq ft","sourceIds":["plans"]},
+        {"label":"Ravine","area":"3 beds: 2,514.34 sq ft; 4 beds: 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Serene","area":"3 beds: 2,514.34 sq ft; 4 beds: 2,731.55 sq ft","sourceIds":["plans"]},
+        {"label":"Nash","area":"3 beds: 2,456.86–2,460.41 sq ft; 4 beds: 2,695.28–2,697.86 sq ft","sourceIds":["plans"]},
+        {"label":"Vale","area":"3 beds: 2,492.17 sq ft; 4 beds: 2,729.29 sq ft","sourceIds":["plans"]},
+        {"label":"Dale","area":"3 beds: 2,492.17 sq ft; 4 beds: 2,729.29 sq ft","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"On booking · launch terms","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2024","percent":10,"sourceIds":["payment"]},
+        {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"April 2026 · 10% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Reported development scale","value":"The reproduced FY2025 Emaar presentation lists 696 Venera homes. This historical count is not available inventory.","sourceIds":["presentation"]},
+        {"label":"Area basis","value":"Table figures are published totals including suite, garage and balcony/terrace areas; they are not plot sizes.","sourceIds":["plans"]},
+        {"label":"Home arrangement","value":"Plans show two levels, enclosed kitchens, maid’s accommodation and covered parking. Four-bedroom examples include a downstairs guest bedroom.","sourceIds":["plans"]}
+      ],
+      "unresolved":[
+        "The linked brochure also covers Velora. Its commercial table is shown beside a Velora plan, so those plot averages are not treated as a confirmed Venera unit schedule.",
+        "The payment document and location map are Emaar-branded broker-hosted copies. Obtain current developer-issued documents and the individual plot plan.",
+        "Current availability, fees, final finishes, landscaping scope and contractual delivery require written confirmation. The reproduced investor count has not been independently checked against the live project register.",
+        "Existing photographs remain illustrative; no project imagery has been approved through this research."
+      ]
+    }
+  }
+}

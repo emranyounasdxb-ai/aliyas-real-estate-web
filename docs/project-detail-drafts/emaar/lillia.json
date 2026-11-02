@@ -1,0 +1,70 @@
+{
+  "id":"emaar-project-93","name":"Lillia","developerSlug":"emaar",
+  "fields":{
+    "description":"Lillia is a gated townhouse neighbourhood at The Valley, with three- and four-bedroom homes overlooking landscaped surroundings. The development connects residential streets with outdoor recreation and the wider community’s parks, beach-style leisure area and Town Centre. Its two architectural treatments offer different facade styles within the same family-focused setting.",
+    "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2000000,"handover":"Q1 2027 launch estimate","paymentPlan":"90/10 launch plan",
+    "amenities":["Golden Beach access","Community park","Playgrounds","Sports facilities","Barbecue and picnic areas","Town Centre","Retail and dining","Community pool","Gym","Dog park"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/382265_brochure_File_48fdffa3aa_prod.pdf",
+    "floorPlanUrl":"https://apexcapitaldubai.com/wp-content/uploads/2024/10/Lillia-at-The-Valley-Floor-Plan.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Lillia at The Valley","url":"https://www.emaar.com/en/properties/lillia","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: Lillia brochure","url":"https://www.emaar.com/cms-media/uploads/382265_brochure_File_48fdffa3aa_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":190},
+        {"id":"plans","label":"Emaar Lillia plans, Apex Capital-hosted copy","url":"https://apexcapitaldubai.com/wp-content/uploads/2024/10/Lillia-at-The-Valley-Floor-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar launch fact and payment sheet, Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Lillia-The-Valley-Fact-Sheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"finder","label":"Property Finder: Lillia at The Valley","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/lillia-townhouses","kind":"portal","checkedOn":"2026-10-31","derivedWords":120},
+        {"id":"later-date","label":"Mitchells: Lillia summary with later completion reference","url":"https://www.mitchellscommercialrealty.com/projects/lillia","kind":"broker","checkedOn":"2026-10-31","derivedWords":80}
+      ],
+      "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official","facts","finder"],"units":["plans"],"documents":["brochure","plans","facts"],"paymentPlan":["facts","finder"],"handover":["facts","finder","later-date"]},
+      "reviewCoverage":{
+        "identity":"Lillia identified independently; Jade/Pearl designs and launch collection checked.",
+        "location":"The Valley on Dubai–Al Ain Road verified with Emaar.",
+        "residences":"Three/four-bedroom townhouses; mirrored plans and block positions checked.",
+        "areas":"Eight plan tables checked; four main types visually inspected and full published ranges retained.",
+        "amenities":"Developer brochure and page checked; master-community facilities not presented as private-home amenities.",
+        "pricing":"AED 2m official headline and AED 2.7m four-bedroom launch figure separated from current portal offers.",
+        "payment":"Nine launch stages sum to 100%; dates and construction conditions checked visually.",
+        "handover":"January 2027 launch schedule and conflicting later third-party date recorded.",
+        "documents":"Official brochure, attributed plan pack and launch fact/payment sheet reviewed."
+      },
+      "community":"The Valley",
+      "overview":["Jade uses a softer combination of curves and straight lines, while Pearl takes a more angular approach. The brochure’s neighbourhood plan includes shaded play areas, a splash pad, informal lawns and a multiuse court. Shared amenities are distributed across Lillia and The Valley, so the distance from a particular home matters when comparing plots."],
+      "locationNote":"Lillia is in The Valley along Dubai–Al Ain Road. Emaar highlights road access to Dubai’s major destinations. Published travel times are promotional estimates; assess the selected home’s route and peak-hour commute directly.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 2m. The March 2024 launch sheet lists three bedrooms from AED 2m and four from AED 2.7m. Property Finder’s current-listing headline is higher than its launch figures. Confirm the asking price and availability of an individual home.",
+      "paymentNote":"The historical schedule is 10% booking, 80% during construction and 10% on completion. Later instalments include two 15% payments. This is the launch plan; a resale purchase may have a different amount payable immediately.",
+      "handoverNote":"The launch sheet estimates January 2027, also shown in Property Finder’s main timeline. Its FAQ says March 2027, while Mitchells reports June 2028 via PropSearch. A revised developer completion notice was not found; confirm the current contractual date.",
+      "units":[
+        {"label":"3 bedrooms · Jade A / mirrored","area":"2,131.90–2,158.48 sq ft published total","sourceIds":["plans"]},
+        {"label":"3 bedrooms · Pearl B / mirrored","area":"2,181.73–2,190.35 sq ft published total","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Jade A / mirrored","area":"2,973.42–2,987.95 sq ft published total","sourceIds":["plans"]},
+        {"label":"4 bedrooms · Pearl B / mirrored","area":"2,777.09–2,791.62 sq ft published total","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Booking · March 2024 launch","percent":10,"sourceIds":["facts"]},
+        {"stage":"May 2024","percent":10,"sourceIds":["facts"]},
+        {"stage":"September 2024","percent":10,"sourceIds":["facts"]},
+        {"stage":"January 2025","percent":10,"sourceIds":["facts"]},
+        {"stage":"May 2025 · 30% construction","percent":10,"sourceIds":["facts"]},
+        {"stage":"October 2025 · 50% construction","percent":10,"sourceIds":["facts"]},
+        {"stage":"March 2026 · 70% construction","percent":15,"sourceIds":["facts"]},
+        {"stage":"August 2026 · 90% construction","percent":15,"sourceIds":["facts"]},
+        {"stage":"January 2027 · launch completion estimate","percent":10,"sourceIds":["facts"]}
+      ],
+      "facts":[
+        {"label":"Launch mix","value":"406 homes: 278 with three bedrooms and 128 with four. These are historical development totals, not available inventory.","sourceIds":["facts"]},
+        {"label":"Average launch plots","value":"The fact sheet lists 1,485 sq ft for three bedrooms and 2,838 sq ft for four. Plot size is separate from the floor-plan totals.","sourceIds":["facts"]},
+        {"label":"Everyday layout","value":"Plans show two levels, two-car parking, a maid’s room, laundry space, terraces and balconies. Four-bedroom designs place a guest bedroom downstairs; three-bedroom designs put all principal bedrooms upstairs.","sourceIds":["plans"]},
+        {"label":"Block configuration","value":"Four-, six- and eight-home blocks produce small size variations within each design. Use the selected townhouse’s block and unit reference when checking its plan.","sourceIds":["plans"]},
+        {"label":"Outdoor setting","value":"The brochure proposes landscaped leisure routes and spaces for play, fitness and community gatherings. Final delivery, access arrangements and operating charges require confirmation.","sourceIds":["brochure"]}
+      ],
+      "unresolved":[
+        "Completion references conflict, including a later June 2028 broker report. The January 2027 figure remains explicitly a launch estimate, not confirmation of current delivery status.",
+        "Some portals show only one size per design. The table uses the fuller Emaar-branded plan ranges; dimensions and final saleable areas remain subject to the signed unit plan.",
+        "The plan pack and launch fact/payment sheet are broker-hosted copies. Obtain the latest developer-issued versions before relying on specifications or instalments.",
+        "Current inventory, outstanding payments, service charges and final handover condition need written confirmation. Site photographs remain illustrative."
+      ]
+    }
+  }
+}

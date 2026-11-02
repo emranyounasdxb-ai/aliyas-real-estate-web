@@ -1,0 +1,175 @@
+{
+  "id": "binghatti-project-06",
+  "name": "Binghatti Luxuria",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Luxuria combines studios and one- and two-bedroom apartments in Jumeirah Village Triangle. A retail base and shared leisure spaces support the residential tower, while selected two-bedroom drawings include a private lap pool. That feature belongs to the illustrated type and should not be assumed for every apartment.",
+    "areaId": "dubai-jvt",
+    "location": "Jumeirah Village Triangle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 766999,
+    "handover": "Q3 2027 · developer estimate",
+    "paymentPlan": "20/50/30 · developer published split",
+    "amenities": [
+      "Adult and children’s pool",
+      "Children’s play area",
+      "Multipurpose shaded pavilion",
+      "Indoor and outdoor gym",
+      "Aerobics platform",
+      "Multipurpose play area",
+      "Grass sunbath area",
+      "Jacuzzi"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-luxuria-assets/binghatti-luxuria-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-luxuria-assets/binghatti-luxuria-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Luxuria own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-luxuria",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Official Luxuria28-page brochure including plans",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-luxuria-assets/binghatti-luxuria-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "facts",
+          "label": "Official Luxuria11-page project facts; overlaps brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-luxuria-assets/binghatti-luxuria-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "facts"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Luxuria JVT project; not Etherea in JVC.",
+        "location": "Own page Jumeirah Village Triangle; plot coordinates not inferred.",
+        "residences": "Own brochure lists 213 studios,195 one-bedroom and 49 two-bedroom homes:457 residential;12 shops separate.",
+        "areas": "Brochure pages 24/26 all 8 studio/1 bed/2 bed type panels visually reviewed; rounded whole-square-foot labels retained.",
+        "amenities": "Own facts page 4 facilities reviewed; private lap pools only on selected 2 bed diagrams.",
+        "pricing": "Own project pageAED 766999 current published starting guide; no unit-specific stock checked.",
+        "payment": "OwnFAQ 20/50/30; no dated primary instalment calendar retrieved.",
+        "handover": "OwnFAQ Q3 2027 estimate; no completion or key-handover evidence inferred.",
+        "documents": "Official 28-page brochure and 11-page facts retrieved. Brochure 150+facts 50 pooled 200 for overlapping sections. Facts total error visually checked against brochure and arithmetic."
+      },
+      "community": "Binghatti Luxuria",
+      "overview": [
+        "The brochure counts 457 homes and 12 retail shops. The separate facts pack repeats the category counts but incorrectly prints 213 as its residential total; the brochure total agrees with the category sum.",
+        "The building description separates 24 residential floors from basements, podium, ground, mechanical and roof levels. Do not interpret a portal’s total-storey figure as 24 apartments floors only."
+      ],
+      "locationNote": "Jumeirah Village Triangle, Dubai, with developer-described connections to E311 and Al Khail Road. Confirm the exact approach, orientation and outlook of the selected home.",
+      "priceLabel": "Developer published starting guide · reconfirm",
+      "priceNote": "The own page displays AED 766999. This is a marketing starting guide, not a verified currently available unit, signed offer or Aliyas allocation.",
+      "paymentNote": "The own FAQ publishes 20% deposit,50%during construction and 30%on completion. No dated payment sheet was linked in the retrieved brochure/facts set. Confirm instalment amounts and dates in the selected-home agreement.",
+      "handoverNote": "Binghatti’s own page estimates Q3 2027. No retrieved primary completion certificate or current dated construction report establishes delivery. Confirm the contracted date and any revision directly.",
+      "units": [
+        {
+          "label": "Studio Type 1",
+          "area": "430 sq ft total /39.97 sq m; suite 308+balcony 122 sq ft.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 2",
+          "area": "652 sq ft total /60.53 sq m; suite 594+balcony 58 sq ft.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 1 · lap-pool drawing",
+          "area": "1,859 sq ft total /172.69 sq m; suite 941+balcony 918 sq ft.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 2 · lap-pool drawing",
+          "area": "1,356 sq ft total /125.98 sq m; suite 890+balcony 466 sq ft.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Deposit",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction · dates unverified",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The floor-plan tables round square feet to whole numbers. Totals include outdoor area; examples are not complete area-range endpoints.",
+        "Current stock, exact payment calendar, parking, service charges, furnishing scope, lap-pool maintenance and as-built dimensions require unit-specific confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

@@ -1,0 +1,853 @@
+[
+  {
+    "id": "dubai-jbr",
+    "name": "Jumeirah Beach Residence",
+    "shortName": "JBR",
+    "emirate": "Dubai",
+    "aliases": [
+      "JBR",
+      "Jumeirah Beach Residences"
+    ]
+  },
+  {
+    "id": "dubai-jlt",
+    "name": "Jumeirah Lakes Towers",
+    "shortName": "JLT",
+    "emirate": "Dubai",
+    "aliases": [
+      "JLT",
+      "Jumeirah Lake Towers"
+    ]
+  },
+  {
+    "id": "dubai-marina",
+    "name": "Dubai Marina",
+    "emirate": "Dubai",
+    "aliases": [
+      "Marina"
+    ]
+  },
+  {
+    "id": "dubai-south",
+    "name": "Dubai South",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai World Central",
+      "DWC",
+      "Emaar South"
+    ]
+  },
+  {
+    "id": "dubai-rashid-yachts-marina",
+    "name": "Rashid Yachts & Marina",
+    "emirate": "Dubai",
+    "aliases": [
+      "Mina Rashid",
+      "Port Rashid",
+      "Rashid Yachts and Marina"
+    ]
+  },
+  {
+    "id": "dubai-creek-harbour",
+    "name": "Dubai Creek Harbour",
+    "emirate": "Dubai",
+    "aliases": [
+      "Creek Harbour",
+      "Dubai Creek Harbor"
+    ]
+  },
+  {
+    "id": "dubai-dubailand",
+    "name": "Dubailand",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai Land"
+    ]
+  },
+  {
+    "id": "dubai-motor-city",
+    "name": "Motor City",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai Motor City",
+      "Motorcity"
+    ]
+  },
+  {
+    "id": "dubai-downtown",
+    "name": "Downtown Dubai",
+    "emirate": "Dubai",
+    "aliases": [
+      "Downtown"
+    ]
+  },
+  {
+    "id": "dubai-business-bay",
+    "name": "Business Bay",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-palm-jumeirah",
+    "name": "Palm Jumeirah",
+    "emirate": "Dubai",
+    "aliases": [
+      "The Palm"
+    ]
+  },
+  {
+    "id": "dubai-jvc",
+    "name": "Jumeirah Village Circle",
+    "shortName": "JVC",
+    "emirate": "Dubai",
+    "aliases": [
+      "JVC"
+    ]
+  },
+  {
+    "id": "dubai-hills-estate",
+    "name": "Dubai Hills Estate",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai Hills"
+    ]
+  },
+  {
+    "id": "abu-dhabi-yas-island",
+    "name": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Yas"
+    ]
+  },
+  {
+    "id": "abu-dhabi-saadiyat-island",
+    "name": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Saadiyat"
+    ]
+  },
+  {
+    "id": "dubai-damac-hills",
+    "name": "DAMAC Hills",
+    "emirate": "Dubai",
+    "aliases": [
+      "Damac Hills 1",
+      "DAMAC Hills community"
+    ]
+  },
+  {
+    "id": "dubai-damac-hills-2",
+    "name": "DAMAC Hills 2",
+    "emirate": "Dubai",
+    "aliases": [
+      "Damac Hills II",
+      "Akoya Oxygen",
+      "DH2"
+    ]
+  },
+  {
+    "id": "dubai-damac-lagoons",
+    "name": "DAMAC Lagoons",
+    "emirate": "Dubai",
+    "aliases": [
+      "Damac Lagoons community"
+    ]
+  },
+  {
+    "id": "dubai-investments-park",
+    "name": "Dubai Investments Park",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai Investment Park",
+      "DIP",
+      "Dubai Investments Park 2",
+      "Dubai Investment Park 2",
+      "DIP 2"
+    ]
+  },
+  {
+    "id": "dubai-islands",
+    "name": "Dubai Islands",
+    "emirate": "Dubai",
+    "aliases": [
+      "Deira Islands"
+    ]
+  },
+  {
+    "id": "dubai-palm-jebel-ali",
+    "name": "Palm Jebel Ali",
+    "emirate": "Dubai",
+    "aliases": [
+      "Jebel Ali Palm"
+    ]
+  },
+  {
+    "id": "dubai-district-one",
+    "name": "District One",
+    "emirate": "Dubai",
+    "aliases": [
+      "MBR City District One",
+      "Mohammed Bin Rashid City District One"
+    ]
+  },
+  {
+    "id": "dubai-district-11",
+    "name": "District 11",
+    "emirate": "Dubai",
+    "aliases": [
+      "MBR City District 11",
+      "Meydan District 11"
+    ]
+  },
+  {
+    "id": "dubai-harbour",
+    "name": "Dubai Harbour",
+    "emirate": "Dubai",
+    "aliases": [
+      "Dubai Harbor"
+    ]
+  },
+  {
+    "id": "dubai-maritime-city",
+    "name": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "aliases": [
+      "Maritime City",
+      "DMC"
+    ]
+  },
+  {
+    "id": "abu-dhabi-al-ghadeer",
+    "name": "Al Ghadeer",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Alghadeer",
+      "Al Ghadeer community"
+    ]
+  },
+  {
+    "id": "abu-dhabi-fahid-island",
+    "name": "Fahid Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Fahid"
+    ]
+  },
+  {
+    "id": "abu-dhabi-al-shamkha",
+    "name": "Al Shamkha",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Shamkha",
+      "Alreeman",
+      "Alreeman 2",
+      "Al Reeman"
+    ]
+  },
+  {
+    "id": "abu-dhabi-al-reem-island",
+    "name": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Reem Island",
+      "Al Reem"
+    ]
+  },
+  {
+    "id": "rak-al-marjan-island",
+    "name": "Al Marjan Island",
+    "emirate": "Ras Al Khaimah",
+    "aliases": [
+      "Marjan Island",
+      "Al Marjan"
+    ]
+  },
+  {
+    "id": "rak-mina-al-arab",
+    "name": "Mina Al Arab",
+    "emirate": "Ras Al Khaimah",
+    "aliases": [
+      "Mina Al-Arab"
+    ]
+  },
+  {
+    "id": "rak-al-hamra-village",
+    "name": "Al Hamra Village",
+    "emirate": "Ras Al Khaimah",
+    "aliases": [
+      "Al Hamra"
+    ]
+  },
+  {
+    "id": "ajman-al-zorah",
+    "name": "Al Zorah",
+    "emirate": "Ajman",
+    "aliases": [
+      "Alzorah",
+      "Al Zora"
+    ]
+  },
+  {
+    "id": "sharjah-aljada",
+    "name": "Aljada",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Al Jada"
+    ]
+  },
+  {
+    "id": "sharjah-maryam-island",
+    "name": "Maryam Island",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Maryam"
+    ]
+  },
+  {
+    "id": "dubai-the-valley",
+    "name": "The Valley",
+    "emirate": "Dubai",
+    "aliases": [
+      "The Valley by Emaar",
+      "Emaar The Valley"
+    ]
+  },
+  {
+    "id": "dubai-the-oasis",
+    "name": "The Oasis",
+    "emirate": "Dubai",
+    "aliases": [
+      "The Oasis by Emaar",
+      "Emaar The Oasis"
+    ]
+  },
+  {
+    "id": "dubai-emaar-beachfront",
+    "name": "Emaar Beachfront",
+    "emirate": "Dubai",
+    "aliases": [
+      "EMAAR Beach Front",
+      "Emaar Beachfront, Dubai Harbour"
+    ]
+  },
+  {
+    "id": "dubai-grand-polo-club-resort",
+    "name": "Grand Polo Club & Resort",
+    "emirate": "Dubai",
+    "aliases": [
+      "Grand Polo Club and Resort",
+      "Emaar Grand Polo"
+    ]
+  },
+  {
+    "id": "dubai-expo-living",
+    "name": "Expo Living",
+    "emirate": "Dubai",
+    "aliases": [
+      "Emaar Expo Living"
+    ]
+  },
+  {
+    "id": "dubai-the-heights",
+    "name": "The Heights Country Club and Wellness",
+    "emirate": "Dubai",
+    "aliases": [
+      "The Heights",
+      "The Heights Country Club & Wellness"
+    ]
+  },
+  {
+    "id": "dubai-sobha-sanctuary",
+    "name": "Sobha Sanctuary",
+    "emirate": "Dubai",
+    "aliases": [
+      "Sobha Sanctuary, Al Yufrah"
+    ]
+  },
+  {
+    "id": "abu-dhabi-sobha-city",
+    "name": "Sobha City",
+    "emirate": "Abu Dhabi",
+    "aliases": []
+  },
+  {
+    "id": "uaq-siniya-island",
+    "name": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "aliases": [
+      "Sobha Siniya Island",
+      "Siniyah Island"
+    ]
+  },
+  {
+    "id": "dubai-sobha-hartland-ii",
+    "name": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "aliases": [
+      "Sobha Hartland 2",
+      "Sobha Hartland2"
+    ]
+  },
+  {
+    "id": "dubai-sobha-central",
+    "name": "Sobha Central",
+    "emirate": "Dubai",
+    "aliases": [
+      "Sobha Central, Sheikh Zayed Road"
+    ]
+  },
+  {
+    "id": "dubai-sobha-one",
+    "name": "Sobha One",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "uaq-downtown",
+    "name": "Downtown Umm Al Quwain",
+    "emirate": "Umm Al Quwain",
+    "aliases": [
+      "Downtown UAQ"
+    ]
+  },
+  {
+    "id": "dubai-city-walk",
+    "name": "City Walk",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-design-district",
+    "name": "Dubai Design District",
+    "emirate": "Dubai",
+    "aliases": [
+      "d3",
+      "Dubai Design District (d3)"
+    ]
+  },
+  {
+    "id": "dubai-madinat-jumeirah-living",
+    "name": "Madinat Jumeirah Living",
+    "emirate": "Dubai",
+    "aliases": [
+      "MJL"
+    ]
+  },
+  {
+    "id": "dubai-nad-al-sheba-gardens",
+    "name": "Nad Al Sheba Gardens",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-jumeirah-1",
+    "name": "Jumeirah 1",
+    "emirate": "Dubai",
+    "aliases": [
+      "Jumeirah One"
+    ]
+  },
+  {
+    "id": "dubai-la-mer",
+    "name": "La Mer",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-trade-centre-2",
+    "name": "Trade Centre 2",
+    "emirate": "Dubai",
+    "aliases": [
+      "Trade Center 2"
+    ]
+  },
+  {
+    "id": "dubai-jumeirah-bay-island",
+    "name": "Jumeirah Bay Island",
+    "emirate": "Dubai",
+    "aliases": [
+      "Jumeira Bay Island",
+      "Jumeirah Bay"
+    ]
+  },
+  {
+    "id": "dubai-bluewaters",
+    "name": "Bluewaters",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-the-acres",
+    "name": "The Acres",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-villanova",
+    "name": "Villanova",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-mudon",
+    "name": "Mudon",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-al-jaddaf",
+    "name": "Al Jaddaf",
+    "emirate": "Dubai",
+    "aliases": [
+      "Al-Jaddaf"
+    ]
+  },
+  {
+    "id": "dubai-academic-city",
+    "name": "Academic City",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-majan",
+    "name": "Majan",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-jvt",
+    "name": "Jumeirah Village Triangle",
+    "emirate": "Dubai",
+    "aliases": [
+      "JVT"
+    ]
+  },
+  {
+    "id": "dubai-dubai-science-park",
+    "name": "Dubai Science Park",
+    "emirate": "Dubai",
+    "aliases": [
+      "DSP"
+    ]
+  },
+  {
+    "id": "dubai-arjan",
+    "name": "Arjan",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-al-jaddaf-waterfront",
+    "name": "Al Jaddaf Waterfront",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-nad-al-sheba",
+    "name": "Nad Al Sheba",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "sharjah-um-fanain",
+    "name": "Um Fanain",
+    "emirate": "Sharjah",
+    "aliases": []
+  },
+  {
+    "id": "dubai-city-of-arabia",
+    "name": "City of Arabia",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-downtown-jebel-ali",
+    "name": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-trade-centre-first",
+    "name": "Trade Centre First",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-al-furjan",
+    "name": "Al Furjan",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-silicon-oasis",
+    "name": "Dubai Silicon Oasis",
+    "emirate": "Dubai",
+    "aliases": [
+      "DSO"
+    ]
+  },
+  {
+    "id": "dubai-sports-city",
+    "name": "Dubai Sports City",
+    "emirate": "Dubai",
+    "aliases": [
+      "Sports City"
+    ]
+  },
+  {
+    "id": "dubai-meydan-horizon",
+    "name": "Meydan Horizon",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-jumeirah-islands",
+    "name": "Jumeirah Islands",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-mbr-city",
+    "name": "Mohammed Bin Rashid City",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-town-square",
+    "name": "Town Square",
+    "emirate": "Dubai",
+    "aliases": [
+      "Town Square Dubai"
+    ]
+  },
+  {
+    "id": "dubai-production-city",
+    "name": "Dubai Production City",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "uaq-al-khor-waterfront",
+    "name": "Al Khor Waterfront",
+    "emirate": "Umm Al Quwain",
+    "aliases": []
+  },
+  {
+    "id": "dubai-jumeirah-golf-estates",
+    "name": "Jumeirah Golf Estates",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-al-kifaf",
+    "name": "Al Kifaf",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-wasl-gate",
+    "name": "Wasl Gate",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-industrial-city",
+    "name": "Dubai Industrial City",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-land-residence-complex",
+    "name": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "aliases": [
+      "DLRC",
+      "Dubailand Residence Complex"
+    ]
+  },
+  {
+    "id": "dubai-al-warsan-4",
+    "name": "Al Warsan 4",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-jebel-ali-industrial-2",
+    "name": "Jebel Ali Industrial 2",
+    "emirate": "Dubai",
+    "aliases": [
+      "Jabal Ali Industrial Second"
+    ]
+  },
+  {
+    "id": "dubai-meydan",
+    "name": "Meydan",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-studio-city",
+    "name": "Dubai Studio City",
+    "emirate": "Dubai",
+    "aliases": []
+  },
+  {
+    "id": "dubai-al-rowaiyah-first",
+    "name": "Al Rowaiyah First District",
+    "emirate": "Dubai",
+    "aliases": [
+      "Al Rowaiyah First"
+    ]
+  },
+  {
+    "id": "dubai-mbr-city-district-7",
+    "name": "Mohammed Bin Rashid City District 7",
+    "emirate": "Dubai",
+    "aliases": [
+      "MBR City District 7",
+      "Meydan District 7"
+    ]
+  },
+  {
+    "id": "sharjah-al-heerah-beach",
+    "name": "Al Heerah Beach",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Al Heerah Beach"
+    ]
+  },
+  {
+    "id": "sharjah-masaar-2",
+    "name": "Masaar 2",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Masaar2"
+    ]
+  },
+  {
+    "id": "sharjah-masaar-3",
+    "name": "Masaar 3",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Masaar3"
+    ]
+  },
+  {
+    "id": "sharjah-al-mamsha",
+    "name": "Al Mamsha",
+    "emirate": "Sharjah",
+    "aliases": [
+      "Almamsha"
+    ]
+  },
+  {
+    "id": "sharjah-hayyan",
+    "name": "Hayyan",
+    "emirate": "Sharjah",
+    "aliases": []
+  },
+  {
+    "id": "sharjah-al-khan",
+    "name": "Al Khan",
+    "emirate": "Sharjah",
+    "aliases": []
+  },
+  {
+    "id": "sharjah-al-mamzar",
+    "name": "Al Mamzar",
+    "emirate": "Sharjah",
+    "aliases": []
+  },
+  {
+    "id": "sharjah-olfah",
+    "name": "Olfah",
+    "emirate": "Sharjah",
+    "aliases": []
+  },
+  {
+    "id": "abu-dhabi-ramhan-island",
+    "name": "Ramhan Island",
+    "emirate": "Abu Dhabi",
+    "aliases": []
+  },
+  {
+    "id": "abu-dhabi-hudayriyat-island",
+    "name": "Hudayriyat Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Al Hudayriyat Island",
+      "Hudayriat Island"
+    ]
+  },
+  {
+    "id": "abu-dhabi-zayed-city",
+    "name": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Khalifa City C"
+    ]
+  },
+  {
+    "id": "abu-dhabi-aljurf",
+    "name": "AlJurf",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Al Jurf"
+    ]
+  },
+  {
+    "id": "abu-dhabi-masdar-city",
+    "name": "Masdar City",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Masdar"
+    ]
+  },
+  {
+    "id": "abu-dhabi-al-maryah-island",
+    "name": "Al Maryah Island",
+    "emirate": "Abu Dhabi",
+    "aliases": [
+      "Maryah Island",
+      "Al Maryah"
+    ]
+  },
+  {
+    "id": "abu-dhabi-yas-canal",
+    "name": "Yas Canal",
+    "emirate": "Abu Dhabi",
+    "aliases": []
+  },
+  {
+    "id": "abu-dhabi-khalifa-city",
+    "name": "Khalifa City",
+    "emirate": "Abu Dhabi",
+    "aliases": []
+  },
+  {
+    "id": "abu-dhabi-al-raha-beach",
+    "name": "Al Raha Beach",
+    "emirate": "Abu Dhabi",
+    "aliases": []
+  },
+  {
+    "id": "rak-marjan-beach-district",
+    "name": "Marjan Beach District",
+    "emirate": "Ras Al Khaimah",
+    "aliases": ["Al Marjan Beach District"]
+  },
+  {
+    "id": "rak-raha-island",
+    "name": "Raha Island",
+    "emirate": "Ras Al Khaimah",
+    "aliases": ["Al Raha Island"]
+  },
+  {
+    "id": "rak-hayat-island",
+    "name": "Hayat Island",
+    "emirate": "Ras Al Khaimah",
+    "aliases": []
+  }
+]

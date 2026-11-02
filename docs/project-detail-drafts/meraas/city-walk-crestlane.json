@@ -1,0 +1,246 @@
+{
+  "id": "meraas-project-01",
+  "name": "City Walk Crestlane",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "City Walk Crestlane brings apartments and duplex homes into an urban landscape of water features, gardens and shared recreation. The currently linked developer documents cover Crestlane 4 and 5. Their building-specific layouts and payment terms should be distinguished from the earlier Crestlane releases.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2700000,
+    "handover": "April 2030 · Crestlane 4/5 estimate",
+    "paymentPlan": "75/25 · dated developer release plan",
+    "amenities": [
+      "Swimming pools",
+      "Sports courts",
+      "Children’s play areas",
+      "Outdoor fitness stations",
+      "Community hubs",
+      "Events lawns",
+      "Yoga and exercise lawns",
+      "Jogging tracks",
+      "Water features"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%20Brochure.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%204%265%20Floor%20Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Meraas: City Walk Crestlane",
+          "url": "https://meraas.com/en/project/city-walk-crestlane",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "City Walk Crestlane official brochure",
+          "url": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "City Walk Crestlane official floor plans",
+          "url": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%204%265%20Floor%20Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "payment",
+          "label": "City Walk Crestlane dated developer price and payment sheet",
+          "url": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%20Prices%20%26%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "plans"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "payment",
+          "official"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own dedicated developer page and project-named documents checked against protected identity; current release/tower scope retained.",
+        "location": "Named community and Dubai setting verified by developer; no coordinates or drive-time guarantees invented.",
+        "residences": "Named official apartment and special-residence types reviewed; explicit plan labels take precedence over incomplete headline ranges.",
+        "areas": "Own plan packs extracted, then selected numbered tables visually inspected. Hidden or transposed PDF text was not treated as numeric evidence; printed area labels retained.",
+        "amenities": "Own project-page and brochure facilities reviewed; shared/community facilities are not guaranteed private apartment inclusions.",
+        "pricing": "Own dated developer release guides transcribed; no available allocation, valuation or live quotation claimed.",
+        "payment": "Own dated schedule visually checked; eight stages total 100%. Past calendar dates retained as historical published instalments, not a fresh booking offer.",
+        "handover": "Own payment document anticipated completion date visually checked; no contractual guarantee or actual completion inferred.",
+        "documents": "Own official brochure, plan pack and dated payment sheet retrieved and inspected; source links retained for exact chosen-unit comparison."
+      },
+      "community": "City Walk",
+      "overview": [
+        "The published plans include compact one-bedroom homes, larger family apartments and ground-level duplexes. Crestlane 5’s four-bedroom Type C has a particularly large outdoor component: its advertised total includes balcony or terrace space, rather than representing enclosed rooms alone."
+      ],
+      "locationNote": "City Walk, Dubai, as identified by Meraas. Confirm the selected building, entrance and unit outlook on its approved plan; surrounding facilities and travel conditions can change.",
+      "priceLabel": "Developer release guide · reconfirm",
+      "priceNote": "The official guide starts at AED 2.70m for Crestlane 4 and AED 2.80m for Crestlane 5. The linked sheet also differentiates apartment and duplex prices. These are published release guides, not verified available-unit quotations; confirm the chosen building and remaining payment balance.",
+      "paymentNote": "The linked developer document uses 20% booking, six construction instalments totalling 55% and 25% at anticipated handover. Some dates have already passed. This is the published release calendar, not confirmation that a new reservation receives those terms; obtain a dated unit offer and remaining-balance statement.",
+      "handoverNote": "The currently linked payment sheets for both Crestlane 4 and 5 print estimated completion in April 2030. This date does not establish the programme of an earlier Crestlane release or override a selected buyer’s contract.",
+      "units": [
+        {
+          "label": "Crestlane 4 · 1-bedroom Type A · Building A",
+          "area": "788.24 sq ft total NSA; 735.50 suite NIA + 52.74 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Crestlane 4 · 2-bedroom Type A mirrored · B605 example",
+          "area": "1,188.87 sq ft total NSA; 1,118.91 suite + 69.96 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Crestlane 4 · 3-bedroom Type B · A302 example",
+          "area": "2,162.04 sq ft total NSA; 1,838.69 suite + 323.35 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Crestlane 4 · 4-bedroom duplex Type B · G03 example",
+          "area": "4,649.58 sq ft printed total NSA; 3,667.48 suite + 982.09 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Crestlane 5 · 1-bedroom Type A1 · A1201",
+          "area": "868.65 sq ft total NSA; 764.35 suite + 104.30 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Crestlane 5 · 4-bedroom Type C · A1202",
+          "area": "5,521.24 sq ft total NSA; 3,003.67 suite + 2,517.57 balcony",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · published release schedule",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2026 · published instalment 1",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2026 · published instalment 2",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2027 · published instalment 3",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2027 · published instalment 4",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2027 · published instalment 5",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2028 · published instalment 6",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2030 · estimated handover instalment",
+          "percent": 25,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release-specific price examples",
+          "value": "Crestlane 4: two bedrooms from AED 3.4m, three bedrooms AED 7.4m, four bedrooms AED 17.6m and duplexes AED 17.9m. Crestlane 5 uses different guides.",
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The Type B duplex table retains a 0.01 sq ft difference between its rounded components and printed total. Examples are not complete size-range endpoints.",
+        "Current stock, exact parking allocation, approved service charges, final finishes and furnishing inclusions require unit-specific confirmation. No operating-cost budget or live allocation was established.",
+        "Amenity completion, operating rules and any separate access charges require confirmation. Project images remain illustrative."
+      ]
+    }
+  }
+}

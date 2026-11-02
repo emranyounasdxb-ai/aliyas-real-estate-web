@@ -1,0 +1,250 @@
+{
+  "id": "damac-project-08",
+  "name": "Violet 4",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "Violet 4 is a collection of four-bedroom townhouses in DAMAC Hills 2. Private gardens and roof terraces give the homes outdoor space, while the wider community provides water attractions, sports facilities and everyday shopping. The original release and later Violet 4 Phase 3 have different published programmes.",
+    "areaId": "dubai-damac-hills-2",
+    "location": "DAMAC Hills 2",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "4",
+    "price": 1960000,
+    "handover": "August 2027 · original release estimate",
+    "paymentPlan": "60/ 40 · original launch plan",
+    "amenities": [
+      "Private gardens and roof terraces",
+      "Water Town wave pool",
+      "Lazy river",
+      "Boating lake",
+      "Sports facilities",
+      "Barbecue areas",
+      "Zen garden",
+      "Community shopping"
+    ],
+    "brochureUrl": null,
+    "floorPlanUrl": "https://www.winforth.ae/wp-content/uploads/2025/05/Violet-4-Floor-Plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "DAMAC Violet 4 project page, developer-hosted preproduction site",
+          "url": "https://preprod.damacproperties.com/en/projects/violet-damac-hills-2/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "facts",
+          "label": "DAMAC Violet 4 original fact sheet, Rosa Art-hosted copy",
+          "url": "https://www.rosauae.com/wp-content/uploads/2024/10/D2-%E2%80%93-VIOLET-4-%E2%80%93-Factsheet-One-Pager.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "Violet 4 branded cluster and floor plans, Winforth-hosted copy",
+          "url": "https://www.winforth.ae/wp-content/uploads/2025/05/Violet-4-Floor-Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: original Violet 4 release",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/violet-phase-4",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "later",
+          "label": "Property Finder: separate Violet 4 Phase 3 programme",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/violet-4-phase-3",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official"
+        ],
+        "amenities": [
+          "official",
+          "facts"
+        ],
+        "price": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "finder",
+          "later"
+        ],
+        "paymentPlan": [
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Original Violet4 release separated from later Phase 3 rather than merging schedules.",
+        "location": "DAMAC Hills 2 explicitly identified on developer page and own documents.",
+        "residences": "TH12-4M and TH12-4E four-bedroom townhouses reviewed; portal category mistakes rejected.",
+        "areas": "Floor-plan component and total-saleable table checked against fact sheet; plot sizes not inferred.",
+        "amenities": "Original brochure/fact-sheet community facilities distinguished from private home features.",
+        "pricing": "Original rounded AED 1.96m guide retained, with portal AED 1.958m noted as a different reference.",
+        "payment": "Original payment table visually read, including separate 80/90% progress milestones; total 100%.",
+        "handover": "August 2027 on original document and portal; later Phase 3 Q4 2028 explicitly separated.",
+        "documents": "Branded one-page fact sheet and three-page cluster/plan pack downloaded; detailed tables and drawings visually checked. Full consumer brochure not retrieved from accessible public endpoints."
+      },
+      "community": "Violet 4 · DAMAC Hills 2",
+      "overview": [
+        "Both townhouse drawings place a study beside the ground-floor kitchen and living area, with bedrooms arranged across the first and roof floors. The end layout has a different garden footprint. The plan table separately identifies garage, balcony and terrace area, so total saleable area should not be read as enclosed internal floor space."
+      ],
+      "locationNote": "Violet 4 is within DAMAC Hills 2 in Dubailand, accessed through the wider community's road network. Its launch material positions it opposite Water Town. Check the actual townhouse, routes to community facilities and daily commute rather than relying on generic driving-time claims.",
+      "priceLabel": "Original launch starting price · reconfirm",
+      "priceNote": "The original fact sheet starts at AED 1.96m, rounded to two decimal places. Property Finder gives an original launch reference of AED 1.958m. Neither establishes current developer stock or a present resale offer; request the selected home's dated quotation and costs.",
+      "paymentNote": "The original 60/ 40 launch structure includes 20% immediately, 36% in timed instalments, 2% at each of the 80% and 90% construction milestones, and 40% on completion. Grouped monthly entries below preserve the original schedule. Later release or resale terms require separate confirmation.",
+      "handoverNote": "The original fact sheet anticipates August 2027, corroborated by the original Property Finder entry. Its separate Violet 4 Phase 3 entry reports Q4 2028; that later programme must not be transferred to every original-release home.",
+      "units": [
+        {
+          "label": "TH12-4M · 4-bedroom middle townhouse",
+          "area": "2,352.26 sq ft total saleable; 1,518.25 sq ft floor/roof component plus 834.01 sq ft garage/balcony/terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "TH12-4E · 4-bedroom end townhouse",
+          "area": "2,415.33 sq ft total saleable; 1,556.89 sq ft floor/roof component plus 858.44 sq ft garage/balcony/terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Immediate deposit",
+          "percent": 20,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 3–7 from sale · 1% monthly",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 8 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 9–13 · 1% monthly",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 14 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 15–19 · 1% monthly",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Within 20 months",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 21–26 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "At 80% townhouse completion",
+          "percent": 2,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "At 90% townhouse completion",
+          "percent": 2,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "On completion",
+          "percent": 40,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original release summary",
+          "value": "The original fact sheet lists 352 homes: 220 middle and 132 end townhouses. This historical release count does not indicate remaining inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Historic launch incentive",
+          "value": "The original sheet advertises a 4% DLD fee waiver subject to conditions. It is not presented as a current offer.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the exact release, unit, present stock, sale terms, registered area, plot boundary and contractual handover date.",
+        "Later Phase 3 has different published timing and promotional schedules; no blanket current offer is asserted.",
+        "The full consumer brochure was not retrieved; the linked plan pack and fact sheet provide the reviewed original layouts and terms.",
+        "Service charges, maintenance obligations and community amenity access require confirmation. Photography remains illustrative."
+      ]
+    }
+  }
+}

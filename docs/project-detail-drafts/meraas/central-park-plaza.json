@@ -1,0 +1,218 @@
+{
+  "id": "meraas-project-20",
+  "name": "Central Park Plaza",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Central Park Plaza is a two-tower residential phase at Central Park, City Walk. Its range includes apartments, four-bedroom townhouses and five-bedroom penthouses across three levels. The layouts combine enclosed rooms with balconies or terraces in an urban park setting.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 2730000,
+    "handover": "Q3 2027 · original developer target",
+    "paymentPlan": "20/50/30 · original developer schedule",
+    "amenities": [
+      "Pools and water play",
+      "Children’s play areas",
+      "Running track",
+      "Dog park",
+      "Tennis and squash courts",
+      "Outdoor gym",
+      "Yoga areas",
+      "Spa and sauna",
+      "Barbecue areas",
+      "Community retail and dining"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2024-05/CP%20Plaza%20Brochure_V2_digital%20FINAL%20%281%29.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2024-03/Central%20Park%20Plaza%20Floor%20PlansEngL.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Central Park Plaza official project page",
+          "url": "https://meraas.com/en/project/citywalk-central-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brochure",
+          "label": "Central Park Plaza own official brochure and plans",
+          "url": "https://meraas.com/sites/default/files/2024-05/CP%20Plaza%20Brochure_V2_digital%20FINAL%20%281%29.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Central Park Plaza",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/central-park-plaza",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Official Plaza Tower A/B floor plans",
+          "url": "https://meraas.com/sites/default/files/2024-03/Central%20Park%20Plaza%20Floor%20PlansEngL.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "payment",
+          "label": "Official original Plaza price/payment sheet",
+          "url": "https://meraas.com/sites/default/files/2024-05/CPPlazaPaymentPlanPrices2023%201%20%281%29.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure",
+          "payment"
+        ],
+        "bedrooms": [
+          "payment",
+          "plans"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ],
+        "price": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Plaza brochure and Tower A/B plan pack checked.",
+        "location": "Own brochure identifies Central Park at City Walk, Dubai.",
+        "residences": "One-to-four-bedroom apartments, four-bedroom townhouse and five-bedroom penthouse confirmed.",
+        "areas": "Scanned tables visually read in bounded crops; pages 4, 6, 9 and 21 checked.",
+        "amenities": "Own brochure page 14 lists shared community facilities.",
+        "pricing": "Official original price sheet and community reference start 2.73m; live stock unconfirmed.",
+        "payment": "Official sheet visually inspected: 20 + 5x10 + 30=100.",
+        "handover": "Official July 2027 target differs portal October 2026.",
+        "documents": "Official 17-page brochure, 23-page scanned plans and one-page price/payment sheet retrieved."
+      },
+      "community": "City Walk",
+      "overview": [
+        "The plans distinguish townhouse, duplex and penthouse arrangements. Large balconies and penthouse terraces form part of total area; a single bedroom-wide size range would conceal important layout differences."
+      ],
+      "locationNote": "At Central Park in City Walk, Dubai, as established by the own phase brochure.  Facilities are shared and views vary by unit.",
+      "priceLabel": "Historical developer launch guide",
+      "priceNote": "The official 2023 sheet starts at AED 2.73m for one bedroom, 3.76m for two, 7.09m for three, 12.43m for four, 19.50m for a four-bedroom townhouse and 31.72m for a five-bedroom penthouse. These are historical launch tiers. The community page still displays 2.73m; obtain a current unit quote.",
+      "paymentNote": "The original developer sheet specifies 20% booking; five 10% instalments in March/September 2024, March/September 2025 and March 2026; then 30% July 2027 on handover. This historical calendar does not establish today’s unpaid balance or resale terms.",
+      "handoverNote": "The official sheet estimates July 2027, shown as Q3 2027. Property Finder gives October 2026. The developer community page reports 43.68% at 1 September 2026; neither marketing availability nor a portal date proves completion.",
+      "units": [
+        {
+          "label": "Tower A · 1-bedroom Type A.1",
+          "area": "769.40 sq ft suite + 107.53 sq ft balcony; printed 876.94 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 2-bedroom Type A.1, unit 201",
+          "area": "1,242.59 sq ft suite + 628.50 sq ft balcony; 1,871.09 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 3-bedroom Type A.1, unit 204",
+          "area": "1,904.35 sq ft suite + 825.27 sq ft balconies; 2,729.62 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2027 · on handover",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm live stock and terms: the developer page and portal disagree on available versus sold-out status.",
+        "The one-bedroom printed total exceeds its rounded component sum by 0.01 sq ft; the printed total is retained. Parking, service charges and contractual completion need confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "sobha-project-21",
+  "name": "Skyscape Avenue",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Skyscape Avenue is the Tower B residential offering in Sobha Hartland II’s Skyscape collection. Its one- to three-bedroom apartments include additional study, library, store and maid-room configurations, with different lagoon, community and city-facing layouts.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1950000,
+    "handover": "December 2028 · developer website estimate",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Infinity pool",
+      "Steam and sauna",
+      "Indoor and outdoor gym",
+      "Children’s play area",
+      "Music room",
+      "Library and reading room",
+      "Game room",
+      "Jacuzzi",
+      "Sports court",
+      "Yoga zone",
+      "Zen garden"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Skyscape Avenue official project page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyscape/avenue",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 135
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Skyscape Avenue official brochure and Tower B plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-07/skyscape-avenue-opp-doc.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "handover",
+          "label": "Sobha Skyscape catalogue · Avenue dated card only",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyscape",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 7
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Skyscape Avenue payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/skyscape-avenue",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "handover"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Avenue Tower B brochure; Aura and Altius details not copied.",
+        "location": "Own Sobha Hartland II official address; no guessed coordinates.",
+        "residences": "Main 1–3-bedroom range with marketed 1.5/2.5 variants explained without inflating full-bedroom counts.",
+        "areas": "Own 69-page document indexed; actual type/area panels 26,48,66 visually checked.",
+        "amenities": "Own official Avenue facilities list reviewed.",
+        "pricing": "Own current officialAED 1.95 m inventory-dependent, not portal historicAED 1.7 m launch.",
+        "payment": "Portal 20/40/40 only; no dated primary calendar retrieved.",
+        "handover": "Own official Skyscape catalogue Avenue cardDecember 2028;7-word shared allocation.",
+        "documents": "Official 69-page brochure includes Tower B plans; separate official current payment document not retrieved."
+      },
+      "community": "Skyscape Avenue · Sobha Hartland II",
+      "overview": [
+        "A marketed fractional-bedroom category does not mean an additional full bedroom: the reviewed document distinguishes study, library, store and service rooms. Compare the selected drawing and suite area rather than relying on the headline category."
+      ],
+      "locationNote": "Sobha Hartland II, Dubai. Different layouts face the lagoons, surrounding community, Nad Al Sheba or the wider skyline. Confirm the chosen level, orientation and actual access rights to community facilities.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha currently advertises AED 1.95 m, subject to inventory. Property Finder’s AED 1.7 m launch guide and sold-out flag are separate portal references; they do not establish the current developer allocation or unit quotation.",
+      "paymentNote": "Property Finder reports 20% down payment at launch, 40% construction and 40% handover. No current dated developer instalment calendar was retrieved; obtain the selected unit’s written terms and remaining balance.",
+      "handoverNote": "Estimated timing; confirm the signed unit agreement.",
+      "units": [
+        {
+          "label": "Tower B · 1-bedroom Type A with powder room",
+          "area": "738.51 sq ft total: 676.83 suite + 61.68 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower B · 2-bedroom Type A",
+          "area": "936.68 sq ft total: 848.09 suite + 88.59 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower B · 3-bedroom Type A with maid room",
+          "area": "1,561.84 sq ft total: 1,456.25 suite + 105.59 balconies",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch down payment · reported",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · dates unconfirmed",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No signed current delivery schedule, dated instalment calendar, confirmed inventory, service-charge rate or parking allocation retrieved.",
+        "The current catalogue’s availability-dependent size selection is not the full original brochure mix.",
+        "Plans, views, furnishings and community facilities require final contractual confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

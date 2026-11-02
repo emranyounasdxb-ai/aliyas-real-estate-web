@@ -1,0 +1,236 @@
+{
+  "id": "binghatti-project-22",
+  "name": "Mercedes-Benz Places Binghatti City",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Mercedes-Benz Places Binghatti City is a masterplanned, multi-tower residential district in the Meydan area of Dubai. It is a separate development from the earlier Downtown Mercedes-Benz tower. Apartments and selected duplex homes are organised around a central park and shared leisure spaces.",
+    "areaId": "dubai-nad-al-sheba",
+    "location": "Nad Al Sheba",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": 1599999,
+    "handover": null,
+    "paymentPlan": "20/50/30 · developer community guide",
+    "amenities": [
+      "Central park",
+      "Skyline jogging path",
+      "Podium pool",
+      "Sky infinity pool",
+      "Gym",
+      "Yoga and outdoor wellness area",
+      "Spa service",
+      "Concierge service",
+      "Valet service"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Mercedes-Benz Places Binghatti City own developer page",
+          "url": "https://www.binghatti.com/en/branded-projects/mercedes-benz-places-binghatti-city",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "partner",
+          "label": "Mercedes-Benz partner announcement · 16 December 2025",
+          "url": "https://media.mercedes-benz.com/en/article/d9b4aab7-a355-4be3-b952-c151800e5dbc",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "brochure",
+          "label": "Official linked City brochure · 56 pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "maybach",
+          "label": "Official Project Maybach facts/plans · nine pages; overlapping brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "ultimate",
+          "label": "Official Vision Mercedes-Maybach Ultimate Luxury facts/plans · nine pages; overlaps",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "six",
+          "label": "Official Vision Mercedes-Maybach 6 facts/plans · nine pages; overlaps",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 15
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder City guide · despite ambiguous legacy URL, page explicitly City",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/mercedes-benz-places-by-binghatti",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "partner"
+        ],
+        "location": [
+          "developer",
+          "partner"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure",
+          "maybach"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "maybach",
+          "ultimate",
+          "six"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Brand partner explicitly calls this the second Dubai collaboration and masterplanned district, distinct from Downtown tower; ambiguous portal slug inspected by actual City heading/location.",
+        "location": "Own hero Nad Al Sheba; FAQ/partner Meydan. Exact plot coordinate and approved new area mapping not inferred.",
+        "residences": "Own master brochure covers 12 towers, studios through five bedrooms; tower 6 Vision Iconic four/five-bedroom duplexes separately identified.",
+        "areas": "Image-only brochure actual pages 17,20,23–27 and selected Maybach plan/fact panels inspected; header units, suite/balcony/terrace and whole duplex totals read visually.",
+        "amenities": "Own facilities page and LEED qualification footnote inspected; target certification not presented as achieved.",
+        "pricing": "Own hero from AED 1,599,999 differs from portal AED 1.25m/rounded 1.3m; no live-unit offer assumed.",
+        "payment": "Own FAQ 20/50/30 differs from portal 40/60; developer guide retained with 100 total, no invented tower calendar.",
+        "handover": "No masterplan-wide primary dated completion found; portal January 2028 not assigned to every tower.",
+        "documents": "Own 56-page brochure and three own nine-page overlapping Maybach fact/plan packs downloaded; combined underlying allocation 200 words. No primary payment calendar retrieved."
+      },
+      "community": "Mercedes-Benz Places Binghatti City",
+      "overview": [
+        "The developer describes 12 towers and a central park with 12 experiences. Current plans identify Project Maybach, Ultimate Luxury, Maybach 6 and the separate Vision Iconic tower; different towers have different layouts."
+      ],
+      "locationNote": "The developer hero says Nad Al Sheba; its FAQ and Mercedes-Benz’s 16 December 2025 release describe the Meydan area. This is not the separate Downtown tower or Nad Al Sheba Gardens community.",
+      "priceLabel": "Developer advertised from-guide · selected tower to confirm",
+      "priceNote": "The own developer hero advertises AED 1,599,999. Property Finder’s City page gives AED 1.25m in its body and rounds to AED 1.3m. Confirm the named tower, release and current unit quote.",
+      "paymentNote": "The developer FAQ gives 20% down payment, 50% construction and 30% completion. Property Finder instead lists 40/60. No dated unit contract confirms which offer applies; a community guide is not a universal tower schedule.",
+      "handoverNote": "Property Finder forecasts January 2028 for its City entry. The primary material reviewed does not establish a single completion date for all 12 towers. A tower-specific contractual date is required; headline remains unset.",
+      "units": [
+        {
+          "label": "Project Maybach · Tower 1 · Studio Type 1",
+          "area": "35.77 m² / 385.03 ft² published total",
+          "sourceIds": [
+            "maybach"
+          ]
+        },
+        {
+          "label": "Vision Iconic · Tower 6 · 1-bedroom Type 1",
+          "area": "77.76 m² / 836.99 ft² published total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Vision Iconic · Tower 6 · 2-bedroom Type 2",
+          "area": "179.06 m² / 1,927.37 ft²; includes terrace",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Vision Iconic · Tower 6 · 3-bedroom Type 1",
+          "area": "231.61 m² / 2,493.00 ft²; includes terrace",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Vision Iconic · Tower 6 · 4-bedroom duplex Type 1",
+          "area": "280.77 m² / 3,022.15 ft² whole-home total",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Vision Iconic · Tower 6 · 5-bedroom duplex Type 1",
+          "area": "350.81 m² / 3,776.05 ft² whole-home total",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment · developer guide",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction · developer guide",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion · developer guide",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Certification target",
+          "value": "The brochure says the development aims for LEED qualification; achieved certification is not established.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm selected tower, release, current price/availability, contractual date, instalment calendar, tenure, approved service charges and parking. Portal leasehold wording is not independently confirmed by primary title documents.",
+        "Published totals include outdoor areas. Some plan cells show a square-metre glyph in the SQ.FT column; column headings and numerical correspondence are retained, not treated as a second metric area.",
+        "Masterplan amenities and selected private-pool layouts are not identical entitlements for every tower. Services may have separate fees. Do not apply Downtown Mercedes-Benz Places details here. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

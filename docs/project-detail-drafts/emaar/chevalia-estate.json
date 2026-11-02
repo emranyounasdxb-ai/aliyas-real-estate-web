@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-33","name":"Chevalia Estate","developerSlug":"emaar",
+ "fields":{
+  "description":"Chevalia Estate is a five bedroom villa collection on the edge of Grand Polo Club & Resort’s Green Core. The central polo landscape shapes the setting, with a clubhouse, stables and green routes in the wider estate. Two distinct villa size groups appear in the official plans, each with its own layout and outdoor-space allocation.",
+  "areaId":"dubai-grand-polo-club-resort","location":"Grand Polo Club & Resort","emirate":"Dubai","type":"Villa","bedrooms":"5","price":9000000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community polo fields","Clubhouse","Equestrian stables","Community centre","Fitness areas","Football, basketball and padel courts","Forest walks and floral gardens","Pedestrian and cycling network","Mini golf","Galloping Fountain landscape setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/CHEVALIA-ESTATES_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/CHEVALIA-ESTATES_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Chevalia Estate","url":"https://www.emaar.com/en/properties/chevalia-estate-at-grand-polo","kind":"developer","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"brochure","label":"Emaar: Chevalia Estate brochure","url":"https://www.emaar.com/cms-media/uploads/CHEVALIA-ESTATES_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"plans","label":"Emaar: Chevalia Estate floor plans","url":"https://www.emaar.com/cms-media/uploads/CHEVALIA-ESTATES_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Chevalia Estate launch fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/chevalia-estates/CHEVALIA_ESTATE_GRANDPOLO_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Chevalia Estate payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/chevalia-estates/CHEVALIA_ESTATE_GRANDPOLO_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Chevalia Estate completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/chevalia-estate","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Original Chevalia Estate official page and own branded documents reviewed, not Estate 2 or Chevalia Fields.",
+    "location":"Periphery of Grand Polo's Green Core established from official brochure and masterplan.",
+    "residences":"Five bedroom villas only; separate A/B types verified in own plan PDF, including visual inspection of B Type 1 branding and layout.",
+    "areas":"All five plan pages read; individual totals retained rather than presenting the launch average as every villa's size.",
+    "amenities":"Brochure, official page and fact sheet support community equestrian, sports and landscape facilities. Unverified portal concierge/smart-home claims omitted.",
+    "pricing":"Official AED 9 million starting price checked against launch sheet; current stock not inferred.",
+    "payment":"Own payment PDF visually checked and matched to fact sheet: 100% total, 40/50/80/90% construction triggers.",
+    "handover":"February 2029 estimated completion from launch document corroborated by PF; reported Q1 2029.",
+    "documents":"Official brochure/plans linked and broker-hosted launch copies attributed. Similar Fields layouts do not substitute for Estate evidence. Images unchanged."
+   },
+   "community":"Grand Polo Club & Resort",
+   "overview":["Chevalia Estate’s brochure describes homes arranged around the central green and an equestrian clubhouse with a covered spectator terrace. Landscape routes and sports facilities provide other ways to use the estate. The interior direction favours polished marble and natural light. Membership, event access and final material schedules should be checked rather than inferred from that design description."],
+   "locationNote":"Chevalia Estate sits beside the Green Core within Grand Polo Club & Resort, Dubai. The brochure map places the estate in relation to The Oasis, Expo City and Al Maktoum International Airport. Individual plots have different outlooks; published journey estimates and illustrated views need a unit-level check.",
+   "priceLabel":"Advertised starting price",
+   "priceNote":"Emaar advertises Chevalia Estate from AED 9 million, matching its launch fact sheet. This published figure is not a current reservation offer; obtain a written quotation for the chosen villa.",
+   "paymentNote":"The launch document provides 10% at booking, seven later 10% instalments and 20% at estimated completion. It is a historical schedule, with some dates already passed; current payment obligations must be checked against the unit’s agreement.",
+   "handoverNote":"February 2029 is the estimated construction-completion month in the project’s payment sheet and is corroborated by Property Finder. It is not a guarantee of key handover or a verified construction-progress update.",
+   "units":[
+    {"label":"5 bedroom villa · A Type 1","area":"8,615.11 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom villa · A Type 2","area":"8,606.61 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom villa · B Type 1","area":"4,932.13 sq ft total area","sourceIds":["plans"]},
+    {"label":"5 bedroom villa · B Type 2","area":"5,153.87 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch collection and plots","value":"The launch sheet lists 80 five bedroom villas, averaging 6,516 sq ft built-up area and 7,490 sq ft plot area. These are collection averages, not individual dimensions or current availability.","sourceIds":["facts"]},
+    {"label":"Area basis","value":"A-type suites measure 6,640.79–6,648.65 sq ft; B-type suites measure 3,881.57–3,891.37 sq ft. Published totals add balcony and carport space.","sourceIds":["plans"]},
+    {"label":"A-type arrangement","value":"The drawings include ground, first and second levels, a lift, staff rooms, a separate working kitchen, roof lounge and study. A pool and sunken seating are shown; final inclusion depends on the specification.","sourceIds":["plans"]},
+    {"label":"B-type arrangement","value":"The smaller B layouts also show a lift and maid’s room, with a guest bedroom at ground level and another bedroom, study and terrace on the second level.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current villa availability, exact plot and view, price, remaining instalments and contractual handover.","Final pool, lift, appliance, finish and landscape inclusions; layouts contain illustrative elements.","Current construction progress, service/community charges and ongoing maintenance costs.","Membership, opening dates and access terms for the clubhouse, stables and polo facilities.","Official project imagery is deferred; existing photographs are illustrative."]
+  }
+ }
+}

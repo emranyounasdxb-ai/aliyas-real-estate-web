@@ -1,0 +1,291 @@
+{
+  "id": "arada-project-02",
+  "name": "Akala",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "Akala brings branded residences and a hotel together between DIFC and Downtown Dubai. Two towers share spaces for swimming, fitness and relaxation, while apartment layouts range from one-bedroom homes to large penthouses.",
+    "areaId": null,
+    "location": "Between DIFC and Downtown Dubai",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–6",
+    "price": 3790000,
+    "handover": "Q4 2029",
+    "paymentPlan": "10 / 50 / 40",
+    "amenities": [
+      "Podium pool",
+      "Fitness centre",
+      "Yoga and Pilates studios",
+      "Spa",
+      "Medical wellness clinic",
+      "Private cinema",
+      "Resident wellness lounge"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf",
+    "floorPlanUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Akala: developer price and current payment plan",
+          "url": "https://www.arada.com/en/akala/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "launch",
+          "label": "Akala: developer launch, 29 May 2025",
+          "url": "https://www.arada.com/en/latest-news/arada-unveils-akala-the-worlds-first-precision-wellness-destination-with-debut-location-next-to-dubais-difc/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "sale",
+          "label": "Akala: Observatory sale announcement, 3 July 2025",
+          "url": "https://www.arada.com/en/latest-news/arada-sells-signature-penthouse-at-new-wellness-destination-akala-for-aed125m/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "brand",
+          "label": "Akala: official hotel and residences website",
+          "url": "https://akalahotels.com/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Akala Residences 1: original 65-spread brochure",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "portal",
+          "label": "Akala: Property Finder project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/arada-sale/akala-hotel-and-residences",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "launch",
+          "sale",
+          "portal"
+        ],
+        "location": [
+          "launch",
+          "sale"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "type": [
+          "developer",
+          "brochure"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "launch",
+          "sale"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "community": [
+          "brand"
+        ],
+        "overview": [
+          "launch",
+          "brand",
+          "brochure"
+        ],
+        "locationNote": [
+          "launch",
+          "sale",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "portal"
+        ],
+        "paymentNote": [
+          "developer",
+          "portal"
+        ],
+        "handoverNote": [
+          "launch",
+          "sale"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "launch",
+          "sale"
+        ],
+        "unresolved": [
+          "brochure"
+        ]
+      },
+      "community": "Akala",
+      "overview": [
+        "Arada’s May 2025 launch describes 534 branded homes across two 220-metre towers, alongside a hotel. This is the development-wide programme, not a count of unsold apartments.",
+        "The private-residence range includes The Elements, The Collections, The Gravity House, The Sky Terrace and The Observatory. The layouts below come from Residences 1’s original brochure."
+      ],
+      "locationNote": "The developer places Akala between DIFC and Downtown Dubai, between Index Tower and Central Park Towers. Property Finder lists Zabeel 2; district boundaries were not independently confirmed.",
+      "priceLabel": "Rounded developer guide from",
+      "priceNote": "The developer displays AED 3.79 million, rather than a unit-specific quotation. Property Finder’s separate launch guide is AED 3,905,000 and marks developer stock sold out; confirm current availability.",
+      "paymentNote": "Current developer terms are 10% down, 50% during construction and 40% on handover. Property Finder instead records 5/35/60. The table follows the current primary page; request the selected unit’s dated calendar.",
+      "handoverNote": "Arada’s May and July 2025 releases target completion by end-2029. This remains a forecast; the reviewed sources do not establish a completed handover.",
+      "units": [
+        {
+          "label": "1-bedroom Elements A–D",
+          "area": "1,036.01–1,406.73 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Elements A–F",
+          "area": "1,556.77–2,091.04 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Elements A–D",
+          "area": "2,586.71–3,664.92 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Collections A/B",
+          "area": "3,647.94 / 4,697.80 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom Gravity House A",
+          "area": "6,256.59 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6-bedroom Sky Terrace A",
+          "area": "14,628.40 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "6-bedroom Observatory",
+          "area": "23,672.72 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development-wide launch programme",
+          "value": "534 branded residences; two 220-metre towers.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Certification stage",
+          "value": "LEED Gold and WELL Silver precertification, as announced in May 2025.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Observatory historical sale",
+          "value": "Arada announced an AED 125 million sale on 3 July 2025; not a current asking price or available home.",
+          "sourceIds": [
+            "sale"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Residences 1 areas include balconies; the Observatory total includes its roof terrace and must not be doubled.",
+        "The brochure’s three-bedroom A components total 240.32 m², versus its printed 240.31 m². The Observatory components total 2,199.26 m², versus 2,199.27 m².",
+        "Verify approved unit areas, furnishing, service and membership costs, parking, title and availability. Marketing services do not establish an included contractual entitlement."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected arada-project-02 Akala. Current exact official Arada landing and akalahotels.com primary brand confirmed. Original official65spreadPDF explicitlyResidences1 dated13June2025 in plan footers; programme534/twotowers iswholedevelopment notTower1 unsoldstock.",
+        "location": "Primary May29 launch betweenDIFC/Downtown, July3release betweenIndex/CentralPark. No primary exactZaabeel2boundary on reviewedpages; PFsecondary explicitlyZabeel2. areaIdNULL ratherthanassumeDIFCdistrict. No coordinates inferred from brandmarketing.",
+        "residences": "Actual family drawings1BR A–D,2BR A–F,3BR A–D,4BR A/B,5BR A,6BR A/Observatory;19distinct variants grouped7publicrows with exactfamilyrange. Originalprimary1–6 agrees. No PFtownhouses claim inherited.",
+        "areas": "Allactualnumericfamilyspreads40/41/44/45/46/49/50/53/56/58/61 visuallyread bounded1750x1600; contacts0/4/8 includeall19variants andfullfamilydrawings. Observatory floor51+roof onspread61 same23672.72totalnotmultiplied. 3BRA195.48+44.84=240.32 vs240.31; Observatory928.20+1271.06=2199.26 vs2199.27 disclosedrounding. 6BR A1359.02 correctcomponents,5BR581.26 notsecondaryrounded581.28.",
+        "amenities": "Primarylanding/brand andofficialEDMimage givepool/gym/yogaPilates/spa/clinic/cinema; brochurewellnesslounge. No demonstratedhealth/longevityoutcomes claimed. Optionalservicesnotfreeentitlements. LEED/WELLprecertificationnotfinalcertificate.",
+        "pricing": "OwnHTML actualAEDimage followed3.79MILLION. Numeric3790000exactroundedguide, notinvent3799000. PF3905000launchselection soldout contrastattributed. Observatory125mactualJuly2025salehistorical,notlaunchorcurrentask.",
+        "payment": "Owncurrent10/50/40sums100, PF5/35/60different retainednote. No signedcalendar ororiginalphasecommercialsheet available. EDMonepageamenitiesonlynotpayment. No datesinvented.",
+        "handover": "Own29May/3July2025releases bothend2029target. Julyhistoricalannouncementconstructionwillbegin2026notproofactualstart/completion. Currentdirectconstructioncertificateunavailable; no stalePF0%ascurrent.",
+        "documents": "Exactvisiblepublicofficialsales-toolkitlinks ordinaryGET200:65spreadbrochure18704692bytesandonepageEDM712046. Plans embedded65spread,allnumericfamiliesrenderedactual. Sourcepoolbrochure200includesallPDF-derivedunitlabels,rangevalues,scopingandroundingnotes, mirroredversionsnoextraallowance. GenericAradatoolkitlocatoronly0. BrandnormalGET200noforms. No healthcredentialsinvented."
+      }
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "binghatti-project-02",
+  "name": "Binghatti Spectre",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Spectre is a two-tower mixed-use development in Al Jaddaf, Dubai, combining studios and one- to three-bedroom apartments with offices and retail. Its published plans include conventional apartments and a larger three-bedroom layout with an open terrace and pool.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 774999,
+    "handover": null,
+    "paymentPlan": "10/40/50 · portal reference",
+    "amenities": [
+      "Swimming and children’s pools",
+      "Indoor and outdoor gyms",
+      "Yoga and wellness areas",
+      "Padel court",
+      "Jogging track",
+      "Children’s play area",
+      "Landscaped seating"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-spectre-assets-4642833/binghatti-spectre-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-spectre-assets-4642833/binghatti-spectre-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Spectre own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-spectre",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official Spectre brochure · 53 PDF pages; plans38–47",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-spectre-assets-4642833/binghatti-spectre-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "facts",
+          "label": "Official Spectre project facts · 13 PDF pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-spectre-assets-4642833/binghatti-spectre-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut Spectre project payment and delivery reference",
+          "url": "https://www.bayut.com/for-sale/property/dubai/al-jaddaf/binghatti-spectre/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "bayut"
+        ],
+        "paymentPlan": [
+          "bayut"
+        ],
+        "handover": [
+          "bayut"
+        ],
+        "facts": [
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own dedicated Spectre webpage and linked53pagebrochure/13pagefacts identify two towers; distinct fromStarfall/Wraith.",
+        "location": "Own page places the scheme in AlJaddaf nearDEWAHeadquarters; no unverified map coordinates.",
+        "residences": "Studios and1–3bedroom apartments, office andretail uses confirmed. TowerA508residential/TowerB204residential plus235offices/19retail in ownfacts.",
+        "areas": "All eight visible brochure plan tables pages38,39,41,42,43,44,46,47 inspected. ThreebedType02 includes terrace/pool,318.30sqm; no mixing its total with135.50sqmType01.",
+        "amenities": "Own FAQ facilities reviewed, without introducing tax/visa/yield marketing claims.",
+        "pricing": "Own hero774999 andBayut rounded775k. Publishedguide only; no live stock or specific apartment quote verified.",
+        "payment": "Bayut10/40/50 summary reviewed. Own documents contain no retrieved current dated calendar. Secondary alternatives not merged into a contract.",
+        "handover": "BayutQ42028 forecast, no primarycurrentcompletiondate found; headline null. No assumption construction/occupancy complete.",
+        "documents": "OfficiallinkedPDFs downloaded, visuallychecked numericplans/facts. Reversed embedded text not used to assign towercolumns. OwnFAQbasement/podiumcount conflictswithfacts explicitlyretained."
+      },
+      "community": "Binghatti Spectre",
+      "overview": [
+        "The developer places Spectre near DEWA Headquarters in Al Jaddaf, with connections to Sheikh Zayed Road, Al Khail Road and Oud Metha."
+      ],
+      "locationNote": "Al Jaddaf, Dubai, near DEWA Headquarters according to the developer. The project’s residential, office and retail uses share one development; selecting an address does not establish a guaranteed view or journey time.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "The official project hero showed AED 774,999 on 31 October 2026; Bayut rounds the project launch guide to AED 775,000. A headline starting price does not identify a currently available apartment. Confirm the home, floor, size and written terms.",
+      "paymentNote": "Bayut publishes 10% down payment, 40% before handover and 50% at handover. This is a secondary project summary, not a dated developer calendar. Obtain the selected-unit agreement, due dates and any applicable offer conditions before relying on the split.",
+      "handoverNote": "Bayut forecasts Q4 2028. The retrieved developer page, brochure and facts pack did not establish a current contractual completion date. The forecast remains attributed and the headline unconfirmed.",
+      "units": [
+        {
+          "label": "Studio · Type01",
+          "area": "34.59 m² / 372.32 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Studio · Type02",
+          "area": "38.99 m² / 419.68 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type01",
+          "area": "70.13 m² / 754.87 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type02",
+          "area": "64.90 m² / 698.58 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type01",
+          "area": "94.06 m² / 1,012.45 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type02",
+          "area": "113.43 m² / 1,220.95 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · Type01",
+          "area": "135.50 m² / 1,458.51 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · Type02 · pool terrace",
+          "area": "318.30 m² / 3,426.15 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · portal reference",
+          "percent": 10,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Pre-handover · portal reference",
+          "percent": 40,
+          "sourceIds": [
+            "bayut"
+          ]
+        },
+        {
+          "stage": "Handover · portal reference",
+          "percent": 50,
+          "sourceIds": [
+            "bayut"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published tower mix",
+          "value": "Tower A: 508 apartments. Tower B: 204 apartments and 235 offices. The scheme also lists 19 ground-floor retail shops. Published counts are not available inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Configuration discrepancy",
+          "value": "The facts pack gives 4 basements + ground + 3 podiums + 26 office/residential floors + mechanical + roof. The webpage FAQ instead describes 3 basements and 2 podiums with a plaza. Confirm the approved building configuration.",
+          "sourceIds": [
+            "facts",
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Published areas include balconies. Confirm the selected home’s contractual measurement and specifications; the Type 02 three-bedroom pool terrace is already included in its total.",
+        "Office and retail unit sizes, charges and commercial sale terms were not established for an individual unit.",
+        "No current dated developer payment sheet, contractual completion date, service/cooling charges or live stock feed was verified. Obtain the exact offer and agreement; no tax exemption, visa entitlement or investment return is promised."
+      ]
+    }
+  }
+}

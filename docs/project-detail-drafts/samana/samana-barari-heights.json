@@ -1,0 +1,269 @@
+{
+  "id": "samana-project-12",
+  "name": "SAMANA Barari Heights",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Barari Heights in Majan combines studios and one- to three-bedroom apartments with larger duplex layouts and balcony pools. Confirm the selected home specification.",
+    "areaId": "dubai-majan",
+    "location": "Majan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 943333,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Aquatic gym",
+      "Trampoline park",
+      "Mini golf",
+      "Kickboxing arena",
+      "Outdoor yoga area",
+      "Library lounge",
+      "Hammock garden",
+      "Indoor spa"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/47/cba5da8aba609f59ca5671ac768c81cb.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/7plXWvH4lWe89mT_T1243VUYJQE/nJwnVw/Samana%20Barari%20Heights%20Floor%20Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Barari Heights · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-barari-heights",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Barari Heights official brochure · 52 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/47/cba5da8aba609f59ca5671ac768c81cb.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Barari Heights revised floor plates · broker-hosted, 10 pages",
+          "url": "https://www.dubai-p.com/wp-content/uploads/2025/04/SAMANA-BARARI-HEIGHTS-FLOOR-PLAN-Revised.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "types",
+          "label": "Barari Heights branded layouts · broker-hosted, 18 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/7plXWvH4lWe89mT_T1243VUYJQE/nJwnVw/Samana%20Barari%20Heights%20Floor%20Plans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Barari Heights project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-barrari-heights",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Majan",
+      "locationNote": "Majan, Dubailand, near Al Barari and Global Village.",
+      "overview": [
+        "The published area legends use “average area” for both single figures and ranges. Confirm the approved area and inclusions for the chosen unit."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Developer reference: AED 943,333, subject to availability. Property Finder’s AED 893,333 launch reference differs.",
+      "handoverNote": "Developer: Q4 2028. Property Finder: April 2028. The target dates conflict; neither proves completion.",
+      "paymentNote": "Developer: 15% booking + 42 monthly payments of 1% + 10%/5% in months 12/18 + 56 monthly payments of 0.5% = 100%. Property Finder: 20/50/30. Confirm the contract.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "382.76–563.38 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR + store",
+          "area": "750.57–841.31 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR",
+          "area": "1,073.59–1,178.43 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + store",
+          "area": "1,152.06–1,279.83 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + store",
+          "area": "1,874.21 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex + store",
+          "area": "2,520.37 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex",
+          "area": "2,023.94 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex + store",
+          "area": "2,232.97 ft² · printed average-area reference",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · developer FAQ",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "42 monthly payments × 1%",
+          "percent": 42,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 12 payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 18 payment",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "56 monthly payments × 0.5%",
+          "percent": 28,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The website calls one illustrated duplex “2 BHK”; the corresponding branded plan labels it three-bedroom and draws three bedrooms. Confirm the approved unit designation.",
+        "Duplex area references are not doubled for their two levels. Approved area inclusions, current inventory, service charges and final contractual specifications remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentNote": [
+          "developer",
+          "finder"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [],
+        "unresolved": [
+          "developer",
+          "types",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "types"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA Barari Heights12, not BarariViews/BarariTwinTowers. Own currentpage200+exactJSONLD52pbrochure200, broker10previsedfloorplates+18punitpack200. No form submission.",
+        "location": "Own FAQMajan,Dubailand nearAlBarari/GlobalVillage; exactdubai-majan. No inventedjourney/coordinates.",
+        "residences": "OwnFAQStudio/1/2/3apartments plusduplexincluding4. OwnnineactualfloorPlanimages visuallyread andallnine18punitpanels10–18 visuallyread:studio2/1store/2laundry/2plain/2store/3duplexstore/3store/4duplex. Owncaption2BHKduplex contradictsactualthreebedrooms andbranded3BRduplexcaption; publiccaveatretained. Storage/laundrynotadditionalbedrooms.",
+        "areas": "Actual10p revisedfloorplates7/8/9 readnumericimagelegends:382.76–563.38,750.57–841.31,1073.59–1178.43,1152.06–1279.83,1874.21,2520.37,2023.94,2232.97ft2. Sourcecallsallaverageareas, retainedbasisnotassumednet/BUA. Duplexupper/lower notmultiplyingwholefigure. Actual18pplansmirror samelegends+unitdrawings, noindependentaggregateprintedonindividualunitpanels. No measuredgeometryinvented.",
+        "amenities": "OwncurrentFAQ aquaticgym/trampoline/minigolf/kickboxing/yoga/library/hammock/spa, actualrevisedfirstfloor38keyamenities visuallycorroborates. DerivedpubliclistownHTML, nozeroallocatedPDFprose. No universalprivatepool/parking/furniturepromises.",
+        "pricing": "OwnOffer/FAQ943333,currentadvertisedstartingreference. PF893333launchreference notcurrentofficialquote. Noavailablestockclaim; portalSoldOut conflictsownmarketingsoavailabilityunverified.",
+        "payment": "OwnFAQ15+42+10+5+28=100, monthlyadditionalmonth12/18notdoublecounted. PF20/50/30alternative, nooriginaldatedcontractretrievedtoresolve; headlinenull. CurrentFAQ8yearmarketingroundingnotassumedexact96payments(42+56=98). No fixedstartcalendar invented.",
+        "handover": "OwnQ42028vsPFApril2028, headernullandpublicconflictnote. PF0.3%January2026stale notcurrentconstructionproof. No actualcompletioncertificate.",
+        "documents": "Allpublishednumericfloorplates7/8/9 actualvisualread1700px; ninefullownwebdrawings andallninebranded18punitdrawings actualvisualread<=1650px, includingduplexbothlevels. Main52pbrochurecorroboration0; allversions/mirrorscombinedPDFpool200=160legends/40captioncaveat. Ownpagecurrentcommercials200, PF100. No primary standalonepayment/factsdocumentfound; explicitgapnotinvented."
+      }
+    }
+  }
+}

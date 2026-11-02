@@ -1,0 +1,260 @@
+{
+  "id": "imtiaz-project-16",
+  "name": "Cove Edition 5 by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Cove Edition 5 offers furnished studios and one- and two-bedroom homes in Dubai Land Residence Complex. Its roof plan groups the clubhouse, gym and pool with a cabana and sitting garden.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": "June 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Children’s playground",
+      "Jacuzzi",
+      "Seating areas",
+      "Barbecue area",
+      "Rooftop infinity pool",
+      "Landscaped gardens",
+      "Lounge spaces"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-5/COVE_EDITION_5_BROCHURE.pdf",
+    "floorPlanUrl": "https://api.reelly.io/vault/ZZLvFZFt/ekBHQ8iwa0Qv2llcXkMi9pW5O7k/O8ZSSA../Cove%2BEdition%2B5%2BFloor%2BPlans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Cove Edition 5: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/cove-edition-5-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Cove Edition 5: branded 38-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-5/COVE_EDITION_5_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Cove Edition 5: branded 4-page building plans, broker-hosted",
+          "url": "https://api.reelly.io/vault/ZZLvFZFt/ekBHQ8iwa0Qv2llcXkMi9pW5O7k/O8ZSSA../Cove%2BEdition%2B5%2BFloor%2BPlans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "guide",
+          "label": "Cove Edition 5: attributed document-based broker guide",
+          "url": "https://www.mitchellscommercialrealty.com/projects/cove-edition-5",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 130
+        },
+        {
+          "id": "portal",
+          "label": "Cove Edition Phase 5: Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/cove-edition-phase-5-by-imtiaz",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts-review",
+          "label": "Cove Edition 5: original factsheet, text-only review",
+          "url": "https://mayors.co.il/wp-content/uploads/2025/05/IMTIAZ-Cove-edition-5_Fact-Sheet_compressed.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentNote": [
+          "developer",
+          "portal"
+        ],
+        "paymentStages": [
+          "developer",
+          "portal"
+        ],
+        "units": [
+          "guide"
+        ],
+        "facts": [
+          "developer",
+          "guide"
+        ],
+        "unresolved": [
+          "guide",
+          "plans",
+          "portal"
+        ]
+      },
+      "community": "Dubai Land Residence Complex",
+      "overview": [
+        "The typical residential plate covers floors 1–11; ground-level access and roof amenities are shown separately."
+      ],
+      "locationNote": "Dubai Land Residence Complex, Dubai.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "Property Finder’s launch card rounds to AED 735,000 while its prose says AED 682,000. The conflicting historical prices are not current quotations.",
+      "paymentNote": "Option 1 below. The alternative is 20% booking, 35% construction, 15% completion and 30% afterward. Primary FAQ specifies twelve quarterly 2.5% instalments over three years; confirm eligibility.",
+      "handoverNote": "Developer target June 2027; this is not completion confirmation.",
+      "units": [
+        {
+          "label": "Studio guide",
+          "area": "372–451 ft²",
+          "note": "Broker document-based guide; individual unit totals not independently verified.",
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "label": "1BR guide",
+          "area": "738–1,085 ft²",
+          "note": "Broker document-based guide; individual unit totals not independently verified.",
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "label": "2BR guide",
+          "area": "1,307 ft²",
+          "note": "Broker document-based guide; individual unit totals not independently verified.",
+          "sourceIds": [
+            "guide"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Option 1: booking",
+          "percent": 20,
+          "sourceIds": [
+            "developer",
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 30,
+          "sourceIds": [
+            "developer",
+            "portal"
+          ]
+        },
+        {
+          "stage": "Completion: June 2027",
+          "percent": 50,
+          "sourceIds": [
+            "developer",
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original mix: broker guide",
+          "value": "198 homes: 132 studios, 55 one-bedroom and 11 two-bedroom apartments.",
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "label": "Configuration",
+          "value": "2B+G+11+R.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "41% overall; 100% substructure; 87% superstructure; 16% MEP; 11% finishing. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Primary FAQ also names executive studios and executive one-bedroom homes; separate size bands are unverified. Original factsheet numeric panels were inaccessible. Confirm areas, charges, parking and stock. Photography is illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected16 Cove Edition5, not4/6. Own38pbrochure andpublic4pbuildingplansactualbrandingmatch. MayorsPDFmetadataincorrecttitleCove4 butactualcachedbodyCove5; not assumedmetadataidentity.",
+        "location": "Own FAQ explicitlyDubailandDLRC; exact registrydubai-land-residence-complex. BuildingplanWadiAlSafa5 doesnotreplace community. No coordinates or futuremetro guarantee.",
+        "residences": "Ownstudio/executivestudio/1/executive1/2 furnishedsmart homes. Actualtypicalplan3 showsstudio/1/2family, noindividualexecutiveareabands. Guide132+55+11=198 published as brokerdocument-based mix, not independentPDFverification. No4bed copied.",
+        "areas": "Guide372–451studio/738–1085one/1307two explicitlyattributedHTMLguide andnotindependentoriginalnumericpanelverified. Mayorscached6ptext tablematches butordinaryGET403/screenshottimeouts; not falselyclaimedviewed. PFTypeAone845 is specificexamplewithinrange, notminimum. Allactual4buildingplansvisuallyread noindividualaggregateareatables. No measurements inferredfromscale.",
+        "amenities": "Own amenities/FAQ plusactualroofplan4 poolcabana/sittinggarden/clubgym verified. Brochure16furnishedsmartactualvisualread and26–28gymrenders. Primaryprivatejacuzzifeature notuniversalallocatedpool orsauna/spa/retailfromportalunsupportedclaims.",
+        "pricing": "Own noquote. PFheadline735krounding vsprose682000 conflictinghistoricalstartingprices, noselectedresalequote adopted. HeadlineNULL; inventoryunconfirmed, PFsoldoutnotprojectcompletion.",
+        "payment": "Own current50/50 plan20booking plusconstruction30 implied/corroboratedPF andguide, completion50June2027=100. Alternativeown30postover3years2.5quarterly=12payments, PF20+35+15+30=100 corroboration. No originalexactcalendaradoptedwithoutactualvisual. Publictableaggregateownandportal, headlineNULLmultipleoptions. SilverOak/Casadior30months contradictedprimary36months notadopted.",
+        "handover": "Own headerQ22027/FAQJune2027 agree PFJune2027. Actualcompletionunconfirmed. FreshordinaryHTML41overall100sub87super16MEP11finish, undated; indexed36/73/10/7stale excluded.",
+        "documents": "Own inquiry documentbuttons formgated, nobypass/submission. ExactobservedMitchellsbrochure38pdownload200; actualpublicCasadiorfloorplanlink→Reelly→Googlepublic4pPDFdownload2006905188bytes, all4actualpanelsvisuallyread. Mayors6pfacts ordinary403, cachedtextreviewonly/screenshotfailedtwice; no originalnumericvisualclaim. OthermirrorEplog/Clarity403, respected. Relatedbroch25plans45underlyingguidefacts130pool200total includingHTMLretelling. Genericindex0. Missingactualfacts/payoriginalpanels explicit."
+      }
+    }
+  }
+}

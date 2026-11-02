@@ -1,0 +1,2124 @@
+/* Aliyas editorial system. Values follow landing-page-design.
+   The approved developer hero geometry and footer rows are intentionally retained. */
+:root {
+  --font-heading: var(--font-manrope), sans-serif;
+  --font-ui: var(--font-manrope), sans-serif;
+  --font-body: var(--font-manrope), sans-serif;
+  --font-sans: var(--font-manrope), sans-serif;
+  --font-serif: var(--font-manrope), sans-serif;
+  --motion-curve: cubic-bezier(0.22, 1, 0.36, 1);
+  --motion-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --motion-fast: 300ms;
+  --motion-medium: 500ms;
+  --canvas: #fff;
+  --surface: #fff;
+  --raised: #f4f4f3;
+  --ink: #181818;
+  --ink-deep: #000;
+  --muted: #666;
+  --line: #dededb;
+  --accent: #b89b58;
+  --accent-ink: #80632e;
+}
+:root[data-theme='dark'] {
+  --canvas: #181818;
+  --surface: #1f1f1f;
+  --raised: #272727;
+  --ink: #fff;
+  --ink-deep: #000;
+  --muted: #b7b7b7;
+  --line: #454545;
+  --accent: #c8ad6d;
+  --accent-ink: #d7bd80;
+}
+body {
+  font-family: var(--font-body);
+}
+body em {
+  font-style: normal;
+}
+.comparison-short-arrow {
+  display: none;
+}
+.lux-home .comparison-card-link > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.lux-home .comparison-card-link .comparison-short-arrow {
+  display: block;
+}
+.lux-home .comparison-card-link {
+  width: 48px;
+  min-width: 48px;
+  justify-content: center;
+}
+.footer-legal-links {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+p {
+  text-wrap: pretty;
+}
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+/* The compact centered brand layout stays; the shell gets a quiet floating edge. */
+.site-header.signature-header {
+  inset: 8px 16px auto;
+  width: calc(100% - 32px);
+  border: 1px solid color-mix(in srgb, var(--accent), transparent 65%);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--surface), transparent 7%);
+  backdrop-filter: none;
+}
+.signature-bar {
+  background: transparent;
+  width: calc(100% - 48px);
+  backdrop-filter: blur(24px);
+  border-radius: 16px;
+}
+.signature-panel-layer {
+  inset: calc(var(--header-height) + 16px) 0 0;
+}
+:root[data-theme='dark'] .signature-header,
+:root[data-theme='dark'] .signature-bar {
+  background: color-mix(in srgb, var(--surface), transparent 7%);
+}
+.signature-nav > a,
+.signature-nav-trigger,
+.signature-enquire {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+.signature-header :is(a, button) {
+  transition-duration: 300ms;
+  transition-timing-function: var(--motion-curve);
+}
+.signature-header :is(a, button):active {
+  scale: 0.98;
+}
+.signature-mobile-nav :is(a, button) {
+  font-size: 18px;
+  line-height: 28px;
+}
+.footer-main {
+  background: #181818;
+}
+.footer-invitation {
+  background: var(--raised);
+}
+.footer-invitation h2 {
+  font-size: 48px;
+  line-height: 1;
+  font-weight: 500;
+}
+.footer-advisor,
+.footer-whatsapp {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.footer-top h2 {
+  font-size: 20px;
+  line-height: 28px;
+}
+.footer-brand p {
+  font-size: 14px;
+  line-height: 20px;
+}
+body:has(.lux-home) .footer-invitation {
+  display: none;
+}
+.enquiry-loading-bar {
+  display: inline-block;
+  width: 32px;
+  height: 8px;
+  border-radius: 4px;
+  background: currentColor;
+  opacity: 0.4;
+  animation: enquiry-pulse 1s var(--motion-curve) infinite alternate;
+}
+@keyframes enquiry-pulse {
+  to {
+    opacity: 0.8;
+    transform: scaleX(0.7);
+  }
+}
+.lux-home .lux-final {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 48px;
+  margin: 0 auto 16px;
+  padding: 64px 32px;
+  border-radius: 24px;
+  background: #1f1f1f;
+  color: #fff;
+}
+.lux-final p:not(.lux-kicker) {
+  margin-top: 24px;
+  color: #c6c6c6;
+  font-size: 16px;
+  line-height: 24px;
+}
+.lux-final h2 {
+  max-width: 680px;
+}
+
+/* Shared Home rhythm and interaction states. */
+.lux-home {
+  --lux-bg: #fff;
+  --lux-ink: #181818;
+  --lux-muted: #666;
+  --lux-line: #dededb;
+  --lux-dark: #1f1f1f;
+  padding-top: calc(var(--header-height) + 24px);
+  font: 16px/24px var(--font-ui);
+}
+:root[data-theme='dark'] .lux-home {
+  --lux-bg: #181818;
+  --lux-ink: #fff;
+  --lux-muted: #b7b7b7;
+  --lux-line: #454545;
+  --lux-dark: #1f1f1f;
+}
+.lux-home .lux-container {
+  width: calc(100% - 96px);
+  max-width: 1344px;
+}
+.lux-home :is(h1, h2, h3) {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  letter-spacing: -0.045em;
+}
+.lux-home h2 {
+  font-size: 48px;
+  line-height: 1;
+}
+.lux-home h3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.lux-home p {
+  line-height: 24px;
+  max-width: 65ch;
+}
+.lux-home .lux-kicker {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+.lux-kicker > span,
+.lux-dot {
+  width: 4px;
+  height: 4px;
+}
+.lux-home :is(a, button, summary) {
+  transition-timing-function: var(--motion-curve);
+}
+.lux-home :is(a, button, summary):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+.lux-home :is(button, .lux-pill):active {
+  transform: scale(0.98);
+}
+.lux-home .lux-pill {
+  min-height: 48px;
+  padding: 8px 12px;
+  gap: 24px;
+  border-radius: 9999px;
+  background: #181818;
+  color: #fff;
+  font: 600 16px/24px var(--font-ui);
+  transition:
+    transform 500ms var(--motion-curve),
+    background 300ms var(--motion-curve),
+    color 300ms var(--motion-curve);
+}
+.lux-home .lux-pill:hover {
+  background: #313131;
+  transform: translateY(-2px);
+}
+.lux-home .lux-pill-light {
+  background: #fff;
+  color: #181818;
+}
+.lux-home .lux-pill-light:hover {
+  background: #e8e8e5;
+}
+.lux-pill-icon {
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  background: #f4f4f3;
+}
+.lux-home .lux-text-link {
+  min-height: 48px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  gap: 16px;
+}
+.lux-home .lux-section-head {
+  gap: 32px;
+  margin-bottom: 48px;
+}
+.lux-section-head > p {
+  font-size: 14px;
+  line-height: 20px;
+}
+.lux-circle-arrow {
+  width: 48px;
+  height: 48px;
+  border-radius: 9999px;
+  transition: transform 500ms var(--motion-curve);
+}
+
+/* 01. Hero: one proposition and one conversion path. */
+.lux-hero {
+  min-height: 680px;
+  height: min(800px, calc(100svh - var(--header-height) - 40px));
+  max-height: none;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 16px 16px;
+  gap: 16px;
+}
+.lux-hero-copy {
+  padding: 24px 32px 24px;
+  gap: 40px;
+  justify-content: space-between;
+}
+.lux-hero-overline {
+  font-size: 12px;
+  line-height: 16px;
+  gap: 8px;
+  margin: 0;
+  color: var(--lux-muted);
+}
+.lux-hero-overline > span:last-child {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+.lux-hero-title {
+  text-align: left;
+  padding: 0;
+}
+.lux-hero-title > p:first-child {
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--accent-ink);
+  margin: 0 0 24px;
+}
+.lux-hero h1 {
+  font-size: 72px;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  max-width: 680px;
+  background: linear-gradient(90deg, #000, #666);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+:root[data-theme='dark'] .lux-hero h1 {
+  background-image: linear-gradient(90deg, #fff, #9b9b9b);
+}
+:root[data-theme='dark'] .lux-image-bottom,
+:root[data-theme='dark'] .lux-hero-photo-label {
+  background: #181818ed;
+  color: #fff;
+}
+:root[data-theme='dark'] .lux-image-bottom > div > span {
+  color: #b7b7b7;
+}
+:root[data-theme='dark'] .lux-service {
+  background: var(--accent);
+  color: #181818;
+}
+:root[data-theme='dark'] .lux-service sup,
+:root[data-theme='dark'] .lux-service > div {
+  color: #46391f;
+}
+:root[data-theme='dark'] .lux-service > div > a {
+  color: #181818;
+}
+:root[data-theme='dark'] .lux-service :is(summary, a):focus-visible {
+  outline-color: #181818;
+  outline-offset: -4px;
+}
+:root[data-theme='dark'] .lux-map-card {
+  background: #272727;
+  color: #fff;
+}
+:root[data-theme='dark'] .lux-map-card .destination-map-land {
+  fill: #313131;
+  stroke: #777;
+}
+:root[data-theme='dark'] .lux-map-card .destination-map-country {
+  fill: #b7b7b7;
+}
+:root[data-theme='dark'] .lux-map-card .destination-map-panel > p {
+  color: #b7b7b7;
+}
+:root[data-theme='dark'] .lux-map-card .destination-map button {
+  background: #181818;
+  color: #fff;
+}
+:root[data-theme='dark'] .lux-map-card .destination-map button[aria-pressed='true'] {
+  background: #d7bd80;
+  color: #181818;
+}
+.lux-hero-title > .lux-hero-sub {
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 480px;
+  margin-top: 24px;
+  color: var(--lux-muted);
+}
+.lux-hero-actions {
+  justify-content: flex-start;
+  gap: 24px;
+  margin-top: 32px;
+}
+.lux-hero-actions > span {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--lux-muted);
+}
+.lux-hero-actions .lux-pill {
+  padding-inline: 12px;
+  gap: 32px;
+}
+.lux-hero-proof {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  color: var(--lux-muted);
+}
+.lux-hero-proof > span {
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-hero-proof b {
+  display: block;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--lux-ink);
+  font-variant-numeric: tabular-nums;
+}
+.lux-hero-proof-note {
+  margin-left: auto;
+  max-width: 120px;
+}
+.lux-hero-image {
+  border-radius: 24px;
+  isolation: isolate;
+  background: #272727;
+}
+.lux-hero-image::after {
+  display: none;
+}
+.lux-hero-image > img {
+  object-position: 51% 50%;
+}
+.lux-hero-photo-label {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  background: #ffffffeb;
+  color: #181818;
+  padding: 8px 12px;
+  border-radius: 9999px;
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-image-bottom {
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  padding: 24px;
+  background: #ffffffed;
+  color: #181818;
+  border-radius: 8px;
+  gap: 24px;
+  align-items: end;
+  letter-spacing: 0;
+}
+.lux-image-bottom > div > span {
+  display: block;
+  color: #666;
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 8px;
+}
+.lux-image-bottom strong {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+.lux-hero-location {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+/* 02. A shorter cinematic handoff, followed by useful discovery controls. */
+.lux-panorama {
+  padding: 16px;
+}
+.lux-panorama::before {
+  display: none;
+}
+.lux-panorama-stage {
+  height: 65svh;
+  min-height: 400px;
+  max-height: 640px;
+}
+.lux-panorama-image {
+  inset: 0;
+  border-radius: 24px;
+  clip-path: none;
+  background: #272727;
+}
+.lux-panorama-shade {
+  background: #00000040;
+}
+.lux-panorama-marquee {
+  font-size: 60px;
+  line-height: 1;
+  top: 40%;
+  font-weight: 500;
+}
+.lux-panorama-marquee span {
+  margin-inline: 32px;
+}
+.lux-panorama-caption {
+  left: 32px;
+  bottom: 32px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.lux-panorama-icons {
+  display: none;
+}
+.lux-scroll-cue {
+  bottom: 8%;
+  font-size: 12px;
+  line-height: 16px;
+  padding: 8px 16px;
+  border-radius: 9999px;
+}
+.lux-home .lux-find {
+  padding-block: 64px;
+}
+.lux-find h2 {
+  font-size: 36px;
+  line-height: 40px;
+}
+.lux-find .lux-section-head {
+  margin-bottom: 32px;
+}
+.lux-find .home-search {
+  padding: 8px;
+  gap: 8px;
+  border-radius: 24px;
+  background: var(--raised);
+  border: none;
+}
+.lux-find .search-field {
+  border: 0;
+  padding: 16px;
+  gap: 12px;
+}
+.lux-find .search-field label > span {
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-find select {
+  font-size: 16px;
+  line-height: 24px;
+  min-height: 32px;
+}
+.lux-find .home-search > .button {
+  border-radius: 16px;
+  padding: 8px 12px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  background: #181818;
+  color: #fff;
+}
+.lux-developers {
+  gap: 32px;
+  padding-top: 40px;
+}
+.lux-developers > p {
+  font-size: 12px;
+  line-height: 16px;
+  max-width: 144px;
+}
+.lux-developers > div {
+  gap: 24px;
+}
+.lux-developers a {
+  height: 64px;
+}
+.lux-developers .developer-mark {
+  position: static;
+  inset: auto;
+  height: 48px;
+  padding: 8px;
+  border-radius: 8px;
+}
+.lux-developers .developer-mark-cover {
+  padding: 0;
+}
+.lux-developers .developer-mark img {
+  height: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.lux-developers .lux-developers-all {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: auto;
+  min-height: 48px;
+  color: var(--accent-ink);
+  white-space: nowrap;
+}
+
+/* The expanded directory keeps all profiles accessible without a larger menu. */
+.site-frame .developer-network-note {
+  margin: 0 0 24px;
+  color: var(--accent-ink);
+  font-size: 14px;
+  line-height: 20px;
+}
+.developer-directory-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.developer-directory .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.developer-directory-search {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: min(100%, 480px);
+  min-height: 64px;
+  padding: 4px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--muted);
+}
+.developer-directory-search:focus-within {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 3px;
+}
+.developer-directory-search input {
+  width: 100%;
+  min-width: 0;
+  padding: 12px 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 24px;
+}
+.developer-directory-search input::placeholder {
+  color: var(--muted);
+}
+.developer-directory-search input::-webkit-search-cancel-button {
+  display: none;
+}
+.developer-directory-search > svg {
+  flex-shrink: 0;
+}
+.developer-directory-search button {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+.developer-directory-search button:hover {
+  background: var(--raised);
+}
+.developer-directory-sort {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 14px;
+  white-space: nowrap;
+}
+.developer-directory-sort select {
+  min-height: 48px;
+  max-width: 100%;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 16px;
+}
+.developer-directory-count {
+  margin: 24px 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 20px;
+}
+.site-frame .developer-directory .catalogue-developer-card {
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--ink);
+  min-width: 0;
+  transition:
+    transform 500ms var(--motion-curve),
+    background 300ms var(--motion-curve),
+    border-color 300ms var(--motion-curve);
+}
+.site-frame .developer-directory .catalogue-developer-card:hover {
+  background: var(--raised);
+  border-color: var(--accent);
+}
+.site-frame .developer-directory .catalogue-developer-card:active {
+  transform: scale(0.98);
+}
+.developer-directory .developer-logo-stage {
+  display: grid;
+  place-items: center;
+  height: 160px;
+  padding: 16px;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  background: #fff;
+}
+.site-frame .developer-directory .developer-mark {
+  position: static;
+  inset: auto;
+  grid-template: minmax(0, 1fr) / minmax(0, 1fr);
+  width: 100%;
+  max-width: 240px;
+  height: 128px;
+  padding: 0;
+  border-radius: 0;
+}
+.site-frame .developer-directory .developer-mark img {
+  min-height: 0;
+  height: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.site-frame .developer-directory .developer-mark-dark {
+  width: 128px;
+  padding: 16px;
+  border-radius: 8px;
+}
+.site-frame .developer-directory [data-developer='emaar'] .developer-mark,
+.site-frame .developer-directory [data-developer='damac'] .developer-mark,
+.site-frame .developer-directory [data-developer='sobha'] .developer-mark {
+  max-width: 176px;
+  height: 80px;
+}
+.site-frame .developer-directory [data-developer='aldar'] .developer-mark {
+  max-width: 96px;
+  height: 96px;
+}
+.site-frame .developer-directory [data-developer='wasl'] .developer-mark {
+  max-width: 114px;
+  height: 64px;
+}
+.developer-directory
+  .developer-logo-stage:is([data-developer='eagle-hills'], [data-developer='al-zorah']) {
+  background: #202b31;
+}
+.site-frame
+  .developer-directory
+  .developer-logo-stage:is([data-developer='eagle-hills'], [data-developer='al-zorah'])
+  .developer-mark {
+  width: 100%;
+  max-width: 200px;
+  background: transparent;
+  padding: 0;
+}
+.site-frame .developer-directory .developer-logo-stage[data-developer='al-zorah'] .developer-mark {
+  max-width: 96px;
+  height: 96px;
+}
+.site-frame .developer-directory .catalogue-developer-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+}
+.site-frame .developer-directory .catalogue-developer-wordmark {
+  font-size: 20px;
+  line-height: 28px;
+  min-height: 56px;
+  letter-spacing: -0.025em;
+  margin: 0 0 12px;
+  text-wrap: balance;
+}
+.site-frame .developer-directory .catalogue-developer-card > p {
+  max-width: none;
+  min-height: 40px;
+  margin: 0 0 16px;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--muted);
+}
+.developer-registration {
+  display: block;
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--accent-ink);
+}
+.developer-directory .developer-registration {
+  margin-top: auto;
+}
+.site-frame .developer-directory .catalogue-developer-card > div:last-child {
+  padding-top: 16px;
+  margin-top: 16px;
+  color: var(--muted);
+  border-color: var(--line);
+  font-size: 14px;
+  line-height: 20px;
+}
+.developer-card-action small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+.developer-card-action > span {
+  color: var(--ink);
+  font-weight: 600;
+}
+.developer-card-action > svg {
+  flex-shrink: 0;
+  color: var(--accent-ink);
+}
+.developer-directory-empty {
+  padding: 64px 24px;
+  text-align: center;
+  background: var(--raised);
+  border-radius: 16px;
+}
+.developer-directory-empty h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.developer-directory-empty p {
+  color: var(--muted);
+  margin: 16px auto 24px;
+}
+@media (max-width: 1023px) {
+  .site-frame .developer-directory .catalogue-developer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .site-frame .developer-directory .catalogue-developer-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .developer-directory-toolbar {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .developer-directory-search {
+    width: 100%;
+    padding-inline: 12px;
+    gap: 8px;
+  }
+  .developer-directory-sort {
+    justify-content: space-between;
+  }
+  .site-frame .developer-directory .catalogue-developer-card {
+    padding: 16px;
+  }
+  .site-frame .developer-directory .catalogue-developer-card > p {
+    min-height: 0;
+  }
+  .site-frame .developer-directory .catalogue-developer-wordmark {
+    min-height: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .site-frame .developer-directory .catalogue-developer-card:is(:hover, :active) {
+    transform: none;
+  }
+}
+
+/* 03. A smaller edited collection. Information sits on solid surfaces. */
+.lux-collection {
+  margin: 0 16px;
+  padding: 64px 32px 32px;
+  border-radius: 24px;
+}
+.lux-collection-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+.lux-collection-heading > p {
+  color: #c6c6c6;
+}
+.lux-project-grid {
+  gap: 32px;
+}
+.lux-project-card {
+  border-radius: 16px;
+  background: #272727;
+}
+.lux-project-visual {
+  height: 480px;
+  border-radius: 16px;
+  background: #272727;
+  padding-bottom: 96px;
+}
+.lux-project-visual::after {
+  display: none;
+}
+.lux-project-visual > img {
+  height: calc(100% - 96px) !important;
+  border-radius: 16px;
+  transition: transform 500ms var(--motion-curve);
+}
+.lux-project-visual:hover > img {
+  transform: scale(1.015);
+}
+.lux-card-top {
+  left: 16px;
+  right: 16px;
+  top: 16px;
+}
+.lux-project-number {
+  visibility: visible;
+  font-size: 12px;
+  line-height: 16px;
+  padding: 8px;
+  background: #181818d9;
+  color: #fff;
+  border-radius: 9999px;
+}
+.lux-project-visual .lux-circle-arrow {
+  width: 48px;
+  height: 48px;
+}
+.lux-card-title {
+  left: 24px;
+  right: 24px;
+  bottom: 32px;
+  color: #fff;
+}
+.lux-card-title h3 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.lux-card-title > p {
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 4px;
+  color: #c6c6c6;
+}
+.lux-preview-tag {
+  bottom: 8px;
+  left: auto;
+  right: 24px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #c6c6c6;
+}
+.lux-project-card .home-project-actions {
+  top: 16px;
+  left: 64px;
+  right: 80px;
+  max-width: none;
+  padding: 0;
+  gap: 8px;
+  min-height: 48px;
+  opacity: 1;
+  translate: none;
+}
+.lux-home .home-project-save,
+.lux-home .comparison-select,
+.lux-home .comparison-card-link {
+  font-size: 12px;
+  line-height: 16px;
+  min-height: 48px;
+  padding: 8px 12px;
+  background: #181818e8;
+  color: #fff;
+  border-radius: 9999px;
+  gap: 8px;
+}
+.lux-home .home-project-save:hover,
+.lux-home .comparison-select:hover {
+  background: #313131;
+  color: #e5cc91;
+}
+.lux-home .comparison-card-control {
+  flex-wrap: nowrap;
+}
+.lux-home .comparison-card-link {
+  padding: 8px;
+}
+.lux-home .comparison-card-feedback {
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-map-card {
+  padding: 24px;
+  border-radius: 16px;
+  background: #f4f4f3;
+  color: #181818;
+}
+.lux-map-title h3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.lux-map-title > span {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+.lux-map-card .destination-map {
+  margin: 16px 0 0;
+  min-height: 200px;
+}
+.lux-map-card .destination-map-land {
+  fill: #e5e5e2;
+  stroke: #b5b5b1;
+}
+.lux-map-card .destination-map-country {
+  fill: #666;
+}
+.lux-map-card .destination-map button {
+  padding: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  background: #fff;
+  color: #181818;
+}
+.lux-map-card .destination-map button[aria-pressed='true'] {
+  background: #181818;
+  color: #fff;
+}
+.lux-map-card .destination-map-panel > p {
+  font-size: 12px;
+  line-height: 16px;
+  color: #666;
+}
+.lux-map-bottom {
+  padding-top: 16px;
+  gap: 16px;
+}
+.lux-map-bottom p {
+  font-size: 14px;
+  line-height: 20px;
+}
+.lux-map-bottom strong {
+  font-size: 24px;
+  line-height: 32px;
+}
+.lux-map-bottom a {
+  width: 48px;
+  height: 48px;
+}
+.lux-collection-foot {
+  padding: 32px 0 0;
+  gap: 24px;
+}
+.lux-collection-foot > p {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+/* 04. The mandatory word reveal is a real benefit, not an invented metric. */
+.lux-home .lux-about {
+  padding-block: 96px;
+  gap: 64px;
+  align-items: center;
+}
+.lux-about-copy {
+  gap: 48px;
+}
+.lux-home .lux-tagline {
+  font-size: 60px;
+  line-height: 1;
+  max-width: 680px;
+  margin-bottom: 32px;
+}
+.lux-tagline-line {
+  display: block;
+}
+[data-tagline-word] {
+  display: inline-block;
+  white-space: pre;
+  transition: opacity 500ms var(--motion-curve);
+}
+.lux-tagline.is-ready [data-tagline-word] {
+  opacity: 0.3;
+}
+.lux-tagline.is-ready [data-tagline-word].is-active {
+  opacity: 1;
+}
+.lux-about-intro {
+  font-size: 18px;
+  line-height: 28px;
+  margin: 0 0 32px;
+  color: var(--lux-muted);
+  max-width: 480px;
+}
+.lux-team-link {
+  gap: 16px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.lux-team-link b {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+}
+.lux-logo-dp {
+  border-radius: 16px;
+  background: #181818;
+  width: 80px;
+  height: 80px;
+}
+.lux-logo-dp img {
+  width: 64px;
+  height: auto;
+}
+.lux-about-note {
+  margin-top: 48px;
+}
+.lux-about-note > span {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--accent-ink);
+}
+.lux-about-note p {
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 8px;
+  color: var(--lux-muted);
+}
+.lux-about-visual {
+  min-height: 640px;
+  border-radius: 24px;
+}
+.lux-about-top {
+  display: none;
+}
+.lux-consult-card {
+  bottom: 48px;
+  left: 16px;
+  right: 16px;
+  width: auto;
+  border: none;
+  padding: 16px;
+  gap: 16px;
+  border-radius: 8px;
+  background: #fffffff2;
+}
+.lux-consult-card > div > span {
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-consult-trigger {
+  padding: 8px 0;
+  font-size: 18px;
+  line-height: 28px;
+  gap: 12px;
+}
+.lux-concept-label {
+  left: 16px;
+  bottom: 16px;
+  padding: 4px 8px;
+  font-size: 12px;
+  line-height: 16px;
+  border-radius: 4px;
+}
+
+/* 05. Existing scroll-driven circle journey, with a consistent type hierarchy. */
+.lux-services {
+  margin: 0 16px;
+  border-radius: 24px;
+}
+.lux-services-upper {
+  padding: 80px 32px;
+  gap: 64px;
+}
+.lux-services-upper h2 {
+  font-size: 60px;
+  line-height: 1;
+  max-width: 680px;
+}
+.lux-services-upper .lux-text-link {
+  margin-top: 32px;
+}
+.lux-service-list {
+  gap: 24px;
+}
+.lux-service {
+  border-radius: 48px;
+}
+.lux-service summary {
+  min-height: 96px;
+  padding: 8px 24px 8px 8px;
+  gap: 24px;
+  font-size: 24px;
+  line-height: 32px;
+}
+.lux-service-thumb {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+.lux-service sup {
+  font-size: 12px;
+  line-height: 16px;
+  margin-left: 8px;
+}
+.lux-service summary > svg {
+  width: 24px;
+  height: 24px;
+  transition: transform 500ms var(--motion-curve);
+}
+.lux-service > div {
+  padding: 16px 32px 32px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #666;
+}
+.lux-service > div > a {
+  gap: 16px;
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #181818;
+}
+.lux-service-ribbon {
+  --ribbon-gap: 64px;
+  display: block;
+  width: 100%;
+  overflow: clip;
+  font-size: 60px;
+  line-height: 1;
+  padding-block: 24px;
+  opacity: 1;
+}
+.lux-service-ribbon-track,
+.lux-service-ribbon-group {
+  display: flex;
+  width: max-content;
+  gap: var(--ribbon-gap);
+}
+.lux-service-ribbon-group {
+  flex-shrink: 0;
+}
+.lux-journey {
+  padding: 48px 32px 64px;
+}
+.lux-journey h2 {
+  font-size: 36px;
+  line-height: 40px;
+}
+.lux-journey-circle > span {
+  font-size: 20px;
+  line-height: 28px;
+}
+.lux-journey-result {
+  font-size: 30px;
+  line-height: 36px;
+}
+.lux-journey .lux-kicker {
+  color: #c6c6c6;
+}
+
+/* 06. Four outcomes in an open asymmetric editorial grid. */
+.lux-home .lux-values {
+  padding-block: 96px;
+}
+.lux-value-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 48px 96px;
+  margin-top: 48px;
+}
+.lux-value-grid > div {
+  padding: 0;
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  column-gap: 24px;
+  align-content: start;
+}
+.lux-value-grid svg {
+  grid-row: span 2;
+  width: 24px;
+  height: 24px;
+  color: var(--accent-ink);
+  margin: 4px 0 0;
+}
+.lux-value-grid h3 {
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 12px;
+}
+.lux-value-grid p {
+  grid-column: 2;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--lux-muted);
+}
+.lux-service-ribbon span {
+  padding: 8px 24px;
+  border-radius: 9999px;
+  font-size: 60px;
+  line-height: 1;
+  background: #272727;
+  color: #d7bd80;
+}
+.lux-journey > .lux-kicker {
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 24px;
+}
+.lux-circle-stage {
+  margin-block: 40px;
+}
+.signature-menu-lines {
+  display: grid;
+  gap: 4px;
+  width: 24px;
+}
+.signature-menu-lines > span {
+  display: block;
+  height: 2px;
+  background: currentColor;
+  transition: transform 500ms var(--motion-curve);
+}
+.signature-mobile-toggle[aria-expanded='true'] .signature-menu-lines > span:first-child {
+  transform: translateY(3px) rotate(45deg);
+}
+.signature-mobile-toggle[aria-expanded='true'] .signature-menu-lines > span:last-child {
+  transform: translateY(-3px) rotate(-45deg);
+}
+
+/* 07. Keep the approved five-column image rhythm, with solid caption surfaces. */
+.lux-settings {
+  padding: 64px 16px;
+}
+.lux-centred-heading {
+  padding: 0 16px;
+  margin-bottom: 64px;
+}
+.lux-centred-heading > p:last-child {
+  margin: 24px auto 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+.lux-settings-grid {
+  gap: 16px;
+}
+.lux-setting-column {
+  gap: 16px;
+}
+.lux-setting-column-0,
+.lux-setting-column-4 {
+  padding-top: 96px;
+}
+.lux-setting-column-1,
+.lux-setting-column-3 {
+  padding-top: 48px;
+}
+.lux-setting {
+  border-radius: 16px;
+  background: var(--raised);
+}
+.lux-setting::after {
+  display: none;
+}
+.lux-setting > img {
+  height: calc(100% - 64px) !important;
+  border-radius: 16px;
+  transition: transform 500ms var(--motion-curve);
+}
+.lux-setting > div {
+  display: flex;
+  align-items: center;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 12px 16px;
+  min-height: 64px;
+  background: var(--raised);
+  color: var(--lux-ink);
+  gap: 8px;
+}
+.lux-setting > div > span {
+  display: none;
+}
+.lux-setting h3 {
+  margin: 0;
+  color: var(--accent-ink);
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.lux-setting > .lux-circle-arrow {
+  top: 12px;
+  right: 12px;
+  width: 40px;
+  height: 40px;
+}
+.lux-setting-invitation {
+  padding: 32px 8px;
+}
+.lux-setting-invitation p {
+  font-size: 20px;
+  line-height: 28px;
+  margin-block: 24px;
+}
+.lux-setting-invitation .lux-pill {
+  font-size: 14px;
+  line-height: 20px;
+  gap: 8px;
+}
+.lux-settings-foot {
+  padding: 40px 32px 0;
+  gap: 24px;
+}
+.lux-settings-foot > p {
+  font-size: 12px;
+  line-height: 16px;
+}
+.lux-home .lux-journal {
+  padding-block: 80px;
+}
+.lux-journal-grid {
+  gap: 32px;
+}
+.lux-journal-image {
+  border-radius: 16px;
+}
+.lux-journal-grid h3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.lux-journal-grid > a > p {
+  font-size: 12px;
+  line-height: 16px;
+  margin-block: 16px 8px;
+}
+
+/* 08. FAQ and one final route into the collection. */
+.lux-home .lux-faq {
+  padding: 48px;
+  width: calc(100% - 32px);
+  margin-bottom: 16px;
+  gap: 64px;
+  border-radius: 24px;
+  background: var(--raised);
+}
+.lux-faq .faq-list {
+  padding: 8px 24px;
+  border-radius: 16px;
+  background: var(--lux-bg);
+}
+.lux-faq > div > p:not(.lux-kicker) {
+  margin-block: 24px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.lux-faq .faq-item {
+  border: 0;
+}
+.lux-faq .faq-item + .faq-item {
+  margin-top: 8px;
+}
+.lux-faq .faq-item button {
+  font-size: 16px;
+  line-height: 24px;
+  min-height: 64px;
+  padding: 16px 0;
+  gap: 24px;
+}
+.lux-faq .faq-answer {
+  height: auto;
+}
+.lux-faq .faq-answer[hidden] {
+  display: none;
+}
+.lux-faq .faq-answer p {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 0 24px;
+}
+.lux-faq .faq-item button > svg {
+  transition: transform 500ms var(--motion-curve);
+}
+.lux-faq .faq-item.is-open button > svg {
+  transform: rotate(45deg);
+}
+
+@media (max-width: 1200px) {
+  .lux-hero h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+  .lux-hero-copy {
+    padding: 24px;
+    gap: 32px;
+  }
+  .lux-hero-proof {
+    gap: 24px;
+  }
+  .lux-hero-proof-note,
+  .lux-hero-location {
+    display: none;
+  }
+  .lux-home .lux-tagline,
+  .lux-services-upper h2 {
+    font-size: 48px;
+    line-height: 1;
+  }
+  .lux-project-visual {
+    height: 440px;
+  }
+  .lux-service summary {
+    font-size: 20px;
+    line-height: 28px;
+    gap: 16px;
+  }
+  .lux-service-thumb {
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+  }
+  .lux-service summary {
+    min-height: 80px;
+  }
+  .lux-service {
+    border-radius: 40px;
+  }
+  .lux-home .lux-about,
+  .lux-services-upper {
+    gap: 32px;
+  }
+  .lux-about-visual {
+    min-height: 560px;
+  }
+}
+@media (max-width: 1100px) {
+  .signature-panel-layer {
+    left: 8px;
+    right: 8px;
+  }
+  .signature-panel {
+    height: calc(100dvh - var(--header-height) - 16px);
+    max-height: none;
+    border-radius: 16px 16px 0 0;
+    background: color-mix(in srgb, var(--surface), transparent 3%);
+    backdrop-filter: blur(24px);
+  }
+  :root[data-theme='dark'] .signature-panel {
+    background: #181818f5;
+  }
+  .lux-hero {
+    min-height: 640px;
+  }
+  .lux-hero h1 {
+    font-size: 48px;
+    line-height: 1;
+  }
+  .lux-hero-actions {
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .lux-hero-actions > span {
+    max-width: 128px;
+  }
+  .lux-hero-actions .lux-pill {
+    gap: 24px;
+    padding-inline: 16px;
+  }
+  .lux-find .home-search {
+    grid-template-columns: 1fr 1fr;
+  }
+  .lux-find .home-search > .button {
+    min-height: 64px;
+  }
+  .lux-developers {
+    display: block;
+  }
+  .lux-developers > p {
+    max-width: none;
+    margin-bottom: 16px;
+  }
+  .lux-developers > div {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .lux-settings-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .lux-setting-column {
+    display: contents;
+  }
+  .lux-settings-grid .lux-setting-column .lux-setting {
+    height: 320px;
+    margin: 0;
+  }
+  .lux-setting-invitation {
+    grid-column: 1/-1;
+  }
+  .lux-value-grid {
+    gap: 40px;
+  }
+  .lux-home .lux-faq {
+    gap: 32px;
+    padding: 32px;
+  }
+  .lux-home h2 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .lux-project-visual {
+    height: 400px;
+  }
+  .lux-project-card .home-project-actions {
+    left: 12px;
+    top: 12px;
+    right: 64px;
+    gap: 4px;
+  }
+  .lux-project-number {
+    display: none;
+  }
+  .lux-home .home-project-save,
+  .lux-home .comparison-select {
+    padding: 8px;
+  }
+  .lux-card-top {
+    top: 12px;
+    right: 12px;
+    left: auto;
+  }
+  .lux-card-title {
+    left: 16px;
+    right: 16px;
+  }
+  .lux-preview-tag {
+    right: 16px;
+  }
+}
+@media (min-width: 701px) and (max-width: 900px) {
+  .lux-hero h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+}
+@media (max-width: 700px) {
+  .footer-legal-links {
+    justify-content: flex-start;
+  }
+  .lux-home .lux-final {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    padding: 48px 24px;
+    width: calc(100% - 16px);
+  }
+  .lux-final p:not(.lux-kicker) {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .site-header.signature-header {
+    inset: 8px 8px auto;
+    width: calc(100% - 16px);
+    border-radius: 16px;
+  }
+  .signature-bar {
+    width: calc(100% - 24px);
+  }
+  .lux-home {
+    padding-top: calc(var(--header-height) + 24px);
+  }
+  .lux-home .lux-container {
+    width: calc(100% - 32px);
+  }
+  .lux-hero {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: 0;
+    padding: 0 8px 8px;
+    gap: 24px;
+  }
+  .lux-hero-copy {
+    padding: 16px 16px 0;
+    gap: 24px;
+  }
+  .lux-hero-overline {
+    display: flex;
+  }
+  .lux-hero-title > p:first-child {
+    margin-bottom: 16px;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .lux-hero h1 {
+    font-size: 48px;
+    line-height: 1;
+  }
+  .lux-hero h1 span {
+    display: block;
+  }
+  .lux-hero-title > .lux-hero-sub {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+  }
+  .lux-hero-actions {
+    margin-top: 24px;
+    gap: 16px;
+    flex-wrap: nowrap;
+  }
+  .lux-hero-actions .lux-pill {
+    padding: 8px 12px;
+    gap: 16px;
+  }
+  .lux-hero-actions > span {
+    font-size: 12px;
+    line-height: 16px;
+    flex: 1;
+  }
+  .lux-hero-proof {
+    display: none;
+  }
+  .lux-hero-image {
+    width: 100%;
+    min-height: 0;
+    height: 360px;
+    border-radius: 24px;
+  }
+  .lux-hero-image > img {
+    object-position: 50% 60%;
+  }
+  .lux-hero-photo-label {
+    top: 16px;
+    left: 16px;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 4px 8px;
+  }
+  .lux-image-bottom {
+    padding: 16px;
+    bottom: 16px;
+    left: 16px;
+    right: 16px;
+    border-radius: 8px;
+  }
+  .lux-image-bottom strong {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .lux-panorama {
+    padding: 8px;
+  }
+  .lux-panorama-stage {
+    height: 440px;
+    min-height: 0;
+  }
+  .lux-panorama-marquee {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .lux-panorama-caption {
+    left: 24px;
+    bottom: 24px;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .lux-home h2,
+  .lux-home .lux-tagline,
+  .lux-services-upper h2 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .lux-home .lux-kicker {
+    margin-bottom: 16px;
+  }
+  .lux-home .lux-find {
+    padding-block: 48px;
+  }
+  .lux-home .lux-section-head {
+    gap: 24px;
+    margin-bottom: 32px;
+  }
+  .lux-find .home-search {
+    grid-template-columns: 1fr;
+    padding: 8px;
+  }
+  .lux-find .search-field {
+    padding: 12px;
+  }
+  .lux-find .home-search > .button {
+    min-height: 48px;
+  }
+  .lux-developers {
+    padding-top: 32px;
+  }
+  .lux-developers a {
+    height: 48px;
+  }
+  .lux-collection {
+    margin: 0 8px;
+    padding: 40px 16px 24px;
+  }
+  .lux-collection-heading {
+    display: block;
+  }
+  .lux-collection-heading > p {
+    margin-top: 24px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .lux-project-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .lux-project-visual {
+    height: 400px;
+  }
+  .lux-project-card .home-project-actions {
+    left: 12px;
+    right: 12px;
+    top: auto;
+    bottom: 112px;
+    align-items: center;
+    gap: 8px;
+  }
+  .lux-map-card {
+    padding: 16px;
+    min-height: 400px;
+  }
+  .lux-map-title {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .lux-map-title > span {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .lux-collection-foot {
+    padding-top: 24px;
+    gap: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .lux-home .lux-about {
+    padding-block: 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .lux-about-copy {
+    width: 100%;
+    gap: 32px;
+  }
+  .lux-about-intro {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  .lux-about-note {
+    margin-top: 32px;
+  }
+  .lux-about-visual {
+    width: 100%;
+    min-height: 480px;
+  }
+  .lux-consult-card {
+    padding: 12px;
+    gap: 12px;
+  }
+  .lux-consult-card .lux-logo-dp {
+    width: 48px;
+    height: 48px;
+  }
+  .lux-consult-card .lux-logo-dp img {
+    width: 40px;
+  }
+  .lux-consult-trigger {
+    font-size: 16px;
+    line-height: 24px;
+    gap: 8px;
+  }
+  .lux-services {
+    margin-inline: 8px;
+  }
+  .lux-services-upper {
+    grid-template-columns: 1fr;
+    padding: 48px 16px;
+    gap: 32px;
+  }
+  .lux-service summary {
+    padding: 8px 16px 8px 8px;
+    gap: 16px;
+    min-height: 64px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .lux-service {
+    border-radius: 32px;
+  }
+  .lux-service-thumb {
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+  }
+  .lux-service sup {
+    display: none;
+  }
+  .lux-service-list {
+    gap: 16px;
+  }
+  .lux-service > div {
+    padding: 16px 24px 24px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .lux-service-ribbon {
+    --ribbon-gap: 32px;
+    font-size: 36px;
+    line-height: 40px;
+    padding-block: 16px;
+  }
+  .lux-service-ribbon span {
+    font-size: 36px;
+    line-height: 40px;
+    padding: 8px 16px;
+  }
+  .lux-journey {
+    padding: 32px 16px;
+  }
+  .lux-journey h2 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .lux-journey-circle > span {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .lux-journey-result {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .lux-home .lux-values {
+    padding-block: 64px;
+  }
+  .lux-value-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .lux-value-grid > div {
+    grid-template-columns: 32px 1fr;
+    gap: 8px 16px;
+  }
+  .lux-value-grid h3 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 4px;
+  }
+  .lux-value-grid p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .lux-settings {
+    padding: 32px 8px;
+  }
+  .lux-centred-heading {
+    margin-bottom: 32px;
+  }
+  .lux-settings-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .lux-settings-grid .lux-setting-column .lux-setting {
+    height: 256px;
+  }
+  .lux-setting > div {
+    padding: 12px;
+    min-height: 64px;
+  }
+  .lux-setting h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .lux-setting > .lux-circle-arrow {
+    width: 40px;
+    height: 40px;
+    top: 8px;
+    right: 8px;
+  }
+  .lux-setting-invitation {
+    padding: 24px 16px;
+  }
+  .lux-settings-foot {
+    padding: 32px 8px 0;
+    gap: 24px;
+  }
+  .lux-home .lux-journal {
+    padding-block: 64px;
+  }
+  .lux-journal-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .lux-journal-grid h3 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .lux-home .lux-faq {
+    width: calc(100% - 16px);
+    padding: 32px 16px;
+    gap: 32px;
+  }
+  .lux-faq .faq-list {
+    padding: 8px 16px;
+  }
+  .lux-faq .faq-item button {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 16px 0;
+    gap: 16px;
+  }
+  .footer-invitation h2 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+}
+@media (max-width: 359px) {
+  .lux-hero h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .lux-hero-overline > span:last-child {
+    display: none;
+  }
+  .lux-hero-actions {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .lux-hero-actions > span {
+    max-width: none;
+  }
+  .lux-hero-actions > span br {
+    display: none;
+  }
+  .lux-hero-image {
+    height: 320px;
+  }
+  .lux-project-visual {
+    height: 360px;
+  }
+  .lux-home .home-project-save,
+  .lux-home .comparison-select {
+    gap: 4px;
+    padding: 8px;
+  }
+  .lux-home .comparison-card-control {
+    flex-wrap: nowrap;
+  }
+  .lux-home .comparison-card-link {
+    width: 40px;
+    min-width: 40px;
+  }
+  .lux-home h2,
+  .lux-home .lux-tagline {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .lux-service summary {
+    gap: 8px;
+  }
+  .lux-image-bottom strong {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .signature-menu-lines > span {
+    transition: none !important;
+  }
+  .enquiry-loading-bar {
+    animation: none;
+  }
+  .lux-home *,
+  .signature-header :is(a, button) {
+    animation: none !important;
+    transition:
+      opacity 300ms var(--motion-curve),
+      color 300ms var(--motion-curve),
+      background-color 300ms var(--motion-curve) !important;
+  }
+  .lux-home .lux-tagline [data-tagline-word] {
+    opacity: 1;
+  }
+  .lux-home :is(a, button, summary):hover,
+  .lux-home :is(a, button, summary):active {
+    transform: none;
+  }
+}

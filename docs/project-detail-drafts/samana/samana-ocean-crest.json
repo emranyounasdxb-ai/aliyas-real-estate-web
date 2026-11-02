@@ -1,0 +1,274 @@
+{
+  "id": "samana-project-13",
+  "name": "SAMANA Ocean Crest",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Ocean Crest offers one- to four-bedroom apartments on Dubai Islands. Published layouts include balcony pools and a one-bedroom option without a pool.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2149000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Kids’ area",
+      "Kids’ pool",
+      "Outdoor swimming pool",
+      "Gym and wellness facilities",
+      "Walking and jogging track",
+      "Outdoor cinema",
+      "BBQ and party area",
+      "Clubhouse and arcade"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/06/10/02/35/e85245643da7702ed26ad4031d98e733.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/samana-ocean-crest/SAMANA_OCEAN_CREST_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Ocean Crest · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-ocean-crest",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Ocean Crest current official brochure · 37 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2026/06/10/02/35/e85245643da7702ed26ad4031d98e733.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "facts",
+          "label": "Ocean Crest original official factsheet · 2 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/14/6979a95137cdf.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "payment",
+          "label": "Ocean Crest original official payment options · 1 page",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/10/14/6979a93707a12.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "Ocean Crest branded plans · broker-hosted, 22 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-ocean-crest/SAMANA_OCEAN_CREST_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Ocean Crest project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-ocean-crest",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "community": "Dubai Islands",
+      "locationNote": "Dubai Islands, Dubai.",
+      "overview": [
+        "Published counts differ: the current website describes 63 residences; the original factsheet lists 56. Obtain the approved current schedule."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The current developer headline is AED 2,149,000; its FAQ rounds this to AED 2.1m. Price and available units require a fresh quotation.",
+      "handoverNote": "Current developer FAQ: Q4 2028. Original official factsheet: Q3 2028. Neither establishes completed handover.",
+      "paymentNote": "Website: 15% down payment + 5% in month four + 10% on handover + 70 monthly payments of 1% = 100%. Original sheet: 60/40 for 1–2BR; 50/50 for 3–4BR. Confirm applicable terms.",
+      "units": [
+        {
+          "label": "1BR · without pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + pool · Type 1",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + store + pool · Type 2",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + laundry + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + laundry + store + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR + maid + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment · current website",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Month four",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "70 monthly payments × 1%",
+          "percent": 70,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current website minimum",
+          "value": "Apartments from 773 ft²; the page does not specify the area basis or an individual unit.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current and original unit counts, target quarters and payment structures differ. No signed amendment or approved revised unit schedule was retrieved.",
+        "The original 1–2BR calendar is 20% booking + 10%/10%/20% in months 9/18/24 + 20 post-handover payments of 2%. For 3–4BR, the month-24 payment is 10%, followed by 25 payments of 2%.",
+        "Approved unit areas, current inventory, service charges, parking allocation and final delivery specifications remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "handover": [
+          "developer",
+          "facts"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts"
+        ],
+        "paymentNote": [
+          "developer",
+          "payment"
+        ],
+        "unresolved": [
+          "facts",
+          "payment",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA Ocean Crest13; currentown63residences vsoriginalfacts56 explicitlyunresolved, notsilentlyrenamedOceanBay/Pearl orcombined. Own37pbrochure2026June exactschemaURL, earlier25pownbrochureand2pfacts+1payment+9floorplates publiclyindexed exactlinks retrieved200withoutforms.",
+        "location": "OwnFAQDubaiIslandsDubai exactregistrydubai-islands. No universalbeachfrontaccess/view orjourneytimeguarantee. Communitygeneric0.",
+        "residences": "OwnFAQ1–4BRselectedpool. Actual22pbrandedplan14–20 allsevenfamiliesvisuallyread:1BRwithoutpool,1pool,2pool,2storepool,3laundrypool,3laundrystorepool,4maidpool. Maid/store/laundrynotbedrooms. Earlier25pbrochureadditional4BRstorevariant notednotcurrentapprovedmixproof; no unsupported55/56/63availability.",
+        "areas": "Actualallsevenunitdrawings noaggregatearealabels; no dimension-derivedmeasurements. OwncurrentFAQfrom773sqftonly, basisunqualified. Mitchellssecondaryproseattributessevenranges766.28–2876.66 tofactbook,butnooriginalfactbookpubliclinkfound andnotadoptedunverifiedasprimaryranges. Ownold9pfloorplatesalso noaggregateareapanel. Recordunavailablehonestly.",
+        "amenities": "OwncurrentbodyandFAQkids/pool/gym/jogging/cinema/BBQ/clubhousearcade independentlysupportslist. Own37brochure17differentexpandedamenitysetcorroboratesnotfullimport. FactsTekkaorequivalent appliancebrandnotfixedpromise, omittedpublicfinalspec.",
+        "pricing": "Ownvisibleheadline+Offer2149000; FAQrounded2.1m, no inventedexact2100000. PFselectedstarting2.2m/2150000narrative secondarydifferent; notuseduniversalcurrentprice. No currentstockguarantee.",
+        "payment": "OwncurrentPDC15+5+10+70=100. Actualoldofficial1pvisual1–2BR20+10month9+10month18+20month24+40post(2x20)=100;3–4BR20+10+10+10+50post(2x25)=100. Differentcurrentmonthlyschemevsoldbed-specificposthandover, headlineNULL. PF20/70/10thirdstructure notresolvedbyassumption. No inventedstartdates.",
+        "handover": "CurrentownQ42028 versusoriginalactualfacts1Q32028 andbrokerclaimedregistryJune2028; publicretainsprimaryconflictonly, headlinenull. Actual completionnotverified. No staleprogresspercentimported.",
+        "documents": "Own37brochure+old25brochure/facts2/payment1/floorplates9ordinarypublicGET; broker22planssameunderlyingprojectpool200=50brochure35facts65payment50plans. Actualfactsandoldpaymentfullpanelsread, sevencompleteunitplansread <=1650px. OwncurrentcommercialHTMLindependently200. No originalcurrentpricedinventory orapprovedarea/factbookretrieved; notinvented."
+      }
+    }
+  }
+}

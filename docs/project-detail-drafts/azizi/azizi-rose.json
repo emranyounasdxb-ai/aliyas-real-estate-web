@@ -1,0 +1,207 @@
+{
+  "id": "azizi-project-05",
+  "name": "Azizi Rose",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi Rose combines studios, one-bedroom apartments and retail in Downtown Jebel Ali, with pools, separate gyms and indoor recreation.",
+    "areaId": "dubai-downtown-jebel-ali",
+    "location": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–1",
+    "price": 607000,
+    "handover": null,
+    "paymentPlan": "50/50 · branded reference",
+    "amenities": [
+      "Adult and children’s pools",
+      "Separate gyms for men and women",
+      "Cinema hall",
+      "Gaming lounge",
+      "Indoor children’s play area",
+      "Multipurpose hall",
+      "Parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/04a9400cbd594fd0b9becaa932d15d2d.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi-branded Rose factsheet · broker-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "plans",
+          "label": "Rose-linked 126-page Jabal Ali Plot 11 individual plans · broker-hosted",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/04a9400cbd594fd0b9becaa932d15d2d.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 115
+        },
+        {
+          "id": "payment",
+          "label": "Azizi-branded Rose prices and relative payment calendar · undated broker mirror",
+          "url": "https://jiwak.com/files/properties/34aca53ed39255f807ffd829f42093b818524dc1.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "bayut",
+          "label": "Bayut: Rose launch reference and Q 3 2028 target",
+          "url": "https://www.bayut.com/for-sale/apartments/dubai/jebel-ali/downtown-jebel-ali/azizi-rose/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "ezre",
+          "label": "EZRE: separate Rose Q 4 2028 target and released mix",
+          "url": "https://ezre.ae/projects/azizi-rose",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts",
+          "plans"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "price": [
+          "payment",
+          "bayut"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "bayut",
+          "ezre"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans",
+          "payment"
+        ],
+        "overview": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own-branded Rose factsheet/payment cover checked; linked technical pack says Jabal Ali Plot 11. Broker document links tie that pack to Rose; source is not represented as a directly retrieved developer-hosted file.",
+        "location": "Branded factsheet identifies Downtown Jebel Ali, JAFZA and Sheikh Zayed Road; no speculative coordinates or walking-time assertions.",
+        "residences": "Own-branded factsheet specifies studios and one-bedroom apartments with retail. Conflicting directory studio-to-three labels rejected absent supporting own plans.",
+        "areas": "126-page technical pack extracted; pages 1,2,5 visually read at 1700 px for studio and one-bedroom samples, apartment/balcony/total and unit/floor labels.",
+        "amenities": "Factsheet pages 1–2 visually read; promised facilities separated from confirmed operational access.",
+        "pricing": "Undated branded sheet 607 kstudio/924 konebed retained as historical marketing references, not current unit allocation.",
+        "payment": "Both branded payment pages visually read; six stages total 100 with relative booking-day deadlines, no fabricated calendar dates.",
+        "handover": "BayutQ 3 2028 vs EZREQ 4 2028 explicitly unresolved; neither is a completion certificate and branded pack gives no contractual date.",
+        "documents": "Branded factsheet,126 pplans and 2 pcommercial sheet downloaded; facts/plans conservatively pooled 200. Original site 403/429, no access bypass/forms."
+      },
+      "community": "Downtown Jebel Ali",
+      "overview": [
+        "A larger balcony changes a home’s quoted total without adding equivalent indoor accommodation. Compare the selected unit’s apartment area, orientation and layout rather than choosing by headline square footage alone."
+      ],
+      "locationNote": "Downtown Jebel Ali, Dubai, beside JAFZA with Sheikh Zayed Road and Life Pharmacy Metro connections. Verify the actual access route.",
+      "priceLabel": "Undated branded price reference",
+      "priceNote": "The retrieved Azizi-branded sheet shows studios from AED 607,000 and one-bedroom homes from AED 924,000, subject to availability and changes. It has no visible issue date. These are historical marketing references; no current price list or live stock was confirmed.",
+      "paymentNote": "The undated branded sheet allocates 10% on booking, four 10% instalments at 30, 300, 450 and 600 days after booking, then 50% on completion/handover. It allows company changes. Obtain the current dated offer, fees and signed schedule before applying these relative deadlines.",
+      "handoverNote": "Bayut targets Q3 2028, whereas EZRE gives Q4 2028. The retrieved branded factsheet and payment sheet do not resolve the difference. Contractual completion, construction progress and actual handover remain unconfirmed.",
+      "units": [
+        {
+          "label": "Studio Type 01 ·  1004 · floor 1",
+          "area": "345.09 sq ft published total; 273.73 apartment +71.37 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Studio Type 01 A ·  6002 · floor 6",
+          "area": "362.85 sq ft total; 290.52 apartment +72.33 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 04 A ·  1001 · floor 1",
+          "area": "875.33 sq ft total; 552.19 apartment +323.14 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reference · booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · 30 days from booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · 300 days from booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · 450 days from booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · 600 days from booking",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Reference · completion/handover",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Studio 1004 prints 345.09 versus 345.10 sq ft from rounded components. The saved 6002 plan says on hold; neither proves current stock.",
+        "The broker-linked Rose plans use technical label Jabal Ali Plot 11. Confirm the selected unit’s approved document and area statement.",
+        "No current dated developer availability, approved service/cooling charge, parking allocation, furnishing inventory, construction measurement or completion notice was verified. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

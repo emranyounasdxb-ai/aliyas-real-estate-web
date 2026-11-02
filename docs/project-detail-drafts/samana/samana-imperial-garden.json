@@ -1,0 +1,232 @@
+{
+  "id": "samana-project-10",
+  "name": "SAMANA Imperial Garden",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Imperial Garden is an apartment development in Arjan, with studios, one-bedroom and two-bedroom homes. Its layouts include selected private pools and flexible partitions; the published one-bedroom Type 7 has no pool.",
+    "areaId": "dubai-arjan",
+    "location": "Arjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 980000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pool",
+      "Kids’ pool",
+      "Sauna and steam room",
+      "Jacuzzi",
+      "Outdoor yoga area",
+      "BBQ area",
+      "Trampoline park",
+      "Mini golf"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/10/01/02/24/96d3da78cc542201501453fd58474b86.pdf",
+    "floorPlanUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/10/01/02/24/96d3da78cc542201501453fd58474b86.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Imperial Garden · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-imperial-garden",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Imperial Garden official brochure · 40 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/10/01/02/24/96d3da78cc542201501453fd58474b86.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "sample",
+          "label": "Imperial Garden historical sample offer · September 2025",
+          "url": "https://storage.dxboffplan.com/files/2025/09/1BHK-Sample-Imperial-Gardens.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Imperial Garden project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-imperial-garden",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Arjan",
+      "locationNote": "Arjan, Dubai. Pool provision depends on the chosen layout.",
+      "overview": [
+        "The official drawings show two studio types, seven one-bedroom types and a two-bedroom layout. Flexible partitions do not establish an additional approved bedroom category."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Developer advertised reference: AED 980,000; current availability requires confirmation. Property Finder records an AED 994,444 launch reference.",
+      "handoverNote": "Developer FAQ: Q1 2029. Property Finder: December 2028. These conflicting targets do not confirm completion.",
+      "paymentNote": "PDC: 15% booking + 10% in month 12 + 75 monthly payments of 1%. Non-PDC: 20% + 10% in month 12 + 70 monthly payments of 1%. Each totals 100%; confirm contractual eligibility.",
+      "units": [
+        {
+          "label": "Studio + pool · Types 1–2",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR + pool · Types 1–6",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type 7, without pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + pool",
+          "area": "Total area unstated",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking · current developer illustration",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "PDC month 12 · additional payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "PDC 75 monthly payments × 1%",
+          "percent": 75,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Historical sample only",
+          "value": "September 2025: 1BR + pool, 800 ft² total, AED 1,350,000. Marked “Sample”, without a numbered apartment.",
+          "sourceIds": [
+            "sample"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Official plans do not print aggregate unit areas. The historical 800 ft² sample is not a typology range or current inventory.",
+        "The sample’s September 2025–July 2031 calendar totals 100%: 20% booking, 69 ordinary 1% payments and one 11% payment. This dated example is not a new buyer’s schedule.",
+        "Property Finder labels 75%/70% as handover balances; the developer specifies monthly payments. Current inventory, service charges and final specifications remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "sample"
+        ],
+        "unresolved": [
+          "brochure",
+          "sample",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA Imperial Garden project 10 in Arjan; no other SAMANA project or speculative future bedroom category merged. Own ordinary HTML200 and exact JSON-LD DigitalDocument public PDF200 retrieved without submitting a lead form.",
+        "location": "Own main page explicitly Arjan,Dubai; exact registry dubai-arjan. No invented coordinates or traffic-dependent journey promises.",
+        "residences": "Actual own40p brochure30–39 visually inspected all10 types: two studios+pool,six1BR+pool,1BRType7withoutpool,and2BR+pool. Convertible-room furniture/partition marketing does not authorize3BR headline. Privatepool not universal. No current unit count derived from an inaccessible factsheet.",
+        "areas": "All10 own numerical/drawing panels visually read; no aggregate area totals printed. Own three JSON-LD floorPlan images also visually read, no aggregate totals. Broker18p plans mirrors same10types plus7floorplates. Historical2p sample actual total800sqft unnumbered Sample unit; not adopted as current range. Secondary431/720/1244 minima lack retrieved original factsheet proof and were not imported.",
+        "amenities": "Own visible amenities/JSON-LD verified pool,kidspool,sauna/steam,jacuzzi,yoga,BBQ,trampoline,minigolf. Brochure19 visually corroborates; derive public list from ownpage. No unsupported furniture/appliance/parking guarantee.",
+        "pricing": "Own FAQ and Offer both980000,current advertised starting reference, not available-unit quote. PF994444launch differing notcurrentdeveloperprice. Actual sample1350000 datedSeptember2025 and explicitlySample, retained only as historical fact. No ROI or live inventory assumed.",
+        "payment": "Own PDC15+10+75=100/nonPDC20+10+70=100. PF falsely presents75/70as handing-over balloons; discrepancy disclosed. Actual sample2pages September2025–July2031 contains71instalmentrows:20+69*1+11=100, one August2026 row11includes regular1+extra10. No sample calendar transfer to newbuyer. Fees54000+4200=58200 confirmed internally, omitted current fee claim.",
+        "handover": "Own FAQQ12029 versus PFDecember2028; headline null, both targets in note. No actual completion or recent DLD inspection independently verified; staleportal0.27%December2025 not presented current.",
+        "documents": "Own40p brochure exact publicschemaURL retrieved; p18/19/30–39 actual viewed <=1560px sheets; sample2fullpages actual viewed <=1516px. Broker28brochure+18plans overlap own40, no extra derivation. Own original factsheet/standalone payment not publicly retrieved despite secondary claims; ownHTML current terms directly verified. Combined underlying project PDFs allocated140+60=200; actual compact public source attribution recorded separately."
+      }
+    }
+  }
+}

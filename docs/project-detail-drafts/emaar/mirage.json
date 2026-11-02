@@ -1,0 +1,340 @@
+{
+  "id": "emaar-project-89",
+  "name": "Mirage",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Mirage brings five- and six-bedroom villas to The Oasis, with homes arranged beside waterways and landscaped public spaces. The collection includes different elevations and flat or drop configurations. Large windows, planted surroundings and separate service areas shape the residential design.",
+    "areaId": "dubai-the-oasis",
+    "location": "The Oasis",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "5–6",
+    "price": 15800000,
+    "handover": "Q2 2028 estimated",
+    "paymentPlan": "90/10 launch plan",
+    "amenities": [
+      "Landscaped parks and gardens",
+      "Children’s play areas",
+      "Outdoor gym",
+      "Sports courts",
+      "Community centre",
+      "Yoga spaces",
+      "Dog parks",
+      "Community pools",
+      "Jogging and cycling routes",
+      "Wellness facilities"
+    ],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/388440_brochure_File_f9fe1cabd0_prod.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/MIRAGE_floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Mirage at The Oasis",
+          "url": "https://www.emaar.com/en/properties/mirage-at-the-oasis",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: Mirage brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/388440_brochure_File_f9fe1cabd0_prod.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "plans",
+          "label": "Emaar: Mirage villa plans",
+          "url": "https://www.emaar.com/cms-media/uploads/MIRAGE_floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "facts",
+          "label": "Emaar Mirage fact sheet, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/mirage/MIRAGE_THE_OASIS_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "payment",
+          "label": "Emaar Mirage payment plan, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/mirage/MIRAGE_THE_OASIS_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Mirage The Oasis",
+          "url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/mirage-the-oasis",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official",
+          "facts"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "brochure",
+          "facts"
+        ],
+        "price": [
+          "official",
+          "facts"
+        ],
+        "units": [
+          "plans",
+          "facts"
+        ],
+        "documents": [
+          "plans",
+          "brochure"
+        ],
+        "paymentPlan": [
+          "payment",
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Mirage at The Oasis identified separately from other Oasis phases.",
+        "location": "The Oasis and access roads checked.",
+        "residences": "Five- and six-bedroom villa variants checked; flat/drop are configuration labels, not apartment types.",
+        "areas": "All nine official plan area tables visually inspected and distinguished from average plots.",
+        "amenities": "Official community and brochure recreation facilities reviewed.",
+        "pricing": "Developer AED 15.8m headline and launch bedroom-specific references recorded.",
+        "payment": "Ten 10% launch instalments checked against fact sheet and payment PDF.",
+        "handover": "June 2028 launch estimate and May 2028 portal discrepancy disclosed.",
+        "documents": "Official 23-page brochure, nine plan sheets and two attributed launch documents inspected."
+      },
+      "community": "The Oasis",
+      "overview": [
+        "The brochure gives Mirage a water-led landscape, with gardens, play spaces and places for exercise spread through the neighbourhood. Five-bedroom villas are presented in Classic, Contemporary and Chamfered styles; the six-bedroom examples use Contemporary and Chamfered elevations. The visual language varies, while the emphasis on generous family accommodation remains consistent."
+      ],
+      "locationNote": "Mirage is within The Oasis, Dubai, near D54 and E44. Emaar places it within reach of Dubai Hills, Dubai Marina and Downtown Dubai. Journey times in launch material are estimates, so check the route from the particular plot.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "Emaar advertises AED 15.8m. The launch fact sheet quotes five-bedroom villas from AED 15.8m and six-bedroom villas from AED 20.5m. These are historic entry references, not confirmation of current available homes.",
+      "paymentNote": "The launch schedule allocates 90% before completion and 10% at completion. The two Emaar-branded documents are hosted by a broker; their dated instalments are historical launch terms, not a fresh offer.",
+      "handoverNote": "The launch payment document estimates June 2028. Property Finder reports May 2028. Both fall in Q2, but the month remains inconsistent; confirm the current contractual date.",
+      "units": [
+        {
+          "label": "5 bedrooms · Flat Contemporary",
+          "area": "10,224.95 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5 bedrooms · Flat Classic",
+          "area": "10,336.25 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5 bedrooms · Flat Chamfered",
+          "area": "10,388.13 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5 bedrooms · Drop Contemporary",
+          "area": "10,996.40 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5 bedrooms · Drop Chamfered",
+          "area": "11,163.03 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6 bedrooms · Drop Contemporary",
+          "area": "11,297.90 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6 bedrooms · Drop Chamfered",
+          "area": "11,357.31 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6 bedrooms · Flat Contemporary",
+          "area": "12,718.09 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6 bedrooms · Flat Chamfered",
+          "area": "12,967.06 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Average plots · launch fact sheet",
+          "area": "5 bedrooms: 11,340 sq ft; 6 bedrooms: 15,578 sq ft",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · April 2024 launch",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "June 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "November 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "April 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2025 · 20% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "February 2026 · 30% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "September 2026 · 50% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "April 2027 · 70% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "November 2027 · 90% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "June 2028 · estimated completion",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Launch mix",
+          "value": "204 villas: 123 five-bedroom and 81 six-bedroom homes. This is the development mix, not available stock.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Plan totals include basement, floors, terraces and carport; they are not plot measurements. Flat and drop describe villa configurations.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Layouts",
+          "value": "The six-bedroom drop sheets show basement, ground and first floors; the other reviewed variants also show a roof floor. A lift and driver’s accommodation appear in the plans.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Outdoor works",
+          "value": "The official plans mark landscaping as illustrative and owner-designed. Confirm pool, garden and other external works in the sale specification.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Property Finder’s five-bedroom Type E area is 10,366 sq ft; the official Classic sheet states 10,336.25 sq ft, used here.",
+        "Completion month differs between launch documents and the portal. Current construction status and remaining stock were not independently established.",
+        "Plot figures are launch averages; obtain the actual plot plan, final finishes, parking provision, service charges and inclusions for the chosen home.",
+        "Current images remain illustrative; project photography is deferred."
+      ]
+    }
+  }
+}

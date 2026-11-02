@@ -1,0 +1,203 @@
+{
+  "id": "danube-project-08",
+  "name": "Timez",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Timez is a residential development in Dubai Silicon Oasis with studios and one- to three-bedroom apartments. Its convertible layouts and selected private-pool configurations vary substantially; the selected floor plan matters more than a single project-wide size range.",
+    "areaId": "dubai-silicon-oasis",
+    "location": "Dubai Silicon Oasis",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 871000,
+    "handover": "Q2 2028 · developer target; portal conflict",
+    "paymentPlan": "30/70 · developer headline; confirm terms",
+    "amenities": [
+      "Podium pool",
+      "Indoor gym",
+      "Aquatic gym",
+      "Children’s daycare",
+      "Children’s play area",
+      "BBQ area",
+      "Business centre",
+      "Basketball court",
+      "Spa",
+      "Library",
+      "Private pools · selected layouts only"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2025/02/Timez_brochure_EN.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/timez/floor-plans",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Timez own project page · current 30/70 headline",
+          "url": "https://danubeproperties.com/portfolio/timez/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official 27-page Timez brochure",
+          "url": "https://danubeproperties.com/wp-content/uploads/2025/02/Timez_brochure_EN.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Danube public collateral ZIP · 51-page combined plans and 27-page retail plans",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/timez/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "construction",
+          "label": "Danube internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/timez/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Timez guide · July 2028 and 70/30 reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/timez",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "construction"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "TimezownbrandSiliconOasis; noOasiz/Oasiz2transfer.",
+        "location": "OwnDubaiSiliconOasis. Suggestedmetrostationnotoperatingtransitpromise.",
+        "residences": "Ownpage1000apartments,studios1/2/3. ConvertibleandPresidentialpoolvariantsnotinterchangeable.",
+        "areas": "Officialcollateralcombined51pcontains24apartmentpagesplus27retailoverlap; separate27retailcountedonce. Visuallyreadapartment2/5/6/12/16/18/19 androtatedretailpage2. Totalsretainexactprintednumbers.",
+        "amenities": "Developerlist; privatepoolonlyselecteddrawingsdespitebrochureeveryapartmentcopy.",
+        "pricing": "Currentownhero871000; PF800000launchreference distinct, no availableinventoryclaim.",
+        "payment": "Currentownhero30/70 withoutprimarymilestones; PF70duringconstruction/30handover conflicts, notassumedreversed. Currentdatedprimarycalendarunavailable.",
+        "handover": "OwnQ22028 versusPFJuly2028Q3 keptconflict. Construction27percent30September2026developerinternal.",
+        "documents": "Official27pbrochure andownZIP2planPDFs downloaded. NumericalPDFvisualreadbounded1700; overlappingretailcountedonce; combinedpublicPDFallocation200."
+      },
+      "community": "Dubai Silicon Oasis",
+      "overview": [
+        "The developer lists 1,000 apartments. Its internal 30 September 2026 report gives 27% progress, foundation concreting completed, second-floor concrete casting completed and third-floor preparation underway. This is a dated report, not an independent site inspection."
+      ],
+      "locationNote": "Dubai Silicon Oasis. The developer labels a nearby metro station as suggested; it is not presented here as an operating station.",
+      "priceLabel": "Developer guide · reconfirm",
+      "priceNote": "Danube’s headline is AED 871,000; Property Finder retains an AED 800,000 launch reference. These are different snapshots, not confirmation of currently available entry stock.",
+      "paymentNote": "The current developer headline reads 30/70 but supplies no project-specific milestones. Property Finder lists 70% during construction and 30% on handover. Confirm the selected contract; neither split is silently converted into the other.",
+      "handoverNote": "The developer targets Q2 2028, while Property Finder states July 2028. The conflict remains unresolved; neither forecast confirms handover.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "385–387 ft² total / 305–307 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential Flex Studio · pool",
+          "area": "427–440 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom A",
+          "area": "545–589 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom A",
+          "area": "832–853 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom D · pool",
+          "area": "854 ft² total / 692 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom A · pool",
+          "area": "1,057 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom B · pool",
+          "area": "1,391–1,419 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Retail 1 · separate commercial plan",
+          "area": "1,881 ft² total / 1,104 ft² retail / 777 ft² terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [],
+      "unresolved": [
+        "Plan totals include outdoor areas. Component-range endpoints can refer to different units and do not always add to displayed total endpoints. Printed figures are retained.",
+        "Brochure imagery suggests pools broadly, but the measured plans identify particular pool layouts. Convertible labels do not alter the legal bedroom count automatically.",
+        "Current stock, detailed primary instalments, contractual delivery, parking, approved service charges and furniture specifications require confirmation. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

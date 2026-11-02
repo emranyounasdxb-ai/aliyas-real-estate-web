@@ -1,0 +1,343 @@
+{
+  "id": "reportage-project-06",
+  "name": "Sensi",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Sensi combines apartments, multilevel townhouses and a separate commercial component on Saadiyat Island.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "2–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Gym",
+      "Swimming pool",
+      "Children’s pool",
+      "Children’s play areas",
+      "Landscaped seating",
+      "Retail and cafés",
+      "Basement parking"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_BROCHURE_EN_V1-1.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_FLOORPLANS_V1-2-1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sensi: current developer project page",
+          "url": "https://reportagegroup.com/projects/residential-communities/sensi/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Sensi: original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_BROCHURE_EN_V1-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Sensi: original apartment and townhouse drawings",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_FLOORPLANS_V1-2-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Sensi: original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_FACTSHEET_V1-2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "portal",
+          "label": "Sensi: Property Finder launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/sensi-by-reportage",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "Sensi: EZRE commercial guide",
+          "url": "https://ezre.ae/projects/sensi",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Saadiyat Island",
+      "overview": [
+        "Compare individual layouts."
+      ],
+      "locationNote": "The developer places Sensi on Saadiyat Island, Abu Dhabi.",
+      "priceLabel": "Request a selected-home quotation",
+      "priceNote": "Property Finder gives an AED 3 million launch guide; EZRE quotes AED 2,909,311. No dated original price list or current selected-home quotation was verified.",
+      "paymentNote": "Property Finder’s reference table gives 70% during construction and 30% at handover. EZRE instead lists 30% booking / 70% handover and other alternatives. No original dated commercial calendar was verified; confirm the selected offer.",
+      "handoverNote": "Property Finder targets June 2029 and EZRE Q2 2029. The reviewed primary originals do not confirm a contractual date. The website’s undated animated progress display is insufficient to certify completion.",
+      "units": [
+        {
+          "label": "Apartment · 2BR A",
+          "area": "1,342.57 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 2BR B",
+          "area": "1,102.77 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR A",
+          "area": "1,421.14 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR B",
+          "area": "1,571.00 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR C",
+          "area": "1,759.10 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR D",
+          "area": "1,358.18 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR E",
+          "area": "2,437.40 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR F",
+          "area": "2,046.15 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR G",
+          "area": "4,557.38 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 4BR",
+          "area": "4,232.98 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Construction · reference",
+          "percent": 70,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · reference",
+          "percent": 30,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Mix",
+          "value": "89 homes: 43 two-bedroom apartments, 37 three-bedroom apartments and nine four-bedroom townhouses.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Site",
+          "value": "5,423.86 m²; 324 basement parking spaces.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Purchase reference",
+          "value": "Property Finder lists freehold and a 2% government fee. Confirm title eligibility and complete purchase costs.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "These are illustrated totals including outdoor space, not complete building ranges. Printed components sometimes disagree with totals, notably two-bedroom B and three-bedroom B.",
+        "Confirm contracted drawings, charges, specification and availability."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-06 Sensi/owner retained. Currentownnavlinks/sensi/200; old/sensi-2/404 despiteindexedbody, nottreatedcurrent. Facts43+37+9=89, commercialseparate. No sisterphase transferred.",
+        "location": "Ownmainandactualfacts1 explicitSaadiyatIslandAbuDhabi mapsregistryabu-dhabi-saadiyat-island. No privatebeachownershiporuniversal museumwalkingdistances inferred. Printedtravelestimatesnotadopted.",
+        "residences": "Actual all10whole/numericdrawingpages4–13 viewed at1700px.2BRA/B;3BRA–G;whole4bedtownhouse. Page13 groundliving/maid,firstANDsecondrepeatedbedroomlevel=4familybeds,rooflounge/topMEP shown; totalwholehome4232.98not multiplied. Facts townhouseB+G+3 vsplan no basementdrawing, not inventbasementarea. Residential3B+G+7andcommercialG+4+roofnotaddedhomefloors.",
+        "areas": "Actualprintedtotals2A1342.57/2B1102.77,3A1421.14/B1571/C1759.10/D1358.18/E2437.40/F2046.15/G4557.38,wholeTH4232.98sqft. 2B825+277.47=1102.47vsprinted1102.77delta0.30;3B1080.38+491=1571.38vsprinted1571delta0.38;3F1216.22+829.90=2046.12vs2046.15delta0.03;others0.01rounding. Totalsretained,caveatpublic. SecondaryEZRE1008/1087/4770sizesdifferent notmergedorforcedreconcile. No hiddenlayer-onlynumericused.",
+        "amenities": "Currentownmainandactualfacts1 gyms/pools/kidsplay/landscape/coffee/retail/parking supportedplannedonly. No furnishedpromises/accessoriesinrender adopted. No genericcorporateamenities.",
+        "pricing": "Primarymain/22pbroch/22pplans/2pfacts no price. PF3mguide vsEZRE2909311secondaryonly. HeadlineNULL. No promotion/discount guarantee or currentinventory inferred.",
+        "payment": "PF70construction30handover=100reference;EZRE30booking70handoverand20/80/10/90variants disclosed asdifferentsecondaryoffers. No verifiedoriginaldatedcommercialsheet. HeadlineNULL, no implicitstagecalendar.",
+        "handover": "Primarynodate;PFJune2029/EZREQ22029 secondaryforecastonly, headlineNULL. Oldsite0percentanimatedloadernotcertificate. No purportedJune2026groundbreakadoptedwithoutprimarydatedproof; currentprimarylauncheventgallerynon-numericunused.",
+        "documents": "CurrentownHTMLpublichrefshttpreportageuae.comthreePDFs normallyredirect200httpsreportagegroup.com. FinalexactURLssource/publiclinks.22pbroch22pplans2pfacts retrieved,all10actualwhole/numericpanels4–13 andfacts1/2actuallyread. Sharedphaseoriginalversions/mirrors/retellingsone200pool20+140+40; wholemixedmeasured. Genericcorporate0, no forms/bypass."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "areaId": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "location": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "emirate": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "community": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "locationNote": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "facts",
+          "plans"
+        ],
+        "type": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "brochureUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "floorPlanUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "developer",
+          "portal",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal",
+          "broker"
+        ]
+      }
+    }
+  }
+}

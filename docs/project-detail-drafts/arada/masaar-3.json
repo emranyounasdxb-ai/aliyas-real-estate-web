@@ -1,0 +1,410 @@
+{
+  "id": "arada-project-03",
+  "name": "Masaar 3",
+  "developerSlug": "arada",
+  "fields": {
+    "description": "Masaar 3 is a separate forested mastercommunity in Sharjah, planned around eight gated districts. Townhouses and villas connect to a landscaped green spine, a lagoon and places for sport, play and everyday errands.",
+    "areaId": "sharjah-masaar-3",
+    "location": "Masaar 3",
+    "emirate": "Sharjah",
+    "type": "Villa",
+    "bedrooms": "2–5",
+    "price": 2070000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimmable waterfall lagoon",
+      "Jogging and cycling trails",
+      "Basketball and padel courts",
+      "Adventure playground",
+      "Outdoor cinema",
+      "Community centre",
+      "Café and food-truck park",
+      "Family and ladies-only pools",
+      "Smart-home systems"
+    ],
+    "brochureUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/10/30092026_Dalia_Brochure-6.pdf",
+    "floorPlanUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/Masaar-3-Dana.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Masaar 3: developer mastercommunity",
+          "url": "https://www.arada.com/en/property_category/masaar3/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "dalia",
+          "label": "Dalia: current developer collection and terms",
+          "url": "https://www.arada.com/en/dalia-masaar-3/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 155
+        },
+        {
+          "id": "dalia-date",
+          "label": "Dalia: developer completion FAQ",
+          "url": "https://www.arada.com/en/dalia-masaar-3-investment/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "launch",
+          "label": "Masaar 3: launch announcement, 28 August 2025",
+          "url": "https://www.arada.com/en/latest-news/arada-unveils-masaar-3-the-newest-chapter-of-the-uaes-bestselling-forest-community/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "layan-release",
+          "label": "Layan: fifth-phase launch, 6 April 2026",
+          "url": "https://www.arada.com/en/latest-news/arada-launches-fifth-phase-of-sharjahs-masaar-3-the-uaes-bestselling-forest-community/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "dana-plans",
+          "label": "Masaar 3 Dana: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/Masaar-3-Dana.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "lareen-plans",
+          "label": "Masaar 3 Lareen: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/Masaar-3-Lareen.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "laura-plans",
+          "label": "Masaar 3 Laura: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/Masaar-3-Laura.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "sedra-plans",
+          "label": "Masaar 3 Sedra: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/Masaar-3-Ph4-Brochure-Digital.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "layan-plans",
+          "label": "Masaar 3 Layan: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/08/Arada-Masaar-3-Ph5-Brochure_17042026.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "dalia-plans",
+          "label": "Masaar 3 Dalia: original developer brochure and plans",
+          "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/10/30092026_Dalia_Brochure-6.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "layan-terms",
+          "label": "Layan: earlier developer collection terms",
+          "url": "https://www.arada.com/en/launching-masaar3/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "launch"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch",
+          "dana-plans",
+          "dalia-plans"
+        ],
+        "price": [
+          "dalia"
+        ],
+        "handover": [
+          "launch",
+          "dalia-date"
+        ],
+        "paymentPlan": [
+          "dalia"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "dalia-plans"
+        ],
+        "floorPlanUrl": [
+          "dana-plans"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "launch",
+          "dana-plans",
+          "dalia-plans"
+        ],
+        "locationNote": [
+          "launch"
+        ],
+        "priceLabel": [
+          "dalia"
+        ],
+        "priceNote": [
+          "dalia"
+        ],
+        "paymentNote": [
+          "dalia",
+          "layan-terms"
+        ],
+        "handoverNote": [
+          "launch",
+          "dalia-date"
+        ],
+        "units": [
+          "dana-plans",
+          "lareen-plans",
+          "laura-plans",
+          "sedra-plans",
+          "layan-plans",
+          "dalia-plans"
+        ],
+        "paymentStages": [
+          "dalia"
+        ],
+        "facts": [
+          "launch",
+          "developer",
+          "dalia",
+          "layan-release"
+        ],
+        "unresolved": [
+          "dalia",
+          "dalia-plans",
+          "dana-plans"
+        ]
+      },
+      "community": "Masaar 3",
+      "overview": [
+        "The August 2025 masterplan covers 4,000 homes over eight districts and a 21-million-ft² site. This is Masaar 3, distinct from the original Masaar and Masaar 2.",
+        "Reviewed collections include Dana, Lareen, Laura, Sedra, Layan and Dalia. Earlier brochures span two- to five-bedroom homes; Dalia’s published brochure contains two- to four-bedroom designs."
+      ],
+      "locationNote": "Arada locates Masaar 3 in Sharjah’s Rowdat district, between Masaar 2 and a schools district, with access to Khorfakkan Road and Emirates Road.",
+      "priceLabel": "Dalia collection guide from",
+      "priceNote": "The current Dalia page advertises AED 2,070,000 for a two-bedroom townhouse. This phase-specific guide does not establish pricing or remaining stock throughout Masaar 3.",
+      "paymentNote": "Table: current Dalia reference, 5% down, 30% during construction, 65% on completion. Earlier Layan advertising uses 5/35/60. Terms are phase-specific; obtain the selected home’s dated schedule.",
+      "handoverNote": "The original masterplan targeted first homes in 2027. Dalia’s developer FAQ gives 31 December 2029. These are different scopes, not one whole-community completion commitment.",
+      "units": [
+        {
+          "label": "2-bedroom townhouse A/B",
+          "area": "1,959 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ],
+          "note": "Shared brochure typology; not proof of current availability."
+        },
+        {
+          "label": "3-bedroom townhouse 1 / 2",
+          "area": "2,289 / 2,291 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ]
+        },
+        {
+          "label": "3-bedroom corner/end townhouse A/B",
+          "area": "2,342 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ]
+        },
+        {
+          "label": "4-bedroom townhouse A/B",
+          "area": "2,559 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ]
+        },
+        {
+          "label": "4-bedroom corner/end townhouse A/B",
+          "area": "3,139 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ]
+        },
+        {
+          "label": "4-bedroom villa A/B",
+          "area": "3,765 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans",
+            "dalia-plans"
+          ]
+        },
+        {
+          "label": "4-bedroom signature villa A/B",
+          "area": "4,356 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans"
+          ],
+          "note": "Earlier collections; absent from Dalia’s reviewed brochure."
+        },
+        {
+          "label": "5-bedroom signature villa A/B",
+          "area": "5,142 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans"
+          ],
+          "note": "Earlier collections; absent from Dalia’s reviewed brochure."
+        },
+        {
+          "label": "5-bedroom forest signature villa A/B",
+          "area": "6,736 ft²",
+          "sourceIds": [
+            "dana-plans",
+            "lareen-plans",
+            "laura-plans",
+            "sedra-plans",
+            "layan-plans"
+          ],
+          "note": "Earlier collections; includes pump room; not in Dalia’s brochure."
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Dalia: down payment",
+          "percent": 5,
+          "sourceIds": [
+            "dalia"
+          ]
+        },
+        {
+          "stage": "Dalia: during construction",
+          "percent": 30,
+          "sourceIds": [
+            "dalia"
+          ]
+        },
+        {
+          "stage": "Dalia: on completion",
+          "percent": 65,
+          "sourceIds": [
+            "dalia"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Masterplan programme",
+          "value": "4,000 homes across eight gated districts; 21 million ft².",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Landscape programme",
+          "value": "More than 100,000 trees planned around the green spine.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Dalia collection",
+          "value": "338 homes; current published product cards list two to four bedrooms.",
+          "sourceIds": [
+            "dalia"
+          ]
+        },
+        {
+          "label": "Layan launch scope",
+          "value": "437 homes announced on 6 April 2026; fifth phase.",
+          "sourceIds": [
+            "layan-release"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Dalia’s FAQ gives different areas and mentions five-bedroom villas absent from its brochure. Confirm the selected phase’s approved schedule.",
+        "Published areas are whole multi-level totals, not plot sizes; some villas include pump-room or roof areas. Pools vary by type.",
+        "First-home delivery, later phases and full infrastructure have separate dates. Obtain current construction, fees, furnishing and available-unit confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected arada-project-03 wholeMasaar3 notoriginalMasaarphase3. Own launch4000/eightdistricts/21millionft2. Dana,Lareen,Laura,Sedra,Layan,Dalia actualbrandedoriginalPDFs separatelyretrieved, no phaseidentitymerge orclaimremainingtwofuturepacksreviewed.",
+        "location": "Own28Aug2025launch RowdatSharjah betweenMasaar2andschooldistrict withKhorfakkan/E611. exactnewcommunityregistryrequestedroot; pendingareaIdNULLno coordinates, noforcedSuyohoriginalmastermapping. Rootprimaryverifiedcentralregistrysharjah-masaar-3 exactdisplayMasaar3 nowmapped, no coordinates.",
+        "residences": "Fiveoriginalcollections2–5BR withshared2THA/B,3TH1/2A/B,3cornerA/B,4THA/B,4cornerA/B,4villaA/B,4signatureA/B,5signatureA/B,5forestA/B. Dalia63spreadpackonly2–4through4villaA/B; ownFAQclaims5anddifferentareas, conflictpublic. Rowdescriptionqualifiesscope.",
+        "areas": "Everypublishednumericpanelactualvisualsixcontacts, indexm3-numerical-index.json pages22/22/24/24/24/16=132panels inclrepeatedupperareas. SomeinitialDana/Lareen4villaheaderscropped; actualfullDana56/58read3765. FullfamilyDana26,28,32,36,40,46,50,56,58,60,62,66,68,71,72,74,75 andDalia26,32,36,40,46,50,56,57,59,60 viewed. 4villa1729+1475+561=3765;4signature2370+1909+77=4356;5signature2687+2380+75=5142;5forest2958+2436+1262+80=6736. No repeatedfloor multiplication orplotarea conflation. DaliaFAQ1920/3319vsactual1959/3139 notadopted.",
+        "amenities": "ExactMasaar3categorylistslagoon/pools/sports/trails/play/cinema/communitycafe/foodtrucks/smart systems; nooriginalMasaar6.6km/50000treeFAQglobalfactsinherited. Selectedlargefamilyprivatepoolnotuniversalincluded. Amenitiesprogrammeplannednotoperationalpromise.",
+        "pricing": "CurrentDaliaown2070000for2BR1959ft2; labelphaseguide. Earlierwholemasaarlanding1.87m/Layan1.98m/SedraEDM1915000historicalnotcurrentinventory. Mainpricephasequalified. Noreturns/yields/discountpromises copied.",
+        "payment": "CurrentDalia5/30/65sums100, tableclearlyDaliaonly; protectedmasterheadlineNULLbecauseLayan5/35/60different. No originaldatedcommercialcalendaravailable. Feesnotincludedorassumed.",
+        "handover": "Original28Aug2025firsthomes2027, notwholeMasaar3. ActualDaliaowninvestmentFAQ31Dec2029latercollection. HeadlineNULLpreventsfalsewholecompletion. April2026releasecontractsfirstsixexpectednext3monthsnotverifiedaward/completion. No stalenews2024Masaarphase3used.",
+        "documents": "Sixactualofficialsales-toolkitdirectAzurePDFs normalGET20078/78/80/80/80/63spreads, plusSedraEDM1pactualimage. Allreusedlayout/commonproseaggregateoneunderlyingpool200across6versions withalloc65+20+20+20+20+55. Actualpublicsourceclausesgenuinelycondensed9groupedunitrows inclscopenotes;noPDFperphaserenewedallowance. Toolkitlocator0. Masaar2sharedlayoutsbudgetmustcoordinatebefore04pubcopy. Numericcontactsbounded1750x1500."
+      }
+    }
+  }
+}

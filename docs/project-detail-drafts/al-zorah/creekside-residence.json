@@ -1,0 +1,306 @@
+{
+  "id": "al-zorah-project-01",
+  "name": "Creekside Residence",
+  "developerSlug": "al-zorah",
+  "fields": {
+    "description": "Creekside Residence brings one- to three-bedroom apartments to the mangrove edge of Al Zorah. Mediterranean-inspired architecture, a creek-facing entrance and shared landscaped spaces shape its quieter waterfront setting.",
+    "areaId": "ajman-al-zorah",
+    "location": "Al Zorah",
+    "emirate": "Ajman",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "March 2028",
+    "paymentPlan": null,
+    "amenities": [
+      "Pool deck",
+      "Fitness centre",
+      "Business lounge",
+      "Landscaped outdoor spaces",
+      "Secure creek-facing entrance",
+      "Internal courtyard",
+      "Multipurpose room",
+      "Children’s play area"
+    ],
+    "brochureUrl": "https://www.alzorahcity.com/assets/pdf/Creekside_Residence_Brochure.pdf",
+    "floorPlanUrl": "https://www.alzorahcity.com/assets/pdf/Creekside_Residence_Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Al Zorah · Creekside Residence",
+          "url": "https://www.alzorahcity.com/creekside-residence",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Creekside · original brochure",
+          "url": "https://www.alzorahcity.com/assets/pdf/Creekside_Residence_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Creekside · original apartment plans",
+          "url": "https://www.alzorahcity.com/assets/pdf/Creekside_Residence_Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "sales",
+          "label": "Creekside · branded sales presentation, broker mirror",
+          "url": "https://www.toumehrealestate.com/storage/projects/creekside-residence/documents/zDldqAnQsqIWYH7IsFFnGdcF7zkzQzFXbxuVwRdh-1.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "portal",
+          "label": "Bayut · Creekside building guide",
+          "url": "https://www.bayut.com/buildings/creekside-residence-al-zorah/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        },
+        {
+          "id": "broker",
+          "label": "EZRE · current commercial guide",
+          "url": "https://ezre.ae/projects/creekside-residence/payment-plan",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        }
+      ],
+      "community": "Al Zorah",
+      "overview": [
+        "The apartment mix ranges from compact one-bedroom homes to larger three-bedroom layouts. Compare the shape and usable outdoor space of the specific plan, rather than choosing by bedroom count alone."
+      ],
+      "locationNote": "Creekside Residence overlooks the creek and mangroves in Al Zorah, Ajman. Golf, marina and resort attractions belong to the wider destination; access and membership conditions require confirmation.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "Original guide: AED 711,000. EZRE: AED 846,462 for a selected one-bedroom home. No current developer quote verified.",
+      "paymentNote": "Original option 1 below. EZRE reports 10/20/10/60 over three post-handover years; Bayut 5/45/10/40 over two. Reconfirm current terms.",
+      "handoverNote": "Developer forecast: March 2028; original calendar: 31 March 2028. Completion remains unverified.",
+      "units": [
+        {
+          "label": "1BR I/II/III",
+          "area": "1,506–1,550 / 503–527 / 769–799 ft² sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR IV/V",
+          "area": "1,117 / 825–863 ft² sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR IA/IB/II",
+          "area": "1,744–1,803 / 2,231–2,306 / 1,536–1,568 ft² sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR III/IV/V",
+          "area": "1,126 / 1,299 / 1,425 ft² sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR I",
+          "area": "2,671–2,887 ft² sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Original option 1 · EOI",
+          "percent": 5,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "SPA signing",
+          "percent": 5,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "3 months after SPA",
+          "percent": 5,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "9 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "15 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "21 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "24 months after SPA",
+          "percent": 5,
+          "sourceIds": [
+            "sales"
+          ]
+        },
+        {
+          "stage": "Handover · 31 March 2028",
+          "percent": 50,
+          "sourceIds": [
+            "sales"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original configuration",
+          "value": "100 one-bedroom, 36 two-bedroom and 8 three-bedroom apartments; plot 79,900 ft², total sellable 147,550 ft².",
+          "sourceIds": [
+            "sales",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Alternative original schedule",
+          "value": "50% before handover, 10% at handover; then 5/7.5/7.5/7.5/7.5/5% at months 6/12/18/24/30/36.",
+          "sourceIds": [
+            "sales"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plans label areas sellable; the website labels its rounded summary built-up. Confirm the contracted measurement basis.",
+        "Current inventory, service charges, parking allocation, title eligibility and incentive validity were not verified."
+      ],
+      "reviewCoverage": {
+        "identity": "Own page and original brochure identify Creekside Residence, 144 apartments, separately from Gateway and Sealine. Original sales mix sums100+36+8=144. No availability inferred.",
+        "location": "Own project context, brochure and Bayut identify Al Zorah, Ajman; exact ajman-al-zorah registry mapping. No invented coordinates/travel times or private resort inclusions.",
+        "residences": "Own1–3BR and all12 original simplex types checked in full drawings. Small503–527ft² TypeII remains enclosed1BR, not studio. Maid room in3BR is not4th bedroom.",
+        "areas": "Actual plan pages3,5,7,9,11,13,15,17,19,21,23,25 viewed with their full drawings. All12 exact sellable ranges retained in five grouped rows, no floor multiplication. Brochure25 rounded2BRmax2300 differs actual2306; website built-up500–2900 is not silently equated to sellable. EZRE revised508/1127/2674 minima not substituted.",
+        "amenities": "Own body explicitly supports pool deck, fitness centre, business lounge, landscaped space, secure entrance, courtyard, multipurpose room and children play. Brochure15 and sales11 viewed; conditional free golf/beach incentives not promised current or universal.",
+        "pricing": "Original sales13 actual visible five price bands711k–1m/1–1.5m/1.5–2.5m/2.5–3m/3.5–5m scoped by bedrooms/views. Only lowest original reference public, no live developer quote. EZRE846462 attributed secondary selected entry. Headline null, no inferred stock or sale discounts.",
+        "payment": "Original sales14 actual both complete tables read. Option1 stages5+5+5+10+10+10+5+50=100. Option2 same first50+10handover+40post; post5+7.5+7.5+7.5+7.5+5=40. Sales13 original first79 release/EOI nonrefundable5+SPA5 within120days not current offer. EZRE10/20/10/60 and Bayut5/45/10/40 two-year conflict explicit; no blended calendar. Fees/escrow or present incentive validity unavailable.",
+        "handover": "Current own March2028 plus original sales14 31March2028 agree. Bayut/EZREQ12028 corroborate quarter. No actual completion/progress evidence verified; generic construction video not adopted.",
+        "documents": "Own66p brochure and25p plans ordinary public200; branded broker17p sales mirror200. All12 numeric/full family pages and brochure7/15/25 plus sales3/13/14 visually read. Related PDFs/mirrors pooled200 total, no separate version allowance. Generic corporate/community derivation0; no forms submitted."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "areaId": [
+          "developer",
+          "portal"
+        ],
+        "location": [
+          "developer",
+          "portal"
+        ],
+        "emirate": [
+          "developer",
+          "portal"
+        ],
+        "locationNote": [
+          "developer",
+          "portal"
+        ],
+        "price": [
+          "sales",
+          "broker"
+        ],
+        "priceLabel": [
+          "sales",
+          "broker"
+        ],
+        "priceNote": [
+          "sales",
+          "broker"
+        ],
+        "paymentPlan": [
+          "sales",
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "sales",
+          "portal",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "sales"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "sales"
+        ],
+        "facts": [
+          "sales",
+          "brochure"
+        ],
+        "unresolved": [
+          "plans",
+          "developer",
+          "sales",
+          "portal",
+          "broker"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

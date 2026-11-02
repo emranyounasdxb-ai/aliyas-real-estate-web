@@ -1,0 +1,293 @@
+{
+  "id": "wasl-project-05",
+  "name": "Boulevard Park",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Boulevard Park is Wasl’s residential collection between the park and retail boulevard at Wasl Gate in Jebel Ali. Its published layouts range from studios and apartments to duplexes, penthouses and multilevel townhouses.",
+    "areaId": "dubai-wasl-gate",
+    "location": "Wasl Gate",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pools",
+      "Gym",
+      "Multipurpose hall",
+      "Children’s play areas",
+      "BBQ facilities",
+      "Landscaped courtyards",
+      "Walking and cycling trails"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/ec73ec3d462242698f466abe6bba4e67.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Boulevard Park project guide",
+          "url": "https://www.wasl.ae/en/project/wasl-gate/boulevard-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "brochure",
+          "label": "Boulevard Park branded brochure · broker-hosted, 33 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "Boulevard Park branded unit plans · broker-hosted, 40 pages",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/ec73ec3d462242698f466abe6bba4e67.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 135
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Boulevard Park project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/boulevard-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "payment",
+          "label": "Tanami Boulevard Park payment reference",
+          "url": "https://www.tanamiproperties.com/Projects/Wasl-Boulevard-Park-PaymentPlan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "alternative",
+          "label": "Grand Reve Boulevard Park alternative instalment reference",
+          "url": "https://grandreverealty.com/projects/boulevard-park/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "mirror",
+          "label": "Boulevard Park R3 brochure · broker-hosted corroboration",
+          "url": "https://realestateatauxilium.com/wp-content/uploads/2026/01/Boulevard-Park_Main-Brochure-R3_11zon_.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer",
+          "finder"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "alternative"
+        ],
+        "paymentNote": [
+          "payment",
+          "alternative"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "brochure",
+          "finder"
+        ],
+        "handoverNote": [
+          "brochure",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "facts": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "unresolved": [
+          "brochure",
+          "plans",
+          "developer",
+          "finder",
+          "payment",
+          "alternative"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected whole-family Boulevard Park, not only Boulevard Park1/2 or new TowersA&B. Own current project page200. PDF marketing name Boulevard Park at WaslGate; phases not collapsed into universal dates/available stock.",
+        "location": "Own page WaslGate/JebelAli between IbnBattuta/EnergyMetro, exact central dubai-wasl-gate registry. PF prose repeatedly says AlWasl centralDubai incorrectly; excluded. No guessed coordinates/travel guarantees.",
+        "residences": "Own page/form studio,1,2,3 apartments;2BRduplex;3BRduplex townhouse/penthouse;4BRtownhouse. Actual40page numeric/drawing panels visually read, nine distinct groups; bedrooms exclude maid. Plan14 twoBRduplex upper2rooms;33threeBRduplex upper3;36threeBRtownhouse upper3;38fourBRtownhouse upper4, lifts not extra bedrooms.",
+        "areas": "Image-only40pPDF: all40 actual numeric panels read, text extraction empty. Two studio,11oneBR,one2BRduplex,10normal2BR,eightnormal3BR,one3BRduplex,two3BRpent,two3BRtownhouse,three4BRtownhouse=40. Printed totals retained. Plan1 449.50+84.60=534.10 vs534.11;4 871.12+65.01=936.13 vs936.14;20 1202.33+87.73=1290.06 vs1290.05; tinyroundings disclosed. Wholemultilevelsnotadded. Brandedfacts32 ranges disagree especiallytownhouse; older/version-specific ratherthan silently replace.",
+        "amenities": "Own page supports gyms/pools/BBQ/play/trails/courtyards. Actualbrochure12/32 facilities andunfurnishedfittedcabinets read, no appliance/furniture entitlement inferred from render. Current sixbuilding wording vs actualbrochure16fivebuilding/facts32fivebuildings8towers explicit. No assumed everyhomeparkview.",
+        "pricing": "No official current pricelist linkedownpage. PF900Khistoricalstudio quote notlowestremaining1BR. Reellyselectedunitquotes notadopted currentprimary. HeadlineNULL andbasisexplicit. No yields/services/stock assumed.",
+        "payment": "Tanami primarybrokerpaymenttable10+ten5+40=100 withmonths3/8/13/18/21/25/30/33/37/42; GrandReve alternative6/12/16/20/24/28/32/37/41/45. No ownsheet. Only10/50/40 aggregate table attributed, headlineNULL notfamilysignedterms. Dates cannot anchor withoutsale date.",
+        "handover": "Actualbrandedbrochure32 Q42029; PFmainJune2029 differs. Laterprojectsubphases listed2030 bybrokers do not provefamilycompletiondate. HeadlineNULL; noactualcompletionorconstructionpercentage claimed.",
+        "documents": "Own projectpage has no PDFlinks; normalpublickit probes404, noforms. BrokerMaison publiclinks33pbrandedbrochure56MB and40pimageplans4.8MB ordinaryGET200. R3Auxmirror33p56MBhasdifferentfilehash butactualfacts32sameunderlyingclauses/ranges/date, corroboration0. Alloverlappingversions/publicclausespool200(65brochure135plans). GenericWaslGate0."
+      },
+      "community": "Wasl Gate",
+      "locationNote": "Wasl Gate, Jebel Ali, near Energy Metro Station. Property Finder’s Al Wasl prose is inconsistent with the developer’s location.",
+      "overview": [
+        "Wasl describes 1,248 planned homes across two plots. This is a development count, not available stock."
+      ],
+      "priceLabel": "Current official quotation required",
+      "priceNote": "Property Finder’s AED 900,000 launch reference concerns studios. No current developer price list or unit-specific quotation was retrieved.",
+      "paymentNote": "Reference split: 10% booking, 50% construction, 40% handover. Broker calendars differ; no original developer payment sheet or family-wide signed schedule was verified.",
+      "handoverNote": "Branded brochure: Q4 2029; Property Finder: June 2029. Confirm the selected building’s contractual date.",
+      "units": [
+        {
+          "label": "Studio · 2 types",
+          "area": "522.16–534.11 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR · 11 types",
+          "area": "833.02–1,158.20 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR · 10 types",
+          "area": "1,238.50–1,544.62 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR duplex + maid",
+          "area": "1,669.81 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + maid · 8 types",
+          "area": "1,711.81–1,982.50 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex + maid",
+          "area": "2,917.23 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR penthouse + maid · A/B",
+          "area": "3,106.36–3,161.79 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR townhouse + maid · A/B",
+          "area": "3,271.69–3,426.58 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR townhouse + maid · A/B/C",
+          "area": "3,989.21–4,484.89 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · broker reference",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Interiors · brochure reference",
+          "value": "Unfurnished, with fitted kitchen cabinets.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Brochure ranges differ from drawings: studio 523–566 versus 522.16–534.11 ft²; 2BR duplex 1,676–1,940 versus 1,669.81; 4BR townhouse 4,253–4,956 versus 3,989.21–4,484.89.",
+        "The developer website describes six buildings; the brochure describes five buildings and eight towers. Confirm the selected release.",
+        "Some component sums differ from printed totals by 0.01 ft². Multilevel plan totals are whole-home figures.",
+        "Current inventory, official prices, revised floor plans, payment dates, service charges and allocated parking remain unverified."
+      ]
+    }
+  }
+}

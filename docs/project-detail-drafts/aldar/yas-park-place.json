@@ -1,0 +1,243 @@
+{
+  "id": "aldar-project-07",
+  "name": "Yas Park Place",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Yas Park Place is Aldar's garden-focused apartment community beside Yas Central Park. Six midrise buildings bring studios, one- to three-bedroom apartments and two-bedroom duplexes into a setting of landscaped courtyards, resident facilities and planned ground-level shops and dining.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1390000,
+    "handover": "Q1 2030 · estimated",
+    "paymentPlan": "50/50 launch plan",
+    "amenities": [
+      "Adults-only infinity pool",
+      "Family and children's pools",
+      "Splash pad",
+      "Community pavilion",
+      "Wellness and sensory gardens",
+      "Multipurpose room",
+      "Residents' coworking space",
+      "Outdoor cinema",
+      "Gym and wellness studio",
+      "Children's play zone",
+      "Dog park and walking paths",
+      "Retail and dining"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/3574cab1361745d6a7e4a5a9e9480537.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/8a5e8259f2f34113a0c925b039f117ba.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Yas Park Place",
+          "url": "https://www.aldar.com/properties/en/yasparkplace",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "launch",
+          "label": "Aldar Yas Park Place launch announcement, 14 April 2026",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/260414%2BAldar%2BYas%2BPark%2BPlace%2BPress%2BRelease%2BEN%2Bv3.pdf/bdc322a23d7511f19696029624cee6f9",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "presentation",
+          "label": "Aldar Yas Park Place sales presentation, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/3574cab1361745d6a7e4a5a9e9480537.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Yas Park Place fact sheet, Hanok-hosted copy",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/69e5f7c3aa3b2fe01abee5a6/1776679188315-42bc72d057562955.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "plans",
+          "label": "Yas Park Place floor plans, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/8a5e8259f2f34113a0c925b039f117ba.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Yas Park Place payment and completion reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/yas-park-place",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "overview": [
+          "presentation"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "facts",
+          "plans"
+        ],
+        "bedrooms": [
+          "facts",
+          "plans"
+        ],
+        "price": [
+          "facts"
+        ],
+        "paymentPlan": [
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "facts"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "units": [
+          "presentation"
+        ],
+        "documents": [
+          "presentation",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Six buildings in official launch; 780 homes in project-specific presentation and fact sheet, rather than conflicting 792 on a marketing page.",
+        "location": "Yas Island beside Yas Central Park confirmed in Aldar announcement.",
+        "residences": "Studio, one/two/three-bedroom apartments and two-bedroom maid-room duplex drawings reviewed.",
+        "areas": "Presentation page29 visually read; averages retained as averages, not minimums or individual unit totals.",
+        "amenities": "Project-specific official landing page checked; generic portal townhouse and indoor-pool claims excluded.",
+        "pricing": "Original AED1.39m studio reference documented; current inventory not inferred from launch pricing.",
+        "payment": "50/50 with5% booking documented; aggregate5/45/50 stages corroborated by portal. Dated broker schedules differ and remain unconfirmed.",
+        "handover": "Q1 2030 on branded fact sheet and presentation matches portal quarter.",
+        "documents": "33-page sales presentation and10-page plan pack downloaded; mix/area, price and payment tables visually inspected. Separate34-page consumer brochure also read."
+      },
+      "community": "Yas Park Place · Yas Island",
+      "overview": [
+        "The presentation specifies porcelain flooring, laminate joinery and engineered-stone worktops, with light and dark interior options. These are material references rather than a promise about a particular unit's final finish. The duplex drawing separates lower living space from upper bedrooms; maid rooms are identified separately from bedrooms."
+      ],
+      "locationNote": "Aldar places the development beside Yas Central Park, with access to the Yas Acres road network and the E11. The launch describes a walkable ground-level retail promenade. Routes, outlooks and delivery of neighbouring services should be checked for the chosen building.",
+      "priceLabel": "Launch starting price · reconfirm",
+      "priceNote": "The original studio guide is AED 1.39m. The presentation also gives AED 1.90m for one bedroom, AED 2.95m for two bedrooms and AED 5m for three bedrooms with maid room. These historical references do not establish present availability; obtain a dated unit offer.",
+      "paymentNote": "The launch structure is 50/50, with 5% at booking. The remaining 45% is paid during construction and 50% at handover. The table deliberately groups construction instalments because a dated developer-issued calendar was not established; exact dates depend on the purchase agreement.",
+      "handoverNote": "The branded fact sheet estimates Q1 2030. Confirm the selected building's contractual programme rather than treating a portal's January date as a guaranteed handover day.",
+      "units": [
+        {
+          "label": "Studio apartment",
+          "area": "45.15 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "1-bedroom apartment",
+          "area": "80.86 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "2-bedroom apartment",
+          "area": "130.10 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "2-bedroom duplex with maid room",
+          "area": "225.07 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "3-bedroom apartment with maid room",
+          "area": "163.05 sq m average",
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "During construction · dated schedule to confirm",
+          "percent": 45,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "facts",
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Announced release mix",
+          "value": "780 homes: 180 studios, 384 one-bedroom, 143 two-bedroom, nine two-bedroom duplexes and 64 three-bedroom apartments. Counts describe the launch mix, not current stock.",
+          "sourceIds": [
+            "presentation",
+            "facts"
+          ]
+        },
+        {
+          "label": "Parking reference",
+          "value": "The presentation allocates one space to studios and conventional one/two-bedroom apartments, and two to duplexes and three-bedroom homes. Confirm the unit's contractual allocation.",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Published service-charge reference",
+          "value": "The presentation quotes AED 23.45 per sq ft. Confirm the approved annual budget, chargeable area and inclusions before budgeting.",
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "label": "Environmental target",
+          "value": "Aldar's launch targets Estidama Pearl 3. This describes a target, not an independently verified completed-building certification.",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current availability, building and unit allocation, registered area and balcony treatment; averages do not define every apartment.",
+        "Exact dated instalments, completion arrangements and service-charge approvals require developer documentation.",
+        "The presentation describes limited launch-week incentives. Their expiry and eligibility were not verified, so they are not offered as current benefits.",
+        "Some portals list one building, townhouses or inconsistent areas; the six-building announcement and own apartment documents take precedence. Photography remains illustrative."
+      ]
+    }
+  }
+}

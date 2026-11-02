@@ -1,0 +1,204 @@
+{
+  "id": "binghatti-project-03",
+  "name": "Binghatti Wraith",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Wraith is a residential and retail development in Al Jaddaf, Dubai. Its curved plan accommodates studios and one- to three-bedroom apartments, with shared wellness and leisure facilities. The brochure separately identifies a three-bedroom home with a private lap-pool terrace.",
+    "areaId": "dubai-al-jaddaf",
+    "location": "Al Jaddaf",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 799999,
+    "handover": null,
+    "paymentPlan": "50/50 · portal reference",
+    "amenities": [
+      "Infinity pool and jacuzzi",
+      "Spa and wellness area",
+      "Gym and yoga deck",
+      "Padel and half basketball courts",
+      "Landscaped promenade",
+      "Family BBQ and gathering areas",
+      "Children’s play areas",
+      "EV charging"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-wraith-assets-6345467/binghatti-wraith-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-wraith-assets-6345467/binghatti-wraith-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Wraith own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-wraith",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Official Wraith brochure · 44 PDF pages; plans26–43",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-wraith-assets-6345467/binghatti-wraith-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Wraith project payment and delivery reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-wraith",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "facts": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Wraith page, collection and actual44pagebrochure independently identify the development; no Starfall/Spectre facts carried over.",
+        "location": "AlJaddaf,Dubai confirmed by ownpage; no guessed geographic coordinates.",
+        "residences": "Brochure855apartments comprising204studios+563onebed+86twobed+2threebed,plus34retail. Ownmenu stopsat2BR but actual3BRplan andFAQ prove3BRscope.",
+        "areas": "Visible numeric panels pages26,30,39,43 inspected acrossall4bedfamilies. Representative samples are totalswithbalconies; no claim to fullinventoryrange. 3BR239.20sqm includespoolterrace.",
+        "amenities": "OwnFAQ wellness,sport,familyandEVfacilities reviewed; selected3BRpoolnotgeneralised.",
+        "pricing": "Ownhero799999 differsfromPF1.3mlaunchguide. Ownpublishedentryguideusedwithavailabilityqualification, not assumedpriceofanysample.",
+        "payment": "PF50%launch/50%handover summary reviewed. It is not a current dated developer offer. No monthly schedule fabricated from incompatible broker20/30/50advertisements.",
+        "handover": "PFDecember2027/Q42027,expected1December in timeline; secondaryforecast only. No owncurrentdatedcontractcompletion verified;headlinenull.",
+        "documents": "Ownlinked44pagebrochure downloaded; encoded/nonstandardembeddedtext crosscheckedvisually onfactspage5andplanpanels. Currentpricegrid,datedcalendar,contractandcharges unavailable publicly in retrievedprimarymaterial."
+      },
+      "community": "Binghatti Wraith",
+      "overview": [
+        "The developer places Wraith in Al Jaddaf, with access to Sheikh Zayed Road, Al Khail Road and Oud Metha. Its main webpage describes apartments with ground-floor retail.",
+        "The brochure includes a three-bedroom layout beyond the webpage’s studio-to-two-bedroom plan menu. Shared facilities and the private pool shown on that particular three-bedroom plan should be assessed separately."
+      ],
+      "locationNote": "Al Jaddaf, Dubai. The official page identifies road connections towards Downtown, Dubai Healthcare City and the airport; these are connections, not guaranteed commuting times or views from each apartment.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "Binghatti’s own project hero showed AED 799,999 on 31 October 2026. Property Finder displays an AED 1.3m launch reference without establishing the same unit basis. Use the developer entry figure as an advertised guide only; verify the exact apartment, price and availability.",
+      "paymentNote": "Property Finder summarises 50% at sales launch and 50% at handover. This is a secondary reference, not a retrieved dated developer calendar. It does not prove that every buyer pays the whole first half immediately. Obtain the current selected-unit offer and signed payment schedule.",
+      "handoverNote": "Property Finder forecasts Q4/December 2027 and gives 1 December in its timeline. This does not establish a current developer contractual date, actual completion or handover readiness. The headline remains unconfirmed until primary selected-unit documentation is available.",
+      "units": [
+        {
+          "label": "Studio · Type01",
+          "area": "36.80 m² / 396.11 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type01",
+          "area": "61.86 m² / 665.86 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · Type02",
+          "area": "70.28 m² / 756.49 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type02",
+          "area": "108.65 m² / 1,169.50 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · Type03",
+          "area": "104.18 m² / 1,121.28 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · Type01 · pool terrace",
+          "area": "239.20 m² / 2,574.73 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch · portal summary",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover · portal summary",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published scheme mix",
+          "value": "855 apartments: 204 studios, 563 one-bedroom, 86 two-bedroom and 2 three-bedroom; plus 34 retail stores. Counts describe the scheme, not available stock.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Building configuration",
+          "value": "Ground + 4 podium levels + 14 residential floors + roof.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "These are representative total-area samples including balconies; no inventory-wide minimum or maximum is asserted. Private pool/terrace belongs to the particular three-bedroom layout shown, not every home. Confirm actual dimensions and final specifications in the sales agreement.",
+        "The webpage plan menu omits three bedrooms, but its own brochure and FAQ include them. Request the selected plan rather than relying on the menu alone.",
+        "Current inventory, unit-specific price, dated instalments, contractual delivery, completion documentation, title/escrow details and service/cooling charges were not independently verified. No visa, tax or investment-return promise is made."
+      ]
+    }
+  }
+}

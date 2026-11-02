@@ -1,0 +1,250 @@
+{
+  "id": "ellington-project-18",
+  "name": "Belmore Residences",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Belmore Residences is Ellington’s apartment development in Mohammed Bin Rashid City. One- to three-bedroom homes, including study layouts, sit above ground-floor retail with recreation spaces distributed across the building.",
+    "areaId": "dubai-mbr-city",
+    "location": "Mohammed Bin Rashid City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1750000,
+    "handover": "Q3 2027 · portal target",
+    "paymentPlan": "70/30 · published reference",
+    "amenities": [
+      "Infinity-edge pool",
+      "Fitness and yoga studios",
+      "Children’s play areas",
+      "Outdoor cinema",
+      "Pet play and wash area",
+      "Flamingo lounge",
+      "Picnic pods"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Floor%20Plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Belmore own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/belmore-residences-mohammed-bin-rashid-city",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Belmore official English brochure · 37 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Belmore official residential and retail plans · 17 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Floor%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "payment",
+          "label": "Belmore official payment sheet · one page",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "amenities",
+          "label": "Belmore official amenities plans · three pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Belmore%20Residences/Project%20assets/Belmore%20Residences%20-%20Amenities%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Belmore launch and delivery guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/belmore-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "construction",
+          "label": "Ellington Belmore dated construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Belmore_Residences&lang=en&projectn=Belmore%20Residences&url=https://ellingtonproperties.ae/?p=49149",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "mbr-price",
+          "label": "Ellington MBR City project price references",
+          "url": "https://mbr-city.ellingtonproperties.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "mbr-price",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "overview": [],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Belmore body and all documents identify Belmore, not Belgrove. Main-page brochure mistakenly links Belgrove; ignored in favour of exact official Belmore assets linked by public microsite.",
+        "location": "Own MBR City location and plan orientation reviewed; portal uses Bukadra. No current operating Metro claim adopted from proposed-station marketing.",
+        "residences": "Own page confirms 1–3BR. All eight residential plan families and four ground-floor retail drawings visually reviewed. Studies remain separate from bedrooms.",
+        "areas": "Official plan pages5–16 visually read at1700px. Printed internal, outdoor and totals kept distinct; rounded0.01 differences not silently recalculated.",
+        "amenities": "Own page facilities and full brochure contact sheet reviewed, including podium/roof concepts. No operational access or surrounding-view guarantee inferred.",
+        "pricing": "Own MBR City page advertises AED 1.75m vs PF1.6m historical launch guide/sold-out. Both qualified; no live unit inferred. Shared MBR page allocation20 of40 for this group.",
+        "payment": "Exact official one-page sheet visually read:20+10+10+5+5+4x5+30=100; completion30 is not post-handover. Dates relative to reservation and construction.",
+        "handover": "PF September2027 is attributed forecast. Own construction gallery has October2026 images but no certified completion or numeric progress adopted.",
+        "documents": "Official 37-page brochure, 17-page plans, one-page payment and three-page amenities reviewed. Own brief link404. Public overlapping document allocation95 words, combined with Belgrove105=200; all8homefamilies retained in groupedrows."
+      },
+      "community": "Mohammed Bin Rashid City",
+      "overview": [],
+      "locationNote": "Mohammed Bin Rashid City, Dubai; Property Finder classifies the project under Bukadra. The developer’s nearby Metro reference is proposed connectivity, not an operating-station assurance.",
+      "priceLabel": "Developer advertised reference · confirm current offer",
+      "priceNote": "Ellington’s MBR City page advertises AED 1.75m; Property Finder retains a different AED 1.6m launch guide and sold-out status. Neither confirms selected-unit availability.",
+      "paymentNote": "Days are measured after reservation. Confirm the applicable agreement.",
+      "handoverNote": "Property Finder targets September2027. Ellington’s construction gallery includes October2026 updates, but no actual completed handover or selected-unit contractual date was verified. The portal target is provisional.",
+      "units": [
+        {
+          "label": "1BR A / B / C",
+          "area": "846.69 / 756.06 / 836.03 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A / B",
+          "area": "1,210.19 / 1,262.28 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + study A / B",
+          "area": "1,334.40 / 1,259.81 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,527.08 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Retail 1 / 2 / 3 / 4",
+          "area": "1,907.36 / 1,409.32 / 967.78 / 1,931.05 ft² internal.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Construction 30/40/50/60%: 5% each",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Minor 0.01 ft² rounding differences are retained.",
+        "The own-page brochure link points to Belgrove, not Belmore; the exact Belmore project-brief link returned404. Neither incorrect nor unavailable document supports facts here.",
+        "Current unit stock, approved annual charges, parking allocation, furnishing inventory, contractual delivery and operating-facility status require confirmation. Images remain illustrative.",
+        "The developer’s legacy Belgrove route redirects to Belmore, but no official rename notice was found. Belmore-labelled documents are used without merging the two records."
+      ]
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "bloom-project-06",
+  "name": "Bloom Living Carmona",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Two- and three-bedroom townhouses in Bloom Living, with private gardens and Mediterranean-inspired architecture.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Townhouse",
+    "bedrooms": "2–3",
+    "price": null,
+    "handover": "Q2 2028",
+    "paymentPlan": "40/60",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Play areas",
+      "Walking/cycling paths"
+    ],
+    "brochureUrl": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+    "floorPlanUrl": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Bloom · Carmona townhouses",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/two-bedrooms-3",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "launch",
+          "label": "Bloom · Carmona launch announcement",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-carmona-the-eighth-phase-of-bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "brochure",
+          "label": "Bloom · Carmona brochure and plans",
+          "url": "https://bloomholding.com/application/files/1117/4037/1962/Carmona_E-Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 140
+        },
+        {
+          "id": "community",
+          "label": "Bloom · community catalogue",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 30
+        },
+        {
+          "id": "secondary",
+          "label": "Rendr · separate Carmona payment reference",
+          "url": "https://rendr.ae/projects/carmona-at-bloom-living",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        }
+      ],
+      "community": "Bloom Living",
+      "overview": [
+        "Carmona is Bloom Living’s eighth phase, planned around two-storey townhouses."
+      ],
+      "locationNote": "Bloom Living, Zayed City, Abu Dhabi.",
+      "priceLabel": "Current quotation required",
+      "priceNote": "The launch guide was AED 1.9 million. Bloom’s catalogue now marks both townhouse types sold out; current resale prices and availability were not verified.",
+      "paymentNote": "Current Carmona pages show 5% booking, 35% construction and 60% handover. Rendr instead reports 5/45/50; confirm the applicable offer and dated instalments.",
+      "handoverNote": "Bloom’s launch announcement estimates Q2 2028; a completion certificate and revised contractual date were not verified.",
+      "units": [
+        {
+          "label": "2BR · 2M",
+          "area": "1,346 ft² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · 2M-1",
+          "area": "1,303 ft² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · 2E",
+          "area": "1,346 ft² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · 3M",
+          "area": "1,636 ft² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · 3E",
+          "area": "1,841 ft² sellable",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Whole-home sellable area; gardens and parking are not added.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Project number",
+          "value": "20250000565374, as displayed by Bloom.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Shared facilities",
+          "value": "Access terms require confirmation.",
+          "sourceIds": [
+            "community"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 35,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 60,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Type 2E prints 1,346 ft², while its rounded floors total 1,345 ft²; confirm the contracted area.",
+        "Current service charges, fees, allocated parking, specifications and dated payment documents require confirmation."
+      ],
+      "fieldSources": {
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "secondary"
+        ],
+        "areaId": [
+          "community"
+        ],
+        "location": [
+          "community"
+        ],
+        "emirate": [
+          "community"
+        ],
+        "amenities": [
+          "community"
+        ],
+        "community": [
+          "community"
+        ],
+        "locationNote": [
+          "community"
+        ],
+        "description": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "brochure"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "handover": [
+          "launch"
+        ],
+        "handoverNote": [
+          "launch"
+        ],
+        "price": [
+          "launch",
+          "community"
+        ],
+        "priceLabel": [
+          "launch",
+          "community"
+        ],
+        "priceNote": [
+          "launch",
+          "community"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "brochure",
+          "developer",
+          "community"
+        ],
+        "unresolved": [
+          "brochure",
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-06/bloom-living-carmona/Bloom owner retained. Own launch and own exact Carmona two/three-bedroom unit pages confirm eighth phase; not Seville or Olvera.",
+        "location": "Own launch places Bloom Living in Zayed City Abu Dhabi; own unit page/footer explicitly Khalifa City C. Exact new central abu-dhabi-zayed-city alias supported; no coordinates or guaranteed travel times.",
+        "residences": "Own original28p brochure allfive whole GF/FF layouts actually viewed14/15/16/19/20:2M,2M-1,2E,3M,3E. Staff rooms not counted as marketed bedrooms. Drawn gardens and two cars not extrapolated to guaranteed allocation.",
+        "areas": "Actual visible sellable totals1346/1303/1346/1636/1841ft2 and125/121/125/152/171m2. Floors743+603=1346;743+560=1303;764+581=1345 versusprinted1346;829+807=1636;958+883=1841. Printedtotal retained, arithmetic caveat public. Distinct Seville2E1335/3E1851 NOT imported; no plot addition or dimension-based invented areas.",
+        "amenities": "Own current Carmona icons and generic master community confirm concise shared pools/gym/clubhouse/play/walkcycle/BBQ. Generic location/amenity/public catalogue derivation30 reserved within shared root85 across06–08, allBloom200 total. Operational/free/exclusive service not promised.",
+        "pricing": "Own launch1.9m historical only; current exact primary unit pages no price. Main community catalogue both Carmona types SoldOut as viewed2Nov2026; no live resale inventory inferred. HeadlinepriceNULL, no historical launch as current quotation or yields/servicefee invention.",
+        "payment": "Current own Carmona2BR and3BR actual HTML5booking35construction60handover=100, headline40/60. Rendr actual5/45/50attributed conflicting secondary snapshot; no arbitraryrebasing/borrowing GranadaII options. Own launch says posthandover options without amounts, not extra20assumed. Originaldatedcalendar genuinely unavailable.",
+        "handover": "Own exact launch Q22028 proposed, Rendr agrees; no completioncertificate found. No generic otherphase Q32027 adoption, no inference elapsed constructionmilestones. Current date needs SPA confirmation.",
+        "documents": "Ordinary own GET200 original Carmona28p5,662,036bytes retrieved, allfive numerical and whole GF/FF layouts actuallyread; all28contactpages inspected, remainingrendersnotfloorplans. Own current primary HTML ordinaryGET200 saved. No dated original paymentPDF exposed after publiclinksearch, forms unsubmitted, no bypass. All related brochure/plans/mirrors/retellings combined allocation140brochure+60duplicatedlaunch=200, conservative public mixed upper133<=200; historical duplicated launch material included in same underlying200 cap, current phase HTML pool160separatecurrentclaims. Generic30 within shared200. Imagesdeferred."
+      }
+    }
+  }
+}

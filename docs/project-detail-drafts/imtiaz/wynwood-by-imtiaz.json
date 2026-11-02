@@ -1,0 +1,309 @@
+{
+  "id": "imtiaz-project-15",
+  "name": "Wynwood by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Wynwood on Dubai Islands offers furnished apartments and duplex homes. A landscaped podium connects shared leisure areas, while selected duplexes extend across upper floors with private terraces.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": null,
+    "handover": "Q3 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Jacuzzi",
+      "Barbecue area",
+      "Reserved VIP parking",
+      "Infinity pool",
+      "Yoga terrace",
+      "Green podium",
+      "Sun deck",
+      "Children’s splash pool",
+      "Whisper Steps courtyard",
+      "EV charging"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wynwood: developer project and FAQ",
+          "url": "https://imtiaz.ae/property/wynwood-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Wynwood: branded 72-page brochure, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "facts",
+          "label": "Wynwood: original 2-page factsheet, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 95
+        },
+        {
+          "id": "plans",
+          "label": "Wynwood: branded 18-page building plans, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "payment",
+          "label": "Wynwood: separate payment calendar, broker-hosted",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/wynwood-by-imtiaz/WYNWOOD_BY_IMTIAZ_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 55
+        },
+        {
+          "id": "portal",
+          "label": "Wynwood: Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/wynwood-by-imtiaz",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 60
+        },
+        {
+          "id": "offer",
+          "label": "Wynwood: attributed broker promotion",
+          "url": "https://www.directdxb.com/projects/imtiaz-wynwood",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer",
+          "facts",
+          "payment",
+          "offer"
+        ],
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "portal"
+        ],
+        "priceLabel": [
+          "developer",
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentNote": [
+          "facts",
+          "payment",
+          "offer"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "units": [
+          "facts"
+        ],
+        "facts": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "plans",
+          "facts"
+        ]
+      },
+      "community": "Dubai Islands",
+      "overview": [
+        "Building plates show duplexes across floors 7–14; paired levels are not separate homes."
+      ],
+      "locationNote": "Dubai Islands, Dubai; verify the selected unit’s orientation.",
+      "priceLabel": "Current unit quotation required",
+      "priceNote": "Property Finder records AED 2,242,863 launch pricing. This does not establish a current unit price.",
+      "paymentNote": "Separate calendar below. Factsheet instead schedules 5% September 2025, 5% December 2025 and 10% April 2026. A broker advertises a 20/80 three-bedroom promotion; confirm applicable terms.",
+      "handoverNote": "Developer and original schedules target Q3 2027. Completion is not confirmed.",
+      "units": [
+        {
+          "label": "1BR minimum",
+          "area": "724 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2BR minimum",
+          "area": "1,273 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "3BR minimum",
+          "area": "1,693 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "3BR duplex minimum",
+          "area": "1,850 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "4BR duplex minimum",
+          "area": "3,550 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking reference",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 February 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 May 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 August 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "15 February 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion: Q3 2027",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original mix",
+          "value": "146 homes: 86 one-bedroom, 45 two-bedroom, 4 three-bedroom; 4 three-bedroom duplexes and 7 four-bedroom duplexes.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Configuration",
+          "value": "G+2P+14+roof.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Website snapshot",
+          "value": "24% overall; 98% substructure; 78% superstructure; 0% MEP; 3% finishing. Undated.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Factsheet areas are minima, not selected-unit measurements. Individual total-area plans, charges, parking allocation and live stock require confirmation. Photography is illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected15 Wynwood Dubai Islands not10 Wynwood Horizon Meydan. Actual72pbrochure/2pfacts/18pbuildingplans/2ppaybrandingallWynwood. No shared Horizon numeric/sourcecopy.",
+        "location": "Own FAQ explicitly Dubai Islands, exact dubai-islands registry. No guaranteed travel times, marina entitlement or coordinates adopted.",
+        "residences": "Own furnished1/2/3apartments andduplex, factsactual5families including3/4duplex. 86+45+4+4+7=146homes. Actualall18buildingpagesread; floor3–6ordinary3BR, floors7–14duplexpairedlevels, no countduplicated by floors. Main brochure2mentionsexclusivepenthouses but no sixthseparatefamilyinvented.",
+        "areas": "Actualfacts1 minimumsize724/1273/1693/1850/3550sqft allfivefamilies visuallyread. Buildingpack18pagesraster actualallread noaggregateindividualareatable. No whole duplexminimum multiplied. DirectDXB anomalous3BR18239–18325sqft incompatibleitsown861–3593copy excluded; not silentlycorrected decimals.",
+        "amenities": "Own11listedamenities plus FAQEVcharging, actualbrochure21/36/37 verified. VIPparkingprojectfeature notallocatedperunit. No specificbrandcontractguarantee or healthclaims; independentPF sports/concierge additions not adopted.",
+        "pricing": "Own no currentquote; PF2242863 launch only. DirectDXB4197900 selected3BR andpromo notwholeprojectlaunch/minimum; headlineNULL. No assumedstock frombroker snapshot.",
+        "payment": "Currentown20booking40completion implies40construction, PF20/40/40 agrees. Actualfacts2original20+5Sep25+5Dec25+10Apr26+10Aug26+5Nov26+5Feb27+40Q327=100. Separateactualpay2 differs20+10Feb26+10May26+10Aug26+5Nov26+5Feb27+40Q327=100. DirectDXB21Oct2026dated3BR20/80promo conflicts broadcurrentoffer; paymentheadlineNULL, tableexplicitseparatecalendar. No inferredrevisionorder.",
+        "handover": "OwnQ32027 andactualbothcalendarsQ32027/PFSeptember2027 agreequarter. No actualcompletionassumed. FreshHTML24overall98sub78super0MEP3finish undated; DirectDXB26Oct6notprimaryinspectiondata, not adopted.",
+        "documents": "OwnordinaryGET200 inquirybuttonsnotbypassed. ExactobservedMitchellslinks72pbroch/2pfacts/18pplans/2ppaymentdownloadedordinary200; brokerkind. Actualfactsbothpages/payment2 andall18buildingplatesread, brochure21/36/37actualvisuals alltextreviewed. Pool200allversions25broch95facts25plans55pay. Genericindex0."
+      }
+    }
+  }
+}

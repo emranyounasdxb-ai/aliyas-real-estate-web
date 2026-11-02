@@ -1,0 +1,221 @@
+{
+  "id": "danube-project-06",
+  "name": "Aspirz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Aspirz combines furnished convertible apartments with separate office accommodation in Dubai Sports City. Residential and business entrances are separated, while shared recreation and work facilities support the building’s mixed-use purpose. Office delivery specifications differ from the furnished homes.",
+    "areaId": "dubai-sports-city",
+    "location": "Dubai Sports City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 879000,
+    "handover": "Q4 2028 · developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pool",
+      "Gym",
+      "Cinema",
+      "Children’s daycare and play area",
+      "Padel and basketball courts",
+      "Business centre",
+      "Podcast studio",
+      "Prayer room",
+      "BBQ area",
+      "Metro shuttle · marketed service"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2025/06/Aspirz_Brochure.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/aspirz/floor-plans",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Danube Aspirz own project page",
+          "url": "https://danubeproperties.com/portfolio/aspirz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official 36-page Aspirz brochure",
+          "url": "https://danubeproperties.com/wp-content/uploads/2025/06/Aspirz_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "plans",
+          "label": "Danube public collateral ZIP · 16-page apartment and 12-page office VER2 plans",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/aspirz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "presentation",
+          "label": "Danube-branded 70-page presentation · Petkovic broker mirror",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2025/06/Aspirz-Danube-Presentation.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "construction",
+          "label": "Danube internal construction report · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/aspirz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Aspirz guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/aspirz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "construction"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "presentation",
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "presentation"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "presentation"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Aspirz Sports City mixeduse; no Sportzprojectimport.",
+        "location": "OwnprojectSportsCity. No guessedcoordinates.",
+        "residences": "Ownpage432apartments/266offices, marketedfurnishedconvertibleapartments, separateentrances. Brochureexplicitoffice shellandcore.",
+        "areas": "OfficialapartmentVER2pages2/4/8/10 andofficeVER2pages2/4/8 visuallyread. Earliertwentytwopagebrokerpackhasdifferentfloorlabels andthreebedlowerarea1315vsnew1313; updatedofficialused.",
+        "amenities": "Ownpagefacilities; brochurecoreversuschargeableservicesdistinguished. No guaranteedoperator/income.",
+        "pricing": "Ownhero879000 versusownFAQ850000 andPFolder850000/later1.1m selectedstock; no blendedcurrentlowestpromise.",
+        "payment": "Fresh31Oct ownlivehero30/70 conflicts presentation70byhandover/30postover30months andPF10/60/30post. No reversal or inventedcurrentcalendar; presentationstagesclearlyscoped.",
+        "handover": "Ownpage/presentationQ42028,PFDecember2028; targetnotactualhandover. Construction11percentdated30Sept2026developerinternal.",
+        "documents": "Official36pbrochure+publicZIPVER2plans,70ppresentationmirror. Pooled200includingoverlap; broker22poldplansonlycomparisonnotadditionalderivation."
+      },
+      "community": "Dubai Sports City",
+      "overview": [
+        "The developer lists 432 apartments and 266 offices. Its internal 30 September 2026 update reports 11% progress, completed shoring and piling, and substructure works underway; this is a dated developer report."
+      ],
+      "locationNote": "Dubai Sports City, with access to surrounding road connections. Journey times depend on route and traffic; no walking-distance guarantee is adopted.",
+      "priceLabel": "Developer guide · reconfirm",
+      "priceNote": "The page headline is AED 879,000, while its FAQ retains AED 850,000. Property Finder also carries older launch pricing and a different selected-stock price. Obtain a unit-specific current quote.",
+      "paymentNote": "The developer’s live hero advertises 30/70 without a dated stage breakdown. The presentation separately allocates 70% by handover and 30% over 30 post-handover months, at 1% monthly; Property Finder summarises 10/60/30. The displayed stages are the presentation reference only. These different offers do not establish one current unit-specific contract.",
+      "handoverNote": "Q4 2028 is the developer’s target, not confirmation of completed works or handover.",
+      "units": [
+        {
+          "label": "Flex Studio A · VER2",
+          "area": "389 ft² total / 322 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom · VER2",
+          "area": "473–496 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom · VER2",
+          "area": "849 ft² total / 683 ft² apartment",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Flex Plus 3-bedroom · VER2",
+          "area": "1,313–1,327 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Standard office A",
+          "area": "349–381 ft² office",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Executive office A",
+          "area": "624 ft² office",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Premier office C",
+          "area": "794–801 ft² office",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "By handover · presentation summary",
+          "percent": 70,
+          "sourceIds": [
+            "presentation"
+          ]
+        },
+        {
+          "stage": "30 months after handover · presentation",
+          "percent": 30,
+          "sourceIds": [
+            "presentation"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Offices are shell-and-core; furniture is illustrative. Some brochure services are chargeable. Confirm the selected residence’s furniture, service-charge budget and operator terms.",
+        "Earlier presentation floor allocations differ from official VER2 plans; use the executed drawing. Convertible rooms do not automatically change the legal bedroom count.",
+        "Current stock, exact payment milestones, parking allocation, title and completion certificate remain unverified. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

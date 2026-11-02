@@ -1,0 +1,252 @@
+{
+  "id": "samana-project-17",
+  "name": "SAMANA Rome",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Rome offers one- and two-bedroom apartments in Meydan. Published layouts include balconies, pools and storage or laundry spaces; confirm the selected apartment specification.",
+    "areaId": "dubai-meydan",
+    "location": "Meydan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 2026316,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Leisure pool deck",
+      "Fitness centre",
+      "Rooftop jogging park",
+      "Rooftop basketball court",
+      "Sauna and steam room",
+      "Kids’ area",
+      "Outdoor cinema"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/40/fdaabec791565a3fd1282ef2e8b5221a.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/samana-rome/SAMANA_ROME_FLOOR_PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Rome · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-rome",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "SAMANA Rome official brochure · 36 pages",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/40/fdaabec791565a3fd1282ef2e8b5221a.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "SAMANA Rome branded floor plates · broker-hosted, 4 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-rome/SAMANA_ROME_FLOOR_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "facts",
+          "label": "SAMANA Rome branded factsheet · broker-hosted, 2 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-rome/SAMANA_ROME_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder · Rome by Samana project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/samana-developers/samana-rome",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "community": "Meydan",
+      "locationNote": "Meydan, within the MBR City and Nad Al Sheba corridor described by the developer.",
+      "overview": [
+        "The published floor plates distinguish one-bedroom layouts and two two-bedroom types across floors one to five. No aggregate area schedule accompanies these drawings."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The current developer headline and structured offer show AED 2,026,316; its FAQ rounds this to AED 2m. Confirm a current unit quotation.",
+      "handoverNote": "Developer FAQ: Q4 2028. Property Finder: December 2027. These conflicting targets do not establish completed handover.",
+      "paymentNote": "PDC and non-PDC monthly options each total 100%. Non-PDC substitutes 20% booking and 19 final monthly payments. A separate 50/50 option is also advertised. Confirm contractual eligibility.",
+      "units": [
+        {
+          "label": "1BR + pool",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans",
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + pool · Type 1",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans",
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR + pool · Type 2",
+          "area": "Aggregate area not stated.",
+          "sourceIds": [
+            "plans",
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "36 monthly payments × 1%",
+          "percent": 36,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month nine payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 15 payment",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Additional month 21 payment",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "24 further monthly payments × 1%",
+          "percent": 24,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Alternative 50/50 option",
+          "value": "15% booking + 5% in month four + 10% in months eight, 15 and 21 + 50% on handover.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The portal narrative includes a three-bedroom example, but the developer and reviewed drawings support one- and two-bedroom homes only.",
+        "Approved areas, current inventory, final pool provision, service charges, reserved parking and signed payment or handover amendments remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer"
+        ],
+        "paymentStages": [
+          "developer"
+        ],
+        "facts": [
+          "developer"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "units": [
+          "plans",
+          "brochure"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "handoverNote": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "unresolved": [
+          "finder",
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANARome17 originalrecord, notRome2/Rome3 separatephases. Own36pbrochure andactual4pfloorplates distinctlyoriginal5floorbuilding, no24/50+familiesfromlaterphase.",
+        "location": "Own FAQ says Meydan within the MBR City and Nad Al Sheba corridor. Exact central registry dubai-meydan/name Meydan now verified by root; no silent mapping to District 11. No invented coordinates.",
+        "residences": "OwnFAQ1/2BRselectedpool. Actualown36brochure34/35fullplansread1bed/2bedwithpool; actualbroker4p2/3floorplatesread1BR,2BRType1/2. Store/laundrynotbedroom. PF3BRnarrativeunsupportedprimaryexcluded/publiccaveat. No currentunitcountassumed.",
+        "areas": "Ownunitdrawingsandbothfloorplatesactualfullvisualread1700px showfurniture/labelsbutnoaggregateareas. NoPF850/1400/2000roundnumbersasapprovedranges. No geometrymeasurementsinvented. Threefamilyrowsretainabsence.",
+        "amenities": "OwncurrentFAQ leisuredeck/fitness/roofjogging/basketball/saunasteam/kids/cinema. Brandedbrochurecorroboratespool/fitness, notpublicpoolguaranteeallunits. No ROI/healthclaim/furniture/parkinginvented.",
+        "pricing": "OwnvisibleheadlineOffer2026316; FAQ2mrounding, currentadvertisedreferencequalifiednotavailableunitquotation. PF2.1mlaunchdifferentbasisnotnewprice.",
+        "payment": "OwncurrentPDC15+36+10+10+5+24=100;non20+36+10+10+5+19=100;alternate50/5015+5+10+10+10+50=100. PF75/25aggregatealternativequalifiesheaderNULL. No originalstandalonepaymentPDFfound, primaryHTMLuseddirectly. Nomonthstartdateinvented.",
+        "handover": "OwncurrentQ42028vsPFDecember2027, headernull. No inferredcompletedhandover/currentprogressfromold9%October2025.",
+        "documents": "Own36brochureordinaryGET200exactJSONLDlink; broker4plans/2factsactualpubliclinks200. Actualtwoindividualplansandtwofullfloorplatesviewed; numericareasabsentnotOCRloss. SamephasePDFpool20090brochure110plans,facts0. Actualpublicderivedunder130. Own200paymentcommercialcopycurrentHTMLverified,nogenericindexuse."
+      }
+    }
+  }
+}

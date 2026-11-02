@@ -1,0 +1,362 @@
+{
+  "id": "mag-project-02",
+  "name": "Keturah Reserve",
+  "developerSlug": "mag",
+  "fields": {
+    "description": "Keturah Reserve brings apartments, multilevel townhomes and villa plots to Meydan’s District 7. Its landscape-led masterplan combines private homes with shared leisure spaces; individual buildings and releases require separate specifications.",
+    "areaId": "dubai-mbr-city-district-7",
+    "location": "Mohammed Bin Rashid City District 7",
+    "emirate": "Dubai",
+    "type": null,
+    "bedrooms": "1–5",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Planned shared pools",
+      "Planned gym",
+      "Planned padel courts",
+      "Planned yoga spaces",
+      "Planned children’s play area",
+      "Planned coworking spaces",
+      "Planned cinema"
+    ],
+    "brochureUrl": "https://citiway.com/wp-content/uploads/2017/10/Keturah-Reserve-Townhouses_Brochure.pdf",
+    "floorPlanUrl": "https://www.newlaunchproperties.ae/property-list/6479a74bc3301_sw_keturah-reserve-floor-plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reserve: current Keturah project page",
+          "url": "https://keturah.global/reserve/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "legacy",
+          "label": "Reserve: linked project microsite",
+          "url": "https://www.keturahreserve.com/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "apartments",
+          "label": "Reserve: apartment category",
+          "url": "https://www.keturahreserve.com/apartments.html",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        },
+        {
+          "id": "townplans",
+          "label": "Reserve: original townhouse plans, broker mirror",
+          "url": "https://multaqare.ae/wp-content/uploads/2022/12/keturah-reserve-fp.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "apartmentplans",
+          "label": "Reserve: original apartment plans, broker mirror",
+          "url": "https://www.newlaunchproperties.ae/property-list/6479a74bc3301_sw_keturah-reserve-floor-plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 105
+        },
+        {
+          "id": "brochure",
+          "label": "Reserve: earlier townhouse brochure, broker mirror",
+          "url": "https://citiway.com/wp-content/uploads/2017/10/Keturah-Reserve-Townhouses_Brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "launch",
+          "label": "MAG: 29 November 2022 launch announcement",
+          "url": "https://www.prnewswire.com/ae/news-releases/mag-unveils-aed-3-billion-keturah-reserve-at-meydan-dubai-301688778.html",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "pf",
+          "label": "Reserve: Property Finder project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/mag-property-development/mag-keturah-reserve",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "legacy",
+          "apartments"
+        ],
+        "priceLabel": [
+          "legacy",
+          "apartments"
+        ],
+        "priceNote": [
+          "legacy",
+          "apartments"
+        ],
+        "paymentPlan": [
+          "developer",
+          "legacy"
+        ],
+        "paymentNote": [
+          "developer",
+          "legacy"
+        ],
+        "paymentStages": [
+          "developer",
+          "legacy"
+        ],
+        "handover": [
+          "launch",
+          "pf"
+        ],
+        "handoverNote": [
+          "launch",
+          "pf"
+        ],
+        "units": [
+          "townplans",
+          "apartmentplans",
+          "brochure",
+          "developer",
+          "apartments"
+        ],
+        "facts": [
+          "townplans",
+          "apartmentplans",
+          "brochure",
+          "developer",
+          "apartments"
+        ],
+        "unresolved": [
+          "townplans",
+          "apartmentplans",
+          "brochure",
+          "developer",
+          "apartments"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "apartmentplans"
+        ]
+      },
+      "community": "Mohammed Bin Rashid City District 7",
+      "overview": [
+        "Apartments, multilevel townhomes and villa plots belong to distinct releases; confirm the building and approved plan before comparing homes."
+      ],
+      "locationNote": "District 7, Meydan, within Mohammed Bin Rashid City.",
+      "priceLabel": "Release-specific quotation required",
+      "priceNote": "The linked microsite advertises AED 3.8m overall, AED 2.7m apartments and AED 8.588m townhouses without a dated offer. These are published references, not verified current availability.",
+      "paymentNote": "Current corporate schedule below totals 100%. The linked microsite instead displays 40/60; obtain the unit-specific signed schedule.",
+      "handoverNote": "MAG’s November 2022 launch targeted Q2 2025; Property Finder now indicates June 2027. Neither establishes actual completion or a universal release date.",
+      "units": [
+        {
+          "label": "4BR rowhouse · total BUA",
+          "area": "5,462.68 ft² / 507.50 m²",
+          "sourceIds": [
+            "townplans",
+            "developer"
+          ]
+        },
+        {
+          "label": "4BR back-to-back · total BUA",
+          "area": "5,883.55 ft² / 546.60 m²",
+          "sourceIds": [
+            "townplans",
+            "developer"
+          ]
+        },
+        {
+          "label": "5BR rowhouse · total BUA",
+          "area": "9,509.91 ft² / 883.50 m²",
+          "sourceIds": [
+            "townplans",
+            "developer"
+          ]
+        },
+        {
+          "label": "2BR A1 · printed table",
+          "area": "2,319.51 ft² / 215.49 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "2BR A2 · printed table",
+          "area": "2,138.25 ft² / 198.65 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "2BR B · printed table",
+          "area": "2,234.59 ft² / 207.60 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "2BR C · printed table",
+          "area": "1,620.18 ft² / 150.52 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "3BR · printed table",
+          "area": "2,872.56 ft² / 266.87 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "4BR penthouse · MU09/10; MU11/12",
+          "area": "3,963.70; 4,287.58 ft² / 368.24; 398.33 m²",
+          "sourceIds": [
+            "apartmentplans"
+          ]
+        },
+        {
+          "label": "1BR apartments",
+          "area": "Plan-specific total unverified",
+          "sourceIds": [
+            "apartments"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Reservation",
+          "percent": 15,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "After 30 days",
+          "percent": 5,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "After 150 days",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "After 370 days",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "After 540 days",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "After 700 days",
+          "percent": 10,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published masterplan",
+          "value": "476 apartments, 124 townhomes and 69 villa plots; not available stock.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Townhome plots",
+          "value": "4BR: 240 m²; 5BR: 390 m².",
+          "sourceIds": [
+            "townplans"
+          ]
+        },
+        {
+          "label": "Townhome configuration",
+          "value": "G+2+roof, private lift and two-car parking.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Apartment-pack cover/maps say MU09/10, while 2BR/3BR area tables say MU11/12. Values are retained as printed, not reassigned. The penthouse table distinguishes all four buildings; its MU11/12 components exceed the printed total by 0.01 ft².",
+        "Earlier brochure: 548 apartments/71 plots; 4BR rowhouse 5,307.02 ft² and 5BR 8,892.86 ft². Its 5BR components total 852.49 m² versus 826.17 printed, with an inconsistent first-floor conversion. Do not substitute these for the separate plans.",
+        "Confirm current release inventory, apartment parking, furnishing specification, service charges and villa-plot construction obligations. No completion certificate or current contractual quotation was verified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected mag-project-02 Keturah Reserve; distinct from Ardh and Creekside Resort. Whole community includes apartment/townhouse/plots, so type null rather than wrong single category. Existing bedrooms1–5 describes verified apartment1–4 and townhome4/5, not6bedvilla assumption.",
+        "location": "Current own corporate explicitly Mohammed Bin Rashid City District7(Meydan). Exact parent-added registry dubai-mbr-city-district-7. No AlQuoz2 portal alias, coordinates or guaranteed drive times inferred.",
+        "residences": "Own corporate180onebed+272twobed+16threebed+8fourbed=476 apartments;83row4bed+31back4bed+10fivebed=124townhomes;69villa plots. Earlier actual brochure17 instead548apts71plots and93townhomes; disclosed version conflict, no aggregate available inventory. Later MU01/02 portal release not conflated with original MU09–12.",
+        "areas": "Visually read full townhouse plans1/14/26 allfourlevels+plantroom:507.50/546.60/883.50sqm totals,plots240/240/390sqm. Original apartment12pactual4–12allninepanels fullyread <=1700px: A1right/left215.49,A2198.65,B207.60,Cleft/right150.52,3BRleft/right266.87,penthouse368.24/398.33. Cover/maps/count headings MU09/10 but2/3BRtableheadersMU11/12 conflict explicitly preserved. Penthouse3497.30+790.29=4287.59 vsprinted4287.58. No multiplication byfloor count. OwnapartmentPNG labels2bed butnoaggregate area,1BRplan notfound. Earlier brochure44/57actualread olderareas;5bed280.41+180.60+240.83+150.65=852.49 vs826.17;firstfloor180.60sqm vs1660.60ft2wrong. Currenttownplansfivecomponents sum883.50sqm/9509.91ft2.",
+        "amenities": "Own Reserve corporate programme checked:plannedsharedpools,gym,padel,yoga,kidsplay,coworking,cinema. Townhouseprivatepool/lift/twocar source scoped onlytowns. No medicaloutcome/circadianhealth/guaranteedvisaprivilege adopted. PrimarylinkedMAGresidences saysfullyfurnished but release-specific current contractual inclusion unavailable; confirm rather than claim entirecommunity.",
+        "pricing": "Primarylinked microsite main3.8m versusapartmentcategory2.7m andtown8.588m un-dated. Currentquotation/inventory unavailable, headline null. No floorplanprice extrapolation, resaleaskingprice orunsourced servicecharge adopted.",
+        "payment": "Own currentcorporate15+5+10+10+10+10+40=100; after30/150/370/540/700days. Linkedmicrosite visible40construction60handover differs, headline null. HiddencommentedoldposthandoverHTML nottreatedcurrent. PFsecondary alternative10+30+10+50 andFAQ20+40+40 differ; notmerged. No own signed dated paymentPDF publicly accessible, no leadform submitted.",
+        "handover": "MAG29November2022 ownannouncement Q22025 forecast elapsed, PF30June2027 forecast differs. No originalcurrentunitcontract/BCC verified, headline null rather than completionassumption. Secondary newer MU01/02different2028target not universalcommunitydate. No broker constructionpercentage promoted as primary.",
+        "documents": "Primary corporate/microsite retrieved200; downloadbuttonsleadforms notsubmitted. Ordinarypublic brandedbroker30ptownplans,74pbrochure,12papartmentplans retrieved200 andrenderedactualnumerics. Public mirrored apartmentbrochure attempts timeout/403; no bypass. UniquezoneallegedaptPDF actually21pvillaplotguidelines cached, excludedmisidentifieddocument. Genericcorporateindex0. Alloverlappingbrochure/plans/versionpublicderivations combined200allocation town45+apartment105+oldbrochure50; primarycorporate200/main100/category25/launch35/PF45separate."
+      }
+    }
+  }
+}

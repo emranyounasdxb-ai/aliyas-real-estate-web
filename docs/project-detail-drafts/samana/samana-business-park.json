@@ -1,0 +1,227 @@
+{
+  "id": "samana-project-11",
+  "name": "SAMANA Business Park",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Business Park brings offices and retail premises to Majan. The published plans place retail on the ground and first floors, with offices on floors two to eight. This is a commercial project, separate from Business Park 2.",
+    "areaId": "dubai-majan",
+    "location": "Majan",
+    "emirate": "Dubai",
+    "type": "Office",
+    "bedrooms": null,
+    "price": 2300000,
+    "handover": "Q3 2028 · developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Breakout zones",
+      "Open-air terraces",
+      "Wellness and recreation facilities",
+      "Retail and dining outlets",
+      "Managed access"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a2e0543e6.pdf",
+    "floorPlanUrl": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a3046a251.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Business Park · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-business-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Business Park official brochure · 20 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a2e0543e6.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "facts",
+          "label": "Business Park official factsheet · 2 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a2f85f447.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Business Park official floor plans · 11 pages",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a3046a251.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "payment",
+          "label": "Business Park official payment options · 1 page",
+          "url": "https://www.samanadevelopers.com/storage/project-assets/assets/2026/01/28/09/47/6979a30ebdf56.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Majan",
+      "locationNote": "Majan, Dubailand, near Sheikh Mohammed bin Zayed Road.",
+      "overview": [
+        "The published floor plates show terraces and shared toilets; these are building layouts, not measured individual-unit area schedules."
+      ],
+      "priceLabel": "Developer advertised office starting price",
+      "priceNote": "The developer advertises offices from AED 2.3m. This does not establish a retail starting price or confirm a particular unit is available.",
+      "handoverNote": "Q3 2028 is the developer’s anticipated handover target, not evidence of completion.",
+      "paymentNote": "PDC: 15% booking, 36 monthly payments of 1%, additional 10%/5%/5% in months 12/18/24, then 58 monthly payments of 0.5%. Non-PDC: 20% booking, the same first-stage payments, then 48 monthly payments of 0.5%. Each totals 100%; confirm the dated contract.",
+      "units": [
+        {
+          "label": "Offices",
+          "area": "From 598 ft² · developer FAQ; area basis not specified.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Retail",
+          "area": "From 552 ft² · developer FAQ; area basis not specified.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking",
+          "percent": 15,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "36 monthly payments × 1%",
+          "percent": 36,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 12 payment",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 18 payment",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 24 payment",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "58 monthly payments × 0.5%",
+          "percent": 29,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The floor-plan legend repeatedly says “Retail type” even on office levels. No individual-unit area table is printed; use the developer’s FAQ minima only as indicative references.",
+        "Current inventory, fit-out delivery specifications, parking allocation, service charges and unit-specific contractual dates remain unverified."
+      ],
+      "fieldSources": {
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "handoverNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "units": [
+          "developer"
+        ],
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [],
+        "unresolved": [
+          "plans",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected SAMANA Business Park 11. Own page and actual official project-assets four documents explicitly Business Park, not separately marketed Business Park2. Current mixed-use means offices/retail, not residences; bedrooms null, Office existing filter category.",
+        "location": "Own current FAQ Majan,Dubailand directE311, officialfacts2 actualmap corroborates. Exact registry dubai-majan; no assumedcoords/travel promises.",
+        "residences": "Own commercial offices/retail. Actual allninefullfloorplates2–10 read: ground/first retail; second–eighth office, terraces/sharedtoilets and firstflooramenityspace. No residentialtypes/bedrooms inferred from genericcommunityfactsheet residential language. No register103count imported withoutownsource.",
+        "areas": "OwnFAQ officesfrom598sqft,retailfrom552sqft. Allnineactualfloorplates no numericarea panels; unitIDs notareas. Buildingfloorplates notindividualsaleableplan; no maxima/BUA/servicecharge assumed. Repeated RetailTypelegend atofficelevels is source labeling error disclosed. Sourcefiles dimensions not measured fromdrawings.",
+        "amenities": "OwnFAQ smartworkspaces/breakout/openairterraces/wellness/retaildining/managedaccess; publiclist scopedaccordingly. Actualfacts2 sayscommunityparking/greenspaces, not reservedunitspaces. No promiseROI/highfootfall frommarketingfacts.",
+        "pricing": "OwnFAQ explicitly officesfrom2.3m, headline2300000 qualifiedofficeadvertisedreference, notretailpriceoravailableunitquote. Brokerlistings/transactions not substituted forcurrentquote.",
+        "payment": "OwncurrentHTML andactualofficialonepagePDF agree: PDC15+36+10+5+5+29=100,nonPDC20+36+10+5+5+24=100. Additionalmonth12/18/24instalments separate fromregular1%. Brochure8yearsheadlineapproximation notexact96monthlypayments:94PDC/84nonPDCmonthlyinstalments. Startdates notprovided; noassumeddatedschedule or70/30handoverballoon.",
+        "handover": "Own currentFAQ anticipatedQ32028; no actualcompletion or recentindependentconstructioncertificate. Secondaryprojectaggregatorprogress/registrydates not imported ascurrentprimaryverification.",
+        "documents": "Ordinarypublicownproject-assets exactlinks downloaded200: brochure20p,facts2p,plans11p,payment1p. Actualfactsbothpages,ninefloorplates andpaymentfullpanel visuallyread. No forms/gates. SameprojectallPDFpool200 allocated30brochure+70plans+100payment; facts0corroboration. PublicPDF-derived copy conservativelyunder160; currentcommercialFAQ ownindependent200. Genericproject-assetslocator0."
+      }
+    }
+  }
+}

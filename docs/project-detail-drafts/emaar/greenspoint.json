@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-21","name":"Greenspoint","developerSlug":"emaar",
+ "fields":{
+  "description":"Greenspoint is a gated townhouse neighbourhood in Emaar South, with three and four bedroom homes arranged in groups of four. Its outdoor spaces encourage an active routine: cycling paths, a looped jogging track, playgrounds and gardens sit alongside places to swim and gather. The homes pair contemporary façades with earthy colours and wood-inspired interiors.",
+  "areaId":"dubai-south","location":"Dubai South","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":3360000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Swimming pool","Adventure playgrounds","Outdoor fitness areas","Sports court","Cycling trail","Jogging track","Community and themed gardens","Event lawn"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/398425_brochure_File_fbffb6d51f_prod.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Greenspoint_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Greenspoint at Emaar South","url":"https://www.emaar.com/en/properties/greenspoint-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"brochure","label":"Emaar: Greenspoint brochure","url":"https://www.emaar.com/cms-media/uploads/398425_brochure_File_fbffb6d51f_prod.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: Greenspoint Lana and Ada floor plans","url":"https://www.emaar.com/cms-media/uploads/Greenspoint_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"facts","label":"Greenspoint launch fact sheet · Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/02/Emaar-Greenspoint-Factsheet.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Greenspoint launch payment plan · Petkovic-hosted copy","url":"https://petkovicproperties.com/wp-content/uploads/2025/02/Emaar-Greenspoint-Payment-Plan.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Greenspoint completion and payment terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenspoint","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official"],"amenities":["brochure"],"price":["official"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Greenspoint project and documents reviewed; separate Greenspoint Phase 2 portal prices not imported.",
+    "location":"Emaar South within Dubai South; brochure map and access context reviewed without promising travel times.",
+    "residences":"Three and four bedroom townhouses, Lana and Ada, arranged in four-plex blocks. Portal apartment descriptions rejected.",
+    "areas":"All nine official plan pages read; Lana and Ada four bedroom drawings visually checked. Total areas include garage and balcony/terrace; fact-sheet plot averages kept separate.",
+    "amenities":"Project activity, garden and swimming facilities verified against brochure pages 9–11. Wider golf, school and retail context separately identified.",
+    "pricing":"Official AED 3,360,000 advertised price used. Historical four-bedroom launch price separately attributed; no current stock claim.",
+    "payment":"Emaar-branded payment PDF on broker domain read and visually checked. Nine stages sum to 100%; PF independently corroborates 10/70/20.",
+    "handover":"March 2029 estimated construction completion agrees with PF; reported, not guaranteed.",
+    "documents":"Official 22-page brochure and nine-page plans linked; separate copied launch fact/payment sheets attributed. Images unchanged."
+   },
+   "community":"Emaar South",
+   "overview":["Greenspoint’s paths connect recreation spaces rather than treating them as isolated amenities. The brochure describes a cycling route continuing through three neighbouring communities, alongside a local jogging loop, gardens and a sports court. Emaar South’s golf, retail, education and wellness facilities form the broader setting; their availability and access terms should be checked separately."],
+   "locationNote":"Greenspoint sits within Emaar South in Dubai South. Al Maktoum International Airport and Expo City Dubai are key nearby destinations in the developer’s location material. Published driving times are indicative and will vary with the route and traffic.",
+   "priceLabel":"Advertised from",
+   "priceNote":"Emaar advertises Greenspoint from AED 3,360,000. The figure is a starting headline, not a live unit quotation. Confirm the selected home, release and applicable charges before relying on it.",
+   "paymentNote":"This is the February 2025 launch schedule: 10% at booking, seven 10% instalments and 20% at estimated completion. Dates already passed remain historical; a new purchase requires its own current payment agreement.",
+   "handoverNote":"The copied Emaar payment sheet targets March 2029 for estimated construction completion. Property Finder reports the same month. Neither replaces the contractual handover provisions.",
+   "units":[
+    {"label":"3 bedrooms · Lana","area":"2,417.79 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Lana","area":"2,708.41 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Ada","area":"2,450.40 sq ft total area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Ada","area":"2,766.86 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · February 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2026 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The launch sheet identifies 196 homes: 98 with three bedrooms and 98 with four. These are launch totals, not available inventory.","sourceIds":["facts"]},
+    {"label":"Plot and price context","value":"The launch sheet gives average plots of 1,882 sq ft for three bedroom homes and 3,236 sq ft for four bedroom homes. Historical starting prices were AED 3.36 million and AED 3.86 million respectively. A plot average is not the built-up area.","sourceIds":["facts"]},
+    {"label":"Four bedroom arrangement","value":"Both Lana and Ada plans place a guest bedroom, living and dining spaces downstairs, with three bedrooms upstairs. Maid’s accommodation, laundry and a carport are labelled. End homes and internal three bedroom homes occupy different positions within each four-home block.","sourceIds":["plans"]},
+    {"label":"How areas are measured","value":"The plan’s total combines suite, garage and balcony/terrace areas. It should not be compared directly with internal living space or plot size.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current availability, exact unit/plot dimensions, selected release and final price.","Updated payment agreement, construction progress and contractual handover.","Service charges, final finish specifications and parking allocation.","Opening dates and access conditions for wider Emaar South amenities.","Official project photography is deferred; existing images remain illustrative."]
+  }
+ }
+}

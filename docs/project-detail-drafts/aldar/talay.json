@@ -1,0 +1,235 @@
+{
+  "id": "aldar-project-02",
+  "name": "Talay",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "Talay is the 167-villa neighbourhood at the heart of Marsa Al Saadiyat. Its four- to six-bedroom homes pair private gardens with a network of shared green spaces. The separate Talay Beach collection has its own sizes and delivery target.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 13500000,
+    "handover": "Q4 2029 · estimated",
+    "paymentPlan": "50/50 launch plan",
+    "amenities": [
+      "Community and children's pools",
+      "Gym",
+      "Cycling and jogging routes",
+      "Children's discovery garden",
+      "Picnic spaces",
+      "Outdoor majlis",
+      "Landscaped corridors",
+      "Aflaj water feature"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_FACTSHEET.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Talay and Talay Beach",
+          "url": "https://www.aldar.com/properties/en/talay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "launch",
+          "label": "Aldar launch announcement, 17 September 2026, ADX",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5491867",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Talay fact sheet, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Aldar Talay and Talay Beach plans, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "impala",
+          "label": "Impala: Talay launch schedule and pricing",
+          "url": "https://www.impalarealestate.com/marsa-al-saadiyat/talay/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "facts",
+          "impala"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ],
+        "paymentPlan": [
+          "facts",
+          "impala"
+        ],
+        "handover": [
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "167-home Talay separated from 184-home Talay Beach.",
+        "location": "Marsa Al Saadiyat confirmed by official announcement and landing page.",
+        "residences": "Own four/five/six-bedroom villa drawings checked.",
+        "areas": "All six phase-labelled area panels visually checked; only three Talay rows used here.",
+        "amenities": "Official shared amenities reviewed; phase-specific courts not assumed for Talay.",
+        "pricing": "13.5m fact-sheet starting price and broker bedroom prices attributed as launch references.",
+        "payment": "50/50 document structure corroborated; dated instalments attributed to Impala and sum to 100%.",
+        "handover": "Fact sheet visually confirms Talay Q4 2029, distinct from Beach Q4 2030.",
+        "documents": "Public broker-hosted Aldar fact sheet and nine-page plans inspected and linked; full signed specifications absent."
+      },
+      "community": "Talay · Marsa Al Saadiyat",
+      "overview": [
+        "Aldar's first Marsa Al Saadiyat release uses landscaped paths, shaded gathering spaces and water channels inspired by local irrigation traditions. Artist Abdalla Almulla contributes architectural details and a fountain. The wider destination includes planned cultural, education and waterfront infrastructure; those facilities have separate delivery programmes."
+      ],
+      "locationNote": "The villas sit within Marsa Al Saadiyat on Saadiyat Island. Confirm the exact plot, beach access route and opening dates of announced schools and transport links.",
+      "priceLabel": "Launch starting price · reconfirm",
+      "priceNote": "The Aldar fact sheet quotes AED 13.5m. Impala's launch breakdown lists five-bedroom homes from AED 15.5m and six-bedroom homes from AED 17.2m. These are historical launch references, not a current stock quotation.",
+      "paymentNote": "The fact sheet states 50/50. The detailed dates below are reported by Impala from its launch pack; January and June 2029 have no confirmed day of month. Obtain the current contractual schedule.",
+      "handoverNote": "The reviewed fact sheet estimates handovers commencing Q4 2029 for Talay. Individual delivery and possession conditions remain subject to the sale agreement.",
+      "units": [
+        {
+          "label": "4-bedroom Talay villa",
+          "area": "502 sq m GSA; 738 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom Talay villa",
+          "area": "582 sq m GSA; 841 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "6-bedroom Talay villa",
+          "area": "630 sq m GSA; 883 sq m average plot",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking",
+          "percent": 5,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "1 March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "1 September 2027",
+          "percent": 5,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "1 March 2028",
+          "percent": 5,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "1 August 2028",
+          "percent": 10,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "January 2029 · exact day unconfirmed",
+          "percent": 10,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "June 2029 · exact day unconfirmed",
+          "percent": 10,
+          "sourceIds": [
+            "impala"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "impala"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "GSA is the document's gross saleable area. Plot figures are averages, separate from floor area; selected plot boundaries and contract measurements may differ.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Reported launch mix",
+          "value": "Impala records 60 four-bedroom, 49 five-bedroom and 58 six-bedroom homes, totalling 167. This is a launch mix, not available inventory.",
+          "sourceIds": [
+            "impala"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current stock, individual price, plot orientation, charges and final finish options require confirmation.",
+        "Confirm access terms and opening dates for wider destination amenities.",
+        "Full developer-issued payment document was not publicly retrieved; dated stages remain broker-attributed.",
+        "Do not use Talay's handover or payment dates for Talay Beach; photography remains illustrative."
+      ]
+    }
+  }
+}

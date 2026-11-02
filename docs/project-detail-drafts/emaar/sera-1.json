@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-37","name":"Sera 1","developerSlug":"emaar",
+ "fields":{
+  "description":"Sera 1 is a residential collection at Rashid Yachts & Marina, combining one to three bedroom apartments with three bedroom townhouses. Its setting brings landscaped water gardens and leisure terraces close to the marina promenade. The architecture uses sand-toned surfaces, reflective glazing and champagne-coloured accents.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":2100000,"handover":"Q4 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Water garden","Leisure pool","Gym facilities","Yoga decks","Children’s play areas","Paddle court as described in brochure","Basketball court","Recreational lawn","BBQ area","Amphitheatre","Multipurpose rooms","Retail and marina promenade setting"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/SERA-1-SERA-2_brochure.pdf","floorPlanUrl":"https://reelly-backend.s3.amazonaws.com/project_files/868f4fcab36a45eb9bc8bf1dcbb3e4e0.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Sera 1 at Rashid Yachts & Marina","url":"https://www.emaar.com/en/properties/sera-1-at-rashid-yachts-marinasera-1-at-rashid-yachts-and-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Sera 1 brochure · shared filename","url":"https://www.emaar.com/cms-media/uploads/SERA-1-SERA-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Sera 1 branded floor-plan pack · Reelly file linked by Kleros","url":"https://reelly-backend.s3.amazonaws.com/project_files/868f4fcab36a45eb9bc8bf1dcbb3e4e0.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plan-crosscheck","label":"Propjunction: Sera 1 layout schedule","url":"https://www.propjunction.ae/projects/sera-at-rashid-yacht-and-marina-floor-plan","kind":"broker","checkedOn":"2026-10-31","derivedWords":45},
+    {"id":"payment","label":"Sera 1 payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/sera-1-sera-2/SERA1_RYM_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Sera 1 completion and payment split","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/sera-by-emaar","kind":"portal","checkedOn":"2026-10-31","derivedWords":45},
+    {"id":"registry-report","label":"Mitchell’s: Sera 1 dated registry report","url":"https://www.mitchellscommercialrealty.com/off-plan/sera-1","kind":"broker","checkedOn":"2026-10-31","derivedWords":90}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","brochure"],"price":["official"],"units":["plans","plan-crosscheck"],"documents":["official","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Sera 1 official page and Sera 1-branded brochure confirmed independently of Sera 2.",
+    "location":"Rashid Yachts & Marina, water-garden and promenade context verified in official brochure map.",
+    "residences":"Apartments and three bedroom townhouses confirmed in official page and Sera 1 plans.",
+    "areas":"Official download rejected: visually identified as Sera 2 Building B. Separately obtained Sera 1 pack has 53 pages; read all numeric schedules and visually checked pages 3, 25, 31 and 53. Page 31 is corrupted/overprinted, excluded from dimensional range; B1 separately corroborated and qualified.",
+    "amenities":"Official page and Sera 1 brochure used; no services or fees inferred from combined-phase listings.",
+    "pricing":"Official Sera 1 starting AED 2.1m retained; Sera 2 type prices not transferred.",
+    "payment":"Sera 1-branded payment sheet visually checked; nine instalments total 100% with 10/30/50/70% construction triggers.",
+    "handover":"November 2029 on Sera 1 payment PDF corroborated by PF, reported Q4 2029.",
+    "documents":"Official brochure retained, incorrect official plan link replaced by attributed Sera 1 pack with page defect disclosed. Existing images unchanged."
+   },
+   "community":"Rashid Yachts & Marina",
+   "overview":["The Sera 1 brochure focuses on the water garden, shared pool and planted leisure areas, with the marina promenade a short walk away in the proposed setting. Yoga decks, a recreational lawn and an amphitheatre sit alongside the more active courts and children’s spaces. The distinction between the private home, shared podium facilities and wider marina attractions matters: a residence does not automatically include yacht-club membership or a berth."],
+   "locationNote":"Sera 1 is within the Rashid Yachts & Marina masterplan at Mina Rashid. The official map shows its relationship to the waterfront promenade, canal pool and QE2 hotel, with Dubai’s heritage districts and wider road network nearby. Access routes and walking or driving times should be checked for the chosen home.",
+   "priceLabel":"Advertised starting price",
+   "priceNote":"The Sera 1 developer page advertises a starting price of AED 2.1 million. It is not an available-unit quotation. Current stock, floor, layout, price and purchase terms require confirmation.",
+   "paymentNote":"The Sera 1 launch schedule has 10% booking, seven further 10% instalments and 20% at estimated completion. Dates are historical launch milestones, some already passed; obtain the selected unit’s current payment statement.",
+   "handoverNote":"November 2029 is the estimated construction-completion month in the Sera 1 payment PDF, also reported by Property Finder. It is not a guarantee of delivery; the contract and current developer update should be checked.",
+   "units":[
+    {"label":"Building A · 1 bedroom apartment","area":"756.16–903.95 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building A · 2 bedroom apartment","area":"1,204.05–1,534.07 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building A · 3 bedroom apartment","area":"1,678.85–2,049.88 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building B · 1 bedroom · clear reviewed layouts","area":"757.78–764.67 sq ft; excludes damaged B1 page","sourceIds":["plans"]},
+    {"label":"Building B · 1 bedroom Type B1","area":"775.86 sq ft reported; corrected plan needed","sourceIds":["plan-crosscheck"]},
+    {"label":"Building B · 2 bedroom apartment","area":"1,199.96–1,406.30 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building B · 3 bedroom apartment","area":"1,680.78–1,738.37 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse","area":"2,567.41–2,591.30 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Reported project scale","value":"Mitchell’s dated registry report records 203 homes, with 96 assigned to Tower A and 107 to Tower B. It describes A as ground, podium and seven floors, and B as ground, podium and eight. This is a third-party registry account, not a direct live DLD check or availability count.","sourceIds":["registry-report"]},
+    {"label":"Outdoor area affects totals","value":"Totals include balcony or terrace space. Building A unit 103 has a 1,414.38 sq ft suite and 635.50 sq ft terrace, totalling 2,049.88 sq ft. The townhouse plans show two levels, upstairs bedrooms and a separate maid’s room below.","sourceIds":["plans"]}
+   ],
+   "unresolved":["The developer’s floor-plan link returned Sera 2 Building B. The replacement Sera 1 pack has an overprinted Building B Type B1 page; request a clean unit plan before relying on its area.","The portal apartment ranges differ from the phase-specific plans; the reviewed plan values are shown, with the damaged page isolated.","Current availability, unit price, parking, service charges, final specifications and remaining instalments.","Current construction progress, contractual handover and shared-amenity access arrangements.","Official project images remain deferred; photography is illustrative."]
+  }
+ }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ellington-project-23",
+  "name": "Ellington Villa Collection - La Mer",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "The La Mer Villa Collection is a seven-bedroom beachfront mansion in Jumeirah 1. Its accommodation extends across basement, ground, first and roof levels, separating family living, guest rooms, staff accommodation and private entertainment spaces.",
+    "areaId": "dubai-la-mer",
+    "location": "La Mer",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "7",
+    "price": 330000000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity pool and sunken seating",
+      "Basement pool and spa",
+      "Fitness studio",
+      "Cinema room",
+      "Car lift and turntable",
+      "Show and preparation kitchens",
+      "Roof pool and barbecue terrace"
+    ],
+    "brochureUrl": "https://drehomes.ae/ellington-villa-collection-la-mer/ellington-villa-collection-la-mer-brochure.pdf",
+    "floorPlanUrl": "https://drehomes.ae/ellington-villa-collection-la-mer/ellington-villa-collection-la-mer-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington La Mer villa own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ellington-villa-collection-la-mer",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brief",
+          "label": "La Mer branded project brief and plans · broker-hosted · 28 pages",
+          "url": "https://drehomes.ae/ellington-villa-collection-la-mer/ellington-villa-collection-la-mer-brochure.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "fam",
+          "label": "fäm La Mer villa guide · price and handover claim",
+          "url": "https://famproperties.com/la-mer-apartments-dubai/villa-collection-la-mer/brochures",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "estate",
+          "label": "Emirates Estate La Mer villa guide · historical terms",
+          "url": "https://emirates.estate/property/ellington-villa-collection-266164/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "construction",
+          "label": "Ellington La Mer dated construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=La_Mer&lang=en&projectn=Ellington%20Villa%20Collection%20-%20La%20Mer&url=https://ellingtonproperties.ae/?p=14292",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "fam",
+          "estate"
+        ],
+        "paymentPlan": [
+          "estate"
+        ],
+        "handover": [
+          "brief",
+          "fam",
+          "construction"
+        ]
+      },
+      "community": "La Mer",
+      "overview": [
+        "The brief places the villa on a 21,934 ft² plot. Its seven ensuite bedrooms are separate from one chef’s room and four staff rooms.",
+        "Plans span basement, ground, first and roof levels. The brief describes six basement garage spaces and two covered entrance spaces."
+      ],
+      "locationNote": "La Mer, Jumeirah 1, Dubai. This is the La Mer mansion, not the separate Palm Jumeirah or Emirates Hills collection.",
+      "priceLabel": "Broker advertised reference · not a current offer",
+      "priceNote": "fäm and Emirates Estate advertise AED 330 million. No current developer quotation or sale availability was established.",
+      "paymentNote": "No developer-issued staged commercial schedule was retrieved. Emirates Estate shows 50/50 but also describes individual terms; this does not establish an applicable contract.",
+      "handoverNote": "The branded brief anticipated Q4 2024. fäm claims handover on 1 October 2024, while the developer retains construction entries through December 2025. No completion certificate or actual selected-property handover was verified.",
+      "units": [
+        {
+          "label": "7BR mansion",
+          "area": "33,044 ft² total villa area; 21,934 ft² plot. These are distinct measures, not additive.",
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "label": "Published ceiling references",
+          "area": "Basement/ground common areas approximately 4,000 mm; first-floor bedrooms/closets 3,350 mm; roof seating/dining 3,200 mm.",
+          "sourceIds": [
+            "brief"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [],
+      "unresolved": [
+        "The exact current title, permitted use, availability, approved service charges, furnishing inventory and legal handover require confirmation. Historical brochure specifications do not establish a current offered condition. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact canonical La Mer villa retained; p14292 redirects to unrelated image, exact named primary page found independently.",
+        "location": "Own primary La Mer Jumeirah1; no Palm/EmiratesHills carryover.",
+        "residences": "Own seven ensuite bedrooms; chef/staff rooms not counted as extra bedrooms.",
+        "areas": "Briefp4 measured panel and all four level plans12/15/21/23 visually inspected at1700px. Villa and plot areas distinguished.",
+        "amenities": "Own page matched to brief; sixbasement plus twoentrance parking confirmed, facility operating condition not assumed.",
+        "pricing": "Two attributed330m broker/portal references; no current official price.",
+        "payment": "No primary commercial sheet found; portal50/50 not promoted to headline.",
+        "handover": "ElapsedQ42024 forecast versus brokeractualclaim and later own construction gallery; headline null.",
+        "documents": "Broker-hosted28page branded brief includes own four-level plans. Alternate brief URL returned cookie-challenge HTML despite200 and was not bypassed or adopted."
+      }
+    }
+  }
+}

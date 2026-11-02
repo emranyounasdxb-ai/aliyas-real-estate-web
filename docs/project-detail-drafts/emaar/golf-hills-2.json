@@ -1,0 +1,67 @@
+{
+  "id":"emaar-project-102","name":"Golf Hills 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Golf Hills 2 is a separate apartment and townhouse release in Emaar South. One- to three-bedroom apartments sit alongside a small collection of three-bedroom townhouses, with landscaped leisure spaces and a golf-course setting. Its own plan pack identifies the layouts and apartment numbers for this release.",
+    "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":3259888,"handover":"Q3 2029 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Infinity-edge swimming pool","Children’s pool","Splash pad","Children’s play area","Padel court","Event lawn","Barbecue area","Table tennis","Indoor and outdoor yoga spaces","Indoor and outdoor gym","Wider-community 18-hole golf course"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/Gollf_Hills_and_Golf_Hills_2_brochure_09b56d3a55.pdf",
+    "floorPlanUrl":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_2_ES_FLOOR_PLAN.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Golf Hills 2 at Emaar South","url":"https://www.emaar.com/en/properties/golf-hills-2-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":195},
+        {"id":"brochure","label":"Emaar: shared Golf Hills / Golf Hills 2 brochure","url":"https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":20},
+        {"id":"plans","label":"Emaar Golf Hills 2 plans, Mitchells-hosted phase-specific copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_2_ES_FLOOR_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"facts","label":"Emaar Golf Hills 2 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_ES_2_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Golf Hills 2 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/golf-hills-golf-hills-2/GOLF_HILLS_ES_2_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180}
+      ],
+      "fieldSources":{"description":["official"],"overview":["official","facts"],"location":["official","facts"],"type":["official","plans"],"bedrooms":["official","facts"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans","facts"],"documents":["brochure","plans","facts","payment"],"paymentPlan":["payment"],"handover":["payment"]},
+      "reviewCoverage":{
+        "identity":"Golf Hills 2 checked as its own release, with its dedicated fact sheet and numbered plans.",
+        "location":"Emaar South community and golf setting confirmed; wider facilities distinguished from project amenities.",
+        "residences":"One/two/three-bedroom apartments plus six three-bedroom townhouses documented.",
+        "areas":"Phase-specific plan pack read; key apartment and townhouse area tables visually reviewed, including enlarged balconies.",
+        "amenities":"Official project amenities cross-checked with own fact sheet.",
+        "pricing":"Current official selection from AED 3,259,888 separated from AED 1.06m historical launch starting point.",
+        "payment":"Own nine-stage schedule visually checked; 80% before completion and 20% on completion.",
+        "handover":"September 2029 estimate confirmed in own fact sheet and payment document.",
+        "documents":"Shared brochure retained; main floor-plan link uses separately labelled Golf Hills 2 pack, not the generic file reused on Emaar’s pages."
+      },
+      "community":"Emaar South",
+      "overview":["The setting combines shared leisure spaces with the larger Emaar South landscape. Pools, sports facilities and areas for outdoor gatherings serve the residential collection; golf-course access and wider community services should be checked separately from the apartment purchase.","The release fact sheet describes interiors using wood, stone, metal and glass, with an emphasis on open layouts and terraces. Compare the individual floor plan carefully: an apartment with a much larger published total may have a generous outdoor area rather than substantially more internal living space."],
+      "locationNote":"Golf Hills 2 is in Emaar South within Dubai South. Emaar identifies Golf Views, Golf Point and Urbana III nearby. Airport and city access depend on the route and traffic; no fixed travel time is promised.",
+      "priceLabel":"Developer’s displayed selection from",
+      "priceNote":"The official page currently displays AED 3,259,888 for its published selection. Its launch headline and phase-two fact sheet start at AED 1.06m; historical two-bedroom, three-bedroom and townhouse starting references are AED 1.51m, AED 2.83m and AED 5.07m. These are different pricing bases, not interchangeable live quotations.",
+      "paymentNote":"The original schedule totals 80% before completion and 20% on completion. Three later instalments are tied to construction milestones. Historical due dates do not establish what a buyer would owe today; obtain a current unit statement.",
+      "handoverNote":"The phase-two payment document estimates September 2029, matching its fact sheet. This is a published construction target rather than a guaranteed occupancy date.",
+      "units":[
+        {"label":"1-bedroom apartments · launch band","area":"Approximately 671–871 sq ft total","sourceIds":["facts"]},
+        {"label":"2-bedroom apartments · launch band","area":"Approximately 989–1,307 sq ft total","sourceIds":["facts"]},
+        {"label":"3-bedroom apartments · launch band","area":"Approximately 1,739–2,511 sq ft total","sourceIds":["facts"]},
+        {"label":"3-bedroom townhouse · Types 1 / 1A","area":"3,081.49 sq ft total; 2,197.34 sq ft suite","sourceIds":["plans"]},
+        {"label":"1 bedroom · Type 1A.1 / unit 114","area":"871.45 sq ft total; 622.48 sq ft suite","sourceIds":["plans"]},
+        {"label":"2 bedrooms · Type 2A.1 / unit 115","area":"1,306.74 sq ft total; 937 sq ft suite","sourceIds":["plans"]},
+        {"label":"3 bedrooms · Type 1.1 / unit 110","area":"2,510.68 sq ft total; 1,579.17 sq ft suite","sourceIds":["plans"]},
+        {"label":"3 bedrooms · Type 1A.1 / unit 117","area":"2,274.52 sq ft total; 1,566.47 sq ft suite","sourceIds":["plans"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"December 2025","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"November 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2027","percent":10,"sourceIds":["payment"]},
+        {"stage":"October 2027 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"March 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2028 · 80% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"September 2029 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Launch collection","value":"204 homes: 70 one-bedroom, 101 two-bedroom and 27 three-bedroom apartments, plus six three-bedroom townhouses. These are launch counts, not current inventory.","sourceIds":["facts"]},
+        {"label":"Townhouse layout","value":"Two levels with three bedrooms upstairs; lower-level living/dining, kitchen, staff room, laundry and storage. Outdoor terraces/balconies account for 884.15 sq ft of the published total.","sourceIds":["plans"]},
+        {"label":"Area basis","value":"Apartment totals include balcony space. The table separates selected suite areas from totals; individual numbered layouts vary.","sourceIds":["plans"]},
+        {"label":"Brochure scope","value":"The developer brochure covers both Golf Hills releases.","sourceIds":["brochure"]}
+      ],
+      "unresolved":["Current available units, precise prices, service charges, furnishing and parking allocation require confirmation.","The official pages link the same generic floor-plan file for both releases. The separately labelled Golf Hills 2 pack is used here for unit-specific information; match any reservation to the signed plan.","The shared brochure is identical across its old and current download URLs. Its collection-wide information is not treated as independent evidence for a different release’s unit mix.","Rounded launch size bands differ from decimal plan measurements. Final areas, included terraces and specifications are governed by the selected unit documents.","September 2029 remains an estimated completion date. Current construction milestones, amounts already paid and revised payment terms need developer confirmation."]
+    }
+  }
+}

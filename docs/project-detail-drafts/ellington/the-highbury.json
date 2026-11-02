@@ -1,0 +1,288 @@
+{
+  "id": "ellington-project-37",
+  "name": "The Highbury",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "The Highbury is an Ellington apartment collection in Mohammed Bin Rashid City, with lower- and upper-level homes, duplexes and a four-bedroom penthouse around shared garden and leisure spaces.",
+    "areaId": "dubai-mbr-city",
+    "location": "Mohammed Bin Rashid City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 1100000,
+    "handover": null,
+    "paymentPlan": "70/30 · original guide",
+    "amenities": [
+      "Garden lounge",
+      "Leisure and lap pool",
+      "Jogging track",
+      "Outdoor herb garden",
+      "Padel tennis court",
+      "Urban basketball area",
+      "Pavilion lounge",
+      "Cinema room",
+      "Record lounge",
+      "Fitness and yoga studio"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/the-highbury/THE_HIGHBURY_FACT_SHEET.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/the-highbury/THE_HIGHBURY_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington The Highbury project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/the-highbury-mohammed-bin-rashid-city",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 135
+        },
+        {
+          "id": "facts",
+          "label": "The Highbury branded investment guide, broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-highbury/THE_HIGHBURY_FACT_SHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "payment",
+          "label": "The Highbury branded payment sheet, broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-highbury/THE_HIGHBURY_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "The Highbury branded floor plans, broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/the-highbury/THE_HIGHBURY_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder The Highbury project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/the-highbury",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "bedrooms": [
+          "facts",
+          "plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "plans",
+          "facts"
+        ],
+        "brochureUrl": [
+          "facts"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact Highbury own project page used; canonical historical ?p=13000 redirects to homepage and unrelated La Mer header excluded.",
+        "location": "Own page places Highbury in Mohammed Bin Rashid City; branded location material places it in the Sobha Hartland context. Exact new area mapping deferred centrally.",
+        "residences": "Original investment guide and all 46 plan pages read. Studio, one-, two-, three-, four-bedroom, duplex and four-bedroom penthouse families kept distinct.",
+        "areas": "Actual plan pages 8,9,14,20,40,41,44,45 visually checked. Total living areas remain printed figures, not reconstructed areas.",
+        "amenities": "Own project-specific named shared facilities used. No guaranteed view or private entitlement implied.",
+        "pricing": "Property Finder rounded AED 1.1 million reference only; no developer live quotation retrieved.",
+        "payment": "Actual one-page payment sheet differs from older investment-guide milestone timing, although both total 100. Detailed table follows the standalone sheet, not a merged schedule.",
+        "handover": "Property Finder forecasts December 2026; no project-specific current primary handover notice was retrieved. Older public forecast references differ; headline null.",
+        "documents": "Own linked slim brochure returns 404. Working branded 17-page investment guide, 46-page plans and one-page payment sheet obtained from openly accessible broker mirrors. Ten numerical/payment panels viewed."
+      },
+      "community": "Mohammed Bin Rashid City",
+      "overview": [
+        "Lower and upper residences share landscaped podium space, sports facilities and places to meet."
+      ],
+      "locationNote": "Mohammed Bin Rashid City, Dubai; the project’s location material places it in the Sobha Hartland setting. Confirm the selected plot and access.",
+      "priceLabel": "Portal rounded starting reference",
+      "priceNote": "Property Finder advertises approximately AED 1.1 million. This rounded portal reference is not an Ellington quotation or a confirmed available unit.",
+      "handoverNote": "Property Finder gives December 2026. A current developer handover notice was not retrieved; completion and availability require confirmation.",
+      "paymentNote": "The table follows the separate branded payment sheet. The older investment guide instead uses 20–70% construction milestones; both are original schedules, not current contract terms.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "425.93 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type A",
+          "area": "848.20 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B",
+          "area": "1,176.39 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · maid’s room",
+          "area": "1,720.93 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex Type G",
+          "area": "2,810.03 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom Type A",
+          "area": "3,629.05 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom duplex Type E",
+          "area": "3,764.25 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom penthouse",
+          "area": "5,254.51 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Printed rounding",
+          "value": "Studio, one-bedroom Type A and four-bedroom Type A printed totals differ from component sums by 0.01 ft²; printed totals are retained.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan discrepancies",
+          "value": "Type C four-bedroom components sum to 2,721.06 ft² versus printed 3,026.2; it is excluded from the representative area table pending clarification.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current developer handover notice and selected-unit availability are unconfirmed.",
+        "Original payment documents differ in instalment timing; obtain the signed schedule.",
+        "Live price, approved service charges and selected-unit measurements require confirmation."
+      ]
+    }
+  }
+}

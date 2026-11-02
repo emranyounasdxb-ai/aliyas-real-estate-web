@@ -1,0 +1,284 @@
+{
+  "id": "wasl-project-07",
+  "name": "Ashwood Estates",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "Ashwood Estates comprises four- to six-bedroom villas in Jumeirah Golf Estates, with roof terraces, private pools and lifts.",
+    "areaId": "dubai-jumeirah-golf-estates",
+    "location": "Jumeirah Golf Estates",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 12000000,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Private gardens and pools",
+      "Lift with roof access",
+      "Villa terraces",
+      "Cycling and jogging routes",
+      "EV charging provision",
+      "Planned country club and community facilities"
+    ],
+    "brochureUrl": "https://new-projects-media.propertyfinder.com/project/3e500732-ee24-46e0-b1ae-e55e91aaa62b/brochure/application/6I-0b3BDAQKrwrY_1k0WbSDmD2VM6DOjfDyAzq5cN6A%3D/original.pdf",
+    "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%204BR%20Villa%20Floor%20Plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl Ashwood Estates project guide",
+          "url": "https://www.wasl.ae/en/project/ashwood-estates",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "brochure",
+          "label": "Ashwood branded brochure · portal-hosted 38 pages",
+          "url": "https://new-projects-media.propertyfinder.com/project/3e500732-ee24-46e0-b1ae-e55e91aaa62b/brochure/application/6I-0b3BDAQKrwrY_1k0WbSDmD2VM6DOjfDyAzq5cN6A%3D/original.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "plan4",
+          "label": "Wasl Ashwood 4BR original two-page layout",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%204BR%20Villa%20Floor%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plan5",
+          "label": "Wasl Ashwood 5BR original two-page layout",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%205BR%20Villa%20Floor%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plan6",
+          "label": "Wasl Ashwood 6BR original two-page layout",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%206BR%20Villa%20Floor%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Ashwood Estates · secondary reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/ashwood-estates",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "Winforth Ashwood · different dated payment schedule",
+          "url": "https://www.winforth.ae/property/ashwood-estates-by-wasl-properties/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "overview": [
+          "brochure",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "amenities": [
+          "brochure",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "facts": [
+          "brochure",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "type": [
+          "developer",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "bedrooms": [
+          "developer",
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "price": [
+          "finder",
+          "broker"
+        ],
+        "priceLabel": [
+          "finder",
+          "broker"
+        ],
+        "priceNote": [
+          "finder",
+          "broker"
+        ],
+        "paymentPlan": [
+          "finder",
+          "broker"
+        ],
+        "paymentNote": [
+          "finder",
+          "broker"
+        ],
+        "paymentStages": [
+          "finder",
+          "broker"
+        ],
+        "handover": [
+          "finder",
+          "broker"
+        ],
+        "handoverNote": [
+          "finder",
+          "broker"
+        ],
+        "units": [
+          "plan4",
+          "plan5",
+          "plan6"
+        ],
+        "unresolved": [
+          "plan6",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plan4"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact07AshwoodEstates Wasl, notSkylandAshwoodResidences. Originalbrochure38p185villas108four/47five/30six=185; noinventoryclaim. Ownpage confirms4/5/6BR andJGE.",
+        "location": "Ownpage explicitlyMeaisemFirstwithinJumeirahGolfEstatesmasterdevelopment. Exactregistry dubai-jumeirah-golf-estates/JumeirahGolfEstates. No drivespeeds/railcompletioninvented. Genericcommunitysource0.",
+        "residences": "Allthree originalofficial2pPDFs downloaded200; ground+first+roofactualsixsheetsread andsameowncombinedraster corroborates.4BRallfourfirst;5BRoneground/fourfirst;6BRoneground/fivefirst;maids/drivernotbedrooms. Roofnon-bedroomservice/terraceareas notaddnewbeds.",
+        "areas": "Actualoriginal4BR567.12m²/6104.43ft²,5BR711.27/7656.05,6BR852.70/9178.39. Plot4min561.49/6043.82max826.53/8896.37;5min831.06/8945.45max1140/12270.86;6min999.87/10762.51max1560.96/16802.03. Wholehome notmultiplyperfloor.6BRsum4353.89+4223.00+601.49=9178.38 vs9178.39printretained. PF567/711/852sqftunitmetadata conflictsactualm²;neverconvertwithoutactualownsupport.",
+        "amenities": "Actualbrochure10/20/21/24 visuallyread privatepool/garden/lift/terrace,VRF/homeautomation,EVchargingprovision. Masterplanclubs/school/hotel/railplannednotoperationalguarantee orblanketfreeentitlement. Originalspecifications notsignedinclusions.",
+        "pricing": "FreshPFheadline12M rounded versusbody11.8Mhistorical andWinforth11.8M. Portalreferenceonly noofficialquotefound. No floor-specificavailability orguaranteedreturns.",
+        "payment": "No officialdatedpaymentPDF accessiblefromownpage. PF10/70/20 usedreferenceonlytable100. Winforthfive10then50 sums100 butdifferent50/50calendar,explicitdatesMayDec2026/Aug2027/AprDec2028. HeadlineNULL; noassumedcurrentamendment.",
+        "handover": "PFJan2029 vsWinforthcompletionJan2029butitspaymenthandover30Dec2028; originalownpage/plansnohandoverdate. HeadlineNULL, confirmcontract. No completion claim.",
+        "documents": "Officialthree2pplans public200 genuinePDF, allactualpanelsread. Own7MBimagegallerydownloadedonlyvisualassetnotfactualbrochure. PublicPF38pbrandedbrochure200 andactual10/20/21/24read, sharedphasepool200=110brochure+30eachplans. Realtyforce403normalfetch andProprain200HTML excluded. No gatedforms/nonce/auth, noaccessbypass. Imagesdeferred."
+      },
+      "community": "Jumeirah Golf Estates · The Next Chapter",
+      "overview": [
+        "Compare saleable area and plot area separately; they measure different parts of the property."
+      ],
+      "locationNote": "Me’aisem First, within the Jumeirah Golf Estates master development, Dubai.",
+      "priceLabel": "Portal headline · not a confirmed available offer",
+      "priceNote": "Property Finder’s headline is AED 12M, while its descriptive text and Winforth retain AED 11.8M. No current official price sheet was verified.",
+      "paymentNote": "Property Finder reference only. Winforth instead reports 50/50, with a 30 December 2028 final payment. Obtain the selected villa’s contractual schedule.",
+      "handoverNote": "Property Finder estimates January 2029. A broker’s payment calendar ends 30 December 2028; no primary contractual delivery date was verified.",
+      "units": [
+        {
+          "label": "4BR · saleable",
+          "area": "6,104.43 ft² / 567.12 m²",
+          "sourceIds": [
+            "plan4"
+          ]
+        },
+        {
+          "label": "5BR · saleable",
+          "area": "7,656.05 ft² / 711.27 m²",
+          "sourceIds": [
+            "plan5"
+          ]
+        },
+        {
+          "label": "6BR · saleable",
+          "area": "9,178.39 ft² / 852.70 m²",
+          "sourceIds": [
+            "plan6"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · construction",
+          "percent": 70,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · handover",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original collection",
+          "value": "185 villas: 108 four-bedroom, 47 five-bedroom and 30 six-bedroom.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Plot areas · 4BR / 5BR / 6BR",
+          "value": "6,043.82–8,896.37 / 8,945.45–12,270.86 / 10,762.51–16,802.03 ft².",
+          "sourceIds": [
+            "plan4",
+            "plan5",
+            "plan6"
+          ]
+        },
+        {
+          "label": "Published specification",
+          "value": "G+1+R; VRF cooling, integrated home automation and porcelain flooring. Confirm contractual inclusions.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The six-bedroom floor-area components total 9,178.38 ft² versus the printed 9,178.39 ft². The printed total is retained.",
+        "Portal figures labelled 567/711/852 ft² conflict with the drawings’ square-metre measurements.",
+        "Current stock, official prices, amended payment dates, service charges, selected plot boundaries and delivery certification remain unverified. Photography is illustrative."
+      ]
+    }
+  }
+}

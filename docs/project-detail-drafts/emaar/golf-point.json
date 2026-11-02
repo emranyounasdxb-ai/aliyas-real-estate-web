@@ -1,0 +1,57 @@
+{
+ "id":"emaar-project-75","name":"Golf Point","developerSlug":"emaar",
+ "fields":{
+  "description":"Golf Point is a two-tower apartment development at Emaar South, positioned beside the golf course’s ninth hole. It offers one-, two- and three-bedroom layouts, from compact balcony apartments to larger homes with substantial terraces. Leisure facilities are concentrated at podium level.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":3601888,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult swimming pool","Children’s swimming pool","Gym","Multipurpose room","Sports courts","Open lawns","Children’s play area","Nearby golf clubhouse and driving range"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Golf-Point_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Golf-Point_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Golf Point at Emaar South","url":"https://www.emaar.com/en/properties/golf-point-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"brochure","label":"Emaar: Golf Point brochure","url":"https://www.emaar.com/cms-media/uploads/Golf-Point_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"plans","label":"Emaar: Golf Point Tower 1 floor plans","url":"https://www.emaar.com/cms-media/uploads/Golf-Point_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"plans2","label":"Emaar Tower 2 floor plans, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/golf-point/GOLF_POINT_TOWER_2_FLOOR_PLANS.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":110},
+    {"id":"facts","label":"Emaar launch fact sheet, public copy linked by 101 Properties","url":"https://cdn.geniemap.net/upload/87/58/09/e3/c1673da0-e691-4952-a18f-6b18651729f9.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+    {"id":"finder","label":"Property Finder: Golf Point","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/golf-point","kind":"portal","checkedOn":"2026-10-31","derivedWords":85}
+   ],
+   "fieldSources":{"description":["official","plans","plans2"],"overview":["brochure"],"location":["official"],"type":["official"],"bedrooms":["official","plans","plans2"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans","plans2"],"documents":["brochure","plans","plans2"],"paymentPlan":["facts","finder"],"handover":["facts","finder"]},
+   "reviewCoverage":{
+    "identity":"Golf Point confirmed as two apartment towers, not Golf Hillside or Golf Lane.","location":"Ninth-hole setting within Emaar South mapped to Dubai South.","residences":"One/two/three-bedroom types checked in both tower-specific plan packs.","areas":"All 72 layout pages extracted and size extremes visually checked; balcony/terrace-inclusive ranges retained per tower.","amenities":"Podium pools, sports, gym and lawns checked against developer brochure.","pricing":"Current AED 3,601,888 headline distinguished from historical AED 850,000 entry price.","payment":"Launch sheet visually checked: eight 10% payments and 20% at completion.","handover":"October 2028 launch estimate corroborated by Property Finder.","documents":"Official brochure and Tower 1 plans linked; Tower 2 and fact sheet copies publicly obtained and attributed."
+   },
+   "community":"Emaar South",
+   "overview":["The brochure describes contemporary façades and an earthy interior palette, with the podium used for shared recreation. Apartment sizes vary considerably because outdoor areas differ between layouts. Comparing the suite and terrace components is more useful than relying on total area alone. The golf setting is a community feature; views and membership rights require separate confirmation."],
+   "locationNote":"Emaar places Golf Point beside the ninth hole of its Emaar South course, near the clubhouse and driving range. The wider community is within Dubai South, with road connections towards Al Maktoum International Airport and Expo City Dubai.",
+   "priceLabel":"Current developer-advertised price from",
+   "priceNote":"At review, Emaar’s availability panel starts at AED 3,601,888, while its general key facts still mention the original AED 850,000 entry price. Launch-sheet category starts were AED 850,000, AED 1.20m and AED 2.05m for one, two and three bedrooms respectively. The current headline refers to the advertised selection, not every home type.",
+   "paymentNote":"The launch schedule totals 80% before completion, including booking, and 20% at completion. Property Finder corroborates 80/20. Later releases or resales may use different dates and balances; request current unit terms.",
+   "handoverNote":"The launch sheet and Property Finder both report October 2028. Q4 2028 is an estimated completion period, subject to contractual confirmation.",
+   "units":[
+    {"label":"Tower 1 · 1 bedroom","area":"674.57–906.97 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower 1 · 2 bedrooms","area":"985.65–1,740.42 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower 1 · 3 bedrooms","area":"1,677.12–2,191.21 sq ft total area","sourceIds":["plans"]},
+    {"label":"Tower 2 · 1 bedroom","area":"674.79–906.97 sq ft total area","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 2 bedrooms","area":"985.65–1,740.42 sq ft total area","sourceIds":["plans2"]},
+    {"label":"Tower 2 · 3 bedrooms","area":"1,677.12–2,180.01 sq ft total area","sourceIds":["plans2"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · August 2024 launch","percent":10,"sourceIds":["facts"]},
+    {"stage":"October 2024","percent":10,"sourceIds":["facts"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["facts"]},
+    {"stage":"September 2026 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"March 2027 · 40% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"September 2027 · 60% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"October 2028 · estimated completion","percent":20,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Published unit mix","value":"The launch sheet lists 590 apartments: 300 one-bedroom, 242 two-bedroom and 48 three-bedroom homes. Tower 1 accounts for 283; Tower 2 for 307. These are development counts, not remaining inventory.","sourceIds":["facts"]},
+    {"label":"Terrace-led size difference","value":"Tower 1’s three-bedroom G05 totals 2,191.21 sq ft, comprising 1,568.73 sq ft suite and 622.48 sq ft terrace. Its plan includes a maid’s room with bathroom, laundry, powder room and main-suite walk-in wardrobe.","sourceIds":["plans"]},
+    {"label":"Compact apartment example","value":"Tower 2 type A.7 totals 674.79 sq ft, including 61.68 sq ft of outdoor space. Published size ranges include balconies or terraces and are not internal-only measurements.","sourceIds":["plans2"]},
+    {"label":"Availability cross-check","value":"Emaar displays a selected inventory panel, while Property Finder labels the developer project sold out. These changing sources do not establish what Aliyas can currently offer; availability needs a direct check.","sourceIds":["official","finder"]}
+   ],
+   "unresolved":["Current stock, service charges, parking allocation, construction progress and exact contractual handover need confirmation.","Confirm final finishes and golf access terms. Tower 2 type A.3 omits a printed total; the range above uses the published totals of other layouts.","Imagery remains illustrative; real project photography is deferred."]
+  }
+ }
+}

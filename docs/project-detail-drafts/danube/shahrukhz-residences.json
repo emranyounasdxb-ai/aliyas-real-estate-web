@@ -1,0 +1,249 @@
+{
+  "id": "danube-project-01",
+  "name": "Shahrukhz Residences",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Shahrukhz Residences is Danube’s furnished waterfront apartment and penthouse development in Dubai Maritime City. It is separate from the similarly named commercial office tower on Sheikh Zayed Road.",
+    "areaId": "dubai-maritime-city",
+    "location": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–5",
+    "price": 1650000,
+    "handover": "Q4 2029",
+    "paymentPlan": "30/70 · developer headline",
+    "amenities": [
+      "Planned infinity and lagoon-style pools",
+      "Children’s waterpark and play areas",
+      "Indoor gym and sports courts",
+      "Cinema and podcast studio",
+      "Business centre",
+      "Planned rooftop clubhouse",
+      "Wellness lounge and sauna spaces"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2026/10/Shahrukhz-Brochure-Final-1.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/shahrukhz-residences/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Danube official Shahrukhz Residences project page",
+          "url": "https://danubeproperties.com/portfolio/shahrukhz-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official Shahrukhz Residences brochure · 37 PDF pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2026/10/Shahrukhz-Brochure-Final-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "Danube official floor-plan ZIP · tower, Ocean, penthouses and retail",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/shahrukhz-residences/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "broker",
+          "label": "Casadior project guide · secondary booking-stage breakdown",
+          "url": "https://maisondubai.com/projects/shahrukhz-residences-by-danube",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "prices",
+          "label": "Danube official price-list ZIP · residential, penthouse and retail guides",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/shahrukhz-residences/price",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "overview": [
+          "brochure",
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "prices"
+        ],
+        "paymentPlan": [
+          "official",
+          "broker"
+        ],
+        "handover": [
+          "official"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "brochure",
+          "prices"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own live official page explicitly distinguishes Maritime City residential project from55-storey Shahrukhz office tower onSZR. Protected identity preserved; no commercial data transferred.",
+        "location": "Official page establishes Dubai Maritime City. Broker AlMina/BurDubai classifications not substituted; no coordinate or guaranteed travel minutes invented.",
+        "residences": "Original own page studio/1/2/3BR/penthouses. Official public floorplanZIP includes59pOctober17pack with4BR/5BR A/B penthouses levels56/57 plus retail/nursery, alongside tower/Ocean individual packs. Allfamily drawings visually reviewed; convertible options not additional approved bedrooms.",
+        "areas": "All59October17contactpages viewed. Earlier34pbrokermirror all17numericpanels p4/5/6/7/8/9/10/11/16/17/18/19/20/29/30/31/32 visually checked; officialpack retains apartmentfigures. Officialpenthousep37/38/39 full checked:2594=2150+444;3607=2886+721;3565=2692+873ft2. Totalswholehome notperlevel.3BR1446 notbroker1444.",
+        "amenities": "Own37pbrochure all contacts, p24full41-item list visually checked; planned pools/fitness/children/clubhouse/indoor facilities. No clinicalbenefit, completedoperation, licence or freeuniversalaccess promised.",
+        "pricing": "Ownpage1.65m agrees official7pprice list. All6numericpages2–7 visuallyread: starting/average columns keptseparate, view/categoryspecific. Penthouse15m/22m/20m andareas match officialplans. No visibleissue date/currentstockguarantee; brokerlowerunitlistingnotadopted.",
+        "payment": "Own page30/70 headline with generic1%monthly FAQ/link, no project-specific datedsheet. Broker10/20/70 separately attributed100; no equal-month or fee assumptions. No forms submitted to unlockpayment documents.",
+        "handover": "Own Q42029estimate retainedasdeveloperforecast, not deliveryguarantee or existingcompletion. No actualsiteinspection/current official construction record verified for thisnewresidentialproject; office9%nottransferred.",
+        "documents": "Officialbrochure37p downloaded; officialvisiblepublicfloorplansZIP5PDFs (October17pack59p,Ocean12p,penthouse9p,retail18p,tower24p) andofficialpriceZIP7p retrievedHTTP200noforms/auth. Olderbroker34pplanmirror superseded byofficial provenance, notdoublecounted. All publishedPDFs conservativelypooled200words (50brochure/100plans/50prices); actualpublicprose tightened. Promotionredirectloopnotbypassed. No project-specificdatedprimarypayment calendar retrieved."
+      },
+      "community": "Dubai Maritime City",
+      "overview": [
+        "Compare the selected numbered home’s approved drawing with the contract; a similar bedroom count can conceal a different layout or furnishing schedule."
+      ],
+      "locationNote": "Dubai Maritime City, Dubai, as confirmed on the developer’s own page. Advertised travel times and future district transport are not guaranteed commutes or operating connections.",
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Danube advertises homes from AED 1.65m. This is the published entry guide checked on 31 October 2026, not a dated quotation for every floor, view or furnished layout. Current allocation and the selected unit’s price require confirmation.",
+      "paymentNote": "The developer’s hero advertises 30/70, while its FAQ links eligible homes to a generic 1% monthly arrangement. No project-specific dated primary schedule was retrieved. Casadior separately breaks 30/70 into 10% booking, 20% construction and 70% handover; the displayed stages are that secondary reference, not a confirmed current contract.",
+      "handoverNote": "Danube publishes Q4 2029 as the estimated completion. Confirm the selected building and signed completion provisions; the forecast does not establish readiness, an opening date for every facility or a guaranteed delivery.",
+      "units": [
+        {
+          "label": "Tower · studio",
+          "area": "412–426 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower · flex studio",
+          "area": "395–430 ft²; footnoted variant 472",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower · 1BR A",
+          "area": "535–545 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower · flex-plus 2BR A",
+          "area": "1,051 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower · premium 3BR",
+          "area": "1,446 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Signature King’s Ocean Suite",
+          "area": "1,524–1,616 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Premium penthouse · 4BR",
+          "area": "2,594 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Premium penthouse · 5BR A",
+          "area": "3,607 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Premium penthouse · 5BR B",
+          "area": "3,565 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · broker reference",
+          "percent": 10,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "Construction · broker reference",
+          "percent": 20,
+          "sourceIds": [
+            "broker"
+          ]
+        },
+        {
+          "stage": "Handover · broker reference",
+          "percent": 70,
+          "sourceIds": [
+            "broker"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Penthouse design scope",
+          "value": "The brochure attributes the exclusive penthouse interiors to Gauri Khan; this specification is not universal.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Undated official price guide · AED",
+          "value": "Studios from 1.65m; 1BR from 2.3m; flex-plus 2BR from 4.25m; 3BR 6.5m. Penthouses: 4BR 15m, 5BR A 22m, 5BR B 20m. Views and configurations differ; these are published guides, not live quotations.",
+          "sourceIds": [
+            "prices"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Selected published plan totals include balconies. Flex variants have separate footnotes; area ranges are not available-unit inventories or net indoor measurements.",
+        "Some broker summaries say 1,444 ft² for premium three bedrooms; the actual plan prints 1,446.",
+        "Live availability, final furnishing, parking, service/cooling charges, ownership terms and a dated selected-unit payment calendar remain unverified. Separate retail/nursery layouts and prices do not establish an operating business or residential entitlement. Images remain illustrative.",
+        "Pools, club facilities and wellness spaces are planned marketing features. Their operating permissions, access terms and any charges need separate confirmation; no medical outcome is claimed."
+      ]
+    }
+  }
+}

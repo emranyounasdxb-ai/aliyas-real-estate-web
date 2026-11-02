@@ -1,0 +1,65 @@
+{
+ "id":"emaar-project-58","name":"Palace Residences Creek Blue","developerSlug":"emaar",
+ "fields":{
+  "description":"Palace Residences Creek Blue brings one to three bedroom apartments to Dubai Creek Harbour, near Creek Beach. The Palace-branded development pairs private balconies and generous glazing with a landscaped leisure podium. Its published plans include ground-floor homes with larger outdoor areas as well as apartments higher in the tower.",
+  "areaId":"dubai-creek-harbour","location":"Dubai Creek Harbour","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1870000,"handover":"Q1 2029 reported","paymentPlan":"90/10 reported",
+  "amenities":["Glass-enclosed gym","Adult and children’s pools","Multipurpose room","Games room","Yoga and meditation areas","Barbecue areas","Landscaped amenity podium","Changing facilities"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-CREEK-BLUE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-CREEK-BLUE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Palace Residences Creek Blue","url":"https://www.emaar.com/en/properties/palace-residences-creek-blue","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Palace Residences Creek Blue brochure","url":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-CREEK-BLUE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"plans","label":"Emaar: Creek Blue ground, podium and tower floor plans","url":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-CREEK-BLUE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Creek Blue fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-creek-blue/PALACE_RESIDENCDES_CREEK_BLUE_DCH_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":100},
+    {"id":"payment","label":"Creek Blue payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-creek-blue/PALACE_RESIDENCDES_CREEK_BLUE_DCH_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"finder","label":"Property Finder: Palace Residences Creek Blue","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/palace-residences-creek-blue","kind":"portal","checkedOn":"2026-10-31","derivedWords":80}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Own Palace Residences Creek Blue page and documents checked; other Palace developments excluded.",
+    "location":"Dubai Creek Harbour near Creek Beach confirmed; district attractions distinguished from private facilities.",
+    "residences":"One to three bedroom apartments confirmed; ground/podium variants remain apartments rather than inferred townhouses.",
+    "areas":"All 45 official plan pages reviewed. Ground three-bedroom plan visually inspected; broader ground/podium ranges retained rather than copying tower-only portal sizes.",
+    "amenities":"Official page and brochure support fitness, pool, games, wellness and barbecue facilities.",
+    "pricing":"Developer headline and launch category prices attributed separately from portal stock-specific pricing.",
+    "payment":"Eleven payment stages visually checked against the fact sheet; percentages total 100%.",
+    "handover":"March 2029 documentary estimate corroborated by portal; no current construction progress inferred from its 2025 update.",
+    "documents":"Official brochure and complete plans linked, with broker-hosted launch facts and payment schedule clearly identified. Images deferred."
+   },
+   "community":"Dubai Creek Harbour · near Creek Beach",
+   "overview":["The brochure describes contemporary kitchens and living spaces opening onto private balconies. A glazed fitness pavilion overlooks the pools, while the landscaped podium connects towards the waterfront promenade. Parking is included in the design brief, although individual bay allocations require confirmation. Creek Island, Central Park and Creek Marina provide the wider setting; their parks, restaurants and leisure attractions should not be confused with facilities reserved for this building."],
+   "locationNote":"Emaar locates the development near Creek Beach, with views towards Creek Island. Downtown Dubai, the airport and Ras Al Khor Wildlife Sanctuary are surrounding destinations. Published travel times vary between the page and brochure, so check an actual route. References to metro connectivity do not establish that a nearby station is operational.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"The official page advertises AED 1.87m. The June 2024 launch sheet quotes one, two and three bedroom categories from AED 1.87m, 2.92m and 4.93m. These are historical launch figures, not confirmation of available units or today’s quotation.",
+   "paymentNote":"The published launch schedule totals 90% before completion and 10% at completion. Construction-linked dates are estimates; obtain the current outstanding-payment schedule for the specific unit.",
+   "handoverNote":"March 2029 is the estimated completion month in the payment document and Property Finder. It is subject to the current construction programme and purchase contract.",
+   "units":[
+    {"label":"1 bedroom · tower/podium 2","area":"727.32–909.98 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · tower","area":"1,119.01–1,233.87 sq ft total area","sourceIds":["plans"]},
+    {"label":"2 bedrooms · ground/podium 1","area":"1,155.29–1,513.41 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · tower","area":"1,774.86–1,775.08 sq ft total area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · ground/podium 1","area":"1,558.83–2,057.20 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · June 2024 launch","percent":10,"sourceIds":["payment","facts"]},
+    {"stage":"August 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 70% construction","percent":5,"sourceIds":["payment"]},
+    {"stage":"March 2028 · 80% construction","percent":5,"sourceIds":["payment"]},
+    {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2029 · estimated completion","percent":10,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch mix","value":"The fact sheet describes a 50% one-bedroom, 40% two-bedroom and 10% three-bedroom mix. It does not provide a verified project-wide apartment count.","sourceIds":["facts"]},
+    {"label":"Ground-floor outdoor space","value":"Ground unit 01 has 1,459.16 sq ft of suite area and 598.04 sq ft of balcony area. Its three-bedroom plan includes a maid’s room, laundry and powder room. Larger total area therefore does not mean the same increase in indoor living space.","sourceIds":["plans"]},
+    {"label":"Availability and timing","value":"Property Finder shows a sold-out label alongside pricing and resale listings. Its construction update is dated November 2025. Neither the price nor that older progress figure confirms current developer inventory or present construction status.","sourceIds":["finder"]}
+   ],
+   "unresolved":["Current stock, selling channel, unit quotation, service charges and parking allocation need confirmation.","The fact-sheet size summary covers a narrower range than the complete floor-plan pack; choose the exact unit plan before comparing areas.","Current construction progress, final handover terms, branded services and any associated charges require confirmation.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

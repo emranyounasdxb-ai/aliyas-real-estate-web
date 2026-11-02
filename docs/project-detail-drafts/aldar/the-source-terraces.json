@@ -1,0 +1,185 @@
+{
+  "id": "aldar-project-35",
+  "name": "The Source Terraces",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Source Terraces is the final release in Aldar’s Source collection at Saadiyat Grove. The stepped building combines one to four-bedroom apartments with shared wellness, fitness and social spaces in Abu Dhabi’s Cultural District.",
+    "areaId": "abu-dhabi-saadiyat-island",
+    "location": "Saadiyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 3000000,
+    "handover": "Q3 2027 · published estimate",
+    "paymentPlan": "60/40 · launch plan",
+    "amenities": [
+      "Wellness sanctuary",
+      "Spa",
+      "Rooftop pool",
+      "Saltwater pool",
+      "Fitness centre",
+      "Library lounge",
+      "Cinema room",
+      "Coworking space",
+      "Squash court",
+      "Games room",
+      "Children’s room",
+      "Prayer room"
+    ],
+    "brochureUrl": "https://cdn.insiderealty.ae/brochures/aldar-the-source-terraces.pdf",
+    "floorPlanUrl": null,
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: The Source Terraces",
+          "url": "https://www.aldar.com/properties/en/uae/saadiyat-island/the-source-terraces",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "facts",
+          "label": "Aldar Source Terraces fact sheet, Inside Realty-hosted copy",
+          "url": "https://cdn.insiderealty.ae/brochures/aldar-the-source-terraces.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "pf",
+          "label": "Property Finder: The Source Terraces project and launch-unit information",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/the-source-terraces",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "official",
+          "facts"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "facts",
+          "pf"
+        ],
+        "units": [
+          "facts",
+          "pf"
+        ],
+        "documents": [
+          "facts"
+        ],
+        "paymentPlan": [
+          "facts",
+          "pf"
+        ],
+        "handover": [
+          "facts",
+          "pf"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Final Source collection release verified separately from Source I and Source II; 58-home scope checked.",
+        "location": "Developer confirms Saadiyat Grove in the Cultural District.",
+        "residences": "Fact sheet identifies one to four-bedroom terraced apartments.",
+        "areas": "Balcony-inclusive 110–580 sq m average range visually checked in the fact sheet; portal one-bedroom figure separately attributed.",
+        "amenities": "Project-specific developer wellness and social facilities checked.",
+        "pricing": "AED 3m historical launch reference separated from the portal’s changing resale asking-price headline.",
+        "payment": "Fact-sheet 60/40 with 10% booking corroborated by portal 10/50/40.",
+        "handover": "Fact sheet and portal agree Q3 2027; exact contractual date remains unverified.",
+        "documents": "Single-page developer-branded fact sheet downloaded and visually reviewed; no trustworthy complete unit drawing set verified after project-specific searches."
+      },
+      "community": "Saadiyat Grove · The Source Terraces",
+      "overview": [
+        "Bjarke Ingels Group designed the terraced building. The published interior palettes are Light Feather and Dusk Harmony. Ask which palette and terrace configuration belong to a particular unit before comparing its specification.",
+        "Shared facilities include quiet spaces for reading and working alongside pools, exercise rooms and a cinema. Access terms and operating charges need confirmation when selecting a home."
+      ],
+      "locationNote": "At Saadiyat Grove on Saadiyat Island, within the Cultural District. Museum and sea views are unit-dependent; the neighbourhood description does not establish a guaranteed outlook.",
+      "priceLabel": "Published launch reference",
+      "priceNote": "The fact sheet and portal show AED 3m at launch. Property Finder separately shows resale asking prices and no developer stock. Confirm current availability and terms.",
+      "paymentNote": "The published plan is 10% booking, 50% during construction and 40% at handover. Instalment dates and any revised offer must be checked against the chosen unit’s contract.",
+      "handoverNote": "The fact sheet gives Q3 2027, consistent with the portal’s August 2027 estimate. A dated developer completion notice has not been verified.",
+      "units": [
+        {
+          "label": "Apartment collection · 1–4 bedrooms",
+          "area": "110–580 sq m average size range, including balcony · fact sheet",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "1-bedroom · portal Type A",
+          "area": "1,184 sq ft · portal figure; final measured area to confirm",
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "label": "2, 3 and 4-bedroom apartments",
+          "area": "Individual unit totals and terrace splits require approved drawings",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 10,
+          "sourceIds": [
+            "facts",
+            "pf"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "pf"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "facts",
+            "pf"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Project scope",
+          "value": "58 residences in the published fact sheet; this is total project scope, not available inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current availability, prices, service charges, parking and unit-specific completion dates require confirmation.",
+        "A complete approved floor-plan set and registered internal/terrace areas were not verified; the fact sheet is not a unit drawing.",
+        "Sustainability badges in marketing material are not treated here as evidence of an awarded operational certification."
+      ]
+    }
+  }
+}

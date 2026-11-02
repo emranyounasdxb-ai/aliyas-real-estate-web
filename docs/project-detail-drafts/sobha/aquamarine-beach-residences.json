@@ -1,0 +1,167 @@
+{
+  "id": "sobha-project-32",
+  "name": "Aquamarine Beach Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Aquamarine Beach Residences brings one- to three-bedroom homes and selected duplex layouts to Sobha Siniya Island. Apartment types differ in how they combine the suite with a balcony, yard or terrace. Shared courtyards and water-oriented leisure areas support the setting, while the reviewed brochure identifies Tower C as the furnished collection.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1530000,
+    "handover": "June 2028 · portal estimate",
+    "paymentPlan": "60/40 · attributed plan; reconfirm",
+    "amenities": [
+      "Lagoon beach",
+      "Swimming pool",
+      "Children's play areas",
+      "Landscaped courtyards",
+      "Outdoor cinema",
+      "Water sports"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-11/AQUAMARINE%20-%20Oppdoc.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-11/AQUAMARINE%20-%20Oppdoc.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aquamarine Beach Residences · own developer page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/beach-residences/aquamarine",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Aquamarine Beach Residences · own branded brochure and plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-11/AQUAMARINE%20-%20Oppdoc.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "portal",
+          "label": "Attributed commercial reference · Property Finder",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/aquamarine-beach-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure",
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "brochure"
+        ],
+        "bedrooms": [
+          "official",
+          "brochure"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "official"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "handover": [
+          "portal"
+        ],
+        "units": [
+          "brochure",
+          "official"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Aquamarine Beach Residences identity checked against its own developer page and branded pack; neighbouring releases excluded.",
+        "location": "Source-supported project/community location reviewed; existing exact area used only where available.",
+        "residences": "Own advertised bedroom mix and plan configurations reviewed; furnished towers and duplexes explicitly distinguished where applicable.",
+        "areas": "Project-specific plan samples extracted; representative original PDF labels, tables and orientation diagrams visually inspected. Source inconsistencies recorded.",
+        "amenities": "Own developer project-page facilities reviewed; island/community amenities are labelled by their wider scope.",
+        "pricing": "Own current page starting guide captured on 31 October 2026, subject to inventory; not a verified unit quotation.",
+        "payment": "Available secondary commercial schedules compared, payment percentages total 100%; current official unit schedule unavailable unless explicitly stated.",
+        "handover": "Own dates and available commercial references reviewed; conflicts retained rather than guessed.",
+        "documents": "Own brochure/plan pack downloaded and representative tables visually inspected; payment-document search did not establish a current signed developer schedule."
+      },
+      "community": "Siniya Island · Aquamarine Beach Residences",
+      "overview": [
+        "The three-bedroom Type A combines an approximately 1,286 sq ft suite with a much larger terrace contribution. By contrast, the small one-bedroom Type A uses a compact balcony. Compare enclosed and outdoor components rather than relying on the project-wide size range."
+      ],
+      "locationNote": "Sobha Siniya Island, Umm Al Quwain. Island golf, marina and leisure facilities are wider master-community amenities; their access and opening arrangements need confirmation.",
+      "priceLabel": "Developer-published starting guide · reconfirm",
+      "priceNote": "The own developer page fetched on 31 October 2026 advertises AED 1,530,000 from, subject to inventory availability. This is a published guide, not a checked available unit, valuation or binding offer. Other historical launch advertisements may use a different price or unit mix.",
+      "paymentNote": "Property Finder gives 10% booking, 50% construction and 40% handover. This is an attributed portal summary; a current official payment sheet, dated instalments and any unit-specific variation remain unavailable.",
+      "handoverNote": "Property Finder reports June 2028. The reviewed own brochure contains no current contractual completion date; the estimate requires unit-specific confirmation.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "511.39–516.34 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type A",
+          "area": "652.08–657.78 sq ft total saleable area",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A",
+          "area": "2,180.12–2,180.34 sq ft total saleable area, including terrace",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · attributed example",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "During construction · attributed example",
+          "percent": 50,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover · attributed example",
+          "percent": 40,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Property Finder’s narrative incorrectly contains text about Imperial Residence in Dubai Production City. That prose is excluded; identity, location, mix and amenities use the official Aquamarine page and brochure.",
+        "Current unit availability, signed payment dates, final specification and applicable service charges require developer/unit-specific confirmation."
+      ]
+    }
+  }
+}

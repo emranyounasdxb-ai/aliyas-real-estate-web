@@ -1,0 +1,186 @@
+{
+  "id": "azizi-project-04",
+  "name": "Azizi Wares",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Azizi Wares combines apartments and retail in Downtown Jebel Ali, beside JAFZA, with shared pools, fitness rooms and indoor recreation.",
+    "areaId": "dubai-downtown-jebel-ali",
+    "location": "Downtown Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 555000,
+    "handover": null,
+    "paymentPlan": "50/50 · portal summary",
+    "amenities": [
+      "Adult and children’s pools",
+      "Separate gyms for men and women",
+      "Private cinema",
+      "Children’s play area",
+      "Gaming lounge",
+      "Clubhouse",
+      "Multipurpose hall",
+      "Parking",
+      "24-hour security"
+    ],
+    "brochureUrl": "https://storage.dxboffplan.com/files/2025/08/Azizi-Wares-in-Downtown-Jebel-Ali-Dubai-Fact-Sheet.pdf",
+    "floorPlanUrl": "https://storage.dxboffplan.com/files/2025/08/Azizi-Wares-in-Downtown-Jebel-Ali-Dubai-Floor-Plan.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi-branded Wares factsheet · broker-hosted copy",
+          "url": "https://storage.dxboffplan.com/files/2025/08/Azizi-Wares-in-Downtown-Jebel-Ali-Dubai-Fact-Sheet.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Azizi-branded Wares 24-page plans · broker-hosted copy",
+          "url": "https://storage.dxboffplan.com/files/2025/08/Azizi-Wares-in-Downtown-Jebel-Ali-Dubai-Floor-Plan.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Wares commercial references and March 2028 target",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/azizi-wares",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 105
+        },
+        {
+          "id": "gcc",
+          "label": "GCC Offplan: older Wares December 2027 forecast and relative payment stages",
+          "url": "https://gccoffplan.com/project/azizi-wares/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts",
+          "plans"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts",
+          "plans"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "gcc"
+        ],
+        "paymentPlan": [
+          "finder",
+          "gcc"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact Wares factsheet cover and own-branded DJAZZ.28 plan cover reviewed; not Rose, Lina or Arian. Official project page returned 403/429, so no facts taken from inaccessible HTML.",
+        "location": "Branded factsheet identifies Downtown Jebel Ali beside JAFZA; no plot coordinates or walking-time promise invented.",
+        "residences": "Factsheet studio/one/two/three-bedroom headline preserved; selected technical pack only demonstrates studio/one/two-bedroom drawings.",
+        "areas": "Own-branded 24-page technical pack visually read pages 3,8,13,19,22,24 at 1700 px; apartment/balcony/total columns distinguished.",
+        "amenities": "Factsheet page 2 facilities visually read; no operating status or universal private facilities inferred.",
+        "pricing": "PF 555000 launch reference explicitly separated from available developer allocations. No unsupported current price claim.",
+        "payment": "PF 10/40/50 totals 100; older GCC relative calendar separately attributed, no original signed sheet retrieved.",
+        "handover": "PFMarch 2028 conflicts older GCCDecember 2027; card date null instead of silently picking a target.",
+        "documents": "Branded broker-hosted factsheet and technical pack downloaded; overlapping source pool conservatively capped 200. No gated forms submitted."
+      },
+      "community": "Downtown Jebel Ali",
+      "overview": [
+        "The plans separate apartment area from balcony area. Compare the enclosed accommodation and actual orientation before treating a published total as usable indoor space."
+      ],
+      "locationNote": "Downtown Jebel Ali, Dubai, near JAFZA, Sheikh Zayed Road and Life Pharmacy Metro. Confirm the selected apartment’s actual access route.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder retains AED 555,000 as a launch reference and marks its displayed developer configurations out of stock. This does not establish the lowest currently bookable unit, resale price or availability; obtain a dated offer.",
+      "paymentNote": "Property Finder publishes 10% on booking, 40% during construction and 50% on handover. GCC Offplan separately describes four 10% instalments at 30, 180, 330 and 480 days after the down payment. Those third-party terms are not a verified current developer calendar; fees and reservation conditions require written confirmation.",
+      "handoverNote": "Property Finder lists March 2028/Q1 2028, while the older GCC Offplan record says December 2027. No later primary completion notice or contractual reconciliation was retrieved. The date remains unconfirmed; rendered imagery is not construction evidence.",
+      "units": [
+        {
+          "label": "Studio Type 01 A · floors 2–7",
+          "area": "327.87 sq ft total; 275.77 apartment +52.10 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Studio Type 02 F · floors 2–7",
+          "area": "330.02 sq ft published total; 279.76 apartment +50.27 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01 A · floors 2–7",
+          "area": "627.65 sq ft total; 541.00 apartment +86.65 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01 A · floors 2–7",
+          "area": "1,015.26 sq ft total; 859.18 apartment +156.08 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · construction",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · handover",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The factsheet includes three bedrooms, but the retrieved plan pack does not establish that layout or current stock.",
+        "Type 02 F prints 330.02 sq ft versus 330.03 from rounded components. Total areas include balconies.",
+        "Live inventory, final furnishing, parking allocation, approved service/cooling charges, a primary construction update and current signed payment dates remain unverified. Images stay illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

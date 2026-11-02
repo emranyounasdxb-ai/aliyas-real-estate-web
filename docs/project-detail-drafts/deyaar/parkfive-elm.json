@@ -1,0 +1,272 @@
+{
+  "id": "deyaar-project-05",
+  "name": "ParkFive Elm",
+  "developerSlug": "deyaar",
+  "fields": {
+    "description": "Elm comprises studios and one- and two-bedroom apartments, with facilities at the podium, eleventh floor and roof.",
+    "areaId": "dubai-production-city",
+    "location": "Dubai Production City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 1010461,
+    "handover": "Q3 2027 · current developer target",
+    "paymentPlan": null,
+    "amenities": [
+      "Gym",
+      "Coworking space",
+      "Adult and children’s pools",
+      "BBQ area",
+      "Children’s sand play area",
+      "Plunge pools",
+      "Rooftop sports area",
+      "Dog park"
+    ],
+    "brochureUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/Elm_ParkFive_Brochure.pdf",
+    "floorPlanUrl": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Elm_Floorplan_Tower_A_B.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Deyaar ParkFive building guide",
+          "url": "https://www.deyaar.ae/en/properties/park-five/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "brochure",
+          "label": "Elm official brochure · 35 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/Elm_ParkFive_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Elm official Tower A/B plans · 20 pages",
+          "url": "https://www.deyaar.ae/wp-content/uploads/2025/09/ParkFive_Elm_Floorplan_Tower_A_B.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "construction",
+          "label": "Deyaar current construction update",
+          "url": "https://www.deyaar.ae/en/construction-update/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 16
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Elm historical commercial references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/deyaar-leasing/elm-at-park-five",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "factsheet",
+          "label": "Elm branded launch factsheet · broker-hosted, 8 pages",
+          "url": "https://vision-ary.com/wp-content/uploads/2025/01/Elm_Park_Five_by_Deyaar.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        }
+      ],
+      "overview": [
+        "Retrieved plans focus on floor-one homes; other-floor layouts remain unverified."
+      ],
+      "community": "ParkFive",
+      "locationNote": "ParkFive, Dubai Production City.",
+      "priceLabel": "Portal historical reference",
+      "priceNote": "Property Finder quotes AED 1,010,461 in its project description and rounds its launch headline to AED 1m. Developer stock is marked sold out. This is not a current available-unit quotation.",
+      "paymentNote": "The branded launch factsheet gives 10/40/50; this table preserves that historical split. Current unit-specific terms were not verified.",
+      "handoverNote": "Superstructure progressing; specialist contractors appointed.",
+      "units": [
+        {
+          "label": "Studio 01",
+          "area": "433 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Studio 01t",
+          "area": "463 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 1At",
+          "area": "897 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 2At",
+          "area": "1,034 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR 2B",
+          "area": "778 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 03t",
+          "area": "1,739 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 2At",
+          "area": "1,760 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR 2Bt",
+          "area": "1,285 sq ft · floor 1",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking/SPA · launch reference",
+          "percent": 10,
+          "sourceIds": [
+            "factsheet"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 40,
+          "sourceIds": [
+            "factsheet"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 50,
+          "sourceIds": [
+            "factsheet"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Interior provision",
+          "value": "Home automation and built-in kitchen appliances advertised.",
+          "sourceIds": [
+            "factsheet"
+          ]
+        }
+      ],
+      "unresolved": [
+        "1BR 1At and 2BR 2At component sums differ from printed totals by 1 sq ft. Confirm contractual areas.",
+        "The launch factsheet targets summer 2027; Property Finder June 2027 predates the developer’s current Q3 target. No completed handover is established.",
+        "Plans for other floors, current official prices, payment amendments, parking allocations and service charges remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentPlan": [
+          "factsheet"
+        ],
+        "paymentNote": [
+          "factsheet",
+          "portal"
+        ],
+        "paymentStages": [
+          "factsheet"
+        ],
+        "handover": [
+          "construction"
+        ],
+        "handoverNote": [
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "facts": [
+          "factsheet"
+        ],
+        "unresolved": [
+          "plans",
+          "factsheet",
+          "portal",
+          "construction"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official Elm brochure and TowerA/B plan pack clearly identified. Repeated mirrored drawings deduplicated; notEmber/Neem.",
+        "location": "Own primary placesParkFive inDubai Production City, exactparentregistry used.",
+        "residences": "Own brochurestudio/1 BR/2 BR; no3 BR familyinactualpack. Groundfloorterracevariantsnotrepresentative ofallmarketedfloors.",
+        "areas": "All20 pages visually read;16 drawing pagesinclude repeats,8 distinctprintedfamilies. 1 BR1 At599+299=898 vs897;2 BR2 At1053+706=1759 vs1760. Totalsretained.",
+        "amenities": "Own35 pbrochure19/21/23/25 visually read. Namedfacilitiesonly, noquantityclaims.",
+        "pricing": "PF exact1010461 historicalreferenceversus1 mroundedheadline,soldout; no original price list.",
+        "payment": "Actualbranded8 pfactsheetp7 visually read:10 booking/SPA40 during50 handover,Summer2027. Historicnotcurrent;later45/55 offerconflictlisted,headline paymentnull.",
+        "handover": "OwncurrentconstructionpageQ32027 supersedesPFJune2027 reference; progresssummaryreserved16 words. Originalfactsheetsummer2027 noncontractual.",
+        "documents": "Official brochure35 p/plans20 p downloaded200; branded8 p factsheet broker retrieved200. Overlap pool200(60+90+50); mirroredUltraPDFs add0. Genericmain20/construction16."
+      }
+    }
+  }
+}

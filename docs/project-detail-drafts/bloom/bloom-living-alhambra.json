@@ -1,0 +1,269 @@
+{
+  "id": "bloom-project-01",
+  "name": "Bloom Living Alhambra",
+  "developerSlug": "bloom",
+  "fields": {
+    "description": "Alhambra brings low-rise apartments, townhouses and penthouses to Bloom Living’s lakeside centre. Souk Alhambra places shops, dining and everyday services around a shared plaza.",
+    "areaId": "abu-dhabi-zayed-city",
+    "location": "Zayed City",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 865000,
+    "handover": null,
+    "paymentPlan": "40 / 60",
+    "amenities": [
+      "Planned Souk retail and dining",
+      "Gated security",
+      "Pools and children’s play areas",
+      "Gym and sauna",
+      "Walking and cycling routes",
+      "Planned clinic and nursery"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/6dc38e486d5b425abeebf92008873a1a.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Alhambra: current developer phase page",
+          "url": "https://bloomholding.com/Alhambra-project",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "unit",
+          "label": "Alhambra: developer studio terms and repeated phase information",
+          "url": "https://bloomholding.com/what-we-do/properties/bloom-living/studio-alhambra",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "launch",
+          "label": "Alhambra: developer launch announcement",
+          "url": "https://bloomholding.com/press-releases/bloom-holding-launches-final-phase-of-bloom-living-alhambra",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Alhambra: original brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Alhambra: original residence plans, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/6dc38e486d5b425abeebf92008873a1a.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "portal",
+          "label": "Alhambra: Property Finder project reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/bloom-properties/bloom-living-alhambra",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "earlier-guide",
+          "label": "Alhambra: differing completion guide",
+          "url": "https://projectory.ae/projects/al-hamra-bloom-living/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "community": "Bloom Living, Zayed City",
+      "overview": [
+        "Bloom identifies Alhambra as its final community release: studios–3BR apartments, 3BR townhouses and limited 4BR penthouses."
+      ],
+      "locationNote": "Within Bloom Living in Zayed City, Abu Dhabi, near Zayed International Airport.",
+      "priceLabel": "Developer-advertised studio starting guide",
+      "priceNote": "Bloom publishes studios from AED 865,000; confirm the selected home and current offer.",
+      "paymentNote": "Developer terms: 5% down, 35% during construction, 60% handover. A dated original instalment sheet was not retrieved.",
+      "handoverNote": "Property Finder targets Q3 2030; another guide gives December 2029. No phase-specific developer completion date was verified.",
+      "units": [
+        {
+          "label": "Studio",
+          "area": "347–463 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR apartment",
+          "area": "700–926 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR apartment",
+          "area": "1,011–2,067 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR apartment",
+          "area": "1,851–2,680 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR townhouse",
+          "area": "2,928 / 2,982 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR penthouse",
+          "area": "4,252 sq ft maximum total sellable",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 35,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 60,
+          "sourceIds": [
+            "unit"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Tenure",
+          "value": "The developer identifies Bloom Living as an investment zone open to buyers of all nationalities.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Advertised incentive",
+          "value": "The studio page lists 2% ADM registration fees included; confirm eligibility and validity.",
+          "sourceIds": [
+            "unit"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Plan areas are maximum total sellable areas, including external space; layouts and final areas remain subject to contract.",
+        "Current charges, plot boundaries and binding delivery terms require confirmation."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected bloom-project-01 Bloom Living Alhambra, not separate Al Hamra developer or Granada. Own /Alhambra-project and own exact Alhambra unit pages and launch confirm final release. No IDs/media changed.",
+        "location": "Own launch explicitly Zayed City Abu Dhabi near Zayed International Airport. Exact central registry requested; no coordinates inferred. Main generic Bloom Living source derivation0. Exact central abu-dhabi-zayed-city now verified.",
+        "residences": "Own launch Studio–3BR apartments, 3BR townhouses, limited4BR penthouses. Original28p plans has22 whole layouts:4studio+2one+7two+6three+2townhouse+1PH. All22 numerical/full panels actually viewed1700px:3–6,8–9,11–17,19–26,28. GF/FF townhouses25/26 and lower/upper/terrace PH28 cover complete homes; staff/study not counted as marketed bedrooms.",
+        "areas": "Actual image-only original sheets read visually: studio347/409/463/433;1BR700/926;2BR1098/1517/1991/2067/1604/1011/1388;3BR1851/2104/1916/2152/2680/2293;TH2928/2982;PH4252 sqft max total sellable. Internal/external clearly distinct; whole TH/PH totals not multiplied by floors. Metric rounding inconsistent on some sheets, retained ft² only. Current own2BR starting1098 does not invalidate other printed1011 layout: no current availability inferred.",
+        "amenities": "Own Alhambra phase page/unit icon set supports all public claims, planned services not operationally guaranteed. Launch supports Souk/plaza/clinic/nursery and wider community access. Generic shared community fact derivation0.",
+        "pricing": "Current own phase and studio from865000 confirmed; current full category guides1.4m/2.1m/3.2m/4.5m/8.3m observed but no selected current quote. Headline explicitly studio guide, not all types. Broker selected inventory higher guides not adopted as developer repricing.",
+        "payment": "Own exact studioAlhambra current5/35/60=100. Three aggregate stages retained, not invented dated calendar. Own Granada page5/35/40/20 ambiguous/cross-card template excluded. Broker70/30 alternative not primary-current terms; no original dated commercial sheet retrieved. Own2%ADM inclusion qualified eligibility/validity.",
+        "handover": "Own phase/current unit pages and ownlaunch do not verify completion date. ActualPF JSON delivery2030-09-01 treated Q32030 target, not exact date. Projectory Dec2029 conflicting secondary; headline null. No inferred status from other Bloom phases.",
+        "documents": "Own public main data-url exposes Alhambra_E-Brochure.pdf but ordinary download timed out25s; no bypass. Retrieved brokerReelly38p originalbrochure and28p originalplans; all22 numerical/full family sheets read. Additional65p olderProjectory original reviewed intro/master/exteriors1–16 only, no additional adopted numerical values. Relatedbrochure/plans/mirrors/duplicatedlaunchprose combined200 launch100+plans100,brochure0duplicate; ownphase/unit duplicatedcurrentblocks share200 max allocations100+80, notperURL. GenericBloomLiving0. No forms."
+      },
+      "fieldSources": {
+        "description": [
+          "launch"
+        ],
+        "location": [
+          "launch"
+        ],
+        "areaId": [
+          "launch"
+        ],
+        "emirate": [
+          "launch"
+        ],
+        "community": [
+          "launch"
+        ],
+        "locationNote": [
+          "launch"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "unit"
+        ],
+        "paymentStages": [
+          "unit"
+        ],
+        "paymentNote": [
+          "unit"
+        ],
+        "handover": [
+          "portal",
+          "earlier-guide"
+        ],
+        "handoverNote": [
+          "portal",
+          "earlier-guide"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "launch",
+          "unit"
+        ],
+        "unresolved": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      }
+    }
+  }
+}

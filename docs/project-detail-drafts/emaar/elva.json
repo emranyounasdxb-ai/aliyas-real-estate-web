@@ -1,0 +1,62 @@
+{
+ "id":"emaar-project-18","name":"Elva","developerSlug":"emaar",
+ "fields":{
+  "description":"Elva is a townhouse neighbourhood at The Valley, offering three and four bedroom homes in groups of four. Its Nash and Ravine designs keep family rooms on the ground floor and most bedrooms upstairs. Emaar’s outdoor-led setting combines green communal spaces with a pool deck, fitness facilities and a pet park.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2890000,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Communal landscaped grounds","Pool deck","Children’s playground","Fitness centre","Indoor multipurpose room","Pet park"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE_d307a56018.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ELVA_TV_FLOORPLAN.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Elva at The Valley","url":"https://www.emaar.com/en/properties/elva-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: shared Valley brochure","url":"https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":60},
+    {"id":"plans","label":"Emaar: Elva Nash and Ravine plans","url":"https://www.emaar.com/cms-media/uploads/ELVA_TV_FLOORPLAN.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Elva launch fact sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/elva/ELVA_THE_VALLEY_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Elva launch payment sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/elva/ELVA_THE_VALLEY_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"finder","label":"Property Finder: Elva project terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/elva-at-the-valley","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official"],"type":["official","plans"],"bedrooms":["official"],"amenities":["official"],"price":["official","facts"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Elva official identity and separate nine-page plan pack retained. Not confused with similarly named Elora or Alva.",
+    "location":"The Valley along Dubai–Al Ain Road from official page; canonical filter assigned.",
+    "residences":"Three and four bedroom four-plex townhouses; own Nash and Ravine plans reviewed.",
+    "areas":"All nine official pages read. Ravine TH01 has a printed 2,704.81 total but components add to 2,709.81; disclosed with no invented correction. Nash and three-bedroom totals separated.",
+    "amenities":"Six official amenity groups recorded. Shared brochure school/hospital references are not evidence of completed facilities inside Elva.",
+    "pricing":"Official AED 2.89 million headline retained. Copied fact sheet four-bedroom AED 3.39 million labelled historical launch pricing.",
+    "payment":"Copied Emaar-branded launch payment sheet inspected visually; 10 booking, seven 10 instalments, 20 completion. Phase-specific 20% construction trigger retained, not Elea or Kaia’s 30% trigger.",
+    "handover":"October 2028 from copied launch schedule, consistent with PF October/Q4 2028. Not guaranteed completion.",
+    "documents":"Official shared brochure and own floor plans plus attributed broker-hosted fact/payment sheets. Shared brochure cumulative allocation remains 180 words across Elea, Kaia and Elva."
+   },
+   "community":"The Valley",
+   "overview":["The shared brochure describes adaptable interiors and restrained finishes across Elva, Kaia and Elea. For Elva itself, the choice is between Nash and Ravine façades. Comparing their drawings gives a clearer view of entrance arrangements, living space and outdoor areas than the shared lifestyle imagery."],
+   "locationNote":"Elva is part of The Valley on Dubai–Al Ain Road. Emaar identifies Downtown Dubai, Dubai International Airport and Global Village as wider destinations. The practical distance to a school, workplace or shop depends on the selected home and the route in use.",
+   "priceLabel":"Advertised from",
+   "priceNote":"Emaar displays AED 2,890,000 as the project starting price. The copied launch sheet lists three bedroom homes from AED 2.89 million and four bedroom homes from AED 3.39 million. These are launch references; confirm the available home and its present quotation.",
+   "paymentNote":"The copied launch schedule places 80% before completion and 20% at completion. Its construction triggers differ from neighbouring releases. Historical instalments are shown as issued, so a current purchase needs an updated schedule rather than assuming these dates restart.",
+   "handoverNote":"The launch sheet targets October 2028 for estimated construction completion, corroborated by Property Finder. The current contractual completion date and verified construction progress remain to be confirmed.",
+   "units":[
+    {"label":"3 bedrooms · Ravine","area":"2,418.33 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Ravine","area":"2,704.81–2,709.81 sq ft printed BUA; TH01 total needs confirmation","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Nash","area":"2,415.63 sq ft printed built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Nash","area":"2,706.26–2,710.57 sq ft printed built-up area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2027 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2028 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch composition","value":"The copied fact sheet describes 244 homes, split equally between 122 three bedroom and 122 four bedroom layouts. This is not a count of available homes.","sourceIds":["facts"]},
+    {"label":"Launch plot ranges","value":"Three bedroom plots are listed at 1,938–2,241 sq ft and four bedroom plots at 2,968–4,627 sq ft. Land area is separate from built-up area.","sourceIds":["facts"]},
+    {"label":"Four bedroom arrangement","value":"The inspected Nash and Ravine drawings include a downstairs guest bedroom and maid’s room, with three bedrooms upstairs. Covered parking and outdoor areas are identified separately.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Ravine TH01: printed built-up area and component figures disagree. Confirm the corrected contract plan; its opposite-end drawing also has inconsistent unit numbering.","Current available homes, prices and updated payment terms.","Current construction progress, contractual completion, exact plot allocation and final outdoor specifications.","Service charges and the delivery status of surrounding community facilities.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

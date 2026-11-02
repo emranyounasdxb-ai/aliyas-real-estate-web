@@ -1,0 +1,55 @@
+{
+ "id":"emaar-project-76","name":"Greenridge","developerSlug":"emaar",
+ "fields":{
+  "description":"Greenridge is a townhouse neighbourhood at Emaar South with three- and four-bedroom homes in Grace and Pearl styles. The plans arrange four homes together, with three-bedroom layouts in the middle and four-bedroom layouts at the ends. Ground-floor living spaces open towards a rear terrace.",
+  "areaId":"dubai-south","location":"Emaar South","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2940000,"handover":"Q4 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community centre with pool, gym and multipurpose room","Adult and children’s swimming pools","Outdoor fitness areas","Community garden","Children’s play areas","Basketball court","Open lawns","Walking and jogging paths"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/Greenridge_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/Greenridge_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Greenridge at Emaar South","url":"https://www.emaar.com/en/properties/greenridge-at-emaar-south","kind":"developer","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"brochure","label":"Emaar: Greenridge brochure","url":"https://www.emaar.com/cms-media/uploads/Greenridge_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"plans","label":"Emaar: Greenridge floor plans","url":"https://www.emaar.com/cms-media/uploads/Greenridge_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Emaar launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenridge/GREENRIDGE_ES_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":130},
+    {"id":"payment","label":"Emaar launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/greenridge/GREENRIDGE_ES_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"finder","label":"Property Finder: Greenridge","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenridge","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","facts"],"type":["official"],"bedrooms":["official","plans"],"amenities":["official","brochure","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Greenridge checked independently from Greenway and Greenville.","location":"Emaar South alias resolves to Dubai South in the location system.","residences":"Grace/Pearl three- and four-bedroom two-level townhouses checked.","areas":"All eight detailed plan tables visually checked; built-up totals not described as plots.","amenities":"Community-centre facilities, outdoor fitness, garden and basketball checked against brochure.","pricing":"Official AED 2.94m headline and category launch prices distinguished from current inventory.","payment":"Nine launch payments visually checked, totalling 80% before completion and 20% at completion.","handover":"December 2028 estimate corroborated by Property Finder.","documents":"Official brochure and 11-page floor-plan pack inspected; launch fact/payment copies attributed."
+   },
+   "community":"Emaar South",
+   "overview":["Greenridge’s brochure puts the community centre at the heart of everyday recreation, with a pool, gym and multipurpose room. Shaded walking routes, a community garden, outdoor fitness and a basketball court extend that activity outdoors. Interiors use earthy tones and separate family rooms from the service spaces at the front of the homes."],
+   "locationNote":"The project is in Emaar South within Dubai South, with road access towards Al Maktoum International Airport and Expo City Dubai. The wider golf course and community park are nearby amenities; check actual routes, access conditions and a selected home’s outlook rather than assuming all properties face the fairways.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 2.94m. The launch sheet lists three-bedroom homes from AED 2.94m and four-bedroom homes from AED 3.37m. These are historical starting prices, not a current unit quotation or confirmation of available stock.",
+   "paymentNote":"The launch plan combines 10% at booking, seven further 10% payments and 20% on estimated completion. Property Finder reports the same 10/70/20 structure. Later sale or transfer terms may differ.",
+   "handoverNote":"The launch document estimates December 2028 completion, consistent with Property Finder’s Q4 2028 schedule. Confirm the applicable contractual date before purchase.",
+   "units":[
+    {"label":"3 bedroom · Grace","area":"2,421.02 sq ft published total area","sourceIds":["plans"]},
+    {"label":"3 bedroom · Pearl","area":"2,450.40 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Grace","area":"2,707.55 sq ft published total area","sourceIds":["plans"]},
+    {"label":"4 bedroom · Pearl","area":"2,766.86 sq ft published total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2026 · 20% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2028 · estimated completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published unit mix","value":"The launch sheet lists 260 three-bedroom and 260 four-bedroom townhouses, totalling 520. Remaining availability is not established by these counts.","sourceIds":["facts"]},
+    {"label":"Grace three-bedroom layout","value":"All three bedrooms are upstairs. The ground floor includes living/dining, kitchen, powder room, laundry and a maid’s room with bathroom, with a carport at the front.","sourceIds":["plans"]},
+    {"label":"Four-bedroom arrangement","value":"The fourth bedroom is a ground-floor guest room; the other three are upstairs. The main suite has a walk-in wardrobe and balcony.","sourceIds":["plans"]},
+    {"label":"Area definition","value":"Published totals include the garage and balcony/terrace allocations. Grace four-bedroom plans separate 2,223.82 sq ft suite, 363.07 sq ft garage and 120.66 sq ft balcony/terrace; these figures do not state plot area.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Exact plot sizes, current stock, service charges, construction progress and contractual handover remain to be confirmed.","Check final finishes, landscaping responsibility and community/golf access terms for the selected home.","Images remain illustrative; real photography is deferred."]
+  }
+ }
+}

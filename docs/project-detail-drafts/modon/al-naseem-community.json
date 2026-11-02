@@ -1,0 +1,270 @@
+{
+  "id": "modon-project-09",
+  "name": "Al Naseem Community",
+  "developerSlug": "modon",
+  "fields": {
+    "description": "Four- to six-bedroom standalone villas on Hudayriyat Island, offered with South Californian or Modern Contemporary façades and private outdoor space.",
+    "areaId": "abu-dhabi-hudayriyat-island",
+    "location": "Hudayriyat Island",
+    "emirate": "Abu Dhabi",
+    "type": "Villa",
+    "bedrooms": "4–6",
+    "price": 7800000,
+    "handover": null,
+    "paymentPlan": "40/60",
+    "amenities": [
+      "Community centre",
+      "Gym",
+      "Swimming pool",
+      "Pedestrian paths",
+      "Cycle routes",
+      "Basketball court",
+      "Schools",
+      "Outdoor play area"
+    ],
+    "brochureUrl": "https://mcpuae.com/wp-content/uploads/2026/01/Al-Naseem-Community-by-Modon.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/80cdb516b9c8474eaff502346a141922.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Modon · Al Naseem Community current project and FAQs",
+          "url": "https://www.modon.com/real-estate/al-naseem-community",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 195
+        },
+        {
+          "id": "current-brochure",
+          "label": "Al Naseem Community · revised original brochure, broker mirror",
+          "url": "https://mcpuae.com/wp-content/uploads/2026/01/Al-Naseem-Community-by-Modon.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        },
+        {
+          "id": "earlier-brochure",
+          "label": "Al Naseem · earlier original brochure via CASADIOR",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/f22592df0429446f8011cde92f4b435a.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "earlier-plans",
+          "label": "Al Naseem · earlier original villa drawings via CASADIOR",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/80cdb516b9c8474eaff502346a141922.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "calendar",
+          "label": "Impala · historical Al Naseem calendar transcribed from developer sheet; original PDF not retrieved",
+          "url": "https://impalarealestate.com/hudayriyat-island/payment-plans/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 45
+        },
+        {
+          "id": "faq-conflict",
+          "label": "Modon · central FAQ with conflicting Al Naseem dates",
+          "url": "https://www.modon.com/faqs",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "handover": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "current-brochure"
+        ],
+        "floorPlanUrl": [
+          "earlier-plans"
+        ],
+        "community": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "current-brochure",
+          "earlier-brochure"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "paymentNote": [
+          "developer",
+          "calendar"
+        ],
+        "handoverNote": [
+          "developer",
+          "faq-conflict",
+          "calendar"
+        ],
+        "units": [
+          "current-brochure",
+          "earlier-brochure",
+          "earlier-plans"
+        ],
+        "facts": [
+          "developer",
+          "current-brochure"
+        ],
+        "unresolved": [
+          "current-brochure",
+          "earlier-brochure",
+          "earlier-plans",
+          "developer",
+          "faq-conflict"
+        ],
+        "paymentStages": [
+          "developer"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protectedmodon-project-09 AlNaseemCommunity, ModonHudayriyatAbuDhabi officialpage. NotAlNaseemMudonDubai/DubaiProperties, Jumeirahhotel ormedical/schools. CurrentofficialfourtosixBRvillaFAQgivenpriorityovermastercarderroneousone–fiveapartments. No ownershiptransferguessed.",
+        "location": "OwnprimaryHudayriyatIslandAbuDhabi andpublicoriginalbrochuresmaps. Exactrootregistryabu-dhabi-hudayriyat-island; no guessedpin/plotcoordinates ortraveltimes. Bothbrochuresprint750/930plotcategories, notpublicinventory.",
+        "residences": "Currentmainfour–sixBRstandaloneGF+1,twofacadesSouthCalifornian/ModernContemporary. Actualrevised43pPDFGF+FF18/20/22andearlier4pPDF2/3/4allthreewholefamiliesread;guestroomcountedwherelabelled,staff/driverroomnotbedrooms. No currentunitcount assumed.",
+        "areas": "Rootactualrevised43pMCPhostedbrochure17/19/21visiblepanels4BR516internal153external,5BR587+195,6BR639+143m2; plotsav750/930/930. FullGF+FF18/20/22read. CurrentownHTML5BR587/195matches. Actualearlier26poriginalCASADIOR/ReellyPDF8/9/106BR345+275620,5BR345+215560,4BR320+170490m2excludingparking; actualarithmeticPASS. Actualearlier4pplans2/3/4wholefamiliesread. RevisedinternalBUA notarithmeticallyderivedfromoldfloorareas, no inventedreconciliation oraddplot. 669/782summarieswouldsumrevisedcomponentsbutpublicunitrowsretaincomponentsandlabels. No falsecurrent4BR490claim.",
+        "amenities": "Owncommunitycentre/gym/pool/paths/cycling/basketball/schools/playadvertised; notoperationcertification. Brochuredrawingsshowprivatepools/courtyards/garage butcontractinclusionsmustconfirm. Privatepoolcurrentchosenbuiltstatusnotassumed. Avoidbrokersemifurnished/servicecharge5AED/ft2withoutprimaryproof.",
+        "pricing": "CurrentownFAQ4BRfrom7.8m;fivefactsfrom9m/sixfrom10m. Headline7.8mexplicit4BRpublishedguide, notcurrentstockor5BRquote. No brokerdiscount/olderunrepricedblockoffer/rentalreturn adopted. Ownfreeholdallnationalitiesnotlegaleligibilityguarantee. Missingdatedselectedquote/charges explicit.",
+        "payment": "CurrentownmainfactsandFAQ40/60only; twopublishedaggregates40before60handover sum100, no guessedreservationtiming. Impalapublicsecondarytableactuallyreadhistorical10+5+5+5+10+5+60=100; dates30Sep2025/1Mar2026/30Sep2026/31Jul2027/30Nov2027/final1Mar2028; originalPDFnotretrieved so notclaimedvisuallyverifiedoriginalpayment. LinkedbrokerTanamiGET403honored,no bypass, otherpublicdownloadcardsformonly. Mitchellspublicsampleoffersnotexposedasadirecthrefretrievable, nopersonalcontact/submission. Nooffer-specificschedulepresentedascurrentgeneralterms.",
+        "handover": "CurrentownprojectFAQfirstphaseQ42027; centralModonFAQgenericHudayriyatanswerQ42026andalsoexactprojectQ42027onSAMEpage. Brokertranscribedpayment1Mar2028notcertification. HeadlineNULLretainsdisagreementinsteadchooseconvenientdate; noelapsedforecastmeansready. SecondaryTanamiQ32027andUpsidesoldQ42026notadopted.",
+        "documents": "OrdinaryownprojectGET200,centralFAQGET200;26p10MB/4p1.28MBoriginalbrokerpublicReellyfilesand43p12.35MBMCPrevisionretrieved. Allsixnumericpanelsandbotheditions3wholefamilylayoutsactuallyviewed atboundedreadablePNG. PrimaryoriginalModonPDFnotfoundviaexhaustivetargetedpublicsearch; brokerhostedoriginalshonestlykindbroker. Currentbrochurelatestlooknotassertedlatestapprovedtimestamp; labelledrevisedrelativecleardifferentclassification. Underlyingallbrochure/planversions/retellings/calendarpooled200:90+45+20+45=200, countwholemixedrows/areafact/allwarningspluscalendar/handovernotesconservativelybeforefreeze. Main195/centralFAQ25separateunderlyingnonduplicatedconflict. UTF8,mediaunchanged,noforms/deployment. Independentmixedbudgetincludedoverview[1],promptinggenuinepublictrimfrom22to11words; finalconservative199/200. AuthorhelperstaleDONOTrerun."
+      },
+      "community": "Hudayriyat Island",
+      "overview": [
+        "Ground-plus-one villas are arranged around private plots, with two façade styles advertised by Modon.",
+        "Brochure editions use different area measurements; confirm the contracted specification."
+      ],
+      "locationNote": "Al Naseem Community on Hudayriyat Island, Abu Dhabi; confirm the plot and access routes on the selected plan.",
+      "priceLabel": "Published 4BR starting guide",
+      "priceNote": "Modon’s FAQ lists four-bedroom villas from AED 7.8 million; its project facts list five-bedroom homes from AED 9 million and six-bedroom homes from AED 10 million. Obtain a current unit quotation.",
+      "paymentNote": "Modon publishes 40/60. A broker-transcribed historical calendar ends on 1 March 2028; its original developer PDF was not retrieved, so it is not a new booking schedule.",
+      "handoverNote": "The project FAQ targets first-phase Q4 2027, while Modon’s central FAQ also lists Q4 2026. A broker’s historical payment calendar references March 2028. Confirm the applicable phase and contracted date.",
+      "units": [
+        {
+          "label": "4BR · revised brochure",
+          "area": "516 m² internal + 153 m² external BUA",
+          "sourceIds": [
+            "current-brochure"
+          ]
+        },
+        {
+          "label": "5BR · revised brochure",
+          "area": "587 m² internal + 195 m² external BUA",
+          "sourceIds": [
+            "current-brochure"
+          ]
+        },
+        {
+          "label": "6BR · revised brochure",
+          "area": "639 m² internal + 143 m² external BUA",
+          "sourceIds": [
+            "current-brochure"
+          ]
+        },
+        {
+          "label": "4BR · earlier brochure",
+          "area": "490 m² floor total, excluding parking",
+          "sourceIds": [
+            "earlier-brochure",
+            "earlier-plans"
+          ]
+        },
+        {
+          "label": "5BR · earlier brochure",
+          "area": "560 m² floor total, excluding parking",
+          "sourceIds": [
+            "earlier-brochure",
+            "earlier-plans"
+          ]
+        },
+        {
+          "label": "6BR · earlier brochure",
+          "area": "620 m² floor total, excluding parking",
+          "sourceIds": [
+            "earlier-brochure",
+            "earlier-plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Before handover · published aggregate",
+          "percent": 40,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "On handover · published aggregate",
+          "percent": 60,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Brochure plots",
+          "value": "Illustrated average plots: 750 m² for 4BR; 930 m² for 5BR and 6BR. Plot area is separate from building area.",
+          "sourceIds": [
+            "current-brochure"
+          ]
+        },
+        {
+          "label": "Ownership",
+          "value": "Modon advertises freehold ownership for all nationalities; confirm the selected property’s title and terms.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Revised internal/external BUA and earlier floor totals use different published measurements; do not combine them.",
+        "Earlier totals exclude parking. Confirm the applicable brochure revision, parking allocation, pool specification, service charges and availability.",
+        "Conflicting completion references do not establish actual handover; obtain phase-specific confirmation."
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "id":"emaar-project-52","name":"Marèva","developerSlug":"emaar",
+ "fields":{
+  "description":"Marèva is Emaar’s four to six bedroom villa collection at The Oasis. The neighbourhood is planned around water, greenery and shared recreation, with contemporary homes designed for family living and entertaining. Its 311-villa launch release is distinct from Marèva 2.",
+  "areaId":"dubai-the-oasis","location":"The Oasis","emirate":"Dubai","type":"Villa","bedrooms":"4–6","price":13470000,"handover":"Q1 2030 reported","paymentPlan":"80/20 reported",
+  "amenities":["Community swimmable lagoon","Swimming pools","Pocket parks","Beaches","Wellness and spa facilities","Community parks and playgrounds","Jogging and cycling tracks","Sports courts and fitness facilities","Retail centres","Community centre","Planned schools","Clubhouse"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Marèva at The Oasis","url":"https://www.emaar.com/en/properties/mareva-at-the-oasis","kind":"developer","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"brochure","label":"Emaar: Marèva and Marèva 2 brochure","url":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":140},
+    {"id":"plans","label":"Emaar: Marèva villa plans","url":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Marèva fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/mareva-mareva-2/MAREVA_THE_OASIS_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"payment","label":"Marèva payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/mareva-mareva-2/MAREVA_THE_OASIS_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Mareva The Oasis","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/mareva-the-oasis","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+   ],
+   "fieldSources":{"description":["official","facts"],"overview":["brochure"],"location":["brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure"],"price":["official","facts","finder"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Own Marèva page and Marèva-labelled plan cover confirmed; shared brochure includes Marèva 2 but its inventory is excluded.",
+    "location":"The Oasis confirmed; community connectivity checked without assuming a specific villa’s view or travel time.",
+    "residences":"Four to six bedroom villas, including five-bedroom options with and without basements.",
+    "areas":"All eleven plan pages read; four/six-bedroom drawings visually checked. Ten totals retained separately.",
+    "amenities":"Shared brochure reviewed for community water, wellness, parks, sports, retail and planned school facilities.",
+    "pricing":"AED 13.47m official starting price agrees with the four-bedroom launch sheet; category entry prices separately attributed.",
+    "payment":"Marèva’s own payment sheet visually checked: nine stages totalling 100%, with 40/60/80% construction triggers.",
+    "handover":"February 2030 estimate agrees between the original payment sheet and Property Finder.",
+    "documents":"Official shared brochure and Marèva plans linked; own broker-hosted Emaar fact/payment sheets attributed. Images deferred."
+   },
+   "community":"The Oasis",
+   "overview":["The brochure presents a waterfront community with beaches, landscaped paths and outdoor recreation. Villa interiors use warm neutral colours, while balconies and roof terraces extend the living spaces outside. Facility opening dates and the outlook of an individual plot should be checked separately."],
+   "locationNote":"The Oasis sits in Dubai’s southern villa corridor. The brochure identifies Al Maktoum International Airport, Dubai Hills Mall, Dubai Marina and Downtown Dubai as reference destinations. Journey times depend on the chosen route and traffic.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises Marèva from AED 13.47m. Its launch sheet lists four-bedroom villas from AED 13.47m, five-bedroom villas from AED 15.38m and six-bedroom villas from AED 23.47m. Property Finder displays a higher current headline around AED 14m while also marking the developer project sold out. Confirm a current unit quotation and availability.",
+   "paymentNote":"The launch plan is 10% on booking, seven further 10% instalments and 20% at estimated completion. Later stages are linked to 40%, 60% and 80% construction. Past calendar dates are historical obligations, not a fresh payment offer; request the schedule applicable to your purchase.",
+   "handoverNote":"The Marèva payment sheet estimates completion in February 2030, consistent with Property Finder. The contractual date and latest construction programme require confirmation.",
+   "units":[
+    {"label":"4 bedroom + basement · Chamfer","area":"7,257.77 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom + basement · Contemporary","area":"7,254.33 sq ft total","sourceIds":["plans"]},
+    {"label":"4 bedroom + basement · Classic","area":"7,301.80 sq ft total","sourceIds":["plans"]},
+    {"label":"5 bedroom · Chamfer","area":"7,965.50 sq ft total","sourceIds":["plans"]},
+    {"label":"5 bedroom · Contemporary","area":"8,101.02 sq ft total","sourceIds":["plans"]},
+    {"label":"5 bedroom + basement · Chamfer","area":"10,398.90 sq ft total","sourceIds":["plans"]},
+    {"label":"5 bedroom + basement · Contemporary","area":"10,290.50 sq ft total","sourceIds":["plans"]},
+    {"label":"5 bedroom + basement · Classic","area":"10,363.05 sq ft total","sourceIds":["plans"]},
+    {"label":"6 bedroom + basement · Chamfer","area":"12,986.43 sq ft total","sourceIds":["plans"]},
+    {"label":"6 bedroom + basement · Contemporary","area":"12,778.79 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2028 · 40% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2029 · 80% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"February 2030 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Marèva launch collection","value":"311 standalone villas: 155 four-bedroom, 69 five-bedroom and 87 six-bedroom homes. Launch minimum plots are respectively 8,105, 8,705 and 14,384 sq ft; actual plots vary.","sourceIds":["facts"]},
+    {"label":"Area basis","value":"Plan totals include floors, carports and terraces/balconies; they are not plot sizes.","sourceIds":["plans"]},
+    {"label":"Landscape specification","value":"Drawings show pools and landscaping, but their disclaimer assigns actual landscape design to the owner. Confirm inclusions and costs.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current stock, individual villa price and updated payment obligations need confirmation.","Confirm the selected plot, basement specification, lift/pool inclusion, landscape scope and finishes in the sale documents.","Service charges, amenity delivery dates and current construction progress are not independently verified.","Marèva 2 has its own project record and release mix; it is not counted in these 311 homes.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

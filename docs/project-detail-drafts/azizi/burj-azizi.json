@@ -1,0 +1,222 @@
+{
+  "id": "azizi-project-10",
+  "name": "Burj Azizi",
+  "developerSlug": "azizi",
+  "fields": {
+    "description": "Burj Azizi is planned as a mixed-use tower on Sheikh Zayed Road, bringing residences, holiday homes, penthouses, a hotel and retail into one building. Apartment plans and duplex penthouses have distinct layouts and floor ranges. The ambitious tower-wide concept should be read separately from the unit actually offered for sale.",
+    "areaId": "dubai-trade-centre-first",
+    "location": "Trade Centre First",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Planned swimming pools",
+      "Planned gym and yoga facilities",
+      "Planned sauna and wellness spaces",
+      "Planned cinema",
+      "Planned resident lounges",
+      "Planned children’s play area",
+      "Planned retail and dining"
+    ],
+    "brochureUrl": "https://manage.tanamiproperties.com/Project/Brochure/1533/Burj_Azizi.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_7601_TO_9001_TWO_BR_PH.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "facts",
+          "label": "Azizi’s 18 February 2025 sales announcement · AETOSWire distribution",
+          "url": "https://aetoswire.com/en/news/az19022025",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 185
+        },
+        {
+          "id": "brochure",
+          "label": "BurjAzizi 80-page brandedbrochure · Tanami mirror",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/1533/Burj_Azizi.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "finder",
+          "label": "PropertyFinder BurjAziziTower · conflicting legacyfields",
+          "url": "https://www.propertyfinder.ae/en/new-projects/azizi-developments/burj-azizi-tower",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "fam",
+          "label": "fämProperties brochure/launchguide",
+          "url": "https://famproperties.com/sheikh-zayed-road-dubai/burj-azizi-tower/brochures",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 45
+        },
+        {
+          "id": "plan1",
+          "label": "BrandedBurjAzizi exact-unitplan · Mitchell’s publicmirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_1501_TO_5601_ONE_BR.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plan2",
+          "label": "BrandedBurjAzizi exact-unitplan · Mitchell’s publicmirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_5801_TO_7201_TWO_BR.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plan3",
+          "label": "BrandedBurjAzizi exact-unitplan · Mitchell’s publicmirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_5815_TO_7215_THREE_BR.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plan4",
+          "label": "BrandedBurjAzizi exact-unitplan · Mitchell’s publicmirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_7602_TO_9002_ONE_BR_PH.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plan5",
+          "label": "BrandedBurjAzizi exact-unitplan · Mitchell’s publicmirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/burj-azizi/BURJ_AZIZI_FLOOR_PLAN_7601_TO_9001_TWO_BR_PH.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "facts",
+          "brochure"
+        ],
+        "location": [
+          "facts",
+          "finder"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts",
+          "brochure"
+        ],
+        "overview": [
+          "facts",
+          "brochure"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "plan1",
+          "plan2",
+          "plan3",
+          "plan4",
+          "plan5"
+        ],
+        "price": [
+          "facts",
+          "finder",
+          "fam"
+        ],
+        "paymentPlan": [
+          "finder",
+          "fam"
+        ],
+        "handover": [
+          "facts",
+          "finder",
+          "fam"
+        ],
+        "documents": [
+          "brochure",
+          "plan1",
+          "plan2",
+          "plan3",
+          "plan4",
+          "plan5"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Burjazizi.com returned 403/429. Original developer launch distributed by AETOSWire and branded brochure checked; planned records are not achievements.",
+        "location": "Primary launch confirms Sheikh Zayed Road; PFhierarchyTradeCentreFirst, notTradeCentre 2. Exactarea notyetmapped.",
+        "residences": "Launch apartments 1–3 andPH 1–5; brochurePH 1–3. Release scope explicitlyqualified; five exact-unit plans inspected.",
+        "areas": "Brochure 6/26/36/55 and five exact-unit plans visually read at 1700 px. Duplex totals are whole-home; separate two-page floorplate also checked.",
+        "amenities": "Primary launch describes planned resident facilities; hotel/visitor features not automatically included.",
+        "pricing": "Historical rate distinguished from PF 9.3 mheader/8.825 mbody andfäm 8 mguide; null current price.",
+        "payment": "PF 80/20 versusFAQ 20/50/30 andfäm 10/70/20 alltotal 100 butconflict. No primary current calendar; null plan/stages.",
+        "handover": "Original 2028 target versus portalAugust 2030; no actual completion or current contract assumed.",
+        "documents": "80-page brochure and five exact-unit plans retrieved from public brokers. Potentially overlappingPDFpool 190 words, originallaunch 185 words; no gated forms."
+      },
+      "community": "Trade Centre First",
+      "overview": [
+        "The 2025 developer launch described a planned 725 m tower with 131+ storeys and one- to three-bedroom apartments plus one- to five-bedroom penthouses. The retrieved brochure presents a narrower one- to three-bedroom penthouse collection; current release scope requires confirmation."
+      ],
+      "locationNote": "Sheikh Zayed Road, Trade Centre First, Dubai. The exact unit’s access, outlook and assigned floor must be checked against its approved plan.",
+      "priceLabel": "Current price requires confirmation",
+      "priceNote": "The 2025 developer announcement quoted AED 10,000–17,000 per sq ft, a historical rate rather than a current entry price. Property Finder’s rounded AED 9.3 m launch header conflicts with its AED 8.825 m body; fäm’s guide says AED 8 m. No single current project-wide price is adopted.",
+      "paymentNote": "Property Finder’s key box lists 80% construction/20% handover, but its FAQ lists 20% booking/50% construction/30% handover. fäm reports 10/70/20. Each totals 100%, yet none is a verified current unit-specific primary schedule; headline plan and stages are withheld.",
+      "handoverNote": "The developer’s February 2025 sales announcement targeted 2028; Property Finder forecasts August 2030/30 August 2030, also echoed by fäm. These are different dated references, not a confirmed contractual completion. No current primary handover calendar was retrieved.",
+      "units": [
+        {
+          "label": "1-bedroom · units 1501–5601, floors 15–56",
+          "area": "1,062.62 sq ft total; no balcony area printed",
+          "sourceIds": [
+            "plan1"
+          ]
+        },
+        {
+          "label": "2-bedroom · units 5801–7201, floors 58–72",
+          "area": "1,478.54 sq ft total: 1,438.07 interior +40.47 balcony",
+          "sourceIds": [
+            "plan2"
+          ]
+        },
+        {
+          "label": "3-bedroom · units 5815–7215, floors 58–72",
+          "area": "2,034.83 sq ft total; no balcony area printed",
+          "sourceIds": [
+            "plan3"
+          ]
+        },
+        {
+          "label": "1-bedroom duplex penthouse · units 7602–9002",
+          "area": "1,765.19 sq ft whole-home total; floors 76–90, not per level",
+          "sourceIds": [
+            "plan4"
+          ]
+        },
+        {
+          "label": "2-bedroom duplex penthouse · units 7601–9001",
+          "area": "2,989.70 sq ft whole-home total: 2,926.41 interior +63.29 balcony",
+          "sourceIds": [
+            "plan5"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [],
+      "unresolved": [
+        "The planned 725 m height, world records and seven-star hotel are marketing/design ambitions, not achieved records or an independently certified hotel rating. Hotel and visitor facilities are not automatically included in a residence’s rights or charges.",
+        "Portal architect/floor-count fields conflict with newer project material and are not adopted. The launch penthouse scope is broader than the retrieved brochure’s collection; confirm the exact release, current plans and any later revisions.",
+        "Confirm present inventory, legal use/tenure, final unit price, dated payment milestones, completion, furnishing, service charges and parking allocation. Printed duplex totals cover the whole home and are not added across levels. Images remain illustrative."
+      ]
+    }
+  }
+}

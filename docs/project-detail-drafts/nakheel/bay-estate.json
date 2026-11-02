@@ -1,0 +1,279 @@
+{
+  "id": "nakheel-project-01",
+  "name": "Bay Estate",
+  "developerSlug": "nakheel",
+  "fields": {
+    "description": "Bay Estate is Nakheel's gated coastal community at Dubai Islands. Its Verda, Cala and Agora neighbourhoods combine family homes with landscaped public spaces and waterfront facilities. The residential offering includes three- and four-bedroom townhouses, four-bedroom villas and a separate selection of villa plots.",
+    "areaId": "dubai-islands",
+    "location": "Dubai Islands",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "3–4",
+    "price": 5900000,
+    "handover": "January 2031 · homes estimate",
+    "paymentPlan": "60/40 · homes reference",
+    "amenities": [
+      "Swimmable lagoons",
+      "Beach and beach club",
+      "Waterfront promenade",
+      "Marina facilities",
+      "Pool clubhouses",
+      "Retail plaza",
+      "Sports and wellness spaces",
+      "Children's play areas",
+      "Landscaped parks and lawns",
+      "Community mosque"
+    ],
+    "brochureUrl": "https://dubaiholding.app.box.com/s/dhm566l8e2naosucby555ww229qr1mmj",
+    "floorPlanUrl": "https://dubaiholding.app.box.com/s/te16u0407lusqd1946way67llgrw14so",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Nakheel: Bay Estate",
+          "url": "https://www.nakheel.com/en/new-launches/bay-estate",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "microsite",
+          "label": "Nakheel Bay Estate: residences and neighbourhoods",
+          "url": "https://bayestate.nakheel.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "launch",
+          "label": "Nakheel Bay Estate launch announcement, 5 October 2026",
+          "url": "https://www.nakheel.com/en/media-centre/press-releases/news-detail/2026/10/05/nakheel-unveils-bay-estate-a-new-gated-waterfront-community-at-dubai-islands",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Nakheel Bay Estate townhouses and villas brochure, official Box file",
+          "url": "https://dubaiholding.app.box.com/s/dhm566l8e2naosucby555ww229qr1mmj",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "plans",
+          "label": "Nakheel Bay Estate residence floor plans, official Box file",
+          "url": "https://dubaiholding.app.box.com/s/te16u0407lusqd1946way67llgrw14so",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "payment",
+          "label": "Nakheel Bay Estate prices and payment plans, official two-page file",
+          "url": "https://dubaiholding.app.box.com/s/et9xrzidzu239pltecqfjx7dvaumxn41",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "launch",
+          "microsite"
+        ],
+        "overview": [
+          "microsite",
+          "brochure",
+          "plans"
+        ],
+        "location": [
+          "launch"
+        ],
+        "type": [
+          "microsite"
+        ],
+        "bedrooms": [
+          "microsite",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "microsite"
+        ],
+        "price": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Official 5 October 2026 launch identifies approximately 360 homes plus separately offered villa plots; no current inventory inference.",
+        "location": "Dubai Islands off Deira confirmed by developer; exact unit frontage not inferred.",
+        "residences": "Three/four-bedroom townhouses and four-bedroom attached, Plus and garden villas identified; plot purchase kept separate from a delivered villa.",
+        "areas": "All15 area panels in official20-page plan file visually read, preserving printed total-area labels and avoiding conflation with price-sheet average NSA/plot sizes.",
+        "amenities": "Official project page/microsite and own 91-page homes brochure reviewed; planned facilities and private-pool exclusions distinguished.",
+        "pricing": "Official sheet uses averages, not starting prices:5.9/ 6.9/ 7.2/ 8.9/ 10m homes. Plot page has16.5–20.5m overall range, not unsupported broker averages.",
+        "payment": "Homes20+5+5+10+10+5+5+40 totals 100. Plot20+15+five13 stages totals 100, separate chronology.",
+        "handover": "January 2031 estimate explicitly applies to homes; last plot instalment September 2029 is not a villa-completion promise.",
+        "documents": "Official public Box files downloaded successfully:91-page homes brochure,20-page plans and 2-page price/payment file; plan index,all numerical panels,payment page1 and pool/landscape disclaimer visually inspected."
+      },
+      "community": "Bay Estate · Dubai Islands",
+      "overview": [
+        "Verda centres on gardens and family living, Cala on the shoreline, and Agora on shared community experiences. The attached-villa Plus adds another level for flexible family use. Compare the actual arrangement of rooms and outside space rather than treating each four-bedroom format as interchangeable.",
+        "The floor-plan disclaimer excludes swimming pools and landscaping from the supplied home. Rendered gardens, furnishings and views are illustrative; the purchase agreement should identify the selected home's specification and the owner's additional works."
+      ],
+      "locationNote": "Bay Estate forms part of Dubai Islands off the Deira coastline. The developer describes a private gated estate with pedestrian routes and water-related facilities. A coastal masterplan does not establish that every home is beachfront or has the same marina, beach or lagoon access.",
+      "priceLabel": "Published 3-bedroom townhouse average",
+      "priceNote": "Official average home prices in AED: three-bedroom townhouse 5.9m; four-bedroom townhouse 6.9m; attached villa 7.2m; Plus 8.9m; garden villa 10m. These are averages, not available unit offers. The separate villa-plot range is AED 16.5m–20.5m.",
+      "paymentNote": "The schedule below applies to homes. Plots instead require 20% in October 2026, 15% in March 2027, then 13% each September 2027, March 2028, September 2028, March 2029 and September 2029. Fees and subsequent villa construction are separate.",
+      "handoverNote": "The official sheet estimates homes completion in January 2031. September 2029 is the last plot instalment date; it does not establish delivery of a completed villa.",
+      "units": [
+        {
+          "label": "3-bedroom townhouses · six reviewed variants",
+          "area": "3,054.91–3,084.83 sq ft printed total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom townhouses · four reviewed variants",
+          "area": "3,512.69–3,545.74 sq ft printed total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom attached villas · two variants",
+          "area": "3,688.04–3,693.64 sq ft printed total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom attached villas Plus · two variants",
+          "area": "5,257.20–5,262.15 sq ft printed total area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4-bedroom garden villa",
+          "area": "5,200.15 sq ft printed total area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Down payment · October 2026",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2028",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2029",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · January 2031 estimate",
+          "percent": 40,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Initial launch and wider estate",
+          "value": "Nakheel's announcement identifies approximately 360 three/four-bedroom homes plus plots in the launch. Its wider masterplan spans 653,709 sq m with2.4km of beachfront and 6.5km of waterfront; these are estate-level figures.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "What the price-sheet areas mean",
+          "value": "Average NSA is separate from plot area and the individual drawings' total areas. For example, the garden-villa sheet quotes average 5,200 sq ft NSA and 6,500 sq ft plot; the own drawing prints5,200.15 sq ft total area.",
+          "sourceIds": [
+            "payment",
+            "plans"
+          ]
+        },
+        {
+          "label": "Villa plots",
+          "value": "The separate plot page quotes average 8,000 sq ft plot area and 7,800 sq ft GFA. This is a land-and-permitted-floor-area reference, not an included completed villa.",
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "label": "Private pool and landscape exclusion",
+          "value": "The residence drawings explicitly exclude swimming pools and landscape features, assigning these to the end user. Confirm design approvals and the additional construction/maintenance budget.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm current unit/plot availability, exact frontage, registered area, plot boundaries and final pricing; published averages are not live offers.",
+        "Home NSA, floor-plan total area, plot area and permitted GFA are different measures; confirm the selected property's contractual area schedule.",
+        "The plot sheet does not establish completed-villa delivery. Confirm plot controls, approvals, construction obligations and infrastructure handover.",
+        "Service charges, parking allocation, final specification, amenity access and delivery dates require unit-specific documents. Private pools and landscaping are excluded from the reviewed residence plans. Images remain illustrative."
+      ]
+    }
+  }
+}

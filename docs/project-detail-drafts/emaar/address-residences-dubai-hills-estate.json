@@ -1,0 +1,67 @@
+{
+ "id":"emaar-project-67","name":"Address Residences Dubai Hills Estate","developerSlug":"emaar",
+ "fields":{
+  "description":"Address Residences Dubai Hills Estate brings branded apartments and three-bedroom townhouses to a landscaped setting near the park and mall. Two towers share leisure spaces, with a rooftop garden and outdoor cinema adding places to unwind above the neighbourhood. One to three bedroom apartments offer different balcony arrangements and outlooks; the selected building and floor matter when comparing homes.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1930000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Landscaped podium","Rooftop garden","Outdoor rooftop cinema","Outdoor yoga area","Pool deck","Children’s playground","Multipurpose sports court","Fitness centres in each tower","Indoor multipurpose rooms","24-hour security"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/ADDRESS-RESIDENCES_brochure.pdf",
+  "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ADDRESS_RESIDENCES_floorplan_eb76a4e6aa.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Address Residences at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/address-residences-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"brochure","label":"Emaar: Address Residences Dubai Hills Estate brochure","url":"https://www.emaar.com/cms-media/uploads/ADDRESS-RESIDENCES_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"plans","label":"Emaar: Address Residences Dubai Hills Tower A plans","url":"https://www.emaar.com/cms-media/uploads/ADDRESS_RESIDENCES_floorplan_eb76a4e6aa.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"launch","label":"Emaar launch overview and payment schedule, copy hosted by Rake Ventures","url":"https://rakeventures.com/wp-content/uploads/2024/08/ADDRESS_RESIDENCES_DHE_ONE_PAGER.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"finder","label":"Property Finder: Address Residences at Dubai Hills Estate","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/address-residences-at-dubai-hills-estate","kind":"portal","checkedOn":"2026-10-31","derivedWords":135},
+    {"id":"bayut","label":"Bayut: Address Residences Dubai Hills guide","url":"https://www.bayut.com/buildings/address-residences-dubai-hills-estate/","kind":"portal","checkedOn":"2026-10-31","derivedWords":55}
+   ],
+   "fieldSources":{"description":["official","brochure"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official"],"price":["official","launch"],"units":["plans","finder","official"],"documents":["brochure","plans"],"paymentPlan":["launch","finder"],"handover":["launch","finder"]},
+   "reviewCoverage":{
+    "identity":"Dubai Hills Estate project confirmed, distinct from Address Residences Dubai Creek Harbour and other Address schemes.",
+    "location":"Dubai Hills Estate park/mall setting and Al Khail Road access confirmed; planned rail references not treated as operational.",
+    "residences":"Two towers in official brochure; one to three bedroom apartments and three-bedroom townhouses on own official page.",
+    "areas":"All fourteen Tower A plan pages reviewed. Tower B ranges explicitly attributed to Property Finder; townhouse area remains unverified.",
+    "amenities":"Own official page and brochure confirm rooftop cinema, garden, yoga, sports and fitness facilities.",
+    "pricing":"Official AED 1.93m headline retained; additional starts identified as August 2024 launch values.",
+    "payment":"Launch overview table visually checked: ten stages, including two 5% instalments, total 100%.",
+    "handover":"February 2029 launch estimate agrees with Property Finder; stale progress figure not promoted to current status.",
+    "documents":"Official brochure and Tower A plans linked. Additional plan download attempts unsuccessful; missing packs disclosed. Images unchanged."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure describes Tower A with 18 floors and Tower B with 21, positioned to make use of park and district views. A residents’ lobby leads into homes designed around contemporary living, while the shared podium and roof spaces provide room for exercise and social time. Address branding is part of the published positioning, but a specific furnishing package, hotel service entitlement or management arrangement needs confirmation in the sale documents."],
+   "locationNote":"The project is in Dubai Hills Estate, near Dubai Hills Park and Dubai Hills Mall, with the business park, schools and healthcare within the wider district. Al Khail Road provides city access. Brochure references to future Metro or rail connections are not confirmation of an operating station at the development.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.93m. The August 2024 launch overview lists AED 1.93m, AED 2.77m and AED 3.97m starts for one, two and three bedrooms. Current prices, townhouse terms and stock require confirmation.",
+   "paymentNote":"The launch schedule totals 80% before completion and 20% on completion. August 2026 and October 2027 are 5% stages. Obtain the selected unit’s current outstanding schedule.",
+   "handoverNote":"February 2029 is the launch estimate and Property Finder’s reported delivery date. Confirm the current contractual programme.",
+   "units":[
+    {"label":"1 bedroom · Tower A","area":"749–752 sq ft total area, as printed","sourceIds":["plans"]},
+    {"label":"2 bedrooms · Tower A","area":"1,074–1,250 sq ft total area, as printed","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Tower A","area":"1,527–1,650 sq ft total area, as printed","sourceIds":["plans"]},
+    {"label":"1 bedroom · Tower B, portal-reported","area":"749–921 sq ft; obtain the unit’s plan","sourceIds":["finder"]},
+    {"label":"2 bedrooms · Tower B, portal-reported","area":"1,074–1,261 sq ft; obtain the unit’s plan","sourceIds":["finder"]},
+    {"label":"3 bedrooms · Tower B, portal-reported","area":"1,527–1,688 sq ft; obtain the unit’s plan","sourceIds":["finder"]},
+    {"label":"3 bedroom townhouse","area":"Type confirmed; verified layout and area awaited","sourceIds":["official"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · August 2024 launch","percent":10,"sourceIds":["launch"]},
+    {"stage":"October 2024","percent":10,"sourceIds":["launch"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["launch"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["launch"]},
+    {"stage":"February 2026 · 10% construction","percent":10,"sourceIds":["launch"]},
+    {"stage":"August 2026 · 20% construction","percent":5,"sourceIds":["launch"]},
+    {"stage":"March 2027 · 40% construction","percent":10,"sourceIds":["launch"]},
+    {"stage":"October 2027 · 60% construction","percent":5,"sourceIds":["launch"]},
+    {"stage":"April 2028 · 80% construction","percent":10,"sourceIds":["launch"]},
+    {"stage":"February 2029 · estimated completion","percent":20,"sourceIds":["launch"]}
+   ],
+   "facts":[
+    {"label":"Published apartment mix","value":"The launch overview lists 256 one-bedroom, 250 two-bedroom and 69 three-bedroom apartments: 575 apartments. It does not separately quantify townhouses.","sourceIds":["launch"]},
+    {"label":"Tower A podium access","value":"Three-bedroom A111 on level one is marked with podium access and a published total of 1,650 sq ft. The upper-floor A.4 layout is printed at 1,527 sq ft. Figures are rounded in this plan pack, so use the contractual unit schedule for precise areas.","sourceIds":["plans"]},
+    {"label":"Townhouse area is unresolved","value":"Bayut gives approximately 1,688 sq ft for a townhouse, while Property Finder includes that size within Tower B’s three-bedroom apartment range. Without an identified townhouse plan, that figure is not used as a verified townhouse size.","sourceIds":["bayut","finder"]}
+   ],
+   "unresolved":["Complete Tower B and townhouse floor-plan packs were not obtained; Tower B ranges are portal-reported and townhouse area remains unverified.","Current stock, construction progress and contractual delivery require confirmation. The portal progress update is dated September 2025.","Service charges, parking, furnishing, hospitality services and final specifications were not verified.","Views are unit-specific. Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "aliyas-real-estate-web",
+  "version": "1.0.0",
+  "description": "Aliyas Real Estate — a premium UAE off-plan property discovery experience",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "playwright test",
+    "test:unit": "node --experimental-strip-types --test tests/enquiries.test.ts",
+    "format": "prettier --write src tests next.config.ts playwright.config.ts tsconfig.json README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource-variable/roboto-condensed": "^5.3.0",
+    "@fontsource/hind": "^5.3.0",
+    "@fontsource/lato": "^5.3.0",
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "lucide-react": "^1.64.0",
+    "next": "^16.4.3",
+    "nodemailer": "^10.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "lighthouse": "^13.6.0",
+    "node": "^26.13.0",
+    "prettier": "^3.9.10",
+    "typescript": "^7.0.2"
+  },
+  "private": true,
+  "type": "module"
+}

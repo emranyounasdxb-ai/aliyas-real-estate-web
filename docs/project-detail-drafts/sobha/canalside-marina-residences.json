@@ -1,0 +1,185 @@
+{
+  "id": "sobha-project-14",
+  "name": "Canalside Marina Residences",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Canalside Marina Residences is Sobha’s canal-side apartment collection on Siniya Island in Umm Al Quwain. The project documents show Towers A and B, with one- to three-bedroom layouts ranging from compact balconies to larger yards and terraces.",
+    "areaId": "uaq-siniya-island",
+    "location": "Siniya Island",
+    "emirate": "Umm Al Quwain",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1360000,
+    "handover": "December 2029 · developer brochure estimate",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Infinity pool",
+      "Lagoon beach",
+      "Marina and canal promenades",
+      "Landscaped parks",
+      "Cafés and retail",
+      "Yacht-club facilities",
+      "Community golf facilities"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-07/Brochure%20-%20Canalside%20Marina%20Residences%20%281%29.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-07/Brochure%20-%20Canalside%20Marina%20Residences%20%281%29.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Canalside official project page",
+          "url": "https://sobharealty.com/properties-in-uaq/sobha-siniya-island/marina-residences/canalside",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Canalside official brochure and floor plans, July 2025 file",
+          "url": "https://sobharealty.com/sites/default/files/2025-07/Brochure%20-%20Canalside%20Marina%20Residences%20%281%29.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Canalside payment/timeline",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/canalside-marina-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "conflict",
+          "label": "Bayut building guide: conflicting completion and payment figures",
+          "url": "https://www.bayut.com/buildings/canalside-marina-residences/",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder",
+          "conflict"
+        ],
+        "handover": [
+          "brochure",
+          "finder",
+          "conflict"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Canalside collection, not similarly named marina projects.",
+        "location": "Official Sobha Siniya Island in Umm Al Quwain, not Dubai.",
+        "residences": "Two-tower drawings with one/three-bedroom mix; official furnishing claim limited to TowerA.",
+        "areas": "Own130-page brochure indexed; pages49,71,95,125 visually read for date and area/type panels.",
+        "amenities": "Own official page lists shared island facilities; golf/yacht access qualified.",
+        "pricing": "OfficialAED1.36m subject to inventory; portal references not treated as primary offers.",
+        "payment": "Portal20/40/40; conflicting Bayut10/40/50 disclosed, not silently reconciled.",
+        "handover": "Own brochureACDDecember2029 visually confirmed, contradictory guide2026 excluded as unconfirmed.",
+        "documents": "Official130-page brochure contains both tower plans; no separate dated developer payment sheet found."
+      },
+      "community": "Canalside Marina Residences · Sobha Siniya Island",
+      "overview": [
+        "The plans distinguish balcony apartments from homes with private yards or substantial terraces. The selected three-bedroom Type A has a particularly large outdoor component, so its saleable total should not be read as internal living space."
+      ],
+      "locationNote": "Along a canal leading towards the Arabian Sea within Sobha Siniya Island, Umm Al Quwain. Confirm tower, orientation, footbridge access and delivery of surrounding facilities. Marina or golf marketing does not itself grant free membership or a boat berth.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha advertises AED 1.36m subject to available inventory. Property Finder publishes a different starting selection reference. Neither a portal price nor the general developer headline confirms the price of a particular tower or furnished unit.",
+      "paymentNote": "Property Finder reports 20% launch down payment, 40% construction in four equal instalments and 40% handover. A Bayut building guide instead shows 10/40/50. Without a current developer sheet, the displayed plan is explicitly the portal-reported version; obtain written current terms.",
+      "handoverNote": "The own project brochure prints December 2029, corroborated by Property Finder. Bayut’s building guide instead lists Q4 2026. That unresolved secondary discrepancy is not substituted for the developer document; contractual timing remains to confirm.",
+      "units": [
+        {
+          "label": "1-bedroom Type D · Tower A unit 213",
+          "area": "591.91 sq ft total: 512.15 suite + 79.76 yard",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type D · tower-dependent range",
+          "area": "1,019.88–1,022.03 sq ft total, including balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A · terrace homes",
+          "area": "2,173.88–2,174.42 sq ft total; suite 1,299.42–1,299.53 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch down payment · reported",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · four10% instalments; dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furnishing scope",
+          "value": "Sobha’s current page specifically describes fully furnished one- to three-bedroom residences in Tower A. Confirm the detailed inventory and Tower B specification separately.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "No signed current payment calendar, unit availability, service-charge rate, parking allocation or furnishing inventory retrieved.",
+        "Shared island golf, marina, beach and retail facilities require delivery/access/fee confirmation; they are not private apartment inclusions.",
+        "Some public guides conflict on programme and payment. Plans are approximate and outdoor areas differ by unit. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

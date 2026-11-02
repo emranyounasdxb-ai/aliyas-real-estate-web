@@ -1,0 +1,206 @@
+{
+  "id": "binghatti-project-12",
+  "name": "Binghatti Hillcrest",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Hillcrest is a low-rise residential and retail development in Arjan. Its curved building edge encloses landscaped leisure spaces, while studios and one- and two-bedroom apartments offer different balcony arrangements. The published mix is weighted toward smaller homes, with only four two-bedroom apartments in the original project facts.",
+    "areaId": "dubai-arjan",
+    "location": "Arjan",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 799999,
+    "handover": "Q4 2026 · portal target",
+    "paymentPlan": "70/30 · portal summary",
+    "amenities": [
+      "Adult pool",
+      "Children’s pool and aqua play",
+      "Children’s play area",
+      "Jogging track",
+      "Yoga area",
+      "Landscaped seating and walkways"
+    ],
+    "brochureUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillcrest-assets/binghatti-hillcrest-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillcrest-assets/binghatti-hillcrest-brochure.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Hillcrest own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-hillcrest",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official-linked own brochure and embedded plans",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillcrest-assets/binghatti-hillcrest-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Official-linked own project facts",
+          "url": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillcrest-assets/binghatti-hillcrest-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Hillcrest dates, price basis and payment summary",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-hillcrest",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "alternative",
+          "label": "GCC Offplan: separately published Hillcrest deposit alternative",
+          "url": "https://gccoffplan.com/project/binghatti-hillcrest/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "amenities": [
+          "developer",
+          "facts"
+        ],
+        "price": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ],
+        "paymentPlan": [
+          "finder",
+          "alternative"
+        ],
+        "handover": [
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own page and original project facts identify Hillcrest, not similarly named Hills, Hillside or Hillviews.",
+        "location": "Own developer page confirms Arjan in Dubai.",
+        "residences": "Original own facts specify 180 studios, 138 one-bedroom and 4 two-bedroom homes plus 28 retail shops; counts are not live stock.",
+        "areas": "Own 40-page brochure plans pages 27,30,33,34,36 visually inspected at 1750 px; studio and each bedroom family checked.",
+        "amenities": "Family leisure and landscaped spaces verified against own FAQ; no blanket amenity-opening claim.",
+        "pricing": "Retrieved own hero 799,999 retained as developer marketing reference, not indexed UK inventory 820,999 or portal launch/reference figures.",
+        "payment": "No own dated payment sheet retrieved; PF 20/50/30 clearly attributed and alternative offers not assumed equivalent.",
+        "handover": "Property Finder December 2026/Q4 2026 is a forecast; retrieved own FAQ does not establish actual completion.",
+        "documents": "Official-linked own 40-page brochure and 9-page facts downloaded; brochure/facts overlap pooled 190 words."
+      },
+      "community": "Arjan",
+      "overview": [
+        "A low-rise setting does not guarantee identical outlook or privacy across apartments. Compare the selected balcony, corridor position and enclosed plan before relying on a headline size."
+      ],
+      "locationNote": "Arjan, Dubai, with access to Umm Suqeim Road and the wider road network. Plot-specific access and outlook remain subject to the chosen home.",
+      "priceLabel": "Developer marketing reference",
+      "priceNote": "The retrieved own project hero displays FROM AED 799999. Its indexed UK unit cards instead show a studio from 820,999; Property Finder’s opened page shows about 821,000 in the header but retains 808,999 in narrative. These are separate changing references, not one confirmed current unit price.",
+      "paymentNote": "Property Finder shows 20% at launch, 50% during construction and 30% on handover. A separate original developer payment document was not retrieved. Confirm any promotional deposit, instalment dates and fees against the selected apartment’s signed schedule. GCC Offplan separately lists 50% booking, 20% during construction and 30% at handover; that different offer is not substituted for the portal table.",
+      "handoverNote": "Property Finder lists December 2026/Q4 2026. The own page retrieved does not provide a completion date. This portal target is not evidence of completed construction, approvals or keys; no current progress percentage is assumed.",
+      "units": [
+        {
+          "label": "Studio Type 01",
+          "area": "32.70 sq m / 352 sq ft total; 27.20 suite + 5.50 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01",
+          "area": "67.63 sq m / 728 sq ft total; 54.73 suite + 12.90 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01",
+          "area": "95.59 sq m / 1,029 sq ft total; 70.85 suite + 24.74 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Types 02/03",
+          "area": "116.06 sq m / 1,249.26 sq ft total; 77.12 suite + 38.94 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal · at launch",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · construction",
+          "percent": 50,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal · handover",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original project mix",
+          "value": "322 homes:180 studios, 138 one-bedroom and 4 two-bedroom apartments; 28 ground-floor retail shops. This is a design schedule rather than available inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Building schedule",
+          "value": "Official facts state basement, ground, 4 residential floors and roof. The own FAQ calls it six-storey; portal narrative uses five-storey. Retain the component schedule rather than treating the shorthand counts as identical.",
+          "sourceIds": [
+            "facts",
+            "developer",
+            "finder"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Live availability, unit-level completion, service charges, parking entitlement, furnishing and a dated commercial offer were not established. Confirm them in writing.",
+        "The retrieved brochure’s visible total-area examples differ from some indexed inventory sizes. They are selected plan types including outdoor space; do not substitute one type for another. The agreement determines the actual unit area."
+      ]
+    }
+  }
+}

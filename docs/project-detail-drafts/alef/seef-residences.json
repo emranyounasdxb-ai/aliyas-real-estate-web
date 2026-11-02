@@ -1,0 +1,306 @@
+{
+  "id": "alef-project-01",
+  "name": "Seef Residences",
+  "developerSlug": "alef",
+  "fields": {
+    "description": "Seef Residences places apartment living on Sharjah’s Al Khan waterfront, where the lagoon meets the open coast. Five residential buildings combine homes with a beachside promenade, landscaped spaces and everyday places to gather.",
+    "areaId": "sharjah-al-khan",
+    "location": "Al Khan",
+    "emirate": "Sharjah",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 895000,
+    "handover": "Q3 2030",
+    "paymentPlan": "30 / 70",
+    "amenities": [
+      "Beachfront promenade",
+      "Indoor gym",
+      "Lap pool",
+      "Family pool",
+      "Children’s play areas",
+      "Yoga deck",
+      "BBQ and communal dining",
+      "Business lounge",
+      "Landscaped gardens"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/a889adbd37fa4ff2892dc6e1905cbc42.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/19c95b908f634bcd95107e712792f450.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Seef Residences: developer project",
+          "url": "https://www.alefgroup.ae/seef-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 190
+        },
+        {
+          "id": "launch",
+          "label": "Seef Residences: developer launch, 21 October 2026",
+          "url": "https://www.alefgroup.ae/press/150-in-eoi-for-862-homes-at-new-sharjah-waterfront-project-in-less-than-an-hour-of-launch/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 160
+        },
+        {
+          "id": "brochure",
+          "label": "Seef Residences: original brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/a889adbd37fa4ff2892dc6e1905cbc42.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Seef B3 and B4: original factsheets, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/69d84dc1b6374364bb1c0ef554681ca2.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Seef B3 and B4: original apartment plans, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/19c95b908f634bcd95107e712792f450.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 165
+        },
+        {
+          "id": "guide",
+          "label": "Seef Residences: broker commercial reference, 26 October 2026",
+          "url": "https://dxbresidence.com/en/projects/seef-residences/",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "portal",
+          "label": "Seef Residences: portal listing with attribution errors",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/seef-residences",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        }
+      ],
+      "community": "Al Khan waterfront, Sharjah",
+      "overview": [
+        "The developer’s launch programme covers 862 residences across five buildings, including apartments and limited penthouses. This is the planned development scale, rather than a statement of available stock.",
+        "Published B3 and B4 documents show different layouts, including garden apartments and duplexes. The detailed schedule below covers those two buildings only."
+      ],
+      "locationNote": "The developer places Seef on Al Khan’s coast, alongside Al Mamzar Lake, Al Khan Lagoon and the Arabian Gulf. Nearby water bodies do not change the project’s stated Al Khan address.",
+      "priceLabel": "Developer advertised from",
+      "priceNote": "The developer advertises AED 895,000. Its 21 October 2026 launch release lists one-, two- and three-bedroom starting prices of AED 895,000, AED 1,295,000 and AED 2,195,000 respectively. These are launch guides; obtain a dated quotation for an available home.",
+      "paymentNote": "The developer publishes 30 / 70. The breakdown below is an attributed broker reference dated 26 October 2026; an original dated developer instalment schedule was not retrieved.",
+      "handoverNote": "The developer’s launch release targets 30 September 2030. Property Finder instead lists June 2030 and misattributes the project to Aldar; its ownership and earlier date are not adopted. Completion remains a forecast.",
+      "units": [
+        {
+          "label": "B3 · 1-bedroom",
+          "area": "64.00–115.83 m² · 688.89–1,246.78 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 2-bedroom",
+          "area": "105.63–128.76 m² · 1,136.99–1,385.96 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 3-bedroom",
+          "area": "154.82–193.54 m² · 1,666.47–2,083.25 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 3-bedroom duplex",
+          "area": "227.20–229.72 m² · 2,445.56–2,472.68 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 4-bedroom duplex",
+          "area": "252.11–299.57 m² · 2,713.69–3,224.54 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 3-bedroom penthouse",
+          "area": "401.25 m² · 4,319.01 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B3 · 4-bedroom penthouse",
+          "area": "477.20 m² · 5,136.53 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B4 · 1-bedroom",
+          "area": "61.69–84.50 m² · 664.02–909.55 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B4 · 2-bedroom",
+          "area": "88.12–161.75 m² · 948.51–1,741.06 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "B4 · 3-bedroom",
+          "area": "146.77 m² · 1,579.82 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking: broker reference",
+          "percent": 10,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "During construction: broker reference",
+          "percent": 20,
+          "sourceIds": [
+            "guide"
+          ]
+        },
+        {
+          "stage": "Handover: broker reference",
+          "percent": 70,
+          "sourceIds": [
+            "guide"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Planned development",
+          "value": "862 residences across five buildings; approximately 1,500 m² of retail and dining.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Documented building programmes",
+          "value": "B3: 153 residences. B4: 206 residences.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Published totals include outdoor areas where drawn; duplex totals cover the whole home. Rounded factsheet NSA figures are not equivalent to detailed plan totals.",
+        "Detailed B1, B2 and B5 layouts were not retrieved. Confirm the selected plan, charges, parking, furnishing, availability and contractual completion terms."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected alef-project-01 Seef Residences. Exact own project and 21 October 2026 launch release identify Alef, not the erroneous Aldar portal attribution. Five-building planned programme862, not current stock.",
+        "location": "Exact own Al Khan coast supported, central sharjah-al-khan / Al Khan. Al Mamzar Lake neighbouring water body not substituted locality. No coordinates or journey guarantees.",
+        "residences": "Primary1–4BR plus limited penthouses. Original B3/B4 facts153/206 separately, no fullproject mix inferred. Actual27pplans cover B3p1–17/B4p18–27; all25numeric sheets and whole duplex/PH drawings actually visually inspected.",
+        "areas": "All actual numeric crops seef-plan-numeric-0/5/10/15/20.png read, all full drawings contacts0/6/12/18/24. Fullp12/15/16/17 separately read for duplex wholelevels and PHgardens. Ten public families preserve exact printed totals; no double counting. B3one64–115.83,two105.63–128.76,three154.82–193.54,3DX227.20–229.72,4DX252.11–299.57,PH401.25/477.20;B4one61.69–84.50,two88.12–161.75,three146.77 sqm. Rounded facts NSA not fulltotal.",
+        "amenities": "Exact own project and launch release support all published amenities. Actual19pbrochure visually inspected but no exclusively brochure-derived furnishing claims adopted; no universal private pools.",
+        "pricing": "Own895K and dated21Oct2026 release895K/1295K/2195K launch starting guides, not selected live quote. Stock/fees/returns not invented. Broker DubaiDLD4% advice excluded as wrong emirate.",
+        "payment": "Own aggregate30/70. Attributed26Octbroker10booking20construction70handover sums100. No original dated developer payment PDF retrieved; stage table secondary only, no posthandover assumption.",
+        "handover": "Primary21Oct2026 release exact30Sep2030 forecast, originalfacts corroborate. PFJune2030 conflicts and ownerAldar error explicitly disclosed. Own constructionupdate page no Seef current percentage; no completion certificate invented.",
+        "documents": "Public direct Reelly mirrors ordinaryGET200:27pplans8783532bytes,6pfacts2769741,19pbrochure6918364. All relevant full drawings/numeric panels visually read <=1750px. Related underlying pool200 facts35/plans165/brochure0; exact primary HTML independent. No forms/bypass. Original payment and remaining buildings genuinely unavailable."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "price": [
+          "launch"
+        ],
+        "handover": [
+          "launch"
+        ],
+        "priceLabel": [
+          "launch"
+        ],
+        "priceNote": [
+          "launch"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "launch",
+          "facts",
+          "plans"
+        ],
+        "paymentNote": [
+          "developer",
+          "guide"
+        ],
+        "handoverNote": [
+          "launch",
+          "portal"
+        ],
+        "unresolved": [
+          "plans",
+          "facts",
+          "developer"
+        ],
+        "units": [
+          "plans"
+        ],
+        "paymentStages": [
+          "guide"
+        ],
+        "facts": [
+          "launch",
+          "facts"
+        ]
+      }
+    }
+  }
+}

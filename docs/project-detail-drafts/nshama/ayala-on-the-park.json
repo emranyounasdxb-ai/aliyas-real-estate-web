@@ -1,0 +1,268 @@
+{
+  "id": "nshama-project-19",
+  "name": "Ayala on the Park",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Ayala offers one- to three-bedroom apartments around a courtyard and pool in Town Square.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 800000,
+    "handover": null,
+    "paymentPlan": "50/50 · historical primary schedule",
+    "amenities": [
+      "Swimming pool",
+      "Pool deck",
+      "Landscaped courtyard",
+      "Children’s play areas",
+      "Residents’ gym"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2023/12/AYALA-Brochure-1.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2023/12/AYALA-Floor-Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Ayala on the Park project update",
+          "url": "https://nshama.ae/properties/ayala/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 125
+        },
+        {
+          "id": "brochure",
+          "label": "Nshama official Ayala brochure and floor plans",
+          "url": "https://nshama.ae/wp-content/uploads/2023/12/AYALA-Brochure-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Ayala on the Park project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/ayala-on-the-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 140
+        },
+        {
+          "id": "payment",
+          "label": "Nshama official Ayala on the Park historical payment sheet",
+          "url": "https://nshama.ae/wp-content/uploads/2023/12/AYALA-Payment-Plan-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Nshama official Ayala on the Park floor plans",
+          "url": "https://nshama.ae/wp-content/uploads/2023/12/AYALA-Floor-Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "portal"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "overview": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [
+          "developer",
+          "brochure"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "portal"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactAyalaontheParkbyNshama; currentownunderconstructionvsPFcompletedretained. Noelapsedforecasttreatedasconfirmedhandover.",
+        "location": "PrimaryTownSquareDubai; exactregistryTownSquare/dubai-town-square. No apartment-specificparkviewguarantee.",
+        "residences": "Primary 1–3-bedroomapartments. Actual 8 individualplantypes 1 BR A/A 2,2 BR A/A 1/B/B 1,3 BR A/A 1 inspected. Both 3 BRdrawingsincludeamaidroom; nofamilyomitted.",
+        "areas": "Official 28 pPDFactual 20–27 numericalpanelsvisuallyreadandfullrendersretained. Allm²/ft²totalsretained.1 BR A 588.36+54.90=643.26 vsprinted 643.25;3 BR A 1283.60+135.63=1419.23 vs 1419.22. PF 1491 lowerboundexcludedastransposedagainstown 1419.22.",
+        "amenities": "Actualbrochure 15 visuallyconfirmsresidentialgym,pool,kidsplay; ownprojectbodycourtyardanddeck. Communitysportsarenotprivateresidentfacilityclaims.",
+        "pricing": "ActualPFNextDatastartingPrice 800000 andFAQmatch; cached 940000 differentbasis. Historicalreference,nocurrentquotedunit. Ownsourcepriceabsent.",
+        "payment": "OriginalownpaymentPDFdiscoveredinpublicunauthWordPressmedialisting,ordinaryNodefetch 200,actualpage 1 visuallyread. Five 10%instalmentsplus 50%indicativehandover=100; historicalcalendaronly,notnewbookingdates.",
+        "handover": "PFJuly 2026 completedconflictswithcurrentownSeptember 2026 underconstruction. Ownprogresspercentageabsent,notinvented. HeadlineNULL; primarycertificateunavailable.",
+        "documents": "Originalphasebrochureandseparateownfloorplans/paymentdocumentsretrievedthroughpublicmediaURLswithoutforms/auth. Numericalfamiliesalreadyvisuallyread;actualpaymentpage 1 read. Overlappingbrochure/plans 140+payment 60=200; plans 0 additionalderivedcopy."
+      },
+      "overview": [
+        "Three-bedroom plans include maid’s rooms; balconies vary between types."
+      ],
+      "community": "Town Square",
+      "locationNote": "Town Square, Dubai. The developer locates Ayala within walking distance of the community park; a park-facing view must be checked for the selected home.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "The actual Property Finder project record quotes an AED 800,000 starting reference. Cached marketing headlines show AED 940,000. Neither is a dated current quotation or confirmation of available inventory.",
+      "paymentNote": "Historical calendar; confirm current contractual terms.",
+      "handoverNote": "Original target: July 2026. The portal says completed; Nshama’s September 2026 page says under construction. Actual completion is unconfirmed.",
+      "units": [
+        {
+          "label": "1BR · A",
+          "area": "59.76 m² / 643.25 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · A 2",
+          "area": "67.98 m² / 731.73 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A",
+          "area": "99.60 m² / 1,072.09 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A 1",
+          "area": "89.18 m² / 959.93 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · B",
+          "area": "99.71 m² / 1,073.27 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · B 1",
+          "area": "95.49 m² / 1,027.85 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A",
+          "area": "131.85 m² / 1,419.22 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A 1",
+          "area": "159.01 m² / 1,711.57 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "December 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "February 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Handover · indicative July 2026",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Total built-up includes balconies; variants remain separate.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Primary under-construction status conflicts with the portal’s completed label. July 2026 has elapsed; completion or possession needs documentary confirmation.",
+        "The official 3BR A total is 1,419.22 ft²; the portal’s 1,491 ft² lower bound is not adopted.",
+        "Printed 1BR A and 3BR A component sums exceed their totals by 0.01 ft²; original totals retained.",
+        "Current stock, price, contractual payment dates, parking allocation and final service charges remain unavailable."
+      ]
+    }
+  }
+}

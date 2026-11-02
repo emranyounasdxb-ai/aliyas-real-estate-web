@@ -1,0 +1,284 @@
+{
+  "id": "nshama-project-06",
+  "name": "Alton",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Alton is NSHAMA’s one- to three-bedroom apartment development beside the upper end of Town Square Park. The developer describes views towards the park and central boulevard; the seven published layouts show how balcony space and room arrangements vary.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": null,
+    "handover": "May 2028 · indicative developer target",
+    "paymentPlan": "10/40/50 · published launch schedule",
+    "amenities": [
+      "Main park access",
+      "Swimming pool",
+      "Gym",
+      "Children’s play areas",
+      "Rooftop terrace",
+      "BBQ area",
+      "Pet washroom"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-Brochure-Final.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-Floor-Website.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "NSHAMA Alton project guide",
+          "url": "https://nshama.ae/properties/alton/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Alton official brochure",
+          "url": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-Brochure-Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Alton official apartment plans",
+          "url": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-Floor-Website.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 125
+        },
+        {
+          "id": "payment",
+          "label": "Alton official launch payment schedule",
+          "url": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder Alton project and pricing references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/alton",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "handover": [
+          "payment"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "handoverNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "plans",
+          "payment"
+        ],
+        "unresolved": [
+          "plans",
+          "portal",
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Alton introduction and branded documents agree.",
+        "location": "Own page places Alton beside Town Square Park, Dubai. Existing Town Square registry used; generic travel times and community metrics omitted.",
+        "residences": "Own project introduction specifies 1–3 bedrooms. One 1BR, five 2BR and one 3BR plan families individually visually inspected.",
+        "areas": "Seven official full drawings inspected. 2BR A printed minimum exceeds its maximum and component sums differ; exact printed columns retained without correction.",
+        "amenities": "Named brochure page 18 visually inspected; seven project-specific features adopted without repeated generic community lists.",
+        "pricing": "No official price list retrieved. Property Finder headline AED 1.3m conflicts with its AED 1.2m FAQ; headline price null rather than a guessed current entry price.",
+        "payment": "Official one-page 50/50 schedule visually read: five 10% payments plus 50% handover. Historical fixed dates retained, not moved to today.",
+        "handover": "Official payment sheet indicates May 2028, corroborated by Property Finder. No primary construction certificate/progress report retrieved.",
+        "documents": "Official 28-page brochure, seven-page plans and one-page payment retrieved. Repeated brochure/plan layouts pooled with conservative combined PDF allocation 200; generic community derivation zero."
+      },
+      "overview": [
+        "Alton’s published plan pack makes the two-bedroom choices particularly easy to distinguish: five separate layouts are shown rather than one representative apartment.",
+        "The original payment calendar is useful background, but a new purchase requires a fresh unit quotation and its own contractual due dates."
+      ],
+      "community": "Town Square",
+      "locationNote": "NSHAMA places Alton at the top of Town Square Park, with outlooks towards the park and central boulevard. Views depend on the individual home.",
+      "priceLabel": "Price confirmation required",
+      "priceNote": "No official price list retrieved. Property Finder displays AED 1.3m in its headline and AED 1.2m in its FAQ, alongside a sold-out label. These do not establish current developer stock or a reliable entry quotation.",
+      "paymentNote": "Original launch calendar; request fresh contractual due dates.",
+      "handoverNote": "Indicative developer target; not confirmed completion.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "675.11–689.21 sq ft · 62.72–64.03 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A · printed min / max",
+          "area": "977.47 / 977.36 sq ft · 90.81 / 90.80 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "1,033.98 sq ft · 96.06 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "995.88–1,023.32 sq ft · 92.52–95.07 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR D",
+          "area": "1,014.71 sq ft · 94.27 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR E",
+          "area": "1,073.16 sq ft · 99.70 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,527.51 sq ft · 141.91 sq m",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "May 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "January 2027",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · May 2028",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Built-up area includes balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Kitchen provision",
+          "value": "Kitchen appliances; furnishing unconfirmed.",
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "unresolved": [
+        "2BR A prints minimum 977.47 above maximum 977.36 sq ft; component sums differ approximately 1.83 sq ft. Confirm contractual areas.",
+        "Current stock, an official asking-price sheet, service charges and primary construction progress remain unverified.",
+        "The portal’s November 2025 booking dates are later than the official May 2025 launch calendar; portal start dates are not adopted."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

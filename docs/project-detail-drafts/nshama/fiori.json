@@ -1,0 +1,255 @@
+{
+  "id": "nshama-project-03",
+  "name": "Fiori",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Fiori combines one- to three-bedroom apartments with three-bedroom duplexes opening towards the Promenade in Town Square. Open kitchens connect the living and dining spaces.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1030888,
+    "handover": "June 2028 · indicative developer target",
+    "paymentPlan": "40/60 · original developer calendar",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Children’s play areas",
+      "Barbecue area",
+      "Pet wash",
+      "Access to the main park"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Brochure-Final-1.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Floor-Plans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Fiori project page",
+          "url": "https://nshama.ae/properties/fiori/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Fiori official brochure · 29 pages",
+          "url": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Brochure-Final-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 35
+        },
+        {
+          "id": "plans",
+          "label": "Fiori official layouts · five families",
+          "url": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Floor-Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        },
+        {
+          "id": "payment",
+          "label": "Fiori original payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Fiori · portal references",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/nshama-fiori",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "brochure"
+        ],
+        "overview": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ],
+        "handoverNote": [
+          "payment",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "facts": [
+          "payment"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ExactprotectedFiori record, ownpageandthreephase-specificPDFs, no siblingproject substituted. PortalSoldOut not proofcurrentresaleavailability.",
+        "location": "Own Town Square, Promenade access for duplexes; brochure15 exactboulevardcorner, not WestParktransferredfromRosewell. ExactTown Square registry, Dubai.",
+        "residences": "Own1–3BRapartments plus3BRduplexes directPromenadeaccess, openkitchens/glazing. All5linkedplanfamilies1BRA/2BRA,B,C/3BRA. No duplexdimensionsavailable inpackorbrochure, noinventedfloorcount.",
+        "areas": "All5actualnumericpanelsvisuallyinspected; totalsretained. 2BRA minimum81.02+5.61=86.63m² vsprinted86.64, maximum81.10+5.62=86.72 vs86.71. Imperialminimum872.09+60.39=932.48 vs932.59; max872.95+60.49=933.44 vs933.34. 2BRC802.23+45.85=848.08 vs848.09. Sourceerrorsdisclosed, nofixinvented.",
+        "amenities": "Ownbrochure22 actualamenitypanel pool/gym/kids/BBQ/petwash/mainparkaccess. Kitchenappliances verifiedactualpaymentpanel, notfullyfurnished. Nointerpolationofindoorpool/concierge/smarthomefromunsupportedbrokermarketing. Genericcommunity0.",
+        "pricing": "No primarypricefound. PFFAQhistorical1030888 vsroundedheadline1.2m/SoldOut anddeveloperunitreferences, attributedlaunchonly notcurrentoffer.",
+        "payment": "Actualownrasterpayment sixstages10Sep2025,10Nov2025,10May2026,5Nov2026,5May2027,60Jun2028 indicativehandover=sum100. Originaldatedcalendar, notcurrentbuyerpromise.",
+        "handover": "PrimarycalendarJune2028 matchesPFstructuredJune2028 butPFFAQDecember312028 conflicts. Ownindicativetarget retainedexplicit, conflictingFAQdisclosed, noactualcompletionclaim.",
+        "documents": "Own29pbrochure/5playouts/1prasterpayment downloaded200 ordinaryNodefetch. Allnumericpanels, amenities22,payment visuallyread. PDFunderlyingpool200=35+85+80. Noforms oraccessbypass. Secondaryfullbrochuresduplicateprimaryso noextraallocation."
+      },
+      "community": "Town Square · The Promenade",
+      "overview": [
+        "Three-bedroom duplexes connect directly with the Promenade, according to Nshama. The linked sample pack instead documents five apartment families, so duplex measurements remain unconfirmed."
+      ],
+      "locationNote": "Town Square’s boulevard, beside the Promenade, Dubai.",
+      "priceLabel": "Historical portal launch reference · confirm current terms",
+      "priceNote": "Property Finder’s FAQ quotes AED 1,030,888, while its headline rounds to AED 1.2m and marks developer stock sold out. No current official price sheet was verified.",
+      "paymentNote": "Original dated calendar; obtain revised terms for any selected home.",
+      "handoverNote": "The developer targets June 2028. Property Finder’s structured date agrees, but its FAQ instead says December 2028. These are forecasts, not completion evidence.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "636.04–639.48 ft² / 59.09–59.41 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A",
+          "area": "932.59–933.34 ft² / 86.64–86.71 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "929.36 ft² / 86.34 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR C",
+          "area": "848.09 ft² / 78.79 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,431.92 ft² / 133.03 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "May 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · June 2028",
+          "percent": 60,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Kitchen specification",
+          "value": "Kitchen appliances included; whole-home furnishing is not established.",
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The advertised three-bedroom duplex has no measured drawing in the linked five-family pack or brochure. Obtain its full plans before comparing areas.",
+        "The 2BR A and C drawings contain differences between printed totals and suite-plus-balcony sums. Published totals are retained.",
+        "Current availability, official price sheet, service charges, allocated parking and revised contractual terms were not verified. Photography is illustrative."
+      ]
+    }
+  }
+}

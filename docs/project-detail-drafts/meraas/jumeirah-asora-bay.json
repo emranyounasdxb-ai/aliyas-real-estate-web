@@ -1,0 +1,202 @@
+{
+  "id": "meraas-project-08",
+  "name": "Jumeirah Asora Bay",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Jumeirah Asora Bay combines four- to six-bedroom residences, a seven-bedroom penthouse and separate Ocean Mansions within La Mer’s coastal setting. Sculpted hills and coves shape the development, with Jumeirah hospitality services, wellness and dining experiences forming part of its proposed lifestyle.",
+    "areaId": "dubai-la-mer",
+    "location": "La Mer",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "4–7",
+    "price": 49000000,
+    "handover": "March 2029 · portal estimate",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Infinity pools",
+      "Gym",
+      "Sports courts",
+      "Running track",
+      "Yoga decks",
+      "Spa",
+      "Residents’ lounge",
+      "Gardens",
+      "Speciality restaurants"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2025-05/Jumeirah%20Asora%20Bay%20Villa%20Brochure.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2025-05/Jumeirah%20Asora%20Bay%20Apartment%20Floor%20Plans.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Jumeirah Asora Bay official microsite",
+          "url": "https://asorabay.meraas.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "project",
+          "label": "Meraas own Asora Bay project page · advertised guide",
+          "url": "https://meraas.com/en/project/jumeirah-asora-bay",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "brochure",
+          "label": "Official Ocean Mansions brochure and mansion plans",
+          "url": "https://meraas.com/sites/default/files/2025-05/Jumeirah%20Asora%20Bay%20Villa%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        },
+        {
+          "id": "plans",
+          "label": "Official Asora Bay residences floor plans",
+          "url": "https://meraas.com/sites/default/files/2025-05/Jumeirah%20Asora%20Bay%20Apartment%20Floor%20Plans.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Asora Bay payment/date comparison",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/jumeirah-asora-bay",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 85
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "overview": [
+          "developer",
+          "plans"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "plans",
+          "brochure"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "project"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "plans",
+          "brochure"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Whole named development distinguishes residences, penthouse and Ocean Mansions, not a single uniformly priced villa product.",
+        "location": "La Mer/Jumeirah Street own location; no Madinat Jumeirah substitution.",
+        "residences": "Official microsite currently presents 29 residences, 4–6 bed apartments, 7 bed penthouse and separate Ocean Mansions; counts not combined speculatively.",
+        "areas": "Own 38-page residence plans and 63-page Ocean Mansion brochure. Numerical panels 3, 8, 12, 37 and mansion 52 visually checked. Hidden stale text ignored.",
+        "amenities": "Own facilities separated from hotel/membership and paid service access conditions.",
+        "pricing": "Own project page AED 49 m guide; current portal AED 78 m selection and much higher mansion pricing not merged.",
+        "payment": "Portal 20/40/40 aggregate only; no current dated primary payment schedule retrieved.",
+        "handover": "Portal March 2029, no primary completion date established from retrieved documents.",
+        "documents": "Official 63-page Ocean Mansions brochure and38-page residence plan pack retrieved directly. Mansion and apartment specifications kept separate."
+      },
+      "community": "Jumeirah Asora Bay · La Mer",
+      "overview": [
+        "The apartment pack includes simplex and duplex layouts. The penthouse’s quoted suite total includes lower-ground and garage/lift-lobby areas; it is not simply the sum of its two upper living levels. Mansion totals also include garage and entrance/terrace components, distinct from plot sizes.",
+        "Confirm which Jumeirah services, spa, dining and member-club facilities are included, chargeable or restricted. A hotel amenity on the masterplan does not establish unrestricted resident access."
+      ],
+      "locationNote": "La Mer on Jumeirah Street, Dubai, in the coastal setting near J 1 Beach. Confirm the actual entrance, selected unit outlook and access agreements; no promotional travel time is guaranteed.",
+      "priceLabel": "Developer advertised guide · product-specific quote needed",
+      "priceNote": "Meraas’ own project page advertises from AED 49 m. Property Finder currently displays an AED 78 m available-selection headline while retaining older launch prose. These do not price every apartment, penthouse or Ocean Mansion and are not confirmed inventory.",
+      "paymentNote": "Property Finder reports 20% at launch, 40% construction and 40% handover. A current dated primary instalment schedule was not found. Request a contract-specific schedule; no post-handover extension is established.",
+      "handoverNote": "Property Finder estimates March 2029. No current signed developer completion schedule was retrieved; confirm the selected product and contract.",
+      "units": [
+        {
+          "label": "4-bedroom simplex · unit 101",
+          "area": "7,806.5 sq ft: 6,055.3 suite + 1,751.2 balcony; 3 parking spaces",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom simplex · unit 601",
+          "area": "12,107.2 sq ft: 9,000.2 suite + 3,107 balcony; 4 parking spaces",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5-bedroom duplex · unit 504 · both levels",
+          "area": "19,035.4 sq ft: 11,219.2 suite + 7,816.2 balcony; 6 parking spaces",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "7-bedroom penthouse · unit 1001",
+          "area": "47,726 sq ft: 34,229.1 suite + 13,496.9 balcony; includes lower-ground area; 9 parking spaces",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Ocean Mansion OM 2",
+          "area": "26,953.3 sq ft incl garage/entrance/terrace; 41,550.2 sq ft plot; 7 parking spaces",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch down payment · reported",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Construction · dates unconfirmed",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No current dated developer payment sheet, signed completion date, approved operating budget or live inventory confirmed.",
+        "Apartment and Ocean Mansion sizes/prices are different products; portal available-selection prices must not be treated as universal launch guides.",
+        "Current microsite residence-count wording is not used to calculate a whole mixed hospitality/masterplan inventory.",
+        "Final areas, parking rights, pools and Jumeirah service charges require the selected contract. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

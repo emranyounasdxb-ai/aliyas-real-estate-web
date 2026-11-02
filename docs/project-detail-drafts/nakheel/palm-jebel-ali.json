@@ -1,0 +1,179 @@
+{
+  "id": "nakheel-project-08",
+  "name": "Palm Jebel Ali",
+  "developerSlug": "nakheel",
+  "fields": {
+    "description": "Palm Jebel Ali is Nakheel’s multi-phase island destination with distinct residential fronds and villa collections. Beach and Coral homes form part of a much larger master plan. This page describes the destination and verified villa examples; it does not combine every release into one current price, payment schedule or completion date.",
+    "areaId": "dubai-palm-jebel-ali",
+    "location": "Palm Jebel Ali",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "5–7",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Planned leisure parks",
+      "Planned waterfront promenade",
+      "Planned beach clubs",
+      "Planned yacht club",
+      "Planned sports and wellness facilities"
+    ],
+    "brochureUrl": "https://manage.tanamiproperties.com/Project/Brochure/2982/The_Beach_and_Coral_Collection.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/palm-jebel-ali/PALM_JEBEL_ALI_BEACH_VILLAS_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "release",
+          "label": "Nakheel: Frond F Beach and Coral release, 20 August 2026",
+          "url": "https://www.nakheel.com/en/media-centre/press-releases/news-detail/2026/08/20/nakheel-unveils-limited-collection-of-44-beachfront-villas-on-palm-jebel-ali-s-frond-f",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "progress",
+          "label": "Nakheel Palm Jebel Ali construction progress",
+          "url": "https://www.nakheel.com/en/construction-progress/palm-jebel-ali",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "Nakheel-branded Beach Villas plan pack, November 2024 broker-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/palm-jebel-ali/PALM_JEBEL_ALI_BEACH_VILLAS_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "priceplan",
+          "label": "Nakheel-branded price/payment sheet, November 2024 broker-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/palm-jebel-ali/PALM_JEBEL_ALI_PRICE_AND_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "collection",
+          "label": "Beach and Coral Collection branded brochure, Tanami-hosted copy",
+          "url": "https://manage.tanamiproperties.com/Project/Brochure/2982/The_Beach_and_Coral_Collection.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "release"
+        ],
+        "overview": [
+          "release",
+          "plans"
+        ],
+        "location": [
+          "release",
+          "progress"
+        ],
+        "type": [
+          "release"
+        ],
+        "bedrooms": [
+          "release"
+        ],
+        "amenities": [
+          "progress"
+        ],
+        "price": [
+          "priceplan"
+        ],
+        "paymentPlan": [
+          "priceplan"
+        ],
+        "handover": [
+          "release",
+          "priceplan"
+        ],
+        "units": [
+          "plans",
+          "release"
+        ],
+        "documents": [
+          "plans",
+          "priceplan",
+          "collection"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Destination-level record preserved; Beach/Coral Frond F release separated from historical Beach Villas.",
+        "location": "Palm Jebel Ali verified, deliberately not assigned to Palm Jumeirah or Jebel Ali mainland.",
+        "residences": "Developer August 2026 release supports Beach 5–6 and Coral 6–7 bedrooms; no unrelated apartment mix merged.",
+        "areas": "Own earlier Blue Horizon plan visually inspected; later Frond F approximate ranges explicitly scoped.",
+        "amenities": "Official destination amenities marked planned rather than operational.",
+        "pricing": "Own earlier AED 18.1m sheet visually inspected; phase-specific historical guide withheld from universal headline.",
+        "payment": "Earlier sheet visually checked: 20+5+5+10+5+5+10+5+10+5+20 = 100%; no destination-wide schedule implied.",
+        "handover": "Official first-handover late 2026–2027 statement reconciled with historical November 2028 release estimate.",
+        "documents": "12-page branded Beach Villas plans, one-page price/payment and 80-page Beach/Coral collection downloaded; relevant plan/payment tables visually inspected."
+      },
+      "community": "Palm Jebel Ali · multiple fronds and releases",
+      "overview": [
+        "Nakheel’s August 2026 announcement identifies a limited 44-villa release on Frond F: Beach homes have five or six bedrooms, while Coral homes have six or seven. The advertised approximate areas for that release are not substituted for earlier design-specific plan measurements.",
+        "The reviewed earlier Beach Villas pack includes Blue Horizon, a six-bedroom G+2 example with family room and roof lounge. Its disclaimer states that illustrated landscaping and pool layouts are not provided by the developer. Buyers need the exact frond, design code and current specification."
+      ],
+      "locationNote": "Palm Jebel Ali, Dubai, is the source-supported destination. It has no exact entry in the local taxonomy yet; areaId remains null. It must not be mapped to Palm Jumeirah or an assumed nearby mainland district.",
+      "priceLabel": "Price on request",
+      "priceNote": "No single current destination-wide starting price was established. An earlier branded sheet advertises AED 18.1 million alongside November 2028 completion. That is a historical release reference, not a current Frond F price or a universal Palm Jebel Ali offer; the headline price is therefore left on request.",
+      "paymentNote": "The earlier sheet has a valid 80/ 20 schedule: 20% booking, 60% dated instalments and 20% at November 2028 handover. It does not identify every applicable frond. No common payment plan is assigned to the whole destination, and no current Frond F schedule is invented.",
+      "handoverNote": "Nakheel’s 20 August 2026 release says first villa handovers are scheduled to start in late 2026 and continue through 2027. The earlier commercial sheet estimates November 2028 for its release. These describe different delivery scopes, so there is no single destination handover headline.",
+      "units": [
+        {
+          "label": "Earlier Beach Villas · Blue Horizon · 6 bedrooms",
+          "area": "7,307.73 sq ft built-up/total area · sample design, not universal",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "August 2026 Frond F · Beach Collection · 5–6 bedrooms",
+          "area": "Approximately 7,500–8,500 sq ft · developer release range",
+          "sourceIds": [
+            "release"
+          ]
+        },
+        {
+          "label": "August 2026 Frond F · Coral Collection · 6–7 bedrooms",
+          "area": "Approximately 11,500–12,500 sq ft · developer release range",
+          "sourceIds": [
+            "release"
+          ]
+        }
+      ],
+      "paymentStages": [],
+      "facts": [
+        {
+          "label": "August 2026 release",
+          "value": "44 villas on Frond F · 10 architectural designs",
+          "sourceIds": [
+            "release"
+          ]
+        },
+        {
+          "label": "Destination delivery",
+          "value": "Multiple fronds and phases; first villa handovers scheduled late 2026–2027",
+          "sourceIds": [
+            "release"
+          ]
+        }
+      ],
+      "unresolved": [
+        "No universal current price, payment plan, service charge or completion date applies across the destination.",
+        "Current Frond F unit allocation, exact plot sizes and its signed payment schedule were not established.",
+        "Earlier illustrative private pool and landscaping images are not promises of included works.",
+        "The earlier November 2024 commercial sheet is retained as historical evidence only, not a current destination-wide offer."
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+ "id":"emaar-project-69","name":"Vida Residences Club Point","developerSlug":"emaar",
+ "fields":{
+  "description":"Vida Residences Club Point brings the Vida design identity to a twin-tower apartment development in Dubai Hills Estate. Its one to three bedroom homes are supported by gardens, shared lounges and spaces for exercise and socialising. The official plans also include a lower-rise Block C alongside the main towers.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment","bedrooms":"1–3","price":1610000,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Adult and children’s pools","Indoor and outdoor gyms","Outdoor rooftop cinema","Multi-use community room","Landscaped gardens","Outdoor barbecue and lounge areas","Children’s play areas"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-CLUB-POINT_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-CLUB-POINT_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Vida Residences Club Point","url":"https://www.emaar.com/en/properties/vida-residences-club-point-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Vida Residences Club Point brochure","url":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-CLUB-POINT_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans","label":"Emaar: Club Point plans, Blocks A, B and C","url":"https://www.emaar.com/cms-media/uploads/VIDA-RESIDENCES-CLUB-POINT_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":200},
+    {"id":"facts","label":"Emaar launch fact and payment sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/vida-residences-club-point/VIDA_RESIDENCES_CLUB_POINT_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"finder","label":"Property Finder: Vida Residences Club Point","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/vida-residences-club-point","kind":"portal","checkedOn":"2026-10-31","derivedWords":100},
+    {"id":"bayut","label":"Bayut: Club Point project and payment information","url":"https://www.bayut.com/for-sale/off-plan/property/dubai/dubai-hills-estate/vida-residences-club-point/","kind":"portal","checkedOn":"2026-10-31","derivedWords":60}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["facts","finder"],"handover":["facts","finder","bayut"]},
+   "reviewCoverage":{
+    "identity":"Club Point distinguished from Vida Residences and Vida Residences Hillside.","location":"Dubai Hills Estate and golf-side setting checked against developer material.","residences":"One to three bedroom apartments; twin towers with additional Block C layouts.","areas":"All 51 plan pages checked; Block A type 1D contains an internal numerical inconsistency, recorded below.","amenities":"Official amenity list checked; rooftop cinema and outdoor gym supported by launch fact sheet.","pricing":"AED 1.61m official headline with dated category launch starts; no resale asking price substituted.","payment":"Ten launch stages visually checked; two 5% instalments and final 20% sum to 100%.","handover":"February versus March 2029 source discrepancy disclosed; both fall in Q1.","documents":"Official brochure and full plan pack linked. Launch-sheet copy attributed; real images deferred."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["The brochure puts shared spaces at the centre of the scheme: a lobby lounge, gardens, a community room and places to gather outdoors. Large windows and balconies connect the apartments with the surrounding greenery and skyline. Vida’s influence is presented through the design and social atmosphere; the material reviewed does not establish an included hotel-service package or rental-management agreement."],
+   "locationNote":"The development is in Dubai Hills Estate near the golf-course neighbourhood. Dubai Hills Park, the mall and golf club are district destinations, with Al Khail Road providing wider access. Confirm walking routes and the selected apartment’s outlook; proximity does not imply club membership or an unobstructed view.",
+   "priceLabel":"Developer-advertised starting price",
+   "priceNote":"Emaar advertises AED 1.61m. The launch sheet lists AED 1.61m, AED 2.32m and AED 3.4m category starts for one, two and three bedrooms. These historical starts are not current availability or booking offers.",
+   "paymentNote":"The published launch schedule is 80% before completion and 20% at completion, including two 5% instalments. Confirm the remaining obligations for the particular transaction.",
+   "handoverNote":"The launch sheet and Property Finder indicate February 2029. Bayut’s payment table instead ends in March 2029. Q1 2029 is therefore shown as reported, with the precise contractual date requiring confirmation.",
+   "units":[
+    {"label":"Block A · 1 bedroom","area":"736.57–916.98 sq ft total","sourceIds":["plans"]},
+    {"label":"Block A · 2 bedrooms","area":"1,085.43–1,359.05 sq ft total","sourceIds":["plans"]},
+    {"label":"Block A · 3 bedrooms","area":"1,557.97–1,813.29 sq ft total","sourceIds":["plans"]},
+    {"label":"Block B · 1 bedroom","area":"719.68–918.05 sq ft total","sourceIds":["plans"]},
+    {"label":"Block B · 2 bedrooms","area":"1,086.29–1,247.32 sq ft total","sourceIds":["plans"]},
+    {"label":"Block B · 3 bedrooms","area":"1,562.60–1,643.33 sq ft total","sourceIds":["plans"]},
+    {"label":"Block C · 3 bedrooms","area":"1,478.10–1,667.98 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · September 2024 launch sheet","percent":10,"sourceIds":["facts"]},
+    {"stage":"November 2024","percent":10,"sourceIds":["facts"]},
+    {"stage":"April 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"September 2025","percent":10,"sourceIds":["facts"]},
+    {"stage":"June 2026 · 20% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"October 2026 · 30% construction","percent":5,"sourceIds":["facts"]},
+    {"stage":"May 2027 · 50% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"November 2027 · 70% construction","percent":5,"sourceIds":["facts"]},
+    {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["facts"]},
+    {"stage":"February 2029 · estimated completion","percent":20,"sourceIds":["facts"]}
+   ],
+   "facts":[
+    {"label":"Published apartment mix","value":"371 one-bedroom, 215 two-bedroom and 86 three-bedroom homes total 672 apartments. This is the planned mix, not remaining stock.","sourceIds":["facts"]},
+    {"label":"A larger balcony option","value":"A113 has a 1,352.27 sq ft suite and 461.02 sq ft balcony, totalling 1,813.29 sq ft. Its three-bedroom layout includes a maid’s room, bathroom, powder room and laundry.","sourceIds":["plans"]},
+    {"label":"Lower-rise three-bedroom layouts","value":"Block C includes ground and two podium levels. Type 2G has two balconies and a maid’s room; it is an apartment layout, not a townhouse.","sourceIds":["plans"]},
+    {"label":"Dated portal status","value":"Property Finder’s progress update is dated January 2026 and its sold-out label refers to developer stock. Neither is treated as a current inspection or a bar to possible resales.","sourceIds":["finder"]}
+   ],
+   "unresolved":["Block A type 1D’s printed minimum total does not reconcile with its suite/balcony figures or metric equivalent; obtain a corrected unit schedule.","Confirm February versus March 2029 delivery against the contract and current developer update.","Current availability, service charges, parking allocations, furnishing and any hospitality services remain unverified.","Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

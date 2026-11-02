@@ -1,0 +1,209 @@
+{
+  "id": "meraas-project-25",
+  "name": "Central Park Castleton",
+  "developerSlug": "meraas",
+  "fields": {
+    "description": "Castleton is an apartment phase at Central Park, City Walk. One- to four-bedroom homes are complemented by duplex penthouse layouts with separate living and sleeping levels. The shared park and recreation spaces provide an outdoor setting within the established urban district.",
+    "areaId": "dubai-city-walk",
+    "location": "City Walk",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2100000,
+    "handover": null,
+    "paymentPlan": "20/30/50 · historical developer plan",
+    "amenities": [
+      "Pools and water play",
+      "Children’s play areas",
+      "Running track",
+      "Dog park",
+      "Tennis and squash courts",
+      "Outdoor gym",
+      "Spa and sauna",
+      "Yoga areas",
+      "Community retail and dining",
+      "Picnic and barbecue areas"
+    ],
+    "brochureUrl": "https://meraas.com/sites/default/files/2023-11/CP%20%20Brochure_ENGLISH_Print_Castleton%20NB.pdf",
+    "floorPlanUrl": "https://meraas.com/sites/default/files/2023-11/CP_ENGLISH_Floorplan_Castleton.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Central Park Castleton official project page",
+          "url": "https://meraas.com/en/project/citywalk-central-park",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brochure",
+          "label": "Central Park Castleton own official brochure and plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/CP%20%20Brochure_ENGLISH_Print_Castleton%20NB.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Central Park Castleton",
+          "url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/castleton",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Official Castleton floor plans",
+          "url": "https://meraas.com/sites/default/files/2023-11/CP_ENGLISH_Floorplan_Castleton.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "payment",
+          "label": "Official original Castleton payment plan",
+          "url": "https://meraas.com/sites/default/files/2023-11/CP%20PAYMENT%20PLAN%20ENGLISH-Castleton.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "plans"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "payment"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Castleton brochure and individually branded floor plans checked.",
+        "location": "Own brochure confirms Central Park at City Walk, Dubai.",
+        "residences": "One-to-four-bedroom apartments and two-level penthouse plans reviewed; guest-room classification qualified.",
+        "areas": "Actual tables and plans visually inspected on pages 3, 7, 12 and 16–19; no adjacent-phase data substituted.",
+        "amenities": "Own brochure page 8 shared park facilities checked.",
+        "pricing": "No usable current official numeric quote; portal 2.1m historical launch reference attributed.",
+        "payment": "Own official one-page sheet visually inspected: 20 + 10 + 10 + 10 + 50=100.",
+        "handover": "Original March 2026 target corroborated by portal but subsequent official preparations mean actual delivery is unconfirmed.",
+        "documents": "Own 14-page brochure, 20-page floor plans and one-page payment sheet retrieved."
+      },
+      "community": "City Walk",
+      "overview": [
+        "The reviewed three-bedroom unit has almost as much outdoor balcony area as internal suite area. Buyers comparing it with a smaller plan should separate those measures instead of equating total area with enclosed rooms."
+      ],
+      "locationNote": "At Central Park within City Walk, Dubai. Its phase brochure places Castleton within the landscaped neighbourhood; facilities are shared and individual outlooks depend on unit position.",
+      "priceLabel": "Historical portal launch reference",
+      "priceNote": "Property Finder retains an approximately AED 2.1m launch reference. A current official project-wide quote was not found. Do not treat that historical figure as evidence of developer inventory or a specific resale price.",
+      "paymentNote": "The official original sheet specifies 20% booking, 10% December 2022, 10% June 2023, 10% March 2024 and 50% March 2026 on handover. These dates have passed; remaining obligations must be established from the actual contract and paid instalments.",
+      "handoverNote": "The original developer sheet and Property Finder name March 2026. Meraas lists Castleton sold out and still describes inspections and handover preparations. Actual unit delivery is therefore unconfirmed rather than inferred from the elapsed target.",
+      "units": [
+        {
+          "label": "1-bedroom Types A.7–A.12 · unit 202 example",
+          "area": "716.02 sq ft suite + 67.27 sq ft balcony; 783.29 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Types B.2/B.3 · unit 204 example",
+          "area": "1,157.66 sq ft suite + 195.15 sq ft balconies; 1,352.81 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type B1 · unit 1403",
+          "area": "1,570.35 sq ft suite + 1,512.43 sq ft balconies; 3,082.78 sq ft total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Duplex penthouse Type A1 · unit 2001",
+          "area": "6,437.68 sq ft suite + 2,508.10 sq ft outdoor area; 8,945.78 sq ft whole-unit total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "December 2022",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "June 2023",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2024",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2026 · original handover target",
+          "percent": 50,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Obtain actual completion and transfer evidence, a dated unit price, current stock, parking allocation and service charges.",
+        "Penthouse drawings show four upper bedrooms plus a lower guest room, while advertised classification remains one-to-four bedrooms. No extra marketed bedroom category is inferred without unit documentation.",
+        "Repeated penthouse area tables describe the whole residence and are counted once. Original design materials do not establish final as-built measurements or currently operating amenities. Images remain illustrative."
+      ]
+    }
+  }
+}

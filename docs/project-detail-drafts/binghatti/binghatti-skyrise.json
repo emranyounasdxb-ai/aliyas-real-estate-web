@@ -1,0 +1,189 @@
+{
+  "id": "binghatti-project-19",
+  "name": "Binghatti Skyrise",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Skyrise comprises three apartment towers in Business Bay, linked by a podium with leisure facilities. Studios and one- to three-bedroom homes sit below the project’s distinctive crown forms. Tower-specific plans should be matched to the selected home.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1050000,
+    "handover": "Q4 2026 · developer estimate",
+    "paymentPlan": "20/50/30 · developer guide",
+    "amenities": [
+      "Artificial beach",
+      "Pool deck",
+      "Padel and tennis court",
+      "Indoor gym",
+      "Jogging lane",
+      "Private golf course",
+      "Skate park"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Skyrise own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-skyrise",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 175
+        },
+        {
+          "id": "brochure",
+          "label": "Official linked Skyrise brochure · 49 pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "facts",
+          "label": "Official linked Skyrise project facts · 8 pages; overlapping brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyrise-assets/binghatti-skyrise-project-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Skyrise project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers-fze/binghatti-skyrise",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Three-tower development confirmed from own project page, not an individual resale or separately named launch phase.",
+        "location": "Business Bay confirmed from own developer page; exact existing location used.",
+        "residences": "Studio through three-bedroom homes; A/B and C plan families distinguished.",
+        "areas": "Own brochure visible numerical panels 8,28,36,41,44,45 reviewed; suite and balcony components kept separate.",
+        "amenities": "Own brochure lists leisure facilities; no confirmed operational opening or universal private-pool inclusion.",
+        "pricing": "Own hero AED 1,050,000 guide differs from portal AED 2.5m; no current unit-specific category sheet retrieved.",
+        "payment": "Developer FAQ 20/50/30 corroborated by portal; three stages total 100, no invented monthly dates.",
+        "handover": "Developer Q4 2026 agrees with portal December 2026; remains estimate rather than handover confirmation.",
+        "documents": "Own 49-page brochure and 8-page facts downloaded; overlapping material allocated 195 words combined. Primary dated payment PDF not found in own downloads."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "The brochure lists 3,302 residential homes and 31 ground-floor shops across three towers. The residential mix comprises 2,256 studios, 996 one-bedroom, 24 two-bedroom and 26 three-bedroom homes. These are planned totals, not available units."
+      ],
+      "locationNote": "Business Bay, Dubai. Check the chosen tower, orientation and final outlook rather than assuming every home faces the canal or Burj Khalifa.",
+      "priceLabel": "Developer advertised from-guide · reconfirm",
+      "priceNote": "The developer hero advertises from AED 1,050,000; Property Finder labels AED 2.5m as its launch guide. Neither guide establishes an available unit across every tower or release. Obtain the selected unit’s current quotation.",
+      "paymentNote": "The developer FAQ sets out 20% booking, 50% during construction and 30% on completion. A dated unit schedule, fees and any outstanding balance remain to be confirmed.",
+      "handoverNote": "The developer forecasts Q4 2026; Property Finder specifies December 2026, with 31 December in its timeline. No current unit-level completion or handover confirmation was retrieved.",
+      "units": [
+        {
+          "label": "Tower A/B · Studio Type 01",
+          "area": "43.23 m² / 465.32 ft² total; 350.69 suite + 114.64 balcony; source rounds by 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A/B · 1-bedroom Type 03",
+          "area": "77.18 m² / 830.76 ft² total; 646.70 suite + 184.06 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A/B · 2-bedroom Type 01",
+          "area": "154.88 m² / 1,667.11 ft² total; 1,203.41 suite + 463.71 balcony; source rounds by 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A/B · 3-bedroom Type 01",
+          "area": "184.99 m² / 1,991.22 ft² total; 1,416.21 suite + 575.01 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower C · 3-bedroom Type 03",
+          "area": "211.06 m² / 2,271.83 ft² total; 1,662.38 suite + 609.45 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · developer guide",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction · developer guide",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion · developer guide",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm live availability, current unit price, approved service charges, parking allocation, dated instalments and contractual completion. Portal sold-out labelling does not determine resale availability.",
+        "The developer says most apartments are unfurnished. Obtain the selected unit’s signed furnishing and finishes schedule.",
+        "Published totals include balconies; suite measurements are not independently measured net usable interiors. Amenity opening, access restrictions and operating charges remain unverified. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

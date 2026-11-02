@@ -1,0 +1,64 @@
+{
+ "id":"emaar-project-16","name":"Elea","developerSlug":"emaar",
+ "fields":{
+  "description":"Elea is a neighbourhood of three and four bedroom townhouses at The Valley. Its two façade options, Slate and Oakley, use different layouts within groups of four homes. Gardens and shared outdoor spaces shape the setting, while a pet park, pool deck and fitness centre are among Emaar’s advertised facilities.",
+  "areaId":"dubai-the-valley","location":"The Valley","emirate":"Dubai","type":"Townhouse","bedrooms":"3–4","price":2990000,"handover":"Q2 2028 reported","paymentPlan":"80/20 reported",
+  "amenities":["Landscaped communal grounds","Pool deck","Children’s playground","Fitness centre","Indoor multipurpose room","Pet park"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/ELEA_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Elea at The Valley","url":"https://www.emaar.com/en/properties/elea-at-the-valley","kind":"developer","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"brochure","label":"Emaar: Kaia, Elea and Elva brochure","url":"https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":60},
+    {"id":"plans","label":"Emaar: Elea Slate and Oakley plans","url":"https://www.emaar.com/cms-media/uploads/ELEA_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"facts","label":"Elea launch fact sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/elea/ELEA_THE_VALLEY_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":140},
+    {"id":"payment","label":"Elea launch payment sheet · broker-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/elea/ELEA_THE_VALLEY_PAYMENTPLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Elea project terms","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/elea-at-the-valley","kind":"portal","checkedOn":"2026-10-31","derivedWords":45},
+    {"id":"bayut","label":"Bayut: Elea area guide","url":"https://www.bayut.com/area-guides/elea-the-valley/","kind":"portal","checkedOn":"2026-10-31","derivedWords":45}
+   ],
+   "fieldSources":{"description":["official","plans"],"overview":["brochure"],"location":["official"],"type":["plans"],"bedrooms":["official","plans"],"amenities":["official"],"price":["official","facts"],"units":["plans"],"documents":["official"],"paymentPlan":["payment","finder","bayut"],"handover":["payment","finder","bayut"]},
+   "reviewCoverage":{
+    "identity":"Elea official identity retained; phase-specific plans distinguish it from Kaia and Elva despite their shared brochure.",
+    "location":"The Valley on Dubai–Al Ain Road, confirmed on the official page. Added a canonical community filter entry.",
+    "residences":"Three and four bedroom four-plex townhouses; Slate and Oakley designs confirmed by official plans.",
+    "areas":"All nine official plan pages read; four bedroom Oakley drawing visually inspected. Built-up area includes garage and balcony/terrace, not land. Separate launch plot ranges and 128-home mix attributed to copied fact sheet.",
+    "amenities":"Official Elea page supplies six facility groups. Brochure references to schools and healthcare are wider community context, not confirmed onsite operating services.",
+    "pricing":"Official starting AED 2.99 million matches launch sheet; neither proves present inventory. Four bedroom AED 3.45 million explicitly historical.",
+    "payment":"Emaar-branded fact and payment sheets hosted by Mitchell’s read and visually checked. Nine stages total 100%; portals corroborate 10/70/20.",
+    "handover":"Copied launch schedule targets June 2028; PF and Bayut corroborate Q2 2028. No current independent construction inspection.",
+    "documents":"Official shared brochure and owned plan pack, plus clearly attributed broker-hosted launch documents. Source budget reserved separately for Kaia and Elva’s use of the shared brochure."
+   },
+   "community":"The Valley",
+   "overview":["The shared community brochure emphasises simple façades and neutral interiors that owners can personalise. Elea’s individual plan pack is the more useful guide to room sizes, garages and terraces; the overall brochure covers Kaia and Elva as well."],
+   "locationNote":"Elea is within The Valley on Dubai–Al Ain Road. Emaar places it in the wider setting of Global Village and the Dubai Polo and Equestrian Club. Check the actual school, workplace and road access from the chosen home; a marketing drive time is not a dependable daily commute.",
+   "priceLabel":"Advertised from",
+   "priceNote":"Emaar advertises AED 2,990,000 as the starting price. The copied launch fact sheet lists three bedroom homes from AED 2.99 million and four bedroom homes from AED 3.45 million. These are published launch references, not a current unit quotation or availability confirmation.",
+   "paymentNote":"The copied Emaar launch sheet allocates 10% to booking, 70% to subsequent instalments and 20% to completion. Its historic dates are retained below for transparency. Obtain an updated unit-specific schedule before relying on them for a new purchase.",
+   "handoverNote":"The launch payment document targets June 2028 for estimated construction completion. Property Finder and Bayut report the same quarter. Confirm the contractual completion date and current progress separately.",
+   "units":[
+    {"label":"3 bedrooms · Slate","area":"2,451.80–2,452.34 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Slate","area":"2,833.81–2,837.79 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"3 bedrooms · Oakley","area":"2,444.05 sq ft built-up area","sourceIds":["plans"]},
+    {"label":"4 bedrooms · Oakley","area":"2,680.64 sq ft built-up area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"On booking · January 2025 launch","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2026 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2026 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2027 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2028 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Launch mix","value":"The copied fact sheet lists 128 homes: 64 with three bedrooms and 64 with four. This is the launch composition, not remaining stock.","sourceIds":["facts"]},
+    {"label":"Plot sizes at launch","value":"The fact sheet gives three bedroom plots of 1,938–2,105 sq ft and four bedroom plots of 2,969–4,565 sq ft. Plot area is separate from built-up floor area.","sourceIds":["facts"]},
+    {"label":"How areas are measured","value":"The official drawings total suite, garage and balcony/terrace areas as built-up area. Figures vary by façade and position within a four-home group.","sourceIds":["plans"]},
+    {"label":"Oakley four bedroom layout","value":"The inspected drawing places a guest bedroom, maid’s room, kitchen and living/dining spaces downstairs, with three further bedrooms upstairs and covered parking at the entrance.","sourceIds":["plans"]}
+   ],
+   "unresolved":["Current availability, resale or developer terms, and the selected home’s actual price.","Updated payment dates, construction progress and contractual completion.","Final plot, façade, orientation, landscaping inclusions and service charges.","Timing and operating status of wider community services and amenities.","Official imagery is deferred; existing photography remains illustrative."]
+  }
+ }
+}

@@ -1,0 +1,284 @@
+{
+  "id": "omniyat-project-05",
+  "name": "ORLA",
+  "developerSlug": "omniyat",
+  "fields": {
+    "description": "ORLA is OMNIYAT’s beachfront development on Palm Jumeirah, combining residences across several levels with exceptional larger homes. The design centres on terraces, landscaped surroundings and selected private pools.",
+    "areaId": "dubai-palm-jumeirah",
+    "location": "Palm Jumeirah",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "2–5",
+    "price": 24000000,
+    "handover": "2027 · main developer target; sources conflict",
+    "paymentPlan": "5/45/50 · primary microsite",
+    "amenities": [
+      "Resident beach club",
+      "Indoor lap pool",
+      "Outdoor infinity pool",
+      "Spa and treatment rooms",
+      "Fitness centre",
+      "Cycling and yoga studios",
+      "Private cinema",
+      "Bowling alley",
+      "Children’s pool and play area"
+    ],
+    "brochureUrl": "https://www.mitchellscommercialrealty.com/downloads/orla-dorchester-collection-dubai/ORLA_BROCHURE.pdf",
+    "floorPlanUrl": "https://www.madena.ae/api/assets/documents/projects/orla-dorchester-collection/floor-plans/a8693ba37231ef0d.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "OMNIYAT ORLA current project page",
+          "url": "https://omniyat.com/residential/orla-dorchester-collection-dubai",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        },
+        {
+          "id": "microsite",
+          "label": "OMNIYAT ORLA dedicated site and current payment stages",
+          "url": "https://orla.omniyat.com/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "ORLA revised branded brochure · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/orla-dorchester-collection-dubai/ORLA_BROCHURE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 115
+        },
+        {
+          "id": "factsheet",
+          "label": "ORLA earlier factsheet · broker mirror",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/orla-dorchester-collection-dubai/ORLA_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "plans",
+          "label": "ORLA residence drawings · broker mirror",
+          "url": "https://www.madena.ae/api/assets/documents/projects/orla-dorchester-collection/floor-plans/a8693ba37231ef0d.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder ORLA project guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/omniyat-group/orla-by-omniyat",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer",
+          "brochure"
+        ],
+        "bedrooms": [
+          "microsite",
+          "brochure"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "microsite",
+          "portal"
+        ],
+        "paymentPlan": [
+          "microsite"
+        ],
+        "amenities": [
+          "microsite"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected ORLA identity distinct from ORLA Infinity. Revised brochure/current main89 residences,2superpenthouses,1SkyPalace,1Mansion; earlier factsheet85+3+1 not silently merged.",
+        "location": "Primary Palm Jumeirah WestCrescent verified; no unsupported coordinates or drive times.",
+        "residences": "Revised brochure includes simplex,duplex,triplex,superpenthouses,SkyPalace andMansion. All published family areas visuallychecked onpage22; sampledactualdrawings cover2BR/3BRsimplex,3BRduplex,4BRsimplex/duplex.",
+        "areas": "Revised brochure ranges kept distinct from38-page drawingpack. Selected numerical panels1,2,8,9,13 individuallyviewed. Unit302 rounding difference noted; unit203 revisions explicit.",
+        "amenities": "Dedicated ownmicrosite facilities adopted, not reused VELA template content present elsewhere.",
+        "pricing": "PF24m launch reference; no current own price on reviewedpages and no available unit guarantee.",
+        "payment": "Currentprimary microsite5/20/15/10/50 totals100; earlierfactsheet12/24month milestones remainhistoricalconflict.",
+        "handover": "Mainprimary2027 conflicts withownmicrosite2026 andPFQ42026; noactualcompletion assumed.",
+        "documents": "65-page revisedbrochure,12-page earlierfactsheet and38-page brandedplans retrieved. Broker offer208returnednonPDF despiteHTTP200 andnotused. All sampled numericpanels visuallyread."
+      },
+      "overview": [
+        "ORLA’s interconnected buildings bring a range of residence sizes to the Palm Jumeirah crescent. Foster + Partners designed the architecture, while the dedicated site names YODEZEEN for interiors and ZED Collective for landscaping.",
+        "Dorchester Collection is the named residential manager. The precise standard services, optional extras and access rights should be confirmed for the chosen home."
+      ],
+      "community": "Palm Jumeirah",
+      "locationNote": "Palm Jumeirah, West Crescent. ORLA and ORLA Infinity are separately named developments; shared leisure access does not make their unit schedules interchangeable.",
+      "priceLabel": "Portal launch reference",
+      "priceNote": "Property Finder quotes AED 24m at launch and marks developer stock sold out while showing resale listings. This is historical guidance, not a current available-unit quotation. The reviewed primary pages do not publish a sale price.",
+      "paymentNote": "Current own microsite: 5% booking, 20% SPA, 15% after 3 months, 10% after 6 months and 50% completion. Earlier factsheet: 10% at 12 months and 15% at 24 months. Confirm the applicable SPA; schedules are not interchangeable.",
+      "handoverNote": "Current main OMNIYAT page says 2027. Its dedicated ORLA microsite still says 2026; Property Finder gives Q4 2026. Both primary versions remain live. A contractual date and actual handover status need confirmation.",
+      "units": [
+        {
+          "label": "2-bedroom simplex",
+          "area": "2,799–4,299 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom simplex",
+          "area": "3,181–4,435 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom duplex",
+          "area": "4,871–6,749 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom simplex",
+          "area": "4,413–4,618 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom double-height duplex",
+          "area": "6,282–8,202 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom duplex",
+          "area": "7,741–11,749 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom triplex",
+          "area": "9,293–12,680 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom triplex",
+          "area": "7,911 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Super penthouses",
+          "area": "20,107 and 30,678 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Sky Palace",
+          "area": "58,476 sq ft · revised brochure",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "SPA effective date",
+          "percent": 20,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "3 months after SPA",
+          "percent": 15,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "6 months after SPA",
+          "percent": 10,
+          "sourceIds": [
+            "microsite"
+          ]
+        },
+        {
+          "stage": "Project completion",
+          "percent": 50,
+          "sourceIds": [
+            "microsite"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current collection",
+          "value": "89 residences, 2 super penthouses, 1 Sky Palace, 1 Mansion",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Selected drawing totals",
+          "value": "202: 6,028; 203: 7,796; 211: 4,273; 302: 4,391; 406: 11,759 sq ft, including terraces.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Revision differences",
+          "value": "203: revised brochure 7,782 versus drawings 7,796 sq ft. 302: components 4,392 versus printed 4,391. Printed figures retained.",
+          "sourceIds": [
+            "plans",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Earlier factsheet: 85 residences, 3 sky palaces, 1 mansion. Revised collection appears above.",
+        "Brochure range basis is unspecified; drawing totals include terraces. Their figures and revisions must not be substituted for a selected home’s sale plan.",
+        "No verified current developer stock, current price list, service-charge budget, primary construction inspection or completion certificate was retrieved. Mansion area and detailed exceptional-home plans remain unconfirmed."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

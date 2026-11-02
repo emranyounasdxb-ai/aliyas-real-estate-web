@@ -1,0 +1,63 @@
+{
+ "id":"emaar-project-45","name":"Palace Residences Hillside","developerSlug":"emaar",
+ "fields":{
+  "description":"Palace Residences Hillside brings one to three bedroom apartments and three bedroom townhouses to Dubai Hills Estate. The original collection pairs Palace-branded interiors with pools, gardens and outdoor recreation. This entry covers that first release, identified as Hillside A on Property Finder; the separately listed Hillside B has its own project record.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":1719888,"handover":"Q2 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Resort-style swimming pool","Children’s pool","Indoor and outdoor gym","Padel court","Yoga space","Children’s play areas","BBQ areas","Multipurpose sports court","Table tennis","Cabanas and swings","Landscaped podium deck","Community parks and walking routes"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-HILLSIDE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-HILLSIDE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Palace Residences Hillside at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/palace-residences-hillside-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":185},
+    {"id":"brochure","label":"Emaar: Palace Residences Hillside brochure","url":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-HILLSIDE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"plans","label":"Emaar: original Hillside apartment and townhouse plans","url":"https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-HILLSIDE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"facts","label":"Hillside fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-hillside/PALACE_RESIDENCES_HILLSIDE_DHE_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":145},
+    {"id":"payment","label":"Original Hillside payment schedule · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/palace-residences-hillside/PALACE_RESIDENCES_HILLSIDE_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":175},
+    {"id":"finder","label":"Property Finder: Palace Residences Hillside A","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/palace-residences-dubai-hills-estate","kind":"portal","checkedOn":"2026-10-31","derivedWords":65}
+   ],
+   "fieldSources":{"description":["official","finder"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["brochure"],"price":["official","facts"],"units":["plans"],"documents":["brochure","plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Original Hillside release confirmed; independently owned Hillside B record exists later in the queue and its figures are excluded here.",
+    "location":"Dubai Hills Estate with Hillside Park context and access shown from Al Khail Road and Umm Suqeim Road.",
+    "residences":"One to three bedroom apartments and three bedroom townhouses confirmed from original plans.",
+    "areas":"All 14 floor-plan pages read. Type A2 one-bedroom printed total has a 0.07 sq ft arithmetic discrepancy; disclosed without silently amending the source. Townhouse drawing visually reviewed.",
+    "amenities":"Project pool, fitness, play and podium amenities distinguished from wider Dubai Hills facilities.",
+    "pricing":"Current developer selection from AED 1,719,888 separated from historical type-specific launch prices.",
+    "payment":"Original project payment sheet read and visually checked; nine stages sum to 100%.",
+    "handover":"June 2029 launch estimate corroborated by Property Finder’s Hillside A entry; no transfer of B delivery dates.",
+    "documents":"Official brochure and complete original plans linked; fact sheet and payment schedule attributed to their broker host. Images unchanged."
+   },
+   "community":"Dubai Hills Estate · Hillside Park",
+   "overview":["The brochure develops the residential setting around a landscaped podium, a rooftop terrace and the Palace Bridge. Its interiors use a warm palette of beige, green and brown, continuing the garden theme indoors. Recreation ranges from poolside seating to active sports and gym spaces. The wider Dubai Hills neighbourhood adds a mall, park and golf setting, but those nearby facilities should not be read as an included membership or a hotel-service package. The townhouse format offers separate living levels for households seeking a different arrangement from a single-floor apartment."],
+   "locationNote":"The project is within Dubai Hills Estate, close to the Hillside Park landscape shown in its brochure. The community map identifies Al Khail Road and Umm Suqeim Road as surrounding connections. Confirm the route, entrance and outlook for a particular residence rather than relying on generic driving-time claims.",
+   "priceLabel":"Developer-published units from",
+   "priceNote":"Emaar’s current selection begins at AED 1,719,888. The original fact sheet lists one-, two- and three-bedroom apartments from AED 1.71m, AED 2.51m and AED 4.77m, with three-bedroom townhouses from AED 6.34m. These historical launch figures do not confirm current stock or a reservable price.",
+   "paymentNote":"The original launch schedule allocates 10% to booking, seven instalments of 10%, and 20% at estimated completion. Construction triggers apply to the final three interim stages. Earlier calendar dates have passed; request the schedule applicable to a new reservation.",
+   "handoverNote":"June 2029 is the original payment sheet’s estimated completion month and is also reported for Hillside A by Property Finder. The contractual programme and current construction status require confirmation.",
+   "units":[
+    {"label":"1 bedroom apartment · printed totals","area":"675.76–770.12 sq ft total; upper figure needs confirmation","sourceIds":["plans"]},
+    {"label":"2 bedroom apartment","area":"1,061.39–1,190.70 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom apartment","area":"1,882.05–2,110.15 sq ft total","sourceIds":["plans"]},
+    {"label":"3 bedroom townhouse · TH01–08 plan","area":"2,622.14 sq ft total","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"December 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"May 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027","percent":10,"sourceIds":["payment"]},
+    {"stage":"September 2027 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"January 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"July 2028 · 90% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"June 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Original launch collection","value":"359 homes: 149 one-bedroom, 167 two-bedroom and 35 three-bedroom apartments, plus eight townhouses. This describes the release, not current availability.","sourceIds":["facts"]},
+    {"label":"Townhouse arrangement","value":"Two levels with a ground-floor bedroom, maid’s room, laundry and main living area; two further bedrooms and a store upstairs. The plan totals 2,193.82 sq ft suite plus 428.32 sq ft balcony/terrace.","sourceIds":["plans"]},
+    {"label":"Plan measurement discrepancy","value":"The one-bedroom Type A2 drawing prints 770.12 sq ft total, while its 609.88 sq ft suite and 160.31 sq ft balcony sum to 770.19. The printed total is retained pending a corrected unit drawing.","sourceIds":["plans"]},
+    {"label":"Fact-sheet size ranges","value":"The launch sheet reports rounded ranges of 676–772 sq ft for one-bedroom homes, 1,060–1,191 for two-bedroom homes and 2,620–2,623 for townhouses. These do not exactly match every reviewed plan; use the contracted unit’s drawing.","sourceIds":["facts","plans"]}
+   ],
+   "unresolved":["Confirm the Type A2 total-area discrepancy and any differences between the fact sheet and the exact residence plan.","Current availability and unit-specific prices, payment obligations and contractual completion date.","Service charges, branded-residence services, parking and final specifications have not been independently confirmed.","Hillside B is a separately owned record; its size, mix and programme must not be combined with this release.","Project imagery remains deferred; existing photographs are illustrative."]
+  }
+ }
+}

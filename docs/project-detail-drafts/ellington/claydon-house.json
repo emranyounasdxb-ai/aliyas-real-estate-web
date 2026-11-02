@@ -1,0 +1,299 @@
+{
+  "id": "ellington-project-20",
+  "name": "Claydon House",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Claydon House is Ellington’s apartment development in Mohammed Bin Rashid City. One- to four-bedroom homes include study configurations and markedly different balcony areas, supported by shared recreation and workspaces.",
+    "areaId": "dubai-mbr-city",
+    "location": "Mohammed Bin Rashid City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1700000,
+    "handover": null,
+    "paymentPlan": "70/30 · published reference",
+    "amenities": [
+      "Fitness centre",
+      "Yoga studio",
+      "Shared pool",
+      "Lagoon access",
+      "Children’s play areas",
+      "Communal lounges",
+      "Landscaped gardens"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Floor%20Plan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington Claydon House own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/claydon-house-mohammed-bin-rashid-city",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Claydon official brochure · 60 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brief",
+          "label": "Claydon official project brief · 82 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House_Project%20Brief.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        },
+        {
+          "id": "plans",
+          "label": "Claydon official floor plans · 41 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Floor%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "payment",
+          "label": "Claydon official payment sheet · one page",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Payment%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 55
+        },
+        {
+          "id": "amenities",
+          "label": "Claydon official amenities plans",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Claydon%20House/Launch/Claydon%20House%20-%20Amenities%20Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "mbr-price",
+          "label": "Ellington MBR City advertised project prices",
+          "url": "https://mbr-city.ellingtonproperties.ae/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Claydon guide · differing date and price",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-claydon-house",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 75
+        },
+        {
+          "id": "construction",
+          "label": "Ellington Claydon dated construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Claydon_House&lang=en&projectn=Claydon%20House&url=https://ellingtonproperties.ae/?p=41993",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "mbr-price",
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder",
+          "construction"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "brief"
+        ],
+        "overview": [
+          "brief"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Claydon body, official brochure/brief/plans/payment match Claydon, not adjacent Ellington MBR projects. All protected identity fields retained.",
+        "location": "Own developer places project in MBR City; PF uses Bukadra. No exact Meydan Horizon alias adopted without source-supported site identity.",
+        "residences": "Primary1–4BR mix. All21 measured plan variants reviewed, including A/A1/A2/B/B1/B2/B3/C/D1BR, five2BR variants, five3BR+study and two4BR+study.",
+        "areas": "Official41-page plan numeric panels20–40 rendered1700px and visually read. All21 printed totals retained; component sums differ by 0.01 in some rows, disclosed.",
+        "amenities": "Own primary facilities and official amenity documentation reviewed. Planned lagoon access and shared facilities are not guaranteed operating entitlements.",
+        "pricing": "Own MBR City microsite advertises1.7m vs PF2.497828m launch guide. Distinct bases recorded; sharedMBRallocation20 completes40wordgroup allowance.",
+        "payment": "Official single-page plan visually inspected:20+10+10+5+5+4x5+30=100. Reservation-day and construction-triggered timing retained; no post-handover conversion.",
+        "handover": "Main own page Q22027 differs PFDecember 2027; contract and actualhandover not established, headline null. Construction gallery reviewed without assumed percentage.",
+        "documents": "Own60-pagebrochure/82-pagebrief/41-pageplans/payment/amenities downloaded. Publicslimbrochurelink404excluded. Underlyingpooled200:brief25/plans120/payment55; no genericindex."
+      },
+      "community": "Mohammed Bin Rashid City",
+      "overview": [
+        "Brief parking: one space for 1–2BR, two for 3–4BR. Its AED 22/ft² service charge is anticipated, not an approved current levy."
+      ],
+      "locationNote": "Mohammed Bin Rashid City, Dubai; Property Finder classifies Claydon House under Bukadra. Confirm the selected unit’s orientation and final surrounding development.",
+      "priceLabel": "Developer advertised reference · confirm current offer",
+      "priceNote": "Ellington’s MBR City page advertises AED 1.7m; Property Finder retains AED 2,497,828 as a launch reference and labels developer types out of stock. Different snapshots do not establish a binding selected-unit quotation.",
+      "paymentNote": "The published stages total 100%. They are reference terms; confirm applicable dates and charges in the selected agreement.",
+      "handoverNote": "The developer’s current Claydon page states Q2 2027, while Property Finder specifies December 2027. These estimates conflict; no contractual completion or actual handover date is asserted.",
+      "units": [
+        {
+          "label": "1BR A / A1 / A2",
+          "area": "840.77 / 879.41 / 825.27 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR B / B1 / B2 / B3",
+          "area": "798.90 / 829.47 / 767.68 / 788.24 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR C / D",
+          "area": "881.13 / 839.37 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A / B",
+          "area": "1,241.51 / 1,235.70 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + study A / B / C",
+          "area": "1,256.69 / 1,294.36 / 1,393.93 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR + study A / B / C / D / E",
+          "area": "1,609.31 / 1,612.65 / 2,115.00 / 2,814.12 / 2,266.56 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR + study A / B",
+          "area": "3,095.16 / 3,198.93 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "240 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "360 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "At 60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Some printed component totals differ by 0.01 ft²; original totals retained. Study rooms are not additional bedrooms.",
+        "Current availability, contractual handover, approved service charges, furnishing inventory, selected parking/title terms and facility operation require confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "sobha-project-18",
+  "name": "Sobha One",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Sobha One is a five-tower apartment and duplex development beside Ras Al Khor Road. The linked buildings step from 30 to 65 storeys around landscaped courtyards, with a neighbouring 18-hole pitch-and-putt course and a broad choice of indoor and outdoor space arrangements.",
+    "areaId": "dubai-sobha-one",
+    "location": "Sobha One",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 1740000,
+    "handover": "December 2026 · portal estimate",
+    "paymentPlan": "60/40 · brochure plan",
+    "amenities": [
+      "18-hole pitch-and-putt course",
+      "Sky gardens",
+      "Swimming pool",
+      "Indoor and outdoor fitness areas",
+      "Landscaped courtyards"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-03/sobha-one-oppdoc-en.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-03/sobha-one-oppdoc-en.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha One official project page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-one",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 95
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha One official brochure and apartment/duplex plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-03/sobha-one-oppdoc-en.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Sobha One estimated date and alternative payment breakdown",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-one",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer",
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "brochure",
+          "finder"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Original Sobha One towers, not The Element or Golf Ridges.",
+        "location": "Official Ras Al Khor Road location; no unsupported coordinates.",
+        "residences": "Brochure 1–4-bedroom apartments and 2–4-bedroom duplexes; own website currently mentions 3–4 duplexes. Brochure wider mix retained.",
+        "areas": "Own 170-page official PDF reviewed; numerical type panels 32,55,72 visually checked.",
+        "amenities": "Brochure courtyard/sky-garden/fitness/pool and pitch-and-putt description, not an assumed full-length championship course.",
+        "pricing": "Current officialAED 1.74 m; original brochureAED 1.1 m and portal launchAED 1.6 m are historical differences.",
+        "payment": "Own page 22 visual 60% construction/40% completion; portal 20/40/40 explains booking within first 60.",
+        "handover": "Portal December 2026 estimate; retrieved own PDF does not supply a completion date.",
+        "documents": "Own official 170-page brochure includes plans and aggregate payment panel; no current dated unit calendar retrieved."
+      },
+      "community": "Sobha One · Ras Al Khor",
+      "overview": [
+        "The original brochure includes two- to four-bedroom duplexes in addition to apartments. Outdoor areas vary materially: a balcony, terrace or yard may form part of the quoted saleable size. The Element and Golf Ridges are separate named products and their delivery dates or unit specifications are not imported here."
+      ],
+      "locationNote": "Near Ras Al Khor Road in Dubai, with different tower orientations toward the Creek, Downtown and the golf setting. Views shown in marketing depend on the actual unit and future surroundings.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha currently advertises AED 1.74 m subject to inventory. The original brochure’s AED 1.1 m guide is historical; Property Finder’s sold-out label and AED 1.6 m launch guide do not establish today’s availability.",
+      "paymentNote": "The official brochure states 60% during construction and 40% on completion. Property Finder breaks the first 60% into 20% launch down payment and 40% construction. Remaining instalments, transfer balances and current offers depend on the selected contract.",
+      "handoverNote": "Property Finder estimates December 2026. No signed current handover schedule was retrieved; do not substitute The Element’s separate 2028 date.",
+      "units": [
+        {
+          "label": "1-bedroom Type A with powder room",
+          "area": "732.27 sq ft total: 674.79 suite + 57.48 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type A with maid room",
+          "area": "1,917.11 sq ft total: 1,642.57 suite + 274.54 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Type A with store and maid room",
+          "area": "2,277.22 sq ft total: 2,080.88 suite + 196.34 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Construction period · includes booking allocation",
+          "percent": 60,
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 40,
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Current inventory, dated instalment calendar, parking assignment and service charges require unit-specific confirmation.",
+        "Public brochure and current website describe different duplex selections; confirm the actual approved plan before treating every type as available.",
+        "Golf access, operating arrangements and amenity opening dates may carry separate conditions. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "danube-project-11",
+  "name": "Oasiz 2",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Oasiz 2 is a separate apartment building in Dubai Silicon Oasis. Its plans distinguish conventional homes from presidential layouts with pools, with larger family apartments on the upper residential levels.",
+    "areaId": "dubai-silicon-oasis",
+    "location": "Dubai Silicon Oasis",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 699000,
+    "handover": "November 2027",
+    "paymentPlan": null,
+    "amenities": [
+      "Infinity and podium pools",
+      "Indoor gym",
+      "Children’s daycare and play areas",
+      "Outdoor cinema",
+      "Business centre and library",
+      "Sports courts",
+      "Spa",
+      "Party facilities"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/236386258cb040a0a45c9ef7860a2467.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/IsOx79FZQU6-HpUP41qh6Dk_61w/ZV9E4w/Oasiz%202%20Floorplans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "page",
+          "label": "Own Danube Oasiz 2 project page",
+          "url": "https://danubeproperties.com/portfolio/oasiz-2/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "construction",
+          "label": "Own Oasiz 2 internal inspection 30 September 2026",
+          "url": "https://danubeproperties.com/construction/oasiz2/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "brochure",
+          "label": "Oasiz 2 branded 22-page brochure, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/236386258cb040a0a45c9ef7860a2467.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        },
+        {
+          "id": "plans",
+          "label": "Oasiz 2 branded 23-page plan pack, broker mirror",
+          "url": "https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/IsOx79FZQU6-HpUP41qh6Dk_61w/ZV9E4w/Oasiz%202%20Floorplans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Oasiz Phase 2 guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/danube-oasiz-2",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "page",
+          "plans"
+        ],
+        "location": [
+          "page"
+        ],
+        "type": [
+          "page"
+        ],
+        "bedrooms": [
+          "page",
+          "plans"
+        ],
+        "amenities": [
+          "page"
+        ],
+        "price": [
+          "page",
+          "finder"
+        ],
+        "paymentPlan": [
+          "page",
+          "finder"
+        ],
+        "handover": [
+          "page",
+          "construction",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "page"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Oasiz 2 identity checked against its own project page and named plan documents; related phases are separated.",
+        "location": "The sources identify Dubai Silicon Oasis, Dubai. No coordinates or guaranteed travel times were invented.",
+        "residences": "The published Studio–3 range was checked against the named layout families; convertible spaces are not counted as extra bedrooms.",
+        "areas": "Numeric plan panels were rendered and visually inspected. Apartment, balcony and total figures are kept distinct; source conflicts are disclosed below.",
+        "amenities": "Project facilities were checked against the cited own page or phase-specific guide. Unit pools are limited to the layouts that show them.",
+        "pricing": "The price basis and source are disclosed. Historical launch references, averages and current availability are not treated as interchangeable.",
+        "payment": "Freshownhero30/70 andgeneric1%monthlylanguage compared withPF10/54/6/30post. Stagesareportalreference only,headlinewithheld; no universalcurrentcalendar.",
+        "handover": "Forecast dates are separated from dated construction assessments; no actual handover is inferred from a percentage or elapsed forecast.",
+        "documents": "Named brochures, plans and available commercial documents were reviewed. Numeric evidence, phase distinctions and document allocations are recorded in the project artifact."
+      },
+      "community": "Dubai Silicon Oasis",
+      "overview": [
+        "Upper-level three-bedroom plans differ from the smaller homes below. Compare the chosen floor, pool responsibilities and enclosed accommodation before using a marketing total as a measure of everyday space."
+      ],
+      "locationNote": "Dubai Silicon Oasis, Dubai. A proposed Metro reference is future connectivity; verify the actual route and transport status before relying on it.",
+      "priceLabel": "Developer FAQ reference · sold out",
+      "priceNote": "The own Oasiz 2 FAQ retains studios around AED 699,000, while its main availability label says sold out. Property Finder retains an AED 769,000 launch reference. Neither is a current selected-unit quotation; resale and later payment offers can differ.",
+      "paymentNote": "Danube’s live hero advertises 30/70, while its page also uses 1% monthly language without a complete dated schedule. Property Finder instead allocates 10% launch, 54% construction, 6% handover and 30% afterward. The displayed stages are that portal reference only; its two options repeat these percentages. Obtain the actual selected-unit agreement and instalment calendar.",
+      "handoverNote": "Danube forecasts November 2027. Its internal inspection dated 30 September 2026 reports 35% progress and a concrete slab at floor 17. This developer snapshot establishes neither completion nor a guaranteed handover date.",
+      "units": [
+        {
+          "label": "Studio Type A",
+          "area": "367–379 ft² total; 289–297 apartment; 78–82 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential studio A · pool",
+          "area": "390–402 ft² total; 308–316 apartment; 82–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR Type A",
+          "area": "531–565 ft² total; 455–489 apartment; 76–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Presidential suite A · pool",
+          "area": "536–558 ft² total; 458–472 apartment; 78–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR Type A",
+          "area": "736–747 ft² total; 653–661 apartment; 83–86 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · pool",
+          "area": "1,158–1,171 ft² total; 890–898 apartment; 268–273 balcony.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · launch",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal reference · construction",
+          "percent": 54,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal reference · handover",
+          "percent": 6,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal reference · after handover",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Developer building scope",
+          "value": "483 apartments on the own Oasiz 2 page; this is not available inventory.",
+          "sourceIds": [
+            "page"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Printed area ranges are marketing bands, not selected-unit approved measurements. Private pools and presidential labels apply only to specified layouts.",
+        "Current dated prices, payment deadlines, post-handover conditions, parking allocation, approved service charges, furnishing inventory and pool maintenance obligations require selected-unit confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

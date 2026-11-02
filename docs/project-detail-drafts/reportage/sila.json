@@ -1,0 +1,329 @@
+{
+  "id": "reportage-project-05",
+  "name": "Sila",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Sila combines apartments and multilevel townhouses in Masdar City, with notably varied terraces.",
+    "areaId": "abu-dhabi-masdar-city",
+    "location": "Masdar City",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "2–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Gym",
+      "Swimming pool",
+      "Children’s pool",
+      "Children’s play area",
+      "Barbecue area",
+      "Basement parking",
+      "Seating areas"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_BROCHURE_V2-2.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_FLOORPLANS_V1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sila: developer project page",
+          "url": "https://reportagegroup.com/projects/residential-communities/sila/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Sila: original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_BROCHURE_V2-2.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Sila: original apartment and townhouse drawings",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_FLOORPLANS_V1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 140
+        },
+        {
+          "id": "facts",
+          "label": "Sila: original factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_FACTSHEET_V1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 40
+        },
+        {
+          "id": "portal",
+          "label": "Sila: Property Finder launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/reportage-real-estate/sila-by-reportage",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "broker",
+          "label": "Sila: EZRE guide dated 11 September 2026",
+          "url": "https://ezre.ae/projects/sila",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 100
+        }
+      ],
+      "community": "Masdar City",
+      "overview": [
+        "Compare layouts."
+      ],
+      "locationNote": "The developer places Sila in Masdar City, Abu Dhabi.",
+      "priceLabel": "Request a selected-home quotation",
+      "priceNote": "Property Finder gives an AED 1.6 million launch guide. EZRE’s 11 September 2026 snapshot quotes AED 1,688,756. Neither is a verified current primary unit quotation; release and discount conditions require confirmation.",
+      "paymentNote": "Property Finder’s reference is 30 / 70. EZRE’s 11 September snapshot lists 20 / 39 / 41; a fresh capture lists 20 / 36 / 44. No original dated calendar was verified; confirm the selected offer.",
+      "handoverNote": "Property Finder targets September 2029; EZRE gives Q3 2029. The developer’s undated construction section says “Starting Soon”; no completion certificate or contractual date was verified.",
+      "units": [
+        {
+          "label": "Apartment · 2BR A–E",
+          "area": "892.65–1,644.51 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 3BR A–D/F–H",
+          "area": "1,396.51–2,395.40 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · disputed E label",
+          "area": "1,762.59–1,960.43 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Apartment · 4BR A",
+          "area": "2,339.21–2,592.05 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 3BR A",
+          "area": "1,874.21 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 4BR A",
+          "area": "2,084.00–2,101.97 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 4BR B",
+          "area": "3,070.29–3,402.90 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 4BR C",
+          "area": "2,429.20–2,673.65 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Townhouse · 4BR D",
+          "area": "2,140.29 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Sales launch · reference",
+          "percent": 30,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover · reference",
+          "percent": 70,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Mix",
+          "value": "101 homes: apartments 61 two-bedroom, 25 three-bedroom, two four-bedroom; townhouses four three-bedroom and nine four-bedroom.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Building and plot",
+          "value": "Two basements, ground and six residential floors; 3,978 m² plot.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Purchase reference",
+          "value": "Property Finder lists freehold and a 2% government fee. Confirm title eligibility and complete purchase costs.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The sixth-floor E sheet says two-bedroom but depicts three bedrooms; it is shown separately. Printed totals include outdoor space and whole townhouse levels.",
+        "Facts show six floors; a plan references eight. Component-rounding differences remain unchanged. Confirm the contracted revision and charges."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-05 Sila identity/owner unchanged. Own primary labels residentialtownhouses but actualfacts mix88apartments13townhouses=101, filterApartment retainsmixedscopeinpublicdescription. NotYasIsland; secondaryTAYAincorrectgeographyexcluded.",
+        "location": "Currentownmainandactualfacts1 explicitMasdarCityAbuDhabi mapscentralabu-dhabi-masdar-city. No officeaddressorcoordinatesassumed. Travel estimatesnotpromised.",
+        "residences": "All19actualfullfamilydrawings inspected through05-whole-contact0/6/12/18; highreswhole13,31,33 additionallyviewed. Pages4–8twoA–E;9–16threeA–H exceptpage13header2BR Eactual3bedrooms;17fourA;31threeTHA;32–35fourTHA–D. Townhousethreelevelswithvoidswholecount,notthreeidenticalfloors. Maidnotfamilybedroom.",
+        "areas": "All19actualnumericpanels05-numeric-contact0/6/12/18 read. Apartment2range892.65–1644.51;3unambiguous1396.51–2395.40;disputedE1762.59–1960.43separate;4 2339.21–2592.05. Townhouse3A1874.21,4A2084–2101.97/B3070.29–3402.90/C2429.20–2673.65/D2140.29. Wholeinternal+outdoor,no levelmultiplication. ExistingPFroundedrangesareincompletevsactualedition; ownplansprevail. Source0.01componentdifferencesretained. Independently viewed facts1 ground+6floor label versus actualplan4 Ground–8thFloor; public edition conflict disclosed, not silently reconciled.",
+        "amenities": "Ownmainandactualfacts1 supportssevenlistedplannedfacilities. No assumptionMasdarCitycleanenergypromisesequalscertifiedindividualbuildingrating, no genericCCTV/steam/sauna copiedfromportal.",
+        "pricing": "Ownpage/28pbroch/37pplans/2pfacts no priceverified. PF1.6mlaunchguide andEZRE1688756dated11Sep2026 differ, notliveprimaryquotation. Genericcorporateoffersnotused. NULLheadline.",
+        "payment": "PF30launch70handover=100reference. EZREdated20booking39construction41handover=100alternativequalified. Exactoriginaldatedcommercialcalendarunavailable. EZREpaymentpageincorrectlymentionsDubaiDLD4percentforAbuDhabi; excluded, actualPF2percentonlyreferencewithconfirmation. Fresh independent EZRE capture2November2026 now20/36/44; historical11September20/39/41 retained explicitlydated with capturevariation. No primaryscheduleassumed.",
+        "handover": "PrimaryundatedStartingSoon vsPFSeptember2029 andEZREQ32029. Forecastnotcompletioncertificateorbindingcontract; headlineNULL. No assumptionspastconstructionstartdateverifiesprogress.",
+        "documents": "Ownnormalhrefexact3originalPDFs retrieved200,28pbroch37pplans2pfacts. All19visibleareafooters andfullfamilycontacts plus3wholelargeimages actuallyread;facts1/2viewed. WholeunderlyingphasePDF20+140+40=200acrossversions/mirrors. Genericcorporate0. AllfamilyrangesnotimportedunseenOCR."
+      },
+      "fieldSources": {
+        "description": [
+          "developer",
+          "facts"
+        ],
+        "areaId": [
+          "developer",
+          "facts"
+        ],
+        "location": [
+          "developer",
+          "facts"
+        ],
+        "emirate": [
+          "developer",
+          "facts"
+        ],
+        "community": [
+          "developer",
+          "facts"
+        ],
+        "locationNote": [
+          "developer",
+          "facts"
+        ],
+        "overview": [
+          "developer",
+          "facts"
+        ],
+        "type": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "brochureUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "floorPlanUrl": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "developer",
+          "portal",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal",
+          "broker"
+        ]
+      }
+    }
+  }
+}

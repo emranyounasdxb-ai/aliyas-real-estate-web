@@ -1,0 +1,191 @@
+{
+  "id": "binghatti-project-18",
+  "name": "Binghatti Aquarise",
+  "developerSlug": "binghatti",
+  "fields": {
+    "description": "Binghatti Aquarise is a water-inspired apartment development in Business Bay. Curved balconies surround studios and larger homes, with separate Island layouts and selected private-pool designs. The building combines residential accommodation with ground-floor retail.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–4",
+    "price": 999999,
+    "handover": "Q1 2027 · developer estimate; portal conflict",
+    "paymentPlan": "20/50/30 · developer FAQ guide",
+    "amenities": [
+      "Pool deck",
+      "Artificial beach",
+      "Children’s play area",
+      "Sunken seating",
+      "Running lane",
+      "Sky garden",
+      "Gym",
+      "Padel and tennis court"
+    ],
+    "brochureUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-brochure.pdf",
+    "floorPlanUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-brochure.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Binghatti Aquarise own project page",
+          "url": "https://www.binghatti.com/en/projects/binghatti-aquarise",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "brochure",
+          "label": "Official linked Aquarise brochure · 60 pages",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 165
+        },
+        {
+          "id": "facts",
+          "label": "Official linked Aquarise project facts · 8 pages; overlaps brochure",
+          "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-aquarise-assets/binghatti-aquarise-facts.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Aquarise: conflicting dated delivery and expired promotion",
+          "url": "https://www.propertyfinder.ae/en/new-projects/binghatti-developers/binghatti-aquarise",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "amenities": [
+          "facts"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "paymentPlan": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "developer",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own project page and directly linked official S3 documents retrieved; no assumed current available stock.",
+        "location": "Business Bay along the Dubai Water Canal confirmed by developer; mapped to exact existing location.",
+        "residences": "Studio through four-bedroom mix and separate Island plans verified; private pools not attributed to every home.",
+        "areas": "Actual brochure numerical panels 10,26,33,40,47,50,51,54 visually inspected at bounded size; visible headings preferred over stale embedded labels.",
+        "amenities": "Own facts/brochure facilities reviewed; no operational or unrestricted access guarantee.",
+        "pricing": "Own hero AED 999,999 advertised guide differs from portal AED 2m; no current unit-specific quote established.",
+        "payment": "Developer FAQ 20/50/30 differs from portal 20/20/60 promotion explicitly valid only until 31 August 2026; expired promotion excluded from main schedule.",
+        "handover": "Developer Q1 2027 and portal October 2027 conflict retained; neither is confirmed delivery.",
+        "documents": "Own 60-page brochure and 8-page overlapping facts downloaded, extracted and visually sampled; combined allocation 195 words. No dated primary payment calendar retrieved."
+      },
+      "community": "Business Bay",
+      "overview": [
+        "The brochure distinguishes 1,598 residential homes from 28 retail units. Its residential mix includes 688 studios, 736 one-bedroom, 152 two-bedroom, 10 three-bedroom and 12 four-bedroom homes. These are planned counts, not availability."
+      ],
+      "locationNote": "Business Bay, Dubai Water Canal setting. Check the selected home’s actual outlook and access; marketing views are not an entitlement.",
+      "priceLabel": "Developer advertised from-guide · reconfirm",
+      "priceNote": "The developer hero advertises from AED 999,999. Property Finder instead labels AED 2m as its launch guide. Different guides do not establish current available-unit stock; obtain a selected-unit quotation.",
+      "paymentNote": "The developer FAQ gives 20% booking, 50% during construction and 30% on completion. Property Finder displays 20/20/60 but labels that offer valid until 31 August 2026. That expired promotion is not adopted. Obtain a signed, unit-specific dated schedule.",
+      "handoverNote": "The developer FAQ forecasts Q1 2027; Property Finder forecasts October 2027, including 30 October in its timeline. Neither source resolves the discrepancy or confirms actual completion.",
+      "units": [
+        {
+          "label": "Studio Type 01",
+          "area": "43.47 m² / 467.91 ft² total; 361.02 suite + 106.89 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1-bedroom Type 01",
+          "area": "94.94 m² / 1,021.93 ft² total; 642.61 suite + 379.32 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type 01",
+          "area": "122.97 m² / 1,323.64 ft² total; 1,035.06 suite + 288.58 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom Type 03",
+          "area": "360.70 m² / 3,882.54 ft² total; 1,989.39 suite + 1,893.16 balcony; rounding 0.01",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Island Type 01",
+          "area": "252.51 m² / 2,718.00 ft² total; 2,017.70 suite + 700.30 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · developer guide",
+          "percent": 20,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Construction · developer guide",
+          "percent": 50,
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "stage": "Completion · developer guide",
+          "percent": 30,
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "Confirm current availability, furnishing specification, price, service charges, parking entitlement and contractual completion. The developer says apartments are generally furnished; this is not a unit-specific inclusion schedule.",
+        "The brochure’s published total unit areas include balconies, not just enclosed accommodation. Marketing suite measurements are not independently surveyed net interiors.",
+        "Project-level floor descriptions differ in simplification between brochure and FAQ. Use approved plans rather than deriving a total building height from shorthand. Selected pool designs do not establish a private pool in every apartment. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

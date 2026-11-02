@@ -1,0 +1,339 @@
+{
+  "id": "reportage-project-01",
+  "name": "Marlin Icon",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Marlin Icon is a canal-facing collection on Al Reem Island. Its rounded tower contains apartments, duplexes and upper-level penthouses, with retail and shared recreation facilities below.",
+    "areaId": "abu-dhabi-al-reem-island",
+    "location": "Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "2–4",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Gym",
+      "Swimming pool",
+      "Children’s pool",
+      "Children’s play area",
+      "Retail spaces",
+      "Private parking"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/UAE_MARLINICON_BROCHURE_V1-1-1.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/MARLIN-ICON_FLOORPLANUNITTYPES_V4-1.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Marlin Icon: current developer project page",
+          "url": "https://reportagegroup.com/projects/residential-apartments/marlin-icon/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 150
+        },
+        {
+          "id": "launch",
+          "label": "Marlin Icon: developer launch announcement, 19 October 2026",
+          "url": "https://reportagegroup.com/news/cosmo-developments-unveils-marlin-icon-a-new-expression-of-waterfront-living-on-abu-dhabis-al-reem-island/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Marlin Icon: original brochure",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_MARLINICON_BROCHURE_V1-1-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Marlin Icon: original unit drawings",
+          "url": "https://reportagegroup.com/wp-content/uploads/MARLIN-ICON_FLOORPLANUNITTYPES_V4-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 130
+        },
+        {
+          "id": "facts",
+          "label": "Marlin Icon: original project factsheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/UAE_MARLINICON_FACTSHEET_V1-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 50
+        },
+        {
+          "id": "portal",
+          "label": "Marlin Icon: Property Finder launch guide",
+          "url": "https://www.propertyfinder.ae/en/new-projects/cosmo-developments/marlin-icon",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 110
+        },
+        {
+          "id": "broker",
+          "label": "Marlin Icon: Tanami payment alternatives",
+          "url": "https://www.tanamiproperties.com/Projects/Marlin-Icon-by-Reportage-PaymentPlan",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 70
+        }
+      ],
+      "community": "Al Reem Island",
+      "overview": [
+        "Compare layouts."
+      ],
+      "locationNote": "On Al Reem Island, Abu Dhabi. The embedded map’s Vista 3 caption is not adopted as the project address.",
+      "priceLabel": "Secondary launch-price reference",
+      "priceNote": "Property Finder advertises AED 1.6 million at launch and AED 1,626,918 in its FAQ; Tanami quotes AED 1.63 million. These are not verified current unit offers.",
+      "paymentNote": "Property Finder lists 20 / 10 / 70; the table reproduces that secondary reference. Tanami also advertises monthly and 20 / 80 or 30 / 70 alternatives with differing discounts. No dated original commercial schedule was verified.",
+      "handoverNote": "Property Finder forecasts December 2030. No contractual developer completion date or phase-specific construction percentage was verified.",
+      "units": [
+        {
+          "label": "2BR · Types A–E",
+          "area": "753.93–1,260.24 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR+ · Types A/B",
+          "area": "1,086.59–1,324.83 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR · Types A–G",
+          "area": "1,095.98–1,999.94 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR duplex · Types B/E",
+          "area": "1,560.95–1,680.64 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex · Types A/C/D/F",
+          "area": "1,706.83–2,427.54 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR duplex penthouse · Types A–D",
+          "area": "2,435.80–2,933.33 sq ft",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "At sales launch",
+          "percent": 20,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Construction",
+          "percent": 10,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 70,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development structure",
+          "value": "Cosmo Developments; fully managed and powered by Reportage Group.",
+          "sourceIds": [
+            "launch"
+          ]
+        },
+        {
+          "label": "Building",
+          "value": "140 residences; 3 basements, ground, 4 podium levels and 21 upper floors.",
+          "sourceIds": [
+            "facts",
+            "launch"
+          ]
+        },
+        {
+          "label": "Published mix",
+          "value": "65 two-bedroom, 30 two-bedroom-plus, 35 three-bedroom, 2 three-bedroom duplex and 8 four-bedroom homes.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Parking and retail",
+          "value": "226 parking spaces and 4 retail units; individual allocations require confirmation.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Tenure and fee reference",
+          "value": "Property Finder lists freehold and a 2% government fee; confirm the title and full transaction costs.",
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The introduction includes one-bedroom homes; the mix and drawings start at two bedrooms.",
+        "The project page gives a 4,771 m² plot; its factsheet and launch state approximately 1,997 m². Confirm the approved plot schedule.",
+        "Totals include outdoor space and whole duplexes. Minor component-rounding differences remain; confirm contracted plans, charges, inventory and completion status."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-01 Marlin Icon retained, notMarlin1/2. Primarylaunch actualdateline19October2026, index20October. ExplicitCosmoDevelopments launched, fullymanaged/poweredReportageGroup; ownerregistry preserved ratherthaninvent independentReportagesoleentity. Exactphasebranding onownPDFfacts/plans. Coordinationagent13Marlin1/2 requested, no genericcorporatecopy.",
+        "location": "Ownprimary andlaunch exactAlReemIsland/AbuDhabi supports existingabu-dhabi-al-reem-island. EmbeddedmaphasVista3caption, excluded asidentity/address. No guessedplotcoordinates/communitysubdistrict. Ownmain4771m² conflictsfacts1997m² andlaunchapproximately1997; originalbrochp15 21496ft² corroborateslatterbutapprovedplotnotrepaired.",
+        "residences": "Currentintro1–4BR conflictsownfacts140unitmix2/2+/3/3D/4; no1BRdrawingexists in42p ownpack. All24actualfullfamilylayouts p18–41viewed1700px, no hiddenlayer inference. 2BR+ office not recategorised3BR; maidnotbedroom. Duplex3B/E vs4A/C/D/F and4BRPH A–D actualwholelevels18/19or20/21 read; no per-floor multiplication.",
+        "areas": "Actual24numeric/fullpanels read:2BRA753.93–757.48/B817.24/C868.37–1023.04/D964.79–1192.02/E981.13–1260.24;2BR+A1086.59–1221.79/B1324.83;3BRA1257.02/B1282.44/C1095.98–1452.16/D1324.83–1325.69/E1720.75/F1999.94/G1947.52.3duplexB1560.95/E1680.64;4duplexA1926.19/C2287.71/D2427.54/F1706.83.4PH A2498.71/B2836.48/C2933.33/D2435.80. Printedtotalsretained;minor0.01roundingseveralpanelsnotrewritten. Outdoorbalcony/terraceincluded, notinternalareaonly. Brochurep15numericcompositionfacts1/2actuallyread.",
+        "amenities": "Ownmaincurrent6amenities andfacts1 matchretail/gym/adultpool/kidspool/playareas/parking. Fourlargeelevators+oneservice fromfacts andlaunchnotpubliccopied. No inferreduniversalJacuzzi fromPHdrawings, no guaranteedview/orprivatepool.",
+        "pricing": "Owncurrentmain/originalbroch/facts/plansandprimarylaunchnoprice. ExactPFcurrentheadline1.6Mlaunch vsFAQ1626918, Tanami1.63Mroundedguide corroboratessecondaryscopeonly. PriceheadlineNULL; no claim128remaininginventoryfrombroker orforeigncurrencyprice. Originalcurrentavailability/pricelistnotretrieved.",
+        "payment": "Ownprimarydocumentsno datedcommercialschedule. PF20/10/70=100 adopted onlyexplicitsecondarytable. Tanamimultiplemonthlydown10/20/30 and1%monthly,20/80 and30/70 offerswithdiscounts; no inferredmonthlycountoruniversalheadline. Both30/70differentdiscountsamepage not silentlycorrected. No salesforms/downloadleads used.",
+        "handover": "ExactPFexpectedDecember2030 andconstructionstart20Oct2026 secondarytimeline, notverifiedactualprogress. Primarylaunch19Oct2026containsnodeadline. HeadlineNULLforecastqualified; no reportforotherMarlinphaseapplied. No todaycurrentconstructionpercentinvented.",
+        "documents": "OwnthreeexactlinkedPDFs ordinaryGET20020pbrochure/42pplans/2pfacts, allactual24numericfullunitpages and2factsviewed. Threeoverlappingoriginaldocuments,mirs/retellingsshare200publicderivedwords20+130+50; publicmixedcountmeasured includingfacts/exclusions/intro andqualifiersratherthanperfile200. Currentprojectpage/newsderivefactssmall, genericindexsource0. Publicsource labelsreadable, UTF8. Noaccesschallengebypass/forms/images."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "bedrooms": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "brochureUrl": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "floorPlanUrl": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "overview": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "units": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "facts": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "unresolved": [
+          "developer",
+          "launch",
+          "brochure",
+          "plans",
+          "facts",
+          "portal"
+        ],
+        "price": [
+          "portal",
+          "broker"
+        ],
+        "priceLabel": [
+          "portal",
+          "broker"
+        ],
+        "priceNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentPlan": [
+          "portal",
+          "broker"
+        ],
+        "paymentNote": [
+          "portal",
+          "broker"
+        ],
+        "paymentStages": [
+          "portal",
+          "broker"
+        ],
+        "handover": [
+          "developer",
+          "launch",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "launch",
+          "portal"
+        ]
+      }
+    }
+  }
+}

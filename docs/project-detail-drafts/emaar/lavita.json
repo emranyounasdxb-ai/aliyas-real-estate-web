@@ -1,0 +1,327 @@
+{
+  "id": "emaar-project-91",
+  "name": "Lavita",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Lavita is a collection of six- and seven-bedroom mansions at The Oasis. Emaar’s launch material describes 43 homes beside waterways and gardens, with substantial family accommodation and separate entertaining and service areas. The architecture combines broad glazed openings with stone, timber and metal finishes.",
+    "areaId": "dubai-the-oasis",
+    "location": "The Oasis",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "6–7",
+    "price": 36000000,
+    "handover": "2028–2029 · confirm",
+    "paymentPlan": "80/20 launch plan",
+    "amenities": [
+      "Community parks",
+      "Pocket parks",
+      "Children’s play areas",
+      "Fitness centre",
+      "Resident clubhouses",
+      "Wellness facilities",
+      "Jogging and cycling routes",
+      "Community pools",
+      "Swimmable lagoon",
+      "Community beaches"
+    ],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/LAVITA_brochure.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/LAVITA_floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Lavita at The Oasis",
+          "url": "https://www.emaar.com/en/properties/lavita-at-the-oasis",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Emaar: Lavita brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/LAVITA_brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "plans",
+          "label": "Emaar: Ayanna M1-A mansion plans",
+          "url": "https://www.emaar.com/cms-media/uploads/LAVITA_floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "aman",
+          "label": "Emaar Aman plans, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/lavita/LAVITA_OASIS_FLOORPLAN_M1B.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "naya",
+          "label": "Emaar Naya plans, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/lavita/LAVITA_OASIS_FLOORPLAN_S1A.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "faya",
+          "label": "Emaar Faya plans, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/lavita/LAVITA_OASIS_FLOORPLAN_S1B.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "facts",
+          "label": "Emaar Lavita fact sheet, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/lavita/LAVITA_THE_OASIS_FACT_SHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "payment",
+          "label": "Emaar Lavita payment plan, Mitchells-hosted copy",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/lavita/LAVITA_OASIS_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 155
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Lavita The Oasis",
+          "url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/lavita-the-oasis",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 145
+        },
+        {
+          "id": "variants",
+          "label": "Mitchells: Lavita plan revisions and project summary",
+          "url": "https://www.mitchellscommercialrealty.com/projects/lavita",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "official",
+          "brochure"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "finder"
+        ],
+        "amenities": [
+          "official",
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "facts",
+          "finder"
+        ],
+        "units": [
+          "plans",
+          "aman",
+          "naya",
+          "faya",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "plans",
+          "aman",
+          "naya",
+          "faya"
+        ],
+        "paymentPlan": [
+          "payment",
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Lavita distinguished from other Oasis villa phases; historical launch mix separated from later reports.",
+        "location": "The Oasis and D54/proposed E44 access checked.",
+        "residences": "Six/seven-bedroom mansions; four layout names checked against official and supplementary plans.",
+        "areas": "Four area tables visually inspected; brochure range and later revisions kept separate.",
+        "amenities": "Developer community facilities and plan-specific rooms distinguished.",
+        "pricing": "AED 36m developer headline separated from AED 36.61m launch sheet and higher portal references.",
+        "payment": "20% booking, six 10% stages and 20% completion checked in two attributed Emaar documents.",
+        "handover": "December 2028 launch estimate versus January 2029 portal date recorded.",
+        "documents": "Official 23-page brochure and Ayanna pack plus three complementary packs, fact sheet and payment PDF reviewed."
+      },
+      "community": "The Oasis",
+      "overview": [
+        "Lavita’s brochure sets out four architectural identities: Ayanna, Aman, Naya and Faya. Its interior palette uses marble, timber, glass and warm metal tones, with large windows intended to bring daylight into principal rooms. The community plan places a centre, lagoon and entrance facilities around the mansion enclave. These are design proposals; the final contracted specification governs each home."
+      ],
+      "locationNote": "Lavita is in The Oasis, Dubai, close to Sheikh Zayed bin Hamdan Road (D54). Emaar refers to a future E44 extension and connections to Dubai Hills, Arabian Ranches and Downtown. Published travel times vary between documents and should be checked on the actual route.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "The current Emaar page displays AED 36m. The launch fact sheet gives AED 36.61m for six bedrooms and AED 54.77m for seven; Property Finder lists higher launch references. These differently dated figures are not an available-unit quotation.",
+      "paymentNote": "The dated launch schedule is 20% booking, 60% across six stages and 20% at completion. The Emaar-branded fact and payment sheets are hosted by a broker. Confirm terms applying to any remaining or resale home.",
+      "handoverNote": "The launch payment sheet estimates December 2028; Property Finder reports January 2029. The published dates do not align, so the current contractual completion date needs confirmation.",
+      "units": [
+        {
+          "label": "6 bedrooms · S1-B Faya",
+          "area": "19,012.40 sq ft published total",
+          "sourceIds": [
+            "faya",
+            "finder"
+          ]
+        },
+        {
+          "label": "6 bedrooms · S1-A Naya",
+          "area": "19,174.29 sq ft published total",
+          "sourceIds": [
+            "naya",
+            "finder"
+          ]
+        },
+        {
+          "label": "7 bedrooms · M1-B Aman",
+          "area": "27,517.29 sq ft published total",
+          "sourceIds": [
+            "aman",
+            "finder"
+          ]
+        },
+        {
+          "label": "7 bedrooms · M1-A Ayanna",
+          "area": "28,502.83 sq ft published total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "On booking · September 2024 launch",
+          "percent": 20,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "April 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "September 2025",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "February 2026",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "September 2026 · 50% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "March 2027 · 70% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2027 · 90% construction",
+          "percent": 10,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        },
+        {
+          "stage": "December 2028 · estimated completion",
+          "percent": 20,
+          "sourceIds": [
+            "payment",
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Launch mix",
+          "value": "43 mansions: 26 six-bedroom and 17 seven-bedroom homes. Fact-sheet average built-up areas are 19,099 and 28,039 sq ft respectively.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Plan totals combine the labelled floor areas, including basements; they are not plot sizes. The smaller mansion plans show three levels, while the medium mansions add a roof floor.",
+          "sourceIds": [
+            "plans",
+            "aman",
+            "naya",
+            "faya"
+          ]
+        },
+        {
+          "label": "Ayanna layout",
+          "value": "The reviewed M1-A plans include a car gallery, cinema, gym, hammam, sauna, entertainment room, office, guest suite, staff spaces, lift and roof lounge. These details belong to this layout.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Materials",
+          "value": "The brochure presents marble surfaces, timber joinery, glass and brass/bronze-toned metal details; it does not establish a final supplier schedule.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The brochure’s 21,000–35,500 sq ft range does not state its measurement basis and differs from the detailed plans. It is not used as the floor-area range.",
+        "Mitchells reports larger later-release plan totals: 20,024.94–20,096.42 sq ft for six bedrooms and 28,660.07–29,915.35 sq ft for seven. Revised sheets were not obtained here; confirm which edition belongs to the chosen plot.",
+        "Property Finder labels M1-A as Aman, but the official plan identifies it as Ayanna. Official naming is retained.",
+        "Current stock, actual plot size, final pool/landscaping inclusions, fit-out, parking allocation and charges require confirmation. Neither launch counts nor a portal’s sold-out label establishes availability.",
+        "Current images remain illustrative; project photography is deferred."
+      ]
+    }
+  }
+}

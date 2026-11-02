@@ -1,0 +1,317 @@
+{
+  "id": "imtiaz-project-30",
+  "name": "Cove by Imtiaz",
+  "developerSlug": "imtiaz",
+  "fields": {
+    "description": "Furnished studios and one- and two-bedroom homes in DLRC, with executive variants and leisure spaces on the podium, nineteenth floor and rooftop.",
+    "areaId": "dubai-land-residence-complex",
+    "location": "Dubai Land Residence Complex",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": null,
+    "handover": null,
+    "paymentPlan": "Published 60 / 40 reference",
+    "amenities": [
+      "Gym",
+      "Clubhouse",
+      "Sauna and steam room",
+      "Jacuzzi",
+      "Children’s play area",
+      "Barbecue area",
+      "Landscaped seating",
+      "Padel court",
+      "Running track",
+      "Mini golf",
+      "Outdoor cinema",
+      "Cabanas",
+      "Swimming pools"
+    ],
+    "brochureUrl": "https://imtiaz.ae/uploads/property/project_brochure/14/Brochure.pdf",
+    "floorPlanUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771135286482-f5273721c23f0043.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Cove · current Imtiaz page and FAQ",
+          "url": "https://imtiaz.ae/property/cove-by-imtiaz",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Cove · original 73-page brochure, Imtiaz public host",
+          "url": "https://imtiaz.ae/uploads/property/project_brochure/14/Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 15
+        },
+        {
+          "id": "facts",
+          "label": "Cove · original two-page factsheet and payment calendars, Imtiaz public host",
+          "url": "https://imtiaz.ae/uploads/property/fact_sheet/14/Cove%20by%20Imtiaz%20-%20Fact%20Sheet%202024-02-24%2018_00_35.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 165
+        },
+        {
+          "id": "plans",
+          "label": "Cove · original seven-page building plans, Menzaal public mirror",
+          "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771135286482-f5273721c23f0043.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 20
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder · Cove catalogue with location-name inconsistency",
+          "url": "https://www.propertyfinder.ae/en/new-projects/imtiaz-developments/cove",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "plans"
+        ],
+        "areaId": [
+          "developer",
+          "plans"
+        ],
+        "location": [
+          "developer",
+          "plans"
+        ],
+        "emirate": [
+          "developer",
+          "plans"
+        ],
+        "type": [
+          "developer",
+          "plans"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "community": [
+          "developer",
+          "plans"
+        ],
+        "locationNote": [
+          "developer",
+          "plans"
+        ],
+        "amenities": [
+          "developer",
+          "brochure",
+          "facts"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "units": [
+          "facts",
+          "plans"
+        ],
+        "price": [
+          "developer",
+          "facts"
+        ],
+        "priceLabel": [
+          "developer",
+          "facts"
+        ],
+        "priceNote": [
+          "developer",
+          "facts"
+        ],
+        "handover": [
+          "developer",
+          "facts",
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "facts",
+          "portal"
+        ],
+        "paymentPlan": [
+          "developer",
+          "facts"
+        ],
+        "paymentStages": [
+          "developer",
+          "facts"
+        ],
+        "paymentNote": [
+          "developer",
+          "facts"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "facts": [
+          "developer",
+          "facts"
+        ],
+        "unresolved": [
+          "developer",
+          "facts",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Protected30originalCove/CoveLivingResidence notCoveEditionI/II/III/4/5/6/Grand/Boulevard. Exactownproperty main+indexedofficialbrochure/facts path14 publicGET200. PF /cove page incorrectlylocationCoveEdition1, notusedasprimaryidentity. No otherphaseinventoryimported.",
+        "location": "CurrentownFAQDLRC/DubailandE66/E611 supports exactcentralexistingdubai-land-residence-complex. No inferredcoordinates/journeytime/futuremetro claims.",
+        "residences": "OwnFAQstudio/executivestudio/1/2; actual7pbuildingpackallplates2–7visuallyread:1stfloorwith/withoutamenityoverlay nottwofloors,2–18/19amenity/20–32/rooftop. Fivefamilylabelsincludeexecutive1BRwithmaid not2BRcount. No additionalhomescountcalculated oruniversalpoolpromise.",
+        "areas": "Actualofficialfacts2numeric450–570studio,500–580executivestudio,700–950one,1100–1400two. Executive1BRplansfamily notseparatesizefromfacts, unstatedexplicit. Sevenpbuildingpacknoaggregates/suite/balconyareas, no arithmeticfromroomdimensions. Original73pbrochurealltext/contactscreenednoindividualmeasuredschedule.",
+        "amenities": "OwncurrentFAQsevenfacilities; actualofficialbrochure14threeamenitylevels and16padel/17running/25minigolf/40cinema/39cabanas+officialfacts2supportextraoptions. Menzaalplans19gymclubroomand1st/roofpools. No assumeduniversalprivatepool/guaranteedoperatingfacilities/yield/visaeligibility/brands.",
+        "pricing": "Actualofficialfacts2 original590kstudio/680kexecutivestudio/780kone/1.2Mtwo historicalrelease, headlineNULLnoownlivequote. PF610ksecondary/cataloguelocationCoveEdition1 inconsistent, notheadline. NozeroMenzaalplaceholderpriceadopted.",
+        "payment": "Actualofficialfacts2bothdatedcalendarsvisuallyread20Mar15 2024+10Jun15+5Nov15+5Feb15 2025+5Jul15+5Nov15+5Mar15 2026+5Jul15+40Mar15 2027completion=100. Alternativefirst60same+10completion+30post=100;2.5quarterly12=30. OwnFAQ60/40and30post3yrsupport. No laterphase50/50calendarimported; pastduehistoricalnotcurrentoffer.",
+        "handover": "CurrentownQ12027/originalMarch15 2027vsPFApril15 2027; headlineNULL discrepancydisclosed. Own56overall45finish39MEP98super100subundatedsnapshotnotinspectionreport/certificate. No completedinferredfromsecondaryoutofstock.",
+        "documents": "Exactsearchindexedofficialpublic73pbrochurepath14 GET20036.05MB and2pfactsdated2024-02-24 GET2002.19MB, originalsnotbroker. Ownmainbuttonscontactformsnotused. MenzaalactualpublicescapedremappPDFURLs2007pplans/72pbrochure, mirrorhonestlybrokerkind. Official73palltext/contactreview; facts1/2numericcalendar/areas/pricesactuallyviewed; plansall6plates2–7actuallyviewed, cover1noadoptedfacts. Relatedoriginalbrochure/facts/plans shared20015/165/20 nofreshmirrorallowance. Imagesdeferred."
+      },
+      "community": "Dubai Land Residence Complex",
+      "overview": [
+        "Building drawings include executive one-bedroom layouts alongside the studio, executive studio, one- and two-bedroom families."
+      ],
+      "locationNote": "DLRC, Dubailand, near E66 and E611. Marketing journey times are approximate.",
+      "priceLabel": "Current developer quotation required",
+      "priceNote": "Original factsheet launch references: studio AED 590,000; executive studio AED 680,000; one-bedroom AED 780,000; two-bedroom AED 1.2 million. These are historical, not current quotations.",
+      "paymentNote": "Original March 2024 booking calendar. Current developer FAQ retains 60/40 and a post-handover alternative; request revised dates.",
+      "handoverNote": "Imtiaz currently targets Q1 2027; the original calendar names 15 March 2027. Property Finder retains April 2027, so the date needs reconciliation.",
+      "units": [
+        {
+          "label": "Studio · original range",
+          "area": "450–570 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Executive studio · original range",
+          "area": "500–580 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "1BR · original range",
+          "area": "700–950 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2BR · original range",
+          "area": "1,100–1,400 ft²",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Executive 1BR · building plans",
+          "area": "Separate area unstated",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · 15 March 2024",
+          "percent": 20,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 June 2024",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 November 2024",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 February 2025",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 July 2025",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 November 2025",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 March 2026",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "15 July 2026",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Completion · original 15 March 2027 target",
+          "percent": 40,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Post-handover alternative",
+          "value": "20% booking, 40% staged, 10% completion and 30% over three years at 2.5% quarterly.",
+          "sourceIds": [
+            "facts",
+            "developer"
+          ]
+        },
+        {
+          "label": "Website progress snapshot",
+          "value": "56% overall when checked; no inspection date stated. This does not establish completion.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Individual measured home schedules and an executive one-bedroom area range were not retrieved.",
+        "Confirm current stock, fees, parking, selected-unit pool and furnishing specification, and certified handover. Photography is illustrative."
+      ]
+    }
+  }
+}

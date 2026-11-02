@@ -1,0 +1,212 @@
+{
+  "id": "damac-project-04",
+  "name": "Chelsea Residences",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "Chelsea Residences is DAMAC's waterfront apartment development in Dubai Maritime City, created in partnership with Chelsea Football Club. The announced development contains more than 1400 planned residences, offering one-, two- and three-bedroom homes with a sports-led amenity programme.",
+    "areaId": "dubai-maritime-city",
+    "location": "Dubai Maritime City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 2170000,
+    "handover": "Q4 2029 · portal-reported estimate",
+    "paymentPlan": "20/40/40 · reported plan",
+    "amenities": [
+      "Chelsea Lion Beach",
+      "Chelsea Blue Beach Club",
+      "Infinity pool",
+      "Children's pool",
+      "Underwater-themed children's play area",
+      "Rooftop football pitch",
+      "Jogging track",
+      "Outdoor gym",
+      "Athletic training centre",
+      "Football simulation room",
+      "The Legends' Walkway",
+      "Wellness spaces"
+    ],
+    "brochureUrl": "https://naauv.com/projects/19/brochures/14",
+    "floorPlanUrl": "https://naauv.com/projects/19/brochures/16",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "DAMAC Chelsea Residences developer staging page",
+          "url": "https://preprod.damacproperties.com/en/projects/chelsea-residences/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "partner",
+          "label": "Chelsea FC partnership announcement, 30 April 2025",
+          "url": "https://www.chelseafc.com/en/news/article/chelsea-partners-with-damac-properties",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "brochure",
+          "label": "DAMAC Chelsea Residences brochure, NAAUV-hosted copy",
+          "url": "https://naauv.com/projects/19/brochures/14",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "plans",
+          "label": "Chelsea Residences floor plans, NAAUV-hosted copy",
+          "url": "https://naauv.com/projects/19/brochures/16",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Chelsea Residences payment and completion",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/chelsea-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "pricing",
+          "label": "NAAUV: Chelsea original bedroom price guides",
+          "url": "https://naauv.com/projects/chelsea-residences",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "partner"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "plans"
+        ],
+        "price": [
+          "pricing"
+        ],
+        "handover": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Chelsea FC primary announcement confirms branded partnership and 1400-plus planned residences; overall scope not current availability.",
+        "location": "Developer staging page and partner announcement confirm Dubai Maritime City.",
+        "residences": "One/two/three bedrooms supported by developer and own 39-page plans; tower-specific examples retained.",
+        "areas": "Actual own plan totals visually checked on pages 11/16/21 rather than transferring portal averages across types.",
+        "amenities": "Own 48-page brochure indexed and sports/wellness programme visually read, with no medical-outcome claims adopted.",
+        "pricing": "AED 2.17m/3.13m/4.94m broker guide attributed; portal 2.32m difference disclosed.",
+        "payment": "Portal 20/40/40 corroborated by broker publications; no verified developer dated instalment sheet retrieved.",
+        "handover": "Portal Q4 2029 is a reported estimate; later tower programmes require confirmation.",
+        "documents": "Branded 48-page brochure and 39-page plans downloaded. Separate34-page sales presentation parsed by web service but download/screenshots timed out, so its numerical tables were not used."
+      },
+      "community": "Chelsea Residences · Dubai Maritime City",
+      "overview": [
+        "The programme focuses on sport and shared leisure, including a rooftop football pitch, a football simulation room and an athletic training centre. The brochure also presents pools, children's recreation and wellness spaces. Their management, charges and access should be confirmed for the purchased home."
+      ],
+      "locationNote": "Chelsea Residences is in Dubai Maritime City. Confirm the precise phase, tower and orientation: branded sea-view marketing and a waterfront masterplan do not define the outlook or access rights of every apartment.",
+      "priceLabel": "Broker-reported launch guide · reconfirm",
+      "priceNote": "NAAUV publishes original guides from AED 2.17m for one bedroom, AED 3.13m for two and AED 4.94m for three. Property Finder instead lists AED 2.32m as its project starting reference. These differing dated selections do not establish current available stock; request a unit-specific developer quotation.",
+      "paymentNote": "Property Finder reports 20% at booking, 40% during construction and 40% at handover. The stages below show that reported split, not a dated developer payment calendar. Release-specific alternatives, fees and incentives require a written current offer.",
+      "handoverNote": "Property Finder reports December 2029, expressed here asQ 4 2029. This is a portal-reported estimate; confirm the phase and tower's actual contractual date before planning a move.",
+      "units": [
+        {
+          "label": "1-bedroom Type A1 · Towers A/B example",
+          "area": "72.06 sq m /775.65 sq ft total in plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2-bedroom Type B2/B5 · Towers A/B examples",
+          "area": "150.08 sq m /1,615.45 sq ft total in plan",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3-bedroom Type B1 · Tower C example",
+          "area": "264.57 sq m /2,847.81 sq ft total in plan",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported plan",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Development scope",
+          "value": "Chelsea FC's30 April 2025 announcement describes more than 1400 planned residences. This is a project-scale statement, not a count of homes currently offered.",
+          "sourceIds": [
+            "partner"
+          ]
+        },
+        {
+          "label": "Example configuration",
+          "value": "The one-bedroom A1 drawing has a separate laundry and powder room; the Tower C three-bedroom B1 example adds a maid room, storage and substantial terrace space. These are individual variants, not universal features.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current unit availability, price, approved service charges, parking, specification and exact total-area basis require developer confirmation.",
+        "The main developer website was unavailable; its accessible staging page was corroborated with Chelsea FC and branded documents. Generic nearby-facility claims were not relied on.",
+        "Exact dated instalments, registration/administration charges and any DLD waiver need a current developer schedule. Later tower handovers may differ.",
+        "Some portal averages are materially different from the example drawings. Select the actual layout rather than treating an average as every apartment's area. Photos remain illustrative."
+      ]
+    }
+  }
+}

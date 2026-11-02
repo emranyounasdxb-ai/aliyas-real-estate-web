@@ -1,0 +1,387 @@
+{
+  "id": "wasl-project-10",
+  "name": "One B Tower",
+  "developerSlug": "wasl",
+  "fields": {
+    "description": "One B Tower is Wasl’s residential development on Sheikh Zayed Road, beside the Dubai Water Canal. Apartments and duplexes share a podium pool, fitness spaces and places for families to gather. Wasl associates the tower with the One Billion Meals Endowment initiative.",
+    "areaId": "dubai-business-bay",
+    "location": "Business Bay",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–5",
+    "price": 3963000,
+    "handover": "Q4 2028 · portal forecast",
+    "paymentPlan": null,
+    "amenities": [
+      "Spa",
+      "Vitality pools",
+      "Podium swimming pool",
+      "Gym",
+      "Yoga spaces",
+      "Children’s playroom",
+      "Coworking spaces",
+      "Cinema/family lounge"
+    ],
+    "brochureUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+    "floorPlanUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Wasl One B Tower project guide",
+          "url": "https://www.wasl.ae/en/onebtower",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "kit",
+          "label": "Wasl One B Tower public document kit",
+          "url": "https://www.wasl.ae/en/broker-kit/onebtower",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brochure",
+          "label": "One B official brochure · 52 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "plans",
+          "label": "One B official separate floor-plan pack · 29 pages",
+          "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "unit",
+          "label": "Wasl public unit 2406 · dated price/payment example",
+          "url": "https://www.wasl.ae/en/unit/freehold/IM00100298464",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "listing",
+          "label": "Wasl public buying search · unit 2406 reference",
+          "url": "https://www.wasl.ae/en/search/buying",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 50
+        },
+        {
+          "id": "launch",
+          "label": "Wasl release announcement · 31 May 2024",
+          "url": "https://www.wasl.ae/en/mediacentre/press-releases/successful-launch-one-b-tower-luxury-development-along-sheikh-zayed-road",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "portal",
+          "label": "Property Finder One B commercial context and forecast",
+          "url": "https://www.propertyfinder.ae/en/new-projects/wasl-properties/one-b-tower",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "unit"
+        ],
+        "location": [
+          "unit"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "community": [
+          "unit"
+        ],
+        "locationNote": [
+          "unit"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "listing"
+        ],
+        "priceLabel": [
+          "listing"
+        ],
+        "priceNote": [
+          "listing"
+        ],
+        "paymentPlan": [
+          "unit",
+          "portal"
+        ],
+        "paymentNote": [
+          "unit",
+          "portal"
+        ],
+        "paymentStages": [
+          "unit"
+        ],
+        "handover": [
+          "portal"
+        ],
+        "handoverNote": [
+          "portal",
+          "unit"
+        ],
+        "overview": [
+          "launch"
+        ],
+        "units": [
+          "plans",
+          "brochure"
+        ],
+        "facts": [
+          "developer",
+          "launch"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "unresolved": [
+          "brochure",
+          "plans",
+          "developer",
+          "unit",
+          "portal"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Ownmain/publickit52pbrochure/29pplans and31May2024ownrelease identifyOneBTowerWasl. No OneZaabeel/WaslTower transfer. Main47storeys vsrelease48 disclosed, floorconventionnotinvented.",
+        "location": "MainSZRbesideWaterCanal/BusinessBay, ownselectedunitfooterBUSINESSBAY. Exactexistingdubai-business-bay used,nocoordinates ortransittimes.",
+        "residences": "Actualbrochure26–37all12numericpanels/fullgeometryread. Separateplans2–17all16unitpanelsread, repeatsE/C/2duplexnotseparatefamilies. Fullfloorplates18–29all12actualread add2BRD/E/F,3BRC,4BRA1/A2and4duplexB. Source-specificm²notconverted. Main1–5/duplex/penthouse;5BR/penthouseindividualdrawingsmissingexplicit. Wholeduplexareasnotadded.",
+        "areas": "All12brochure+16unitplan+12floorplatesnumericactualread. BothCDNMay2024paths: revisionorderunproven. Brochure1BRA676.7–692vsplans674.9–683.5;1BRmax958.5vs1012.3,2BR1685.7–1796.4vs1391–1777,3BR2342.3–2404.5vs2413.3–2450.9. Plan1BRE2interior753.5+balcony805.1 cannot equal933.2printedtotal; sourceerrornotcorrected. Floorplate22E157.24+23.76=181vs169.53,D2153.24+29.70=182.94vs174.38,F161+39.65=200.65vs199.55. Rowsretainprintedtotals. No inferredconversion.",
+        "amenities": "Ownmainspa/vitality/podiumpool/fitness/yoga/kids/workspaces; actualbrochure14/15/16/18amenityread forcinema/familylounge. Privateplungepoolsselected4BRnotforall. Nohealthoutcomeguarantee.",
+        "pricing": "Actualownsearchunit2406AED3963000/1336.23ft²/2roomflat. Newselectedownunitpage200sameidentity. Headlineunitreference notstartingprice/stockguarantee. PF2.6mlaunch/soldout differsownlistedunit. Own2024initialphaseselloutnotstocktoday. Oldbroker1.6munconfirmednotadopted. Search+selectedunitshare200budget50+150.",
+        "payment": "ActualpublicIM00100298464:15percent594450+five5percent198150+60percent2377800=100percent/3963000. Cachedwebfirst26Oct2026vsfreshGET31Oct2026dynamicfirstdate, notfixeddeadline. RestJan/Jun/Nov2027Mar/Jul2028lastDec302028. No salesoffer/formclicked. OldindexedIM00100287626nowredirectssearch soindexed10percentSep2026excludedascurrent. PF5/35/60differentcalendar; headlineNULL.",
+        "handover": "PFDec312028forecastQ4;ownselectedfinalpaymentDec302028compatible notcertifiedhandover. Lastlabel7thinstalmentonly,noinventedofficialcompletion. PF2.11percentdated5May2025stale,notcurrentprogress. No completioncertificate.",
+        "documents": "Mainfile-download7449web403notbypassed. SeparateownpublickitHTML200directCDNbrochure52p/plans29p200ordinaryGET,primarynotbroker. Plantextempty, actualnumericalimagesread. SharedPDF200brochure50plans150includingallversions/variants/conflicts; mirrornewallowancesnotused. Publiccopybudgetawaitsindependentreview. Noimagechanges."
+      },
+      "community": "Business Bay",
+      "locationNote": "Sheikh Zayed Road, Business Bay, beside the Dubai Water Canal.",
+      "overview": [
+        "Wasl’s 31 May 2024 release reported that the first two phases sold out and a third phase was released. That announcement does not establish current stock."
+      ],
+      "priceLabel": "Public developer unit reference · not entry pricing",
+      "priceNote": "Wasl lists two-bedroom unit 2406 at AED 3,963,000 and 1,336.23 ft². Snapshot checked 31 October 2026; confirm its availability and final quotation.",
+      "paymentNote": "Unit 2406 example only, captured 31 October 2026. Its first date changes with retrieval. Portal 5/35/60 launch terms differ; confirm the selected contract.",
+      "handoverNote": "Property Finder forecasts December 2028. The developer unit’s final instalment falls on 30 December 2028; no certified delivery date was retrieved.",
+      "units": [
+        {
+          "label": "Plan pack: 1BR A–E",
+          "area": "674.9–1,012.3 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan pack: 2BR A–C",
+          "area": "1,391–1,777 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan pack: 2BR duplex",
+          "area": "1,650.8–2,377.7 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan pack: 3BR A/B",
+          "area": "2,413.3–2,450.9 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan pack: 3BR duplex",
+          "area": "2,855.2 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Plan pack: 4BR duplex",
+          "area": "4,769.5 ft²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Brochure: 1BR",
+          "area": "676.7–958.5 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 2BR",
+          "area": "1,685.7–1,796.4 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 3BR",
+          "area": "2,342.3–2,404.5 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 2BR duplex",
+          "area": "2,192.6 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 3BR duplex",
+          "area": "2,802.3 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 4BR",
+          "area": "3,970.4 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Brochure: 4BR duplex",
+          "area": "4,750.1–4,759.4 ft²",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Floor plate: 2BR D/E/F",
+          "area": "169.53–199.55 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Floor plate: 3BR C",
+          "area": "198.1–198.9 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Floor plate: 4BR A1/A2",
+          "area": "369.2–377.9 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Floor plate: 4BR duplex B",
+          "area": "381.41 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Unit 2406 · first instalment",
+          "percent": 15,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Jan 2027",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Jun 2027",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Nov 2027",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Mar 2028",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Jul 2028",
+          "percent": 5,
+          "sourceIds": [
+            "unit"
+          ]
+        },
+        {
+          "stage": "30 Dec 2028",
+          "percent": 60,
+          "sourceIds": [
+            "unit"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published storeys",
+          "value": "47 on project page; 48 in the 2024 release.",
+          "sourceIds": [
+            "developer",
+            "launch"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Brochure, unit layouts and floor plates differ; rows remain source-specific. Confirm the approved drawing.",
+        "Printed arithmetic includes E2 balcony 805.1 ft², incompatible with total 933.2 ft²; floor-plate E components total 181 m² versus printed 169.53 m². Smaller discrepancies also remain.",
+        "Five-bedroom homes and a penthouse are advertised, but matching individual drawings were not retrieved. Whole duplex totals must not be doubled.",
+        "Current stock, latest certified progress, contractual areas, charges, parking allocations and project-wide revised payment terms remain unverified."
+      ]
+    }
+  }
+}

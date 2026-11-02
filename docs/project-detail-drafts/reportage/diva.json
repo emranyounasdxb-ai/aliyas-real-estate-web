@@ -1,0 +1,255 @@
+{
+  "id": "reportage-project-23",
+  "name": "Diva",
+  "developerSlug": "reportage",
+  "fields": {
+    "description": "Two apartment towers in the southern Yas Bay neighbourhood. Diva offers compact studios, junior one-bedroom layouts and larger apartments, with two-bedroom duplexes adding a separate upper sleeping level.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": null,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Swimming pools",
+      "Gym",
+      "BBQ areas",
+      "Outdoor chess",
+      "Pet area"
+    ],
+    "brochureUrl": "https://reportagegroup.com/wp-content/uploads/10-DIVA-BROCHURE-WITH-FP.pdf",
+    "floorPlanUrl": "https://reportagegroup.com/wp-content/uploads/DIVA-FLOOR-PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-11-02",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Reportage · Diva at Yas Bay",
+          "url": "https://reportagegroup.com/projects/residential-apartments/diva/",
+          "kind": "developer",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 80
+        },
+        {
+          "id": "brochure",
+          "label": "Diva · developer-hosted We Bridge brochure and home plans",
+          "url": "https://reportagegroup.com/wp-content/uploads/10-DIVA-BROCHURE-WITH-FP.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 135
+        },
+        {
+          "id": "facts",
+          "label": "Diva · developer-hosted We Bridge fact sheet",
+          "url": "https://reportagegroup.com/wp-content/uploads/10-Diva-Fact-Sheet.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 65
+        },
+        {
+          "id": "plans",
+          "label": "Diva · tower floor plates",
+          "url": "https://reportagegroup.com/wp-content/uploads/DIVA-FLOOR-PLANS.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 0
+        },
+        {
+          "id": "portal",
+          "label": "Bayut · Diva historical commercial reference",
+          "url": "https://www.bayut.com/for-sale/property/abu-dhabi/yas-island/diva/",
+          "kind": "portal",
+          "checkedOn": "2026-11-02",
+          "derivedWords": 90
+        }
+      ],
+      "community": "Diva, Yas Bay",
+      "locationNote": "Yas Bay, south Yas Island, Abu Dhabi.",
+      "overview": [
+        "The original tower schedules total 736 homes: 391 in A and 345 in B."
+      ],
+      "priceLabel": "Current quotation required",
+      "priceNote": "Bayut records an approximately AED 481,000 launch reference. Current developer prices and availability were not verified.",
+      "paymentNote": "Bayut lists 25% down and 75% on handover. This is a portal reference, not a verified current developer offer.",
+      "handoverNote": "Bayut’s Q3 2025 forecast has elapsed. The developer page shows an undated 89.30% construction snapshot; neither establishes current completion.",
+      "units": [
+        {
+          "label": "Studio · A–E",
+          "area": "334.57–448.61 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Junior 1BR · A",
+          "area": "524.23 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "1BR · A–F",
+          "area": "583.64–1,135.92 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR · A–H",
+          "area": "765.72–1,467.27 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR duplex · A/B",
+          "area": "1,113.71–1,132.27 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR · A",
+          "area": "1,031.50 sq ft",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Area basis",
+          "value": "Totals include balconies or terraces; duplexes cover both levels.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower plots",
+          "value": "A: 4,282.65 m²; B: 4,166.49 m².",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Private pools",
+          "value": "Limited selected terraces; confirm the unit’s inclusions.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · down payment",
+          "percent": 25,
+          "sourceIds": [
+            "portal"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 75,
+          "sourceIds": [
+            "portal"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The two drawings labelled 3BR Type C show two bedrooms and a maid’s room; confirm the approved layout.",
+        "Published drawings contain arithmetic differences; confirm contractual areas.",
+        "Current completion, charges and furnishing specification remain unverified."
+      ],
+      "reviewCoverage": {
+        "identity": "Protected reportage-project-23 Diva ownerReportage retained. Current ownpage and directlycrosslinked originalWeBridgebrandedmaterials establishexactDivaATTHEBAY. WeBridgebrandingrecorded notmislabellednewReportagelogoorinventedsoleownership. NootherDiva1/2separaterecordsadded.",
+        "location": "Primaryexactpage southYasIsland/YasBay. abu-dhabi-yas-islandexisting supported; common19parks2schools3mosquesYasBayboilerplate deliberatelyderive0. No views/travelminutesguarantee.",
+        "residences": "Actual66p brochurefullcontactreview with25numerical wholehome sheets40–64 individuallyviewed1800px. Studios A–E,Junior1A,1BR A–F,2BR A–H,2duplex A/B withbothlevels,3BR A andtwoCdrawings. TypeC63/64claims3BR buteachimagecontains2namedbedrooms+maid; tableusesonly3BRA andpublicconflict. No countingmaid as3rd bedroom orduplex twice. Factsimageactual2towerunitmixA172+78+89+14+12+26=391;B90+104+49+76+26=345,total736. Ownpageclaims2towersnotactualhandover.",
+        "areas": "Actualall25published totalssqft: studioA369.28,B334.57,C351.19,D448.61,E361.72;J1A524.23;1A646.67,B583.64,C612.24,D1135.92,E591.68,F697.15;2A1108.82,B894.11,C765.72,D936.07,E967.48,F961.01,G1351.74,H1467.27;2D A1132.27,B1113.71;3A1031.50;3C1785.53 repeatedtwo layouts butnotvalidated3BR. DuplexA1072.29+59.98=1132.27,B1063.69+50.02=1113.71 wholehome. StudioB271.64+62.93=334.57;S C282.70+68.49=351.19. 3C823.40+962.13=1785.53 numericscorrectbutlabelroomconflict. 1F571.28+125.87=697.15. FirststudioA302.65+66.63=369.28vsBayuttypeletterdifferencesnotmixed. Towerplots4282.65/4166.49notunitareas.",
+        "amenities": "Ownamenitiespools/gym/chess/BBQ/petarea. OriginalfactspageA/Bdifferentpet/bocceamenityscope; no poolforeveryhomeclaim. SelectedterracesD/G/HJacuzzishownoriginal; furnitureandshownaccessoriesnotguaranteed. Operationalstatusunverified.",
+        "pricing": "Ownno currentprice; Bayut481Klaunchonly, currentprimaryheadlineNULL, no opportunisticresaleadselectedasdeveloperprice. Servicechargesandstockunverified.",
+        "payment": "ActualBayutAboutProjecttable25down75handover=100, explicitportalreference. No primarypaymentcalendaravailable, headlineNULL. Noexistingbuyerremainingbalancederivedfromhistoriclaunchplan.",
+        "handover": "Own89.30%undatedconstruction—notcertifiedcurrentasof2Nov. BayutQ32025 elapsedforecast; developerownpagelacksdate. PrimaryUKcrosslinknotprovenandindexselfcontradictsCompleted/Q42026, omitted. HeadlineNULL/publicuncertainty, no falseReady.",
+        "documents": "All3 crosslinkedprimaryHTTP URLs ordinaryredirectReportagegroupactual200:66p17.18MBbrochurewithWeBridgebrand,26p7.78MBbuildingfloorplates,2p961KBfactsimageonly. Facts1/2actuallyrenderedandread,nofalseemptyPDF. Originalfamilytotal200=135broch65factsincludingallpublicrowlabels/warnings. Buildingfloorplatesonlycontextnotinventedunitdimensions. GenericYasBaycopy0. Originalnumericpanels40–64allviewed; imagesdeferred/noforms."
+      },
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "portal"
+        ],
+        "handover": [
+          "developer",
+          "portal"
+        ],
+        "paymentPlan": [
+          "portal"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "facts"
+        ],
+        "priceLabel": [
+          "portal"
+        ],
+        "priceNote": [
+          "portal"
+        ],
+        "paymentNote": [
+          "portal"
+        ],
+        "handoverNote": [
+          "developer",
+          "portal"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "facts": [
+          "brochure",
+          "facts"
+        ],
+        "paymentStages": [
+          "portal"
+        ],
+        "unresolved": [
+          "brochure",
+          "facts",
+          "developer"
+        ]
+      }
+    }
+  }
+}

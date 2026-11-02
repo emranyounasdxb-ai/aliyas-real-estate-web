@@ -1,0 +1,297 @@
+{
+  "id": "nshama-project-01",
+  "name": "Evelyn",
+  "developerSlug": "nshama",
+  "fields": {
+    "description": "Evelyn on the Park offers one- to three-bedroom residences and duplexes within the West Park setting of Nshama’s Town Square community.",
+    "areaId": "dubai-town-square",
+    "location": "Town Square",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 1069888,
+    "handover": null,
+    "paymentPlan": "45/55 · original published calendar",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Children’s play areas",
+      "Barbecue area",
+      "Pet wash",
+      "Access to West Park"
+    ],
+    "brochureUrl": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Brochure-Final.pdf",
+    "floorPlanUrl": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Floor-Plans-Website.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Nshama Evelyn project page",
+          "url": "https://nshama.ae/properties/evelyn/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "Evelyn official brochure · 24 pages",
+          "url": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Brochure-Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "plans",
+          "label": "Evelyn official layouts · six families",
+          "url": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Floor-Plans-Website.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "payment",
+          "label": "Evelyn original payment calendar",
+          "url": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Payment-Plan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Evelyn · dated portal reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/nshama/evelyn-on-the-park",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "price": [
+          "finder"
+        ],
+        "priceNote": [
+          "finder"
+        ],
+        "priceLabel": [
+          "finder"
+        ],
+        "paymentPlan": [
+          "payment"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "handover": [
+          "payment",
+          "finder"
+        ],
+        "handoverNote": [
+          "payment",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "facts": [
+          "payment",
+          "finder"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Exact protected Evelyn record; own branding Evelyn on the Park. Original off-plan documents verified; portal Sold Out not a confirmation of current resale stock.",
+        "location": "Own project West Park within Town Square; exact new Town Square registry, Dubai. No invented coordinates, timed routes or guaranteed views.",
+        "residences": "Own 1–3-bedroom residences plus duplexes. Six downloaded plans cover 1BR A/B, 2BR A1/A2/B, 3BR A only; no fabricated duplex dimensions. PF studio narrative excluded.",
+        "areas": "All six actual numeric plan panels visually inspected. Each suite/balcony/total in metric and imperial checked. A1 844.97+70.40=915.37 versus printed915.36; A2 minimum840.45+126.80=967.25 versus printed967.24; B minimum832.48+65.44=897.92 versus897.93 and max835.06+65.44=900.50 versus900.51. Printed totals retained, not repaired. PF unit-specific larger areas not silently merged into sample-plan ranges.",
+        "amenities": "Actual brochurePDF20 printed39 amenitypanel read: easy WestParkaccess, swimmingpool,gym,kidsplay,BBQ,petwash. Fullyfittedkitchen/whitegoods from actual branded paymentpanel, no wholehome furnished claim. Repeated generic community copy0.",
+        "pricing": "No original official price found. PF FAQ launch1069888 versus rounded headline1.1m and currentSoldOut. Historicallaunch only, no actual stock promise.",
+        "payment": "Original own raster1p payment calendar visually read: nine5% instalments Jan/Mar/Jul/Nov2026,Mar/Jul/Nov2027,Apr/Aug2028,55%Dec2028 indicativehandover. Sum100. Original elapsed calendar not newbuyer personalised schedule.",
+        "handover": "Actual own calendarDec2028 conflictsPF February2029/Q12029; nullheadline, explicit datedforecast attribution. No completion certificate.",
+        "documents": "Own project publicly linked24pbrochure,6playouts,1prasterpayment downloaded200 via ordinaryunauthenticatedNodefetch; Pythonurllib403 was not modified or challenged. Brochure read in full extractedtext, numeric originals and amenities/payment visually verified. Overlapping brandedPDFpool200=20+80+100. Noforms submitted."
+      },
+      "community": "Town Square · West Park",
+      "overview": [
+        "Evelyn on the Park sits beside West Park in Town Square. Its published collection includes apartments and duplexes; the available sample drawings cover six apartment layouts."
+      ],
+      "locationNote": "West Park, within Town Square, Dubai.",
+      "priceLabel": "Historical portal launch reference · confirm current terms",
+      "priceNote": "Property Finder’s FAQ quotes AED 1,069,888 at launch; its headline rounds to AED 1.1m while marking developer stock sold out. These figures do not establish an available home.",
+      "paymentNote": "Original calendar; elapsed instalments require an updated contract. Dates and the final handover month are indicative.",
+      "handoverNote": "The original developer calendar targets December 2028. Property Finder instead reports February 2029. Neither is evidence of actual completion.",
+      "units": [
+        {
+          "label": "1BR A",
+          "area": "612.57–615.80 ft² / 56.91–57.21 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR B",
+          "area": "609.67 ft² / 56.64 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A1",
+          "area": "915.36 ft² / 85.04 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A2",
+          "area": "967.24–969.51 ft² / 89.86–90.07 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR B",
+          "area": "897.93–900.51 ft² / 83.42–83.66 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A",
+          "area": "1,473.04 ft² / 136.85 m²",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "January 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2026",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "March 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "July 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "November 2027",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "April 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "August 2028",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Indicative handover · December 2028",
+          "percent": 55,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Kitchen specification",
+          "value": "Fully fitted kitchen with white goods; whole-home furnishing is not established.",
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "label": "Larger portal examples",
+          "value": "Property Finder also lists individual 765 ft² one-bedroom and 1,737–1,809 ft² three-bedroom homes. These are portal metadata, outside the six sample drawings.",
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The published sample plans omit the duplex layouts mentioned by the developer. Obtain the selected unit’s complete drawings and current specification.",
+        "Some printed totals differ by 0.01 ft² from suite plus balcony; original totals are retained. Plans are approximate.",
+        "Current official availability, unit prices, service charges, allocated parking and a revised contract-specific calendar were not verified. Site photography remains illustrative."
+      ]
+    }
+  }
+}

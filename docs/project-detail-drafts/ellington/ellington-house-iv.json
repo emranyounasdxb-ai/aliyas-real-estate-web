@@ -1,0 +1,246 @@
+{
+  "id": "ellington-project-22",
+  "name": "Ellington House IV",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Ellington House IV brings studio apartments, larger family layouts and a four-bedroom duplex format to Dubai Hills Estate. Shared leisure spaces include a pool, clubhouse and fitness studio, with additional practical facilities for golfers and pet owners.",
+    "areaId": "dubai-hills-estate",
+    "location": "Dubai Hills Estate",
+    "emirate": "Dubai",
+    "type": "Apartment / Duplex / Penthouse",
+    "bedrooms": "Studio–4",
+    "price": 2000000,
+    "handover": null,
+    "paymentPlan": "70/30 · published reference",
+    "amenities": [
+      "Leisure pool",
+      "Children’s pool and play areas",
+      "Golf lockers and wash area",
+      "Dog wash area",
+      "Fitness studio",
+      "Clubhouse",
+      "Outdoor dining",
+      "EV charging"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20House%20IV/Ellington%20House%20IV_Brochure.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/ellington-house-iv/ELLINGTON_HOUSE_IV_FLOOR_PLAN.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Ellington House IV own project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/ellington-house-4-dubai-hills-estate",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "brochure",
+          "label": "Ellington House IV official brochure · 25 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Ellington%20House%20IV/Ellington%20House%20IV_Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        },
+        {
+          "id": "plans",
+          "label": "Ellington House IV branded plans · broker-hosted · 19 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/ellington-house-iv/ELLINGTON_HOUSE_IV_FLOOR_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        },
+        {
+          "id": "brief",
+          "label": "Ellington House IV branded project brief · portal-hosted · 30 pages",
+          "url": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-ca89d595.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder House IV · ready/date conflict",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/ellington-house-iv",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "construction",
+          "label": "Ellington House IV dated construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Ellington_House_IV&lang=en&projectn=Ellington%20House%20IV&url=https://ellingtonproperties.ae/?p=13538",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure",
+          "brief"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "brief",
+          "finder",
+          "construction"
+        ],
+        "paymentPlan": [
+          "brief"
+        ]
+      },
+      "community": "Dubai Hills Estate",
+      "overview": [
+        "Published parking: one space for studios through 2BR with maid’s room; two for 3–4BR. AED 16/ft² is anticipated service charge."
+      ],
+      "locationNote": "Dubai Hills Estate. The developer describes golf-course and skyline outlooks; views depend on the selected home.",
+      "priceLabel": "Portal advertised lowest price · verify availability",
+      "priceNote": "Property Finder advertises AED 2 million as its current lowest price while marking the developer project sold out. This is not a developer offer or confirmation of Aliyas inventory.",
+      "handoverNote": "The brief anticipated Q4 2025; Property Finder says Ready and October 2024. The developer’s gallery continues through October 2026. No completion certificate or actual handover was established.",
+      "paymentNote": "Historical stages total 100%; confirm terms for the actual transaction.",
+      "units": [
+        {
+          "label": "Studio A / B",
+          "area": "431.53 / 524.09 ft² total.",
+          "sourceIds": [
+            "brochure",
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR A / B",
+          "area": "817.09 / 913.64 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2BR A / B / C / D / E",
+          "area": "1,366.26 / 1,337.42 / 1,370.03 / 1,359.48 / 1,385.10 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3BR A / B / penthouse",
+          "area": "1,867.32 / 2,041.16 / 5,827.26 ft² total.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4BR duplex",
+          "area": "2,427.26 ft² total across both levels.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 20% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 70% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "brief"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The official brochure repeats Studio A’s 431.53 ft² under Studio B; the separate B plan prints 524.09 ft². Verify the selected schedule. Other component totals show minor rounding differences.",
+        "Current availability, actual completion, approved charges, furnishing inventory, parking/title terms and operating facilities require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact phase IV retained. Unrelated La Mer7BR hero widget excluded. Brief visible cover is House IV despite stale hidden Upper House text. Parking and anticipated charge sourced; selected title/contract unconfirmed.",
+        "location": "Own body Dubai Hills Estate; no assumed view for all homes.",
+        "residences": "All13 example numerical panels visually inspected in official brochure18–24, plus separate studioA/B plans6–7. Studio B rendering discrepancy disclosed.",
+        "amenities": "Own body used; facility operation not assumed.",
+        "payment": "Brief30 visually inspected;20+10+10+6x5+30=100.",
+        "handover": "BriefQ42025 versus portalReady/October2024 versus current construction gallery; headline null.",
+        "documents": "Own25p brochure, branded19p plans broker-hosted, portal-hosted30p brief; all overlapping public derivation pooled200.",
+        "areas": "All13 example numerical panels visually inspected in official brochure18–24, plus separate studioA/B plans6–7. Studio B rendering discrepancy disclosed.",
+        "pricing": "Portal lowest advertised2m; developer sold-out tag does not establish resale availability."
+      }
+    }
+  }
+}

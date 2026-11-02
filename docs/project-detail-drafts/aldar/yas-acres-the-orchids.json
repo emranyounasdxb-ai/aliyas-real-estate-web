@@ -1,0 +1,241 @@
+{
+  "id": "aldar-project-37",
+  "name": "Yas Acres - The Orchids",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Orchids is Aldar’s gated townhouse and villa release within Yas Acres on Yas Island. Its family homes combine private gardens with access to community facilities, while the initial townhouse launch and later villa release need to be considered separately.",
+    "areaId": "abu-dhabi-yas-island",
+    "location": "Yas Island",
+    "emirate": "Abu Dhabi",
+    "type": "Townhouse",
+    "bedrooms": "2–5",
+    "price": 3350000,
+    "handover": "Q3 2030 · published estimate",
+    "paymentPlan": "55/45 · launch plan",
+    "amenities": [
+      "Community clubhouse",
+      "Gym",
+      "Multipurpose hall",
+      "Community park",
+      "Adults’ and children’s pools",
+      "Sports courts",
+      "Children’s play spaces",
+      "Splash pad",
+      "Cycle tracks",
+      "Community retail",
+      "Mosque"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/ae49b0a512c34fa78433819cef06c9e8.pdf",
+    "floorPlanUrl": "https://reelly-backend.s3.amazonaws.com/project_files/7ac5c885528347528745ad0e346c8f55.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Yas Acres - The Orchids",
+          "url": "https://www.aldar.com/properties/en/uae/yas-island/yas-acres-the-orchids",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "launch",
+          "label": "Aldar: The Orchids announcement, 19 June 2026",
+          "url": "https://www.aldar.com/en/news-and-media/aldar-introduces-the-orchids-a-limited-collection-of-family-homes-in-the-established-yas-acres-community",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "update",
+          "label": "Aldar: townhouse launch sales and future villas, 26 June 2026",
+          "url": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5056002",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "brochure",
+          "label": "The Orchids sales presentation, Reelly-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/ae49b0a512c34fa78433819cef06c9e8.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "The Orchids townhouse floor plans, Reelly-hosted copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/7ac5c885528347528745ad0e346c8f55.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "terms",
+          "label": "Aramas: The Orchids payment milestones",
+          "url": "https://abudhabi.aramasinvestments.ae/islands/yas-island/the-orchids-at-yas-acres",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "launch"
+        ],
+        "overview": [
+          "launch",
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "launch"
+        ],
+        "bedrooms": [
+          "launch"
+        ],
+        "amenities": [
+          "official",
+          "launch"
+        ],
+        "price": [
+          "brochure"
+        ],
+        "units": [
+          "brochure",
+          "plans",
+          "launch"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "paymentPlan": [
+          "brochure",
+          "terms"
+        ],
+        "handover": [
+          "brochure",
+          "terms"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "June 2026 release verified independently from earlier Yas Acres phases; project total 217, later villa release separated.",
+        "location": "Yas Acres on Yas Island confirmed by own developer page.",
+        "residences": "Official release includes two/three-bedroom townhouses and three/four/five-bedroom villas; brochure details only four/five-bedroom villas.",
+        "areas": "Average GSA schedule visually checked; two- and three-bedroom end townhouse drawings inspected, not mistaken for plot areas.",
+        "amenities": "Official clubhouse, pools and wider community facilities checked; school admission or club membership not promised.",
+        "pricing": "Original townhouse price table visually checked; no verified current villa prices imported.",
+        "payment": "55/45 with 5% booking corroborated as 5/50/45, avoiding double-counting booking.",
+        "handover": "Q3 2030 in presentation corroborated by broker; current contractual milestones not independently established.",
+        "documents": "24-page sales presentation and three-page townhouse plans downloaded; area, price and payment tables reviewed visually."
+      },
+      "community": "Yas Acres · The Orchids",
+      "overview": [
+        "Aldar’s announcement describes a 500 sq m community club with gym and multipurpose space, supported by a park, pools and sports facilities. The established Yas Acres setting also places schools and retail within the wider neighbourhood.",
+        "The reviewed townhouse drawings arrange living areas on the ground floor and bedrooms upstairs, with private gardens and two illustrated parking spaces. The three-bedroom end layout includes a ground-floor multipurpose room. Final plot boundaries and fit-out must be checked for the selected home."
+      ],
+      "locationNote": "Within Yas Acres on Yas Island, Abu Dhabi. Wider island leisure destinations and Yas Acres Golf & Country Club are nearby; membership, school places and access terms are separate matters.",
+      "priceLabel": "Townhouse launch reference · June 2026",
+      "priceNote": "Launch townhouse prices: AED 3.35m for two-bedroom middle, AED 3.67m for three-bedroom middle and AED 3.95m for three-bedroom end homes. Aldar reported the townhouse launch sold out on 26 June 2026; current resale terms require confirmation.",
+      "paymentNote": "The 5% booking payment forms part of the 55% pre-handover amount. A further 50% is paid during construction and 45% at handover; dated instalments require a current offer.",
+      "handoverNote": "The presentation and broker estimate Q3 2030. Confirm contractual completion and possession terms.",
+      "units": [
+        {
+          "label": "2-bedroom townhouse · middle",
+          "area": "126 sq m average GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · middle",
+          "area": "160 sq m average GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom townhouse · end",
+          "area": "162 sq m average GSA",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom villa · presentation",
+          "area": "365 sq m average GSA; release details to confirm",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom villa · presentation",
+          "area": "466 sq m average GSA; release details to confirm",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3-bedroom villa · official announcement",
+          "area": "Layout and registered area not verified",
+          "sourceIds": [
+            "launch"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 5,
+          "sourceIds": [
+            "brochure",
+            "terms"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 50,
+          "sourceIds": [
+            "terms"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 45,
+          "sourceIds": [
+            "brochure",
+            "terms"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Release scope",
+          "value": "The launch announcement describes 217 homes. Aldar’s 26 June update says townhouses sold out and a separate collection of 20 villas would follow. The earlier presentation schedules 23 villas, so the villa release mix needs reconfirmation.",
+          "sourceIds": [
+            "launch",
+            "update",
+            "brochure"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "GSA averages are neither plot sizes nor measured usable indoor space.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current primary or resale availability, villa prices and the final villa release schedule remain unconfirmed.",
+        "Approved villa drawings, individual plot sizes, service charges and finishing specifications require confirmation.",
+        "The official announcement includes three-bedroom villas but the reviewed presentation does not provide their sizes; no substitute townhouse figure has been used."
+      ]
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "sobha-project-37",
+  "name": "Skyvue Stellar",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Skyvue Stellar is a residential tower in Sobha Hartland 2 with angular floor plates and homes arranged for different lagoon, community and city outlooks. Its original brochure includes one-, two- and three-bedroom layouts plus store- or study-equipped variants. The particular floor band and orientation determine which plan and view apply.",
+    "areaId": "dubai-sobha-hartland-ii",
+    "location": "Sobha Hartland II",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–4",
+    "price": 2380000,
+    "handover": null,
+    "paymentPlan": "20/40/40 · one reported option",
+    "amenities": [
+      "Infinity pool",
+      "Children’s pool",
+      "Jacuzzi",
+      "Indoor and outdoor gym",
+      "Yoga and meditation spaces",
+      "Open cinema area",
+      "Picnic lawn",
+      "Barbecue area",
+      "Party terrace",
+      "Library and reading room",
+      "Children’s recreation rooms"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Realty: Skyvue Stellar own page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-hartland-2/skyvue/stellar",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Official Skyvue Stellar brochure and unit plans",
+          "url": "https://sobharealty.com/sites/default/files/2025-03/Skyvue%20Stellar.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Skyvue Stellar",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/skyvue-stellar",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "later",
+          "label": "Impala: later Stellar completion reference",
+          "url": "https://www.impalarealestate.com/projects/skyvue-stellar/",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 30
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "later"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated Stellar brochure and official page, not Skyvue Solair or Spectra.",
+        "location": "Own page places it in Sobha Hartland 2; dedicated catalogue mapping pending.",
+        "residences": "Original 1/1.5/2/3/3.5 plan labels contrasted with current FAQ including 4 bedrooms.",
+        "areas": "Whole-home saleable totals and varying suite/balcony bands read from own plan panels 29/49/55.",
+        "amenities": "Brochure recreation programme reviewed with its approval/change disclaimer.",
+        "pricing": "Developer AED 2.38m advertised guide contrasted with portal AED 1.9m launch history.",
+        "payment": "Two portal options treated separately, displayed 20/40/40 total 100; no primary calendar retrieved.",
+        "handover": "Portal June 2028 versus laterbroker March 2029 unresolved; no headline date assigned.",
+        "documents": "57-page official brochure downloaded; numerical plan panels and typology labels visually reviewed."
+      },
+      "community": "Skyvue Stellar · Sobha Hartland 2",
+      "overview": [
+        "The launch layouts pair internal suites with balconies and vary across floor bands. A room described as a half-bedroom may be labelled a store or study in the drawing. Confirm the approved use and the actual unit rather than treating every marketing label as an additional full bedroom."
+      ],
+      "locationNote": "The developer identifies Sobha Hartland 2 within Mohammed Bin Rashid City. Views in the brochure are assigned to particular floor groups, not guaranteed across the whole tower. No dedicated existing area mapping is assumed.",
+      "priceLabel": "Developer-advertised starting guide · subject to stock",
+      "priceNote": "The official page advertises AED 2.38m subject to inventory. Property Finder retains an AED 1.9m launch reference and marks its developer catalogue sold out. These are different dated selections; neither confirms a particular available home.",
+      "paymentNote": "Property Finder lists 10% booking/60% construction/30% handover and a separate 20%/40%/40% option. The stages shown below reproduce the second option only. No current primary instalment calendar or signed commercial offer was retrieved.",
+      "handoverNote": "Property Finder reports June 2028, while later Impala material reports March 2029. The retrieved official brochure and project page do not resolve the date for a specific unit; contractual confirmation is required.",
+      "units": [
+        {
+          "label": "1-bedroom Type A",
+          "area": "625.59–632.27 sq ft total saleable; suite 518.17–524.85 plus 107.42 sq ft balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "2-bedroom Type C",
+          "area": "1,239.03–1,242.59 sq ft total saleable; varying suite and balcony areas",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "3.5-bedroom Type A · three bedrooms plus study",
+          "area": "1,598.01–1,600.06 sq ft total saleable; 177.50 sq ft balcony included",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported option 2",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates unverified",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current versus original typologies",
+          "value": "The original brochure markets up to 3.5 bedrooms; the current official FAQ also mentions four bedrooms. A verified four-bedroom plan was not retrieved, so no area or price is assigned to that type.",
+          "sourceIds": [
+            "developer",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the selected release, registered layout, availability and actual contractual delivery date.",
+        "No current signed payment document, service-charge schedule or parking allocation was retrieved.",
+        "Original amenity descriptions remain proposed and subject to approvals and revisions. Furnishings and views need unit-level confirmation. Images remain illustrative."
+      ]
+    }
+  }
+}

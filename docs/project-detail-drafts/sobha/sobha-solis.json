@@ -1,0 +1,170 @@
+{
+  "id": "sobha-project-19",
+  "name": "Sobha Solis",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "Sobha Solis comprises four residential towers above a shared residents’ podium in Motor City. One- to three-bedroom apartments, including a marketed 1.5-bedroom category, sit alongside facilities focused on fitness, social activities and the nearby motorsport setting.",
+    "areaId": "dubai-motor-city",
+    "location": "Motor City",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–3",
+    "price": 2000000,
+    "handover": null,
+    "paymentPlan": "60/40 · portal-reported plan",
+    "amenities": [
+      "Lap pool",
+      "Racetrack viewing deck",
+      "Outdoor cinema",
+      "Children’s pool and play area",
+      "Co-working spaces",
+      "Library",
+      "Dog park",
+      "Jogging paths",
+      "Fitness centre",
+      "Steam and sauna"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2024-09/Sobha%20Solis%20Brochure_Final.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2024-09/Sobha%20Solis%20Brochure_Final.pdf",
+    "research": {
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Solis official project page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-solis",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "brochure",
+          "label": "Sobha Solis official brochure and Tower A plans",
+          "url": "https://sobharealty.com/sites/default/files/2024-09/Sobha%20Solis%20Brochure_Final.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Sobha Solis current estimate and payment reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-solis",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 65
+        },
+        {
+          "id": "fy24",
+          "label": "Sobha FY2024 investor update · historical Solis delivery year",
+          "url": "https://candidocs.nasdaqdubai.com/2025/Feb/12/8447b7fd-be42-4814-9f05-ee858bd670c5/Investor%20Update%20FY%202024.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "brochure"
+        ],
+        "type": [
+          "brochure"
+        ],
+        "bedrooms": [
+          "brochure"
+        ],
+        "price": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "fy24",
+          "finder"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Sobha Solis Motor City, not neighbouring Sobha Orbis.",
+        "location": "Own Motor City location near Al Qudra Road/Hessa Street.",
+        "residences": "Four-tower masterplan; own downloaded 99-page document’s detailed plans identify Tower A. Additional towers not assumed identical.",
+        "areas": "Actual type panels 66,92,97 visually checked. Fractional-bedroom label not treated as two full bedrooms.",
+        "amenities": "Own brochure Arsenal branding condition on page 25 visually checked; facility naming not guaranteed permanently.",
+        "pricing": "Current officialAED 2.00 m; portalAED 1 m is historical launch guide.",
+        "payment": "Portal 60/40 aggregate; no current dated primary payment calendar retrieved.",
+        "handover": "Historical investorFY2024 p 5 says 2027, current portalDecember 2028. No own brochure date found; headline withheld.",
+        "documents": "Official 99-page brochure and Tower A plans reviewed; no current primary dated payment/handover notice retrieved."
+      },
+      "community": "Sobha Solis · Motor City",
+      "overview": [
+        "The brochure describes an Arsenal-branded fitness space only for a defined period, conditional on continuation of the partnership. Purchasers should assess the facility itself and confirm the branding term. Detailed reviewed layouts belong to Tower A."
+      ],
+      "locationNote": "Motor City, Dubai, near Al Qudra Road and Hessa Street. Motorsport-facing homes may experience a different outlook and sound environment; inspect the actual tower orientation.",
+      "priceLabel": "Developer advertised starting price · reconfirm",
+      "priceNote": "Sobha currently advertises AED 2.00 m subject to inventory. Property Finder retains an AED 1 m launch guide and a sold-out flag, neither of which confirms current developer stock or the price of a selected apartment.",
+      "paymentNote": "Property Finder reports 60% during construction and 40% at handover. Booking allocations and instalment dates were not established from a dated primary schedule; obtain the selected offer before calculating cash flow.",
+      "handoverNote": "FY2024 reports 2027. Property Finder currently estimates December 2028. Confirm the selected tower’s contractual date.",
+      "units": [
+        {
+          "label": "Tower A · 1-bedroom Type B",
+          "area": "535.83 sq ft total: 481.47 suite + 54.36 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A · 2-bedroom Type A",
+          "area": "1,124.40 sq ft total: 899.65 suite + 224.75 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Tower A · 3-bedroom Type A with maid room",
+          "area": "1,888.85 sq ft total: 1,599.62 suite + 289.23 balcony",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Construction period · booking allocation unconfirmed",
+          "percent": 60,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "No current signed developer instalment calendar, final delivery date, service-charge rate, parking assignment or inventory confirmed.",
+        "The historical investor snapshot and current portal estimate differ; tower-specific completion terms require confirmation.",
+        "Other tower plans may differ from the reviewed Tower A examples. Amenities and temporary branding are subject to final terms. Images remain illustrative."
+      ],
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31"
+    }
+  }
+}

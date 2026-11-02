@@ -1,0 +1,185 @@
+{
+  "id": "sobha-project-41",
+  "name": "The Brooks",
+  "developerSlug": "sobha",
+  "fields": {
+    "description": "The Brooks is a residential cluster within Sobha Sanctuary focused on movement, family activity and access to the community’s central green spine. Its Garden Villas have four bedrooms, while the Courtyard Villas provide five-bedroom layouts over three levels. These are separate plotted-home configurations, not interchangeable apartment types.",
+    "areaId": "dubai-sobha-sanctuary",
+    "location": "Sobha Sanctuary",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4–5",
+    "price": 7350000,
+    "handover": "2029 · April 2026 developer target",
+    "paymentPlan": "20/40/40 · portal-reported plan",
+    "amenities": [
+      "Community hubs",
+      "Shared courtyards",
+      "Event lawns",
+      "Children’s play areas",
+      "Outdoor fitness spaces",
+      "Cycling networks",
+      "Wellness facilities",
+      "Beach-lagoon facilities"
+    ],
+    "brochureUrl": "https://sobharealty.com/sites/default/files/2026-01/THE%20BROOKS%20AT%20SOBHA_SANCTUARY.pdf",
+    "floorPlanUrl": "https://sobharealty.com/sites/default/files/2026-01/THE%20BROOKS%20AT%20SOBHA_SANCTUARY.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Sobha Realty: The Brooks own cluster page",
+          "url": "https://sobharealty.com/properties-in-dubai/sobha-sanctuary/the-brooks",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Official The Brooks brochure and layouts",
+          "url": "https://sobharealty.com/sites/default/files/2026-01/THE%20BROOKS%20AT%20SOBHA_SANCTUARY.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: The Brooks at Sobha Sanctuary",
+          "url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-brooks-at-sobha-sanctuary",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "investor",
+          "label": "Sobha 4M FY2026 investor update, April 2026 snapshot",
+          "url": "https://sobharealty.com/sites/default/files/2026-05/Investor%20Update%204M%20FY26.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure"
+        ],
+        "overview": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "brochure"
+        ],
+        "price": [
+          "developer",
+          "finder"
+        ],
+        "handover": [
+          "investor",
+          "finder"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "units": [
+          "brochure"
+        ],
+        "documents": [
+          "brochure"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Dedicated Brooks brochure and website distinguish its central-spine setting from The Greens.",
+        "location": "Official Sobha Sanctuary address; dedicated catalogue mapping not inferred.",
+        "residences": "Garden four-bedroom and Courtyard five-bedroom plans reviewed independently in Brooks pack.",
+        "areas": "Numerical saleable/plot panels visually inspected on own pages 28/34/40.",
+        "amenities": "Own cluster programme and access to wider amenities distinguished from private home inclusions.",
+        "pricing": "Current official 7.35m advertised selection versus portal 4m historical headline disclosed.",
+        "payment": "Portal 20/40/40 totals 100; no current primary commercial calendar found.",
+        "handover": "Dated primary snapshot target retained at year precision; portal supplies provisional month.",
+        "documents": "Official 44-page Brooks PDF downloaded and plans visually checked; investor snapshot numerical row also visually checked."
+      },
+      "community": "The Brooks · Sobha Sanctuary",
+      "overview": [
+        "The developer describes The Brooks around daily activity, green corridors and shared gathering spaces. Individual layouts differ in service rooms, roof access and circulation. Compare plot area and saleable area separately when judging the space offered by a selected villa."
+      ],
+      "locationNote": "The own project page places The Brooks in Sobha Sanctuary, within the central green-spine setting. Nearby landmarks are not substituted for its address. No exact existing catalogue neighbourhood mapping is available.",
+      "priceLabel": "Developer-advertised selection guide · subject to stock",
+      "priceNote": "The official enquiry section advertises AED 7.35m subject to inventory availability. Property Finder retains an AED 4m launch reference. These differ in timing and home selection; no currently allocatable unit or category-wide minimum is confirmed.",
+      "paymentNote": "Property Finder reports 20% booking, 40% construction and 40% handover. The displayed stages use that reported launch split. A current signed calendar, fee schedule and any subsequent payment variant must be obtained for the chosen home.",
+      "handoverNote": "The April 2026 developer investor snapshot lists 2029. Property Finder specifies September 2029; the month remains secondary and contractual timing unverified.",
+      "units": [
+        {
+          "label": "4-bedroom Garden Villa Type B",
+          "area": "228.45 sq m/2,459.02 sq ft saleable; plot 174.17–186.00 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "4-bedroom Garden Villa Type D",
+          "area": "309.25 sq m/3,328.74 sq ft saleable; plot 260.00–272.92 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "5-bedroom Courtyard Villa Type A",
+          "area": "381.53 sq m/4,106.75 sq ft saleable; plot 291.07–302.05 sq m",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking · reported plan",
+          "percent": 20,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction · dates to confirm",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "On handover",
+          "percent": 40,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Three-level villa example",
+          "value": "The five-bedroom Type A drawing includes a lift and an upper bedroom level. This is a layout-specific feature; the actual equipment and final specification need confirmation.",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Current unit allocation, selected category price and signed payment dates remain unverified.",
+        "Confirm parking allocation, service charges, landscaping, smart-home equipment and lift specification from the selected contract.",
+        "Broad community amenity proposals do not establish exclusive ownership or unlimited free access. Photos remain illustrative."
+      ]
+    }
+  }
+}

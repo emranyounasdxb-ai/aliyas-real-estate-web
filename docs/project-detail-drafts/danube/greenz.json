@@ -1,0 +1,261 @@
+{
+  "id": "danube-project-02",
+  "name": "Greenz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Greenz is Danube’s planned furnished townhouse and villa community near Academic City, Dubai, with three- to five-bedroom layouts and shared recreation facilities.",
+    "areaId": "dubai-academic-city",
+    "location": "Academic City",
+    "emirate": "Dubai",
+    "type": "Townhouse",
+    "bedrooms": "3–5",
+    "price": 3800000,
+    "handover": "Q4 2029",
+    "paymentPlan": null,
+    "amenities": [
+      "Planned beach lagoon and pools",
+      "Sports courts",
+      "Indoor gym and wellness spaces",
+      "Children’s waterpark and play areas",
+      "Jogging and garden spaces",
+      "Planned clubhouse",
+      "Cinema and podcast room",
+      "Business and conference spaces"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2026/04/Greenz-1.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/greenz/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Danube official Greenz project page · live hero and FAQ",
+          "url": "https://danubeproperties.com/portfolio/greenz-by-danube/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 195
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official Greenz brochure · 28 PDF pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2026/04/Greenz-1.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "plans",
+          "label": "Danube official Greenz revised floor plans · ZIP of18 plan images",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/greenz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "facts",
+          "label": "Danube official comparison factsheet · ZIP,24 PDF pages",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/greenz/factsheet",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "construction",
+          "label": "Danube Greenz construction update ·30 September2026",
+          "url": "https://danubeproperties.com/construction/greenz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Greenz guide · secondary launch terms",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/greenz-by-danube",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official",
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official",
+          "plans"
+        ],
+        "bedrooms": [
+          "plans"
+        ],
+        "overview": [
+          "facts",
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "finder"
+        ],
+        "paymentPlan": [
+          "official",
+          "brochure",
+          "finder"
+        ],
+        "handover": [
+          "official",
+          "brochure"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "official",
+          "facts",
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "OwnGreenzpage,28pbrochure,officialrevised18-imageplans and24pcomparisonfactsheet verified. 768townhouses/villas inownFAQ despitetemplatedheroAPARTMENTS label, not768apartments.",
+        "location": "OwnpageAcademicCity/nearAcademicCity, brochurelocationmap verified. PFAlRowaiyah1body not silently substituted for cadastral plotaddress. BlueLine futureproposal notoperatingmetro orguaranteed5minroute.",
+        "residences": "Revisedofficialplans visuallyreadall8families:3BRTH,4BRTH,4BRpremiumTH+singlerow,4BRpremiumsemidetachedvilla,5BRsemidetached+singlerow,5BRtwin. HeadlinefilterTownhouse, villasexplicitdescribed separately.",
+        "areas": "All18officialplanimagescontactviewed; numericp3/5/7/9/11/13/15/17 highreschecked.3BR2400 versusFAQapprox2350, others2750/3100/3100/3100/3700/3700/3950ft2. Labeledunitarea notplot/netinterior; no multiplyingwholehomebyfloorcount. Masterplotcolourrangesnotindividualentitlements.",
+        "amenities": "Ownbrochure28pallcontacts,actualp8facilitylist,p17transportspread; comparison24pallcontacts,p12/13/16/20fullinspected. Plannedprivateelevator expresslynotincluded3BR. No competitor-value/highappreciation ormedicaloutcome claims adopted.",
+        "pricing": "Ownlivehero3.8m versusownFAQ3.7m andPF3.5mlaunchguide. Keep3.8m currentadvertisedheaderwithconflictsnote; notliveallocationforanyspecificlayout. No currencyconversion orvaluationassumption.",
+        "payment": "Owncurrenthero30/60totals90 andnotcompletedbyassumption. OwnFAQ20%booking+40monthly1%+40completion=100;brochure1%monthly;PF70/30separate. DisplayFAQstagesclearlyqualified,headlineplanNULL untilselecteddatedofferverified. No missing10/fees invented.",
+        "handover": "OwnpageQ42029andbrochureDecember2029consistenttarget. Constructionown30Sep2026gradingandinfrastructurecontractor only,no percentage calculated. No ready/completedclaim.",
+        "documents": "OfficialpublicbrochurePDF/visibleplansZIP/factsheetZIPdownloadedHTTP200,actualpanelsreviewed. Notbrokerlookalikematerials. Brochure60+plans100+facts40pooled200 conservative;genericcollateralspage0justlocator. No forms/privateaccounts/externalmessages."
+      },
+      "community": "Academic City",
+      "overview": [
+        "The revised plans distinguish townhouse, semi-detached and twin-villa configurations. Check the named layout, plot and specification together before comparing homes."
+      ],
+      "locationNote": "Academic City, Dubai, as used by Danube’s project page. Marketing also says near Academic City; obtain the exact plot address and access plan. Future metro references are not operating services or guaranteed travel times.",
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The live Danube hero displays AED 3.8m; its FAQ still quotes AED 3.7m, while Property Finder retains an AED 3.5m launch guide. These are different published references. The headline follows the live developer hero, not a confirmed available allocation or a price for every illustrated home.",
+      "paymentNote": "Danube’s hero prints 30/60, totalling only 90%; no missing amount is inferred. Its FAQ instead describes 20% down, 1% monthly for 40 months and 40% on completion. The displayed 20/40/40 stages reflect that FAQ only. The brochure’s 1% headline and Property Finder’s separate 70/30 reference do not resolve a current unit-specific contract. Obtain the dated offer and fees.",
+      "handoverNote": "Danube targets Q4 2029, with December 2029 in the brochure. This is an estimated completion, not a guaranteed key date or confirmation that every community facility will open simultaneously.",
+      "units": [
+        {
+          "label": "3BR townhouse",
+          "area": "2,400 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR townhouse",
+          "area": "2,750 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR premium townhouse",
+          "area": "3,100 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR premium townhouse · single row",
+          "area": "3,100 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4BR premium semi-detached villa",
+          "area": "3,100 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR semi-detached villa",
+          "area": "3,700 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR semi-detached villa · single row",
+          "area": "3,700 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "5BR twin villa",
+          "area": "3,950 ft² unit area",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "FAQ reference · down payment",
+          "percent": 20,
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "stage": "FAQ reference · forty monthly payments of 1%",
+          "percent": 40,
+          "sourceIds": [
+            "official"
+          ]
+        },
+        {
+          "stage": "FAQ reference · completion",
+          "percent": 40,
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Furniture and lift scope",
+          "value": "Italian Dolce Vita furniture is advertised; private elevators exclude three-bedroom homes. Confirm the selected specification.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Dated developer construction report",
+          "value": "On 30 September 2026 Danube reported grading in progress and an infrastructure contractor appointed. No completion percentage is asserted.",
+          "sourceIds": [
+            "construction"
+          ]
+        },
+        {
+          "label": "Planned home count",
+          "value": "Danube’s FAQ describes 768 townhouses and villas; this is not an available or delivered inventory count.",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The revised three-bedroom plan prints 2,400 ft², while the website FAQ says approximately 2,350. Plan areas are not plot sizes, net interiors or floor-by-floor figures.",
+        "The price and payment references conflict internally. Current availability, reservation terms, exact dated instalments, final furnishing inventory, parking, ownership conditions and approved service charges remain unverified. Images stay illustrative.",
+        "Shuttle, buggy, club, pool and wellness services are planned features. Operating dates, licences, access rights and charges need separate confirmation; no health or appreciation outcome is promised."
+      ]
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "damac-project-16",
+  "name": "Evergreens",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "Evergreens is DAMAC’s one- and two-bedroom apartment collection in DAMAC Hills 2. The low-rise residential setting combines balconies, parkland outlooks and pool-side recreation, with further attractions in the surrounding master community.",
+    "areaId": "dubai-damac-hills-2",
+    "location": "DAMAC Hills 2",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "1–2",
+    "price": 550000,
+    "handover": "Q4 2026 · original estimate",
+    "paymentPlan": "70/30 · original launch plan",
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Balconies in published layouts",
+      "Wider DAMAC Hills 2 parks and recreation"
+    ],
+    "brochureUrl": "https://new-projects-media.propertyfinder.com/project/7dc86bf7-e010-4192-93e7-924140ace743/brochure/application/tz9oTzYu9gvrTcPHRNqqlKCSP4g9Qe9xs_p9XlF36vg=/original.pdf",
+    "floorPlanUrl": "https://new-projects-media.propertyfinder.com/project/7dc86bf7-e010-4192-93e7-924140ace743/brochure/application/tz9oTzYu9gvrTcPHRNqqlKCSP4g9Qe9xs_p9XlF36vg=/original.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "facts",
+          "label": "DAMAC Evergreens launch fact sheet, public broker-hosted copy",
+          "url": "https://skyzenithhomes.com/wp-content/uploads/2024/08/D2-EVERGREENS-Factsheet-V.01.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "DAMAC Evergreens brochure with floor plans, Property Finder-hosted copy",
+          "url": "https://new-projects-media.propertyfinder.com/project/7dc86bf7-e010-4192-93e7-924140ace743/brochure/application/tz9oTzYu9gvrTcPHRNqqlKCSP4g9Qe9xs_p9XlF36vg=/original.pdf",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Evergreens later commercial reference",
+          "url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/evergreens",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 80
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "brochure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "facts"
+        ],
+        "type": [
+          "facts"
+        ],
+        "bedrooms": [
+          "facts"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "facts"
+        ],
+        "units": [
+          "facts",
+          "brochure"
+        ],
+        "handover": [
+          "facts",
+          "finder"
+        ],
+        "paymentPlan": [
+          "facts",
+          "finder"
+        ],
+        "documents": [
+          "brochure",
+          "facts"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own Evergreens branded fact sheet and brochure retrieved; main DAMAC page returned 403.",
+        "location": "DAMAC Hills 2 entrance-side setting confirmed in factsheet.",
+        "residences": "G+7 one/two-bedroom collection verified; brochure labels Tower A/B rather than assuming a single plan covers every home.",
+        "areas": "Fact-sheet example unit areas visually read; brochure two-bedroom drawing inspected without inventing area sums.",
+        "amenities": "Own gym/swimming description distinguished from shared community attractions.",
+        "pricing": "Original 550 k headline separated from 554 k example and PF later 1.172 m selection.",
+        "payment": "Full factsheet 70/30 schedule reviewed and sums 100; PF20/50/30 happens to agree at aggregate level.",
+        "handover": "DEC 2026 factsheet corroborates PF Q4 2026; remains estimate.",
+        "documents": "Own 28 p brochure with floor plans and one-page tall factsheet retrieved and numerical crops visually reviewed."
+      },
+      "community": "Evergreens · DAMAC Hills 2",
+      "overview": [
+        "The brochure shows balconies opening towards parkland and a shared pool setting. A two-bedroom example has two bathrooms and two separate balconies. Wider DAMAC Hills 2 attractions belong to the master community; their access conditions and delivery should be checked separately from the apartment specification."
+      ],
+      "locationNote": "The branded fact sheet places Evergreens close to the main entrance of DAMAC Hills 2. Check the chosen tower and entrance route rather than inferring exact travel times from community-level marketing.",
+      "priceLabel": "Original launch starting price · reconfirm",
+      "priceNote": "The fact sheet advertises one bedroom from AED 550,000 and two bedrooms from AED 1.1 m. Its example list includes a 541 sq ft one-bedroom at AED 554,000. Property Finder’s later entry is around AED 1.172 m and marks the release sold out; none establishes current available stock.",
+      "paymentNote": "The original 70/30 schedule starts with 20%, followed by monthly instalments and construction milestones totalling 50%, then 30% at completion. The grouped monthly rows retain the published pattern. The fact sheet states the 4% DLD fee is additional to the initial deposit. Confirm current terms.",
+      "handoverNote": "The fact sheet estimates December 2026 and Property Finder gives Q4 2026. This does not verify physical completion or a guaranteed date for a particular unit.",
+      "units": [
+        {
+          "label": "1-bedroom examples in fact sheet",
+          "area": "541–546 sq ft; confirm area basis and selected unit",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2-bedroom examples in fact sheet",
+          "area": "885–917 sq ft; selected examples, not a guaranteed full range",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "2-bedroom brochure layout",
+          "area": "Two bathrooms and two balconies shown; no aggregate area printed",
+          "sourceIds": [
+            "brochure"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 3–8 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Month 9",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 10–17 · 1% monthly",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Month 18",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 19–26 · 1% monthly",
+          "percent": 8,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Month 27",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Months 28–30 · 1% monthly",
+          "percent": 3,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "At 80% construction completion",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "At 90% construction completion",
+          "percent": 5,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published building form",
+          "value": "The fact sheet describes G+7. The brochure’s layout plates label Tower A and Tower B; confirm the contractual building allocation.",
+          "sourceIds": [
+            "facts",
+            "brochure"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm present availability or resale status rather than treating launch prices as current stock.",
+        "Registered area, balcony accounting, final finishes, parking and service charges require unit-specific documents.",
+        "Confirm actual construction/completion status and the signed instalment schedule.",
+        "Shared leisure access and associated fees need confirmation. Photographs remain illustrative."
+      ]
+    }
+  }
+}

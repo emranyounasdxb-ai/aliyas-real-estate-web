@@ -1,0 +1,66 @@
+{
+ "id":"emaar-project-38","name":"Sera 2","developerSlug":"emaar",
+ "fields":{
+  "description":"Sera 2 brings apartments and three bedroom townhouses to Rashid Yachts & Marina. The homes are arranged around a landscaped water garden, with leisure spaces connecting the buildings to the marina setting. Sand-coloured surfaces, blue glazing and champagne accents form the proposed exterior palette.",
+  "areaId":"dubai-rashid-yachts-marina","location":"Rashid Yachts & Marina","emirate":"Dubai","type":"Apartment / Townhouse","bedrooms":"1–3","price":2112888,"handover":"Q4 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Water garden","Leisure pool","Gym facilities","Yoga platform","Children’s play area","Paddle court as described in fact sheet","Basketball court","Recreational lawn","BBQ area","Outdoor gym","Amphitheatre","Multipurpose rooms","Retail and promenade setting"],
+  "brochureUrl":"https://www.mitchellscommercialrealty.com/downloads/sera-1-sera-2/SERA2_RYM_BROCHURE.pdf",
+  "floorPlanUrl":"https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/3kPK06s2lRcgBFnc3eFA8mNaHys/oUWrfQ/Sera%202%20Floorplans.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Sera 2 at Rashid Yachts & Marina","url":"https://www.emaar.com/en/properties/sera-2-at-rashid-yachts-and-marina","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Sera 2 brochure · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/sera-1-sera-2/SERA2_RYM_BROCHURE.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"plans","label":"Sera 2 full floor-plan pack · Reelly file linked by Kleros","url":"https://reelly-backend.s3.amazonaws.com/vault/ZZLvFZFt/3kPK06s2lRcgBFnc3eFA8mNaHys/oUWrfQ/Sera%202%20Floorplans.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":195},
+    {"id":"official-plans","label":"Emaar: Sera 2 Building B plans · shared filename","url":"https://www.emaar.com/cms-media/uploads/SERA-1-SERA-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":80},
+    {"id":"facts","label":"Sera 2 fact sheet · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/sera-1-sera-2/SERA2_RYM_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":150},
+    {"id":"payment","label":"Sera 2 payment plan · Mitchell’s-hosted Emaar copy","url":"https://www.mitchellscommercialrealty.com/downloads/sera-1-sera-2/SERA2_RYM_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":170},
+    {"id":"finder","label":"Property Finder: Sera Phase 2 by Emaar","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/sera-phase-2-by-emaar","kind":"portal","checkedOn":"2026-10-31","derivedWords":40}
+   ],
+   "fieldSources":{"description":["official"],"overview":["brochure"],"location":["official","brochure"],"type":["official","plans"],"bedrooms":["official","plans"],"amenities":["official","facts"],"price":["official","facts"],"units":["plans","official-plans"],"documents":["brochure","plans","official-plans"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+   "reviewCoverage":{
+    "identity":"Official Sera 2 page confirmed; phase-specific documents checked separately from Sera 1.",
+    "location":"Rashid Yachts & Marina and the proposed water-garden/promenade setting confirmed.",
+    "residences":"One to three bedroom apartments and three bedroom townhouses supported by official page and own plans.",
+    "areas":"All numeric schedules in the 53-page Sera 2 pack read. Building B checked against 27-page official download. Townhouse page 53 visually inspected; totals include outdoor area.",
+    "amenities":"Own brochure, fact sheet and official page used without assuming private berths or service inclusions.",
+    "pricing":"Developer units-from AED 2,112,888 kept distinct from rounded launch type prices in fact sheet.",
+    "payment":"Own Sera 2 payment sheet read and visually checked; nine instalments sum to 100%.",
+    "handover":"November 2029 estimated completion on payment sheet corroborated by Property Finder.",
+    "documents":"Shared official brochure download contains Sera 1, so separately sourced Sera 2-branded brochure used. Full plans extend beyond official Building B-only pack. Images unchanged."
+   },
+   "community":"Rashid Yachts & Marina",
+   "overview":["The proposed landscape is a central part of Sera 2: a water garden and leisure pool sit alongside places for exercise, play and quieter outdoor time. The brochure places these shared spaces within the wider marina neighbourhood, where cafés, shops and waterfront walks contribute to the setting. The townhouse layouts introduce a two-level alternative to the apartments. Buyers should separate facilities within the residential development from attractions in the surrounding masterplan when checking access and charges."],
+   "locationNote":"Sera 2 is within Rashid Yachts & Marina at Mina Rashid. The brochure positions the development in relation to the marina promenade and landscaped water garden. Views, pedestrian access and travel times depend on the building and selected home; waterfront positioning does not establish an included berth.",
+   "priceLabel":"Developer-published units from",
+   "priceNote":"Emaar lists units from AED 2,112,888. The launch fact sheet gives rounded starting figures of AED 2.1m for one bedroom, AED 3.1m for two, AED 4.3m for three and AED 7.2m for a townhouse. These are published reference figures, not confirmation of current stock or a quotation.",
+   "paymentNote":"The Sera 2 launch schedule totals 80% before completion and 20% at estimated completion. Several early dates have passed. A present purchase needs the selected unit’s current payment statement, including any instalments already due.",
+   "handoverNote":"The payment sheet gives November 2029 as estimated construction completion, corroborated by Property Finder. Confirm contractual delivery and the latest progress with the developer.",
+   "units":[
+    {"label":"Building A · 1 bedroom apartment","area":"758.53–931.62 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building A · 2 bedroom apartment","area":"1,195.33–1,621.37 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building A · 3 bedroom apartment","area":"1,663.13 sq ft total area","sourceIds":["plans"]},
+    {"label":"Building B · 1 bedroom apartment","area":"757.89–903.10 sq ft total area","sourceIds":["official-plans","plans"]},
+    {"label":"Building B · 2 bedroom apartment","area":"1,195.66–1,730.94 sq ft total area","sourceIds":["official-plans","plans"]},
+    {"label":"Building B · 3 bedroom apartment","area":"1,662.92–1,864.85 sq ft total area","sourceIds":["official-plans","plans"]},
+    {"label":"3 bedroom townhouse","area":"2,554.28–2,582.59 sq ft total area","sourceIds":["plans"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · launch schedule","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2025","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"October 2026","percent":10,"sourceIds":["payment"]},
+    {"stage":"March 2027 · 10% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2027 · 30% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"April 2028 · 50% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"August 2028 · 70% construction","percent":10,"sourceIds":["payment"]},
+    {"stage":"November 2029 · estimated construction completion","percent":20,"sourceIds":["payment"]}
+   ],
+   "facts":[
+    {"label":"Published residential mix","value":"183 homes: 86 one bedroom, 77 two bedroom and 12 three bedroom apartments, plus eight townhouses. These are launch totals, not remaining availability.","sourceIds":["facts"]},
+    {"label":"Townhouse layout","value":"Type A2 places three bedrooms upstairs, with living and dining spaces, a separate maid’s room, laundry and storage below. Units 02, 06 and 08 show a 2,190.56 sq ft suite plus 363.71 sq ft balcony; the printed total is 2,554.28 sq ft, with a 0.01 sq ft rounding difference.","sourceIds":["plans"]}
+   ],
+   "unresolved":["The shared official brochure download contains Sera 1 branding. The linked brochure here is a separately hosted, Sera 2-branded copy; obtain the developer’s current pack for purchase.","Current availability, selected-unit price, parking allocation, service charges and final specifications.","Updated construction status, contractual handover and current remaining instalments.","Shared-facility access and any separate marina or club charges.","Official project images are deferred; existing photography is illustrative."]
+  }
+ }
+}

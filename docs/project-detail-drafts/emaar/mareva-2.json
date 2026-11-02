@@ -1,0 +1,62 @@
+{
+  "id":"emaar-project-103","name":"Marèva 2","developerSlug":"emaar",
+  "fields":{
+    "description":"Marèva 2 is a four- to six-bedroom villa release within The Oasis. Its setting centres on lagoons, landscaped open spaces and outdoor recreation, with contemporary homes arranged as part of the wider waterfront community. This second release has its own villa mix and launch schedule.",
+    "areaId":"dubai-the-oasis","location":"The Oasis","emirate":"Dubai","type":"Villa","bedrooms":"4–6","price":13830000,"handover":"Q1 2030 · estimated","paymentPlan":"80/20 launch plan",
+    "amenities":["Swimmable lagoon","Swimming pools","Beaches","Community parks and playgrounds","Pocket parks","Jogging and cycling tracks","Wellness and spa facilities","Sports courts and fitness facilities","Community centre","Planned community retail","Wider-community schools and clubhouse"],
+    "brochureUrl":"https://www.emaar.com/cms-media/uploads/MAREVA_and_MAREVA_2_brochure_dad5f4c953.pdf",
+    "floorPlanUrl":"https://www.emaar.com/cms-media/uploads/MAREVA_and_MAREVA_2_floorplan_6ae301407d.pdf",
+    "research":{
+      "status":"reviewed","reviewedOn":"2026-10-31",
+      "sources":[
+        {"id":"official","label":"Emaar: Marèva 2 at The Oasis","url":"https://www.emaar.com/en/properties/mareva-2-at-the-oasis","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"brochure","label":"Emaar: shared Marèva / Marèva 2 brochure","url":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":60},
+        {"id":"plans","label":"Emaar: shared Marèva collection floor plans","url":"https://www.emaar.com/cms-media/uploads/MAREVA-MAREVA-2_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":5},
+        {"id":"facts","label":"Emaar Marèva 2 fact sheet, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/mareva-mareva-2/MAREVA2_THE_OASIS_FACTSHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":200},
+        {"id":"payment","label":"Emaar Marèva 2 payment plan, Mitchells-hosted copy","url":"https://www.mitchellscommercialrealty.com/downloads/mareva-mareva-2/MAREVA2_THE_OASIS_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":180},
+        {"id":"finder","label":"Property Finder: Mareva 2 The Oasis","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/mareva-2-the-oasis","kind":"portal","checkedOn":"2026-10-31","derivedWords":70}
+      ],
+      "fieldSources":{"description":["official"],"overview":["brochure","official"],"location":["official","facts"],"type":["official","facts"],"bedrooms":["official","facts"],"amenities":["official","facts"],"price":["official","facts"],"units":["facts"],"documents":["brochure","plans","facts","payment"],"paymentPlan":["payment","finder"],"handover":["payment","finder"]},
+      "reviewCoverage":{
+        "identity":"Second Marèva release verified with its own Emaar page and phase-two fact sheet.",
+        "location":"The Oasis waterfront community confirmed; no plot-specific waterfront claim inferred.",
+        "residences":"Four/five/six-bedroom standalone villa categories and phase-two counts confirmed.",
+        "areas":"Phase-two minimum BUA and plot table visually verified; linked shared plan collection inspected separately from plot-specific allocations.",
+        "amenities":"Official amenity list and own fact sheet checked; community facilities not represented as all delivered.",
+        "pricing":"AED 13.83m official starting reference and phase-two category launch prices confirmed.",
+        "payment":"Own nine-stage 80/20 schedule visually checked, including construction-linked stages.",
+        "handover":"February 2030 estimated completion confirmed by payment document and Property Finder.",
+        "documents":"Official shared brochure/plan URLs and phase-two fact/payment documents checked; shared-document word allocations retained across both releases."
+      },
+      "community":"The Oasis · Marèva 2",
+      "overview":["The shared collection brochure describes neutral interiors, contrasting textures and homes oriented towards outdoor living. Its community programme combines water-based leisure with parks, sports and wellness facilities. These are masterplan features; their exact delivery and access arrangements need to be checked for the selected plot.","Marèva 2’s own fact sheet is the basis for this page’s minimum built-up and plot areas. A minimum land area and a minimum built-up area need not describe the same villa. Compare the individual plot schedule and plan before judging garden space, privacy or frontage."],
+      "locationNote":"Marèva 2 sits within The Oasis in Dubai. Its setting includes waterways and landscaped spaces, but views, direct lagoon access and distances to facilities depend on the particular plot.",
+      "priceLabel":"Developer-advertised starting price",
+      "priceNote":"Emaar displays AED 13.83m. The Marèva 2 launch sheet lists four-bedroom villas from AED 13.83m, five-bedroom villas from AED 15.85m and six-bedroom villas from AED 27.05m. These references do not confirm current stock or a unit quotation.",
+      "paymentNote":"The release schedule totals 80% before completion and 20% at completion. Later payments depend on construction milestones. Historical instalment dates are retained as launch information; current balances and revised terms require confirmation.",
+      "handoverNote":"The phase-two payment sheet estimates February 2030. Property Finder reports the same month. Treat this as a published target subject to the sale agreement and current developer updates.",
+      "units":[
+        {"label":"4-bedroom villa · phase-two minimums","area":"BUA from 7,254 sq ft; plot from 7,790 sq ft","sourceIds":["facts"]},
+        {"label":"5-bedroom villa · phase-two minimums","area":"BUA from 7,965 sq ft; plot from 8,274 sq ft","sourceIds":["facts"]},
+        {"label":"6-bedroom villa · phase-two minimums","area":"BUA from 12,779 sq ft; plot from 14,455 sq ft","sourceIds":["facts"]}
+      ],
+      "paymentStages":[
+        {"stage":"Launch booking","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2026","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2027","percent":10,"sourceIds":["payment"]},
+        {"stage":"August 2027","percent":10,"sourceIds":["payment"]},
+        {"stage":"June 2028 · 40% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"November 2028 · 60% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"May 2029 · 80% construction","percent":10,"sourceIds":["payment"]},
+        {"stage":"February 2030 · estimated completion","percent":20,"sourceIds":["payment"]}
+      ],
+      "facts":[
+        {"label":"Phase-two launch mix","value":"346 standalone villas: 177 four-bedroom, 119 five-bedroom and 50 six-bedroom homes. This is the launched collection rather than available inventory.","sourceIds":["facts"]},
+        {"label":"Shared plan collection","value":"Developer floor plans linked.","sourceIds":["plans"]},
+        {"label":"Availability distinction","value":"Property Finder labels the release sold out while Emaar retains a starting price and interest form. A published price is therefore not a confirmation of direct availability.","sourceIds":["finder","official"]}
+      ],
+      "unresolved":["Confirm current direct or resale availability, plot-specific price, service charges and outstanding payment balance.","The developer serves the same brochure and plan files for Marèva and Marèva 2. Exact elevation, basement/roof arrangement, pool provision and plot allocation must match the selected phase-two unit’s signed documents.","Published BUA and plot values are category minimums, not an individual villa’s measurements. Final dimensions and specifications may differ.","Community amenity delivery, access conditions and any separately charged services require confirmation.","February 2030 is an estimated construction-completion date, not a guarantee of occupation or final handover."]
+    }
+  }
+}

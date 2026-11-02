@@ -1,0 +1,247 @@
+{
+  "id": "samana-project-15",
+  "name": "SAMANA Barari Avenue",
+  "developerSlug": "samana",
+  "fields": {
+    "description": "SAMANA Barari Avenue is a commercial development in Majan, offering offices above ground-floor and podium retail premises. Different floor plates provide different office arrangements, with separate access and circulation areas for business and retail use.",
+    "areaId": "dubai-majan",
+    "location": "Majan",
+    "emirate": "Dubai",
+    "type": "Office",
+    "bedrooms": null,
+    "price": 2583887,
+    "handover": null,
+    "paymentPlan": null,
+    "amenities": [
+      "Business facilities",
+      "Wellness and recreation spaces",
+      "Retail and dining outlets",
+      "Dedicated lobbies",
+      "VIP drop-off points",
+      "Secure access"
+    ],
+    "brochureUrl": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/46/f865eeac7898086fefdb6fb266ef309e.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/samana-barari-avenue/SAMANA_BARARI_AVENUE_FLOOR_PLAN_OFFICE.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "SAMANA Barari Avenue · current project and FAQ",
+          "url": "https://www.samanadevelopers.com/projects/samana-barari-avenue",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "brochure",
+          "label": "Barari Avenue official brochure",
+          "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/46/f865eeac7898086fefdb6fb266ef309e.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "facts",
+          "label": "Barari Avenue branded factsheet · broker-hosted, 2 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-barari-avenue/SAMANA_BARARI_AVENUE_FACTSHEET.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "plans",
+          "label": "Barari Avenue office floor plates · broker-hosted, 18 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-barari-avenue/SAMANA_BARARI_AVENUE_FLOOR_PLAN_OFFICE.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 60
+        },
+        {
+          "id": "retail",
+          "label": "Barari Avenue retail floor plates · broker-hosted, 6 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-barari-avenue/SAMANA_BARARI_AVENUE_FLOOR_PLAN_RETAIL.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 20
+        },
+        {
+          "id": "payment",
+          "label": "Barari Avenue branded payment options · broker-hosted, 1 page",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/samana-barari-avenue/SAMANA_BARARI_AVENUE_PAYMENT_PLAN.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 120
+        },
+        {
+          "id": "broker",
+          "label": "Mitchell’s · Barari Avenue project brief",
+          "url": "https://www.mitchellscommercialrealty.com/projects/samana-barari-avenue",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        }
+      ],
+      "community": "Majan",
+      "locationNote": "Majan, Dubailand, between Sheikh Mohammed bin Zayed Road and Al Ain Road.",
+      "overview": [
+        "Office plans reach floor 25, with floor 16 marked mechanical. Retail plans cover the ground floor and three podium levels."
+      ],
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "The developer FAQ advertises AED 2,583,887, varying by size, floor and layout. Obtain a unit-specific quotation and availability confirmation.",
+      "handoverNote": "Developer FAQ: Q2 2028. Mitchell’s reports a registered October 2028 completion target. These differ; no completed handover was verified.",
+      "paymentNote": "PDC: 15% booking, 36 monthly payments of 1%, additional 10%/5%/5% in months 12/18/24, then 58 monthly payments of 0.5%. Non-PDC: 20% booking, the same first-stage payments, then 48 monthly payments of 0.5%. Each totals 100%; confirm the dated contract.",
+      "units": [
+        {
+          "label": "Offices",
+          "area": "From 512 ft² · developer FAQ; area basis unspecified.",
+          "sourceIds": [
+            "developer"
+          ]
+        },
+        {
+          "label": "Retail",
+          "area": "From 213 ft² · developer FAQ; area basis unspecified.",
+          "sourceIds": [
+            "developer"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "PDC booking",
+          "percent": 15,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "36 monthly payments × 1%",
+          "percent": 36,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 12 payment",
+          "percent": 10,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 18 payment",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "Additional month 24 payment",
+          "percent": 5,
+          "sourceIds": [
+            "payment"
+          ]
+        },
+        {
+          "stage": "58 monthly payments × 0.5%",
+          "percent": 29,
+          "sourceIds": [
+            "payment"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "The published drawings are floor plates, without individual-unit aggregate area schedules. Obtain the approved saleable area, fit-out specification and permitted use for the selected premises.",
+        "Current inventory, service charges, reserved parking, final delivery specifications and the dated contractual handover remain unverified."
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "areaId": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "emirate": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "price": [
+          "developer"
+        ],
+        "priceLabel": [
+          "developer"
+        ],
+        "priceNote": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "community": [
+          "developer"
+        ],
+        "locationNote": [
+          "developer"
+        ],
+        "units": [
+          "developer"
+        ],
+        "paymentPlan": [
+          "developer"
+        ],
+        "overview": [
+          "plans",
+          "retail"
+        ],
+        "handover": [
+          "developer",
+          "broker"
+        ],
+        "handoverNote": [
+          "developer",
+          "broker"
+        ],
+        "paymentNote": [
+          "payment"
+        ],
+        "paymentStages": [
+          "payment"
+        ],
+        "facts": [],
+        "unresolved": [
+          "plans",
+          "retail",
+          "developer"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "ProtectedSAMANA BarariAvenue15 commercialoffices/retail, notSAMANAAvenue residentialDLRC orBusinessPark. Ownpage200exactofficialbrochure5.5mb andMitchellsactual5clickabledocuments200. Noforms.",
+        "location": "OwnFAQMajanDubailandbetweenE311andE66; exactdubai-majan. No coordinates or fixedjourneytimeinvented.",
+        "residences": "Officefilter,bedroomsNULL. Actual18pofficepages2–17 all16floorplates read, 6pretail2–5 allfour read:office1–25mechanical16, retailGF+3podiums. Genericfactscommunityresidentialmixdoesnotmakebuildingresidential. No source349registeredcountor90currentavailabilityclaimadoptedwithoutunitlist.",
+        "areas": "OwnFAQminimumoffice512sqft/retail213sqft, basisunknown. Actual20floorplatesnoaggregateunitarea tables; no measuringgeometryorDLDtransactionsascompleteinventoryrange. TenantWCdeliverydetailnotpromisedallunits.",
+        "amenities": "OwnFAQbusiness/wellness/retaildining/lobbiesVIPsecureaccess verified. Actualfacts2VIP/parkingcommunityscope notreservedspaces; actualfirstfloor/mechanicalgymcorroboratesnotuniversalcommercialusepermit. No ROI/highfootfallguarantees.",
+        "pricing": "CurrentownFAQ2583887, exactownOfferchecksubjecttoverification; headlinefromexplicitFAQnotbrokerselectedprice. No currentavailableunitlistretrieved, soquotequalified.",
+        "payment": "Actualbroker-hostedbranded1p matchesowncurrentHTML PDC15+36+10+5+5+29=100;nonPDC20+36+10+5+5+24=100. Currentpaymentnoteinheritedsameverifiedparameters, notBusinessPark-specificnames; stagePDFsourceidpayment. Eightyearroundingnotprecise96months. Publicmonthdatesrelativetonotassumedbookingcalendar.",
+        "handover": "OwnFAQ Q22028 vsMitchellsreportedDLD31October2028, nooriginalregistryretrievedsoattributedsecondarydateonly. Headernull. No currentconstructionpercentageadoptedfromsecondarydatedtracker.",
+        "documents": "Ownmainexactbrochureprimarydownload; brokeractualpublicbrochure20/facts2/office18/retail6/payment1docsourcekindsbrokerhonest. All20actualfloorplates+2facts+1paymentread <=1700px. UnderlyingPDFpool200=0facts60office20retail120payment; brochure0corroboration. ActualpublicPDF-derivedupper150, no genericSAMANAindexderivation."
+      }
+    }
+  }
+}

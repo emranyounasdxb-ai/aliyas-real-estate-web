@@ -1,0 +1,254 @@
+{
+  "id": "emaar-project-90",
+  "name": "Palmiera 3",
+  "developerSlug": "emaar",
+  "fields": {
+    "description": "Palmiera 3 is a four-bedroom villa collection at The Oasis, planned around water, greenery and shared recreation. Three exterior designs give the phase a varied streetscape. Emaar presents the homes as family residences with a close connection to gardens and the surrounding public landscape.",
+    "areaId": "dubai-the-oasis",
+    "location": "The Oasis",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "4",
+    "price": 9180000,
+    "handover": "Q4 2028 estimated",
+    "paymentPlan": "80/20 launch plan",
+    "amenities": [
+      "Community and pocket parks",
+      "Playgrounds",
+      "Sports and fitness facilities",
+      "Wellness facilities",
+      "Jogging and cycling tracks",
+      "Community pools",
+      "Swimmable lagoons",
+      "Resident clubhouse",
+      "Gymnasium",
+      "Indoor multipurpose room"
+    ],
+    "brochureUrl": "https://www.emaar.com/cms-media/uploads/390494_brochure_File_7eda5d5c49_prod.pdf",
+    "floorPlanUrl": "https://www.emaar.com/cms-media/uploads/PALMIERA-3_floorplan.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Emaar: Palmiera 3 at The Oasis",
+          "url": "https://www.emaar.com/en/properties/palmiera-3-at-the-oasis",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "facts",
+          "label": "Emaar: Palmiera 3 fact sheet, linked as brochure",
+          "url": "https://www.emaar.com/cms-media/uploads/390494_brochure_File_7eda5d5c49_prod.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "Emaar: Palmiera 3 floor plans",
+          "url": "https://www.emaar.com/cms-media/uploads/PALMIERA-3_floorplan.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: Palmiera 3 at The Oasis",
+          "url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/palmiera-3-the-oasis",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 110
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "official",
+          "plans"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "official",
+          "facts"
+        ],
+        "price": [
+          "official",
+          "facts"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "facts",
+          "plans"
+        ],
+        "paymentPlan": [
+          "facts",
+          "finder"
+        ],
+        "handover": [
+          "facts",
+          "finder"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Third Palmiera release checked separately from phases 1, 2 and Collective.",
+        "location": "The Oasis, D54 and proposed E44 extension checked.",
+        "residences": "Four-bedroom Classic, Contemporary and Chamfer villas confirmed.",
+        "areas": "All three official plan tables and floor layouts visually inspected; totals distinguished from plots.",
+        "amenities": "Developer community facilities checked; private pool marked as owner-provided.",
+        "pricing": "AED 9.18m headline and three launch price references checked.",
+        "payment": "Official fact sheet’s nine-stage 80/20 schedule checked and corroborated by portal.",
+        "handover": "October 2028 agrees between fact sheet and Property Finder.",
+        "documents": "Developer’s brochure link actually serves a one-page fact sheet; four-page floor pack reviewed."
+      },
+      "community": "The Oasis",
+      "overview": [
+        "A community centre, gym and shared leisure spaces are part of Palmiera 3’s planned setting. Water and planted routes are intended to link everyday recreation with the homes. The floor plans show a guest suite downstairs, family bedrooms on the first floor and a lounge with terrace on the second floor."
+      ],
+      "locationNote": "Palmiera 3 sits within The Oasis, Dubai. Emaar describes connections through Sheikh Zayed bin Hamdan Road (D54) and a future Al Khail Road (E44) extension. Treat proposed links as planned infrastructure and check current access from the actual villa.",
+      "priceLabel": "Developer-advertised starting price",
+      "priceNote": "Emaar advertises AED 9.18m. The launch sheet lists Classic from AED 9.18m, Contemporary from AED 9.32m and Chamfer from AED 9.66m. These are launch references, not current stock quotations.",
+      "paymentNote": "The official launch sheet specifies 10% initially, seven further 10% instalments and 20% on completion. Dates below belong to the August 2024 release.",
+      "handoverNote": "October 2028 is the launch estimate, also reported by Property Finder. Confirm the current sale agreement and construction position.",
+      "units": [
+        {
+          "label": "4 bedrooms · Classic",
+          "area": "5,665.58 sq ft published total; 4,103.53 sq ft calculated sum of three floors",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4 bedrooms · Contemporary",
+          "area": "5,885.27 sq ft published total; 4,147.12 sq ft calculated sum of three floors",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "4 bedrooms · Chamfer",
+          "area": "5,913.79 sq ft published total; 4,370.24 sq ft calculated sum of three floors",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "August 2024 · booking",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2024",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "March 2025",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "August 2025",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "March 2026 · 20% construction",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2026 · 40% construction",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "May 2027 · 60% construction",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "November 2027 · 80% construction",
+          "percent": 10,
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "stage": "October 2028 · estimated completion",
+          "percent": 20,
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Launch mix",
+          "value": "59 villas: 20 Classic, 21 Contemporary and 18 Chamfer. This is phase scale, not remaining inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Area basis",
+          "value": "Published totals include terrace, carport and driver’s room in addition to the three floors. They are not plot areas.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Layout details",
+          "value": "Plans show a lift, two kitchens, maid’s room, laundry, storage, driver’s accommodation and roof lounge. All three sheets identify the private pool as owner-provided.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Document identity",
+          "value": "The developer’s brochure download is a one-page fact sheet with unit mix and payment dates.",
+          "sourceIds": [
+            "facts"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Property Finder marks the release sold out while displaying market listings. Neither that label nor Emaar’s price headline establishes present developer stock.",
+        "Individual plot sizes, final landscaping and pool costs, parking allocation, fees and construction progress require current confirmation.",
+        "The fact sheet gives inconsistent Downtown Dubai journey estimates. No fixed driving time is presented here.",
+        "Current images remain illustrative; project photography is deferred."
+      ]
+    }
+  }
+}

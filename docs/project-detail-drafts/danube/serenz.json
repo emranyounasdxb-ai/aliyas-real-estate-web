@@ -1,0 +1,243 @@
+{
+  "id": "danube-project-03",
+  "name": "Serenz",
+  "developerSlug": "danube",
+  "fields": {
+    "description": "Serenz is Danube’s planned apartment development in Jumeirah Village Circle, offering studios through three-bedroom homes across tower-specific layouts and shared lifestyle spaces.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 1100000,
+    "handover": "2029",
+    "paymentPlan": null,
+    "amenities": [
+      "Planned swimming pools and aqua park",
+      "Landscaped gardens and fountain",
+      "Sports courts and jogging track",
+      "Indoor gym",
+      "Sauna and spa spaces",
+      "Children’s play and daycare areas",
+      "Business centre",
+      "Planned clubhouse"
+    ],
+    "brochureUrl": "https://danubeproperties.com/wp-content/uploads/2026/01/Serenz.pdf",
+    "floorPlanUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/serenz/floor-plans",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Danube official Serenz project page",
+          "url": "https://danubeproperties.com/portfolio/serenz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "brochure",
+          "label": "Danube official Serenz brochure · 31 PDF pages",
+          "url": "https://danubeproperties.com/wp-content/uploads/2026/01/Serenz.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 70
+        },
+        {
+          "id": "plans",
+          "label": "Danube official Serenz floor-plan ZIP · original, batch 2 and retail packs",
+          "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/serenz/floor-plans",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "construction",
+          "label": "Danube Serenz internal construction update · 30 September 2026",
+          "url": "https://danubeproperties.com/construction/serenz/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 40
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Serenz guide · secondary launch/payment forecast",
+          "url": "https://www.propertyfinder.ae/en/new-projects/danube-properties/serenz",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 160
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "location": [
+          "official"
+        ],
+        "type": [
+          "official"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "overview": [
+          "plans"
+        ],
+        "amenities": [
+          "brochure"
+        ],
+        "price": [
+          "official",
+          "finder"
+        ],
+        "paymentPlan": [
+          "official",
+          "finder"
+        ],
+        "handover": [
+          "official",
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "facts": [
+          "brochure",
+          "construction"
+        ],
+        "brochureUrl": [
+          "brochure"
+        ],
+        "floorPlanUrl": [
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "OwnofficialSerenzpage and31pbrochure, publicofficialfourPDFfloorplanZIP verified. Actualplans distinguishTowerA/B;1250headlinehomesnotavailableinventory. No otherDanubeprojectdata copied.",
+        "location": "OwnJumeirahVillageCircle confirmed; PFDistrict14secondaryonlynotseparatelyinventedregistry. Marketingmetro/drivingtimesnotguarantees.",
+        "residences": "Ownstudio/1/2/3BR,actualVER1TowerAandBatch2TowerA/B/terracelayouts verified. ConvertibleFlexlabelsnotadditionalregisteredbedroomclaim. Groundretailpacks separatefromresidentialunitmix.",
+        "areas": "Combined57pcontactpages allviewed. Independent18actualnumericpanels1700px verified original16p andbatch26p; rootfullstudio/1A/2A/3B plusnumericcropreviewpremium2/3,terracestudio,premium2B1/premium3B. Allpublicrowfiguresvisuallyseen. Large674–742studiohas372indoor+302–370terrace; rangecomponentsnotpaired/imposed. Printedtotalretained.",
+        "amenities": "31pbrochureallcontactpages andfullp24/28 inspected; planned120000sqftlifestylespaces,44listedamenities. No operation/licence/medicaloutcome assured. Fullyfurnishedadvertisement qualifiedbyplanSPA-onlyfurniture/electricaldisclaimer.",
+        "pricing": "Owncurrent1.1m versusPF840klaunchguide explicit, currentliveallocationnotconfirmed. No brokerresaletransaction treatedasdeveloperlist.",
+        "payment": "Ownhero30/70 lacksdatedstagebreakdown, generic1%monthlylink notprojectcalendar. PF10/60/30post sums100 butnotmergedwithownheadline; stagessecondaryreference only, headlineNULL.",
+        "handover": "Ownyear2029 versusPFQ3/September2029forecast; retainownyearnotinventmonth. Own30Sep2026internal3%construction/pilingandexcavationreportdated,notcurrentindependentcertification. FreshindependentPFreviewalsofoundbodyDecember2029vskey/timelineSeptember2029; disclosed,headlineyear2029unchanged.",
+        "documents": "Officialbrochure31p; officialfloorplanZIP57pcombined+16pVER1+26pBatch2+17pretail overlapscountedonce. Allcombinedcontacts and18numericpanels independentlyreviewed; primaryownpage/construction andPFguide read. PDFpoolbrochure70/plans130=200. Noforms/bypass/imagesadded."
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "Compare indoor space and outdoor area separately for the selected home."
+      ],
+      "locationNote": "Jumeirah Village Circle, Dubai, confirmed by Danube. Property Finder further describes District 14. Advertised road and metro timings are marketing estimates; verify the actual access route.",
+      "priceLabel": "Developer advertised starting price",
+      "priceNote": "Danube’s live page advertises AED 1.1m, while Property Finder retains an AED 840,000 launch guide. The headline uses the current developer reference. Neither establishes availability or a quotation for every tower, floor and layout; obtain a dated selected-unit offer.",
+      "paymentNote": "Danube’s hero says 30/70 and also links a generic 1% monthly scheme, without a project-specific dated breakdown. Property Finder separately allocates 10% down, 60% construction and 30% after handover. The displayed stages are that secondary reference only; they do not explain the developer headline or establish current signed terms.",
+      "handoverNote": "Danube states 2029. Property Finder’s key information and timeline forecast Q3/September 2029, but its narrative also mentions December 2029. The headline keeps the developer’s broader year; the selected unit’s contractual date and facility openings require separate confirmation.",
+      "units": [
+        {
+          "label": "Tower A · studio",
+          "area": "381–402 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 1BR A",
+          "area": "538–554 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · 2BR A",
+          "area": "853–870 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower A · premium 3BR",
+          "area": "1,307–1,326 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · flex studio B/B1, level 1",
+          "area": "674–742 ft² total; 372 indoor + 302–370 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · premium 2BR B1, level 1",
+          "area": "1,528–1,536 ft² total; 1,014 indoor + 514–522 terrace",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · 3BR B, level 21",
+          "area": "1,703 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Tower B · premium 3BR B, level 21",
+          "area": "1,691 ft² total",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Portal reference · down payment",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal reference · construction",
+          "percent": 60,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Portal reference · after handover",
+          "percent": 30,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Planned lifestyle spaces",
+          "value": "The brochure proposes 120,000 ft² of amenity and lifestyle space, rather than apartment floor area.",
+          "sourceIds": [
+            "brochure"
+          ]
+        },
+        {
+          "label": "Dated developer construction report",
+          "value": "Danube’s 30 September 2026 internal inspection reports 3% overall progress, with piling and excavation underway. This is a dated developer report, not a current independent site assessment.",
+          "sourceIds": [
+            "construction"
+          ]
+        }
+      ],
+      "unresolved": [
+        "The brochure advertises fully furnished residences, but plan disclaimers exclude furniture and electrical devices unless specified in the sale agreement. Obtain the signed furnishing inventory.",
+        "Totals include outdoor areas. Confirm the selected numbered plan; conversion labels do not establish an approved extra bedroom.",
+        "Current allocation, fees, parking, service/cooling charges, legal title terms, final furnishing and a dated selected-unit payment schedule remain unverified. Images stay illustrative.",
+        "Retail drawings do not establish an operating shop or a residential access right. Shared pool, childcare, wellness and business facilities need separate delivery, licensing and access confirmation."
+      ]
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "ellington-project-26",
+  "name": "Hillmont Residences",
+  "developerSlug": "ellington",
+  "fields": {
+    "description": "Hillmont Residences is Ellington’s apartment building in Jumeirah Village Circle. Its studios, one- to three-bedroom homes and study layouts sit above shared leisure spaces, with a pool deck, children’s facilities and places to exercise or meet neighbours.",
+    "areaId": "dubai-jvc",
+    "location": "Jumeirah Village Circle",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–3",
+    "price": 843000,
+    "handover": null,
+    "paymentPlan": "70/30 · published reference",
+    "amenities": [
+      "Leisure pool",
+      "Children’s pool and play areas",
+      "Fitness studio",
+      "Club lounge",
+      "Landscaped gardens",
+      "Dog wash area",
+      "Bicycle parking",
+      "Multi-purpose lawn"
+    ],
+    "brochureUrl": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Hillmont%20Residences/Launch/Hillmont%20Residences%20-%20Brochure.pdf",
+    "floorPlanUrl": "https://www.mitchellscommercialrealty.com/downloads/hillmont-residences/HILLMONT_RESIDENCES_FLOOR_PLANS.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "Hillmont own developer project page",
+          "url": "https://ellingtonproperties.ae/en/property-for-sale/hillmont-residences-jumeirah-village-circle",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Hillmont official brochure · 45 pages",
+          "url": "https://assets.ellingtonproperties.ae/sales/files/Marketing-Collaterals/Hillmont%20Residences/Launch/Hillmont%20Residences%20-%20Brochure.pdf",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "brief",
+          "label": "Hillmont branded project brief · broker-hosted · 48 pages",
+          "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Hillmont-Project-Brief.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "plans",
+          "label": "Hillmont branded plans · broker-hosted · 20 pages",
+          "url": "https://www.mitchellscommercialrealty.com/downloads/hillmont-residences/HILLMONT_RESIDENCES_FLOOR_PLANS.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 100
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder Hillmont · current lowest reference and date",
+          "url": "https://www.propertyfinder.ae/en/new-projects/ellington/hillmont-residences",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "construction",
+          "label": "Hillmont Residences developer construction gallery",
+          "url": "https://app.ellingtonproperties.ae/construction-updates/project/?project=Hillmont&lang=en&projectn=Hillmont%20Residences&url=https://ellingtonproperties.ae/?p=42003",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer"
+        ],
+        "location": [
+          "developer"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer"
+        ],
+        "amenities": [
+          "developer"
+        ],
+        "price": [
+          "finder"
+        ],
+        "handover": [
+          "brief",
+          "finder"
+        ],
+        "paymentPlan": [
+          "brief",
+          "finder"
+        ]
+      },
+      "community": "Jumeirah Village Circle",
+      "overview": [
+        "Published parking: one space for studios through 2BR, two for 3BR. AED 16/ft² is an anticipated service charge."
+      ],
+      "locationNote": "Jumeirah Village Circle, Dubai; Property Finder places Hillmont in District 15. Confirm the chosen apartment’s orientation and immediate surroundings.",
+      "priceLabel": "Portal advertised lowest price · verify availability",
+      "priceNote": "Property Finder’s live hero advertises AED 843,000 as its lowest price; its FAQ retains AED 800,000. Developer types are marked out of stock. Neither figure confirms a current developer offer.",
+      "paymentNote": "Reference stages total 100%; confirm the applicable agreement and charges.",
+      "handoverNote": "The branded brief anticipated Q3 2026; Property Finder now specifies December 2026. Headline delivery remains unconfirmed, and neither forecast establishes actual completion.",
+      "units": [
+        {
+          "label": "Studio A",
+          "area": "452.30 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "1BR A / B / C / D",
+          "area": "829.57 / 770.70 / 829.68 / 833.66 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR A / B / C",
+          "area": "1,151.20 / 1,257.12 / 1,225.69 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "2BR + study A",
+          "area": "1,232.47 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "3BR A / B",
+          "area": "1,805.32 / 1,864.52 ft² total.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Booking",
+          "percent": 20,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "60 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "120 days after reservation",
+          "percent": 10,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "240 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "360 days after reservation",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 30% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 40% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 50% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "At 60% construction",
+          "percent": 5,
+          "sourceIds": [
+            "brief"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "brief"
+          ]
+        }
+      ],
+      "facts": [],
+      "unresolved": [
+        "1BR D: brief 829.68 ft² versus separate plan 833.66 ft², matching its components. Other minor rounding differences are retained.",
+        "Current availability, contractual handover, approved charges, title/parking terms, furnishing inventory and facility operation require confirmation. Images remain illustrative."
+      ],
+      "reviewCoverage": {
+        "identity": "Exact Hillmont ownership retained, notsimilarlynamedotherdevelopments.",
+        "location": "Own JVC, portalDistrict15; no assumedtravel times.",
+        "residences": "Studio through3BR, studyseparate, eleven individualplantypes.",
+        "areas": "All11 measuredpanels plans9–19 visuallyread; brief41 visible829.68 vs plan13 visible833.66 retained asconflict.",
+        "amenities": "Ownmainnamedfacilities; no operationassumed.",
+        "pricing": "CurrentPF843k versus FAQ800k; no currentofficialquote.",
+        "payment": "Brief47visuallyread:20+10+10+5+5+4x5+30=100.",
+        "handover": "Brief8Q32026 versus PFDecember2026; noactualcompletionasserted. Own gallery reviewed through October 2026; gallery dates are not completion certificates.",
+        "documents": "Official45pbrochure, brokerhosted48pbrief20pplans retrieved. Combinedunderlyingpool200:brief100/plans100. No genericindex used."
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+ "id":"emaar-project-70","name":"Hillsedge","developerSlug":"emaar",
+ "fields":{
+  "description":"Hillsedge offers one and two bedroom apartments beside Hillside Park in Dubai Hills Estate. The scheme combines two residential towers with lower-level Park Apartments. Its appeal centres on outdoor activity, with building pools and a gym complemented by the neighbouring park’s recreation spaces.",
+  "areaId":"dubai-hills-estate","location":"Dubai Hills Estate","emirate":"Dubai","type":"Apartment","bedrooms":"1–2","price":1844888,"handover":"Q1 2029 reported","paymentPlan":"80/20 reported",
+  "amenities":["Building adult and children’s pools","Building gym","Landscaped podium","Hillside Park access","Park sports courts and jogging tracks","Park yoga and fitness areas","Park skate and pump tracks","Park outdoor cinema and amphitheatre","Park picnic and barbecue spaces","Children’s play areas"],
+  "brochureUrl":"https://www.emaar.com/cms-media/uploads/HILLSEDGE_brochure.pdf","floorPlanUrl":"https://www.emaar.com/cms-media/uploads/HILLSEDGE_floorplan.pdf",
+  "research":{
+   "status":"reviewed","reviewedOn":"2026-10-31",
+   "sources":[
+    {"id":"official","label":"Emaar: Hillsedge at Dubai Hills Estate","url":"https://www.emaar.com/en/properties/hillsedge-at-dubai-hills-estate","kind":"developer","checkedOn":"2026-10-31","derivedWords":180},
+    {"id":"brochure","label":"Emaar: Hillsedge brochure","url":"https://www.emaar.com/cms-media/uploads/HILLSEDGE_brochure.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":190},
+    {"id":"plans-a","label":"Emaar: Tower A and Park Apartment floor plans","url":"https://www.emaar.com/cms-media/uploads/HILLSEDGE_floorplan.pdf","kind":"official-document","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"plans-b","label":"Emaar Tower B plans, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/hillsedge/HILLSEDGE_DHE_FLOORPLAN-TOWER%20B.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":120},
+    {"id":"facts","label":"Emaar Hillsedge launch fact sheet, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/hillsedge/HILLSEDGE_TOWER_A_DHE_FACT_SHEET.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":160},
+    {"id":"payment-a","label":"Emaar Tower A launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/hillsedge/HILLSEDGE_TOWER-A_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"payment-b","label":"Emaar Tower B launch payment plan, copy hosted by Mitchell’s","url":"https://www.mitchellscommercialrealty.com/downloads/hillsedge/HILLSEDGE_TOWER-B_DHE_PAYMENT_PLAN.pdf","kind":"broker","checkedOn":"2026-10-31","derivedWords":165},
+    {"id":"finder","label":"Property Finder: Hillsedge","url":"https://www.propertyfinder.ae/en/new-projects/emaar-properties/hillsedge-at-dubai-hills-estate","kind":"portal","checkedOn":"2026-10-31","derivedWords":80}
+   ],
+   "fieldSources":{"description":["official","plans-a","facts"],"overview":["brochure"],"location":["official","brochure"],"type":["official"],"bedrooms":["official"],"amenities":["brochure","facts"],"price":["official","facts"],"units":["plans-a","plans-b"],"documents":["brochure","plans-a","plans-b"],"paymentPlan":["payment-a","payment-b"],"handover":["payment-a","payment-b","finder"]},
+   "reviewCoverage":{
+    "identity":"Hillsedge in Dubai Hills Estate confirmed, separate from the Vida and Palace Hillside projects.","location":"Hillside Park setting and local healthcare, retail and road connections checked.","residences":"One and two bedroom apartments in towers and the lower-level Park Apartment component.","areas":"Both 13-page plan packs reviewed; detailed plans differ from the rounded launch-sheet ranges.","amenities":"Building pools, gym and podium distinguished from the broader park’s shared facilities.","pricing":"Live displayed-unit start retained alongside historical category launch starts.","payment":"Tower A and B schedules visually checked. First four dates differ; later milestones align and each schedule totals 100%.","handover":"January 2029 launch estimate corroborated by portal, with current contractual position unverified.","documents":"Official brochure and A/park plans linked; B plans and both payment sheets attributed to their broker-hosted copies. Images unchanged."
+   },
+   "community":"Dubai Hills Estate",
+   "overview":["Open kitchens, neutral interior finishes and balconies define the apartment layouts. Hillside Park broadens the outdoor offering with sports, play and social spaces. The brochure explicitly locates facilities across the podium and adjacent park, so the cinema, amphitheatre, skate facilities and jogging areas should not be read as private amenities inside every tower."],
+   "locationNote":"Hillsedge is positioned by Hillside Park near King’s College Hospital, with Dubai Hills Mall and Golf Club in the wider district. Al Khail Road connects the community to the city. Check the actual pedestrian route and selected unit’s view. Future Metro or rail references are not evidence of an operating station at the development.",
+   "priceLabel":"Developer’s displayed units from",
+   "priceNote":"Emaar’s unit panel starts at AED 1,844,888 on the review date. Its headline rounds this to AED 1.84m; the launch fact sheet lists one-bedroom starts of AED 1.84m and two-bedroom starts of AED 2.69m. Request a current quotation for the chosen unit.",
+   "paymentNote":"Both launch schedules allocate 80% before completion and 20% at completion. Tower B’s first four payments fall one month later than Tower A’s. The combined table identifies the tower-specific dates; it is not an additional set of instalments.",
+   "handoverNote":"Both tower payment plans estimate January 2029 completion, corroborated by Property Finder. Confirm the current construction position and applicable contractual date before relying on this target.",
+   "units":[
+    {"label":"Tower A · 1 bedroom","area":"708.38–778.98 sq ft total","sourceIds":["plans-a"]},
+    {"label":"Tower A · 2 bedrooms","area":"1,139.04–1,351.84 sq ft total","sourceIds":["plans-a"]},
+    {"label":"Park Apartments · 2 bedrooms","area":"1,092.43–1,143.13 sq ft total","sourceIds":["plans-a"]},
+    {"label":"Tower B · 1 bedroom","area":"709.56–840.23 sq ft total","sourceIds":["plans-b"]},
+    {"label":"Tower B · 2 bedrooms","area":"1,093.93–1,351.84 sq ft total","sourceIds":["plans-b"]}
+   ],
+   "paymentStages":[
+    {"stage":"Booking · A: December 2024 / B: January 2025","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"A: February 2025 / B: March 2025","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"A: July 2025 / B: August 2025","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"A: January 2026 / B: February 2026","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"Both towers · July 2026 · 30% construction","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"Both towers · January 2027 · 50% construction","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"Both towers · June 2027 · 70% construction","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"Both towers · January 2028 · 90% construction","percent":10,"sourceIds":["payment-a","payment-b"]},
+    {"stage":"Both towers · January 2029 · estimated completion","percent":20,"sourceIds":["payment-a","payment-b"]}
+   ],
+   "facts":[
+    {"label":"Published development mix","value":"The launch fact sheet lists 204 one-bedroom and 202 two-bedroom homes, totalling 406 apartments. This is the development mix, not remaining availability.","sourceIds":["facts"]},
+    {"label":"Park Apartment layout","value":"Two-bedroom Park type B has two balconies, two bathrooms, a walk-in wardrobe and laundry. Its 1,092.43 sq ft total includes 70.61 sq ft of balconies. The plan locates these homes on ground and podium levels.","sourceIds":["plans-a"]},
+    {"label":"A larger one-bedroom variant","value":"Tower B unit 109, type A.3, totals 840.23 sq ft, including a 168.02 sq ft balcony. This exceeds the launch fact sheet’s rounded 779 sq ft maximum; the detailed plan is used here.","sourceIds":["plans-b","facts"]},
+    {"label":"Later purchase terms may differ","value":"Property Finder also lists a 30/50/20 option alongside 10/70/20. The schedules above reproduce the dated tower launch documents, not a promise of the deposit required for a purchase today.","sourceIds":["finder"]}
+   ],
+   "unresolved":["Confirm current inventory, construction status, service charges, parking allocations and final specifications.","Launch-sheet size ranges do not cover every detailed-plan variant; confirm the sale area for the exact unit.","Park access arrangements, facility opening dates and any separately charged services require confirmation.","Existing photography remains illustrative; real imagery is deferred."]
+  }
+ }
+}

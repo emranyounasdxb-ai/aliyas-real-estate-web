@@ -1,0 +1,225 @@
+{
+  "id": "aldar-project-11",
+  "name": "The Wilds",
+  "developerSlug": "aldar",
+  "fields": {
+    "description": "The Wilds brings Cassia Villas and Ravenna Residences into a landscape of gardens, trails and outdoor gathering spaces. The reviewed villa collections offer three to five bedrooms, with different footprints for family routines. The Wilds Residences apartments have their own separate page.",
+    "areaId": "dubai-dubailand",
+    "location": "Dubailand",
+    "emirate": "Dubai",
+    "type": "Villa",
+    "bedrooms": "3–5",
+    "price": 5100000,
+    "handover": "2029 · developer estimate",
+    "paymentPlan": "65/35 · portal-reported",
+    "amenities": [
+      "The Nest Signature Pavilion",
+      "Natural pools and streams",
+      "Central park",
+      "Cycle track and nature trails",
+      "Tennis, padel and basketball courts",
+      "Yoga deck and dance studio",
+      "Birdwatching and stargazing areas",
+      "Children’s adventure playground",
+      "Community garden",
+      "Sanctuary Spa"
+    ],
+    "brochureUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403",
+    "floorPlanUrl": "https://cdn.opr.ae/upload/brochures/TheWilds%20Floorplans.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "official",
+          "label": "Aldar: Cassia Villas and Ravenna Residences",
+          "url": "https://www.aldar.com/properties/en/wilds/villas",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "community",
+          "label": "Aldar: The Wilds community",
+          "url": "https://www.aldar.com/properties/en/uae/dubai/the-wilds",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 90
+        },
+        {
+          "id": "plans",
+          "label": "Aldar Cassia and Ravenna plans, OPR-hosted copy",
+          "url": "https://cdn.opr.ae/upload/brochures/TheWilds%20Floorplans.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "Aldar: The Wilds brochure",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 0
+        },
+        {
+          "id": "finder",
+          "label": "Property Finder: The Wilds by Aldar",
+          "url": "https://www.propertyfinder.ae/en/new-projects/aldar-properties-pjsc/wilds-by-aldar",
+          "kind": "portal",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 190
+        },
+        {
+          "id": "results",
+          "label": "Aldar FY2025 results: project completion estimates",
+          "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Aldar%2BProperties%2BResults%2BPresentation%2BFY-2025-VF.pdf/a5e53f6e2c3e11f181666ed115eea297",
+          "kind": "official-document",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 10
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "official"
+        ],
+        "overview": [
+          "community"
+        ],
+        "location": [
+          "finder"
+        ],
+        "type": [
+          "official",
+          "plans"
+        ],
+        "bedrooms": [
+          "official",
+          "plans"
+        ],
+        "amenities": [
+          "official"
+        ],
+        "price": [
+          "finder"
+        ],
+        "units": [
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ],
+        "paymentPlan": [
+          "finder"
+        ],
+        "handover": [
+          "finder",
+          "results"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Own community and villa launch pages verified; separate Wilds Residences apartment record excluded.",
+        "location": "Dubailand, Dubai corroborated by Property Finder.",
+        "residences": "Cassia three/four/five-bedroom and Ravenna four/five-bedroom villas verified in own drawings.",
+        "areas": "Five representative drawings visually reviewed; original GSA square metres retained instead of conflicting rounded portal sizes.",
+        "amenities": "Official villa amenities and separately chargeable Aldar Plus services reviewed.",
+        "pricing": "Portal AED 5.1m launch reference recorded, not current inventory.",
+        "payment": "Portal 10/55/35 schedule checked; current individual dates unavailable.",
+        "handover": "Developer FY2025 table visually confirms 2029; quarter/month conflicts retained in the note and not presented as confirmed.",
+        "documents": "Official brochure cover and representative content visually checked; broker-hosted Aldar plans visually reviewed and attributed."
+      },
+      "community": "The Wilds · Cassia Villas and Ravenna Residences",
+      "overview": [
+        "The community is arranged around greenery and outdoor activities, with The Nest as a shared social destination. Its planting and wildlife features form part of the wider setting rather than a promise of a particular view from every home. Compare the selected plot with the approved community plan."
+      ],
+      "locationNote": "Property Finder places The Wilds in Dubailand, Dubai. Confirm the approach road and villa cluster before comparing daily travel routes.",
+      "priceLabel": "Portal-reported launch price",
+      "priceNote": "Property Finder gives AED 5.1m as the launch reference and marks developer stock sold out. This does not establish a currently available home or resale asking price. Obtain a dated quotation and purchase-cost breakdown.",
+      "paymentNote": "Property Finder reports 10% at booking, 55% during construction and 35% on handover. Remaining balances and dates depend on the selected contract and payments already made.",
+      "handoverNote": "Aldar’s FY2025 pipeline lists completion in 2029. Property Finder lists January 2029 in its key facts but April 2029 in its description and FAQ. The reviewed Aldar pages do not resolve the discrepancy; obtain the selected phase’s current contractual schedule.",
+      "units": [
+        {
+          "label": "Cassia · 3-bedroom Type 01/02",
+          "area": "276 sq m GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Cassia · 4-bedroom Type 01/02",
+          "area": "313 sq m GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Cassia · 5-bedroom Type 01/02",
+          "area": "413 sq m GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Ravenna · 4-bedroom villa",
+          "area": "505 sq m GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Ravenna · 5-bedroom villa",
+          "area": "620 sq m GSA",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Launch booking",
+          "percent": 10,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "During construction",
+          "percent": 55,
+          "sourceIds": [
+            "finder"
+          ]
+        },
+        {
+          "stage": "Estimated completion",
+          "percent": 35,
+          "sourceIds": [
+            "finder"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Comparing layouts",
+          "value": "The drawings distinguish gross saleable area from plot size. Cassia and Ravenna show ground and first floors; Ravenna’s larger footprint is a separate villa collection, not an apartment category.",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Optional services",
+          "value": "Aldar Plus lists housekeeping, gardening, pet care and other assistance on request for an additional fee. These services are not represented as included in the purchase price.",
+          "sourceIds": [
+            "official"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Completion dates conflict within the portal source and require developer confirmation.",
+        "Current stock, price, plot area, service charges and the payment contract remain unit-specific.",
+        "Private pools shown in drawings or renders are not confirmed as a standard inclusion.",
+        "Separate apartment and mansion releases must not inherit these villa sizes or payment terms. Images remain illustrative."
+      ]
+    }
+  }
+}

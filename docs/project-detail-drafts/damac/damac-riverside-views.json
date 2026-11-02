@@ -1,0 +1,299 @@
+{
+  "id": "damac-project-06",
+  "name": "DAMAC Riverside Views",
+  "developerSlug": "damac",
+  "fields": {
+    "description": "DAMAC Riverside Views is the apartment collection within DAMAC Riverside in Dubai Investments Park. Its named residential clusters sit around a planned waterway, with shared recreation, dining and wellness spaces. Original releases offered one- and two-bedroom homes; a separately documented Azure 2 release also includes studios.",
+    "areaId": "dubai-investments-park",
+    "location": "Dubai Investments Park",
+    "emirate": "Dubai",
+    "type": "Apartment",
+    "bedrooms": "Studio–2",
+    "price": 888000,
+    "handover": "Q1 2029 · launch document estimate",
+    "paymentPlan": "70/30 · release-specific terms",
+    "amenities": [
+      "Malibu Cove",
+      "Essential-oils lake",
+      "Hydroponic farm",
+      "Outdoor fitness stations",
+      "Climbing wall",
+      "Floating cinema and performance spaces",
+      "Children's adventure area",
+      "Community clubhouse",
+      "Waterfront dining",
+      "Cooking and barbecue spaces"
+    ],
+    "brochureUrl": "https://reelly-backend.s3.amazonaws.com/project_files/1c20c3a0189d42399ee7ddb6fee6a91f.pdf",
+    "floorPlanUrl": "https://www.toumehrealestate.com/storage/projects/riverside-views-marine-3/documents/5oeGDoz5mvWfHeNXotPPA91xTrUrPQQYJbSPYyxc.pdf",
+    "research": {
+      "status": "reviewed",
+      "reviewedOn": "2026-10-31",
+      "sources": [
+        {
+          "id": "developer",
+          "label": "DAMAC Riverside Views project page, developer preproduction host",
+          "url": "https://preprod.damacproperties.com/en/projects/damac-riverside-views/",
+          "kind": "developer",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 150
+        },
+        {
+          "id": "brochure",
+          "label": "DAMAC Riverside Views apartment brochure, broker-linked copy",
+          "url": "https://reelly-backend.s3.amazonaws.com/project_files/1c20c3a0189d42399ee7ddb6fee6a91f.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "facts",
+          "label": "DAMAC Riverside Views original fact sheet, Toumeh-hosted copy",
+          "url": "https://www.toumehrealestate.com/storage/projects/riverside-views-marine-3/documents/vsHzQ0eHucLItSIzTtU2Uf5A6TGYO9PopUJalXcy.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 200
+        },
+        {
+          "id": "plans",
+          "label": "DAMAC Riverside Views 47-page floor plans, broker-hosted copy",
+          "url": "https://www.toumehrealestate.com/storage/projects/riverside-views-marine-3/documents/5oeGDoz5mvWfHeNXotPPA91xTrUrPQQYJbSPYyxc.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "capri",
+          "label": "DAMAC Capri 1 launch payment sheet, broker-hosted copy",
+          "url": "https://almiraxproperties.com/api/media/file/16-9.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 180
+        },
+        {
+          "id": "azure",
+          "label": "DAMAC Azure 2 release fact sheet, broker-hosted copy",
+          "url": "https://almiraxproperties.com/api/media/file/13-22.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 170
+        },
+        {
+          "id": "azure-plan",
+          "label": "DAMAC Azure 2 regular payment sheet, broker-hosted copy",
+          "url": "https://almiraxproperties.com/api/media/file/14-14.pdf",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 130
+        },
+        {
+          "id": "tanami",
+          "label": "Tanami: Riverside Views launch payment reference",
+          "url": "https://www.tanamiproperties.com/Projects/Damac-Riverside-Views-PaymentPlan",
+          "kind": "broker",
+          "checkedOn": "2026-10-31",
+          "derivedWords": 25
+        }
+      ],
+      "fieldSources": {
+        "description": [
+          "developer",
+          "brochure",
+          "azure"
+        ],
+        "overview": [
+          "brochure"
+        ],
+        "location": [
+          "developer",
+          "facts"
+        ],
+        "type": [
+          "developer"
+        ],
+        "bedrooms": [
+          "developer",
+          "azure"
+        ],
+        "price": [
+          "facts"
+        ],
+        "handover": [
+          "facts",
+          "capri",
+          "azure-plan"
+        ],
+        "paymentPlan": [
+          "capri",
+          "azure-plan"
+        ],
+        "amenities": [
+          "developer",
+          "brochure"
+        ],
+        "units": [
+          "facts",
+          "azure",
+          "plans"
+        ],
+        "documents": [
+          "brochure",
+          "plans"
+        ]
+      },
+      "reviewCoverage": {
+        "identity": "Apartment collection separated from the Riverside townhouse community; named releases distinguished.",
+        "location": "Developer page and branded fact sheet identify Dubai Investments Park; no speculative coordinates assigned.",
+        "residences": "Original one/two-bedroom drawings and separate Azure 2 studio/one-bedroom release reviewed.",
+        "areas": "Original average figures inspected; summary omits measurement unit, so no unit assumed. Own plan pack includes drawings without total registered areas.",
+        "amenities": "Own apartment brochure and developer page reviewed; wider-community facilities described as planned and access subject to confirmation.",
+        "pricing": "Original advertised 888k one-bedroom guide distinguished from lower sampled Azure studios and other phase prices; document's 880k table discrepancy recorded.",
+        "payment": "Capri 1 launch stages total 100; Azure 2 uses a different deposit and quarterly-percent schedule, not merged.",
+        "handover": "Branded launch sheets show 31March2029, displayed as estimated quarter rather than a guaranteed day for every building.",
+        "documents": "Correct apartment brochure 33pages and own 47-page plan pack retrieved. Rejected broker brochure link resolving to41-page townhouse material. Relevant plan drawings and payment/table panels visually reviewed."
+      },
+      "community": "DAMAC Riverside · Riverside Views",
+      "overview": [
+        "The landscape programme combines water-based recreation with outdoor exercise, gardens and gathering spaces. The apartment brochure describes a floating cinema, performance venues and places for waterfront dining. These form part of the planned community experience; confirm which facilities belong to the chosen building and when they will operate."
+      ],
+      "locationNote": "The developer identifies Dubai Investments Park and road connections through the surrounding district. Confirm the actual building and access route: this apartment collection is distinct from the Riverside townhouses, and neither the project name nor a waterfront illustration establishes a natural river or a particular apartment outlook.",
+      "priceLabel": "Original launch guide · reconfirm",
+      "priceNote": "The original fact sheet advertises one-bedroom homes from AED 888,000 and two bedrooms from AED 1,315,000; its numerical summary separately lists a lower AED 880,000 minimum. The Capri 1 sheet instead starts at AED 993,000 for one bedroom. Azure 2 includes a sampled studio at AED 628,000 and quotes an average studio price of AED 748,000. These are different document/release references, not a current stock list.",
+      "paymentNote": "The stages below reproduce the Capri 1 launch schedule:20% deposit,50% through construction instalments and 30% at completion. The original factsheet shows the same structure. Azure 2's separate regular sheet starts with 10%, another 10% within two months, then a different instalment pattern. Obtain the actual unit's dated schedule before comparing deposits or monthly commitments.",
+      "handoverNote": "The reviewed original, Capri 1 and Azure 2 sheets print an anticipated completion date of 31March2029. The headline uses Q1 2029 as a document-based estimate; this does not establish that every later release has the same contractual date.",
+      "units": [
+        {
+          "label": "Original one-bedroom collection",
+          "area": "Published average 798; summary does not state its measurement unit. Confirm registered area and unit of measure.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Original two-bedroom collection",
+          "area": "Published average 1,331; measurement unit and balcony accounting require confirmation.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Azure 2 studio sample · A2/1/103",
+          "area": "385 published saleable-area units; measurement unit must be confirmed from the unit schedule",
+          "sourceIds": [
+            "azure"
+          ]
+        },
+        {
+          "label": "Marine 3 one-bedroom Type A1",
+          "area": "Level 1 drawing available; total registered area not printed on reviewed layout",
+          "sourceIds": [
+            "plans"
+          ]
+        },
+        {
+          "label": "Marine 3 two-bedroom Type B1",
+          "area": "Level 1 drawing available; total registered area requires confirmation",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "paymentStages": [
+        {
+          "stage": "Capri 1 launch: immediate deposit",
+          "percent": 20,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Months 3–13 from booking · 1% monthly",
+          "percent": 11,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Within month 14",
+          "percent": 5,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Months 15–20 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Within month 21",
+          "percent": 5,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Months 22–27 · 1% monthly",
+          "percent": 6,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Within month 28",
+          "percent": 5,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Months 29–40 · 1% monthly",
+          "percent": 12,
+          "sourceIds": [
+            "capri"
+          ]
+        },
+        {
+          "stage": "Completion",
+          "percent": 30,
+          "sourceIds": [
+            "capri"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "label": "Original documented release",
+          "value": "The original fact sheet totals 2,523 homes across the building groups it lists. It is a release schedule, not a verified total for every future Riverside Views building or remaining inventory.",
+          "sourceIds": [
+            "facts"
+          ]
+        },
+        {
+          "label": "Azure 2 scope difference",
+          "value": "The separate Azure 2 release sheet lists 720 studios and one-bedroom homes. The older factsheet instead lists 555 one/two-bedroom homes under Azure 2. Do not combine those totals without confirmation of the release and building codes.",
+          "sourceIds": [
+            "azure",
+            "facts"
+          ]
+        },
+        {
+          "label": "Document selection",
+          "value": "The plan pack labels its clusters and building variants. A floor-plan title alone does not establish a registered unit area or current availability.",
+          "sourceIds": [
+            "plans"
+          ]
+        }
+      ],
+      "unresolved": [
+        "Confirm the exact named cluster, building and release, registered area, parking, finishing specification and service charges.",
+        "The fact-sheet area summaries omit explicit measurement units; their figures have not been silently converted to square feet or square metres.",
+        "Current availability, release-specific prices, instalment dates, fees and final contractual completion require developer confirmation.",
+        "The main production developer URL returned403 during review; the developer-hosted preproduction page supports identity and setting but current commercial claims rely on separately identified documents.",
+        "Broader-community access and delivery remain subject to confirmation. Images are illustrative."
+      ]
+    }
+  }
+}
