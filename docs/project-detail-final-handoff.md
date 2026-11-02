@@ -91,4 +91,6 @@ The catalogue retains all protected IDs, slugs, aliases, owners and media. Devel
 
 ## Git handoff
 
-The user authorized a safe commit and push after final verification. The repository initially had an unborn `main` branch and no configured remote. Generated files, private enquiry data and environment secrets are excluded. Final commit and remote/push status are recorded in the final verification entry; no force-push or history rewrite is authorized.
+The user authorized a safe commit and push after final verification. Initial local snapshot commit: `67cb547c7bb440e7170511eae981ddbf8a640b9d` on `main`, containing 1,487 intended files. Generated files, private enquiry data and environment secrets are excluded; the staged credential-pattern scan found no matches. Existing licence text and legacy documentation whitespace were preserved.
+
+**Push is pending:** no Git remote is configured. The destination repository URL has been requested. No remote was guessed or created, and no push, force-push, history rewrite or website deployment occurred. Final verification and Git evidence are recorded in `docs/verification.md` and local ignored artifacts. Research is complete; further work is limited to the authorized Git handoff once the URL is supplied.
