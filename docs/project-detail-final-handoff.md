@@ -93,4 +93,6 @@ The catalogue retains all protected IDs, slugs, aliases, owners and media. Devel
 
 The user authorized a safe commit and push after final verification. Initial local snapshot commit: `67cb547c7bb440e7170511eae981ddbf8a640b9d` on `main`, containing 1,487 intended files. Generated files, private enquiry data and environment secrets are excluded; the staged credential-pattern scan found no matches. Existing licence text and legacy documentation whitespace were preserved.
 
-**Push is pending:** no Git remote is configured. The destination repository URL has been requested. No remote was guessed or created, and no push, force-push, history rewrite or website deployment occurred. Final verification and Git evidence are recorded in `docs/verification.md` and local ignored artifacts. Research is complete; further work is limited to the authorized Git handoff once the URL is supplied.
+The user supplied the intended repository on 3 November 2026: [emranyounasdxb-ai/aliyas-real-estate-web](https://github.com/emranyounasdxb-ai/aliyas-real-estate-web). `origin` now points to that exact repository. Fetch and remote-reference inspection succeeded and returned no existing branches or tags, so the destination is empty and no remote history will be overwritten.
+
+The verified local `main` branch is prepared for a normal initial push. The final remote commit and push result are recorded in the subsequent verification checkpoint. No force-push, history rewrite or website deployment is part of this handoff.
