@@ -1,0 +1,54 @@
+{
+  "projectId": "damac-project-04",
+  "projectSlug": "chelsea-residences",
+  "developerSlug": "damac",
+  "checkedOn": "2026-11-06",
+  "community": "Dubai Maritime City, Dubai",
+  "road": "Dubai Maritime City waterfront near Port Rashid",
+  "pin": {
+    "latitude": 25.279713579765,
+    "longitude": 55.259709542329,
+    "sourceUrl": "https://preprod.damacproperties.com/en/projects/chelsea-residences/",
+    "scope": "DAMAC’s published development marker. Confirm access for your tower."
+  },
+  "sourceLabel": "DAMAC Chelsea Residences brochure · NAAUV-hosted copy · page 8",
+  "travel": {
+    "sourceUrl": "https://naauv.com/projects/19/brochures/14",
+    "page": 8,
+    "scope": "Approximate travel times on DAMAC’s map and caption.",
+    "destinations": [
+      {
+        "name": "J1 Beach",
+        "minutes": 14
+      },
+      {
+        "name": "City Walk",
+        "minutes": 15
+      },
+      {
+        "name": "Metro · station unspecified",
+        "minutes": 18
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 22
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 23
+      }
+    ]
+  },
+  "travelNote": "The brochure does not name the metro station. Use directions for current road routes.",
+  "map": {
+    "src": "/images/projects/damac/chelsea-residences/location-b225c71f6f97.png",
+    "sha256": "b225c71f6f97c94bfceefef133e88fc31173ab28a85e97dc0be0b0e32c62709d",
+    "originalBytes": 1674290,
+    "width": 2600,
+    "height": 920,
+    "sourceUrl": "https://naauv.com/projects/19/brochures/14#page=8",
+    "alt": "DAMAC regional map marking Chelsea Residences in Dubai Maritime City and showing nearby destinations.",
+    "scope": "Regional diagram from DAMAC. Access varies by tower.",
+    "caption": "Chelsea Residences on the Dubai Maritime City waterfront, DAMAC brochure page 8."
+  }
+}

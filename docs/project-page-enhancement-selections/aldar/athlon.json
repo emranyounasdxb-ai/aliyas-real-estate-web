@@ -1,0 +1,179 @@
+{
+  "id": "aldar-project-15",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/uae/dubai/athlon",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "villa-dining",
+    "villa-bedroom",
+    "cycle-bridge"
+  ],
+  "location": {
+    "community": "Athlon, Dubailand",
+    "road": "Near Global Village, between the E311 and E611 corridors",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-map.png",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=9",
+      "alt": "Aldar map marking the Athlon site near Global Village in Dubailand.",
+      "caption": "Athlon in the wider Dubai road network, from Aldar’s brochure, page 9.",
+      "scope": "The development outline shows the master community. Confirm your cluster entrance."
+    },
+    "sourceLabel": "Aldar Athlon brochure · page 9",
+    "travel": {
+      "sourceUrl": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+      "page": 9,
+      "scope": "Aldar’s approximate community travel times.",
+      "destinations": [
+        {
+          "name": "Jumeirah Beach",
+          "minutes": 30
+        },
+        {
+          "name": "Dubai Mall, Downtown and Burj Khalifa",
+          "minutes": 30
+        }
+      ]
+    },
+    "travelNote": "The brochure gives 25 minutes to Dubai International Airport in its text and 30 on its map. Use current routing for airport trips and check your cluster entrance."
+  },
+  "floorPlans": {
+    "label": "Aldar Athlon brochure and layouts",
+    "introduction": "Compare the published townhouse, standard villa and premium villa layouts. The six-bedroom premium example includes its second floor.",
+    "selectorLabel": "Choose an Athlon floor plan",
+    "note": "These drawings illustrate typical layouts. Confirm the signed plans and areas for the selected home and release.",
+    "cache": "artifacts/project-page-enhancement/athlon/brochure.pdf",
+    "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+    "plans": [
+      {
+        "sourcePage": 33,
+        "label": "3 BR townhouse",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "4 BR townhouse",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-34.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "3 BR villa · Standard",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-39.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "4 BR villa · Standard",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-44.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "5 BR villa · Standard",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-49.png"
+      },
+      {
+        "sourcePage": 55,
+        "label": "4 BR villa · Premium",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-55.png"
+      },
+      {
+        "sourcePage": 60,
+        "label": "5 BR villa · Premium",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-60.png"
+      },
+      {
+        "sourcePage": 65,
+        "label": "6 BR villa · Premium",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/athlon/plan-65.png"
+      }
+    ]
+  },
+  "review": {
+    "images": "The official Athlon brochure provides distinct townhouse and premium villa elevations and the clubhouse, activity bridge and villa interior renders. Several standard villa and interior images also appear in The Wilds villa brochure. Those shared scenes were excluded from this gallery. JPEG 2000 source images were converted to lossless WebP for browser delivery.",
+    "location": "Physical page 9 shows the Athlon master community. The map and running copy agree on the community but give 30 and 25 minutes to DXB, respectively. The discrepancy is shown in the note and omitted from the numeric destinations.",
+    "floorPlans": "Visually checked all eight published townhouse and standard and premium villa sheets, including three levels on page 65. Property Finder hosts seven matching plan images. Some portal area entries cannot be reconciled with the sheet labels, including the five-bedroom premium example. No unverified area was assigned to a drawing."
+  },
+  "unavailable": [
+    "Drawing-specific signed floor areas, confirmed cluster entrances and a single consistent airport travel time."
+  ],
+  "slug": "athlon",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/athlon/",
+  "images": [
+    {
+      "name": "townhouse-street",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p29-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=29",
+      "label": "Athlon townhouses from the street",
+      "position": "50% 50%",
+      "alt": "Aldar render showing athlon townhouses from the street."
+    },
+    {
+      "name": "premium-villa",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p54-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=54",
+      "label": "Four-bedroom premium Pillar villa from the garden",
+      "position": "50% 50%",
+      "alt": "Aldar render showing four-bedroom premium Pillar villa from the garden."
+    },
+    {
+      "name": "villa-dining",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p71-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=71",
+      "label": "Villa kitchen and dining area",
+      "position": "50% 50%",
+      "alt": "Aldar render showing villa kitchen and dining area."
+    },
+    {
+      "name": "villa-bedroom",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p69-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=69",
+      "label": "Villa bedroom opening to a balcony",
+      "position": "50% 50%",
+      "alt": "Aldar render showing villa bedroom opening to a balcony."
+    },
+    {
+      "name": "cycle-bridge",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p21-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=21",
+      "label": "Cycle and pedestrian bridge through the community",
+      "position": "50% 50%",
+      "alt": "Aldar render showing cycle and pedestrian bridge through the community."
+    },
+    {
+      "name": "clubhouse",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p12-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=12",
+      "label": "Athlon clubhouse and outdoor paths",
+      "position": "50% 50%",
+      "alt": "Aldar render showing athlon clubhouse and outdoor paths."
+    },
+    {
+      "name": "activity-park",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p19-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=19",
+      "label": "Outdoor fitness park beside the running route",
+      "position": "50% 50%",
+      "alt": "Aldar render showing outdoor fitness park beside the running route."
+    },
+    {
+      "name": "pool-club",
+      "cache": "artifacts/project-page-enhancement/athlon/brochure-p20-0.webp",
+      "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf#page=20",
+      "label": "Community pool and clubhouse",
+      "position": "50% 50%",
+      "alt": "Aldar render showing community pool and clubhouse."
+    }
+  ],
+  "cardName": "townhouse-street"
+}

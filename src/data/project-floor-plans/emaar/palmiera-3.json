@@ -1,0 +1,62 @@
+{
+  "projectId": "emaar-project-90",
+  "projectSlug": "palmiera-3",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PALMIERA-3_floorplan.pdf",
+    "label": "Emaar Palmiera 3 original floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/palmiera-3/floor-plans-f75baac0e8f7.pdf",
+    "sha256": "f75baac0e8f708e76851711396d2c775e5075cd093f73d8caecccbb3c467c93a"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the Classic, Contemporary and Chamfer four-bedroom layouts for Palmiera 3. Each plan includes the three levels and the original area table.",
+  "selectorLabel": "Choose a Palmiera 3 villa floor plan",
+  "note": "The plans show an owner-provided pool and include the listed carport, terrace and driver’s room in the printed totals. Confirm the specifications for the chosen villa.",
+  "plans": [
+    {
+      "label": "4 BR · Classic",
+      "area": "5,665.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/palmiera-3/plan-page-2-df7e4c18d23e.webp",
+      "sha256": "df7e4c18d23ecc224f3fad125bb86917df14bae1c318c293185f6a25e8050b57",
+      "originalBytes": 1170838,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "4 BR · Contemporary",
+      "area": "5,885.27 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/palmiera-3/plan-page-3-400fecba6bd3.webp",
+      "sha256": "400fecba6bd33aef874f37a195a7f99d64f08c2d5921dbd9c4014d3183dd6bb8",
+      "originalBytes": 1174160,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "4 BR · Chamfer",
+      "area": "5,913.79 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/palmiera-3/plan-page-4-cdbaab57cea5.webp",
+      "sha256": "cdbaab57cea5310b0b3f32f73072de9532cf5736111e23e8b35389ca5b836fe3",
+      "originalBytes": 1165906,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

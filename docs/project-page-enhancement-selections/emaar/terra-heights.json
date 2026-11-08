@@ -1,0 +1,750 @@
+{
+  "id": "emaar-project-100",
+  "slug": "terra-heights",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/terra-heights-at-expo-living",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "hero",
+      "label": "Terra Heights residences around the putting green",
+      "url": "https://www.emaar.com/cms-media/uploads/394578_property_Hero_Image_2a1496ea54_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/official-hero.jpg",
+      "position": "53% 50%",
+      "alt": "Terra Heights developer render: terra heights residences around the putting green. Proposed architecture or community setting."
+    },
+    {
+      "name": "expo-view",
+      "label": "View toward Expo City and the elevated railway",
+      "url": "https://www.emaar.com/cms-media/uploads/394626_exterior_0_7807c6e52d_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394626_exterior_0_7807c6e52d_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Terra Heights developer render: view toward expo city and the elevated railway. Proposed architecture or community setting."
+    },
+    {
+      "name": "rail-elevation",
+      "label": "Terra Heights residences beside the elevated rail line",
+      "url": "https://www.emaar.com/cms-media/uploads/394634_exterior_1_de7dcd9683_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394634_exterior_1_de7dcd9683_prod.jpg",
+      "position": "53% 48%",
+      "alt": "Terra Heights developer render: terra heights residences beside the elevated rail line. Proposed architecture or community setting."
+    },
+    {
+      "name": "playground",
+      "label": "Outdoor play area beside Terra Heights residences",
+      "url": "https://www.emaar.com/cms-media/uploads/394650_exterior_3_4d99ffdb80_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394650_exterior_3_4d99ffdb80_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Terra Heights developer render: outdoor play area beside terra heights residences. Proposed architecture or community setting."
+    },
+    {
+      "name": "lobby",
+      "label": "Terra Heights lobby and seating area",
+      "url": "https://www.emaar.com/cms-media/uploads/394666_interior_0_fc796269fd_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394666_interior_0_fc796269fd_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Terra Heights developer render: terra heights lobby and seating area. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Living room with corner windows toward Expo City",
+      "url": "https://www.emaar.com/cms-media/uploads/394674_interior_1_8c9f434ca0_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394674_interior_1_8c9f434ca0_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Terra Heights developer render: living room with corner windows toward expo city. Finishes and outlook vary by home."
+    },
+    {
+      "name": "bedroom",
+      "label": "Terra Heights bedroom with a balcony outlook",
+      "url": "https://www.emaar.com/cms-media/uploads/394682_interior_2_cd99a5b198_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-heights/394682_interior_2_cd99a5b198_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Terra Heights developer render: terra heights bedroom with a balcony outlook. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "rail-elevation",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Expo Living, Dubai South",
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf#page=5",
+      "cache": "artifacts/project-page-enhancement/terra-heights/connectivity.png",
+      "alt": "Emaar regional map placing Expo Living beside Expo City",
+      "scope": "Regional map in the Terra Heights brochure."
+    },
+    "travelHeading": "Walking and driving estimates in the Emaar brochure",
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf",
+      "page": 5,
+      "scope": "Expo Living launch estimates. The Expo City estimate is on foot.",
+      "destinations": [
+        {
+          "name": "Expo City · walk",
+          "minutes": 5
+        },
+        {
+          "name": "Al Maktoum International Airport · drive",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina · drive",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "Emaar gives a walking estimate for Expo City and driving estimates for the airport and Dubai Marina. Its map marks the Blue Line as future. Confirm the route from your building.",
+    "pin": {
+      "latitude": 24.970692930122798,
+      "longitude": 55.146024000000004,
+      "sourceUrl": "https://www.emaar.com/en/properties/terra-heights-at-expo-living",
+      "scope": "Emaar’s published Terra Heights reference point. Confirm the entrance for your building."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Terra Heights Building 3 original floor plans",
+    "additionalDocuments": [
+      {
+        "id": "building-1",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T1.pdf",
+        "cache": "artifacts/project-details/emaar/terra-heights-extra-2.pdf",
+        "label": "Emaar Terra Heights Building 1 · Mitchell’s broker-hosted copy"
+      },
+      {
+        "id": "building-2",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T2.pdf",
+        "cache": "artifacts/project-details/emaar/terra-heights-extra-3.pdf",
+        "label": "Emaar Terra Heights Building 2 · Mitchell’s broker-hosted copy"
+      },
+      {
+        "id": "building-4",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/terra-heights/TERRAHEIGHTS_XL_FLOORPLAN_T4.pdf",
+        "cache": "artifacts/project-details/emaar/terra-heights-extra-5.pdf",
+        "label": "Emaar Terra Heights Building 4 · Mitchell’s broker-hosted copy"
+      }
+    ],
+    "introduction": "Compare one- and two-bedroom apartments across all four buildings. Each sheet gives the exact building and unit groups and keeps the original floor key.",
+    "selectorLabel": "Choose a Terra Heights building and layout",
+    "note": "Similar layouts have different printed areas by unit and building. Totals include the balcony area shown on the selected sheet. Building 3 is hosted by Emaar. Buildings 1, 2 and 4 are Emaar booklets hosted by Mitchell’s. Confirm the signed area for your unit.",
+    "url": "https://www.emaar.com/cms-media/uploads/Terra-Heights_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/terra-heights-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "Building 3 · 1 BR · 301",
+        "area": "744.11 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          744.11
+        ],
+        "areaCalculation": "664.03 + 80.08 = 744.11 sq ft. Printed total 744.11 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-03.png"
+      },
+      {
+        "label": "Building 3 · 1 BR · 102 / 302",
+        "area": "733.13 sq ft (see 102 group on sheet) / 728.18 sq ft (see 302 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          733.13,
+          728.18
+        ],
+        "areaCalculation": "see 102 group on sheet: 658.32 + 74.81 = 733.13 sq ft. Printed total 733.13 sq ft. see 302 group on sheet: 649.92 + 78.25 = 728.17 sq ft. Printed total 728.18 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-04.png"
+      },
+      {
+        "label": "Building 3 · 1 BR · 105 / 109",
+        "area": "733.13 sq ft (see 105 group on sheet) / 749.06 sq ft (see 109 group on sheet)",
+        "sourcePage": 5,
+        "areaValues": [
+          733.13,
+          749.06
+        ],
+        "areaCalculation": "see 105 group on sheet: 652.62 + 80.51 = 733.13 sq ft. Printed total 733.13 sq ft. see 109 group on sheet: 670.70 + 78.36 = 749.06 sq ft. Printed total 749.06 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-05.png"
+      },
+      {
+        "label": "Building 3 · 1 BR · 108",
+        "area": "755.95 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          755.95
+        ],
+        "areaCalculation": "676.08 + 79.87 = 755.95 sq ft. Printed total 755.95 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-06.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 103 / 321",
+        "area": "1,095.98 sq ft (see 103 group on sheet) / 1,105.13 sq ft (see 321 group on sheet)",
+        "sourcePage": 7,
+        "areaValues": [
+          1095.98,
+          1105.13
+        ],
+        "areaCalculation": "see 103 group on sheet: 1015.36 + 80.62 = 1095.98 sq ft. Printed total 1095.98 sq ft. see 321 group on sheet: 1023.22 + 81.91 = 1105.13 sq ft. Printed total 1105.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-07.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 104 / 110",
+        "area": "1,097.38 sq ft (see 104 group on sheet) / 1,102.87 sq ft (see 110 group on sheet)",
+        "sourcePage": 8,
+        "areaValues": [
+          1097.38,
+          1102.87
+        ],
+        "areaCalculation": "see 104 group on sheet: 1015.47 + 81.91 = 1097.38 sq ft. Printed total 1097.38 sq ft. see 110 group on sheet: 1023.22 + 79.65 = 1102.87 sq ft. Printed total 1102.87 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-08.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 107 / 112",
+        "area": "1,108.58 sq ft (see 107 group on sheet) / 1,100.50 sq ft (see 112 group on sheet)",
+        "sourcePage": 9,
+        "areaValues": [
+          1108.58,
+          1100.5
+        ],
+        "areaCalculation": "see 107 group on sheet: 1025.05 + 83.53 = 1108.58 sq ft. Printed total 1108.58 sq ft. see 112 group on sheet: 1019.99 + 80.51 = 1100.50 sq ft. Printed total 1100.50 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-09.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 101",
+        "area": "1,111.27 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1111.27
+        ],
+        "areaCalculation": "1027.74 + 83.53 = 1111.27 sq ft. Printed total 1111.27 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-10.png"
+      },
+      {
+        "label": "Building 3 · 1 BR · 201 / 220",
+        "area": "845.18 sq ft (see 201 group on sheet) / 837.86 sq ft (see 220 group on sheet)",
+        "sourcePage": 11,
+        "areaValues": [
+          845.18,
+          837.86
+        ],
+        "areaCalculation": "see 201 group on sheet: 664.03 + 181.16 = 845.19 sq ft. Printed total 845.18 sq ft. see 220 group on sheet: 658.21 + 179.65 = 837.86 sq ft. Printed total 837.86 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-11.png"
+      },
+      {
+        "label": "Building 3 · 1 BR · 202",
+        "area": "829.57 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          829.57
+        ],
+        "areaCalculation": "650.14 + 179.43 = 829.57 sq ft. Printed total 829.57 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-12.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 205 / 221",
+        "area": "1,202.87 sq ft (see 205 group on sheet) / 1,210.72 sq ft (see 221 group on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1202.87,
+          1210.72
+        ],
+        "areaCalculation": "see 205 group on sheet: 1015.36 + 187.51 = 1202.87 sq ft. Printed total 1202.87 sq ft. see 221 group on sheet: 1023.43 + 187.29 = 1210.72 sq ft. Printed total 1210.72 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-13.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 206",
+        "area": "1,207.82 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1207.82
+        ],
+        "areaCalculation": "1020.10 + 187.72 = 1207.82 sq ft. Printed total 1207.82 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-14.png"
+      },
+      {
+        "label": "Building 3 · 2 BR · 219",
+        "area": "1,215.46 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1215.46
+        ],
+        "areaCalculation": "1027.74 + 187.72 = 1215.46 sq ft. Printed total 1215.46 sq ft.",
+        "cache": "artifacts/project-page-enhancement/terra-heights/plan-15.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 301",
+        "area": "744.00 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          744
+        ],
+        "areaCalculation": "665.21 + 78.79 = 744.00 sq ft. Printed total 744.00 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-03.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 102 / 302",
+        "area": "734.64 sq ft (see 102 group on sheet) / 728.29 sq ft (see 302 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          734.64,
+          728.29
+        ],
+        "areaCalculation": "see 102 group on sheet: 658.21 + 76.42 = 734.63 sq ft. Printed total 734.64 sq ft. see 302 group on sheet: 650.03 + 78.25 = 728.28 sq ft. Printed total 728.29 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-04.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 105 / 109",
+        "area": "733.13 sq ft (see 105 group on sheet) / 749.17 sq ft (see 109 group on sheet)",
+        "sourcePage": 5,
+        "areaValues": [
+          733.13,
+          749.17
+        ],
+        "areaCalculation": "see 105 group on sheet: 652.62 + 80.51 = 733.13 sq ft. Printed total 733.13 sq ft. see 109 group on sheet: 670.81 + 78.36 = 749.17 sq ft. Printed total 749.17 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-05.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 108",
+        "area": "755.84 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          755.84
+        ],
+        "areaCalculation": "675.97 + 79.87 = 755.84 sq ft. Printed total 755.84 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-06.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 103 / 321",
+        "area": "1,096.09 sq ft (see 103 group on sheet) / 1,105.13 sq ft (see 321 group on sheet)",
+        "sourcePage": 7,
+        "areaValues": [
+          1096.09,
+          1105.13
+        ],
+        "areaCalculation": "see 103 group on sheet: 1015.47 + 80.62 = 1096.09 sq ft. Printed total 1096.09 sq ft. see 321 group on sheet: 1023.22 + 81.91 = 1105.13 sq ft. Printed total 1105.13 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-07.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 104 / 110",
+        "area": "1,097.27 sq ft (see 104 group on sheet) / 1,103.09 sq ft (see 110 group on sheet)",
+        "sourcePage": 8,
+        "areaValues": [
+          1097.27,
+          1103.09
+        ],
+        "areaCalculation": "see 104 group on sheet: 1015.36 + 81.91 = 1097.27 sq ft. Printed total 1097.27 sq ft. see 110 group on sheet: 1023.43 + 79.65 = 1103.08 sq ft. Printed total 1103.09 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-08.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 107 / 112",
+        "area": "1,108.58 sq ft (see 107 group on sheet) / 1,100.50 sq ft (see 112 group on sheet)",
+        "sourcePage": 9,
+        "areaValues": [
+          1108.58,
+          1100.5
+        ],
+        "areaCalculation": "see 107 group on sheet: 1025.05 + 83.53 = 1108.58 sq ft. Printed total 1108.58 sq ft. see 112 group on sheet: 1019.99 + 80.51 = 1100.50 sq ft. Printed total 1100.50 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-09.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 101",
+        "area": "1,110.08 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1110.08
+        ],
+        "areaCalculation": "1026.55 + 83.53 = 1110.08 sq ft. Printed total 1110.08 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-10.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 201 / 220",
+        "area": "845.18 sq ft (see 201 group on sheet) / 837.86 sq ft (see 220 group on sheet)",
+        "sourcePage": 11,
+        "areaValues": [
+          845.18,
+          837.86
+        ],
+        "areaCalculation": "see 201 group on sheet: 664.03 + 181.16 = 845.19 sq ft. Printed total 845.18 sq ft. see 220 group on sheet: 658.21 + 179.65 = 837.86 sq ft. Printed total 837.86 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-11.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · 202",
+        "area": "829.68 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          829.68
+        ],
+        "areaCalculation": "650.03 + 179.65 = 829.68 sq ft. Printed total 829.68 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-12.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 205 / 221",
+        "area": "1,202.87 sq ft (see 205 group on sheet) / 1,210.62 sq ft (see 221 group on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1202.87,
+          1210.62
+        ],
+        "areaCalculation": "see 205 group on sheet: 1015.36 + 187.51 = 1202.87 sq ft. Printed total 1202.87 sq ft. see 221 group on sheet: 1023.11 + 187.51 = 1210.62 sq ft. Printed total 1210.62 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-13.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 206",
+        "area": "1,207.93 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1207.93
+        ],
+        "areaCalculation": "1020.20 + 187.72 = 1207.92 sq ft. Printed total 1207.93 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-14.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · 219",
+        "area": "1,215.68 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1215.68
+        ],
+        "areaCalculation": "1027.85 + 187.83 = 1215.68 sq ft. Printed total 1215.68 sq ft.",
+        "documentId": "building-1",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-1/plan-15.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 301",
+        "area": "743.79 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          743.79
+        ],
+        "areaCalculation": "665.21 + 78.58 = 743.79 sq ft. Printed total 743.79 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-03.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 102 / 302",
+        "area": "734.64 sq ft (see 102 group on sheet) / 728.29 sq ft (see 302 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          734.64,
+          728.29
+        ],
+        "areaCalculation": "see 102 group on sheet: 658.21 + 76.42 = 734.63 sq ft. Printed total 734.64 sq ft. see 302 group on sheet: 650.03 + 78.25 = 728.28 sq ft. Printed total 728.29 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-04.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 105",
+        "area": "733.13 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          733.13
+        ],
+        "areaCalculation": "652.62 + 80.51 = 733.13 sq ft. Printed total 733.13 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-05.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 314",
+        "area": "755.84 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          755.84
+        ],
+        "areaCalculation": "675.97 + 79.87 = 755.84 sq ft. Printed total 755.84 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-06.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 103",
+        "area": "1,095.98 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          1095.98
+        ],
+        "areaCalculation": "1015.47 + 80.51 = 1095.98 sq ft. Printed total 1095.98 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-07.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 104 / 315",
+        "area": "1,097.27 sq ft (see 104 group on sheet) / 1,123.54 sq ft (see 315 group on sheet)",
+        "sourcePage": 8,
+        "areaValues": [
+          1097.27,
+          1123.54
+        ],
+        "areaCalculation": "see 104 group on sheet: 1015.36 + 81.91 = 1097.27 sq ft. Printed total 1097.27 sq ft. see 315 group on sheet: 1043.88 + 79.65 = 1123.53 sq ft. Printed total 1123.54 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-08.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 107 / 306",
+        "area": "1,108.58 sq ft (see 107 group on sheet) / 1,103.52 sq ft (see 306 group on sheet)",
+        "sourcePage": 9,
+        "areaValues": [
+          1108.58,
+          1103.52
+        ],
+        "areaCalculation": "see 107 group on sheet: 1025.05 + 83.53 = 1108.58 sq ft. Printed total 1108.58 sq ft. see 306 group on sheet: 1020.10 + 83.42 = 1103.52 sq ft. Printed total 1103.52 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-09.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 101",
+        "area": "1,111.37 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1111.37
+        ],
+        "areaCalculation": "1027.95 + 83.42 = 1111.37 sq ft. Printed total 1111.37 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-10.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 319",
+        "area": "1,113.74 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1113.74
+        ],
+        "areaCalculation": "1031.83 + 81.91 = 1113.74 sq ft. Printed total 1113.74 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-11.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 201",
+        "area": "845.18 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          845.18
+        ],
+        "areaCalculation": "664.03 + 181.16 = 845.19 sq ft. Printed total 845.18 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-12.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 202",
+        "area": "829.57 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          829.57
+        ],
+        "areaCalculation": "650.03 + 179.54 = 829.57 sq ft. Printed total 829.57 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-13.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 205",
+        "area": "1,202.97 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1202.97
+        ],
+        "areaCalculation": "1015.36 + 187.61 = 1202.97 sq ft. Printed total 1202.97 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-14.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · 206",
+        "area": "1,207.82 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1207.82
+        ],
+        "areaCalculation": "1019.99 + 187.83 = 1207.82 sq ft. Printed total 1207.82 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-15.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · 214",
+        "area": "855.84 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          855.84
+        ],
+        "areaCalculation": "675.87 + 179.97 = 855.84 sq ft. Printed total 855.84 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-2/plan-16.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 301",
+        "area": "743.25 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          743.25
+        ],
+        "areaCalculation": "663.16 + 80.08 = 743.24 sq ft. Printed total 743.25 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-03.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 102 / 302",
+        "area": "733.56 sq ft (see 102 group on sheet) / 727.96 sq ft (see 302 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          733.56,
+          727.96
+        ],
+        "areaCalculation": "see 102 group on sheet: 657.14 + 76.42 = 733.56 sq ft. Printed total 733.56 sq ft. see 302 group on sheet: 649.71 + 78.25 = 727.96 sq ft. Printed total 727.96 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-04.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 105",
+        "area": "734.21 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          734.21
+        ],
+        "areaCalculation": "653.69 + 80.51 = 734.20 sq ft. Printed total 734.21 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-05.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 314",
+        "area": "756.70 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          756.7
+        ],
+        "areaCalculation": "676.83 + 79.87 = 756.70 sq ft. Printed total 756.70 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-06.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 103",
+        "area": "1,095.55 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          1095.55
+        ],
+        "areaCalculation": "1015.47 + 80.08 = 1095.55 sq ft. Printed total 1095.55 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-07.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 104 / 315",
+        "area": "1,097.38 sq ft (see 104 group on sheet) / 1,122.57 sq ft (see 315 group on sheet)",
+        "sourcePage": 8,
+        "areaValues": [
+          1097.38,
+          1122.57
+        ],
+        "areaCalculation": "see 104 group on sheet: 1015.47 + 81.91 = 1097.38 sq ft. Printed total 1097.38 sq ft. see 315 group on sheet: 1042.48 + 80.08 = 1122.56 sq ft. Printed total 1122.57 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-08.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 107 / 306",
+        "area": "1,109.11 sq ft (see 107 group on sheet) / 1,104.38 sq ft (see 306 group on sheet)",
+        "sourcePage": 9,
+        "areaValues": [
+          1109.11,
+          1104.38
+        ],
+        "areaCalculation": "see 107 group on sheet: 1025.69 + 83.42 = 1109.11 sq ft. Printed total 1109.11 sq ft. see 306 group on sheet: 1020.96 + 83.42 = 1104.38 sq ft. Printed total 1104.38 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-09.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 101",
+        "area": "1,112.23 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1112.23
+        ],
+        "areaCalculation": "1028.71 + 83.53 = 1112.24 sq ft. Printed total 1112.23 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-10.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 319",
+        "area": "1,111.16 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1111.16
+        ],
+        "areaCalculation": "1030.86 + 80.30 = 1111.16 sq ft. Printed total 1111.16 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-11.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 201",
+        "area": "844.32 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          844.32
+        ],
+        "areaCalculation": "663.38 + 180.94 = 844.32 sq ft. Printed total 844.32 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-12.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 202",
+        "area": "829.36 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          829.36
+        ],
+        "areaCalculation": "649.92 + 179.43 = 829.35 sq ft. Printed total 829.36 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-13.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 205",
+        "area": "1,203.94 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1203.94
+        ],
+        "areaCalculation": "1016.65 + 187.29 = 1203.94 sq ft. Printed total 1203.94 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-14.png"
+      },
+      {
+        "label": "Building 4 · 2 BR · 206",
+        "area": "1,208.68 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1208.68
+        ],
+        "areaCalculation": "1020.96 + 187.72 = 1208.68 sq ft. Printed total 1208.68 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-15.png"
+      },
+      {
+        "label": "Building 4 · 1 BR · 214",
+        "area": "856.70 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          856.7
+        ],
+        "areaCalculation": "676.83 + 179.86 = 856.69 sq ft. Printed total 856.70 sq ft.",
+        "documentId": "building-4",
+        "cache": "artifacts/project-page-enhancement/terra-heights/building-4/plan-16.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/terra-heights/",
+  "review": {
+    "images": "Visually reviewed the exact wide official hero and seven gallery images. Omitted the narrower crop of the putting-green hero. Selected the separate rail-side building elevation for the card.",
+    "location": "Confirmed Emaar’s named Terra Heights point and physical brochure page 5. Visually matched Expo Living, the future Blue Line legend and separate walking and driving figures.",
+    "floorPlans": "All 62 physical pages reviewed across the four exact Emaar building booklets. Retained 54 complete residence sheets and all 74 printed imperial unit-group totals. Checked suite and balcony amounts against printed totals within 0.01 sq ft. Building 3 is hosted by Emaar, and the matching Buildings 1, 2 and 4 originals are hosted by Mitchell’s. Original covers and plot keys were checked separately. Each sheet links to its own document and physical page."
+  },
+  "unavailable": [
+    "Individual building entrances and current signed unit plans were not verified."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "projectId": "meraas-project-22",
+  "projectSlug": "bulgari-ocean-mansions",
+  "developerSlug": "meraas",
+  "source": {
+    "url": "https://newdevelopments.ae/uploads/projects/Bvlgari-OceanMansions-Brochure_DigitalRevY_1664978103.pdf",
+    "label": "Meraas Bulgari Ocean Mansions brochure · New Developments portal mirror",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/meraas/bulgari-ocean-mansions/floor-plans-fd4270650dcc.pdf",
+    "sha256": "fd4270650dcc571fc949381b177bad374e8dbcd3d6d21dbeeb55eb63f624c90d"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3300,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "View the ground and first floors of the typical five-bedroom Bulgari Ocean Mansion.",
+  "selectorLabel": "Choose a mansion floor",
+  "note": "Both drawings state 12,837.58 sq ft total built-up area. Figures below the selector are the printed areas of the individual floors. Confirm the layout and measurements for the particular mansion.",
+  "plans": [
+    {
+      "label": "Typical 5 BR mansion · Ground floor",
+      "area": "6,568.63 sq ft ground-floor area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/meraas/bulgari-ocean-mansions/plan-page-26-4c8d4dc38a97.webp",
+      "sha256": "4c8d4dc38a9713b6f8500011ba68b38364dc344ba837c271bb902d4f76ec26a2",
+      "originalBytes": 429514,
+      "width": 3300,
+      "height": 1650
+    },
+    {
+      "label": "Typical 5 BR mansion · First floor",
+      "area": "6,268.95 sq ft first-floor area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/meraas/bulgari-ocean-mansions/plan-page-27-03411ea05004.webp",
+      "sha256": "03411ea050047f8d924098b61a158de521a0c79a52af1f2bffe4e5b12457961a",
+      "originalBytes": 288452,
+      "width": 3300,
+      "height": 1650
+    }
+  ]
+}

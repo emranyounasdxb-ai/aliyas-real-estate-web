@@ -1,0 +1,53 @@
+{
+  "projectId": "nakheel-project-10",
+  "projectSlug": "rixos-hotel-residences-dubai-islands",
+  "developerSlug": "nakheel",
+  "checkedOn": "2026-11-06",
+  "community": "Dubai Islands, Deira, Dubai",
+  "sourceLabel": "Nakheel Rixos Dubai Islands brochure · pages 12–13",
+  "travelHeading": "Approximate travel times from the Rixos Dubai Islands brochure. Distances are shown on the map.",
+  "travel": {
+    "sourceUrl": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/rixos-dubai-islands-hotels-residences.pdf?sfvrsn=d706c608_4",
+    "page": 8,
+    "scope": "Developer brochure estimates for the original Rixos Dubai Islands release.",
+    "destinations": [
+      {
+        "name": "Infinity Bridge",
+        "minutes": 6
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 18
+      },
+      {
+        "name": "BurJuman",
+        "minutes": 18
+      },
+      {
+        "name": "Cruise Terminal",
+        "minutes": 19
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 25
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 26
+      }
+    ]
+  },
+  "travelNote": "These are the original brochure estimates. Journey time can vary by route, traffic and building entrance.",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/nakheel/rixos-hotel-residences-dubai-islands/location-2d4c28cfe7d7.png",
+    "sha256": "2d4c28cfe7d7327b5b0be1abe73f58635bdd8f72f009c6d0503dd2f839851a2c",
+    "originalBytes": 1153142,
+    "width": 2400,
+    "height": 1201,
+    "sourceUrl": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/rixos-dubai-islands-hotels-residences.pdf?sfvrsn=d706c608_4#page=8",
+    "alt": "Nakheel’s Dubai Islands map with travel estimates and distances to six nearby destinations.",
+    "scope": "Developer diagram of the original release and regional destinations. Times and distances are from the printed source.",
+    "caption": "Rixos Dubai Islands connectivity map, Nakheel brochure pages 12–13."
+  }
+}

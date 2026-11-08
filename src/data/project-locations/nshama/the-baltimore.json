@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-10",
+  "projectSlug": "the-baltimore",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road",
+  "pin": {
+    "latitude": 25.008218,
+    "longitude": 55.288829,
+    "sourceUrl": "https://continentalclub.ae/project/the-baltimore-town-square/",
+    "scope": "Approximate building point published by Continental Club and checked against the Nshama master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/the-baltimore/location-a0b3d3899d28.png",
+    "sha256": "a0b3d3899d28f6c2645dcac64186d0dd8157261570327ee4b04864f7dcd2c02a",
+    "originalBytes": 3813916,
+    "width": 1980,
+    "height": 1134,
+    "sourceUrl": "https://oplusrealty.com/wp-content/uploads/2026/09/The-Baltimore-Brochure-Final.pdf#page=8",
+    "alt": "Nshama master plan showing the The Baltimore site within Town Square, Dubai.",
+    "scope": "The developer’s community master plan marks the project plot.",
+    "caption": "The Baltimore at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://oplusrealty.com/wp-content/uploads/2026/09/The-Baltimore-Brochure-Final.pdf#page=6",
+    "scope": "Approximate times from the wider Town Square community.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community estimates. The entrance, route and traffic can affect travel time."
+}

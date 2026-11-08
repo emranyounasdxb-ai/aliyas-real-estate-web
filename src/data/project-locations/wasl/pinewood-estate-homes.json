@@ -1,0 +1,41 @@
+{
+  "projectId": "wasl-project-06",
+  "projectSlug": "pinewood-estate-homes",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "community": "Me’aisem First, Jumeirah Golf Estates, Dubai",
+  "road": "Access via E311, E44 and Al Yalayis Street",
+  "pin": {
+    "latitude": 25.020444,
+    "longitude": 55.177889,
+    "sourceUrl": "https://www.wasl.ae/en/project/pinewood-estate-homes",
+    "scope": "Shared Jumeirah Golf Estates vicinity reference published on both Wasl’s Pinewood and Ashwood pages. It does not identify the selected home’s entrance. Confirm visitor access before travelling."
+  },
+  "map": {
+    "src": "/images/projects/wasl/pinewood-estate-homes/location-59800d00ede8.png",
+    "sha256": "59800d00ede846427a77cfdc799cb889857ca8da909bacd89949d03476658b4f",
+    "originalBytes": 3601880,
+    "width": 3200,
+    "height": 1800,
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/Pinewood%20Estate%20Homes%20Factsheet.pdf#page=27",
+    "alt": "Wasl regional schematic showing Jumeirah Golf Estates and Dubai destinations.",
+    "scope": "Community context only. The concentric numbered rings do not establish a particular home’s entrance, measured distance or current journey time.",
+    "caption": "Jumeirah Golf Estates regional context · official Pinewood factsheet."
+  },
+  "sourceLabel": "Wasl Pinewood Estate Homes project guide",
+  "travel": {
+    "sourceUrl": "https://www.wasl.ae/en/project/pinewood-estate-homes",
+    "scope": "Developer car-journey estimates for the Pinewood setting. Exact destination entrances, route and traffic are unspecified.",
+    "destinations": [
+      {
+        "name": "Al Barsha",
+        "minutes": 15
+      },
+      {
+        "name": "Discovery Gardens",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Use the selected home entrance and live route for travel. Etihad Rail is described as upcoming. Metro proximity does not establish a verified walking time."
+}

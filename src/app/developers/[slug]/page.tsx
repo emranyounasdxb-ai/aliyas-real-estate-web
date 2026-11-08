@@ -96,7 +96,7 @@ export default async function DeveloperPage({ params }: Props) {
         </div>
         <p className="developer-listings-notice">
           {listings.length
-            ? 'Project names checked against developer sources. Images are illustrative; full details and availability are to be confirmed.'
+            ? 'Project names are checked against developer sources. Image sources and available details appear on each project page. Confirm current availability.'
             : 'Verified project names will appear here as they are confirmed.'}
         </p>
         <DeveloperListings projects={listings} developerName={developer.name} />

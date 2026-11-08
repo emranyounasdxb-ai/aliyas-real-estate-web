@@ -1,0 +1,514 @@
+{
+  "slug": "inaura",
+  "id": "arada-project-01",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/inaura/",
+  "source": {
+    "name": "Arada",
+    "url": "https://www.arada.com/en/inaura-downtown/",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "inaura-night-tower",
+  "images": [
+    {
+      "name": "inaura-night-tower",
+      "cache": "artifacts/project-page-enhancement/inaura/website-inaura-hotels-gallery-01.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/inaura-hotels-gallery-01.jpg",
+      "label": "Proposed tower at night",
+      "alt": "Inaura developer render of tower at night.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-sky-panorama",
+      "cache": "artifacts/project-page-enhancement/inaura/website-inaura-hotels-hero-01.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/inaura-hotels-hero-01.jpg",
+      "label": "Proposed sky-level pool and skyline",
+      "alt": "Inaura developer render of sky-level pool and skyline.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-tower-crown",
+      "cache": "artifacts/project-page-enhancement/inaura/website-inaura-hotels-gallery-03.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/02/inaura-hotels-gallery-03.jpg",
+      "label": "Proposed tower crown",
+      "alt": "Inaura developer render of tower crown.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-arrival",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p8-2.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=8",
+      "label": "Proposed arrival beside Sanctum",
+      "alt": "Inaura developer concept render of arrival beside Sanctum.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-covered-arrival",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p9-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=9",
+      "label": "Proposed covered arrival",
+      "alt": "Inaura developer concept render of covered arrival.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-living",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p10-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=10",
+      "label": "Proposed living room",
+      "alt": "Inaura developer concept render of living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-balcony",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p10-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=10",
+      "label": "Proposed balcony seating",
+      "alt": "Inaura developer concept render of balcony seating.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-corridor",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p12-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=12",
+      "label": "Proposed private corridor",
+      "alt": "Inaura developer concept render of private corridor.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-bedroom",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p13-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=13",
+      "label": "Proposed bedroom",
+      "alt": "Inaura developer concept render of bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-lift-lobby",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p22-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=22",
+      "label": "Proposed lift lobby",
+      "alt": "Inaura developer concept render of lift lobby.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-home-lounge",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p23-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=23",
+      "label": "Proposed home lounge",
+      "alt": "Inaura developer concept render of home lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-curved-living",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p24-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=24",
+      "label": "Proposed curved living room",
+      "alt": "Inaura developer concept render of curved living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-loft-living",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p27-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=27",
+      "label": "Proposed double-height living room",
+      "alt": "Inaura developer concept render of double-height living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-suite-bedroom",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p28-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=28",
+      "label": "Proposed suite bedroom",
+      "alt": "Inaura developer concept render of suite bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-bathroom",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p28-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=28",
+      "label": "Proposed bathroom",
+      "alt": "Inaura developer concept render of bathroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-villa-living",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p30-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=30",
+      "label": "Proposed sky-villa living room",
+      "alt": "Inaura developer concept render of sky-villa living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-private-pool",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p33-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=33",
+      "label": "Proposed private pool terrace",
+      "alt": "Inaura developer concept render of private pool terrace.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-villa-lounge",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p33-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=33",
+      "label": "Proposed double-height villa lounge",
+      "alt": "Inaura developer concept render of double-height villa lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-penthouse-bedroom",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p35-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=35",
+      "label": "Proposed penthouse bedroom",
+      "alt": "Inaura developer concept render of penthouse bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-penthouse-bath",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p35-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=35",
+      "label": "Proposed penthouse bathroom",
+      "alt": "Inaura developer concept render of penthouse bathroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-restaurant",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p36-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=36",
+      "label": "Proposed restaurant",
+      "alt": "Inaura developer concept render of restaurant.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-sauna",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p37-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=37",
+      "label": "Proposed sauna",
+      "alt": "Inaura developer concept render of sauna.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-lobby",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p38-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=38",
+      "label": "Proposed lobby",
+      "alt": "Inaura developer concept render of lobby.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-pool-city",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p40-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=40",
+      "label": "Proposed pool and city view",
+      "alt": "Inaura developer concept render of pool and city view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-courtyard",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p40-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=40",
+      "label": "Proposed courtyard lounge",
+      "alt": "Inaura developer concept render of courtyard lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-pool-deck",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p41-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=41",
+      "label": "Proposed pool deck",
+      "alt": "Inaura developer concept render of pool deck.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-sanctum",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p42-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=42",
+      "label": "Proposed Sanctum venue",
+      "alt": "Inaura developer concept render of Sanctum venue.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-sanctum-front",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p42-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=42",
+      "label": "Proposed Sanctum facade",
+      "alt": "Inaura developer concept render of Sanctum facade.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-gym",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p43-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=43",
+      "label": "Proposed fitness space",
+      "alt": "Inaura developer concept render of fitness space.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-children",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p45-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=45",
+      "label": "Proposed children’s room",
+      "alt": "Inaura developer concept render of children’s room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-cinema",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p45-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=45",
+      "label": "Proposed cinema",
+      "alt": "Inaura developer concept render of cinema.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "inaura-sky-corridor",
+      "cache": "artifacts/project-page-enhancement/inaura/brochure-p46-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=46",
+      "label": "Proposed sky corridor",
+      "alt": "Inaura developer concept render of sky corridor.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "inaura-loft-living",
+    "inaura-bedroom"
+  ],
+  "location": {
+    "community": "Downtown Dubai",
+    "road": "Downtown Dubai · Business Bay vicinity",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/inaura/inaura-official-brochure-review-48.png",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=48",
+      "alt": "Complete original Inaura regional location and travel panel.",
+      "caption": "Inaura regional setting · original Arada brochure.",
+      "scope": "Schematic regional context. Diagram positions do not establish surveyed entrance coordinates."
+    },
+    "sourceLabel": "Original Inaura brochure · Arada",
+    "travel": {
+      "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=48",
+      "scope": "Published project-area journey estimates. Route, travel mode and traffic conditions are unspecified.",
+      "destinations": [
+        {
+          "name": "Dubai Opera",
+          "minutes": 5
+        },
+        {
+          "name": "Burj Khalifa",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai Mall Metro Station",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai Design District",
+          "minutes": 8
+        },
+        {
+          "name": "Akala Hotel and Residences",
+          "minutes": 8
+        },
+        {
+          "name": "DIFC Gate",
+          "minutes": 8
+        },
+        {
+          "name": "Museum of the Future",
+          "minutes": 8
+        },
+        {
+          "name": "One Central",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Frame",
+          "minutes": 12
+        },
+        {
+          "name": "Bvlgari Resort Dubai",
+          "minutes": 12
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 18
+        }
+      ]
+    },
+    "travelNote": "The brochure gives 18 minutes to Dubai International Airport and 8 to DIFC. The current official landing page instead gives 15 and 5 minutes. These source differences remain unresolved. Estimates require a current route check. An exact visitor entrance pin and road address remain unverified. Directions use the project name."
+  },
+  "floorPlans": {
+    "url": "https://strapiallsopp.s3.eu-west-1.amazonaws.com/Inaura_FP_a76b574d9f.pdf",
+    "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans.pdf",
+    "label": "Inaura · complete original plan pack · Allsopp & Allsopp broker mirror",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Explore the original apartment, sky-villa, penthouse and building drawings.",
+    "selectorLabel": "Choose a residence or building drawing",
+    "note": "All 25 options preserve complete original sheets from the broker-hosted 29-page pack. The official Arada brochure also contains these designs. Apartment figures follow the visible header ranges. Stale embedded engineering text is excluded. Villa and penthouse figures describe the whole multi-level home and repeat across its drawings without addition. Villa 2’s key-plan insets repeat Villa 1 information, while its own header gives 6,781 sq ft. Visible metric component sums differ from printed whole-home totals by 0.01 sq m. Some suite ranges and bedroom descriptions also conflict across sources. Confirm the contracted layout and revision.",
+    "plans": [
+      {
+        "sourcePage": 3,
+        "label": "Levels 15–18 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-03.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Levels 19–22 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Level 23 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Levels 24–31 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Levels 36–38 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Level 39 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Level 40 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Level 41 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Level 42 · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Roof · building floorplate",
+        "area": "Whole floor · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-12.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "1 BR A · Lumen",
+        "area": "705–834 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "1 BR B · Lumen",
+        "area": "715–782 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-16.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "2 BR A · Lumen",
+        "area": "1,272–1,508 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-17.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "2 BR B · Lumen",
+        "area": "1,627–1,685 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-18.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "2 BR C · Lumen",
+        "area": "1,426–1,437 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "2 BR D · Lumen",
+        "area": "1,344 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "3 BR · Lumen",
+        "area": "2,874–2,937 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-21.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "4 BR · Radiance",
+        "area": "4,034–4,667 sq ft",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-22.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "5 BR sky villa 1 · lower",
+        "area": "7,449 sq ft · whole home · page 23",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-23.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "5 BR sky villa 1 · upper",
+        "area": "7,449 sq ft · whole home · page 23",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "5 BR sky villa 2 · lower",
+        "area": "6,781 sq ft · whole home · page 25",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "5 BR sky villa 2 · upper",
+        "area": "6,781 sq ft · whole home · page 25",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "6 BR sky penthouse · lower",
+        "area": "17,770 sq ft · whole home · page 27",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "6 BR sky penthouse · upper",
+        "area": "17,770 sq ft · whole home · page 27",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "6 BR sky penthouse · roof",
+        "area": "17,770 sq ft · whole home · page 27",
+        "cache": "artifacts/project-page-enhancement/inaura/inaura-official-plans-review-29.png"
+      }
+    ],
+    "additionalDocuments": []
+  },
+  "review": {
+    "imagery": "Root visually inspected all 43 native brochure candidates and seven observed website images. Selected 32 own-project concept renders. Duplicate crops, generic lifestyle people, textures and unassociated skyline imagery were excluded. Original masters and source notices are retained. No as-built status is inferred.",
+    "floorPlans": "Root reviewed every complete selected sheet, all visible residence header panels and ten building floorplates. Physical pages 3–12 and 15–29 are delivered unchanged. The full 29-page Allsopp & Allsopp mirror remains explicitly attributed. Visible header ranges take precedence over hidden BIM strings. Whole-home areas, Villa 2 inset conflict and rounding discrepancies remain qualified.",
+    "location": "Root read the complete original physical brochure spread 48 and all twelve travel estimates. The current official page airport and DIFC differences remain explicit. No kilometre distances, exact street or entrance coordinates were inferred.",
+    "provenance": "Original official brochure, current official HTML, observed website images and broker plan PDF have ordinary public-GET receipts dated 7 November 2026 with exact URLs, bytes and SHA256. No enquiries or access-challenge bypass. Canonical text and protected identity are preserved."
+  },
+  "unavailable": [
+    "Exact entrance coordinates, a verified road address and live journey times remain unavailable. Airport/DIFC travel estimates and villa inset, metric rounding and suite-range conflicts require confirmation."
+  ]
+}

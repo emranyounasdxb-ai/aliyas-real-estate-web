@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-47",
+  "projectSlug": "golf-hills",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Emaar South",
+  "pin": {
+    "latitude": 24.8615125,
+    "longitude": 55.1352969,
+    "sourceUrl": "https://www.emaar.com/en/properties/golf-hills-at-emaar-south",
+    "scope": "Reference point published on Emaar’s exact Golf Hills page, consistent with the Emaar South brochure setting. It is not a surveyed entrance or an individual townhouse plot; confirm current access."
+  },
+  "map": {
+    "src": "/images/projects/emaar/golf-hills/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional map locating Emaar South near Al Maktoum International Airport",
+    "scope": "Regional community context from the exact Golf Hills official page. Proposed transport shown does not certify operational service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/Gollf-Hills-Golf-Hills-2_brochure.pdf",
+    "page": 4,
+    "scope": "Own whole co-published official brochure regional map and all4 numerical labels visually checked.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 30
+      },
+      {
+        "name": "Downtown Dubai / Burj Khalifa",
+        "minutes": 35
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 45
+      }
+    ]
+  },
+  "travelNote": "Developer community driving estimates, not live traffic, measured home-to-destination routes or a guaranteed airport journey. Emaar’s co-published Golf Hills/Golf Hills 2 imagery depicts shared wider context; individual views, golf access and completed amenity access require confirmation."
+}

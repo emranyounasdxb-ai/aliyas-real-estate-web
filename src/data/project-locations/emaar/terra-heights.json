@@ -1,0 +1,44 @@
+{
+  "projectId": "emaar-project-100",
+  "projectSlug": "terra-heights",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Expo Living, Dubai South",
+  "map": {
+    "src": "/images/projects/emaar/terra-heights/location-4563f5128077.png",
+    "sha256": "4563f512807720bec050b52d46e2bff55e7d7fb85d30841df2dfd85e638c5fad",
+    "originalBytes": 434901,
+    "width": 2400,
+    "height": 1438,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf#page=5",
+    "alt": "Emaar regional map placing Expo Living beside Expo City",
+    "scope": "Regional map in the Terra Heights brochure."
+  },
+  "travelHeading": "Walking and driving estimates in the Emaar brochure",
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/TERRA_HEIGHTS_brochure.pdf",
+    "page": 5,
+    "scope": "Expo Living launch estimates. The Expo City estimate is on foot.",
+    "destinations": [
+      {
+        "name": "Expo City · walk",
+        "minutes": 5
+      },
+      {
+        "name": "Al Maktoum International Airport · drive",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina · drive",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "Emaar gives a walking estimate for Expo City and driving estimates for the airport and Dubai Marina. Its map marks the Blue Line as future. Confirm the route from your building.",
+  "pin": {
+    "latitude": 24.970692930122798,
+    "longitude": 55.146024000000004,
+    "sourceUrl": "https://www.emaar.com/en/properties/terra-heights-at-expo-living",
+    "scope": "Emaar’s published Terra Heights reference point. Confirm the entrance for your building."
+  }
+}

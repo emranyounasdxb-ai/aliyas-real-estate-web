@@ -1,0 +1,88 @@
+{
+  "projectId": "damac-project-02",
+  "projectSlug": "damac-islands-2",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://tssglobal.in/projects/promotions_damacproperties_com_en_damac-islands-2-inr/Brochure/DAMAC-Islands-2-Brochure.pdf",
+    "label": "DAMAC Islands 2 brochure and layouts · TSS-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/damac-islands-2/floor-plans-a52af6f8cb79.pdf",
+    "sha256": "a52af6f8cb7934b8183ec6b6430c404d818dfdb9db4b19bb1aad889d65ccf924"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare three townhouse types, the five-bedroom twin villa and the six-bedroom villa.",
+  "selectorLabel": "Choose a DAMAC Islands 2 floor plan",
+  "note": "Saleable areas are reproduced as printed on the relevant sheets. Confirm the exact area and drawing for your selected home and cluster.",
+  "plans": [
+    {
+      "label": "4 BR mid townhouse · DSTH-M1",
+      "area": "2,185.50 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 78,
+      "src": "/images/projects/damac/damac-islands-2/plan-page-78-6bda80fa19b2.webp",
+      "sha256": "6bda80fa19b2bae7be4537866eb4e66a2b71308bb102005589c48433852328c5",
+      "originalBytes": 340148,
+      "width": 2500,
+      "height": 884
+    },
+    {
+      "label": "5 BR + maid mid townhouse · DSTH-M2",
+      "area": "2,829.29 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 79,
+      "src": "/images/projects/damac/damac-islands-2/plan-page-79-a429b9d7b9e2.webp",
+      "sha256": "a429b9d7b9e21178030b437a5260fcb780e7d5f8c4e8c34dc0bf98553944510f",
+      "originalBytes": 471844,
+      "width": 2500,
+      "height": 884
+    },
+    {
+      "label": "5 BR + maid end townhouse · DSTH-E",
+      "area": "3,158.24 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 77,
+      "src": "/images/projects/damac/damac-islands-2/plan-page-77-623bc5bfe7d4.webp",
+      "sha256": "623bc5bfe7d4b04229832655b2bb498f993756ac8ba8711239bc82d06f66101c",
+      "originalBytes": 558888,
+      "width": 2500,
+      "height": 884
+    },
+    {
+      "label": "5 BR + maid twin villa · DSTW",
+      "area": "3,492.24 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 75,
+      "src": "/images/projects/damac/damac-islands-2/plan-page-75-b615987dc2ba.webp",
+      "sha256": "b615987dc2ba0b9833e02f848cacffbf56463389246cb5ca0430b182bc9c3ae3",
+      "originalBytes": 442926,
+      "width": 2500,
+      "height": 884
+    },
+    {
+      "label": "6 BR + maid villa · DS-V45",
+      "area": "6,276.33 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 73,
+      "src": "/images/projects/damac/damac-islands-2/plan-page-73-e29b379c4b85.webp",
+      "sha256": "e29b379c4b8524c678e7a56fa8276d07f3f27e3d4b4a9d97403bf4becfbe6f5b",
+      "originalBytes": 339462,
+      "width": 2500,
+      "height": 884
+    }
+  ]
+}

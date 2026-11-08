@@ -1,0 +1,712 @@
+{
+  "projectId": "meraas-project-14",
+  "projectSlug": "madinat-jumeirah-living-elara",
+  "developerSlug": "meraas",
+  "source": {
+    "url": "https://meraas.com/sites/default/files/2024-05/MJL_Elara%20Floor%20Plans-English.pdf",
+    "label": "Elara Buildings A, B and C floor plans · Meraas",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/meraas/madinat-jumeirah-living-elara/floor-plans-7cd85b524137.pdf",
+    "sha256": "7cd85b524137511191a74482e497a90aa8792116b15b82b439ac9935c309ea6f"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 1325,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one- to three-bedroom apartments and four-bedroom penthouses across Elara’s three buildings.",
+  "selectorLabel": "Choose an Elara building and layout",
+  "note": "The source PDF places two drawings side by side on many pages. Each selector entry opens one complete drawing. Areas follow the printed total for the listed units and should be confirmed for the selected residence.",
+  "plans": [
+    {
+      "label": "Building A · 1 BR · Type 1A · 101/201 stack",
+      "area": "728.29–729.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-4-f3a6587ec2b5.webp",
+      "sha256": "f3a6587ec2b5a231adf72e1039b5a37ea3ba515c5367992893001dba65336ba4",
+      "originalBytes": 200420,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1A · 108 stack",
+      "area": "727.86–728.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-4-a694470f1d69.webp",
+      "sha256": "a694470f1d6984f2c598aac87bef627b91aa0501697df9a604b241db9ee58eac",
+      "originalBytes": 196720,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1A · 109 stack",
+      "area": "728.82–729.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-5-0766746c2d31.webp",
+      "sha256": "0766746c2d31390f0da820e3da8a20693fa6cbc089d412d8ef7f992baac0667a",
+      "originalBytes": 196464,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1B",
+      "area": "851.32–852.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-5-50df807804be.webp",
+      "sha256": "50df807804be8f217fbf73ea0bcd2417b478e1ed0b49205f654c89ac5eecf909",
+      "originalBytes": 222968,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1D · G01",
+      "area": "962.62 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-6-4a3e3a90c899.webp",
+      "sha256": "4a3e3a90c899abc6517fa708b4ce85cb95430e550dd4493b40876e70d7eb19e3",
+      "originalBytes": 212158,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1D · G09",
+      "area": "962.83 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-6-c5f4abecaf62.webp",
+      "sha256": "c5f4abecaf62e30365320b3c59b7e78a3d6cc643953c8f83744fe981014e0c88",
+      "originalBytes": 210580,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1D · G07",
+      "area": "955.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-7-3e0ba4b0d3db.webp",
+      "sha256": "3e0ba4b0d3db36da1230c9f276d5bd55ad3add4aba2dfe1060ded9ae354311ab",
+      "originalBytes": 209584,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 1 BR · Type 1D · G08",
+      "area": "962.29 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-7-2f1118ecfb1d.webp",
+      "sha256": "2f1118ecfb1dbb11946e8c4971a5222966f4209b9e64ff1e877c5b736150346d",
+      "originalBytes": 206340,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2B · 104 stack",
+      "area": "1,415.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-8-0590a1340e3f.webp",
+      "sha256": "0590a1340e3f2f7babe2941c18efa80b45b740ab5727163c2e4b11a4ade753ee",
+      "originalBytes": 212486,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2B · 105 stack",
+      "area": "1,415.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-8-04e51f5da5f9.webp",
+      "sha256": "04e51f5da5f9d109a6b3a208630304b2cd6a92efb6f411cb9e86135b45a027b5",
+      "originalBytes": 209690,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2D · 102 stack",
+      "area": "1,582.83 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-9-8bd71ca046fe.webp",
+      "sha256": "8bd71ca046fe0a179bee3b83ccb17d39f42b4462f45f90c49513d4528b042236",
+      "originalBytes": 215960,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2D · 106 stack",
+      "area": "1,573.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-9-b4b6c223771d.webp",
+      "sha256": "b4b6c223771d25dd6ef3c0a0950a181d3b115f8cf2e249b3092a049201a39217",
+      "originalBytes": 227920,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2E · G02",
+      "area": "1,788.42 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-10-b0b80e8f5c64.webp",
+      "sha256": "b0b80e8f5c64150da224bf27c226bf369f29fd072b9a9b51e88c9b5c172641b7",
+      "originalBytes": 225532,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2E · G04",
+      "area": "1,732.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-10-1ecd41ff261c.webp",
+      "sha256": "1ecd41ff261c3540cfa80c178f3e3eef3b43d09901cfbfcba417b65f4a9519c7",
+      "originalBytes": 222690,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2E · G05",
+      "area": "1,779.49 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-11-a4cc4a2e1bfa.webp",
+      "sha256": "a4cc4a2e1bfab0284a98c07a10cab19145d0dc6aaf16cd3c20703cbbb543537e",
+      "originalBytes": 207032,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 2 BR · Type 2E · G06",
+      "area": "1,779.49 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-11-837796487225.webp",
+      "sha256": "837796487225f9fbc25bf67135b6c73c0bbc1ecc79769675f928ab1534014a5d",
+      "originalBytes": 222542,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 3 BR · Type 3A",
+      "area": "1,926.74 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-12-5fe1129f0a24.webp",
+      "sha256": "5fe1129f0a24d59d552433f6cc492f4899789faf74c38c62210ec8ce3746cce9",
+      "originalBytes": 212674,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 3 BR · Type 3B",
+      "area": "2,347.82 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-12-96d7d9d043df.webp",
+      "sha256": "96d7d9d043df52eea359c80ffba80d2fbc1660713a0e7e476515939b6e0c6f6d",
+      "originalBytes": 224574,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building A · 4 BR penthouse · Type 4C",
+      "area": "4,533.11 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-13-666afdf17e44.webp",
+      "sha256": "666afdf17e444363563ee5e8529f475caaf1c8a8c652f17b194cb6e500d49bb6",
+      "originalBytes": 212446,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1B · 102 stack",
+      "area": "851.10–851.53 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-14-285db04c96dd.webp",
+      "sha256": "285db04c96dd30503596c11a9006dbe277b6a6b0facacdf11bdccd39faadca14",
+      "originalBytes": 208738,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1A · 104/904 stack",
+      "area": "717.20–721.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-14-796ff9fe38a4.webp",
+      "sha256": "796ff9fe38a467f7622ec6b5f2e9a14c5590572ec2f3cee20f2b3e7f953d66db",
+      "originalBytes": 198564,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1A · 107/905 units",
+      "area": "724.95–729.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-15-c92c93f709fb.webp",
+      "sha256": "c92c93f709fb3a1f305a7cc3010ffed957e3e026f15855bb8e8a2d5a69b79a28",
+      "originalBytes": 195534,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1B · 106 stack",
+      "area": "851.53 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-15-25ffa71a3e81.webp",
+      "sha256": "25ffa71a3e8154639f2557604aa8d67ce7bc9fda85eb3da10bab3519ca067e99",
+      "originalBytes": 214604,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1A · 101 stack",
+      "area": "728.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-16-3ca3b4c5b23a.webp",
+      "sha256": "3ca3b4c5b23adfb9ac6a9ef8443fe1d1113c8ffebfbaf5804101a8b9ee5e5880",
+      "originalBytes": 195338,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 1 BR · Type 1D",
+      "area": "954.87 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-16-8924ea264b43.webp",
+      "sha256": "8924ea264b43e9abfb0b08e0ed04ba950e554b8e9ad93f3b6d6b93ca132e43b6",
+      "originalBytes": 187064,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 2 BR · Type 2D · 103 stack",
+      "area": "1,573.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-17-28bf0b9de001.webp",
+      "sha256": "28bf0b9de00130248124890ab914d796828130457802708f02eee2c923ae0c07",
+      "originalBytes": 215046,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 2 BR · Type 2D · 105 stack",
+      "area": "1,573.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-17-d9645162351e.webp",
+      "sha256": "d9645162351e398ec0588d336c0abb6b3d6cc5508dc2301a6495fe65b982480c",
+      "originalBytes": 224596,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 2 BR · Type 2E · G01",
+      "area": "1,732.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-18-bea915b7afe9.webp",
+      "sha256": "bea915b7afe9ca635fdab67c0325b4980c23c091dd03131589f92b2e6d6341c1",
+      "originalBytes": 212996,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building B · 2 BR · Type 2E · G03",
+      "area": "1,779.49 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-18-9822bdb8a427.webp",
+      "sha256": "9822bdb8a427643a85b0587f398d2c9fad037469b4ca9f901df8e9c2ca769938",
+      "originalBytes": 205068,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1A · 103 stack",
+      "area": "721.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-19-bf2c1b4b70b2.webp",
+      "sha256": "bf2c1b4b70b2564628aaf89a51e5d0514656064e3e5208c08630957380c8539f",
+      "originalBytes": 157288,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1A · 107 stack and others",
+      "area": "720.64–721.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-20-82a831cbafb1.webp",
+      "sha256": "82a831cbafb1d423a96e21b81f51549d63463e30652711f19ba7a0472cfcad0c",
+      "originalBytes": 173826,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1C",
+      "area": "928.60 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-20-51f120fc074f.webp",
+      "sha256": "51f120fc074f5fd5cf98cfa3b65dc24036af63a14ab4fece5b66185743650bb5",
+      "originalBytes": 186158,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1D",
+      "area": "954.76 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-21-0f3688f4a7a9.webp",
+      "sha256": "0f3688f4a7a967dcde32d3d663648dcff693d15afdf002a89f362dc5c191606f",
+      "originalBytes": 180136,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1E",
+      "area": "979.09 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-21-dd552c3cfad9.webp",
+      "sha256": "dd552c3cfad9752906684317e7f54a1b34930ed1a2d2cd1480f54565a4793b56",
+      "originalBytes": 233770,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 1 BR · Type 1F",
+      "area": "1,350.01 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-22-05263cb27d40.webp",
+      "sha256": "05263cb27d40f8634a1dd1c752058c167180f713b28fa0b6c3ac281e23849281",
+      "originalBytes": 226282,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2A",
+      "area": "1,247.64 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-22-dde2735f7d4c.webp",
+      "sha256": "dde2735f7d4ca657f44be90bb2b91b772298011d43cc8ea7aeceb287015e2085",
+      "originalBytes": 246042,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2B · 101 stack",
+      "area": "1,415.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-23-8ef1bd3798d2.webp",
+      "sha256": "8ef1bd3798d202b025053167c492a94913e97e98ce00fb4fcaf2df5b6e091be6",
+      "originalBytes": 208798,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2B · 106 stack",
+      "area": "1,419.65 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-23-dfebffc766e1.webp",
+      "sha256": "dfebffc766e1cbb257c092ba9c7201ab35aa0357764fd953850c424e8642fb52",
+      "originalBytes": 210098,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2C · 205 and related units",
+      "area": "1,526.97–1,527.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-24-8c864d07fc09.webp",
+      "sha256": "8c864d07fc09793e782d6b9eabfa264bf90c166985101c901d42f28fa18bd27e",
+      "originalBytes": 208126,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2C · 108 and related units",
+      "area": "1,519.76 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-24-d89b51925893.webp",
+      "sha256": "d89b51925893fa876e6be77ba260d86e65227d278cff47f25e0d4be1470e7c43",
+      "originalBytes": 203066,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2D · 104 stack",
+      "area": "1,573.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-25-0ac009e785e9.webp",
+      "sha256": "0ac009e785e9b3d6d366cf605fc128f45834065338dfef7f802e7b8a8257bfe4",
+      "originalBytes": 197224,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2D · 105 and related units",
+      "area": "1,581.54 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-25-5383f7a4b9fe.webp",
+      "sha256": "5383f7a4b9fe9fd73a8c2209d28cf961a4346b2b21840d29b5be0b356dc614ee",
+      "originalBytes": 216730,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2D · 308 and related units",
+      "area": "1,574.22 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-26-472d2500a28f.webp",
+      "sha256": "472d2500a28f324099714d1848081e1104a22118cbbe97f96f9ab31e08a7fa0d",
+      "originalBytes": 196238,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2E · G01",
+      "area": "1,779.49 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-26-da4829de4d58.webp",
+      "sha256": "da4829de4d58464e1fa3ff07417974b1cf515a9cd35ec5fd88d79ee7f5dc9a1b",
+      "originalBytes": 202750,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2E · G04",
+      "area": "1,779.48 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-27-5a538c8dba8d.webp",
+      "sha256": "5a538c8dba8d065b2e3560a3ef3c82456e9e944fdcef5c4ff02717e0a66bb93a",
+      "originalBytes": 210836,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2E · G05",
+      "area": "1,787.67 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-27-ff06b6dac17f.webp",
+      "sha256": "ff06b6dac17f4acffaadbfbd08605de833ca448d4bbff6510001bacd68d31991",
+      "originalBytes": 207066,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2E · G06",
+      "area": "1,740.42 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-28-3f56e8aab3a9.webp",
+      "sha256": "3f56e8aab3a92bf4f206e3e71848288944d07bb33d7efe0978e367ac786bd965",
+      "originalBytes": 210024,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 2 BR · Type 2E · G08",
+      "area": "1,780.03 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-28-452878fc3551.webp",
+      "sha256": "452878fc3551fafb3c649ad9d52d9c4e31476732c772733ef8ab433ab9a04c50",
+      "originalBytes": 213862,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 3 BR · Type 3A · 603 stack",
+      "area": "1,926.74 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-29-8854f0dbb4e2.webp",
+      "sha256": "8854f0dbb4e2d68cbf40aa655a419514585d69d42a2c3fa24f7e9284420cefac",
+      "originalBytes": 199840,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 3 BR · Type 3A · 109 and related units",
+      "area": "1,934.71 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-29-256bd96b742c.webp",
+      "sha256": "256bd96b742c04091964f38d0ac63f440eb90621703b7ebc804455e7a25c5976",
+      "originalBytes": 221052,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 3 BR · Type 3B",
+      "area": "2,355.79 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-30-e3bbc181c43a.webp",
+      "sha256": "e3bbc181c43a97a29432055263c77c683c66ad5d9f444663ff54aa7af5d08c87",
+      "originalBytes": 230612,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 4 BR penthouse · Type 4A",
+      "area": "3,691.91 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-30-ad1e1d34457d.webp",
+      "sha256": "ad1e1d34457df8e303127b3b0059cc2dbc3bfe9b34326a55c27ab38d4c049fd7",
+      "originalBytes": 227712,
+      "width": 1325,
+      "height": 994
+    },
+    {
+      "label": "Building C · 4 BR penthouse · Type 4B",
+      "area": "4,441.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/meraas/madinat-jumeirah-living-elara/plan-page-31-76fbf28b06ef.webp",
+      "sha256": "76fbf28b06efd65e4c6756f42f9c5a9a00147f8045d81b58a0ecfa3c1a35d948",
+      "originalBytes": 225260,
+      "width": 1325,
+      "height": 994
+    }
+  ]
+}

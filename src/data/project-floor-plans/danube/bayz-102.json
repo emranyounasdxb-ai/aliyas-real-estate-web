@@ -1,0 +1,437 @@
+{
+  "projectId": "danube-project-09",
+  "projectSlug": "bayz-102",
+  "developerSlug": "danube",
+  "source": {
+    "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+    "label": "Danube archive · Bayz 102 apartment plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/danube/bayz-102/floor-plans-24ff1c7a0a9c.pdf",
+    "sha256": "24ff1c7a0a9c67dfe4af0b934419f64e3326ec60263d9b6ca539e61126746511"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2850,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the apartments, duplex penthouses and shared floor plates at Bayz 102.",
+  "selectorLabel": "Choose a Bayz 102 layout or floor plate",
+  "note": "Apartment totals include the balcony as shown on each drawing. Combined penthouse totals are printed on the upper-level sheets.",
+  "plans": [
+    {
+      "label": "Studio",
+      "area": "392–405 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/bayz-102/plan-page-4-33a3098b6200.webp",
+      "sha256": "33a3098b62001954df497d38cfcec12077465d94de0045548cbc42f4fb87e3e8",
+      "originalBytes": 753792,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex studio",
+      "area": "433–446 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/bayz-102/plan-page-5-9603b312ffbf.webp",
+      "sha256": "9603b312ffbf79e3e98b562603f80169b9d02a632f6af72b0437144f3f33266e",
+      "originalBytes": 774776,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 1 BR",
+      "area": "737–806 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/bayz-102/plan-page-6-2225f7340712.webp",
+      "sha256": "2225f7340712c3068fde3ce4bce3ea556ec302109280ea7c49df0d10ae05ca05",
+      "originalBytes": 1304322,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex Presidential Suite Type A",
+      "area": "760–772 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/bayz-102/plan-page-7-d5b59b528321.webp",
+      "sha256": "d5b59b5283219b723af910b1b7a240c330a962afb5611d0e020367e9df907691",
+      "originalBytes": 1169872,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex Presidential Suite Type B",
+      "area": "810–822 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/bayz-102/plan-page-8-1023913aad5f.webp",
+      "sha256": "1023913aad5f9253fdf6159c7efe8bd5c70f4857d4cfebb998a3ea6e8182e6af",
+      "originalBytes": 1053556,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex Premier 2 BR Type A",
+      "area": "1,452–1,464 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/bayz-102/plan-page-9-594800d705b8.webp",
+      "sha256": "594800d705b865a8c114a56482e7e688b701e2c1fd6feee4702f2378e74c0290",
+      "originalBytes": 1993046,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex Premier 2 BR Type B",
+      "area": "1,430–1,442 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/bayz-102/plan-page-10-3d4e350edfcf.webp",
+      "sha256": "3d4e350edfcf189d0a96c221f79afa9c5a0cc32de808765a73d96d3063e4e925",
+      "originalBytes": 1669808,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 2 BR Type C",
+      "area": "1,187–1,199 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/bayz-102/plan-page-11-080c95a4875e.webp",
+      "sha256": "080c95a4875e14c1657d932fcb46f9c88f9f90dbf6ab7563dc78ceaf2e448497",
+      "originalBytes": 1292652,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 2 BR Type D",
+      "area": "1,206–1,219 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/danube/bayz-102/plan-page-12-f4dd91d8daed.webp",
+      "sha256": "f4dd91d8daed0d0282fa829240faec8cd46558a5e9135b1b217486af87de0a70",
+      "originalBytes": 1294522,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 2 BR Type E",
+      "area": "1,115–1,210 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/danube/bayz-102/plan-page-13-fcb276050bea.webp",
+      "sha256": "fcb276050bea6d48d35f7b9946a44121fb1b93341b3a3faa1e6058e2f0dfbdc3",
+      "originalBytes": 1374132,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 2 BR Type F",
+      "area": "1,264–1,277 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/danube/bayz-102/plan-page-14-227e2bb5b40f.webp",
+      "sha256": "227e2bb5b40f6dd0453aae7cf0ecd9c169a1617cd6b841f8e6cb0d89755ed6a6",
+      "originalBytes": 1353832,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Flex 2 BR Type G",
+      "area": "1,244–1,256 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/danube/bayz-102/plan-page-15-efc38548761e.webp",
+      "sha256": "efc38548761ed2eb272bf8b0f8a3f7f5dc9177df9ba8a11f3171a8789916111b",
+      "originalBytes": 1337302,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "3 BR",
+      "area": "1,598–1,615 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/danube/bayz-102/plan-page-16-bdd5e2b9146b.webp",
+      "sha256": "bdd5e2b9146bf07e5f39e6dd8f45451d8b9313a24fe30249c183c4cde65ef1cf",
+      "originalBytes": 1381800,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "4 BR",
+      "area": "1,997–2,009 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/danube/bayz-102/plan-page-17-c819acea5c23.webp",
+      "sha256": "c819acea5c234e1f0d8e6b597e12699f76cd2682e34b117857fc5eaf5c216fdd",
+      "originalBytes": 1671490,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Penthouse Type A · Lower level",
+      "area": "See the upper-level drawing for the combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-4-770dcd3b9719.webp",
+      "sha256": "770dcd3b97192ecd13a495107f4082278ce5193c2b6f7ff7d63f784665a7a380",
+      "originalBytes": 1584306,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type A · Upper level",
+      "area": "8,320 sq ft combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-5-57a0d57b3c2e.webp",
+      "sha256": "57a0d57b3c2e71131febfedf3cc2c2c25fad7e0f87819f983fc8f460b41e5ef7",
+      "originalBytes": 1376616,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type B · Lower level",
+      "area": "See the upper-level drawing for the combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-6-7655445ee245.webp",
+      "sha256": "7655445ee2459618ac829177f7816505686ee455b1b1fcfe1ef69328f95cde55",
+      "originalBytes": 1582504,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type B · Upper level",
+      "area": "7,503 sq ft combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-7-eecded88aeef.webp",
+      "sha256": "eecded88aeefd59be908b3fbc768bf62a39747659035fbc8dc75d133219e3be1",
+      "originalBytes": 1577080,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type C · Lower level",
+      "area": "See the upper-level drawing for the combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-8-ca10c63f65de.webp",
+      "sha256": "ca10c63f65de51ce8ede8facb0b17adbb82f90e0a9f321ae06fedfe7cd7b3d9e",
+      "originalBytes": 1787562,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type C · Upper level",
+      "area": "6,826 sq ft combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-9-90dc27fe4f81.webp",
+      "sha256": "90dc27fe4f8135e55a5f72c39780d840f9e4f37cad50195684cea31596d0ce97",
+      "originalBytes": 1563434,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type D · Lower level",
+      "area": "See the upper-level drawing for the combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-10-5cb89ed70260.webp",
+      "sha256": "5cb89ed702601833664b54f3cd466d18e3633be3c936bd556a5dd0186f52c6a1",
+      "originalBytes": 1697710,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Penthouse Type D · Upper level",
+      "area": "8,643 sq ft combined total",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-11-78b4175d18a7.webp",
+      "sha256": "78b4175d18a70a22ca65c7b6ca8c7722edad7883124ae5934e6c8edcd1461ec4",
+      "originalBytes": 1667130,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    },
+    {
+      "label": "Typical apartment floor plates",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/danube/bayz-102/plan-page-18-f2fc11b6c492.webp",
+      "sha256": "f2fc11b6c492de28581899c1c5190683068c1ea9bad1c812ed6804e27052488a",
+      "originalBytes": 1040186,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Lounge 14",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/danube/bayz-102/plan-page-19-f47a46a1915c.webp",
+      "sha256": "f47a46a1915cc20b01ff173729abf4c0501e1b854ee771e4fea77391a67b7aeb",
+      "originalBytes": 2054942,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Lounge 64",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/danube/bayz-102/plan-page-20-a225439b5282.webp",
+      "sha256": "a225439b52828a4d4dd69f4f28a26baef233899d36bc7870940243fbe50f4bf8",
+      "originalBytes": 1628570,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Rooftop amenities",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/danube/bayz-102/plan-page-21-45e0bf15af78.webp",
+      "sha256": "45e0bf15af789c3da277d9d8b751872bff2cb13b85e1d76ec478250209444ef2",
+      "originalBytes": 1689890,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Typical penthouse floor plates",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans-penthouses"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/danube/bayz-102/plan-penthouses-page-12-3f6841c878e5.webp",
+      "sha256": "3f6841c878e57e480a5b0b5d50cea422bfbd87c5eb9d29f4904e585f9d22eb2a",
+      "originalBytes": 1600082,
+      "width": 2850,
+      "height": 2036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz-102/floor-plans",
+        "label": "Danube archive · Bayz 102 penthouse plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/bayz-102/floor-plans-penthouses-4ae00b517d85.pdf",
+        "sha256": "4ae00b517d85e3ae2a45a58f93c8f2f77d8c1070c7253c24d06d3a367ae9442b"
+      }
+    }
+  ]
+}

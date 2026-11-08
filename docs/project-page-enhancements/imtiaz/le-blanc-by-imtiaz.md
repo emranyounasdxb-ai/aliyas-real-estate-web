@@ -1,0 +1,22 @@
+# Le Blanc by Imtiaz enhancement — verified 7 November 2026
+
+Protected identity: imtiaz / imtiaz-project-08 / le-blanc-by-imtiaz. 40 source images and 13 complete original drawing sheets.
+
+imagery: Forty entries comprise thirty-one project renders and nine September 2026 site photographs. All twenty primary assets, the complete 37-page brochure index, fourteen native resources and every selected site photograph were visually reviewed. Eleven additional brochure scenes supply street angles, clubhouse details, aerial yoga, home dining, bedside details and a bathroom. A lifestyle person, duplicate media-wall resource and redundant gym crop are excluded. Original source pixels remain intact. The complete dusk tower supplies card and hero. Photographs retain their historical month.
+
+floorPlans: Nine complete building sheets cover both basements, ground, three podium levels, floor 1, grouped floors 2–17 and the roof. A separate 27 November 2025 document supplies the original 3 BR unit 1101 drawing. Its page 2 states 1,264.76 sq ft suite plus 353.49 sq ft balcony, totalling 1,618.25 sq ft. This historical example does not establish current inventory. Three attributed broker studio previews show no numerical area. Confirm other homes and final revisions with Imtiaz. All nine full building drawings were visually reviewed on three contacts. All four pages of the historical unit document were rendered. Its sizing page 2 and complete drawing page 4 were independently read. Both identify three bedrooms and unit 1101. The 1,264.76 + 353.49 calculation equals 1,618.25. The three public studio preview images were individually inspected at native size. Remaining broker plans are form-gated and unretrieved. Source notices, level grouping, boundaries and physical page links remain intact.
+
+location: The complete original page 6 map was visually reviewed at 3200 pixels. Time rings are retained as source schematic context without assigning unsupported exact landmark times. Official DLRC setting is supported by the current primary. Its named-place map has camera-centre values without explicit target coordinates. No pin was inferred and directions use the named project.
+
+provenance: Current official HTML/gallery and September 2026 construction history have dated URL/hash receipts. Brochure and ten-page floorplate packet are branded Mitchell’s broker mirrors. The separate historical 27 November 2025 unit document is a Dubai Off Plan mirror. Its financial terms and completion reference remain historical and do not overwrite the completed text research. Three full public broker image URLs were observed in open figures. Protected identities and researched commercial qualifications remain intact.
+
+Unavailable or restricted scope: Numerical saleable areas for other homes and broker studio previews, current unit-1101 availability, form-gated remaining broker layouts, exact visitor entrance, individually assigned original-source travel estimates, current certified progress and final specifications remain unavailable or unverified.
+
+Sources:
+- https://real.imtiaz.ae/property/le-blanc
+- https://www.mitchellscommercialrealty.com/downloads/le-blanc-by-imtiaz/LE_BLANC_BROCHURE.pdf#page=6
+- https://www.mitchellscommercialrealty.com/downloads/le-blanc-by-imtiaz/LE_BLANC_FLOOR_PLANS.pdf
+- https://dubaioffplan.ie/wp-content/uploads/2025/12/LB-SO-1101-9-Sales-Offer-AED-Multiple-27-11-2025-13-34.pdf
+- https://www.silveroakglobal.com/projects/le-blanc-fe478843
+
+Selection: docs/project-page-enhancement-selections/imtiaz/le-blanc-by-imtiaz.json. Source/owner/hash validation: 1365 owner-validated manifests, 17338 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. All other canonical text and protected identities match the original researched snapshot.. Optimized build pSz88x0EWJr4NjPw-Cwsm / PID38088. Own browser case passed in passing batch (3.9m) (artifacts/project-page-enhancement/batch-222-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

@@ -1,0 +1,110 @@
+{
+  "projectId": "imtiaz-project-29",
+  "projectSlug": "cove-edition-2-by-imtiaz",
+  "developerSlug": "imtiaz",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/cove-edition-2/COVE_EDITION_2_FLOOR_PLANS.pdf",
+    "label": "Cove Edition 2 · complete branded building drawings, Mitchell’s broker mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/floor-plans-41ea08b444aa.pdf",
+    "sha256": "41ea08b444aa3cf93422c37a4949be3b622d9f060d12c4ecb00d58d7f8ac8691"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore 3 whole-building drawings and 3 attributed home previews, with full-sheet zoom and original-source links.",
+  "selectorLabel": "Choose a whole-building level or broker home preview",
+  "note": "Three complete building drawings and three attributed broker home previews are available. No numerical individual saleable areas are printed. Image-position labels do not establish contractual unit numbers. Four remaining broker layouts are form-gated and unretrieved. Confirm contractual units, standalone home sheets and final revisions with Imtiaz.",
+  "plans": [
+    {
+      "label": "Floor 1 · homes",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-page-2-65bf5f5dbb4e.webp",
+      "sha256": "65bf5f5dbb4e0e6237e12425d329ad05a113410cc14ad4c85cd7562b6b78b896",
+      "originalBytes": 133000,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Floors 2–13 · homes",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-page-3-6e459a035cf4.webp",
+      "sha256": "6e459a035cf4c06233acd197f8999495d7c04f6616cd2f005cc04f98d983c797",
+      "originalBytes": 225272,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Rooftop · pools, cinema and amenities",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-page-4-6d002afd9a5f.webp",
+      "sha256": "6d002afd9a5f021650285b453214299cb7202bb31c5376d340c97c2b1eb3abf9",
+      "originalBytes": 238504,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Studio · broker preview",
+      "area": "Saleable area not printed on this preview",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://reelly-backend.s3.amazonaws.com/unit_layouts/clipboard_Wqwrbg7z2NpIvxNQcdV3s_f6c7f8e02a144d76bfe78ef7ac704ea8.webp",
+        "label": "Cove Edition 2 project-linked home preview · Silver Oak/Reelly broker image"
+      },
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-image-4-6e20d37b14e6.webp",
+      "sha256": "6e20d37b14e65773fa0f3ee32eea58b66771b1955313d0d6e27bb4b71151910d",
+      "originalBytes": 7880,
+      "width": 247,
+      "height": 721
+    },
+    {
+      "label": "1 BR · broker preview 1",
+      "area": "Saleable area not printed on this preview",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://reelly-backend.s3.amazonaws.com/unit_layouts/415_a0e2cc92b6744b979a6a5d0c535d90d1.webp",
+        "label": "Cove Edition 2 project-linked home preview · Silver Oak/Reelly broker image"
+      },
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-image-5-ce0d2e3940ff.webp",
+      "sha256": "ce0d2e3940ff280f3c3672201e284e97be3fc0e1f24dee02913654b0e71a4608",
+      "originalBytes": 13936,
+      "width": 827,
+      "height": 496
+    },
+    {
+      "label": "1 BR · broker preview 2",
+      "area": "Saleable area not printed on this preview",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://reelly-backend.s3.amazonaws.com/unit_layouts/413_3e44c87573ac46dbaf77e0d0576eff76.webp",
+        "label": "Cove Edition 2 project-linked home preview · Silver Oak/Reelly broker image"
+      },
+      "src": "/images/projects/imtiaz/cove-edition-2-by-imtiaz/plan-image-6-0810cdb893ef.webp",
+      "sha256": "0810cdb893efeffe1784e38232d43f72887a4201d0a11bb37dde778f810f9cb6",
+      "originalBytes": 17466,
+      "width": 642,
+      "height": 846
+    }
+  ]
+}

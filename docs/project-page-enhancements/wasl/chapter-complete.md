@@ -1,0 +1,15 @@
+# Wasl media chapter — verified 7 November 2026
+
+All 10 protected Wasl projects are verified with 162 sourced project renders, 10 matching listing images and 264 complete original selectable drawing sheets. Dated construction photographs were not established. Native official-gallery and brochure images retain proposed-design and publishing-version scope. Cards carry no image/status badges.
+
+Primary developer pages and original CDN documents supply the available media, maps and layouts. Cedarwood South, original Cedarwood, Boulevard Park, Pinewood and Hillside also use explicitly labelled branded broker/portal-hosted copies for genuine source gaps. Source hosts, retrieval dates, original files, SHA-256 values and individual physical page links remain recorded per project. South Garden separates A–C and D/E releases. One B distinguishes its original brochure and separate plan pack, excluding one pixel-identical duplicate sheet.
+
+Source figures retain their actual printed values and conflicts. Nine Collective’s source-confirmed duplex endpoint is corrected to 4,274.89 sq ft. Boulevard Park’s printed 1,171.81 sq ft endpoint is explicitly disputed against its 1,717.81 component sum. The exact-diff guard verifies these two bounded corrections in the canonical records and ledger, with other completed text research and all protected identities preserved. Pinewood roof/plot discrepancies, South Garden arithmetic, Hillside corrupted tables, One B version/arithmetic differences and other source qualifications remain visible. Whole-home multilevel totals apply once.
+
+Maps preserve original developer diagrams. Nine Collective uses the published vicinity coordinate. Pinewood and Ashwood explicitly identify their shared JGE vicinity reference. Other pages use project-name directions where a reliable visitor entrance was not established. Published journey estimates retain their particular mode, community/building scope and any conflicting source values.
+
+Optimized preview http://127.0.0.1:3002, build 8JRjBdnqu2bJ97J2H5evC / PID72568. Each of the 10 pages passed its own browser case, including all selectable layouts, displayed areas, physical-page/source links, original PDFs, five widths in light/dark, reduced motion, four accessibility samples, keyboard zoom/Escape/focus, own card images and zero badges. Main-agent desktop/mobile screenshots were reviewed. Final chapter validation passed 10 owned cards, 10 matching owned hero links and five unlinked inspiration slides, preserving 15 total slides. Keyboard enquiry context/focus and native mobile plan pan/close passed without an enquiry submission.
+
+Final asset validation passed 1227 owner-validated manifests and 15282 asset hashes against all 575 protected identities. Evidence is in artifacts/project-page-enhancement/batch-201-{build,browser,data,correction,chapter}.log and the per-project source selections and verification notes.
+
+Cumulative rollout is 409/575 verified, 166 remaining and 16/30 developer chapters complete. Today’s verified count is 76. Next is SAMANA, 38 projects. Local only. Git handoff awaits the complete rollout and the documented storage/rights work.

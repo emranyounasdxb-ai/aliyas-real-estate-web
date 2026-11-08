@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-78",
+  "projectSlug": "golf-dale",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Emaar South",
+  "map": {
+    "src": "/images/projects/emaar/golf-dale/location-a437f47e5793.png",
+    "sha256": "a437f47e5793bad6bf6a137db267822d13eaefde7045a83a923567b1e861f33c",
+    "originalBytes": 978065,
+    "width": 2400,
+    "height": 1600,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/Golf-Dale_brochure.pdf#page=4",
+    "alt": "Regional Emaar South map in the Golf Dale brochure.",
+    "scope": "Regional context for Emaar South. The Golf Dale map point appears separately."
+  },
+  "travelHeading": "Approximate driving times from the Golf Dale brochure",
+  "travel": {
+    "page": 4,
+    "scope": "Developer driving estimates shown on the project brochure’s regional map.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 30
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 35
+      },
+      {
+        "name": "Abu Dhabi City Centre",
+        "minutes": 50
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/Golf-Dale_brochure.pdf"
+  },
+  "travelNote": "The brochure gives approximate driving times. Check the current route and traffic before travelling.",
+  "pin": {
+    "latitude": 24.864559,
+    "longitude": 55.139399,
+    "sourceUrl": "https://www.emaar.com/en/properties/golf-dale-at-emaar-south",
+    "scope": "Emaar’s published Golf Dale project point. Confirm directions to your building or home before visiting."
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "id": "emaar-project-03",
+  "slug": "golf-fields",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/golf-fields-at-emaar-south",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "building",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_EXT_1_4cdccd81e6_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_EXT_1_4cdccd81e6_prod.jpg",
+      "label": "Buildings at dusk",
+      "alt": "Emaar render of Golf Fields buildings and landscaped podium at dusk",
+      "position": "50% 50%"
+    },
+    {
+      "name": "golf-pool",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_EXT_2_f3e5b3e02a_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_EXT_2_f3e5b3e02a_prod.jpg",
+      "label": "Golf and pool setting",
+      "alt": "Emaar render of Golf Fields’ pool terraces overlooking the golf course",
+      "position": "50% 50%"
+    },
+    {
+      "name": "terrace",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_EXT_3_0593236228_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_EXT_3_0593236228_prod.jpg",
+      "label": "Pool terrace",
+      "alt": "Emaar render of Golf Fields’ landscaped pool terrace",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_2_e23c63b848_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_INT_2_e23c63b848_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render of Golf Fields’ living room and golf-facing balcony",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_3_8fbabbbb75_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_INT_3_8fbabbbb75_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render of a Golf Fields bedroom facing the golf course",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_1_85de1558e2_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/PRO_INT_1_85de1558e2_prod.jpg",
+      "label": "Arrival lobby",
+      "alt": "Emaar render of Golf Fields’ furnished arrival lobby",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "building",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Emaar South",
+    "road": "",
+    "pin": {
+      "latitude": 24.865357,
+      "longitude": 55.137989,
+      "sourceUrl": "https://www.emaar.com/en/properties/golf-fields-at-emaar-south",
+      "scope": "Official page project pin; exact building access may differ."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-fields/04_MAP_2400x1600px_10b80cb630.jpg",
+      "alt": "Emaar regional diagram locating Emaar South near Al Maktoum International Airport",
+      "scope": "Regional diagram, not to scale; planned transport is not an operational-service guarantee."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/GOLF_FIELDS_ES_BROCHURE_87a572c574.pdf",
+      "page": 4,
+      "scope": "Community times from own Golf Fields brochure connectivity panel; visually verified.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 30
+        },
+        {
+          "name": "Downtown Dubai / Burj Khalifa",
+          "minutes": 35
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 45
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/GOLF_FIELDS_ES_FLOOR_PLANS_e97fc88cb2.pdf",
+    "cache": "artifacts/project-details/emaar/golf-fields-floorplans-1.pdf",
+    "label": "Emaar: Golf Fields floor plans",
+    "introduction": "Compare the published apartment and townhouse layouts. Where a sheet lists several unit variants, the area shown spans its printed total areas. Refer to the plan for the matching unit and level.",
+    "selectorLabel": "Choose a residence layout",
+    "note": "Plans and dimensions are approximate and subject to developer revisions. Drawings are not to scale; shown furnishings and generic view legends do not guarantee a particular unit’s outlook or sale inclusions.",
+    "plans": [
+      {
+        "label": "1 bedroom · Type 1",
+        "area": "791.26–809.23 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          807.51,
+          791.26,
+          809.23
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-02.png"
+      },
+      {
+        "label": "1 bedroom · Type 1A",
+        "area": "792.33–794.05 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          792.33,
+          794.05
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-03.png"
+      },
+      {
+        "label": "1 bedroom · Type 2",
+        "area": "953.14–960.79 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          953.14,
+          960.79
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-04.png"
+      },
+      {
+        "label": "2 bedroom · Type 1",
+        "area": "1,177.79 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          1177.79
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-05.png"
+      },
+      {
+        "label": "2 bedroom · Type 2",
+        "area": "1,296.30 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          1296.3
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-06.png"
+      },
+      {
+        "label": "2 bedroom · Type 2A",
+        "area": "1,296.30 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          1296.3
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-07.png"
+      },
+      {
+        "label": "2 bedroom · Type 3",
+        "area": "1,279.08–1,280.15 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1279.08,
+          1280.15
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-08.png"
+      },
+      {
+        "label": "2 bedroom · Type 4",
+        "area": "1,401.25 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1401.25
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-09.png"
+      },
+      {
+        "label": "2 bedroom · Type 5",
+        "area": "1,387.79 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1387.79
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-10.png"
+      },
+      {
+        "label": "2 bedroom · Type 7",
+        "area": "1,279.72–1,300.82 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1300.82,
+          1279.72
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-11.png"
+      },
+      {
+        "label": "2 bedroom · Type 7A",
+        "area": "1,296.30 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1296.3
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-12.png"
+      },
+      {
+        "label": "3 bedroom · Type 1",
+        "area": "1,634.82 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1634.82
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-13.png"
+      },
+      {
+        "label": "3 bedroom · Type 1A",
+        "area": "1,632.99 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1632.99
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-14.png"
+      },
+      {
+        "label": "3 bedroom · Type 2",
+        "area": "2,150.41 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          2150.41
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-15.png"
+      },
+      {
+        "label": "3 bedroom · Type 2A",
+        "area": "2,149.45 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          2149.45
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-16.png"
+      },
+      {
+        "label": "Townhouse Type 1",
+        "area": "2,743.40–2,748.35 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          2743.4,
+          2748.35
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-17.png"
+      },
+      {
+        "label": "Townhouse Type 1A",
+        "area": "2,742.00 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          2742
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-18.png"
+      },
+      {
+        "label": "Townhouse Type 2",
+        "area": "2,778.17 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          2778.17
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-19.png"
+      },
+      {
+        "label": "Townhouse Type 3",
+        "area": "2,725.53 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          2725.53
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-20.png"
+      },
+      {
+        "label": "Townhouse Type 4",
+        "area": "2,670.10 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          2670.1
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-21.png"
+      },
+      {
+        "label": "Townhouse Type 5",
+        "area": "2,749.64 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          2749.64
+        ],
+        "areaCalculation": "Min/max of printed square-foot total-area panels on this sheet; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/golf-fields/plan-22.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/golf-fields/",
+  "review": {
+    "images": "All six source-gallery images visually checked; own building cover and two own interiors selected.",
+    "location": "Own project pin, linked regional map and physical brochure page4 reviewed. Expo City time from Golf Trails was not copied.",
+    "floorPlans": "All21 own residence title/area panels visually reviewed; area table square metre and square foot columns distinguished. Multiple unit variants on a sheet use printed square-foot min/max. Complete unedited sheets and original PDF retained."
+  }
+}

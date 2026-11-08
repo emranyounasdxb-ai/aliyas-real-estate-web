@@ -1,0 +1,75 @@
+{
+  "projectId": "emaar-project-108",
+  "projectSlug": "montura-3",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/MONTURA-3_floorplan.pdf",
+    "label": "Emaar Montura 3 original floor plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/montura-3/floor-plans-e300494a4382.pdf",
+    "sha256": "e300494a4382657b6a8c5d967c71208f7b52680cb10015926abe30550b67eacf"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare two four-bedroom and two five-bedroom Villa B layouts. Each original Montura 3 sheet shows the ground, first and second floors and its plot key.",
+  "selectorLabel": "Choose a Montura 3 floor plan",
+  "note": "The developer totals include the balcony and carport shown on the sheet. Confirm the signed plan, area and specifications for your plot.",
+  "plans": [
+    {
+      "label": "5 BR · Villa B Type 3",
+      "area": "5,115.23 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/montura-3/plan-page-2-75f96bef1c25.webp",
+      "sha256": "75f96bef1c2588cf71d60368495bd8ca70d1dc68ba297ddeb480197490240dea",
+      "originalBytes": 578692,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "5 BR · Villa B Type 4",
+      "area": "5,157.74 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/montura-3/plan-page-3-d127177e11a2.webp",
+      "sha256": "d127177e11a2be27f715a62cab05904dfa6a171484898ef834cb36afe1426e16",
+      "originalBytes": 576230,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "4 BR · Villa B Type 1",
+      "area": "3,838.20 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/montura-3/plan-page-4-34a31ad6b92b.webp",
+      "sha256": "34a31ad6b92b315fe5c54c7d1b65f561e0cc88bb46133088423bcbc78bb5f89e",
+      "originalBytes": 536482,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "4 BR · Villa B Type 2",
+      "area": "3,842.82 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/montura-3/plan-page-5-e4cc3f4ab090.webp",
+      "sha256": "e4cc3f4ab0905379a60938b70ae40a579d77c36833dc56b30ebea6c56d93a1df",
+      "originalBytes": 548406,
+      "width": 2400,
+      "height": 1563
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-85",
+  "projectSlug": "porto-view",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Rashid Yachts & Marina",
+  "map": {
+    "src": "/images/projects/emaar/porto-view/location-987598f8cdf0.png",
+    "sha256": "987598f8cdf0492a20426d57e2a36cceba9d54b46722a6ab8bb21b47820d3b6d",
+    "originalBytes": 438595,
+    "width": 2400,
+    "height": 1500,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/PORTO-VIEW_brochure.pdf#page=4",
+    "alt": "Emaar’s brochure map of Rashid Yachts & Marina.",
+    "scope": "Regional marina map in the Porto View brochure. The Porto View point is shown separately."
+  },
+  "travelHeading": "Estimated travel times in the Emaar brochure",
+  "travel": {
+    "page": 4,
+    "scope": "Regional marina map in the Porto View brochure. The Porto View point is shown separately.",
+    "destinations": [
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 22
+      },
+      {
+        "name": "Al Sabkha Gold Souq",
+        "minutes": 22
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 32
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/PORTO-VIEW_brochure.pdf"
+  },
+  "travelNote": "These regional estimates come from the Emaar brochure map. Check the current route and traffic.",
+  "pin": {
+    "latitude": 25.26755638648702,
+    "longitude": 55.28564454232971,
+    "sourceUrl": "https://www.emaar.com/en/properties/porto-view-at-rashid-yachts-marina",
+    "scope": "Emaar’s named Porto View project point. Confirm the relevant building entrance before visiting."
+  }
+}

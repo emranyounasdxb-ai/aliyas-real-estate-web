@@ -1,0 +1,58 @@
+{
+  "projectId": "omniyat-project-01",
+  "projectSlug": "the-alba-residences",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "East Crescent, Palm Jumeirah, Dubai",
+  "road": "Crescent Road East",
+  "pin": {
+    "latitude": 25.1405124310202,
+    "longitude": 55.13956228650656,
+    "sourceUrl": "https://omniyat.com/residential/the-alba-residences-dorchester-collection-dubai",
+    "scope": "OMNIYAT’s shared Alba estate pin. Confirm the Residences entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/the-alba-residences/location-2dff0d24c352.webp",
+    "sha256": "2dff0d24c352ac5e3bc627cfe45687085cc4290a4f672963c743509bc0847b66",
+    "originalBytes": 82638,
+    "width": 3840,
+    "height": 2400,
+    "sourceUrl": "https://thealbadestination.omniyat.com/img/location/image.webp",
+    "alt": "The OMNIYAT location map places The Alba on Crescent Road East near Sofitel Dubai The Palm.",
+    "scope": "Shared estate map from the official Alba destination site.",
+    "caption": "The Alba estate on Palm Jumeirah’s East Crescent"
+  },
+  "sourceLabel": "Madena published road-route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/the-alba-residences",
+    "scope": "Approximate road-route estimates from Madena’s nearby reference point on the East Crescent.",
+    "destinations": [
+      {
+        "name": "Lagoons Beach",
+        "minutes": 6,
+        "distanceKm": 2.9
+      },
+      {
+        "name": "Palm Jumeirah Mall",
+        "minutes": 15,
+        "distanceKm": 8.7
+      },
+      {
+        "name": "Dubai Internet City",
+        "minutes": 20,
+        "distanceKm": 16.1
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 35,
+        "distanceKm": 28.1
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 50,
+        "distanceKm": 46.5
+      }
+    ]
+  },
+  "travelNote": "Madena uses a nearby point on the Crescent. The map and directions use OMNIYAT’s estate pin. Drive times vary by route and traffic."
+}

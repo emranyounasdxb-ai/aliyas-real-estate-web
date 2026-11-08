@@ -1,0 +1,369 @@
+{
+  "projectId": "bloom-project-01",
+  "projectSlug": "bloom-living-alhambra",
+  "developerSlug": "bloom",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/6dc38e486d5b425abeebf92008873a1a.pdf",
+    "label": "Alhambra · complete original drawing pack, Reelly broker mirror",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/bloom/bloom-living-alhambra/floor-plans-9d71fd796e24.pdf",
+    "sha256": "9d71fd796e2475ee8e254b5997aa396ade052d3a7361c4c03a5c894fbe2ed239"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the original apartment, townhouse and penthouse drawings.",
+  "selectorLabel": "Choose a complete layout or phase map",
+  "note": "Printed maximum sellable areas include maximum external space. Metric rounding and current category guides differ. Confirm the selected unit, contracted area and finish schedule. Drawings, keys and notices remain intact. Concepts do not establish completed facilities or included furnishings.",
+  "plans": [
+    {
+      "label": "Studio A1.4",
+      "area": "347 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-3-764e27555353.webp",
+      "sha256": "764e275553538eac536a6a4e04425e49ae836b9e82d0ec50281bbb8531667d2d",
+      "originalBytes": 393478,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Studio A1.4 balcony",
+      "area": "409 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-4-24789b3467a7.webp",
+      "sha256": "24789b3467a70fc587b681b594c844986b464301924fdee564dda2d6d1dcd28b",
+      "originalBytes": 440336,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Studio A1.5 terrace",
+      "area": "463 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-5-8c0340de1ee7.webp",
+      "sha256": "8c0340de1ee7bcd47b1ddc51acc41eb33829aab64d00e6417cdfdaa50e587d28",
+      "originalBytes": 455534,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Studio A2",
+      "area": "433 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-6-fd4453e4bf0b.webp",
+      "sha256": "fd4453e4bf0b0afe65057fc754c8ebced010fd39185144607a112247db8f323d",
+      "originalBytes": 409098,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR A",
+      "area": "700 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-8-290439ea55b0.webp",
+      "sha256": "290439ea55b0501439cd9c5b5b35f52f283ee40f80248b117305131b5fbc2be0",
+      "originalBytes": 543674,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR A2",
+      "area": "926 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-9-24e34bdc1e82.webp",
+      "sha256": "24e34bdc1e82a98d8e528898d518350c9d2e8dfe7c28915eda8a42a997a99220",
+      "originalBytes": 595276,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A",
+      "area": "1098 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-11-7cc546ddcf71.webp",
+      "sha256": "7cc546ddcf71d8a2c854d9d8390b94c0cdd936ecdd4e10d760b5c79136cc004f",
+      "originalBytes": 719128,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A1",
+      "area": "1517 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-12-d02e75b98b1e.webp",
+      "sha256": "d02e75b98b1ebe722e0d28f60f0029da1806dc0cc124d3a7cb5829a2f4e75beb",
+      "originalBytes": 778274,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A2.1",
+      "area": "1991 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-13-7b43aac99602.webp",
+      "sha256": "7b43aac996029edd7a781462a8ed66b7daf2c78bb5a3bff2ff4d2332e66b4dab",
+      "originalBytes": 936086,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A2.2",
+      "area": "2067 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-14-2dbe473e768e.webp",
+      "sha256": "2dbe473e768e7c3a9f536bb0da9413edd3b3a1e2c0a1ca12f516da824117e786",
+      "originalBytes": 983350,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A2.3",
+      "area": "1604 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-15-d59666107af3.webp",
+      "sha256": "d59666107af3b25f96a20c4f01078a97772ce4095272f77b01d228c06e12aeef",
+      "originalBytes": 871660,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A3",
+      "area": "1011 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-16-efc6822bc1a6.webp",
+      "sha256": "efc6822bc1a6ced9ccefba450c16491d4bbd87154160d0456f701c1135a0f576",
+      "originalBytes": 690544,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR A7",
+      "area": "1388 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-17-3d786d2c525b.webp",
+      "sha256": "3d786d2c525b18acf0ac34b79373d21774644f9c217e8da5d7e788f5af2338f8",
+      "originalBytes": 802480,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR A",
+      "area": "1851 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-19-ccb5bd1155ee.webp",
+      "sha256": "ccb5bd1155ee9943147cac814f79805b455703b5ed10d37d8aa2f5e17da90968",
+      "originalBytes": 930830,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR B",
+      "area": "2104 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-20-43986517cc19.webp",
+      "sha256": "43986517cc19c7b33ba595f1fa7afb317de5b036ef3cf8dd847d524efeb0015d",
+      "originalBytes": 801350,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR C",
+      "area": "1916 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-21-3264b8f2f8f6.webp",
+      "sha256": "3264b8f2f8f607dcaeb02bfb760a2f1153e8e8c384db30b9fe7593e7c4877ef7",
+      "originalBytes": 715678,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR C1",
+      "area": "2152 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-22-611f089070dd.webp",
+      "sha256": "611f089070dd696987f00e2b5468bf288f2203dfafbbdf7754e8c45b29d67bbb",
+      "originalBytes": 775148,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR C2",
+      "area": "2680 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-23-65c5b4f55a8c.webp",
+      "sha256": "65c5b4f55a8c4315f77ba0e1a4e616f80fbec8cf5a256ad30af487c0cdd9cc31",
+      "originalBytes": 863400,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR C3",
+      "area": "2293 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-24-f4d2ff343411.webp",
+      "sha256": "f4d2ff343411413b2bd3bd6bba90c54a70371cbd9a7e15492eb98d5e5c5eb511",
+      "originalBytes": 786510,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR townhouse G4 · both floors",
+      "area": "2928 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-25-4e5d5a9f7dd0.webp",
+      "sha256": "4e5d5a9f7dd007f9c8af1e4a1b1f88821361fc515a71b6ffded0aafa9e79a27d",
+      "originalBytes": 785130,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR townhouse G6 · both floors",
+      "area": "2982 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-26-e6ea832ecfd0.webp",
+      "sha256": "e6ea832ecfd0ec7e5a76c624a12ea25cd68b728ede80af9214babe1140ccff7c",
+      "originalBytes": 769000,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "4 BR penthouse · all levels",
+      "area": "4252 sq ft maximum total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-page-28-e5683c9c6ea5.webp",
+      "sha256": "e5683c9c6ea5595af6228a267ac70e49ad0f2ca35dfd446b9ddadaf90875c792",
+      "originalBytes": 950514,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Community master plan",
+      "area": "Community context, no unit area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-brochure-page-3-3a1826037636.webp",
+      "sha256": "3a1826037636575adf819c3cea2ae6d1324769314bf26383b83bc6bfc0805bc0",
+      "originalBytes": 6863718,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+        "label": "Alhambra · complete original brochure, Reelly broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/bloom/bloom-living-alhambra/floor-plans-brochure-c23eff4a67e6.pdf",
+        "sha256": "c23eff4a67e6f9fb165ff8e683014ad7f58854bd6d7c73a1f62b0a631e8fdc3b"
+      }
+    },
+    {
+      "label": "Alhambra phase master plan",
+      "area": "Community context, no unit area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-brochure-page-4-2872e15345d1.webp",
+      "sha256": "2872e15345d1ebac317bf352d89dbd802dd4e3217d386a400e5777243f2d90ce",
+      "originalBytes": 5107568,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://reelly-backend.s3.amazonaws.com/project_files/0d047b14dd8f451e90f5941269632e5d.pdf",
+        "label": "Alhambra · complete original brochure, Reelly broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/bloom/bloom-living-alhambra/floor-plans-brochure-c23eff4a67e6.pdf",
+        "sha256": "c23eff4a67e6f9fb165ff8e683014ad7f58854bd6d7c73a1f62b0a631e8fdc3b"
+      }
+    },
+    {
+      "label": "Community regional map",
+      "area": "Community estimates, no unit area",
+      "sourceIds": [
+        "plans-community"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/bloom/bloom-living-alhambra/plan-community-page-21-65f2bd74e9c6.webp",
+      "sha256": "65f2bd74e9c6dfd39a5523e1143465fed4220afdce726d323df7887c1e685df5",
+      "originalBytes": 806144,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://bloomholding.com/application/files/8417/2233/1189/Bloom_Living_E-Brochure_Web.pdf",
+        "label": "Bloom Living · complete original community brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/bloom/bloom-living-alhambra/floor-plans-community-f71c90fec897.pdf",
+        "sha256": "f71c90fec89717c09015d9a4a078d9cf770ee5c8031632c54418c028bbbb0f8e"
+      }
+    }
+  ]
+}

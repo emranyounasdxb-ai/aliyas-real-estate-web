@@ -1,0 +1,49 @@
+{
+  "projectId": "damac-project-12",
+  "projectSlug": "damac-riverside",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://palladian.ae/wp-content/uploads/2024/12/Damac-Riverside-Floor-Plan.pdf",
+    "label": "DAMAC Riverside townhouse plans · Palladian-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/damac-riverside/floor-plans-2551dc7ce563.pdf",
+    "sha256": "2551dc7ce563ea94b7d1b8e0b0defe27ec4b4471ddfd1d3c5257a96702c01e90"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore two four-bedroom middle townhouses and the five-bedroom end townhouse in the original Riverside release. Both four-bedroom variants share one sheet.",
+  "selectorLabel": "Choose a DAMAC Riverside floor plan",
+  "note": "Printed totals are sellable areas. Confirm the latest signed layout and area for the specific townhouse.",
+  "plans": [
+    {
+      "label": "4 BR middle townhouse · THRS-M1 and THRS-M2",
+      "area": "THRS-M1 2,420.05 · THRS-M2 2,297.34 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/damac/damac-riverside/plan-page-3-f1bb27f8e0a0.webp",
+      "sha256": "f1bb27f8e0a048c1254e2f858ad2fc8298b6f7ca18db2c3fec3acd5281effa60",
+      "originalBytes": 952552,
+      "width": 2500,
+      "height": 1768
+    },
+    {
+      "label": "5 BR end townhouse · THRS-E",
+      "area": "3,407.42 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/damac/damac-riverside/plan-page-2-3203f711e44f.webp",
+      "sha256": "3203f711e44f57c80b6df8727ded7a5d3ce66ead8e92be5bb19cab9ed3b85a1c",
+      "originalBytes": 902114,
+      "width": 2500,
+      "height": 1768
+    }
+  ]
+}

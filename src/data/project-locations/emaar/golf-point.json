@@ -1,0 +1,49 @@
+{
+  "projectId": "emaar-project-75",
+  "projectSlug": "golf-point",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Emaar South",
+  "travelHeading": "Approximate driving times in the Golf Point launch fact sheet",
+  "sourceLabel": "Emaar launch fact sheet via Geniemap · page 1",
+  "travel": {
+    "page": 1,
+    "sourceUrl": "https://cdn.geniemap.net/upload/87/58/09/e3/c1673da0-e691-4952-a18f-6b18651729f9.pdf",
+    "scope": "Emaar’s Golf Point launch estimates for travel by car.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 7
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "These are developer estimates from launch. Check live directions for your starting point.",
+  "pin": {
+    "latitude": 24.860620621478336,
+    "longitude": 55.14367808465945,
+    "sourceUrl": "https://www.emaar.com/en/properties/golf-point-at-emaar-south",
+    "scope": "Emaar’s published Golf Point project point. Confirm your tower entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/golf-point/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional map showing Emaar South",
+    "scope": "Emaar’s regional Emaar South map, with Golf Point shown separately by its project point."
+  }
+}

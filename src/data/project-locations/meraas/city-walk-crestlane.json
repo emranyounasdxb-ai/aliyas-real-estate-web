@@ -1,0 +1,52 @@
+{
+  "projectId": "meraas-project-01",
+  "projectSlug": "city-walk-crestlane",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "City Walk, Al Wasl, Dubai",
+  "road": "Between Al Wasl Road and Sheikh Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/city-walk-crestlane/location-bbdd8d9cd361.png",
+    "sha256": "bbdd8d9cd361a27bf5c5f0e613f7a416b900873951d81b1175fcfed68e5f7c2b",
+    "originalBytes": 543633,
+    "width": 2800,
+    "height": 1981,
+    "sourceUrl": "https://meraas.com/sites/default/files/2025-11/City%20Walk%20Crestlane%20Brochure.pdf#page=7",
+    "alt": "Meraas schematic placing Crestlane by Al Wasl Road, City Walk and Coca-Cola Arena.",
+    "scope": "Illustrative orientation map. PDF page 26 highlights Crestlane 4 and 5 on the project masterplan.",
+    "caption": "Crestlane location and connectivity map, Meraas brochure PDF page 7."
+  },
+  "sourceLabel": "Meraas City Walk Crestlane proximity guide",
+  "travel": {
+    "sourceUrl": "https://meraas.com/en/project/city-walk-crestlane",
+    "scope": "Approximate times from Meraas’s project website. Only the City Walk Mall route is labeled a walk.",
+    "destinations": [
+      {
+        "name": "City Walk Mall · walk",
+        "minutes": 2
+      },
+      {
+        "name": "Sheikh Zayed Road",
+        "minutes": 3
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 7
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 7
+      },
+      {
+        "name": "Dubai International Financial Centre",
+        "minutes": 11
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "The brochure prose gives 10 minutes for Jumeirah Beach. The map panel and project site give 7. Travel varies by route and traffic."
+}

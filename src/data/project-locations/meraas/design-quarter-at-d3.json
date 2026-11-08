@@ -1,0 +1,56 @@
+{
+  "projectId": "meraas-project-15",
+  "projectSlug": "design-quarter-at-d3",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "Dubai Design District (d3), Dubai",
+  "road": "Near Al Khail Road and the Dubai Water Canal",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/design-quarter-at-d3/location-cc3f50248e5a.png",
+    "sha256": "cc3f50248e5a729ca2f6c704173ad01a16d5bd6d2495d963eb7cda7b6a39dfd1",
+    "originalBytes": 129812,
+    "width": 957,
+    "height": 845,
+    "sourceUrl": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=11",
+    "alt": "Meraas location map showing Design Quarter in Dubai Design District, the Dubai Water Canal and surrounding roads.",
+    "scope": "The developer map identifies Design Quarter within d3. Confirm the arrival point for the selected tower.",
+    "caption": "Design Quarter location map and travel estimates, Meraas brochure PDF page 11."
+  },
+  "sourceLabel": "Design Quarter Tower B brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=11",
+    "scope": "Approximate travel times from Design Quarter as published in the developer’s Tower B brochure.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 10
+      },
+      {
+        "name": "Business Bay",
+        "minutes": 15
+      },
+      {
+        "name": "DIFC",
+        "minutes": 15
+      },
+      {
+        "name": "Nad Al Sheba",
+        "minutes": 15
+      },
+      {
+        "name": "City Walk",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "The brochure figures are indicative. Actual travel time depends on the route and traffic."
+}

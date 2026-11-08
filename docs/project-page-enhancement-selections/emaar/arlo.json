@@ -1,0 +1,303 @@
+{
+  "id": "emaar-project-57",
+  "slug": "arlo",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/arlo-at-dubai-creek-harbour",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "waterfront",
+      "label": "ARLO across the creek at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/385015_hero_slide_0_52c74bc2d4_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/official-hero.jpg",
+      "position": "50% 50%",
+      "alt": "ARLO developer render: arlo across the creek at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "promenade",
+      "label": "Promenade beneath the bridge",
+      "url": "https://www.emaar.com/cms-media/uploads/384979_exterior_1_c4399e712c_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/384979_exterior_1_c4399e712c_prod.jpg",
+      "position": "50% 50%",
+      "alt": "ARLO developer render: promenade beneath the bridge. Proposed architecture or community setting."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom overlooking the creek",
+      "url": "https://www.emaar.com/cms-media/uploads/384988_interior_0_48d5592348_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/384988_interior_0_48d5592348_prod.jpg",
+      "position": "50% 50%",
+      "alt": "ARLO developer render: bedroom overlooking the creek. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Corner living room",
+      "url": "https://www.emaar.com/cms-media/uploads/384997_interior_1_33096b1ae9_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/384997_interior_1_33096b1ae9_prod.jpg",
+      "position": "50% 50%",
+      "alt": "ARLO developer render: corner living room. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Shared arrival lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/385006_interior_2_b49a687a08_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/385006_interior_2_b49a687a08_prod.jpg",
+      "position": "50% 50%",
+      "alt": "ARLO developer render: shared arrival lobby. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "waterfront",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Creek Harbour",
+    "travel": {
+      "page": 4,
+      "scope": "Dubai Creek Harbour journey estimates on the regional diagram in Emaar’s ARLO brochure.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 10
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 40
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/385314_brochure_File_7b6c971980_prod.pdf"
+    },
+    "travelNote": "Developer brochure estimates vary with the starting point, route and traffic. Confirm current transit services and the building entrance.",
+    "pin": {
+      "latitude": 25.20821576702089,
+      "longitude": 55.3567310730159,
+      "sourceUrl": "https://www.emaar.com/en/properties/arlo-at-dubai-creek-harbour",
+      "scope": "Reference point from Emaar’s ARLO page for the wider district. Public map pins differ. Confirm the building entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+      "cache": "artifacts/project-page-enhancement/arlo/04.-MAP---2400x1600px.jpg",
+      "alt": "Emaar regional map showing Dubai Creek Harbour",
+      "scope": "Emaar regional Dubai Creek Harbour diagram, including planned routes shown separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar original ARLO floor plans",
+    "introduction": "Select a one-, two- or three-bedroom apartment, or open the full townhouse drawing. The townhouse sheet shows all three levels and both published area variants.",
+    "selectorLabel": "Choose an ARLO apartment or townhouse layout",
+    "note": "Totals include the suite and outdoor area printed on each drawing. The ground-level townhouse sheet lists separate totals for unit 01 and units 02–08.",
+    "url": "https://www.emaar.com/cms-media/uploads/ARLO_DCH_FLOOR_PLANS.pdf",
+    "cache": "artifacts/project-details/emaar/arlo-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "1 BR · L1 · 05",
+        "area": "705.25 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          705.25
+        ],
+        "areaCalculation": "650.14 + 55.11 = 705.25 sq ft. Printed total 705.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-02.png"
+      },
+      {
+        "label": "1 BR · L02–23, 25–48 · 08",
+        "area": "705.25 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          705.25
+        ],
+        "areaCalculation": "650.14 + 55.11 = 705.25 sq ft. Printed total 705.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-03.png"
+      },
+      {
+        "label": "1 BR · L1 · 06",
+        "area": "705.25 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          705.25
+        ],
+        "areaCalculation": "650.14 + 55.11 = 705.25 sq ft. Printed total 705.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-04.png"
+      },
+      {
+        "label": "1 BR · L02–23, 25–48 · 09",
+        "area": "705.26 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          705.26
+        ],
+        "areaCalculation": "650.14 + 55.12 = 705.26 sq ft. Printed total 705.26 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-05.png"
+      },
+      {
+        "label": "1 BR · L1 · 02",
+        "area": "829.36 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          829.36
+        ],
+        "areaCalculation": "652.94 + 176.42 = 829.36 sq ft. Printed total 829.36 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-06.png"
+      },
+      {
+        "label": "1 BR · L1 · 03",
+        "area": "829.25 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          829.25
+        ],
+        "areaCalculation": "652.83 + 176.42 = 829.25 sq ft. Printed total 829.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-07.png"
+      },
+      {
+        "label": "1 BR · L02–23, 25–48 · 02",
+        "area": "709.13 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          709.13
+        ],
+        "areaCalculation": "654.02 + 55.11 = 709.13 sq ft. Printed total 709.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-08.png"
+      },
+      {
+        "label": "1 BR · L02–23, 25–48 · 06",
+        "area": "709.02 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          709.02
+        ],
+        "areaCalculation": "653.80 + 55.22 = 709.02 sq ft. Printed total 709.02 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-09.png"
+      },
+      {
+        "label": "2 BR · L02–23, 25–48 · 04",
+        "area": "1,208.79 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1208.79
+        ],
+        "areaCalculation": "1098.46 + 110.33 = 1208.79 sq ft. Printed total 1208.79 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-10.png"
+      },
+      {
+        "label": "2 BR · L24 · 02",
+        "area": "1,208.79 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1208.79
+        ],
+        "areaCalculation": "1098.46 + 110.33 = 1208.79 sq ft. Printed total 1208.79 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-11.png"
+      },
+      {
+        "label": "2 BR · L1 · 01",
+        "area": "1,258.41 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1258.41
+        ],
+        "areaCalculation": "1099.00 + 159.41 = 1258.41 sq ft. Printed total 1258.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-12.png"
+      },
+      {
+        "label": "2 BR · L02–23, 25–48 · 01",
+        "area": "1,258.41 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1258.41
+        ],
+        "areaCalculation": "1099.00 + 159.41 = 1258.41 sq ft. Printed total 1258.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-13.png"
+      },
+      {
+        "label": "2 BR · L1 · 04",
+        "area": "1,258.41 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1258.41
+        ],
+        "areaCalculation": "1099.00 + 159.41 = 1258.41 sq ft. Printed total 1258.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-14.png"
+      },
+      {
+        "label": "2 BR · L02–23, 25–48 · 07",
+        "area": "1,258.41 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1258.41
+        ],
+        "areaCalculation": "1099.00 + 159.41 = 1258.41 sq ft. Printed total 1258.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-15.png"
+      },
+      {
+        "label": "2 BR · L02–23, 25–48 · 03",
+        "area": "1,261.21 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1261.21
+        ],
+        "areaCalculation": "1107.18 + 154.03 = 1261.21 sq ft. Printed total 1261.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-16.png"
+      },
+      {
+        "label": "2 BR · L24 · 01",
+        "area": "1,261.21 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1261.21
+        ],
+        "areaCalculation": "1107.18 + 154.03 = 1261.21 sq ft. Printed total 1261.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-17.png"
+      },
+      {
+        "label": "3 BR · L02–23, 25–48 · 05",
+        "area": "1,745.05 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1745.05
+        ],
+        "areaCalculation": "1522.45 + 222.60 = 1745.05 sq ft. Printed total 1745.05 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-18.png"
+      },
+      {
+        "label": "3 BR · L24 · 03",
+        "area": "1,745.05 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1745.05
+        ],
+        "areaCalculation": "1522.45 + 222.60 = 1745.05 sq ft. Printed total 1745.05 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-19.png"
+      },
+      {
+        "label": "Townhouse · Ground · 01, 02–08",
+        "area": "3,262.55 sq ft (unit 01) / 3,275.68 sq ft (unit 02–08)",
+        "sourcePage": 20,
+        "areaValues": [
+          3262.55,
+          3275.68
+        ],
+        "areaCalculation": "unit 01: 2146.65 + 1115.90 = 3262.55 sq ft. Printed total 3262.55 sq ft. unit 02–08: 2157.20 + 1118.48 = 3275.68 sq ft. Printed total 3275.68 sq ft.",
+        "cache": "artifacts/project-page-enhancement/arlo/plan-20.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/arlo/",
+  "review": {
+    "images": "Reviewed the official ARLO wide hero and five gallery assets. Kept the wide waterfront image for gallery and card, omitted the alternate crop of that same scene, and retained the separate promenade, apartment living and bedroom and shared lobby.",
+    "location": "Developer’s own regional map, reference point and brochure physical page 4 reviewed. Read all three estimates visually, including the 10-minute DXB figure. Kardosh Realty’s published pin differs, so the developer point is labeled a district reference and no exact entrance is claimed.",
+    "floorPlans": "Official 20-page PDF verified against fresh bytes. Reviewed the cover, all 18 complete apartment drawings and the three-level townhouse sheet. All printed square-foot totals agree with their components. The shared townhouse drawing preserves both physical-area tables."
+  },
+  "unavailable": [
+    "Exact entrance, current walking routes and operating status of future transit services require confirmation."
+  ]
+}

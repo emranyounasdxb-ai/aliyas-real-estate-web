@@ -1,0 +1,62 @@
+{
+  "projectId": "aldar-project-02",
+  "projectSlug": "talay",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+    "label": "Aldar Talay and Talay Beach floor plans · Mitchell’s Commercial Realty copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/talay/floor-plans-837fd25b2a6d.pdf",
+    "sha256": "837fd25b2a6d294e882dc53a73b44e58baf7824405a191058ca3b467dcfd3f10"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the three villa layouts published for Talay. Each original sheet shows both levels.",
+  "selectorLabel": "Choose a Talay floor plan",
+  "note": "The figure above is the published gross saleable area. The drawing lists the average plot area separately. Confirm the area and layout of the specific villa.",
+  "plans": [
+    {
+      "label": "4 BR villa",
+      "area": "502 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/talay/plan-page-3-bc73a408291c.webp",
+      "sha256": "bc73a408291cb5f8d49e14d1f3c8254fb903ae6d056011ac1c158a4f0938fffd",
+      "originalBytes": 1001882,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "5 BR villa",
+      "area": "582 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/aldar/talay/plan-page-4-4d2dbd816427.webp",
+      "sha256": "4d2dbd8164277ea8732aff18fc40be1a5fe5746f1e343bc266f2457798e51802",
+      "originalBytes": 1103528,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "6 BR villa",
+      "area": "630 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/aldar/talay/plan-page-5-4925cace554a.webp",
+      "sha256": "4925cace554ad73796fe2f9f6a2dc6485f88379a935f1bd920b402ed8118fe3d",
+      "originalBytes": 1103966,
+      "width": 2400,
+      "height": 1200
+    }
+  ]
+}

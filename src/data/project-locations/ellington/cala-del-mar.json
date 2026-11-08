@@ -1,0 +1,77 @@
+{
+  "projectId": "ellington-project-19",
+  "projectSlug": "cala-del-mar",
+  "developerSlug": "ellington",
+  "checkedOn": "2026-11-06",
+  "community": "View Island, Al Marjan Island, Ras Al Khaimah",
+  "road": "Marjan Island Boardwalk",
+  "pin": {
+    "latitude": 25.68812,
+    "longitude": 55.73173,
+    "sourceUrl": "https://jre.ae/hi/projects/cala-del-mar",
+    "scope": "Approximate Cala Del Mar site point, consistent with the developer’s View Island map. Check site access before travelling."
+  },
+  "map": {
+    "src": "/images/projects/ellington/cala-del-mar/location-428761ee5bfb.jpg",
+    "sha256": "428761ee5bfbb45c46d65465e70ff29eb152fbc4635c87ad4a815e66ad81112f",
+    "originalBytes": 89948,
+    "width": 1920,
+    "height": 1357,
+    "sourceUrl": "https://www.caladelmar.ae/img/project/homepage/n/map.jpg",
+    "alt": "Ellington map marking Cala Del Mar on View Island, with Dream Island and routes to the mainland.",
+    "scope": "Developer illustration for orientation.",
+    "caption": "Ellington Cala Del Mar official location map"
+  },
+  "sourceLabel": "Ellington Cala Del Mar microsite map",
+  "travel": {
+    "sourceUrl": "https://www.caladelmar.ae/img/project/homepage/n/map.jpg",
+    "scope": "Approximate drive times published on the developer’s Cala Del Mar location map.",
+    "destinations": [
+      {
+        "name": "Wynn Al Marjan Island (planned opening)",
+        "minutes": 5
+      },
+      {
+        "name": "RAK Central",
+        "minutes": 12
+      },
+      {
+        "name": "Al Hamra Mall",
+        "minutes": 12
+      },
+      {
+        "name": "Al Hamra Golf Club",
+        "minutes": 14
+      },
+      {
+        "name": "RAK Track",
+        "minutes": 15
+      },
+      {
+        "name": "RAK Mall",
+        "minutes": 25
+      },
+      {
+        "name": "Al Qawasim Corniche and RAK Eye",
+        "minutes": 31
+      },
+      {
+        "name": "Ras Al Khaimah International Airport (RKT)",
+        "minutes": 34
+      },
+      {
+        "name": "Jebel Jais entrance",
+        "minutes": 44
+      },
+      {
+        "name": "Sharjah International Airport (SHJ)",
+        "minutes": 49
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 60
+      }
+    ]
+  },
+  "travelNote": "Routes and traffic affect these estimates. The developer page gives two different airport times. The 34-minute figure follows the location map. Wynn Al Marjan Island is a future opening."
+}

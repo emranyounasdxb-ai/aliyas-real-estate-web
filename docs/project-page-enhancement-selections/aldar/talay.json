@@ -1,0 +1,119 @@
+{
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "id": "aldar-project-02",
+  "slug": "talay",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/talay",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "villa-exterior",
+      "label": "Talay villa with stone frontage",
+      "position": "50% 50%",
+      "alt": "Aldar render of talay villa with stone frontage.",
+      "url": "https://asset.aldar.com/damascus/launch/mp-talay/talay_marsa_al_sadiyat_service_slide_1_desktop.webp",
+      "cache": "artifacts/project-page-enhancement/talay/talay_marsa_al_sadiyat_service_slide_1_desktop.webp"
+    },
+    {
+      "name": "villa-living",
+      "label": "Double-height living room with garden glazing",
+      "position": "50% 50%",
+      "alt": "Aldar render of double-height living room with garden glazing.",
+      "url": "https://asset.aldar.com/damascus/launch/mp-talay/talay_marsa_al_sadiyat_service_slide_2_desktop.webp",
+      "cache": "artifacts/project-page-enhancement/talay/talay_marsa_al_sadiyat_service_slide_2_desktop.webp"
+    },
+    {
+      "name": "villa-bedroom",
+      "label": "Bedroom with a garden outlook",
+      "position": "50% 50%",
+      "alt": "Aldar render of bedroom with a garden outlook.",
+      "url": "https://asset.aldar.com/damascus/launch/mp-talay/talay_marsa_al_sadiyat_service_slide_3_desktop.webp",
+      "cache": "artifacts/project-page-enhancement/talay/talay_marsa_al_sadiyat_service_slide_3_desktop.webp"
+    },
+    {
+      "name": "community-pavilion",
+      "label": "Outdoor majlis pavilion in the shared launch gallery",
+      "position": "50% 50%",
+      "alt": "Aldar render of outdoor majlis pavilion in the shared launch gallery.",
+      "url": "https://asset.aldar.com/damascus/launch/mp-talay/talay_marsa_al_sadiyat_inspired_1_desktop.webp",
+      "cache": "artifacts/project-page-enhancement/talay/talay_marsa_al_sadiyat_inspired_1_desktop.webp"
+    },
+    {
+      "name": "community-pool",
+      "label": "Pool and gardens in the shared launch gallery",
+      "position": "50% 50%",
+      "alt": "Aldar render of pool and gardens in the shared launch gallery.",
+      "url": "https://asset.aldar.com/damascus/launch/mp-talay/talay_marsa_al_sadiyat_inspired_2_desktop.webp",
+      "cache": "artifacts/project-page-enhancement/talay/talay_marsa_al_sadiyat_inspired_2_desktop.webp"
+    }
+  ],
+  "cardName": "villa-exterior",
+  "editorialNames": [
+    "villa-living",
+    "villa-bedroom"
+  ],
+  "location": {
+    "community": "Marsa Al Saadiyat · Inland villas",
+    "pin": null,
+    "map": {
+      "url": "https://aldar.property-sales-centre.com/talay/assets/v4/masterplan-1600.webp",
+      "cache": "artifacts/project-page-enhancement/talay/masterplan-context.webp",
+      "alt": "Aerial plan marking inland Talay and coastal Talay Beach within Marsa Al Saadiyat.",
+      "caption": "Aldar masterplan render reproduced by Property Sales Centre. The labelled areas show the proposed communities.",
+      "scope": "Shared precinct plan. No verified entrance coordinates."
+    },
+    "sourceLabel": "Property Sales Centre · precinct map and area estimates",
+    "travelHeading": "Approximate area travel time reported by Property Sales Centre",
+    "travel": {
+      "sourceUrl": "https://aldar.property-sales-centre.com/talay/",
+      "scope": "Joint community estimate. No individual villa route supplied.",
+      "destinations": [
+        {
+          "name": "Saadiyat Cultural District",
+          "minutes": 5
+        }
+      ]
+    },
+    "travelNote": "Talay sits inland around landscaped open space. Aldar places the marina, retail hub and beach within 1 km of the joint development. Distances vary by villa and planned routes may change."
+  },
+  "floorPlans": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+    "cache": "artifacts/project-page-enhancement/talay/plans.pdf",
+    "label": "Aldar Talay and Talay Beach floor plans · Mitchell’s Commercial Realty copy",
+    "introduction": "Explore the three villa layouts published for Talay. Each original sheet shows both levels.",
+    "selectorLabel": "Choose a Talay floor plan",
+    "note": "The figure above is the published gross saleable area. The drawing lists the average plot area separately. Confirm the area and layout of the specific villa.",
+    "plans": [
+      {
+        "label": "4 BR villa",
+        "area": "502 sq m gross saleable area",
+        "sourcePage": 3,
+        "cache": "artifacts/project-page-enhancement/talay/plan-3.png"
+      },
+      {
+        "label": "5 BR villa",
+        "area": "582 sq m gross saleable area",
+        "sourcePage": 4,
+        "cache": "artifacts/project-page-enhancement/talay/plan-4.png"
+      },
+      {
+        "label": "6 BR villa",
+        "area": "630 sq m gross saleable area",
+        "sourcePage": 5,
+        "cache": "artifacts/project-page-enhancement/talay/plan-5.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/talay/",
+  "review": {
+    "images": "Aldar launch page groups the first three villa scenes under Talay and the next three under Talay Beach. Checked the published slider configuration and the individual images. The pavilion and pool appear in the shared opening gallery and are identified as shared launch imagery. Each card uses its own phase exterior.",
+    "location": "Aldar describes the relative precinct positions and joint 1 km amenity context. Reviewed the labelled masterplan reproduced by Property Sales Centre and used its approximate five-minute Cultural District estimate. Excluded a broker graphic with price overlays and used name-based directions because distinct entrance coordinates are unavailable.",
+    "floorPlans": "Reviewed all nine physical pages of the Aldar-branded joint plan PDF and verified the SHA-256 of the source. Selected only the three complete pages labelled for this precinct. Area labels use the printed gross saleable area, distinct from average plot area."
+  },
+  "unavailable": [
+    "No independently confirmed phase entrance coordinates or villa-specific route or signed area."
+  ]
+}

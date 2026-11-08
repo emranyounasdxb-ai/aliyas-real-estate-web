@@ -1,0 +1,92 @@
+{
+  "projectId": "emaar-project-49",
+  "developerSlug": "emaar",
+  "projectSlug": "avelia",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/ovelle-avelia/AVELIA_TV_FLOORPLAN.pdf",
+    "label": "Emaar floor plans · Mitchell’s-hosted copy",
+    "reviewedOn": "2026-11-03",
+    "pdf": "/images/projects/emaar/avelia/floor-plans/avelia-402a1886cf24.pdf",
+    "sha256": "402a1886cf249fe7dc3b73869628db52b776495d56a06c9104a4236c299df9c6"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm",
+    "maxDimension": 2400,
+    "format": "PNG",
+    "scope": "Complete unedited PDF pages 2–7, including developer notes and logos"
+  },
+  "plans": [
+    {
+      "label": "4 bedroom villa · Type A",
+      "area": "4,334.73 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-2-b67fac39b44a.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "b67fac39b44ad42ca4f82b1617585eba1e6a752c2321f46981324bee3a9234e9"
+    },
+    {
+      "label": "4 bedroom villa · Type B",
+      "area": "4,355.72 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-3-9a0fed88c90d.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "9a0fed88c90d512bcde6dbcec75bbbb250a9c5b9b1b4794f8806b495ff4572cd"
+    },
+    {
+      "label": "5 bedroom Medium villa · Type A",
+      "area": "5,669.88 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-4-a99141d8ab43.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "a99141d8ab4380f2104ea68cf1cd17951a9d10abec53b701fe0adeedff73385a"
+    },
+    {
+      "label": "5 bedroom Medium villa · Type B",
+      "area": "5,639.42 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-5-bfa719957566.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "bfa719957566c146327afedba206de99d749ae159b732dc694e7b08e684035af"
+    },
+    {
+      "label": "5 bedroom Premium villa · Type A",
+      "area": "7,728.37 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-6-d4cf49306fff.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "d4cf49306fff388c352060a78178762dfae23dd4ed82eae3f8572265c2d69cda"
+    },
+    {
+      "label": "5 bedroom Premium villa · Type B",
+      "area": "7,970.24 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/avelia/floor-plans/page-7-e8e7a01185f1.png",
+      "width": 2400,
+      "height": 1778,
+      "sha256": "e8e7a01185f133425d7d661da4e873e96182f16b38fa5fe2220bcab78aed0a08"
+    }
+  ]
+}

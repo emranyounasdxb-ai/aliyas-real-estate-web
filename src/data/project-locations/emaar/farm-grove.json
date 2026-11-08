@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-98",
+  "projectSlug": "farm-grove",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "The Valley",
+  "map": {
+    "src": "/images/projects/emaar/farm-grove/location-5e27ffd0d93d.png",
+    "sha256": "5e27ffd0d93d548160ee5854750b946cf4e7a31b9bb0968304ea10d7c5d49a37",
+    "originalBytes": 402626,
+    "width": 2400,
+    "height": 1500,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/FARM-GROVE_brochure.pdf#page=4",
+    "alt": "Regional map in the Emaar Farm Grove brochure. The Blue Line is shown as future.",
+    "scope": "Regional map in the Emaar Farm Grove brochure. The Blue Line is shown as future."
+  },
+  "travelHeading": "Estimated travel times in the Emaar brochure",
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/FARM-GROVE_brochure.pdf",
+    "page": 4,
+    "scope": "Approximate Emaar launch estimates for The Valley.",
+    "destinations": [
+      {
+        "name": "The Sevens Stadium",
+        "minutes": 5
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "These estimates come from the Farm Grove launch brochure. Check live directions and allow for traffic. The Blue Line is shown as a future route.",
+  "pin": {
+    "latitude": 25.01870813768092,
+    "longitude": 55.43935262698917,
+    "sourceUrl": "https://www.emaar.com/en/properties/farm-grove-at-the-valley",
+    "scope": "Emaar’s published Farm Grove collection point. Confirm the address for a specific home."
+  }
+}

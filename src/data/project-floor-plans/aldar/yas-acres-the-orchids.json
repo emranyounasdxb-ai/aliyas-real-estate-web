@@ -1,0 +1,62 @@
+{
+  "projectId": "aldar-project-37",
+  "projectSlug": "yas-acres-the-orchids",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/7ac5c885528347528745ad0e346c8f55.pdf",
+    "label": "Aldar The Orchids townhouse plans · Reelly-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/aldar/yas-acres-the-orchids/floor-plans-3d5fb3d2b276.pdf",
+    "sha256": "3d5fb3d2b276029f7862fe6220c7e65fedc59d8264b6b133db374f1cf50c70c4"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the two-bedroom mid and the three-bedroom mid and end townhouses. Each sheet shows the ground and first floors together.",
+  "selectorLabel": "Choose a floor plan for The Orchids",
+  "note": "The area figures are category averages from page 21 of the Aldar presentation. Public drawings reviewed cover townhouses. Villa drawings and signed home areas need confirmation.",
+  "plans": [
+    {
+      "label": "2 BR townhouse · Mid",
+      "area": "126 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/aldar/yas-acres-the-orchids/plan-page-1-a74a1635ad4e.webp",
+      "sha256": "a74a1635ad4e070f96b5220006bd8100da50f102aca1c2c54f6d9ad21f003723",
+      "originalBytes": 814346,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR townhouse · Mid",
+      "area": "160 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/aldar/yas-acres-the-orchids/plan-page-2-9b7041200df5.webp",
+      "sha256": "9b7041200df54f0ff4098517c10101f2c4552a1660d8ae7b01c35afc16a9eafe",
+      "originalBytes": 687834,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR townhouse · End",
+      "area": "162 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/yas-acres-the-orchids/plan-page-3-f1b2e8230523.webp",
+      "sha256": "f1b2e823052370b1148dffdd36ec5c32daf2696ad9bd40ddcef2884a954b1f49",
+      "originalBytes": 968914,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

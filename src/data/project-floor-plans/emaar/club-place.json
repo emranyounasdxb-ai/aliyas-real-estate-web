@@ -1,0 +1,504 @@
+{
+  "projectId": "emaar-project-65",
+  "projectSlug": "club-place",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/CLUB-PLACE_floorplan.pdf",
+    "label": "Emaar Club Place original Buildings A, B and C floor plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/club-place/floor-plans-d88a9880ffae.pdf",
+    "sha256": "d88a9880ffaedd6d6c429ddb64080f7fe042017f68392362b9eca2a14921d677"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one-, two- and three-bedroom apartments by building, layout and unit group. The first two pages of the PDF include the cover and a building massing plan.",
+  "selectorLabel": "Choose a Club Place building and layout",
+  "note": "Ranges show Emaar’s published endpoints for the whole group. The Building C CG03 total is printed as 1,281.01 sq ft, while its displayed components add to 1,281.04 sq ft. Confirm your signed unit area.",
+  "plans": [
+    {
+      "label": "A · 1 BR · Type 1A · A207 / A208",
+      "area": "767.36 sq ft (units A207, A307, A407 + 16 on sheet) / 762.84 sq ft (units A208, A308, A408 + 16 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/club-place/plan-page-3-d62a5b38e1ae.webp",
+      "sha256": "d62a5b38e1ae4a5937b6b584fe135b91051e7cce4a65b3902f60714527fd1191",
+      "originalBytes": 456176,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1C · A106 / A107",
+      "area": "833.02 sq ft (unit A106) / 826.13 sq ft (unit A107)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/club-place/plan-page-4-cf56d8d3b61f.webp",
+      "sha256": "cf56d8d3b61fcd0e1e0ccc879a5502d5321d8ed2fae5e786c115174e7d198b7f",
+      "originalBytes": 479464,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2A · A201",
+      "area": "697.72 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/club-place/plan-page-5-54e390f00332.webp",
+      "sha256": "54e390f00332ae89bd1fb07b49db9f779093b1ebc4fc9886dc7f58355e7b692e",
+      "originalBytes": 425840,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2B · A209",
+      "area": "693.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/club-place/plan-page-6-4ae6ed6f9f1b.webp",
+      "sha256": "4ae6ed6f9f1bcbe07324a208841e04173c28d3b0336ebadc3bde44142cdfa590",
+      "originalBytes": 421554,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1A · AP02 / A103",
+      "area": "1,168.10 sq ft (unit AP02) / 1,173.59 sq ft (units A103, A204, A304 + 17 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/club-place/plan-page-7-b41bdd179427.webp",
+      "sha256": "b41bdd179427287867f535e0212f55b72139a8e37785034c3e642350d057377a",
+      "originalBytes": 633430,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1C · AG02",
+      "area": "1,383.16 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/club-place/plan-page-8-a23f38678c96.webp",
+      "sha256": "a23f38678c96b4bfe6e0c18a0c8f038db9ab0aab2c4e96d811a16435f20044dd",
+      "originalBytes": 664718,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2A · A202",
+      "area": "1,421.80 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/club-place/plan-page-9-34df4af207e1.webp",
+      "sha256": "34df4af207e1212f49396da594d5b60d32aaf44c7dadcf6c1f8d09638f2a4cae",
+      "originalBytes": 775922,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2D · A101",
+      "area": "1,465.72 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/club-place/plan-page-10-ebf8e6c0c8cb.webp",
+      "sha256": "ebf8e6c0c8cbadb1da7bb8c479b0f33854376842dafb8a2822d0dab6e6c0fb91",
+      "originalBytes": 791080,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2E · A206",
+      "area": "1,524.38 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/club-place/plan-page-11-9933c2fd1779.webp",
+      "sha256": "9933c2fd177980f4ca4d64a601f8e800025022c9e82bbf8060cdeede18440a3a",
+      "originalBytes": 804816,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2F · A105",
+      "area": "1,559.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/club-place/plan-page-12-776290d4da59.webp",
+      "sha256": "776290d4da59ea53540622363807f0bcdd6cc00fb755e3795d14440b3a14ef7a",
+      "originalBytes": 807032,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1A · AP01",
+      "area": "1,751.61–1,752.90 sq ft (units AP01, A102, A203 + 18 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/club-place/plan-page-13-9192a11cb2e0.webp",
+      "sha256": "9192a11cb2e094a977259c62b2d5a64fde2b954840e576b3217a605c4fd307fa",
+      "originalBytes": 806764,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1B · A205",
+      "area": "1,757.96 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/club-place/plan-page-14-ddfd29b36dff.webp",
+      "sha256": "ddfd29b36dfff1cc310cc7c8bc9c9c3ca0b48d4c32332bf474170a89ae8922e9",
+      "originalBytes": 821992,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1C · AG01",
+      "area": "1,931.37 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/club-place/plan-page-15-aef7075b9c43.webp",
+      "sha256": "aef7075b9c43966176e0ba98f9150d85f97956d48819cf29a498d475f683cbd3",
+      "originalBytes": 794662,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1E · A104",
+      "area": "1,653.98 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/club-place/plan-page-16-fa8ea02af9af.webp",
+      "sha256": "fa8ea02af9aff671df5d10f6c3b2c06095a5e7af107e6ff099918be6706984d9",
+      "originalBytes": 772112,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 2A · AP03",
+      "area": "1,665.82 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/club-place/plan-page-17-f5a3daa5c0c1.webp",
+      "sha256": "f5a3daa5c0c16cfa9d2be05c748aeba77479c021d4132d2511e59a4f9c511c4d",
+      "originalBytes": 783842,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 2C · AG03",
+      "area": "1,923.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/club-place/plan-page-18-7bd467bfba84.webp",
+      "sha256": "7bd467bfba84dfcacf58ff753b190851bd152544592152f06fa35fe59804c3c3",
+      "originalBytes": 831444,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 3A · BP08 / B215",
+      "area": "741.63–752.40 sq ft (units BP08, BP09, BP10 + 3 on sheet) / 745.40–752.50 sq ft (units B215, B216, B217 + 36 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/club-place/plan-page-19-2cad3f2f9481.webp",
+      "sha256": "2cad3f2f9481bfe75988adb58904e8e1caf8ab579a8429549ec86d2157d58632",
+      "originalBytes": 382500,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 3B · BP03 / B1406",
+      "area": "745.72–751.54 sq ft (units BP03, BP04, BP05 + 5 on sheet) / 742.82–746.37 sq ft (units B1406, B1503, B1504 + 10 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/club-place/plan-page-20-8e92363571a2.webp",
+      "sha256": "8e92363571a2174d8a37b80454815c2a1cfa03e13aa518902631537173308408",
+      "originalBytes": 388154,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 3C · BG01 / BG03",
+      "area": "901.80 sq ft (unit BG01) / 897.82 sq ft (unit BG03)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/club-place/plan-page-21-905813bc68a2.webp",
+      "sha256": "905813bc68a279481385de2d37be604a7bf5e309758d50db398119dfabb14244",
+      "originalBytes": 398884,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 3G · BG02",
+      "area": "899.97 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/club-place/plan-page-22-1949e287e425.webp",
+      "sha256": "1949e287e4250beb9b46ff084fc54db59a91e1f18afcc42bd12cfa065e70aecc",
+      "originalBytes": 385120,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 4A · BP01",
+      "area": "726.89–728.39 sq ft (units BP01, B101, B201 + 15 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/club-place/plan-page-23-6d1e005a554d.webp",
+      "sha256": "6d1e005a554d631264324e55051a1c11694231f044da656f7b9fd4ab1ec6c312",
+      "originalBytes": 399808,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 1 BR · Type 5A · BP02",
+      "area": "784.90–785.98 sq ft (units BP02, B102, B202 + 15 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/club-place/plan-page-24-0f0c4d23a15a.webp",
+      "sha256": "0f0c4d23a15a49608529f93160be22c4246142845bcc5db2a6c97b85b6a8caae",
+      "originalBytes": 465264,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 3A · BP11 / B214",
+      "area": "1,219.34 sq ft (units BP11, B112) / 1,221.60 sq ft (units B214, B314, B414 + 10 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/club-place/plan-page-25-c89c49e34052.webp",
+      "sha256": "c89c49e3405235e00ddff205e50c3c3804c7fe36895fe0fcb376afd3c78ff0e6",
+      "originalBytes": 616636,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 3C · BGO4",
+      "area": "1,571.96 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/emaar/club-place/plan-page-26-0b03d9a98426.webp",
+      "sha256": "0b03d9a98426c706bb36f6324d79fae98a3eb1833719114576d649cc54215af9",
+      "originalBytes": 669050,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 4A · BP07 / B207",
+      "area": "1,143.23 sq ft (units BP07, B107) / 1,152.49 sq ft (units B207, B307, B407 + 13 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/emaar/club-place/plan-page-27-f010893f3cdd.webp",
+      "sha256": "f010893f3cdd0505c263f00f9bc1e8c001b81f4357d7e10192dcb5b34e854f69",
+      "originalBytes": 583194,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 5A · B210",
+      "area": "1,085.65–1,086.08 sq ft (units B210, B211, B212 + 39 on sheet)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/emaar/club-place/plan-page-28-1053da818ae9.webp",
+      "sha256": "1053da818ae9b772a04060b4c2b68ed42d022c828d45791ee19736608d4ecd45",
+      "originalBytes": 555362,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 5B · B209",
+      "area": "1,086.83 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/emaar/club-place/plan-page-29-f6dc406974af.webp",
+      "sha256": "f6dc406974afc4b389f4848672fbfce526dfb72e0ff7620648d2502b949eff7b",
+      "originalBytes": 549014,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 5C · B110",
+      "area": "1,224.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/emaar/club-place/plan-page-30-938e6c8c7eab.webp",
+      "sha256": "938e6c8c7eabb214c39ba5a24fcf419c1e40f06a6a0c179175663cf7e9495c4a",
+      "originalBytes": 605146,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 2 BR · Type 5G · B109",
+      "area": "1,237.53 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/emaar/club-place/plan-page-31-f4a8294b67d9.webp",
+      "sha256": "f4a8294b67d9110d95d81ba233aeabb0a4a1a4cf717de0b035e494940423f55c",
+      "originalBytes": 615450,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 3 BR · Type 3A · B213",
+      "area": "1,604.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/emaar/club-place/plan-page-32-4758706b0e1b.webp",
+      "sha256": "4758706b0e1b3ce6fbd3c84bcbec70382a66bc565f1501d80921fe3de7985af5",
+      "originalBytes": 778710,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 3 BR · Type 3C · B111",
+      "area": "1,799.73 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/emaar/club-place/plan-page-33-a56ca52af206.webp",
+      "sha256": "a56ca52af20641896ec8c175d207389b7d7ce965add1cb1ba597b375882d3969",
+      "originalBytes": 808218,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 3 BR · Type 4A · B208",
+      "area": "1,551.29 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/emaar/club-place/plan-page-34-edea89e3c9d6.webp",
+      "sha256": "edea89e3c9d6f3e9fbc4837777216f57fd94efcc0e5ed2bebdc3771d85ea8c67",
+      "originalBytes": 743568,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "B · 3 BR · Type 4C · B108",
+      "area": "1,754.52 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/emaar/club-place/plan-page-35-919fcb98ca42.webp",
+      "sha256": "919fcb98ca4296a7a5e7ac91a942d89b33c30c96f227c85ff6764acc8d85029d",
+      "originalBytes": 781368,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "C · 2 BR · Type 6A · CP02 / CP04",
+      "area": "1,087.37 sq ft (unit CP02) / 1,091.89 sq ft (unit CP04)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/emaar/club-place/plan-page-36-749219f88016.webp",
+      "sha256": "749219f88016a281cf8a3d65198c437365d2891119bd4f1f0aea0e2107a5d416",
+      "originalBytes": 570714,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "C · 2 BR · Type 6B · CP01 / CP03",
+      "area": "1,088.55 sq ft (unit CP01) / 1,087.48 sq ft (unit CP03)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/emaar/club-place/plan-page-37-2f034b7ced12.webp",
+      "sha256": "2f034b7ced12a084e157ddbd3b1cd8f39cb3e1121e561656ddf64c5b5abb63a7",
+      "originalBytes": 546304,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "C · 2 BR · Type 6C · CG02 / CG04",
+      "area": "1,281.01 sq ft (unit CG02) / 1,283.06 sq ft (unit CG04)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/emaar/club-place/plan-page-38-feaf4b99669a.webp",
+      "sha256": "feaf4b99669ac30fe272a00d993e5793be8cb3e3f7b9781bda03a0ac5467cca2",
+      "originalBytes": 616306,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "C · 2 BR · Type 6F · CG01 / CG03",
+      "area": "1,281.12 sq ft (unit CG01) / 1,281.01 sq ft (unit CG03) · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/emaar/club-place/plan-page-39-82d14d55759b.webp",
+      "sha256": "82d14d55759bbfc1ae7e555340f95492986657052da527805af77196e3aa480c",
+      "originalBytes": 624832,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

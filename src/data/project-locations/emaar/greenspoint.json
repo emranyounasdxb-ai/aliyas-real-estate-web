@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-21",
+  "projectSlug": "greenspoint",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Emaar South",
+  "road": "",
+  "pin": {
+    "latitude": 24.85245710264999,
+    "longitude": 55.13374318650818,
+    "sourceUrl": "https://www.emaar.com/en/properties/greenspoint-at-emaar-south",
+    "scope": "Developer-published Greenspoint reference point. Confirm the exact townhouse and entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/greenspoint/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional diagram locating Emaar South in southern Dubai",
+    "scope": "Regional community diagram, not to scale. Proposed transport shown does not confirm operational service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/398425_brochure_File_fbffb6d51f_prod.pdf",
+    "page": 3,
+    "scope": "Own Greenspoint brochure community driving estimates, visually checked; not live routing.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 7
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30
+      }
+    ]
+  }
+}

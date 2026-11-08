@@ -11,7 +11,7 @@ export type ProjectResearch = {
   status: 'in-progress' | 'reviewed';
   reviewedOn: string;
   sources: readonly ProjectResearchSource[];
-  fieldSources: Readonly<Record<string, readonly string[]>>;
+  fieldSources: Readonly<Partial<Record<string, readonly string[]>>>;
   reviewCoverage: Readonly<Record<string, string>>;
   overview: readonly string[];
   community: string;

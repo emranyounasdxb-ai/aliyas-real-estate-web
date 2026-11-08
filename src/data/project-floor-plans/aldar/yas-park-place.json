@@ -1,0 +1,88 @@
+{
+  "projectId": "aldar-project-07",
+  "projectSlug": "yas-park-place",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/8a5e8259f2f34113a0c925b039f117ba.pdf",
+    "label": "Yas Park Place floor-plan booklet · Reelly-hosted Aldar copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/yas-park-place/floor-plans-541be662c1a0.pdf",
+    "sha256": "541be662c1a0066d6a8a17b8ad5cf14d785986d59950f4c68358a6e34c537587"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "View the original studio, apartment and duplex layouts. The duplex drawing shows both levels.",
+  "selectorLabel": "Choose a Yas Park Place floor plan",
+  "note": "Area labels show averages by home category from Aldar’s brochure, page 29. Individual examples can be larger or smaller. Confirm the signed area of the home you choose.",
+  "plans": [
+    {
+      "label": "Studio",
+      "area": "45.15 sq m · published category average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/yas-park-place/plan-page-6-60537108dbf0.webp",
+      "sha256": "60537108dbf072c7a7492360ed8bb804d553054c33fa48afaf636e7ccd7bca5b",
+      "originalBytes": 253380,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR apartment",
+      "area": "80.86 sq m · published category average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/aldar/yas-park-place/plan-page-7-6cdb0d18858c.webp",
+      "sha256": "6cdb0d18858cc48776045384f10dbd8da6bc93b773830777ea16cf26aaad2ac3",
+      "originalBytes": 481458,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR apartment",
+      "area": "130.10 sq m · published category average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/aldar/yas-park-place/plan-page-8-d24cca1aca60.webp",
+      "sha256": "d24cca1aca60e43d876b08fead120bc507ad289d810c0f4703e52c37d89cb1c4",
+      "originalBytes": 625214,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid duplex",
+      "area": "225.07 sq m · published category average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/aldar/yas-park-place/plan-page-9-499fe8bbdb6c.webp",
+      "sha256": "499fe8bbdb6c655f9ca525c5a3ec22e9ef12915083c65d575fc75d80f804d667",
+      "originalBytes": 635298,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + maid apartment",
+      "area": "163.05 sq m · published category average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/aldar/yas-park-place/plan-page-10-f300dec0d568.webp",
+      "sha256": "f300dec0d568203885561b233350bf245d2c4ae9addd8a563b2697ed8abfec91",
+      "originalBytes": 578318,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

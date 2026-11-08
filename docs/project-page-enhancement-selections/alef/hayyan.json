@@ -1,0 +1,681 @@
+{
+  "slug": "hayyan",
+  "id": "alef-project-05",
+  "developerSlug": "alef",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/hayyan/",
+  "source": {
+    "name": "Alef Group",
+    "url": "https://www.alefgroup.ae/alef-communities/hayyan/",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "hayyan-townhouses",
+  "images": [
+    {
+      "name": "hayyan-townhouses",
+      "cache": "artifacts/project-page-enhancement/hayyan/Exterior-Images-2-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-2-1.jpg",
+      "label": "Proposed Hayyan townhouse frontage",
+      "alt": "Alef Group render showing proposed hayyan townhouse frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-street",
+      "cache": "artifacts/project-page-enhancement/hayyan/Exterior-Images-1-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-1-1.jpg",
+      "label": "Proposed Hayyan residential street",
+      "alt": "Alef Group render showing proposed hayyan residential street.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-villa",
+      "cache": "artifacts/project-page-enhancement/hayyan/Exterior-Images-3-2.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-3-2.jpg",
+      "label": "Proposed Hayyan villa entrance",
+      "alt": "Alef Group render showing proposed hayyan villa entrance.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-garden",
+      "cache": "artifacts/project-page-enhancement/hayyan/Exterior-Images-4-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-4-1.jpg",
+      "label": "Proposed Hayyan private garden concept",
+      "alt": "Alef Group render showing proposed hayyan private garden concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-rear",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan_exterior-–-12x-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan_exterior-–-12x-1.jpg",
+      "label": "Proposed Hayyan villa garden elevation",
+      "alt": "Alef Group render showing proposed hayyan villa garden elevation.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-large-villa",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan_exterior-–-22x.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan_exterior-–-22x.jpg",
+      "label": "Proposed Hayyan villa frontage",
+      "alt": "Alef Group render showing proposed hayyan villa frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-woodland",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan_exterior-–-32x.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan_exterior-–-32x.jpg",
+      "label": "Proposed Hayyan villa landscape",
+      "alt": "Alef Group render showing proposed hayyan villa landscape.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-arrival",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan_exterior-–-42x.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan_exterior-–-42x.jpg",
+      "label": "Proposed Hayyan villa arrival",
+      "alt": "Alef Group render showing proposed hayyan villa arrival.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-pool-villa",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan_exterior-–-52x.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan_exterior-–-52x.jpg",
+      "label": "Proposed Hayyan pool-villa concept",
+      "alt": "Alef Group render showing proposed hayyan pool-villa concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-lagoon",
+      "cache": "artifacts/project-page-enhancement/hayyan/Amenities-74-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-74-1.jpg",
+      "label": "Proposed Hayyan community lagoon",
+      "alt": "Alef Group render showing proposed hayyan community lagoon.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-lagoon-aerial",
+      "cache": "artifacts/project-page-enhancement/hayyan/Amenities-79-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-79-1.jpg",
+      "label": "Proposed Hayyan lagoon neighbourhood",
+      "alt": "Alef Group render showing proposed hayyan lagoon neighbourhood.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-play",
+      "cache": "artifacts/project-page-enhancement/hayyan/Amenities-45-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-45-1.jpg",
+      "label": "Proposed Hayyan shared play gardens",
+      "alt": "Alef Group render showing proposed hayyan shared play gardens.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-walk",
+      "cache": "artifacts/project-page-enhancement/hayyan/Amenities-50-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-50-1.jpg",
+      "label": "Proposed Hayyan community walking route",
+      "alt": "Alef Group render showing proposed hayyan community walking route.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-mosque",
+      "cache": "artifacts/project-page-enhancement/hayyan/Amenities-65-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-65-1.jpg",
+      "label": "Proposed Hayyan community mosque",
+      "alt": "Alef Group render showing proposed hayyan community mosque.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-bedroom",
+      "cache": "artifacts/project-page-enhancement/hayyan/Interior-Images-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-1.jpg",
+      "label": "Proposed Hayyan bedroom concept",
+      "alt": "Alef Group render showing proposed hayyan bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-living",
+      "cache": "artifacts/project-page-enhancement/hayyan/Interior-Images-2.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-2.jpg",
+      "label": "Proposed Hayyan living-room concept",
+      "alt": "Alef Group render showing proposed hayyan living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-lounge",
+      "cache": "artifacts/project-page-enhancement/hayyan/Interior-Images-3.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-3.jpg",
+      "label": "Proposed Hayyan lounge concept",
+      "alt": "Alef Group render showing proposed hayyan lounge concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-arim-living",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan-native-p28-0.jpg",
+      "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf#page=28",
+      "label": "Arim · original living-room concept",
+      "alt": "Original Alef Arim brochure render of the proposed living.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-arim-kitchen",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan-native-p35-0.jpg",
+      "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf#page=35",
+      "label": "Arim · original kitchen concept",
+      "alt": "Original Alef Arim brochure render of the proposed kitchen.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "hayyan-arim-bedroom",
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan-native-p36-0.jpg",
+      "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf#page=36",
+      "label": "Arim · original bedroom concept",
+      "alt": "Original Alef Arim brochure render of the proposed bedroom.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "hayyan-arim-living",
+    "hayyan-arim-bedroom"
+  ],
+  "location": {
+    "community": "Al Barashi, Sharjah",
+    "road": "Emirates Road · published community context",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/hayyan/hayyan-map-web-3.png",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan-map-web-3.png",
+      "alt": "Alef Group regional map marking Hayyan near Emirates Road.",
+      "caption": "Hayyan · developer regional location map.",
+      "scope": "Community vicinity. A surveyed visitor entrance and phase-specific access coordinates remain unverified."
+    },
+    "sourceLabel": "Alef Group current Hayyan web map",
+    "travel": {
+      "sourceUrl": "https://www.alefgroup.ae/wp-content/uploads/2026/04/hayyan-map-web-3.png",
+      "scope": "Developer estimates. Only the unnamed nearest-hospital entry explicitly specifies driving. Exact origin, other journey modes and traffic conditions are unspecified.",
+      "destinations": [
+        {
+          "name": "Sharjah International Airport",
+          "minutes": 10
+        },
+        {
+          "name": "Sharjah University City",
+          "minutes": 15
+        },
+        {
+          "name": "06 Mall",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 25
+        },
+        {
+          "name": "Nearest hospital · source unspecified",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "The current web map gives 25 minutes to Dubai International Airport. The Hayyan microsite and Deem brochure give 15. Earlier Arim and later Deem maps also differ on Sharjah Mosque, at 5 and 10 minutes. These source-published estimates retain their revision and community scope. Confirm the contracted phase entrance and current routes. Surveyed coordinates and kilometre journeys remain unavailable."
+  },
+  "floorPlans": {
+    "url": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-f53230b0.pdf",
+    "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans.pdf",
+    "label": "Arim · original Alef drawings hosted by Property Finder",
+    "renderTool": "Poppler pdftoppm, lossless WebP delivery",
+    "introduction": "Explore the published Arim, Alma and Deem layouts, alongside original neighbourhood plans including Samr.",
+    "selectorLabel": "Choose a phase, complete home drawing or original community map",
+    "note": "All 60 complete sheets retain source artwork and notices. Repeated totals on separate ground and upper sheets describe the same whole home. Plot and built areas differ. Earlier Arim 2BTC1 is 1,657.76 sq ft, versus 1,667.44 in the later pack. Minor component rounding remains. Deem repeats placeholder codes across variants, and sheet 9 incorrectly heads a three-bedroom drawing as two bedrooms. Its broker-added prices and payment examples are historical. Master-plan 4S1 pricing of AED 3,709,000 conflicts with AED 3,079,000 on the separate payment sheet. Confirm the contracted phase, final plan revision, areas and commercial terms.",
+    "plans": [
+      {
+        "sourcePage": 17,
+        "label": "Arim · regional location",
+        "area": "Context drawing, no single-home area",
+        "documentId": "arim-own",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-own-review-17.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Arim · earlier community concept",
+        "area": "Context drawing, no single-home area",
+        "documentId": "arim-own",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-own-review-19.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Arim · marked neighbourhood plan",
+        "area": "Context drawing, no single-home area",
+        "documentId": "arim-own",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-own-review-25.png"
+      },
+      {
+        "sourcePage": 54,
+        "label": "Arim 2 · 2 BR TH · 2BTC1-001",
+        "area": "1,667.44 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-54.png"
+      },
+      {
+        "sourcePage": 55,
+        "label": "Arim 2 · 3 BR TH · 3BTC1-001",
+        "area": "2,056.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-55.png"
+      },
+      {
+        "sourcePage": 56,
+        "label": "Arim 3 · 3 BR TH · 3BTD2-001",
+        "area": "1,819.10 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-56.png"
+      },
+      {
+        "sourcePage": 57,
+        "label": "Arim 1 · 3 BR TH · 3BTB1-001",
+        "area": "2,366.04 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-57.png"
+      },
+      {
+        "sourcePage": 58,
+        "label": "Arim 2 · 4 BR TH · 4BTA1-009",
+        "area": "2,709.62 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-58.png"
+      },
+      {
+        "sourcePage": 59,
+        "label": "Arim 2 · 4 BR TH · 4BTC1-001",
+        "area": "2,473.76 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-59.png"
+      },
+      {
+        "sourcePage": 76,
+        "label": "Arim 1 · 4 BR villa · 4BV1-004",
+        "area": "3,658.33 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-76.png"
+      },
+      {
+        "sourcePage": 77,
+        "label": "Arim 3 · 4 BR villa · 4BV1-025",
+        "area": "3,658.33 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-77.png"
+      },
+      {
+        "sourcePage": 78,
+        "label": "Arim 1 · 4 BR · 4BLV1 RF-001 · upper",
+        "area": "4,340.69 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-78.png"
+      },
+      {
+        "sourcePage": 79,
+        "label": "Arim 1 · 4 BR · 4BLV1 GF-001 · ground",
+        "area": "4,340.69 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-79.png"
+      },
+      {
+        "sourcePage": 80,
+        "label": "Arim 1 · 5 BR · 5BLV1 RF-001 · upper",
+        "area": "5,884.84 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-80.png"
+      },
+      {
+        "sourcePage": 81,
+        "label": "Arim 1 · 5 BR · 5BLV1 GF-001 · ground",
+        "area": "5,884.84 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-81.png"
+      },
+      {
+        "sourcePage": 82,
+        "label": "Arim 2 · 6 BR · 6BLV RF-001 · upper / roof",
+        "area": "7,191.79 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-82.png"
+      },
+      {
+        "sourcePage": 83,
+        "label": "Arim 2 · 6 BR · 6BLV GF-001 · ground",
+        "area": "7,191.79 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-83.png"
+      },
+      {
+        "sourcePage": 84,
+        "label": "Arim 1 · 7 BR · 7BMV1 RF-004 · upper",
+        "area": "10,218.70 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-84.png"
+      },
+      {
+        "sourcePage": 85,
+        "label": "Arim 1 · 7 BR · 7BMV1 GF-004 · ground",
+        "area": "10,218.70 sq ft whole-home total",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-plans-review-85.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Earlier Arim · marked master plan",
+        "area": "Context drawing, no single-home area",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-19.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Earlier Arim 1 · 2 BR TH · 2BTC2-24",
+        "area": "1,696.51 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "Earlier Arim 1 · 2 BR TH · 2BTC1-01",
+        "area": "1,657.76 sq ft earlier revision",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Earlier Arim 1 · 3 BR TH · 3BTD1-001",
+        "area": "1,777.44 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Earlier Arim 1 · 3 BR TH · 3BTC1-001",
+        "area": "2,056.12 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "Earlier Arim 3 · 4 BR TH · 4BTA2-006",
+        "area": "2,753.96 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-50.png"
+      },
+      {
+        "sourcePage": 51,
+        "label": "Earlier Arim 3 · 4 BR TH · 4BTA1-016",
+        "area": "2,709.62 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-51.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Earlier Arim 1 · 4 BR TH · 4BTC2-001",
+        "area": "2,518.97 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-52.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "Earlier Arim 1 · 4 BR TH · 4BTC1-001",
+        "area": "2,473.76 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-53.png"
+      },
+      {
+        "sourcePage": 68,
+        "label": "Earlier Arim 3 · 4 BR villa · 4BV1-028",
+        "area": "3,658.33 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-68.png"
+      },
+      {
+        "sourcePage": 69,
+        "label": "Earlier Arim 3 · 4 BR villa · 4BV1-025",
+        "area": "3,658.33 sq ft printed total",
+        "documentId": "arim-mirror",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror-review-69.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Alma · marked neighbourhood plan",
+        "area": "Context drawing, no single-home area",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-27.png"
+      },
+      {
+        "sourcePage": 70,
+        "label": "Alma 1 · 2 BR TH · 2BTB4-007",
+        "area": "2,005.44 sq ft printed total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-70.png"
+      },
+      {
+        "sourcePage": 71,
+        "label": "Alma 1 · 2 BR TH · 2BTB1-008",
+        "area": "1,842.47 sq ft printed total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-71.png"
+      },
+      {
+        "sourcePage": 72,
+        "label": "Alma 1 · 3 BR TH · 3BTA1-032",
+        "area": "2,159.47 sq ft printed total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-72.png"
+      },
+      {
+        "sourcePage": 73,
+        "label": "Alma 1 · 4 BR TH · 4BTA1-053",
+        "area": "2,709.62 sq ft printed total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-73.png"
+      },
+      {
+        "sourcePage": 76,
+        "label": "Alma · 4 BR · 4BLV2 RF-030 · upper / roof",
+        "area": "5,062.20 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-76.png"
+      },
+      {
+        "sourcePage": 77,
+        "label": "Alma · 4 BR · 4BLV2 GF-030 · ground",
+        "area": "5,062.20 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-77.png"
+      },
+      {
+        "sourcePage": 78,
+        "label": "Alma · 5 BR · 5BLV1 GF-033 · ground",
+        "area": "5,903.56 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-78.png"
+      },
+      {
+        "sourcePage": 79,
+        "label": "Alma · 5 BR · 5BLV1 FF-033 · upper",
+        "area": "5,903.56 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-79.png"
+      },
+      {
+        "sourcePage": 80,
+        "label": "Alma · 6 BR · 6BLV RF-015 · upper / roof",
+        "area": "7,191.79 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-80.png"
+      },
+      {
+        "sourcePage": 81,
+        "label": "Alma · 6 BR · 6BLV1 GF-015 · ground",
+        "area": "7,191.79 sq ft whole-home total",
+        "documentId": "alma-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans-review-81.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Deem · regional location",
+        "area": "Context drawing, no single-home area",
+        "documentId": "deem-brochure",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-brochure-review-15.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "Deem · community concept",
+        "area": "Context drawing, no single-home area",
+        "documentId": "deem-brochure",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-brochure-review-17.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Deem · marked neighbourhood plan",
+        "area": "Context drawing, no single-home area",
+        "documentId": "deem-brochure",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-brochure-review-25.png"
+      },
+      {
+        "sourcePage": 1,
+        "label": "Deem · historical priced master plan",
+        "area": "Historical broker price annotations",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-01.png"
+      },
+      {
+        "sourcePage": 2,
+        "label": "Deem · 2 BR · 2T1F-053",
+        "area": "1,813.72 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-02.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Deem · 2 BR · 2T1R-051",
+        "area": "1,866.35 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-03.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Deem · 2 BR · 2T2R-XXX · source sheet 4",
+        "area": "2,006.50 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Deem · 2 BR · 2T2F-XXX · source sheet 5",
+        "area": "1,866.46 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Deem · 2 BR · 2T2F-XXX · source sheet 6",
+        "area": "1,906.50 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Deem · 2 BR · 2T2R-XXX · source sheet 7",
+        "area": "1,964.30 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Deem · 3 BR · 3T1F-XXX · source sheet 8",
+        "area": "2,190.99 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Deem · 3 BR · 3T1F-XXX · disputed outer heading",
+        "area": "2,232.11 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Deem · 3 BR · 3T1R-XXX · source sheet 10",
+        "area": "2,296.69 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Deem · 3 BR · 3T1R-XXX · source sheet 11",
+        "area": "2,339.64 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Deem · 3 BR · 3T2-XXX · source sheet 12",
+        "area": "2,418.24 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Deem · 3 BR · 3T2-XXX · source sheet 13",
+        "area": "2,462.26 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Deem · 4 BR villa · 4S1 RF-XXX",
+        "area": "4,272.51 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-14.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Deem · 4 BR pool villa · 4V1 RF-XXX",
+        "area": "5,456.81 sq ft printed total",
+        "documentId": "deem-plans",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans-review-16.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Samr · marked neighbourhood plan",
+        "area": "Context drawing, no single-home area",
+        "documentId": "samr-brochure",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-samr-brochure-review-18.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "arim-own",
+        "label": "Arim · original developer brochure",
+        "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-own.pdf"
+      },
+      {
+        "id": "arim-mirror",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-arim-mirror.pdf"
+      },
+      {
+        "id": "alma-plans",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-alma-plans.pdf"
+      },
+      {
+        "id": "deem-brochure",
+        "label": "Deem · branded brochure, broker-hosted",
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/S9w1PD0HtBCBVtck0mG3lDLHnCBF5d91KDmsOXhB.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-brochure.pdf"
+      },
+      {
+        "id": "deem-plans",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-deem-plans.pdf"
+      },
+      {
+        "id": "samr-brochure",
+        "label": "Samr · branded brochure hosted by Property Finder",
+        "url": "https://new-projects-media.propertyfinder.com/project/73d67527-4e88-4cd5-bea5-606beadd6b16/brochure/application/iFgGFVcvg0tM0oXIdbWFZ6POcYSpTmi1Y4M4ZNYgcLE=/original.pdf",
+        "cache": "artifacts/project-page-enhancement/hayyan/hayyan-samr-brochure.pdf"
+      }
+    ]
+  },
+  "review": {
+    "imagery": "Root reviewed all 26 scoped original website resources and three native Arim brochure images. Twenty selected project renders preserve community and Arim concept scope. Generic children-on-lawn imagery, duplicate banner and unconfirmed show-home photographs were excluded. No completion status inferred from renders.",
+    "floorPlans": "Root reviewed all seven original PDF indexes and all 62 rendered review sheets, including two payment-only sheets excluded from the selector. All 50 residence area panels and historical Deem payment panels were visually checked. Sixty delivered complete choices comprise 50 residence sheets and ten original map/master context sheets. Bedroom-header, code, revision, historical-price and whole-home-total conflicts are explicit. Seven original byte/hash-checked PDFs and physical-page links are retained.",
+    "location": "Root visually read the current whole web map, original Arim regional map and Deem regional map. Current airport estimate and mosque-map revision conflicts remain explicit. Marked Arim, Alma, Deem and Samr maps retain their phase context. No precise surveyed entrance or journey distance inferred.",
+    "provenance": "Normal-GET dated URL/byte/SHA256 receipts cover seven original research PDFs, official HTML and all 26 website resources. Source masters remain unchanged. Protected identity and existing commercial research are preserved."
+  },
+  "unavailable": [
+    "Samr individual unit drawings and areas, Deem six-bedroom drawings, final contracted revisions, phase-specific surveyed visitor entrances and live kilometre routes were not established from reviewed sources. Historical broker price and payment material is preserved only as source context."
+  ]
+}

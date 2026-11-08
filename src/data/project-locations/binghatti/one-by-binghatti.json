@@ -1,0 +1,69 @@
+{
+  "projectId": "binghatti-project-20",
+  "projectSlug": "one-by-binghatti",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "community": "Business Bay, Dubai",
+  "road": "On Dubai Water Canal, with connections to Sheikh Zayed Road and Al Khail Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/binghatti/one-by-binghatti/location-58ecbdb91d39.png",
+    "sha256": "58ecbdb91d3971dd8aaa595b8523006d974187543803cfd87f78ad8da6d0c807",
+    "originalBytes": 1099520,
+    "width": 4292,
+    "height": 1686,
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-brochure.pdf#page=14",
+    "alt": "One by Binghatti marked on the developer map with labelled nearby destinations.",
+    "scope": "Schematic showing canal and city connections. The complete source includes the legend.",
+    "caption": "Business Bay location diagram, One by Binghatti brochure PDF page 14."
+  },
+  "sourceLabel": "One by Binghatti brochure",
+  "travel": {
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/one-by-binghatti-assets/one-by-binghatti-brochure.pdf#page=14",
+    "scope": "Approximate journeys from One by Binghatti in Business Bay.",
+    "destinations": [
+      {
+        "name": "Dubai Opera",
+        "minutes": 4,
+        "maxMinutes": 5
+      },
+      {
+        "name": "Downtown Dubai and Burj Khalifa",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Canal Walk",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Fountain",
+        "minutes": 5
+      },
+      {
+        "name": "Coca-Cola Arena",
+        "minutes": 7
+      },
+      {
+        "name": "Dubai Design District",
+        "minutes": 7
+      },
+      {
+        "name": "Meydan Racecourse",
+        "minutes": 8
+      },
+      {
+        "name": "Dubai International Financial Centre",
+        "minutes": 10
+      },
+      {
+        "name": "Ras Al Khor Wildlife Sanctuary",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "The map gives Dubai Opera as 4 minutes and its legend gives 5 minutes. Check directions for current travel times."
+}

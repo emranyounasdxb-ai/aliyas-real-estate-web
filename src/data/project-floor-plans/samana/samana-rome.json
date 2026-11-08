@@ -1,0 +1,89 @@
+{
+  "projectId": "samana-project-17",
+  "projectSlug": "samana-rome",
+  "developerSlug": "samana",
+  "source": {
+    "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/40/fdaabec791565a3fd1282ef2e8b5221a.pdf",
+    "label": "SAMANA Rome · original official brochure and home plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/samana/samana-rome/floor-plans-05da99984189.pdf",
+    "sha256": "05da999841899596c83088237bf33ffa3aebc384dd5e08293c6d89646dd22c9a"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the complete original home layouts and separately attributed floorplates, with full-size zoom and physical source-page links.",
+  "selectorLabel": "Choose a home or building plan",
+  "note": "Two complete home drawings come from the official brochure. Two building sheets come from a Mitchell’s Commercial Realty mirror of the SAMANA-branded plan pack. The floorplates distinguish two two-bedroom types, without a confirmed mapping to the generic home drawing. Numerical unit areas are absent. Confirm the approved unit, configuration and contractual area with SAMANA.",
+  "plans": [
+    {
+      "label": "1 BR + pool · store/laundry shown",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/samana/samana-rome/plan-page-34-b08a33bc8af2.webp",
+      "sha256": "b08a33bc8af24fe9442bf32aa4a04d833d9597f7852087f9c2a1000728e91627",
+      "originalBytes": 463388,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "2 BR + pool · store/laundry shown",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/samana/samana-rome/plan-page-35-f87e50943dc7.webp",
+      "sha256": "f87e50943dc721b8b574f0152b77fd35c285d082ea7674149435b3f8bd52603c",
+      "originalBytes": 521670,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "Typical floors 1–4 · broker mirror",
+      "area": "Whole-floor overview · unit areas not stated",
+      "sourceIds": [
+        "plans-floorplates"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/samana/samana-rome/plan-floorplates-page-2-a7f926329309.webp",
+      "sha256": "a7f926329309e3e6af988e12131305c63eeade1d2132787ec38ad65a7ee7032d",
+      "originalBytes": 1850828,
+      "width": 3200,
+      "height": 2058,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/samana-rome/SAMANA_ROME_FLOOR_PLAN.pdf",
+        "label": "Mitchell’s Commercial Realty broker mirror · SAMANA-branded Rome floorplates",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/samana/samana-rome/floor-plans-floorplates-a2e7f9690c42.pdf",
+        "sha256": "a2e7f9690c4224004475aaf67fac6a8acd94e917b7d7abefa5bff9bc1adb816f"
+      }
+    },
+    {
+      "label": "Fifth floor · broker mirror",
+      "area": "Whole-floor overview · unit areas not stated",
+      "sourceIds": [
+        "plans-floorplates"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/samana/samana-rome/plan-floorplates-page-3-34ca88e99bbe.webp",
+      "sha256": "34ca88e99bbe6d7df01c85c2daba09a191a51c799ba82e19990feef33a723342",
+      "originalBytes": 1768328,
+      "width": 3200,
+      "height": 2058,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/samana-rome/SAMANA_ROME_FLOOR_PLAN.pdf",
+        "label": "Mitchell’s Commercial Realty broker mirror · SAMANA-branded Rome floorplates",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/samana/samana-rome/floor-plans-floorplates-a2e7f9690c42.pdf",
+        "sha256": "a2e7f9690c4224004475aaf67fac6a8acd94e917b7d7abefa5bff9bc1adb816f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "projectId": "ellington-project-17",
+  "projectSlug": "belmont-residences",
+  "developerSlug": "ellington",
+  "checkedOn": "2026-11-06",
+  "community": "District 4, Jumeirah Village Triangle, Dubai",
+  "road": "Near Al Khail Road and Sheikh Mohammed Bin Zayed Road",
+  "pin": {
+    "latitude": 25.04454,
+    "longitude": 55.19499,
+    "sourceUrl": "https://jre.ae/projects/belmont-residences",
+    "scope": "Approximate Belmont Residences building point, consistent with the Ellington District 4 map. Check street access before travelling."
+  },
+  "map": {
+    "src": "/images/projects/ellington/belmont-residences/location-c20702bb8d6b.png",
+    "sha256": "c20702bb8d6b47b66120e6fbc2c29384a054ba4a25d610fc80ac44d4d7f58a04",
+    "originalBytes": 467220,
+    "width": 1450,
+    "height": 1450,
+    "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_BROCHURE.pdf#page=6",
+    "alt": "Ellington’s neighbourhood map marking Belmont Residences in JVT District 4 near Sunmarke School.",
+    "scope": "Historical developer map for orientation.",
+    "caption": "Ellington Belmont neighbourhood map · Mitchells mirror"
+  },
+  "sourceLabel": "Ellington Belmont brochure, page 5 · Mitchells mirror",
+  "travel": {
+    "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_BROCHURE.pdf#page=5",
+    "scope": "Approximate drive times from Ellington’s Belmont brochure.",
+    "destinations": [
+      {
+        "name": "Sunmarke School",
+        "minutes": 2
+      },
+      {
+        "name": "Arcadia School",
+        "minutes": 2
+      },
+      {
+        "name": "Jumeirah Golf Estates",
+        "minutes": 14
+      },
+      {
+        "name": "Montgomerie Golf Club",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Hills Golf Club",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 21
+      },
+      {
+        "name": "Burj Khalifa",
+        "minutes": 23
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 23
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 25
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "Routes and traffic affect these estimates. The brochure map includes Al Khail Avenue Mall. Its opening status was unconfirmed when the map was reviewed."
+}

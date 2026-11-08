@@ -1,0 +1,75 @@
+{
+  "projectId": "emaar-project-101",
+  "projectSlug": "palace-residences-hillside-b",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://files.keydeal.io/uploads/documents/1790771379761-e2382af5fe0e.pdf",
+    "label": "Emaar Palace Residences Hillside B original plans via White & Co",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/palace-residences-hillside-b/floor-plans-3e817ba92a9b.pdf",
+    "sha256": "3e817ba92a9b0f7797114415e318bf444133368c421eabf86ebf72568844ff69"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Browse one-, two- and three-bedroom apartment examples plus the three-bedroom duplex townhouse. Each original sheet is labelled Hillside B.",
+  "selectorLabel": "Choose a Hillside B floor plan",
+  "note": "The duplex sheet gives 2,690.66 sq ft for TH01 and 2,695.05 sq ft for TH02–TH05. The drawings cover selected types and unit groups. Confirm the signed plan for the unit you choose.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "749.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/emaar/palace-residences-hillside-b/plan-page-1-cd6ee1fde663.webp",
+      "sha256": "cd6ee1fde663ba4b4656e8409abdd1c661873a48c0782808e3b97ffd32566c5e",
+      "originalBytes": 329330,
+      "width": 2400,
+      "height": 1855
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "1,231.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/palace-residences-hillside-b/plan-page-2-658415e17cad.webp",
+      "sha256": "658415e17cadf17b154ddf9d8aef9df74dc7e1e48ac497fe882dc363eec2eb9b",
+      "originalBytes": 443414,
+      "width": 2400,
+      "height": 1855
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,603.39 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/palace-residences-hillside-b/plan-page-3-e2912833394d.webp",
+      "sha256": "e2912833394d56da855102f72e1b909a1c3b5cabafc0ef8559c2b71215146f43",
+      "originalBytes": 539334,
+      "width": 2400,
+      "height": 1855
+    },
+    {
+      "label": "3 BR · Duplex townhouses",
+      "area": "2,690.66–2,695.05 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/palace-residences-hillside-b/plan-page-4-44aabed75fca.webp",
+      "sha256": "44aabed75fca392528b81f87fbfd63153d0f966555768b0405f56df75ebe7154",
+      "originalBytes": 556854,
+      "width": 2400,
+      "height": 1855
+    }
+  ]
+}

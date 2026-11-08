@@ -1,0 +1,49 @@
+{
+  "projectId": "damac-project-16",
+  "projectSlug": "evergreens",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://new-projects-media.propertyfinder.com/project/7dc86bf7-e010-4192-93e7-924140ace743/brochure/application/tz9oTzYu9gvrTcPHRNqqlKCSP4g9Qe9xs_p9XlF36vg=/original.pdf",
+    "label": "DAMAC Evergreens brochure · Property Finder-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/evergreens/floor-plans-b73f684f362e.pdf",
+    "sha256": "b73f684f362ef60beb4dc3c744daaa94a0923f883d41ef71b3fa7d5e5177eaf8"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published one- and two-bedroom drawings with floor keys and balcony dimensions.",
+  "selectorLabel": "Choose an Evergreens floor plan",
+  "note": "The drawings show room dimensions. The total area varies by unit and is not printed on these sheets. Confirm the signed area for your apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Typical layout",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/damac/evergreens/plan-page-26-ed10ec0e70c1.webp",
+      "sha256": "ed10ec0e70c1f9d2545a3ba6e9e45f964b8b596bd6e3dfc8471610002e61794c",
+      "originalBytes": 233498,
+      "width": 2500,
+      "height": 1407
+    },
+    {
+      "label": "2 BR · Typical layout",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/damac/evergreens/plan-page-27-0efcd9e04626.webp",
+      "sha256": "0efcd9e04626ab7b989de4c5a9c13f5d914047d05a970c9c55d99e8d901621a7",
+      "originalBytes": 319318,
+      "width": 2500,
+      "height": 1407
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "aldar-project-08",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/wilds/residences",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "living-dining",
+    "duplex-interior",
+    "bedroom"
+  ],
+  "location": {
+    "community": "The Wilds, Dubailand",
+    "road": "Near Majan and Al Barari, off the E311 corridor",
+    "pin": null,
+    "map": {
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/2b0a4001a1b049acb5795c7d51ce0d19.pdf#page=7",
+      "cache": "artifacts/project-page-enhancement/the-wilds-residences/brochure-map-p7.png",
+      "alt": "Aldar’s Dubai context map marking The Wilds Residences beside Majan and Al Barari.",
+      "caption": "The Wilds Residences location diagram from Aldar’s brochure, page 7.",
+      "scope": "Wider community position. No apartment-building entrance coordinates."
+    },
+    "sourceLabel": "Aldar brochure · page 7 · Reelly-hosted copy",
+    "travel": {
+      "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/2b0a4001a1b049acb5795c7d51ce0d19.pdf",
+      "page": 7,
+      "scope": "Published area estimates from the Aldar brochure.",
+      "destinations": [
+        {
+          "name": "Dubai International Airport",
+          "minutes": 25
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "The brochure places The Wilds beside Majan and Al Barari. Journey estimates are for the area. Use the project name in directions and confirm access for your building."
+  },
+  "floorPlans": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/15dda434aa3b432999b23c4cb933eccc.pdf",
+    "label": "Aldar The Wilds Residences floor plans · Reelly-hosted copy",
+    "introduction": "Compare apartments and duplexes in the residences. The duplex sheets show the upper and lower levels together.",
+    "selectorLabel": "Choose a Wilds Residences floor plan",
+    "note": "These published layouts do not give exact total area for each drawing. Confirm the signed layout and area for the apartment you choose.",
+    "plans": [
+      {
+        "label": "1 BR apartment",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 2,
+        "cache": "artifacts/project-page-enhancement/the-wilds-residences/plan-2.png"
+      },
+      {
+        "label": "2 BR apartment",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 3,
+        "cache": "artifacts/project-page-enhancement/the-wilds-residences/plan-3.png"
+      },
+      {
+        "label": "3 BR + maid apartment",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 4,
+        "cache": "artifacts/project-page-enhancement/the-wilds-residences/plan-4.png"
+      },
+      {
+        "label": "2 BR duplex",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 6,
+        "cache": "artifacts/project-page-enhancement/the-wilds-residences/plan-6.png"
+      },
+      {
+        "label": "3 BR duplex",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 8,
+        "cache": "artifacts/project-page-enhancement/the-wilds-residences/plan-8.png"
+      }
+    ],
+    "cache": "artifacts/project-page-enhancement/the-wilds-residences/plans.pdf"
+  },
+  "review": {
+    "images": "Aldar’s corporate project page identifies the sunset apartment-building lead render. The remaining scenes are from the Wilds Residences launch gallery and apartment and amenity sections. Kept the apartment release separate from the earlier villa and mansion phases. Corporate page: https://www.aldar.com/properties/en/uae/dubai/the-wilds-residences",
+    "location": "The Reelly-hosted Aldar brochure physical page 7 shows the project area and published 25-minute estimates to Dubai Airport and Dubai Mall. The official project marketing identifies the airport as Dubai International. The apartment entrance is not identified by coordinates.",
+    "floorPlans": "Original eight-page PDF SHA-256 matched the existing source. Visually verified pages 2–4 and both duplex plans on pages 6 and 8. Pages 5 and 7 are duplex introduction spreads. Unmeasured Bayut examples were not assigned to the drawings."
+  },
+  "unavailable": [
+    "Confirmed individual building entrances and signed unit total areas."
+  ],
+  "slug": "the-wilds-residences",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/the-wilds-residences/",
+  "images": [
+    {
+      "name": "sunset-towers",
+      "label": "The Wilds Residences balconies at sunset",
+      "alt": "Aldar render of the wilds residences balconies at sunset.",
+      "position": "52% 49%",
+      "cache": "artifacts/project-page-enhancement/the-wilds-residences/corporate-0.jpg",
+      "url": "https://images4.cmp.optimizely.com/assets/CAM03-SUNSET+CLOSE+VIEW.jpg/Zz0wN2FlMzZjYzEwYzExMWYxODFjMjVhZWUxNzViNmY3Yg=="
+    },
+    {
+      "name": "pool-and-buildings",
+      "label": "Apartment buildings behind the infinity pool",
+      "alt": "Aldar render of apartment buildings behind the infinity pool.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_specification_slider_1.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_specification_slider_1.webp"
+    },
+    {
+      "name": "living-dining",
+      "label": "Open-plan apartment living and dining area",
+      "alt": "Aldar render of open-plan apartment living and dining area.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_explore_slider_2.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_explore_slider_2.webp"
+    },
+    {
+      "name": "duplex-interior",
+      "label": "Duplex kitchen and dining area beside the stairs",
+      "alt": "Aldar render of duplex kitchen and dining area beside the stairs.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_explore_slider_4.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_explore_slider_4.webp"
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom with a balcony outlook",
+      "alt": "Aldar render of bedroom with a balcony outlook.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_explore_slider_1.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_explore_slider_1.webp"
+    },
+    {
+      "name": "bathroom",
+      "label": "Bathroom with green wall tiles and twin basins",
+      "alt": "Aldar render of bathroom with green wall tiles and twin basins.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_explore_slider_3.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_explore_slider_3.webp"
+    },
+    {
+      "name": "garden-walk",
+      "label": "Garden stream beside the apartment pavilions",
+      "alt": "Aldar render of garden stream beside the apartment pavilions.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_specification_slider_3.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_specification_slider_3.webp"
+    },
+    {
+      "name": "reading-lounge",
+      "label": "Shared reading lounge facing greenery",
+      "alt": "Aldar render of shared reading lounge facing greenery.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/wilds-launch/wilds_residence_carousel_item_2.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-wilds-residences/wilds_residence_carousel_item_2.webp"
+    }
+  ],
+  "cardName": "sunset-towers"
+}

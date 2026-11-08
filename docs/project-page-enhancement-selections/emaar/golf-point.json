@@ -1,0 +1,902 @@
+{
+  "id": "emaar-project-75",
+  "slug": "golf-point",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/golf-point-at-emaar-south",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "outlook",
+      "label": "Fairway, pool and sports court from above",
+      "url": "https://www.emaar.com/cms-media/uploads/389415_property_Hero_Image_7dc6476d0d_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/official-hero.jpg",
+      "position": "62% 56%",
+      "alt": "Golf Point developer render: fairway, pool and sports court from above. Proposed architecture or community setting."
+    },
+    {
+      "name": "pool",
+      "label": "Golf Point residences beside the outdoor pool",
+      "url": "https://www.emaar.com/cms-media/uploads/389460_exterior_0_3291e8bf71_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/389460_exterior_0_3291e8bf71_prod.jpg",
+      "position": "50% 42%",
+      "alt": "Golf Point developer render: golf point residences beside the outdoor pool. Proposed architecture or community setting."
+    },
+    {
+      "name": "lawns",
+      "label": "Open lawn next to the residences",
+      "url": "https://www.emaar.com/cms-media/uploads/389478_exterior_2_c5b73b6196_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/389478_exterior_2_c5b73b6196_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Golf Point developer render: open lawn next to the residences. Proposed architecture or community setting."
+    },
+    {
+      "name": "dining",
+      "label": "Living and dining room with terrace access",
+      "url": "https://www.emaar.com/cms-media/uploads/389487_interior_0_6070d24fdd_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/389487_interior_0_6070d24fdd_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Golf Point developer render: living and dining room with terrace access. Finishes and outlook vary by home."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom overlooking the fairway",
+      "url": "https://www.emaar.com/cms-media/uploads/389496_interior_1_4a43053a30_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/389496_interior_1_4a43053a30_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Golf Point developer render: bedroom overlooking the fairway. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Corner living room with wraparound views",
+      "url": "https://www.emaar.com/cms-media/uploads/389505_interior_2_fe3b71ffbe_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/389505_interior_2_fe3b71ffbe_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Golf Point developer render: corner living room with wraparound views. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "pool",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Emaar South",
+    "travelHeading": "Approximate driving times in the Golf Point launch fact sheet",
+    "sourceLabel": "Emaar launch fact sheet via Geniemap · page 1",
+    "travel": {
+      "page": 1,
+      "sourceUrl": "https://cdn.geniemap.net/upload/87/58/09/e3/c1673da0-e691-4952-a18f-6b18651729f9.pdf",
+      "scope": "Emaar’s Golf Point launch estimates for travel by car.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 7
+        },
+        {
+          "name": "Expo City Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 20
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 30
+        }
+      ]
+    },
+    "travelNote": "These are developer estimates from launch. Check live directions for your starting point.",
+    "pin": {
+      "latitude": 24.860620621478336,
+      "longitude": 55.14367808465945,
+      "sourceUrl": "https://www.emaar.com/en/properties/golf-point-at-emaar-south",
+      "scope": "Emaar’s published Golf Point project point. Confirm your tower entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+      "cache": "artifacts/project-page-enhancement/golf-point/04_MAP_2400x1600px_10b80cb630.jpg",
+      "alt": "Emaar regional map showing Emaar South",
+      "scope": "Emaar’s regional Emaar South map, with Golf Point shown separately by its project point."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Golf Point Tower 1 original floor-plan PDF",
+    "introduction": "Choose a one-, two- or three-bedroom layout in Tower 1 or Tower 2. Compare the full sheet when it gives separate figures for different unit groups.",
+    "selectorLabel": "Choose a Golf Point tower and layout",
+    "note": "The original Tower 2 PDF is credited to Mitchell’s. Its one-bedroom Type A.3 sheet lists component areas only. All other displayed totals follow the printed areas, including rounding of 0.01 sq ft. Confirm your signed unit plan.",
+    "additionalDocuments": [
+      {
+        "id": "tower-2",
+        "label": "Emaar Golf Point Tower 2 original PDF via Mitchell’s",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/golf-point/GOLF_POINT_TOWER_2_FLOOR_PLANS.pdf",
+        "cache": "artifacts/project-details/emaar/golf-point-tower-2.pdf"
+      }
+    ],
+    "url": "https://www.emaar.com/cms-media/uploads/Golf-Point_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/golf-point-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "Tower 1 · 1 BR · Type A.1 · G03",
+        "area": "796.42 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          796.42
+        ],
+        "areaCalculation": "617.53 + 178.90 = 796.43 sq ft. Printed total 796.42 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-02.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.3 · P04 / 118",
+        "area": "679.10 sq ft (see P04 group on sheet) / 678.77 sq ft (see 118 group on sheet)",
+        "sourcePage": 3,
+        "areaValues": [
+          679.1,
+          678.77
+        ],
+        "areaCalculation": "see P04 group on sheet: 617.53 + 61.57 = 679.10 sq ft. Printed total 679.10 sq ft. see 118 group on sheet: 617.20 + 61.57 = 678.77 sq ft. Printed total 678.77 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-03.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.4 · P02 / P03",
+        "area": "678.77 sq ft (see P02 group on sheet) / 679.20 sq ft (see P03 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          678.77,
+          679.2
+        ],
+        "areaCalculation": "see P02 group on sheet: 617.20 + 61.57 = 678.77 sq ft. Printed total 678.77 sq ft. see P03 group on sheet: 617.53 + 61.68 = 679.21 sq ft. Printed total 679.20 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-04.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.5 · 124",
+        "area": "906.97 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          906.97
+        ],
+        "areaCalculation": "617.96 + 289.01 = 906.97 sq ft. Printed total 906.97 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-05.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.6 · 101",
+        "area": "904.81 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          904.81
+        ],
+        "areaCalculation": "617.53 + 287.29 = 904.82 sq ft. Printed total 904.81 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-06.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.7 · P08",
+        "area": "674.57 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          674.57
+        ],
+        "areaCalculation": "613.00 + 61.57 = 674.57 sq ft. Printed total 674.57 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-07.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.8 · P07",
+        "area": "674.57 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          674.57
+        ],
+        "areaCalculation": "613.00 + 61.57 = 674.57 sq ft. Printed total 674.57 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-08.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.9 · 104",
+        "area": "900.40 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          900.4
+        ],
+        "areaCalculation": "613.00 + 287.40 = 900.40 sq ft. Printed total 900.40 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-09.png"
+      },
+      {
+        "label": "Tower 1 · 1 BR · Type A.10 · 103",
+        "area": "899.65 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          899.65
+        ],
+        "areaCalculation": "613.11 + 286.54 = 899.65 sq ft. Printed total 899.65 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-10.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.2 · G04",
+        "area": "1,405.87 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1405.87
+        ],
+        "areaCalculation": "925.48 + 480.39 = 1405.87 sq ft. Printed total 1405.87 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-11.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.3 · P10",
+        "area": "1,061.64 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1061.64
+        ],
+        "areaCalculation": "924.51 + 137.13 = 1061.64 sq ft. Printed total 1061.64 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-12.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.4 · P09 / 219 / 915",
+        "area": "1,061.21 sq ft (see P09 group on sheet) / 1,062.61 sq ft (see 219 group on sheet) / 1,063.90 sq ft (see 915 group on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1061.21,
+          1062.61,
+          1063.9
+        ],
+        "areaCalculation": "see P09 group on sheet: 924.08 + 137.13 = 1061.21 sq ft. Printed total 1061.21 sq ft. see 219 group on sheet: 925.48 + 137.13 = 1062.61 sq ft. Printed total 1062.61 sq ft. see 915 group on sheet: 926.77 + 137.13 = 1063.90 sq ft. Printed total 1063.90 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-13.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.6 · 120",
+        "area": "1,625.67 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1625.67
+        ],
+        "areaCalculation": "924.51 + 701.16 = 1625.67 sq ft. Printed total 1625.67 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-14.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.7 · 105",
+        "area": "1,740.42 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1740.42
+        ],
+        "areaCalculation": "924.51 + 815.90 = 1740.41 sq ft. Printed total 1740.42 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-15.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.9 · P11 / 116",
+        "area": "986.73 sq ft (see P11 group on sheet) / 989.42 sq ft (see 116 group on sheet)",
+        "sourcePage": 16,
+        "areaValues": [
+          986.73,
+          989.42
+        ],
+        "areaCalculation": "see P11 group on sheet: 925.05 + 61.68 = 986.73 sq ft. Printed total 986.73 sq ft. see 116 group on sheet: 927.74 + 61.68 = 989.42 sq ft. Printed total 989.42 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-16.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type A.11 · G01",
+        "area": "1,192.21 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1192.21
+        ],
+        "areaCalculation": "923.54 + 268.67 = 1192.21 sq ft. Printed total 1192.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-17.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type B.1 · 907",
+        "area": "996.20 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          996.2
+        ],
+        "areaCalculation": "934.52 + 61.68 = 996.20 sq ft. Printed total 996.20 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-18.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type B.2 · 906",
+        "area": "996.20 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          996.2
+        ],
+        "areaCalculation": "934.52 + 61.68 = 996.20 sq ft. Printed total 996.20 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-19.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type C.1 · G02",
+        "area": "1,191.67 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1191.67
+        ],
+        "areaCalculation": "924.08 + 267.59 = 1191.67 sq ft. Printed total 1191.67 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-20.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type C.3 · P12",
+        "area": "985.65 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          985.65
+        ],
+        "areaCalculation": "923.97 + 61.68 = 985.65 sq ft. Printed total 985.65 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-21.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type C.4 · 202",
+        "area": "985.65 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          985.65
+        ],
+        "areaCalculation": "923.97 + 61.68 = 985.65 sq ft. Printed total 985.65 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-22.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type C.5 · 123",
+        "area": "1,355.07 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1355.07
+        ],
+        "areaCalculation": "923.97 + 431.09 = 1355.06 sq ft. Printed total 1355.07 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-23.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type C.6 · 102",
+        "area": "1,354.21 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1354.21
+        ],
+        "areaCalculation": "923.97 + 430.23 = 1354.20 sq ft. Printed total 1354.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-24.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type D.1 · G06",
+        "area": "1,267.67 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1267.67
+        ],
+        "areaCalculation": "947.76 + 319.90 = 1267.66 sq ft. Printed total 1267.67 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-25.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type D.3 · P16",
+        "area": "1,091.89 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1091.89
+        ],
+        "areaCalculation": "950.88 + 141.01 = 1091.89 sq ft. Printed total 1091.89 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-26.png"
+      },
+      {
+        "label": "Tower 1 · 2 BR · Type E.1 · P01 / 904",
+        "area": "1,062.72 sq ft (see P01 group on sheet) / 1,063.04 sq ft (see 904 group on sheet)",
+        "sourcePage": 27,
+        "areaValues": [
+          1062.72,
+          1063.04
+        ],
+        "areaCalculation": "see P01 group on sheet: 925.59 + 137.13 = 1062.72 sq ft. Printed total 1062.72 sq ft. see 904 group on sheet: 925.91 + 137.13 = 1063.04 sq ft. Printed total 1063.04 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-27.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type A.1 · 902",
+        "area": "1,677.12 sq ft total area",
+        "sourcePage": 28,
+        "areaValues": [
+          1677.12
+        ],
+        "areaCalculation": "1532.67 + 144.45 = 1677.12 sq ft. Printed total 1677.12 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-28.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type A.2 · 917",
+        "area": "1,708.34 sq ft total area",
+        "sourcePage": 29,
+        "areaValues": [
+          1708.34
+        ],
+        "areaCalculation": "1531.17 + 177.17 = 1708.34 sq ft. Printed total 1708.34 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-29.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type B.1 · 903 / 910",
+        "area": "1,770.34 sq ft (see 903 group on sheet) / 1,775.29 sq ft (see 910 group on sheet)",
+        "sourcePage": 30,
+        "areaValues": [
+          1770.34,
+          1775.29
+        ],
+        "areaCalculation": "see 903 group on sheet: 1529.12 + 241.22 = 1770.34 sq ft. Printed total 1770.34 sq ft. see 910 group on sheet: 1534.07 + 241.22 = 1775.29 sq ft. Printed total 1775.29 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-30.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type B.2 · 916 / 1016",
+        "area": "1,770.56 sq ft (see 916 group on sheet) / 1,771.63 sq ft (see 1016 group on sheet)",
+        "sourcePage": 31,
+        "areaValues": [
+          1770.56,
+          1771.63
+        ],
+        "areaCalculation": "see 916 group on sheet: 1529.34 + 241.22 = 1770.56 sq ft. Printed total 1770.56 sq ft. see 1016 group on sheet: 1530.41 + 241.22 = 1771.63 sq ft. Printed total 1771.63 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-31.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.1 · G07",
+        "area": "2,071.84 sq ft total area",
+        "sourcePage": 32,
+        "areaValues": [
+          2071.84
+        ],
+        "areaCalculation": "1571.10 + 500.74 = 2071.84 sq ft. Printed total 2071.84 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-32.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.2 · G08",
+        "area": "2,073.24 sq ft total area",
+        "sourcePage": 33,
+        "areaValues": [
+          2073.24
+        ],
+        "areaCalculation": "1570.24 + 503.00 = 2073.24 sq ft. Printed total 2073.24 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-33.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.3 · P17",
+        "area": "1,879.49 sq ft total area",
+        "sourcePage": 34,
+        "areaValues": [
+          1879.49
+        ],
+        "areaCalculation": "1571.96 + 307.52 = 1879.48 sq ft. Printed total 1879.49 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-34.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.4 · P18",
+        "area": "1,880.24 sq ft total area",
+        "sourcePage": 35,
+        "areaValues": [
+          1880.24
+        ],
+        "areaCalculation": "1570.24 + 310.00 = 1880.24 sq ft. Printed total 1880.24 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-35.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.5 · G05",
+        "area": "2,191.21 sq ft total area",
+        "sourcePage": 36,
+        "areaValues": [
+          2191.21
+        ],
+        "areaCalculation": "1568.73 + 622.48 = 2191.21 sq ft. Printed total 2191.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-36.png"
+      },
+      {
+        "label": "Tower 1 · 3 BR · Type C.7 · P15",
+        "area": "1,901.01 sq ft total area",
+        "sourcePage": 37,
+        "areaValues": [
+          1901.01
+        ],
+        "areaCalculation": "1568.73 + 332.28 = 1901.01 sq ft. Printed total 1901.01 sq ft.",
+        "cache": "artifacts/project-page-enhancement/golf-point/plan-37.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.2 · G03",
+        "area": "802.45 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          802.45
+        ],
+        "areaCalculation": "617.53 + 184.92 = 802.45 sq ft. Printed total 802.45 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-02.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.3 · P02 group",
+        "area": "617.53 sq ft suite + 61.68 sq ft balcony · total unpublished",
+        "areaValues": [],
+        "areaCalculation": "Developer prints the suite and balcony figures only. No official total is shown on physical page 3.",
+        "sourcePage": 3,
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-03.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.4 · P04 / 209",
+        "area": "679.10 sq ft (see P04 group on sheet) / 678.88 sq ft (see 209 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          679.1,
+          678.88
+        ],
+        "areaCalculation": "see P04 group on sheet: 617.42 + 61.68 = 679.10 sq ft. Printed total 679.10 sq ft. see 209 group on sheet: 617.20 + 61.68 = 678.88 sq ft. Printed total 678.88 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-04.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.5 · 101",
+        "area": "904.81 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          904.81
+        ],
+        "areaCalculation": "617.53 + 287.29 = 904.82 sq ft. Printed total 904.81 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-05.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.6 · 124",
+        "area": "906.97 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          906.97
+        ],
+        "areaCalculation": "617.96 + 289.01 = 906.97 sq ft. Printed total 906.97 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-06.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.7 · P07",
+        "area": "674.79 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          674.79
+        ],
+        "areaCalculation": "613.11 + 61.68 = 674.79 sq ft. Printed total 674.79 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-07.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.8 · P08",
+        "area": "674.90 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          674.9
+        ],
+        "areaCalculation": "613.11 + 61.78 = 674.89 sq ft. Printed total 674.90 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-08.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.9 · 103 / 121",
+        "area": "900.40 sq ft (see 103 group on sheet) / 899.54 sq ft (see 121 group on sheet)",
+        "sourcePage": 9,
+        "areaValues": [
+          900.4,
+          899.54
+        ],
+        "areaCalculation": "see 103 group on sheet: 613.00 + 287.40 = 900.40 sq ft. Printed total 900.40 sq ft. see 121 group on sheet: 613.00 + 286.54 = 899.54 sq ft. Printed total 899.54 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-09.png"
+      },
+      {
+        "label": "Tower 2 · 1 BR · Type A.10 · 104",
+        "area": "900.40 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          900.4
+        ],
+        "areaCalculation": "613.00 + 287.40 = 900.40 sq ft. Printed total 900.40 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-10.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.1 · G04",
+        "area": "1,404.48 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1404.48
+        ],
+        "areaCalculation": "924.08 + 480.39 = 1404.47 sq ft. Printed total 1404.48 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-11.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.3 · P09",
+        "area": "1,061.00 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1061
+        ],
+        "areaCalculation": "923.87 + 137.13 = 1061.00 sq ft. Printed total 1061.00 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-12.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.4 · P10 / 220",
+        "area": "1,062.61 sq ft (see P10 group on sheet) / 1,061.64 sq ft (see 220 group on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1062.61,
+          1061.64
+        ],
+        "areaCalculation": "see P10 group on sheet: 925.48 + 137.13 = 1062.61 sq ft. Printed total 1062.61 sq ft. see 220 group on sheet: 924.51 + 137.13 = 1061.64 sq ft. Printed total 1061.64 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-13.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.5 · 120",
+        "area": "1,678.74 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1678.74
+        ],
+        "areaCalculation": "924.51 + 754.23 = 1678.74 sq ft. Printed total 1678.74 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-14.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.8 · 105",
+        "area": "1,740.42 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1740.42
+        ],
+        "areaCalculation": "924.51 + 815.90 = 1740.41 sq ft. Printed total 1740.42 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-15.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.10 · P11 / 116",
+        "area": "986.73 sq ft (see P11 group on sheet) / 989.53 sq ft (see 116 group on sheet)",
+        "sourcePage": 16,
+        "areaValues": [
+          986.73,
+          989.53
+        ],
+        "areaCalculation": "see P11 group on sheet: 925.05 + 61.68 = 986.73 sq ft. Printed total 986.73 sq ft. see 116 group on sheet: 927.85 + 61.68 = 989.53 sq ft. Printed total 989.53 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-16.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type A.12 · G01",
+        "area": "1,192.21 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1192.21
+        ],
+        "areaCalculation": "923.54 + 268.67 = 1192.21 sq ft. Printed total 1192.21 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-17.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type B.1 · 1006",
+        "area": "996.20 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          996.2
+        ],
+        "areaCalculation": "934.52 + 61.68 = 996.20 sq ft. Printed total 996.20 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-18.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type B.2 · 1007",
+        "area": "995.98 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          995.98
+        ],
+        "areaCalculation": "934.31 + 61.68 = 995.99 sq ft. Printed total 995.98 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-19.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type C.2 · G02",
+        "area": "1,185.64 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1185.64
+        ],
+        "areaCalculation": "924.08 + 261.56 = 1185.64 sq ft. Printed total 1185.64 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-20.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type C.3 · 202",
+        "area": "985.65 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          985.65
+        ],
+        "areaCalculation": "923.97 + 61.68 = 985.65 sq ft. Printed total 985.65 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-21.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type C.4 · P12",
+        "area": "985.65 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          985.65
+        ],
+        "areaCalculation": "923.97 + 61.68 = 985.65 sq ft. Printed total 985.65 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-22.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type C.5 · 102",
+        "area": "1,354.21 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1354.21
+        ],
+        "areaCalculation": "923.97 + 430.23 = 1354.20 sq ft. Printed total 1354.21 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-23.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type C.6 · 123",
+        "area": "1,355.07 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1355.07
+        ],
+        "areaCalculation": "923.97 + 431.09 = 1355.06 sq ft. Printed total 1355.07 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-24.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type D.2 · G06",
+        "area": "1,259.05 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1259.05
+        ],
+        "areaCalculation": "937.21 + 321.84 = 1259.05 sq ft. Printed total 1259.05 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-25.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type D.4 · P16",
+        "area": "1,080.37 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1080.37
+        ],
+        "areaCalculation": "937.21 + 143.16 = 1080.37 sq ft. Printed total 1080.37 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-26.png"
+      },
+      {
+        "label": "Tower 2 · 2 BR · Type E.2 · P01 / 206",
+        "area": "1,061.21 sq ft (see P01 group on sheet) / 1,060.89 sq ft (see 206 group on sheet)",
+        "sourcePage": 27,
+        "areaValues": [
+          1061.21,
+          1060.89
+        ],
+        "areaCalculation": "see P01 group on sheet: 924.08 + 137.13 = 1061.21 sq ft. Printed total 1061.21 sq ft. see 206 group on sheet: 923.76 + 137.13 = 1060.89 sq ft. Printed total 1060.89 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-27.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type A.1 · 1017",
+        "area": "1,708.23 sq ft total area",
+        "sourcePage": 28,
+        "areaValues": [
+          1708.23
+        ],
+        "areaCalculation": "1531.17 + 177.07 = 1708.24 sq ft. Printed total 1708.23 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-28.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type A.2 · 1002",
+        "area": "1,677.12 sq ft total area",
+        "sourcePage": 29,
+        "areaValues": [
+          1677.12
+        ],
+        "areaCalculation": "1532.67 + 144.45 = 1677.12 sq ft. Printed total 1677.12 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-29.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type B.1 · 1016",
+        "area": "1,770.34 sq ft total area",
+        "sourcePage": 30,
+        "areaValues": [
+          1770.34
+        ],
+        "areaCalculation": "1529.12 + 241.22 = 1770.34 sq ft. Printed total 1770.34 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-30.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type B.2 · 1003 / 1010",
+        "area": "1,770.45 sq ft (see 1003 group on sheet) / 1,775.29 sq ft (see 1010 group on sheet)",
+        "sourcePage": 31,
+        "areaValues": [
+          1770.45,
+          1775.29
+        ],
+        "areaCalculation": "see 1003 group on sheet: 1529.23 + 241.22 = 1770.45 sq ft. Printed total 1770.45 sq ft. see 1010 group on sheet: 1533.96 + 241.33 = 1775.29 sq ft. Printed total 1775.29 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-31.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.1 · G08",
+        "area": "2,073.02 sq ft total area",
+        "sourcePage": 32,
+        "areaValues": [
+          2073.02
+        ],
+        "areaCalculation": "1569.27 + 503.75 = 2073.02 sq ft. Printed total 2073.02 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-32.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.2 · G07",
+        "area": "2,070.98 sq ft total area",
+        "sourcePage": 33,
+        "areaValues": [
+          2070.98
+        ],
+        "areaCalculation": "1570.45 + 500.52 = 2070.97 sq ft. Printed total 2070.98 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-33.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.3 · P18",
+        "area": "1,880.13 sq ft total area",
+        "sourcePage": 34,
+        "areaValues": [
+          1880.13
+        ],
+        "areaCalculation": "1569.70 + 310.43 = 1880.13 sq ft. Printed total 1880.13 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-34.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.4 · P17",
+        "area": "1,878.84 sq ft total area",
+        "sourcePage": 35,
+        "areaValues": [
+          1878.84
+        ],
+        "areaCalculation": "1571.42 + 307.42 = 1878.84 sq ft. Printed total 1878.84 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-35.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.6 · G05",
+        "area": "2,180.01 sq ft total area",
+        "sourcePage": 36,
+        "areaValues": [
+          2180.01
+        ],
+        "areaCalculation": "1569.49 + 610.53 = 2180.02 sq ft. Printed total 2180.01 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-36.png"
+      },
+      {
+        "label": "Tower 2 · 3 BR · Type C.8 · P15",
+        "area": "1,901.66 sq ft total area",
+        "sourcePage": 37,
+        "areaValues": [
+          1901.66
+        ],
+        "areaCalculation": "1569.59 + 332.07 = 1901.66 sq ft. Printed total 1901.66 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/golf-point/tower-2/plan-37.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/golf-point/",
+  "review": {
+    "images": "Reviewed all six official gallery scenes and the wide hero. Removed the narrower duplicate fairway scene. The pool-side elevation supplies the card, with living and bedroom editorial images.",
+    "location": "Matched the exact Golf Point point and regional Emaar South map. Verified the launch fact sheet’s four driving estimates visually and matched its refetched file to the cached SHA-256 0ea62a1e5ef96cc863981b894f3af2ce1bc86b76f70665d36642de05bf910ff2. The developer’s PDF is hosted by a third party and the official property page confirms the community.",
+    "floorPlans": "Reviewed both original 37-page tower packs, including all 72 complete residence sheets. Cross-checked 85 total panels with PDFium, spatial extraction and arithmetic. Tower 2 physical page 3 prints 617.53 sq ft suite and 61.68 sq ft balcony with no total. The sheet and both component figures are available and no total is published for that layout."
+  },
+  "unavailable": [
+    "An official Tower 2 Type A.3 total, signed unit-specific areas and entrance coordinates were not verified."
+  ]
+}

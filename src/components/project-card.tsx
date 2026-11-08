@@ -27,7 +27,6 @@ export function ProjectCard({ project }: { project: Project }) {
             sizes="(max-width: 640px) 100vw, (max-width: 1000px) 50vw, 33vw"
           />
         </Link>
-        <span className="project-card-badge">Off-plan</span>
         <button
           className={`project-save ${isSaved ? 'is-saved' : ''}`}
           type="button"

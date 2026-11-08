@@ -1,0 +1,760 @@
+{
+  "projectId": "emaar-project-37",
+  "projectSlug": "sera-1",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/868f4fcab36a45eb9bc8bf1dcbb3e4e0.pdf",
+    "label": "Emaar Sera 1 · Reelly/Kleros broker-hosted pack (Building A and townhouses)",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/sera-1/floor-plans-7189cf88d46d.pdf",
+    "sha256": "7189cf88d46d8fea1a7ea3a76740a33e52809199ac1dd91d42ec22ed50797e4c"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare complete apartment sheets for Buildings A and B and the two-level three-bedroom townhouses. Each page retains its unit schedule, area table, key plan and developer notices.",
+  "selectorLabel": "Choose a Sera 1 building and layout",
+  "note": "Totals include balconies or terraces; they are not plot areas. Repeated types have separate unit-specific sheets. Building A sheet5 prints a balcony component that leaves a 1.00sqft discrepancy against its printed total; that total is retained for confirmation. Other 0.01sqft differences reflect rounded components. The earlier research caveat concerns an overprinted page in the merged pack. Building B now uses a separate, clean Emaar-branded broker-hosted booklet, including Type B1 at775.86sqft on its physical page6. The selected sheet controls its PDF download and source page. Confirm the current signed unit plan with Emaar.",
+  "plans": [
+    {
+      "label": "Building A · 1 bedroom · Type A1 · sheet 3",
+      "area": "757.03 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/sera-1/plan-page-3-48e12a184c5a.webp",
+      "sha256": "48e12a184c5a2b9322f9803da90424aef31d5a72faa07720926f6a6be604e74b",
+      "originalBytes": 302540,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type A1.1 · sheet 4",
+      "area": "903.31 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/sera-1/plan-page-4-250c1c93835d.webp",
+      "sha256": "250c1c93835d93fb6bbb21eb8fd4bd61424c17e9e2c9fab579b788b945b2e66d",
+      "originalBytes": 378298,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type A2 · sheet 5",
+      "area": "760.36 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/sera-1/plan-page-5-5963523dccfe.webp",
+      "sha256": "5963523dccfe4580f19a6bd34b8ca405a14a806b13b2962c2680d2aeff05e430",
+      "originalBytes": 292106,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type A2.1 · sheet 6",
+      "area": "882.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/sera-1/plan-page-6-6dc5c1200a52.webp",
+      "sha256": "6dc5c1200a528d4e70ff3697ed5465d029fdf2da931a8152731f809cbd0bb3d5",
+      "originalBytes": 363628,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type B1 · sheet 7",
+      "area": "776.29 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/sera-1/plan-page-7-d4ec60950f3f.webp",
+      "sha256": "d4ec60950f3f18749e74d5dbc38515696456c9a57bf3232a0e48342c56ed4b7d",
+      "originalBytes": 307404,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type C1 · sheet 8",
+      "area": "761.44 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/sera-1/plan-page-8-2e192046fa16.webp",
+      "sha256": "2e192046fa167ba76c6d16857ed7b3a15b8fba2a45314330026447d80f54b67a",
+      "originalBytes": 301540,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type C2 · sheet 9",
+      "area": "772.42 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/sera-1/plan-page-9-3be54aa22fed.webp",
+      "sha256": "3be54aa22fed6776e9c796b4a437b3e16b1a7c2c1899ad77fad23ca551d040eb",
+      "originalBytes": 291246,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type C2 · sheet 10",
+      "area": "756.16 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/sera-1/plan-page-10-9ce6a8c44bec.webp",
+      "sha256": "9ce6a8c44bec5213b638e261639e470d9b0ee0d8468095c13537fd434eae0cd4",
+      "originalBytes": 299210,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 1 bedroom · Type C2.1 · sheet 11",
+      "area": "903.95 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/sera-1/plan-page-11-105eed56c6d1.webp",
+      "sha256": "105eed56c6d1a27078201826405eee124eee0d123cb4ed272b7541808b7c4f85",
+      "originalBytes": 366440,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type A1 · sheet 12",
+      "area": "1,348.50 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/sera-1/plan-page-12-e3ea9a7a3d3b.webp",
+      "sha256": "e3ea9a7a3d3b2572351346d8a4dd51e13b921b13f66ac30028cff827d2ac6e04",
+      "originalBytes": 499524,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type A2 · sheet 13",
+      "area": "1,343.77 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/sera-1/plan-page-13-c51e3f7666d7.webp",
+      "sha256": "c51e3f7666d733313660ad6c6786bddb330f952a8a76e4e9fe1699f6b6c09532",
+      "originalBytes": 490052,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type A2.1 · sheet 14",
+      "area": "1,534.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/sera-1/plan-page-14-dd07bf154039.webp",
+      "sha256": "dd07bf154039d7f255fbd458036177f339dd05cddb8508a74f9ca86c32dbda0d",
+      "originalBytes": 542404,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type B1 · sheet 15",
+      "area": "1,204.05 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/sera-1/plan-page-15-263303fda4cf.webp",
+      "sha256": "263303fda4cf77ddd24c867f4b71aa0a32294ce29c56f8ddf3db91e6ebf70e42",
+      "originalBytes": 449942,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type B1 · sheet 16",
+      "area": "1,209.00 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/sera-1/plan-page-16-63f39f9dc219.webp",
+      "sha256": "63f39f9dc219561097dd59068a609ed88038f1cd980debc8e2967e484498200c",
+      "originalBytes": 445352,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type B1.1 · sheet 17",
+      "area": "1,397.69 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/sera-1/plan-page-17-ad3d54ae6a8a.webp",
+      "sha256": "ad3d54ae6a8a484eeb1870269ffb53f431332ab49310a45f09ada32810f8179c",
+      "originalBytes": 514422,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C1 · sheet 18",
+      "area": "1,335.37 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/sera-1/plan-page-18-62c641c47949.webp",
+      "sha256": "62c641c47949b0b31f2e7906dc4d8764930ae640fcb8913d097023c640b14f24",
+      "originalBytes": 489066,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C1 · sheet 19",
+      "area": "1,339.46 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/sera-1/plan-page-19-03484b34b468.webp",
+      "sha256": "03484b34b468cffb1cbabf35f734f68526f51eebd99a1c8b6a862b9aa3d70693",
+      "originalBytes": 479448,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C2 · sheet 20",
+      "area": "1,337.31 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/sera-1/plan-page-20-58b0c9e1474d.webp",
+      "sha256": "58b0c9e1474d847d5939432ad94ad9a24281d56db53ae92e282daf002bd91cac",
+      "originalBytes": 490576,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C2 · sheet 21",
+      "area": "1,350.55 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/sera-1/plan-page-21-6717ba31ec7f.webp",
+      "sha256": "6717ba31ec7f3698c6e98fa210660da71dfcdec7c01a896b07931924e697900c",
+      "originalBytes": 486114,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C2 · sheet 22",
+      "area": "1,353.88 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/sera-1/plan-page-22-aa2aa353b4a8.webp",
+      "sha256": "aa2aa353b4a8d22e22b41cf779f81a86eb2aaacbcdc32f67a7ee08f90aef5f98",
+      "originalBytes": 477634,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 2 bedrooms · Type C2 · sheet 23",
+      "area": "1,356.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/sera-1/plan-page-23-15a554d44a48.webp",
+      "sha256": "15a554d44a489190b893fc173332e3343f2e952917fd6438b04757a1684f685c",
+      "originalBytes": 479888,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 3 bedrooms · Type A1 · sheet 24",
+      "area": "1,678.85 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/sera-1/plan-page-24-71f45f12d84d.webp",
+      "sha256": "71f45f12d84d8adf0a243051452ddbfcdece94349f7f7f3efa269d96cd7073c1",
+      "originalBytes": 597566,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building A · 3 bedrooms · Type A1.1 · sheet 25",
+      "area": "2,049.88 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/sera-1/plan-page-25-9ad9b3a86ebd.webp",
+      "sha256": "9ad9b3a86ebd058f28a4587cf18dd4dda5c4fd8f8cf58b73b1ecc3578eb9194e",
+      "originalBytes": 781838,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Building B · 1 bedroom · Type A1 · sheet 3",
+      "area": "757.78 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-3-134b0c602ce1.webp",
+      "sha256": "134b0c602ce1237baa8067ac53a47041fe695aa241c63ee95f37c442574c3bda",
+      "originalBytes": 392496,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 1 bedroom · Type A1 · sheet 4",
+      "area": "764.67 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-4-bc87979e2c7f.webp",
+      "sha256": "bc87979e2c7f824a70564de05877cedb84754a714c338cbedf1b2b9f8990084c",
+      "originalBytes": 380006,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 1 bedroom · Type A2 · sheet 5",
+      "area": "757.78 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-5-58164fe9160b.webp",
+      "sha256": "58164fe9160bde67f203a5a610fa49824e388b096ebdcaf9d941123ba7338323",
+      "originalBytes": 394894,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 1 bedroom · Type B1 · sheet 6",
+      "area": "775.86 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-6-65bd3d1bd8fc.webp",
+      "sha256": "65bd3d1bd8fc558a758635b5efe2610618d3b2f7cc6dfe1a44085137228a81d2",
+      "originalBytes": 398998,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 1 bedroom · Type C1 · sheet 7",
+      "area": "761.55 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-7-3e6c6278fb71.webp",
+      "sha256": "3e6c6278fb71fa4427ce4e054eca158ad882d7ba70bacfed26b8dffc8aa2b88b",
+      "originalBytes": 385772,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type B1 · sheet 8",
+      "area": "1,199.96 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-8-386434c268c8.webp",
+      "sha256": "386434c268c851c4d0c3d2217da49ed79a73c5efd970e1359a0b4c269d340afe",
+      "originalBytes": 552118,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type B1.1 · sheet 9",
+      "area": "1,401.89 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-9-5c795bc44651.webp",
+      "sha256": "5c795bc44651b4c6178ff62752db9bb599a40e6a88013f11e2db24c7035c2a83",
+      "originalBytes": 718936,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type B2 · sheet 10",
+      "area": "1,204.27 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-10-5aa2489943f7.webp",
+      "sha256": "5aa2489943f7e5bd5d2c7f2243dbf53e9e4728a062338f3d640b60c870e59a72",
+      "originalBytes": 551566,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type B2.1 · sheet 11",
+      "area": "1,406.30 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-11-dba66c938a96.webp",
+      "sha256": "dba66c938a96aeca0b7b979210421685925e467f9d9a3789105e699e7067d851",
+      "originalBytes": 721720,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C1 · sheet 12",
+      "area": "1,348.40 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-12-6cf0e1bb4283.webp",
+      "sha256": "6cf0e1bb4283d9630ba8ffb5da32f15bb3b7fd052258189659dc7bc4e8199fc4",
+      "originalBytes": 599682,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C1 · sheet 13",
+      "area": "1,353.78 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-13-4164c17c2284.webp",
+      "sha256": "4164c17c2284b32620ebfa96d3c8d1fff286a979dc1ffc31c56785469a958178",
+      "originalBytes": 589198,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C2 · sheet 14",
+      "area": "1,332.14 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-14-009fccc9c0c0.webp",
+      "sha256": "009fccc9c0c0b0e3498e366a9a6d5e63c25ec78527f5afe0a78aecdfbea7eb2a",
+      "originalBytes": 602634,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C2 · sheet 15",
+      "area": "1,338.28 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-15-b387f4dd567a.webp",
+      "sha256": "b387f4dd567a4ccd65ada00205194d742becd7eb7050379d103f14246911d5db",
+      "originalBytes": 590718,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C2 · sheet 16",
+      "area": "1,344.30 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-16-adfd7a867228.webp",
+      "sha256": "adfd7a867228ac3e016597cbbccd192a3e5045ce3b798a064062082474eb5b13",
+      "originalBytes": 591108,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C2 · sheet 17",
+      "area": "1,352.27 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-17-aa1fc87bbd9e.webp",
+      "sha256": "aa1fc87bbd9eaca11b07033e885cc12c21a6ad3be4bf3e59a4249a08e370c776",
+      "originalBytes": 608196,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 2 bedrooms · Type C2 · sheet 18",
+      "area": "1,357.54 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-18-d36a1379a104.webp",
+      "sha256": "d36a1379a1042a06f9b290dff9ff9201b5d2b8e90824c2eb848e50366f620d63",
+      "originalBytes": 591406,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 3 bedrooms · Type A1 · sheet 19",
+      "area": "1,680.78 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-19-f787542f182b.webp",
+      "sha256": "f787542f182b94728072afd2562e006790314d15e890908989f612ea794ee9fc",
+      "originalBytes": 737486,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Building B · 3 bedrooms · Type A1.2 · sheet 20",
+      "area": "1,738.37 sq ft total area",
+      "sourceIds": [
+        "plans-building-b"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/sera-1/plan-building-b-page-20-589ae32d01f6.webp",
+      "sha256": "589ae32d01f6a2b140b27a944466361c5682ccd10498a3cca74d48a9a0ddb7b7",
+      "originalBytes": 818126,
+      "width": 2400,
+      "height": 1602,
+      "source": {
+        "url": "https://cdn.geniemap.net/upload/18/ec/3d/10/7a92acee-fdde-4c2d-bc74-8f7a5c758439.pdf",
+        "label": "Emaar Sera 1 Building B · Konnect101/Geniemap broker-hosted copy",
+        "reviewedOn": "2026-11-04",
+        "pdf": "/images/projects/emaar/sera-1/floor-plans-building-b-9c9201351ef4.pdf",
+        "sha256": "9c9201351ef45ddfd136701ff768138cca7bb13af97a115d32d4efb0f033ca2d"
+      }
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A1 · sheet 48",
+      "area": "2,567.41 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/emaar/sera-1/plan-page-48-1ec45fd8439a.webp",
+      "sha256": "1ec45fd8439a960ec8ffba7b002c25d1d95e87afed79ea0dc08d823628eb95ab",
+      "originalBytes": 592938,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A1 · sheet 49",
+      "area": "2,572.68 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/emaar/sera-1/plan-page-49-39e2df7c37b2.webp",
+      "sha256": "39e2df7c37b2b7c682775d3dfb2dc5e39f7282655b64ccdab67394d05b5ce31c",
+      "originalBytes": 591838,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A1 · sheet 50",
+      "area": "2,590.01 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/emaar/sera-1/plan-page-50-09466038ff86.webp",
+      "sha256": "09466038ff861ed8658d84621066af39f73bbb6f5576d29337e4da57edc866b1",
+      "originalBytes": 591656,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A2 · sheet 51",
+      "area": "2,567.41 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/emaar/sera-1/plan-page-51-04c11d17316f.webp",
+      "sha256": "04c11d17316f4545ad9920f2978b82f0a638080d9e1f7f857ef0b563e924288e",
+      "originalBytes": 593196,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A2 · sheet 52",
+      "area": "2,571.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/emaar/sera-1/plan-page-52-0e07e92cafd9.webp",
+      "sha256": "0e07e92cafd93b4f1a8f07df7313510441518327f184d45f957887309c2ee214",
+      "originalBytes": 592508,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "Townhouse · 3 bedrooms · Type A2 · sheet 53",
+      "area": "2,591.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/emaar/sera-1/plan-page-53-10903a0cef9f.webp",
+      "sha256": "10903a0cef9fddcc47f64fa4c569fe094d67852a73aa0f0cc4459b66cbef7964",
+      "originalBytes": 592376,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "slug": "one-b-tower",
+  "id": "wasl-project-10",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/one-b-tower/",
+  "source": {
+    "name": "Wasl",
+    "url": "https://www.wasl.ae/en/onebtower",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "one-b-tower-tower",
+  "images": [
+    {
+      "name": "one-b-tower-tower",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p20-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=20",
+      "label": "the proposed One B Tower in its surrounding setting",
+      "alt": "Wasl brochure render of the proposed One B Tower in its surrounding setting.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-living",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-10.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Living%20room%201_11_11zon.webp?itok=aw6UONRp",
+      "label": "the current gallery’s proposed living room",
+      "alt": "Wasl render of the current gallery’s proposed living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-bedroom",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-3.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Bedroom_4_11zon.webp?itok=wBknOlLT",
+      "label": "the current gallery’s proposed bedroom",
+      "alt": "Wasl render of the current gallery’s proposed bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-facade",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-1.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/00_%20close%20up%20facade_1_11zon.webp?itok=-fNK7I6S",
+      "label": "the current gallery’s proposed facade",
+      "alt": "Wasl render of the current gallery’s proposed facade.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-bar",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-2.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Bar%20area_2_11zon.webp?itok=SZOvybzf",
+      "label": "the current gallery’s proposed bar and lounge",
+      "alt": "Wasl render of the current gallery’s proposed bar and lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-arrival",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-4.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Enscape_2025-03-21-16-31-25_Drop%20off%20-%20Close%20Up_5_11zon.webp?itok=N9eZQW6B",
+      "label": "the current gallery’s proposed arrival area",
+      "alt": "Wasl render of the current gallery’s proposed arrival area.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-podium",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-5.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Enscape_2025-03-21-16-31-25_View%2012C_6_11zon.webp?itok=kka2Q_sg",
+      "label": "the current gallery’s proposed landscaped podium",
+      "alt": "Wasl render of the current gallery’s proposed landscaped podium.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-frontage",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-6.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Enscape_2025-03-21-16-31-25_View%2025%20-%20Wide_7_11zon.webp?itok=PyOO0Ddx",
+      "label": "the current gallery’s proposed street frontage",
+      "alt": "Wasl render of the current gallery’s proposed street frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-balconies",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-7.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Enscape_2025-04-02-11-12-12_View%2004_8_11zon.webp?itok=yO0MHcb1",
+      "label": "the current gallery’s proposed balconies",
+      "alt": "Wasl render of the current gallery’s proposed balconies.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-gym-one",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-8.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Gym%202_9_11zon.webp?itok=WovTNX-j",
+      "label": "the current gallery’s proposed gym",
+      "alt": "Wasl render of the current gallery’s proposed gym.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-gym-two",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-9.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Gym%20op%201_10_11zon.webp?itok=cVpYRM_q",
+      "label": "a second current-gallery gym view",
+      "alt": "Wasl render of a second current-gallery gym view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-dining",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-11.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Living%20room%202_12_11zon.webp?itok=IHCLTIfu",
+      "label": "the current gallery’s proposed living and dining room",
+      "alt": "Wasl render of the current gallery’s proposed living and dining room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-lobby-one",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-12.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Lobby%201%20op1_13_11zon.webp?itok=pVeRGrD-",
+      "label": "the current gallery’s proposed lobby",
+      "alt": "Wasl render of the current gallery’s proposed lobby.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-lobby-two",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-13.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Lobby%202%20op1_14_11zon.webp?itok=dRNfAN-m",
+      "label": "a second current-gallery lobby view",
+      "alt": "Wasl render of a second current-gallery lobby view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-lobby-three",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-14.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Lobby%203%20op1_1_11zon.webp?itok=ymbTzT0k",
+      "label": "a third current-gallery lobby view",
+      "alt": "Wasl render of a third current-gallery lobby view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-bedroom-two",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-15.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Bedroom%202_3_11zon.webp?itok=R-fGCqEt",
+      "label": "a second current-gallery bedroom view",
+      "alt": "Wasl render of a second current-gallery bedroom view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-multipurpose-one",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-17.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Multipurpose%201a_4_11zon_0.webp?itok=BmB-tvSl",
+      "label": "the current gallery’s proposed multipurpose lounge",
+      "alt": "Wasl render of the current gallery’s proposed multipurpose lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-multipurpose-two",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-18.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Multipurpose%202a_5_11zon_0.webp?itok=NhaKAAia",
+      "label": "a second current-gallery multipurpose room",
+      "alt": "Wasl render of a second current-gallery multipurpose room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-tower-detail",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-19.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/View%2001B_6_11zon_0.webp?itok=vH3Kr4DF",
+      "label": "a current-gallery tower detail",
+      "alt": "Wasl render of a current-gallery tower detail.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-washroom",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/wasl-gallery-20.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/styles/max_2600x2600/azblob/2026-02/Washroom%20male%20op%201_7_11zon.webp?itok=_fUlJRXm",
+      "label": "the current gallery’s proposed shared washroom",
+      "alt": "Wasl render of the current gallery’s proposed shared washroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-pool",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p16-1.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=16",
+      "label": "the brochure’s proposed podium pool",
+      "alt": "Wasl render of the brochure’s proposed podium pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-play",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p17-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=17",
+      "label": "the brochure’s proposed children’s playroom",
+      "alt": "Wasl render of the brochure’s proposed children’s playroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-duplex-living",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p24-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=24",
+      "label": "the brochure’s proposed duplex living and dining room",
+      "alt": "Wasl render of the brochure’s proposed duplex living and dining room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-canal-living",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p25-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=25",
+      "label": "a second proposed brochure living-room view",
+      "alt": "Wasl render of a second proposed brochure living-room view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-kitchen",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p38-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=38",
+      "label": "the brochure’s proposed kitchen",
+      "alt": "Wasl render of the brochure’s proposed kitchen.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "one-b-tower-resto-cafe",
+      "cache": "artifacts/project-page-enhancement/one-b-tower/brochure-p7-1.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=7",
+      "label": "the brochure’s proposed resto cafe",
+      "alt": "Wasl render of the brochure’s proposed resto cafe.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "one-b-tower-living",
+    "one-b-tower-bedroom"
+  ],
+  "location": {
+    "community": "Business Bay, Dubai",
+    "road": "Sheikh Zayed Road, beside Dubai Water Canal",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-06.png",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=6",
+      "alt": "Wasl regional map marking One B Tower beside the Water Canal and Sheikh Zayed Road.",
+      "caption": "One B Tower location context · original Wasl brochure.",
+      "scope": "Regional schematic marking One B Tower. Station names and surrounding development reflect the publishing source. Confirm the current visitor entrance and route."
+    },
+    "sourceLabel": "Wasl One B Tower brochure",
+    "travel": {
+      "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=6",
+      "scope": "Published brochure estimates. Only the cycling and jogging routes specify a travel mode. Other routes, traffic and destination entrances are unspecified.",
+      "destinations": [
+        {
+          "name": "Dubai Water Canal boardwalk",
+          "minutes": 1
+        },
+        {
+          "name": "Safa Park",
+          "minutes": 5
+        },
+        {
+          "name": "Jumeirah Beach",
+          "minutes": 5
+        },
+        {
+          "name": "Business Bay Metro Station",
+          "minutes": 10
+        },
+        {
+          "name": "Jumeirah Beach · cycling track",
+          "minutes": 20
+        },
+        {
+          "name": "Jumeirah Beach · jogging track",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "These are source estimates, with cycling and jogging kept as distinct routes. The primary page’s Wasl Tower sales-visit address does not establish the One B Tower residential entrance. Directions use the project name."
+  },
+  "floorPlans": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+    "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans.pdf",
+    "label": "Wasl One B Tower · original separate plan pack",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Compare the original brochure and separate plan-pack layouts. Each complete sheet retains its own tables, position key and source PDF link.",
+    "selectorLabel": "Choose a source version, home layout or floorplate",
+    "note": "The 51 complete sheets distinguish the separate plan pack from the brochure. Their layouts, dimensions and totals differ, and revision order is unverified. Whole duplex totals apply once. E2 prints an incompatible 805.1 sq ft balcony. Floorplate arithmetic and one brochure floor heading also conflict. Figures remain source-specific. Confirm the approved contractual drawing with Wasl.",
+    "plans": [
+      {
+        "sourcePage": 2,
+        "label": "Plan pack · 1 BR A",
+        "area": "674.90–683.50 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-02.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Plan pack · 1 BR B",
+        "area": "897.70–902.00 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-03.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Plan pack · 1 BR C",
+        "area": "836.40 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Plan pack · 1 BR D",
+        "area": "944.00–990.30 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Plan pack · 1 BR E · source conflict",
+        "area": "928.90–1,012.30 sq ft printed · E2 arithmetic disputed",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-06.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Plan pack · 2 BR duplex A",
+        "area": "2,377.70 sq ft whole home",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Plan pack · 2 BR duplex B",
+        "area": "1,650.80 sq ft whole home",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Plan pack · 2 BR A",
+        "area": "1,753.10–1,770.70 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Plan pack · 2 BR B",
+        "area": "1,712.50–1,738.40 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Plan pack · 2 BR C1",
+        "area": "1,475.50–1,566.50 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Plan pack · 2 BR C4",
+        "area": "1,391.00 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Plan pack · 3 BR duplex A",
+        "area": "2,855.20 sq ft whole home",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Plan pack · 3 BR A",
+        "area": "2,438.00–2,450.90 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Plan pack · 3 BR B",
+        "area": "2,413.30 sq ft total",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-16.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "Plan pack · 4 BR duplex A",
+        "area": "4,769.50 sq ft whole home",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-17.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Brochure · 1 BR A",
+        "area": "676.70–692.00 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Brochure · 1 BR B",
+        "area": "929.60–933.20 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Brochure · 1 BR C",
+        "area": "863.50–867.00 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Brochure · 1 BR D",
+        "area": "921.80–958.50 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Brochure · 2 BR A",
+        "area": "1,720.30–1,730.10 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Brochure · 2 BR B",
+        "area": "1,685.70–1,796.40 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "Brochure · 2 BR duplex A",
+        "area": "2,192.60 sq ft whole home",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Brochure · 3 BR A",
+        "area": "2,397.60–2,404.50 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "Brochure · 3 BR B",
+        "area": "2,342.30–2,358.60 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "Brochure · 3 BR duplex A",
+        "area": "2,802.30 sq ft whole home",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-35.png"
+      },
+      {
+        "sourcePage": 36,
+        "label": "Brochure · 4 BR A",
+        "area": "3,970.40 sq ft total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-36.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "Brochure · 4 BR duplex A",
+        "area": "4,750.10–4,759.40 sq ft whole home",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-37.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Plan pack · levels 8 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-18.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "Brochure · levels 8 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-39.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Plan pack · levels 9 / 11 / 13 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-19.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "Brochure · levels 9 / 11 / 13 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-40.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "Plan pack · levels 10 / 12 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-20.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "Brochure · levels 10 / 12 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-41.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "Plan pack · levels 14 / 16 / 18 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-21.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Brochure · levels 14 / 16 / 18 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-42.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "Plan pack · levels 15 / 17 / 19 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-22.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "Brochure · levels 15 / 17 / 19 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-43.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Plan pack · levels 20 / 24 / 26 / 28 / 30 / 32 / 34 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-23.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "Brochure · typical upper floors · header disputed",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-44.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Plan pack · levels 21 / 25 / 27 / 29 / 31 / 33 / 35 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-24.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Brochure · levels 21 / 25 / 27 / 29 / 31 / 33 / 35 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-45.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Plan pack · levels 23 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-25.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Brochure · levels 23 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-46.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Plan pack · levels 36 / 38 / 40 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-26.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "Brochure · levels 36 / 38 / 40 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-47.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Plan pack · levels 37 / 39 / 41 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-27.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Brochure · levels 37 / 39 / 41 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-48.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Plan pack · levels 42 / 44 / 46 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-28.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Brochure · levels 42 / 44 / 46 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-49.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Plan pack · levels 43 / 45 / 47 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-plans-review-29.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "Brochure · levels 43 / 45 / 47 · floorplate",
+        "area": "Whole-floor overview · individual printed unit areas vary",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure-review-50.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "brochure",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "cache": "artifacts/project-page-enhancement/one-b-tower/one-b-tower-official-brochure.pdf"
+      }
+    ]
+  },
+  "review": {
+    "imagery": "Twenty-six distinct project renders were visually reviewed. The original 4000-pixel brochure tower view supplies the card and hero. Nineteen current official-gallery views include living, bedrooms, facade, gyms, lobby and multipurpose spaces. Six additional native brochure images cover pool, playroom, duplex interiors, kitchen and resto cafe. The repeated current gym, generic AI-named amenity icons, background textures and accidentally shared plan resources are excluded. Different publishing versions are identified. No card badges.",
+    "floorPlans": "The 51 complete sheets distinguish the separate plan pack from the brochure. Their layouts, dimensions and totals differ, and revision order is unverified. Whole duplex totals apply once. E2 prints an incompatible 805.1 sq ft balcony. Floorplate arithmetic and one brochure floor heading also conflict. Figures remain source-specific. Confirm the approved contractual drawing with Wasl. All 28 individual source sheets were visually reviewed, including every visible numerical panel. Physical plan-pack page 7 is pixel-identical to page 6 and omitted from duplicate choices. All 24 floorplates were reviewed for source level/building scope. The plan-pack floorplates use square metres while brochure counterparts use square feet, without implicit conversion. Brochure page 44 prints level 39 among a conflicting typical-floor heading. Complete source pages, branding and notices are preserved.",
+    "location": "Original brochure page 6 was visually reviewed. One B Tower is explicitly marked on the regional map and all six estimates retain their particular scope. No verified visitor-entrance coordinate is inferred from a sales office or neighbouring Wasl Tower. Project-name directions remain available.",
+    "provenance": "Primary HTML, original CDN brochure and plan PDFs, source hashes, fetch receipts, native brochure image resources and current-gallery source URLs/dimensions are retained. Original protected identities, completed text research and commercial/source qualifications remain intact."
+  },
+  "unavailable": [
+    "A verified residential visitor entrance, dated construction photographs and approved revision order were not established. Five-bedroom and penthouse individual layouts remain unavailable in the reviewed packs. Published area, floorplate-arithmetic and level-heading conflicts remain qualified."
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "id": "emaar-project-83",
+  "slug": "ocean-cove",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/ocean-cove-at-rashid-yachts-marina",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "lawn",
+      "label": "Ocean Cove residences beside a landscaped lawn",
+      "url": "https://www.emaar.com/cms-media/uploads/387334_property_Hero_Image_ba1aadb007_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/official-hero.jpg",
+      "position": "46% 60%",
+      "alt": "Ocean Cove developer render: ocean cove residences beside a landscaped lawn. Proposed architecture or community setting."
+    },
+    {
+      "name": "terrace",
+      "label": "Ground-level terrace opening onto the gardens at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/387383_exterior_0_f5a4e2fd67_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387383_exterior_0_f5a4e2fd67_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: ground-level terrace opening onto the gardens at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "pool",
+      "label": "Outdoor pool with cabanas beside the residences",
+      "url": "https://www.emaar.com/cms-media/uploads/387392_exterior_1_e231eac0ba_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387392_exterior_1_e231eac0ba_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: outdoor pool with cabanas beside the residences. Proposed architecture or community setting."
+    },
+    {
+      "name": "garden",
+      "label": "Garden lawn and shaded walking paths",
+      "url": "https://www.emaar.com/cms-media/uploads/387410_exterior_3_a8d31cbeb8_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387410_exterior_3_a8d31cbeb8_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: garden lawn and shaded walking paths. Proposed architecture or community setting."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom overlooking the pool and apartments",
+      "url": "https://www.emaar.com/cms-media/uploads/387419_interior_0_1ac007f5fc_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387419_interior_0_1ac007f5fc_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: bedroom overlooking the pool and apartments. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Living room with a garden and pool outlook",
+      "url": "https://www.emaar.com/cms-media/uploads/387428_interior_1_293dcf33e0_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387428_interior_1_293dcf33e0_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: living room with a garden and pool outlook. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Entrance lounge overlooking landscaped grounds",
+      "url": "https://www.emaar.com/cms-media/uploads/387437_interior_2_b84a55c3f5_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/387437_interior_2_b84a55c3f5_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Cove developer render: entrance lounge overlooking landscaped grounds. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "lawn",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Rashid Yachts & Marina",
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/OCEAN-COVE_brochure.pdf#page=4",
+      "cache": "artifacts/project-page-enhancement/ocean-cove/connectivity.png",
+      "alt": "Regional Rashid Yachts & Marina map in the Ocean Cove brochure.",
+      "scope": "Regional context for Rashid Yachts & Marina. The Ocean Cove project point appears separately."
+    },
+    "travelHeading": "Estimated travel times from the Ocean Cove brochure",
+    "travel": {
+      "page": 4,
+      "scope": "Approximate times shown on the developer’s regional marina map.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 22
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 20
+        },
+        {
+          "name": "Al Sabkha Gold Souq",
+          "minutes": 22
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 32
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/OCEAN-COVE_brochure.pdf"
+    },
+    "travelNote": "The Emaar brochure map gives approximate times. The launch fact sheet gives 20 minutes for Downtown Dubai and 15 for the airport. Check the current route and traffic.",
+    "pin": {
+      "latitude": 25.2575725083307,
+      "longitude": 55.28126754232804,
+      "sourceUrl": "https://www.emaar.com/en/properties/ocean-cove-at-rashid-yachts-marina",
+      "scope": "Emaar’s published Ocean Cove project point. Confirm access to the relevant building before visiting."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Ocean Cove Building 1 original floor-plan PDF",
+    "introduction": "Compare one-, two- and three-bedroom apartment layouts in both Ocean Cove buildings. Refer to the selected sheet for the full unit group and key plan.",
+    "note": "Emaar hosts the Building 1 plan pack. The original Building 2 pack is credited to Petkovic Properties. Confirm the final area for your unit before purchase.",
+    "selectorLabel": "Choose a Ocean Cove floor plan",
+    "additionalDocuments": [
+      {
+        "id": "building-2",
+        "label": "Emaar Ocean Cove Building 2 original PDF via Petkovic Properties",
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Ocean-Cove-Floor-Plans-B2.pdf",
+        "cache": "artifacts/project-details/emaar/ocean-cove-building2.pdf"
+      }
+    ],
+    "url": "https://www.emaar.com/cms-media/uploads/OCEAN-COVE_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/ocean-cove-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "Building 1 · 1 BR · Type 1A · 102",
+        "area": "835.71 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          835.71
+        ],
+        "areaCalculation": "714.83 + 120.88 = 835.71 sq ft. Printed total 835.71 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-03.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1B · 101",
+        "area": "844.32 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          844.32
+        ],
+        "areaCalculation": "723.44 + 120.88 = 844.32 sq ft. Printed total 844.32 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-04.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1B · 103",
+        "area": "835.71 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          835.71
+        ],
+        "areaCalculation": "714.83 + 120.88 = 835.71 sq ft. Printed total 835.71 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-05.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1C · 110",
+        "area": "796.31 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          796.31
+        ],
+        "areaCalculation": "714.83 + 81.48 = 796.31 sq ft. Printed total 796.31 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-06.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1C · 212",
+        "area": "795.99 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          795.99
+        ],
+        "areaCalculation": "714.83 + 81.16 = 795.99 sq ft. Printed total 795.99 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-07.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1D · 201",
+        "area": "804.92 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          804.92
+        ],
+        "areaCalculation": "723.44 + 81.48 = 804.92 sq ft. Printed total 804.92 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-08.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1D · 211",
+        "area": "796.53 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          796.53
+        ],
+        "areaCalculation": "714.83 + 81.70 = 796.53 sq ft. Printed total 796.53 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-09.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1D · 109",
+        "area": "796.31 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          796.31
+        ],
+        "areaCalculation": "714.83 + 81.48 = 796.31 sq ft. Printed total 796.31 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-10.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1D · 203",
+        "area": "796.10 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          796.1
+        ],
+        "areaCalculation": "714.72 + 81.38 = 796.10 sq ft. Printed total 796.10 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-11.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1A · 117",
+        "area": "1,192.53 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1192.53
+        ],
+        "areaCalculation": "1071.65 + 120.88 = 1192.53 sq ft. Printed total 1192.53 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-12.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1B · 115",
+        "area": "1,192.21 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1192.21
+        ],
+        "areaCalculation": "1071.33 + 120.88 = 1192.21 sq ft. Printed total 1192.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-13.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1C · 217",
+        "area": "1,152.16 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1152.16
+        ],
+        "areaCalculation": "1071.65 + 80.51 = 1152.16 sq ft. Printed total 1152.16 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-14.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1D · 215",
+        "area": "1,151.73 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1151.73
+        ],
+        "areaCalculation": "1071.65 + 80.08 = 1151.73 sq ft. Printed total 1151.73 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-15.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1E · 106",
+        "area": "1,219.88 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1219.88
+        ],
+        "areaCalculation": "1077.47 + 142.41 = 1219.88 sq ft. Printed total 1219.88 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-16.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1F · 104",
+        "area": "1,402.43 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1402.43
+        ],
+        "areaCalculation": "1087.26 + 315.17 = 1402.43 sq ft. Printed total 1402.43 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-17.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1G · 204",
+        "area": "1,285.32 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1285.32
+        ],
+        "areaCalculation": "1087.26 + 198.06 = 1285.32 sq ft. Printed total 1285.32 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-18.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1G · 604",
+        "area": "1,285.21 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1285.21
+        ],
+        "areaCalculation": "1087.15 + 198.06 = 1285.21 sq ft. Printed total 1285.21 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-19.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2A · 108",
+        "area": "1,248.18 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1248.18
+        ],
+        "areaCalculation": "1091.78 + 156.40 = 1248.18 sq ft. Printed total 1248.18 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-20.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2B · 119",
+        "area": "1,416.86 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1416.86
+        ],
+        "areaCalculation": "1098.46 + 318.40 = 1416.86 sq ft. Printed total 1416.86 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-21.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2C · 219",
+        "area": "1,356.58 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          1356.58
+        ],
+        "areaCalculation": "1098.46 + 258.12 = 1356.58 sq ft. Printed total 1356.58 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-22.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2D · 118",
+        "area": "1,307.60 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1307.6
+        ],
+        "areaCalculation": "1091.03 + 216.57 = 1307.60 sq ft. Printed total 1307.60 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-23.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2E · 107",
+        "area": "1,315.24 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1315.24
+        ],
+        "areaCalculation": "1098.78 + 216.46 = 1315.24 sq ft. Printed total 1315.24 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-24.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2E · 214",
+        "area": "1,315.13 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1315.13
+        ],
+        "areaCalculation": "1098.67 + 216.46 = 1315.13 sq ft. Printed total 1315.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-25.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2E · 707",
+        "area": "1,307.60 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1307.6
+        ],
+        "areaCalculation": "1091.25 + 216.35 = 1307.60 sq ft. Printed total 1307.60 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-26.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2E · 207",
+        "area": "1,307.49 sq ft total area",
+        "sourcePage": 27,
+        "areaValues": [
+          1307.49
+        ],
+        "areaCalculation": "1091.03 + 216.46 = 1307.49 sq ft. Printed total 1307.49 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-27.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 1A · 105",
+        "area": "1,798.44 sq ft total area",
+        "sourcePage": 28,
+        "areaValues": [
+          1798.44
+        ],
+        "areaCalculation": "1460.45 + 337.99 = 1798.44 sq ft. Printed total 1798.44 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-28.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 1B · 205",
+        "area": "1,739.02 sq ft total area",
+        "sourcePage": 29,
+        "areaValues": [
+          1739.02
+        ],
+        "areaCalculation": "1460.45 + 278.57 = 1739.02 sq ft. Printed total 1739.02 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-29.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 2A · 120",
+        "area": "1,773.57 sq ft total area",
+        "sourcePage": 30,
+        "areaValues": [
+          1773.57
+        ],
+        "areaCalculation": "1461.09 + 312.48 = 1773.57 sq ft. Printed total 1773.57 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-30.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 2B · 220",
+        "area": "1,657.32 sq ft total area",
+        "sourcePage": 31,
+        "areaValues": [
+          1657.32
+        ],
+        "areaCalculation": "1461.09 + 196.23 = 1657.32 sq ft. Printed total 1657.32 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-31.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 2B · 720",
+        "area": "1,657.43 sq ft total area",
+        "sourcePage": 32,
+        "areaValues": [
+          1657.43
+        ],
+        "areaCalculation": "1461.20 + 196.23 = 1657.43 sq ft. Printed total 1657.43 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/plan-32.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1A · 101",
+        "area": "825.48 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          825.48
+        ],
+        "areaCalculation": "703.96 + 121.52 = 825.48 sq ft. Printed total 825.48 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-03.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1C · 106",
+        "area": "796.31 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          796.31
+        ],
+        "areaCalculation": "714.83 + 81.48 = 796.31 sq ft. Printed total 796.31 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-04.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1C · 206",
+        "area": "796.21 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          796.21
+        ],
+        "areaCalculation": "714.83 + 81.38 = 796.21 sq ft. Printed total 796.21 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-05.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1C · 201",
+        "area": "785.87 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          785.87
+        ],
+        "areaCalculation": "703.96 + 81.91 = 785.87 sq ft. Printed total 785.87 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-06.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1D · 105",
+        "area": "804.60 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          804.6
+        ],
+        "areaCalculation": "722.69 + 81.91 = 804.60 sq ft. Printed total 804.60 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-07.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1D · 110",
+        "area": "809.23 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          809.23
+        ],
+        "areaCalculation": "727.75 + 81.48 = 809.23 sq ft. Printed total 809.23 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-08.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1A · 113",
+        "area": "1,181.13 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1181.13
+        ],
+        "areaCalculation": "1070.15 + 110.98 = 1181.13 sq ft. Printed total 1181.13 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-09.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1B · 102",
+        "area": "1,192.43 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1192.43
+        ],
+        "areaCalculation": "1070.26 + 122.17 = 1192.43 sq ft. Printed total 1192.43 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-10.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1C · 213",
+        "area": "1,151.74 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1151.74
+        ],
+        "areaCalculation": "1070.26 + 81.48 = 1151.74 sq ft. Printed total 1151.74 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-11.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1D · 202",
+        "area": "1,152.17 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1152.17
+        ],
+        "areaCalculation": "1070.26 + 81.91 = 1152.17 sq ft. Printed total 1152.17 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-12.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1G · 204",
+        "area": "1,291.24 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1291.24
+        ],
+        "areaCalculation": "1093.18 + 198.06 = 1291.24 sq ft. Printed total 1291.24 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-13.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1H · 104",
+        "area": "1,351.51 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1351.51
+        ],
+        "areaCalculation": "1093.18 + 258.33 = 1351.51 sq ft. Printed total 1351.51 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-14.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2D · 107",
+        "area": "1,316.10 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1316.1
+        ],
+        "areaCalculation": "1098.67 + 217.43 = 1316.10 sq ft. Printed total 1316.10 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-15.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2D · 607",
+        "area": "1,308.46 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1308.46
+        ],
+        "areaCalculation": "1091.03 + 217.43 = 1308.46 sq ft. Printed total 1308.46 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-16.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2D · 207",
+        "area": "1,308.35 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1308.35
+        ],
+        "areaCalculation": "1090.92 + 217.43 = 1308.35 sq ft. Printed total 1308.35 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-17.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2F · 111",
+        "area": "1,370.46 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1370.46
+        ],
+        "areaCalculation": "1112.13 + 258.33 = 1370.46 sq ft. Printed total 1370.46 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-18.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2G · 211",
+        "area": "1,310.19 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1310.19
+        ],
+        "areaCalculation": "1112.13 + 198.06 = 1310.19 sq ft. Printed total 1310.19 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-19.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2H · 208",
+        "area": "1,248.18 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1248.18
+        ],
+        "areaCalculation": "1091.78 + 156.40 = 1248.18 sq ft. Printed total 1248.18 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-20.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2H · 108",
+        "area": "1,248.08 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1248.08
+        ],
+        "areaCalculation": "1091.68 + 156.40 = 1248.08 sq ft. Printed total 1248.08 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-21.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 1C · 103",
+        "area": "1,853.44 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          1853.44
+        ],
+        "areaCalculation": "1451.73 + 401.71 = 1853.44 sq ft. Printed total 1853.44 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-22.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 1D · 203",
+        "area": "1,648.71 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1648.71
+        ],
+        "areaCalculation": "1452.48 + 196.23 = 1648.71 sq ft. Printed total 1648.71 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-23.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 2C · 112",
+        "area": "1,833.42 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1833.42
+        ],
+        "areaCalculation": "1453.24 + 380.18 = 1833.42 sq ft. Printed total 1833.42 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-24.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 2D · 212",
+        "area": "1,709.64 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1709.64
+        ],
+        "areaCalculation": "1453.24 + 256.40 = 1709.64 sq ft. Printed total 1709.64 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-cove/building-2/plan-25.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/ocean-cove/",
+  "review": {
+    "images": "Reviewed the wide hero and all images from the exact Emaar project gallery. Kept distinct published scenes with a project-specific listing image and readable interior views.",
+    "location": "Matched the developer’s named project point and the regional map from physical page 4 of the official brochure. Verified the four printed brochure times. The launch sheet’s alternate Downtown and airport times are disclosed separately.",
+    "floorPlans": "Reviewed all 57 physical pages and kept 53 residence plans, covering 30 Building 1 and 23 Building 2 layouts. Cross-checked all 53 imperial area tables, allowing only rounding of 0.01 sq ft. Original physical pages and hosting attribution remain linked."
+  },
+  "unavailable": [
+    "A developer-hosted copy of the full Building 2 plan pack was not verified.",
+    "Signed unit-specific areas and entrance coordinates were not verified."
+  ]
+}

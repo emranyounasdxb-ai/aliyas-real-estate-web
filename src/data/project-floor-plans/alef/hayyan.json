@@ -1,0 +1,1111 @@
+{
+  "projectId": "alef-project-05",
+  "projectSlug": "hayyan",
+  "developerSlug": "alef",
+  "source": {
+    "url": "https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-f53230b0.pdf",
+    "label": "Arim · original Alef drawings hosted by Property Finder",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/alef/hayyan/floor-plans-3fb7b16fc8ad.pdf",
+    "sha256": "3fb7b16fc8ad832ddf26ad472490dea41088060c20fc882a8ea075bc062208e6"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the published Arim, Alma and Deem layouts, alongside original neighbourhood plans including Samr.",
+  "selectorLabel": "Choose a phase, complete home drawing or original community map",
+  "note": "All 60 complete sheets retain source artwork and notices. Repeated totals on separate ground and upper sheets describe the same whole home. Plot and built areas differ. Earlier Arim 2BTC1 is 1,657.76 sq ft, versus 1,667.44 in the later pack. Minor component rounding remains. Deem repeats placeholder codes across variants, and sheet 9 incorrectly heads a three-bedroom drawing as two bedrooms. Its broker-added prices and payment examples are historical. Master-plan 4S1 pricing of AED 3,709,000 conflicts with AED 3,079,000 on the separate payment sheet. Confirm the contracted phase, final plan revision, areas and commercial terms.",
+  "plans": [
+    {
+      "label": "Arim · regional location",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-arim-own"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/hayyan/plan-arim-own-page-17-19fd4002b5fc.webp",
+      "sha256": "19fd4002b5fc872cbada95fcd1cb0a74d5341b08d05ad6c6814130c1e77668b6",
+      "originalBytes": 1942632,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf",
+        "label": "Arim · original developer brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-own-447eed190886.pdf",
+        "sha256": "447eed1908865ae89a15c706fef6b8e5bc6a96f3f4b1105183549647b7fd0c5d"
+      }
+    },
+    {
+      "label": "Arim · earlier community concept",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-arim-own"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/hayyan/plan-arim-own-page-19-28d2c158fb75.webp",
+      "sha256": "28d2c158fb75326c0c919174edebb2d1a6d0145f5151dad24232ce91facd40c9",
+      "originalBytes": 8178302,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf",
+        "label": "Arim · original developer brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-own-447eed190886.pdf",
+        "sha256": "447eed1908865ae89a15c706fef6b8e5bc6a96f3f4b1105183549647b7fd0c5d"
+      }
+    },
+    {
+      "label": "Arim · marked neighbourhood plan",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-arim-own"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/hayyan/plan-arim-own-page-25-47795e91b95f.webp",
+      "sha256": "47795e91b95f55fb5d6e150ef9b8569f1a01bc11aa49bffbe8abbaa3f95273c0",
+      "originalBytes": 3341498,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://hayyan.alefgroup.ae/materials/arim/Arim-Brochure-Hayyan-Alef-Group.pdf",
+        "label": "Arim · original developer brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-own-447eed190886.pdf",
+        "sha256": "447eed1908865ae89a15c706fef6b8e5bc6a96f3f4b1105183549647b7fd0c5d"
+      }
+    },
+    {
+      "label": "Arim 2 · 2 BR TH · 2BTC1-001",
+      "area": "1,667.44 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 54,
+      "src": "/images/projects/alef/hayyan/plan-page-54-f55b912adfd2.webp",
+      "sha256": "f55b912adfd2629ffa644d4b9365939620731a0bba33095ea89a9d8b0b8de8ab",
+      "originalBytes": 932412,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 2 · 3 BR TH · 3BTC1-001",
+      "area": "2,056.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 55,
+      "src": "/images/projects/alef/hayyan/plan-page-55-18d63421f0c4.webp",
+      "sha256": "18d63421f0c44f75adf6b0ad85638c471439c0e1f422b2363efb68ba6d4d2203",
+      "originalBytes": 865294,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 3 · 3 BR TH · 3BTD2-001",
+      "area": "1,819.10 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 56,
+      "src": "/images/projects/alef/hayyan/plan-page-56-b36ad4a37a52.webp",
+      "sha256": "b36ad4a37a52357d3bb81c2fe32fc09966362049b23a67beed3ffd4d7495cc4d",
+      "originalBytes": 915080,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 3 BR TH · 3BTB1-001",
+      "area": "2,366.04 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 57,
+      "src": "/images/projects/alef/hayyan/plan-page-57-5323993f0a61.webp",
+      "sha256": "5323993f0a6110c1acf8e8dab31258bdfd7dbcbc7b3a2796736284a75d5407d3",
+      "originalBytes": 903502,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 2 · 4 BR TH · 4BTA1-009",
+      "area": "2,709.62 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 58,
+      "src": "/images/projects/alef/hayyan/plan-page-58-8b51787c2e4c.webp",
+      "sha256": "8b51787c2e4cff77f912969b8a4efd31297dc4c390c38475f6d85c7b618348d4",
+      "originalBytes": 975276,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 2 · 4 BR TH · 4BTC1-001",
+      "area": "2,473.76 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 59,
+      "src": "/images/projects/alef/hayyan/plan-page-59-9b21336efbc9.webp",
+      "sha256": "9b21336efbc953be7b771dd4e941add96bebd908f7bd7e35ad7a26171ab9a3ad",
+      "originalBytes": 917264,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 4 BR villa · 4BV1-004",
+      "area": "3,658.33 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 76,
+      "src": "/images/projects/alef/hayyan/plan-page-76-2907b3a7be8a.webp",
+      "sha256": "2907b3a7be8a0aef2279bd652c66fc4c9065665fe242162fc70dd0eb3e58c559",
+      "originalBytes": 995704,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 3 · 4 BR villa · 4BV1-025",
+      "area": "3,658.33 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 77,
+      "src": "/images/projects/alef/hayyan/plan-page-77-f47fbcb043b8.webp",
+      "sha256": "f47fbcb043b8e7d5b2e888146118143839bc56ff0e97db10b7b2f9ac36b73ffc",
+      "originalBytes": 915100,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 4 BR · 4BLV1 RF-001 · upper",
+      "area": "4,340.69 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 78,
+      "src": "/images/projects/alef/hayyan/plan-page-78-eb5487036698.webp",
+      "sha256": "eb5487036698f3ed00e3c639e6d4041e17e02ab5f1f152302e940edea52d4dc7",
+      "originalBytes": 832286,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 4 BR · 4BLV1 GF-001 · ground",
+      "area": "4,340.69 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 79,
+      "src": "/images/projects/alef/hayyan/plan-page-79-4749b01feb06.webp",
+      "sha256": "4749b01feb06498d08f4d41ec0254bf89fd0f301a341e191842c043879c56f25",
+      "originalBytes": 904898,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 5 BR · 5BLV1 RF-001 · upper",
+      "area": "5,884.84 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 80,
+      "src": "/images/projects/alef/hayyan/plan-page-80-b8aed6e4f1ba.webp",
+      "sha256": "b8aed6e4f1ba588d8a96112c36c115f9d9fb501dfcc39a0ff6a7f71cfeddbf0b",
+      "originalBytes": 879862,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 5 BR · 5BLV1 GF-001 · ground",
+      "area": "5,884.84 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 81,
+      "src": "/images/projects/alef/hayyan/plan-page-81-3f2983ae90cc.webp",
+      "sha256": "3f2983ae90ccfe2cf6c03c20c2596e6fafc50fda1f4e1efca8e208531c2c1706",
+      "originalBytes": 965264,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 2 · 6 BR · 6BLV RF-001 · upper / roof",
+      "area": "7,191.79 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 82,
+      "src": "/images/projects/alef/hayyan/plan-page-82-a4f4ece79c1d.webp",
+      "sha256": "a4f4ece79c1dde10762872a4c7e9b28491105648e87ee825b23657d6a06e9916",
+      "originalBytes": 967894,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 2 · 6 BR · 6BLV GF-001 · ground",
+      "area": "7,191.79 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 83,
+      "src": "/images/projects/alef/hayyan/plan-page-83-55a16fac9420.webp",
+      "sha256": "55a16fac942071cb8c2c2b2bae985d5e3391e6193ecffc68509beaf7774f7fec",
+      "originalBytes": 995640,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 7 BR · 7BMV1 RF-004 · upper",
+      "area": "10,218.70 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 84,
+      "src": "/images/projects/alef/hayyan/plan-page-84-576bb6ef8a6e.webp",
+      "sha256": "576bb6ef8a6ec7fe40ebb617c8ec51c2d45ff04d5d9bc3e7ecb6828a04fdabf0",
+      "originalBytes": 870174,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Arim 1 · 7 BR · 7BMV1 GF-004 · ground",
+      "area": "10,218.70 sq ft whole-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 85,
+      "src": "/images/projects/alef/hayyan/plan-page-85-3eaf45afa882.webp",
+      "sha256": "3eaf45afa882ca020ebb8d24492ba7a987754f4c381d092f88512460479025ed",
+      "originalBytes": 978678,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Earlier Arim · marked master plan",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-19-ac7fc0517294.webp",
+      "sha256": "ac7fc0517294a3f7350202823eb1857ddfb09085dcb3bb5e656516d7fc6a3413",
+      "originalBytes": 5393990,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 2 BR TH · 2BTC2-24",
+      "area": "1,696.51 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-46-fa3a2c98c135.webp",
+      "sha256": "fa3a2c98c1352a20bbe246afc05c15ed53e78220fdbe788398b29d2505392065",
+      "originalBytes": 1112046,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 2 BR TH · 2BTC1-01",
+      "area": "1,657.76 sq ft earlier revision",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-47-541f2dab41fe.webp",
+      "sha256": "541f2dab41fe0c1a8364100de4e3280e0205e6f80c06403cb3559a3fb97db526",
+      "originalBytes": 1069738,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 3 BR TH · 3BTD1-001",
+      "area": "1,777.44 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-48-0489d9a57351.webp",
+      "sha256": "0489d9a57351190deb74856df08042c2a8102dbab44c7c2ea6e3879b3cf7b410",
+      "originalBytes": 984632,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 3 BR TH · 3BTC1-001",
+      "area": "2,056.12 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-49-a0654d815ad2.webp",
+      "sha256": "a0654d815ad2043d477ae1629ba2de3c9c3a5ef833048ab9a68a8789ae23f5fd",
+      "originalBytes": 967604,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 3 · 4 BR TH · 4BTA2-006",
+      "area": "2,753.96 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-50-146520191949.webp",
+      "sha256": "1465201919496318e2472bcba399a3170815f3e490d86c64d12b16ce357b155b",
+      "originalBytes": 1061350,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 3 · 4 BR TH · 4BTA1-016",
+      "area": "2,709.62 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-51-d26115af5737.webp",
+      "sha256": "d26115af57373d6c2fa2fbedf0b9bca6012dd68dee50e7aca999aac87e6675ff",
+      "originalBytes": 1042050,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 4 BR TH · 4BTC2-001",
+      "area": "2,518.97 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-52-1b2d2feda1f2.webp",
+      "sha256": "1b2d2feda1f2be895c3f72ab0884cddabb38fb6888323776d8caf7ccae39e5af",
+      "originalBytes": 1049150,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 1 · 4 BR TH · 4BTC1-001",
+      "area": "2,473.76 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-53-7123b709cbd4.webp",
+      "sha256": "7123b709cbd4aad2f274e503b45a491868b1acf3b505f42bf89d7cea812585cf",
+      "originalBytes": 1017540,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 3 · 4 BR villa · 4BV1-028",
+      "area": "3,658.33 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 68,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-68-df463865e4ff.webp",
+      "sha256": "df463865e4ffd84840d1d1725488603e94e43cdbff95e7fa0c798f8c11691b56",
+      "originalBytes": 1103672,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Earlier Arim 3 · 4 BR villa · 4BV1-025",
+      "area": "3,658.33 sq ft printed total",
+      "sourceIds": [
+        "plans-arim-mirror"
+      ],
+      "sourcePage": 69,
+      "src": "/images/projects/alef/hayyan/plan-arim-mirror-page-69-9b44fce159d8.webp",
+      "sha256": "9b44fce159d82271300f8b9f492bd170bfe4f9d5a5683583ab23b7189679c6ea",
+      "originalBytes": 1055472,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/xxVTfEOVrYeqOtEkJZ2Jl6Op7L42wRYlDPjatiy6.pdf",
+        "label": "Arim · earlier branded plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-arim-mirror-6b2772603870.pdf",
+        "sha256": "6b2772603870d73c2183bf5195ac67e6f864244d7951375e7ad4373e77523b4d"
+      }
+    },
+    {
+      "label": "Alma · marked neighbourhood plan",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-27-092d9c6acc15.webp",
+      "sha256": "092d9c6acc15580f40c8563765ce9ed3ad32fb536810757c962cf40b0c99cf8e",
+      "originalBytes": 1782334,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma 1 · 2 BR TH · 2BTB4-007",
+      "area": "2,005.44 sq ft printed total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 70,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-70-f9317964a229.webp",
+      "sha256": "f9317964a229cdcd7f4548ceb0e564b59874598adbe831ea791bcf86bb3ecae4",
+      "originalBytes": 871470,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma 1 · 2 BR TH · 2BTB1-008",
+      "area": "1,842.47 sq ft printed total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 71,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-71-3e7e4e0d8b6c.webp",
+      "sha256": "3e7e4e0d8b6c8aa7bace90de201612b4009cbab2e091c0a4ae8ed7e325cc2a53",
+      "originalBytes": 836986,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma 1 · 3 BR TH · 3BTA1-032",
+      "area": "2,159.47 sq ft printed total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 72,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-72-4c4f92457cf7.webp",
+      "sha256": "4c4f92457cf7642cc6c1ea54f036fb0d8984d4ab512635a2d2ac9ba3dd5759c1",
+      "originalBytes": 889956,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma 1 · 4 BR TH · 4BTA1-053",
+      "area": "2,709.62 sq ft printed total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 73,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-73-0aee2f1e68d1.webp",
+      "sha256": "0aee2f1e68d1cbc44f89869ad65647f17cd0a8f88a5f039e6ee399cf20d0063c",
+      "originalBytes": 896750,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 4 BR · 4BLV2 RF-030 · upper / roof",
+      "area": "5,062.20 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 76,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-76-fa1b9aed3d58.webp",
+      "sha256": "fa1b9aed3d58e96c72bb2b39f998a45b3e237f21d5f39d40e94d434d577c789f",
+      "originalBytes": 766220,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 4 BR · 4BLV2 GF-030 · ground",
+      "area": "5,062.20 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 77,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-77-fd39e3cf44e5.webp",
+      "sha256": "fd39e3cf44e5095f72f3cc35e5c9b07c4b948f1ec12637a323a8098da2c71e6f",
+      "originalBytes": 910546,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 5 BR · 5BLV1 GF-033 · ground",
+      "area": "5,903.56 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 78,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-78-185562d8b608.webp",
+      "sha256": "185562d8b6089ec9867e1e3bc854e83b6307cb4750a81a1f227c1ebac0d7e86c",
+      "originalBytes": 940398,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 5 BR · 5BLV1 FF-033 · upper",
+      "area": "5,903.56 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 79,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-79-c7427fd1a826.webp",
+      "sha256": "c7427fd1a82687d7c0e3dfbdfea6f70b172326397492981e9b69241e14a7b21d",
+      "originalBytes": 793786,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 6 BR · 6BLV RF-015 · upper / roof",
+      "area": "7,191.79 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 80,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-80-cc9dbba690bb.webp",
+      "sha256": "cc9dbba690bb234e63cf70dd75fcfd128f07956660a4c88e92526ae8084966ec",
+      "originalBytes": 917578,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Alma · 6 BR · 6BLV1 GF-015 · ground",
+      "area": "7,191.79 sq ft whole-home total",
+      "sourceIds": [
+        "plans-alma-plans"
+      ],
+      "sourcePage": 81,
+      "src": "/images/projects/alef/hayyan/plan-alma-plans-page-81-a85de765bcee.webp",
+      "sha256": "a85de765bcee04fb5b3385eacff9003068c1e502c16852cedb2a4f0ead91bd8c",
+      "originalBytes": 966462,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/AM5EeoigX9PIcOL2zTiTDfP7mv3DO5dJdiPNzjH2.pdf",
+        "label": "Alma · branded brochure and plans, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-alma-plans-114bdcab2c05.pdf",
+        "sha256": "114bdcab2c055f8d80c996dd9565cd4dc17bf81048cbc2c3b04e6d46c9226c73"
+      }
+    },
+    {
+      "label": "Deem · regional location",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-deem-brochure"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/hayyan/plan-deem-brochure-page-15-c58b65e8ae7f.webp",
+      "sha256": "c58b65e8ae7f3ca218cd3f2a50c21bd504a368541b4a563e71f160bf1c03a123",
+      "originalBytes": 2701934,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/S9w1PD0HtBCBVtck0mG3lDLHnCBF5d91KDmsOXhB.pdf",
+        "label": "Deem · branded brochure, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-brochure-876f77de256c.pdf",
+        "sha256": "876f77de256cfa402f6aabfead95c22a0cf2010340bb04483ae760dd051fe4da"
+      }
+    },
+    {
+      "label": "Deem · community concept",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-deem-brochure"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/hayyan/plan-deem-brochure-page-17-a042985de22e.webp",
+      "sha256": "a042985de22e5c74f9eec275a40c21673b32b96aa7c0ff751162ae23fdc9e7ad",
+      "originalBytes": 4179498,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/S9w1PD0HtBCBVtck0mG3lDLHnCBF5d91KDmsOXhB.pdf",
+        "label": "Deem · branded brochure, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-brochure-876f77de256c.pdf",
+        "sha256": "876f77de256cfa402f6aabfead95c22a0cf2010340bb04483ae760dd051fe4da"
+      }
+    },
+    {
+      "label": "Deem · marked neighbourhood plan",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-deem-brochure"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/hayyan/plan-deem-brochure-page-25-f85036250d67.webp",
+      "sha256": "f85036250d679dd548cf875a2f85e9baaa8f3a4d961a75e0e8ce05f336eb3c47",
+      "originalBytes": 1709410,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/S9w1PD0HtBCBVtck0mG3lDLHnCBF5d91KDmsOXhB.pdf",
+        "label": "Deem · branded brochure, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-brochure-876f77de256c.pdf",
+        "sha256": "876f77de256cfa402f6aabfead95c22a0cf2010340bb04483ae760dd051fe4da"
+      }
+    },
+    {
+      "label": "Deem · historical priced master plan",
+      "area": "Historical broker price annotations",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-1-b11ef428737a.webp",
+      "sha256": "b11ef428737a8a44a14a725d2d03600482ca56739a561e3b1e844a27d432bd2b",
+      "originalBytes": 666136,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T1F-053",
+      "area": "1,813.72 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-2-1bbde7ddc44b.webp",
+      "sha256": "1bbde7ddc44b81b96e595d9c8c602409abeca5eaa09b745f09a04f2965e71199",
+      "originalBytes": 647424,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T1R-051",
+      "area": "1,866.35 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-3-9770233ef104.webp",
+      "sha256": "9770233ef10426b7b4134729f541ad4f512284a718143bbb60cb7ee1312586b8",
+      "originalBytes": 635898,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T2R-XXX · source sheet 4",
+      "area": "2,006.50 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-4-ed4c4d22057c.webp",
+      "sha256": "ed4c4d22057c31f709858bcd5c876fa3da7f3a77122bfb2bb3a33bedeebe0ef1",
+      "originalBytes": 646152,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T2F-XXX · source sheet 5",
+      "area": "1,866.46 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-5-4f42faf05e85.webp",
+      "sha256": "4f42faf05e8555b5af653cf12d641c557caaa3b179c10f09891694525db537a4",
+      "originalBytes": 642784,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T2F-XXX · source sheet 6",
+      "area": "1,906.50 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-6-8c356f3d9fea.webp",
+      "sha256": "8c356f3d9fea99485bfad9220bdfff7dd17825f2af883499186bc2154eba1096",
+      "originalBytes": 650218,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 2 BR · 2T2R-XXX · source sheet 7",
+      "area": "1,964.30 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-7-9c097b9e0d9e.webp",
+      "sha256": "9c097b9e0d9e1cd6c1e1027be34cccb076631d1faf49c8ecd50a0a64df6d000e",
+      "originalBytes": 667040,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T1F-XXX · source sheet 8",
+      "area": "2,190.99 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-8-72e5cb400d5f.webp",
+      "sha256": "72e5cb400d5f4328c7c2cb5c3789e5c5cce08f5db9038ab89977798fabfc2a23",
+      "originalBytes": 694954,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T1F-XXX · disputed outer heading",
+      "area": "2,232.11 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-9-5ab4614eeaeb.webp",
+      "sha256": "5ab4614eeaeb7cc0f9388f9705d0153a4bd3dbce9bafa0eff839627c5f671938",
+      "originalBytes": 708940,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T1R-XXX · source sheet 10",
+      "area": "2,296.69 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-10-ef57499c0471.webp",
+      "sha256": "ef57499c0471498b55871c328a1dbc558993c5d48deb744e5f2e30b528301e43",
+      "originalBytes": 713878,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T1R-XXX · source sheet 11",
+      "area": "2,339.64 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-11-c998b28cfa36.webp",
+      "sha256": "c998b28cfa36da5b6735825b8cda034cd435f668608844056769316b53ad5770",
+      "originalBytes": 722996,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T2-XXX · source sheet 12",
+      "area": "2,418.24 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-12-063b419d258b.webp",
+      "sha256": "063b419d258b881557f20dc0f3f0955c58a368542d0cfb883c3d7d2150ab496b",
+      "originalBytes": 674800,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 3 BR · 3T2-XXX · source sheet 13",
+      "area": "2,462.26 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-13-f3c6a8faf50a.webp",
+      "sha256": "f3c6a8faf50aac290bc3e3a20f67d6d592c72a690bb1045175a7db83feec3bb1",
+      "originalBytes": 673968,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 4 BR villa · 4S1 RF-XXX",
+      "area": "4,272.51 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-14-bcbc31510fa1.webp",
+      "sha256": "bcbc31510fa12ce738c8049d67e1eed570b37a16dc423fc2da93c9ba5b42ae3a",
+      "originalBytes": 705100,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Deem · 4 BR pool villa · 4V1 RF-XXX",
+      "area": "5,456.81 sq ft printed total",
+      "sourceIds": [
+        "plans-deem-plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/hayyan/plan-deem-plans-page-16-5827022cb82d.webp",
+      "sha256": "5827022cb82dc250486e6d56101d4ec4e45911081039bee252f21d6231a001a5",
+      "originalBytes": 762188,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/hayyan/documents/0GWWY1WJjcnOJ2TNupJo1eza0ctfa5KM7QXrFC2S.pdf",
+        "label": "Deem · branded plans and historical payment examples, broker-hosted",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-deem-plans-49bc669aabb1.pdf",
+        "sha256": "49bc669aabb1639ce937e4babfdc8fc7f8ce7dc1e4fe6cb60cedc23b8af4fb78"
+      }
+    },
+    {
+      "label": "Samr · marked neighbourhood plan",
+      "area": "Context drawing, no single-home area",
+      "sourceIds": [
+        "plans-samr-brochure"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/alef/hayyan/plan-samr-brochure-page-18-12793600dea2.webp",
+      "sha256": "12793600dea212ce765aea2d7abf28b2e816f37e722feda793125e6759948c9e",
+      "originalBytes": 1809736,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/73d67527-4e88-4cd5-bea5-606beadd6b16/brochure/application/iFgGFVcvg0tM0oXIdbWFZ6POcYSpTmi1Y4M4ZNYgcLE=/original.pdf",
+        "label": "Samr · branded brochure hosted by Property Finder",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/hayyan/floor-plans-samr-brochure-88580615572f.pdf",
+        "sha256": "88580615572f834b4cd285c875b58567a3ce7184a94e68b563833864d62070b1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "projectId": "wasl-project-02",
+  "projectSlug": "cedarwood-estates",
+  "developerSlug": "wasl",
+  "source": {
+    "url": "https://vision-ary.com/wp-content/uploads/2025/12/JGE_CEDARWOOD_ESTATES_BROCHURE_EN_0_removed.pdf",
+    "label": "Wasl Cedarwood Estates · Visionary-hosted brochure plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/wasl/cedarwood-estates/floor-plans-a698b0ca035a.pdf",
+    "sha256": "a698b0ca035a4dbd90b53fd0924021fd5a51f6a574ad6ce08bc20cfcf5894d44"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Browse the complete original villa drawings, with full-size zoom and links to the source PDF pages.",
+  "selectorLabel": "Choose a villa layout and level",
+  "note": "Three complete sheets show the original phase’s three villa families and all levels. The printed saleable figures are retained. Their floor components total 6,105, 7,656 and 9,178 sq ft, against printed totals of 6,070, 7,918 and 9,471 sq ft. Wasl must reconcile these areas for the selected villa. South phase figures are kept separately.",
+  "plans": [
+    {
+      "label": "4 BR villa · ground, first and roof floors",
+      "area": "6,070 sq ft whole villa",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/wasl/cedarwood-estates/plan-page-25-7c3760482769.webp",
+      "sha256": "7c37604827697058083290d04554d0b387ff095b90da4df6ffecef59b6fdf14c",
+      "originalBytes": 411182,
+      "width": 2800,
+      "height": 1575
+    },
+    {
+      "label": "5 BR villa · ground, first and roof floors",
+      "area": "7,918 sq ft whole villa",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/wasl/cedarwood-estates/plan-page-28-981ab46a7a72.webp",
+      "sha256": "981ab46a7a72ece08f541988ee0df79f30a14b41296374f4ecbb6ccec2e6854c",
+      "originalBytes": 351246,
+      "width": 2800,
+      "height": 1575
+    },
+    {
+      "label": "6 BR villa · ground, first and roof floors",
+      "area": "9,471 sq ft whole villa",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/wasl/cedarwood-estates/plan-page-31-f274da768e4b.webp",
+      "sha256": "f274da768e4b6b79b52f685772a3b57b316d1a7430107a0ec7a6a95451383858",
+      "originalBytes": 430706,
+      "width": 2800,
+      "height": 1575
+    }
+  ]
+}

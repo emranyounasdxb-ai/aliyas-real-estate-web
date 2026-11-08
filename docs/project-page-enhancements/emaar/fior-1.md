@@ -1,0 +1,10 @@
+# Fior 1 page enhancement — verified 4 November 2026
+
+Protected identity: Emaar / emaar-project-05 / fior-1. Six project-specific renders: three original exterior image objects extracted from own official brochure (pages5/6/8) and three own website interiors. The page’s exterior thumbnails are only670px; embedded1920–2670px originals were selected without upscaling, retouching or borrowing another project. Exact image bytes and source hashes retained. Correct cover feeds detail, listing card and existing developer hero. Card image/status tags remain removed.
+
+Sources:
+- https://www.emaar.com/en/properties/fior-1-at-rashid-yachts-and-marina — gallery, own published pin25.2730959,55.2788821 and linked regional map.
+- https://www.emaar.com/cms-media/uploads/FIOR-1_brochure.pdf — live re-fetch matched researched original; physical4 travel panel visually checked: Al Shindagha Heritage District15min, DXB20min, Downtown25min, Marina30min. Community estimates qualified. Exterior embedded-image provenance and physical page links saved in selection.
+- https://www.emaar.com/cms-media/uploads/FIOR-1_floorplan.pdf — live re-fetch matched original. All23 complete residence sheets physical3–25 preserved losslessly, with source PDF and physical-page links. All title/area panels visually reviewed; decimal type variants such asB1.1/B2.1/A.1/C.1/D.1 preserved. Repeated type names use sheet numbers; sqft total area distinguished from preceding sqm and suite area. Source cover/key plan remain in original PDF.
+
+Selection: docs/project-page-enhancement-selections/emaar/fior-1.json. Owner/source check18manifests/152asset hashes/575protected identities passed. Optimized build wQEBJELvc5F3JjgJexjEk/PID50460. Browser case passed28.1s (31.4s runner): all23 layout choices, source/PDF/area matching, five widths in both themes, four accessibility scans, keyboard zoom/Escape/focus, correct listing card and zero badges. Desktop gallery and mobile dark location screenshots visually reviewed. Total6/575verified,569remaining. No canonical research changes, enquiries or publication.

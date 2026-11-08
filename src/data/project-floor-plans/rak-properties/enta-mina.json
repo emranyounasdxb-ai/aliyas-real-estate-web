@@ -1,0 +1,140 @@
+{
+  "projectId": "rak-properties-project-05",
+  "projectSlug": "enta-mina",
+  "developerSlug": "rak-properties",
+  "source": {
+    "url": "https://www.rakproperties.ae/wp-content/uploads/2025/05/ENTA_BROCHURE_2026.pdf",
+    "label": "Enta Mina · 2026 original brochure and complete layouts",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/rak-properties/enta-mina/floor-plans-e9427705f561.pdf",
+    "sha256": "e9427705f5617affc81b0913c7129ba9f38df309b0c965d8bd64608209564ab2"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare the original apartment layouts, building plans and community diagrams.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Printed totals include balconies. Some studios have no balcony. The current project page gives a 347 sq ft starting size, while this brochure prints 348. Confirm the unit and contracted revision.",
+  "plans": [
+    {
+      "label": "Studio",
+      "area": "348–452 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-31-62d3cdc4ebeb.webp",
+      "sha256": "62d3cdc4ebeb24d41271a217e4ecef4d788bd3c48a34f5a33dc09404b77a8e93",
+      "originalBytes": 1529344,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR A",
+      "area": "699–981 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-33-efd0a412c2cc.webp",
+      "sha256": "efd0a412c2cc93cb118309a323c3d872e2c1bc893333c5588a46fa768873e33a",
+      "originalBytes": 1598786,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR B",
+      "area": "766–996 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-34-001d2e256cdb.webp",
+      "sha256": "001d2e256cdb1d6f45b247dce4feb5c958d93f2a9f92a48e32fe85c1a36d6326",
+      "originalBytes": 1644398,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR",
+      "area": "1,189–1,418 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-37-77bbe2549141.webp",
+      "sha256": "77bbe2549141d8698c5198bc2a787dfcbcecb23535c2e0106ecd9cc1e0c730b7",
+      "originalBytes": 3104942,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Ground floor amenity plan",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-21-3870e6d272e4.webp",
+      "sha256": "3870e6d272e4541aaa97729275157eeb9c46864311d6fb596a21979cdcf00396",
+      "originalBytes": 2066292,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "First floor amenity plan",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-25-95d4b93df19b.webp",
+      "sha256": "95d4b93df19b85d69252c808dd1f6d7548e1e076a1b8cc159f9c37f92cb91bff",
+      "originalBytes": 2452928,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Typical floor plan",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-30-1434d6977909.webp",
+      "sha256": "1434d6977909e2582b1b62814081c75c41e0b3d58395d265f9188d595dc30e54",
+      "originalBytes": 1496968,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Enta within Mina",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-9-cc17108b4cd4.webp",
+      "sha256": "cc17108b4cd42b470afa4aecfca707d642183947d26cd0f0c95bffe2b1f7f96e",
+      "originalBytes": 3845422,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Original regional connections",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/rak-properties/enta-mina/plan-page-10-da34b6ea5f55.webp",
+      "sha256": "da34b6ea5f554f4ae2f0a3e2c254c508ffe609ed107157ca0294e6c65fba1c7d",
+      "originalBytes": 4154616,
+      "width": 3600,
+      "height": 2025
+    }
+  ]
+}

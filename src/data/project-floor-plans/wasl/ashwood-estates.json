@@ -1,0 +1,129 @@
+{
+  "projectId": "wasl-project-07",
+  "projectSlug": "ashwood-estates",
+  "developerSlug": "wasl",
+  "source": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%204BR%20Villa%20Floor%20Plan.pdf",
+    "label": "Wasl Ashwood Estates · original 4 BR villa plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/wasl/ashwood-estates/floor-plans-8bb4c775d111.pdf",
+    "sha256": "8bb4c775d1113d382c02579173567386f409f8f6f799890bda4ab2d554c7e13b"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the complete original villa sheets, including ground, first and roof levels, with source-specific PDF links.",
+  "selectorLabel": "Choose a villa type and sheet",
+  "note": "All six original Wasl sheets are available, covering ground, first and roof levels for each villa type. The displayed total covers the whole home once. The six-bedroom floor components sum to 9,178.38 sq ft, while the printed total is 9,178.39 sq ft. The published total is retained. Confirm the selected plot and final included specifications with Wasl.",
+  "plans": [
+    {
+      "label": "4 BR villa · ground",
+      "area": "6,104.43 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/wasl/ashwood-estates/plan-page-1-9965c8f409d7.webp",
+      "sha256": "9965c8f409d71cd72867a8b673d9e252c92b52add740eb02150f927fb7344b4f",
+      "originalBytes": 534206,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "4 BR villa · first and roof",
+      "area": "6,104.43 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/wasl/ashwood-estates/plan-page-2-3c8bdacfe11d.webp",
+      "sha256": "3c8bdacfe11d5b7392abbfe90af365a59c9b8b1e8a896dd5dbfa90d98455e2ae",
+      "originalBytes": 475642,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "5 BR villa · ground",
+      "area": "7,656.05 sq ft whole home",
+      "sourceIds": [
+        "plans-five"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/wasl/ashwood-estates/plan-five-page-1-51a023d97433.webp",
+      "sha256": "51a023d97433b0bfa15487b5034652259ccced675c6b1ec15e39a7542d009069",
+      "originalBytes": 537688,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%205BR%20Villa%20Floor%20Plan.pdf",
+        "label": "Wasl Ashwood Estates · original 5 BR villa plans",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/ashwood-estates/floor-plans-five-87a316ea4630.pdf",
+        "sha256": "87a316ea4630e6d6ceeb0bdc5ccefafb78569d2b8ebda3cff41eab0e37cf975a"
+      }
+    },
+    {
+      "label": "5 BR villa · first and roof",
+      "area": "7,656.05 sq ft whole home",
+      "sourceIds": [
+        "plans-five"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/wasl/ashwood-estates/plan-five-page-2-f8f25fad60e8.webp",
+      "sha256": "f8f25fad60e8735f1e486da539fbaa0c028bf33be0a74714fec7eddeedd467b6",
+      "originalBytes": 343900,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%205BR%20Villa%20Floor%20Plan.pdf",
+        "label": "Wasl Ashwood Estates · original 5 BR villa plans",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/ashwood-estates/floor-plans-five-87a316ea4630.pdf",
+        "sha256": "87a316ea4630e6d6ceeb0bdc5ccefafb78569d2b8ebda3cff41eab0e37cf975a"
+      }
+    },
+    {
+      "label": "6 BR villa · ground",
+      "area": "9,178.39 sq ft whole home",
+      "sourceIds": [
+        "plans-six"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/wasl/ashwood-estates/plan-six-page-1-c37fe93fed19.webp",
+      "sha256": "c37fe93fed1934cc11291c6761e72366f2f166a744155fd4768560bfa0bbabe2",
+      "originalBytes": 586322,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%206BR%20Villa%20Floor%20Plan.pdf",
+        "label": "Wasl Ashwood Estates · original 6 BR villa plans",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/ashwood-estates/floor-plans-six-d7e488865996.pdf",
+        "sha256": "d7e488865996a40cc62de969f6c12062ff7a68d208ee50a4c09bd87e928f2f04"
+      }
+    },
+    {
+      "label": "6 BR villa · first and roof",
+      "area": "9,178.39 sq ft whole home",
+      "sourceIds": [
+        "plans-six"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/wasl/ashwood-estates/plan-six-page-2-40d66c6d964e.webp",
+      "sha256": "40d66c6d964e308151709d895bbe3c43484ed1b8fcca4915192ea10efe2edc18",
+      "originalBytes": 485344,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-09/Ashwood%20Estates%206BR%20Villa%20Floor%20Plan.pdf",
+        "label": "Wasl Ashwood Estates · original 6 BR villa plans",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/ashwood-estates/floor-plans-six-d7e488865996.pdf",
+        "sha256": "d7e488865996a40cc62de969f6c12062ff7a68d208ee50a4c09bd87e928f2f04"
+      }
+    }
+  ]
+}

@@ -60,8 +60,12 @@ export function filterCatalogue(entries: readonly CatalogueEntry[], filter: Cata
         (!filter.type || item.type === filter.type) &&
         (!filter.developer || item.developerSlug === filter.developer) &&
         (!filter.budget || (item.price !== null && item.price <= Number(filter.budget))) &&
-        (!filter.savedOnly || filter.saved?.includes(item.key)) &&
-        (!filter.collectionSlugs || filter.collectionSlugs.includes(item.key)) &&
+        (!filter.savedOnly ||
+          filter.saved?.includes(item.key) ||
+          (item.approved && filter.saved?.includes(item.approved.slug))) &&
+        (!filter.collectionSlugs ||
+          filter.collectionSlugs.includes(item.key) ||
+          (item.approved && filter.collectionSlugs.includes(item.approved.slug))) &&
         `${item.name} ${item.developer} ${locationSearchText(item)}`
           .toLowerCase()
           .includes((filter.query ?? '').toLowerCase().trim()),

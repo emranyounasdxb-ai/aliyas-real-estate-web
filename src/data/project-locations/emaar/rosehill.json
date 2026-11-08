@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-36",
+  "projectSlug": "rosehill",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Dubai Hills Estate",
+  "road": "",
+  "pin": {
+    "latitude": 25.1302625,
+    "longitude": 55.2625469,
+    "sourceUrl": "https://www.emaar.com/en/properties/rosehill-dubai-hills-estate",
+    "scope": "Developer-published Rosehill reference point. It is not a surveyed unit entrance; confirm the selected block and access before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/rosehill/location-5b32b744a1f1.jpg",
+    "sha256": "5b32b744a1f141242f598dbb0ad6cdac89cda61be38fd3c9224cd1ec95b0faa4",
+    "originalBytes": 267274,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+    "alt": "Emaar regional diagram locating Dubai Hills Estate",
+    "scope": "Community diagram, not to scale; proposed transport does not establish current service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/ROSEHILL_brochure.pdf",
+    "page": 3,
+    "scope": "Own Rosehill brochure numerical panel visually checked.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Published community estimates, not live traffic times or measured distances from the selected residence."
+}

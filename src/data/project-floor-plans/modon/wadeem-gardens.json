@@ -1,0 +1,141 @@
+{
+  "projectId": "modon-project-01",
+  "projectSlug": "wadeem-gardens",
+  "developerSlug": "modon",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/8dfc440f62cf4e39898754a02495538b.pdf",
+    "label": "Wadeem Gardens · original six whole villa layouts, Reelly broker mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/modon/wadeem-gardens/floor-plans-218d661d30fe.pdf",
+    "sha256": "218d661d30fed226516c737764ed8bfdf3db384f2c15875fd5643277c2e93cdd"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare six published four, five and six bedroom layouts, each showing both home levels, alongside the original community maps.",
+  "selectorLabel": "Choose a whole villa spread or original community drawing",
+  "note": "The complete original spreads retain room tables and notices. Printed unit sizes are 430, 510 and 591 m² for the four, five and six bedroom homes, with A and B options for each. Current webpage size figures of 532, 630 and 720 m² use an unconfirmed basis and differ from these drawings. Bedroom dimensions omit wardrobe and bathroom space. A depicted pool requires the owner’s installation and approvals. Confirm the contracted area, type, revision and specification.",
+  "plans": [
+    {
+      "label": "4 BR · Option A",
+      "area": "430 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-1-19374dd87bcd.webp",
+      "sha256": "19374dd87bcd789bf289415c8367b2db06f28e36ead4cb9a75f50eef7991671e",
+      "originalBytes": 857126,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "4 BR · Option B",
+      "area": "430 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-2-99146dd95710.webp",
+      "sha256": "99146dd957102a9b406396a59186f8ef6dbb34f2b27578ed147e3503dde1c9fa",
+      "originalBytes": 800660,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "5 BR · Option A",
+      "area": "510 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-3-0be3b64c521c.webp",
+      "sha256": "0be3b64c521cf2ce1db06f95f68784ce8dd5da34760e328964dee2b030357fee",
+      "originalBytes": 877682,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "5 BR · Option B",
+      "area": "510 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-4-c10949d44f73.webp",
+      "sha256": "c10949d44f73c155a323f7326142a626c6b256e097dd888ec9cbf1bd4fc4f1f9",
+      "originalBytes": 836522,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "6 BR · Option A",
+      "area": "591 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-5-d4bc92d3676b.webp",
+      "sha256": "d4bc92d3676bd6366a062b4a52f62a3001a859156c6205663a8a716f4f625c55",
+      "originalBytes": 891314,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "6 BR · Option B",
+      "area": "591 m² printed unit size",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/modon/wadeem-gardens/plan-page-6-55880c539478.webp",
+      "sha256": "55880c5394787626d0b2cc6e839c1d446d7ebf17e1e015666bd9844355704e8f",
+      "originalBytes": 829530,
+      "width": 3600,
+      "height": 2026
+    },
+    {
+      "label": "Original regional location map",
+      "area": "Community context, no individual villa total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/modon/wadeem-gardens/plan-brochure-page-7-b19bf67b88dc.webp",
+      "sha256": "b19bf67b88dcd662152b98e4c82223c21ac6979b37e2ef91a05f6cd63e306c5d",
+      "originalBytes": 258476,
+      "width": 3600,
+      "height": 2026,
+      "source": {
+        "url": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf",
+        "label": "Wadeem Gardens · original complete Modon brochure, Reelly broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/modon/wadeem-gardens/floor-plans-brochure-022962d3d9fc.pdf",
+        "sha256": "022962d3d9fc138a9bbc19d5a8f2e0ec1cabf7c9b832bda37f0e833176e58c5d"
+      }
+    },
+    {
+      "label": "Original Wadeem Gardens master plan",
+      "area": "Community context, no individual villa total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/modon/wadeem-gardens/plan-brochure-page-27-8d568a1b5253.webp",
+      "sha256": "8d568a1b5253b53e2f03a503daad69d7f59502a0eb6d9b96b154763f0852c672",
+      "originalBytes": 6738918,
+      "width": 3600,
+      "height": 2026,
+      "source": {
+        "url": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf",
+        "label": "Wadeem Gardens · original complete Modon brochure, Reelly broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/modon/wadeem-gardens/floor-plans-brochure-022962d3d9fc.pdf",
+        "sha256": "022962d3d9fc138a9bbc19d5a8f2e0ec1cabf7c9b832bda37f0e833176e58c5d"
+      }
+    }
+  ]
+}

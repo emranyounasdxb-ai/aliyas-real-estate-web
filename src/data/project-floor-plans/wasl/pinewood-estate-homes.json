@@ -1,0 +1,82 @@
+{
+  "projectId": "wasl-project-06",
+  "projectSlug": "pinewood-estate-homes",
+  "developerSlug": "wasl",
+  "source": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-05/Pinewood%20Estate%20Homes%20Factsheet.pdf",
+    "label": "Wasl Pinewood Estate Homes · official factsheet layouts",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/wasl/pinewood-estate-homes/floor-plans-fa94b8e03636.pdf",
+    "sha256": "fa94b8e03636f59b5a5bb241cdf4ff2b65b03dbadc5e25ccc3a7f70b0e9bd8f0"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the original home layouts and the separately sourced corner roof sheet, with complete position keys and PDF page links.",
+  "selectorLabel": "Choose a home layout or roof sheet",
+  "note": "The three main layouts use the official factsheet. The additional corner roof sheet comes from a Rapid Deals hosted Wasl copy. Its printed 3,882.90 sq ft conflicts with the main 4,659.16 sq ft figure. Do not add these totals. The 3 BR plot minimum also differs between source summary and drawing. Confirm the approved contractual areas and included features with Wasl.",
+  "plans": [
+    {
+      "label": "3 BR mid unit · ground and first",
+      "area": "3,438.42 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/wasl/pinewood-estate-homes/plan-page-13-31d53fb8c18c.webp",
+      "sha256": "31d53fb8c18cff1ba8ab290b8bba0132d4de968808f6f553629b04efc6e40ddd",
+      "originalBytes": 864138,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "4 BR mid unit · ground and first",
+      "area": "4,233.45 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/wasl/pinewood-estate-homes/plan-page-16-1835251d9b53.webp",
+      "sha256": "1835251d9b532ee43517ee3f38f9d0b50450a6e9f78fa771056b8ea618280e86",
+      "originalBytes": 888906,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "4 BR corner unit · ground and first",
+      "area": "4,659.16 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/wasl/pinewood-estate-homes/plan-page-19-0bad1222cff3.webp",
+      "sha256": "0bad1222cff38c1768071ee338ed8b26c7c7c071dc71eaf747b43914816006d4",
+      "originalBytes": 1207428,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "4 BR corner unit · roof · total disputed",
+      "area": "3,882.90 sq ft printed · disputed",
+      "sourceIds": [
+        "plans-roof"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/wasl/pinewood-estate-homes/plan-roof-page-7-70568f1f9282.webp",
+      "sha256": "70568f1f9282651f66ddd244e379ae4c62d48c8dc0db80bb6cc8278376e76f7f",
+      "originalBytes": 305180,
+      "width": 3200,
+      "height": 1801,
+      "source": {
+        "url": "https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/pine-plans.pdf",
+        "label": "Wasl Pinewood plans · Rapid Deals hosted copy",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/pinewood-estate-homes/floor-plans-roof-47b90c908f81.pdf",
+        "sha256": "47b90c908f81d749c47925e723a8b6c20f173b6c062e69b4d5bea0f8cd7733f5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "projectId": "aldar-project-26",
+  "projectSlug": "nobu-residences-abu-dhabi",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/NOBU_brochure.pdf/7eb92166cf7911f0931632bd0f351ae2",
+    "label": "Aldar Nobu Residences Abu Dhabi brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/nobu-residences-abu-dhabi/floor-plans-ec6bfeb3e0b1.pdf",
+    "sha256": "ec6bfeb3e0b1ff44a71dd2d73684bc618b01f9e50a56b5731653bd809c43be9e"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one- to three-bedroom residences, two loft layouts, and the Sky Villa and Penthouse collections.",
+  "selectorLabel": "Choose a Nobu Residences floor plan",
+  "note": "Total areas follow the figures printed on the full sheets. The two loft sheets show different terraces and the same published total. Confirm the signed plan and area for the specific residence.",
+  "plans": [
+    {
+      "label": "1 BR residence",
+      "area": "126 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-46-033003e5c92b.webp",
+      "sha256": "033003e5c92b6ff0980c73b2b56d28fe200bfe943e882c389d9ed9151454335a",
+      "originalBytes": 407972,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid residence",
+      "area": "249 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-47-da05e9caea4a.webp",
+      "sha256": "da05e9caea4a6a35449c0cd3fce2d258f39bb1b6734671c1277281a06d2b11f6",
+      "originalBytes": 690278,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + maid residence",
+      "area": "398 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-48-c84e80abf541.webp",
+      "sha256": "c84e80abf541f0dd58bd147b03ad3ea484998c911426f0bbc41907daca32e143",
+      "originalBytes": 792122,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR loft",
+      "area": "446 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-49-6dbd6b606ca9.webp",
+      "sha256": "6dbd6b606ca92a0904eaa3cb86a1c7c07624daeadbb2b03227c8567025afac8f",
+      "originalBytes": 612268,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR terrace loft",
+      "area": "446 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-50-f77c88b7d4c4.webp",
+      "sha256": "f77c88b7d4c46b6aa184d4a9e8b778871a28a8add5e18cf6154a6301b7e206f7",
+      "originalBytes": 743292,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "Sky Villa · Types A and B",
+      "area": "1,110 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-51-0762c7a3612d.webp",
+      "sha256": "0762c7a3612dea40cc11394aefef554a661e9394b445d0fdbfab0ebd3830312b",
+      "originalBytes": 743874,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "Penthouse · Types A and B",
+      "area": "1,377 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/aldar/nobu-residences-abu-dhabi/plan-page-52-00543d850b8f.webp",
+      "sha256": "00543d850b8fa13b70e4ff5881da2f4fc8aac47bb86a9b480101be8569f8769a",
+      "originalBytes": 913654,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

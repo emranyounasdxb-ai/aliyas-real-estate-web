@@ -1,0 +1,575 @@
+{
+  "slug": "samana-business-hub",
+  "id": "samana-project-06",
+  "developerSlug": "samana",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/samana-business-hub/",
+  "source": {
+    "name": "SAMANA",
+    "url": "https://www.samanadevelopers.com/projects/samana-business-hub",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "samana-business-hub-tower",
+  "images": [
+    {
+      "name": "samana-business-hub-tower",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p17-0.webp",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=17",
+      "label": "the proposed Business Hub tower",
+      "alt": "SAMANA Business Hub brochure render of the proposed Business Hub tower.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-tower-front",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p5-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=5",
+      "label": "the proposed tower corner",
+      "alt": "SAMANA Business Hub brochure render of the proposed tower corner.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-office",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p13-0.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=13",
+      "label": "the proposed office interior",
+      "alt": "SAMANA Business Hub brochure render of the proposed office interior.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-frontage",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p16-0.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=16",
+      "label": "the proposed frontage",
+      "alt": "SAMANA Business Hub brochure render of the proposed frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-meeting",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p20-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=20",
+      "label": "the proposed meeting room",
+      "alt": "SAMANA Business Hub brochure render of the proposed meeting room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-arrival",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p21-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=21",
+      "label": "the proposed arrival facade",
+      "alt": "SAMANA Business Hub brochure render of the proposed arrival facade.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-garden",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p22-0.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=22",
+      "label": "the proposed garden terraces",
+      "alt": "SAMANA Business Hub brochure render of the proposed garden terraces.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-podcast",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p23-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=23",
+      "label": "the proposed podcast room",
+      "alt": "SAMANA Business Hub brochure render of the proposed podcast room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-terrace",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p24-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=24",
+      "label": "the proposed outdoor lounge",
+      "alt": "SAMANA Business Hub brochure render of the proposed outdoor lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-boardroom",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p25-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=25",
+      "label": "the proposed boardroom",
+      "alt": "SAMANA Business Hub brochure render of the proposed boardroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-pool-aerial",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p26-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=26",
+      "label": "the proposed pool from above",
+      "alt": "SAMANA Business Hub brochure render of the proposed pool from above.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-gym",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p27-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=27",
+      "label": "the proposed gym",
+      "alt": "SAMANA Business Hub brochure render of the proposed gym.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-spa",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p28-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=28",
+      "label": "the proposed spa",
+      "alt": "SAMANA Business Hub brochure render of the proposed spa.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-cafe",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p30-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=30",
+      "label": "the proposed indoor cafe",
+      "alt": "SAMANA Business Hub brochure render of the proposed indoor cafe.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-outdoor-cafe",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p31-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=31",
+      "label": "the proposed outdoor cafe",
+      "alt": "SAMANA Business Hub brochure render of the proposed outdoor cafe.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-pool",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/brochure-p32-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=32",
+      "label": "the proposed pool terrace",
+      "alt": "SAMANA Business Hub brochure render of the proposed pool terrace.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-conference",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-gallery-1.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects/gallery/2026/07/03/lg_6a4778abb25fe.jpg",
+      "label": "the current gallery’s proposed conference room",
+      "alt": "SAMANA Business Hub developer render of the current gallery’s proposed conference room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "samana-business-hub-gym-two",
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-gallery-2.jpg",
+      "url": "https://www.samanadevelopers.com/storage/projects/gallery/2026/07/03/lg_6a4778ac0f110.jpg",
+      "label": "another current-gallery gym view",
+      "alt": "SAMANA Business Hub developer render of another current-gallery gym view.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "samana-business-hub-office",
+    "samana-business-hub-boardroom"
+  ],
+  "location": {
+    "community": "Jebel Ali Industrial 2, Dubai",
+    "road": "Sheikh Zayed Road corridor · Plot 34, municipality reference 518-0203",
+    "pin": {
+      "latitude": 24.975095,
+      "longitude": 55.091382,
+      "sourceUrl": "https://www.samanadevelopers.com/projects/samana-business-hub",
+      "scope": "Business Hub project vicinity transcribed from SAMANA’s published map. Confirm the visitor entrance."
+    },
+    "map": {
+      "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-brochure-review-18.png",
+      "url": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=18",
+      "alt": "Original SAMANA Business Hub regional location schematic and travel panel.",
+      "caption": "Business Hub location context · original SAMANA brochure.",
+      "scope": "Regional schematic with the proposed tower marked. The rings have no verified distance scale. Confirm the current visitor entrance and route."
+    },
+    "sourceLabel": "SAMANA Business Hub · original brochure page 18",
+    "travel": {
+      "sourceUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=18",
+      "scope": "Specific page 18 estimates. Travel mode, route, traffic and exact destination entrances are unspecified.",
+      "destinations": [
+        {
+          "name": "Palm Jebel Ali",
+          "minutes": 10
+        },
+        {
+          "name": "Jumeirah Lake Towers",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina Mall",
+          "minutes": 12
+        },
+        {
+          "name": "Mall of the Emirates",
+          "minutes": 12
+        },
+        {
+          "name": "Expo City",
+          "minutes": 15
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "These figures follow brochure page 18. Another brochure panel groups six destinations at 15 minutes. The primary page’s body and FAQ give different airport and Expo estimates. Check current routes and access. The pin identifies the published project vicinity."
+  },
+  "floorPlans": {
+    "url": "https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/08/19/17/45/6a85b37ed0276.pdf",
+    "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans.pdf",
+    "label": "SAMANA Business Hub · original office and retail plan PDF",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Compare the complete original office, retail and floorplate drawings, with full-size zoom and physical source-page links.",
+    "selectorLabel": "Choose an office type, retail unit or floorplate",
+    "note": "The 57 complete sheets cover 16 retail units, ten first-floor office layouts, 18 upper-office types and 13 floorplates. Displayed areas use printed totals, including balconies where listed. Upper-type ranges span the particular floors shown. Component rounding and range differences remain in the source. Confirm the exact commercial unit and approved fitout.",
+    "plans": [
+      {
+        "sourcePage": 19,
+        "label": "Retail 01 · ground",
+        "area": "995.45 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "Retail 02 · ground",
+        "area": "964.66 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "Retail 03 · ground",
+        "area": "1,583.26 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-21.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "Retail 04 · ground",
+        "area": "997.49 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-22.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Retail 05 · ground",
+        "area": "838.51 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-23.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Retail 06 · ground",
+        "area": "1,208.03 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Retail 07 · ground",
+        "area": "1,112.88 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Retail 08 · ground",
+        "area": "1,059.06 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Retail 09 · ground",
+        "area": "2,460.95 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Retail 10 · ground",
+        "area": "2,574.30 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-28.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Retail 11 · first podium",
+        "area": "778.55 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Retail 12 · first podium",
+        "area": "614.08 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "Retail 13 · first podium",
+        "area": "617.31 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Retail 14 · first podium",
+        "area": "615.70 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "Retail 15 · first podium",
+        "area": "445.84 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "Retail 16 · first podium",
+        "area": "883.72 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-35.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "Office floor 1 · Type 05 · Unit 101",
+        "area": "889.96 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-37.png"
+      },
+      {
+        "sourcePage": 38,
+        "label": "Office floor 1 · Type 06 · Unit 102",
+        "area": "850.78 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-38.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "Office floor 1 · Type 07 · Unit 103",
+        "area": "1,554.42 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-39.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "Office floor 1 · Type 08 · Unit 104",
+        "area": "742.39 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "Office floor 1 · Type 13 · Unit 105",
+        "area": "807.62 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Office floor 1 · Type 14 · Unit 106",
+        "area": "1,049.27 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "Office floor 1 · Type 15 · Unit 107",
+        "area": "1,090.81 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-43.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "Office floor 1 · Type 16 · Unit 108",
+        "area": "907.51 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Office floor 1 · Type 17 · Unit 109",
+        "area": "1,021.50 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Office floor 1 · Type 18 · Unit 110",
+        "area": "884.36 sq ft total",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-46.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Upper offices · Type 01",
+        "area": "1,483.91–2,040.51 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Upper offices · Type 02",
+        "area": "593.41–638.52 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "Upper offices · Type 03",
+        "area": "623.66–631.63 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-50.png"
+      },
+      {
+        "sourcePage": 51,
+        "label": "Upper offices · Type 04",
+        "area": "626.03–643.68 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-51.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Upper offices · Type 05",
+        "area": "890.18–1,072.84 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-52.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "Upper offices · Type 06",
+        "area": "840.45–849.49 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-53.png"
+      },
+      {
+        "sourcePage": 54,
+        "label": "Upper offices · Type 07",
+        "area": "1,513.19–1,656.14 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-54.png"
+      },
+      {
+        "sourcePage": 55,
+        "label": "Upper offices · Type 08",
+        "area": "704.18–761.76 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-55.png"
+      },
+      {
+        "sourcePage": 56,
+        "label": "Upper offices · Type 09",
+        "area": "1,079.40–1,284.24 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-56.png"
+      },
+      {
+        "sourcePage": 57,
+        "label": "Upper offices · Type 10",
+        "area": "1,098.46–1,162.39 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-57.png"
+      },
+      {
+        "sourcePage": 58,
+        "label": "Upper offices · Type 11",
+        "area": "903.74–960.03 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-58.png"
+      },
+      {
+        "sourcePage": 59,
+        "label": "Upper offices · Type 12",
+        "area": "836.25–854.33 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-59.png"
+      },
+      {
+        "sourcePage": 60,
+        "label": "Upper offices · Type 13",
+        "area": "804.39–822.47 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-60.png"
+      },
+      {
+        "sourcePage": 61,
+        "label": "Upper offices · Type 14",
+        "area": "1,052.39 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-61.png"
+      },
+      {
+        "sourcePage": 62,
+        "label": "Upper offices · Type 15",
+        "area": "1,090.71 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-62.png"
+      },
+      {
+        "sourcePage": 63,
+        "label": "Upper offices · Type 16",
+        "area": "907.61 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-63.png"
+      },
+      {
+        "sourcePage": 64,
+        "label": "Upper offices · Type 17",
+        "area": "1,024.08–1,078.65 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-64.png"
+      },
+      {
+        "sourcePage": 65,
+        "label": "Upper offices · Type 18",
+        "area": "841.95–898.14 sq ft total across listed floors",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-65.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Ground · retail and access · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "First podium · retail and parking · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "First office floor · amenities · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Second office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Third office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Fourth office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Fifth office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Sixth office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Seventh office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Eighth office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Ninth office floor · mechanical and prayer · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Tenth office floor · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "11th–18th office floors · floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/samana-business-hub/samana-business-hub-official-plans-review-16.png"
+      }
+    ],
+    "additionalDocuments": []
+  },
+  "review": {
+    "imagery": "Eighteen distinct project renders were visually reviewed. Sixteen native brochure scenes cover the commercial tower, office interior, meetings, arrival, gardens, podcast, boardroom, gym, spa, cafes and pool. Two additional current-gallery scenes show a conference room and gym. The horizontal tower view supplies the card and hero. Decorative backgrounds, generic people/city photographs and duplicate gallery scenes are excluded. Proposed equipment and fitout require confirmation. No dated construction photographs or card badges.",
+    "floorPlans": "The 57 complete sheets cover 16 retail units, ten first-floor office layouts, 18 upper-office types and 13 floorplates. Displayed areas use printed totals, including balconies where listed. Upper-type ranges span the particular floors shown. Component rounding and range differences remain in the source. Confirm the exact commercial unit and approved fitout. All 44 numerical source panels were visually reviewed at readable resolution, including all totals and floor-specific ranges. Sixteen retail totals, ten first-office-floor totals and 18 upper-office range summaries were transcribed from the visible panels. The 13 complete floorplates retain their particular floor, retail, parking, amenity, mechanical and prayer scope. Original sheets remain whole, with position keys and notices. Retail/office layouts are not labelled as residences. Numeric bounds are not added as independent component endpoints.",
+    "location": "The complete original brochure page 18 was visually reviewed. It gives 10/12/15-minute groups for six destinations. Source variation against brochure page 15 and the current primary page remains explicit. The primary q coordinate 24.97509467541225, 55.09138226239464 is recorded with source hash and six-place conversion. Plot 34 / municipality 518-0203 retains the exact primary microsite address. Map rings are not converted into distances.",
+    "provenance": "Fresh primary/microsite HTML, original developer brochure and official 66-page plan/fact documents retain retrieval receipts, bytes and SHA-256 values. Native original image resources, complete drawing notices and individual physical-page links are preserved. Protected identity, commercial designation, completed text research and commercial/source conflicts are unchanged."
+  },
+  "unavailable": [
+    "A verified visitor entrance, dated construction photographs, current unit inventory, final equipment and the applicable contractual commercial fitout were not established. Published travel and commercial-source differences remain qualified."
+  ]
+}

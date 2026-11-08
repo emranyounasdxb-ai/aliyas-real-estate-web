@@ -1,0 +1,244 @@
+{
+  "projectId": "binghatti-project-23",
+  "projectSlug": "mercedes-benz-places-by-binghatti",
+  "developerSlug": "binghatti",
+  "source": {
+    "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-mercedes-benz-places-assets/binghatti-mercedes-benz-places-floor-plans.pdf",
+    "label": "Mercedes-Benz Places Downtown · Binghatti floor plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/floor-plans-160ec7c171d5.pdf",
+    "sha256": "160ec7c171d52cb0efbb9f72ba75d3db12498bce89090eb84925496c3a2f9620"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3501,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the Pagoda and Grand Mercedes suites, the Vision One-Eleven and Gullwing penthouses, and every level of the duplex and triplex.",
+  "selectorLabel": "Choose a Downtown Mercedes-Benz Places layout",
+  "note": "The area shown follows the selected drawing. Duplex and triplex overview sheets give whole-residence totals. Their level sheets give the area for that level.",
+  "plans": [
+    {
+      "label": "2 BR · Pagoda Suite Type 01",
+      "area": "1,837 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-5-8ad10b4971a7.webp",
+      "sha256": "8ad10b4971a7a2ea4424b3d44b11754cc852796e7d7b421328ecd21b57ceeba5",
+      "originalBytes": 229994,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "2 BR · Pagoda Suite Type 02",
+      "area": "2,534 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-7-8fc477467315.webp",
+      "sha256": "8fc47746731578265b650416de513c72d86398cf1fc2252ba7a529b861305caa",
+      "originalBytes": 261000,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "3 BR · Grand Mercedes Suite Type 01",
+      "area": "2,710 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-11-961797dd3561.webp",
+      "sha256": "961797dd35618b32715c983f08daa3e24a50d2c52599a09c13f853db230eb0a3",
+      "originalBytes": 256752,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "3 BR · Grand Mercedes Suite Type 02",
+      "area": "3,285 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-13-72523d546e58.webp",
+      "sha256": "72523d546e58a2cc347fbba164bde82f122a15ded7241434a4f645430ddae24f",
+      "originalBytes": 256208,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "4 BR · Vision One-Eleven Penthouse",
+      "area": "4,007 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-18-8553d7e20d58.webp",
+      "sha256": "8553d7e20d581c0dafdfbf95ad7a6432c9c3c17db73df99a7538342effa9ecaf",
+      "originalBytes": 290044,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "5 BR · Gullwing Penthouse",
+      "area": "6,891 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-22-6f7b78ac364c.webp",
+      "sha256": "6f7b78ac364c0728e3f9365630070b986b4e8097b88421c12473c476dae84ff9",
+      "originalBytes": 378536,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "5 BR · Vision EQ Silver Arrow duplex overview",
+      "area": "12,475 sq ft published whole-duplex total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-25-0935cedc2c71.webp",
+      "sha256": "0935cedc2c71c74d72df28c8b79b9cb67c6a29cf8798ea0040959b07273fc2ad",
+      "originalBytes": 1309674,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Vision EQ Silver Arrow · Level 1",
+      "area": "6,909 sq ft published level area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-26-de24fb92cb26.webp",
+      "sha256": "de24fb92cb26315ce7d7ee801158c905c567962263c7321c2b0847309d160661",
+      "originalBytes": 344488,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Vision EQ Silver Arrow · Level 2",
+      "area": "5,566 sq ft published level area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-28-5a660f3018a1.webp",
+      "sha256": "5a660f3018a1101c473cb6c2d56d28634ab47384a43083244293d6c1fe080571",
+      "originalBytes": 298392,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "6 BR · Uhlenhaut Coupé triplex overview",
+      "area": "18,101 sq ft published whole-triplex total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-31-e425bdb86056.webp",
+      "sha256": "e425bdb86056105f119ab5b4ebc34e158224d28c6f12e92a0419d4371fb54fd5",
+      "originalBytes": 1486316,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Uhlenhaut Coupé · Level 1",
+      "area": "6,437 sq ft published level area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-32-c230bbd81b60.webp",
+      "sha256": "c230bbd81b601b6f30277600f512755a1ab71d84ef7f287f7ad7265c19657654",
+      "originalBytes": 385198,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Uhlenhaut Coupé · Level 2",
+      "area": "5,538 sq ft published level area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-34-5db078f0b42a.webp",
+      "sha256": "5db078f0b42aea382f602cefd23751d3ea1d44b45e7e094327771f07158f4ae5",
+      "originalBytes": 289142,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Uhlenhaut Coupé · Level 3",
+      "area": "6,126 sq ft published level area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-36-32d41b471a93.webp",
+      "sha256": "32d41b471a93d34d0582c40e85397cb9c28b0f667005b09117699e048d08ac8d",
+      "originalBytes": 330876,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Pagoda Suite · Floor arrangement",
+      "area": "Overall floor area is not stated on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-4-6f614586e45f.webp",
+      "sha256": "6f614586e45fc97c8f473616775393aeed294ee9f8671d8ed77df383ecea52e6",
+      "originalBytes": 1378464,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Grand Mercedes Suite · Floor arrangement",
+      "area": "Overall floor area is not stated on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-10-684cd8006c0c.webp",
+      "sha256": "684cd8006c0c3969f9dc4275588f06bdf47a9c6877abbbbb24ee44ff963e648c",
+      "originalBytes": 1383678,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Vision One-Eleven · Floor arrangement",
+      "area": "Overall floor area is not stated on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-17-323542b320f2.webp",
+      "sha256": "323542b320f244f8b5073747cb43c329cc269eb6803853dd0aaca22b63588b5c",
+      "originalBytes": 1342196,
+      "width": 3501,
+      "height": 2197
+    },
+    {
+      "label": "Gullwing · Floor arrangement",
+      "area": "Overall floor area is not stated on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/plan-page-21-47172022c8bc.webp",
+      "sha256": "47172022c8bc321d07a030bd4092dfacb4e55f5aa3519ec70d277932b2b84475",
+      "originalBytes": 1358032,
+      "width": 3501,
+      "height": 2197
+    }
+  ]
+}

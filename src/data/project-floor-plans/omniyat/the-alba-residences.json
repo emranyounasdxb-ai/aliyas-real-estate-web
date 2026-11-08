@@ -1,0 +1,75 @@
+{
+  "projectId": "omniyat-project-01",
+  "projectSlug": "the-alba-residences",
+  "developerSlug": "omniyat",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/the-alba-residences-by-omniyat/floor-plans/7da619e9b1d9c33f.pdf",
+    "label": "The Alba Residences original OMNIYAT plan sheets, hosted by Madena",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/omniyat/the-alba-residences/floor-plans-7da619e9b1d9.pdf",
+    "sha256": "7da619e9b1d9c33f8eaab5341ecb6211331076caa807a1fd1409ba2a88196196"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the published three- and four-bedroom simplex and duplex examples for The Alba Residences collection.",
+  "selectorLabel": "Choose an Alba Residences layout",
+  "note": "The totals include the terrace and follow the printed examples. The duplex sheets show both levels. Ask for the drawing for the specific home.",
+  "plans": [
+    {
+      "label": "3 BR simplex",
+      "area": "5,368 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/omniyat/the-alba-residences/plan-page-1-86aed90c552a.webp",
+      "sha256": "86aed90c552a445144ca53d5726ee9fa0af7b6ae996553669df73401bacbe425",
+      "originalBytes": 199864,
+      "width": 2600,
+      "height": 1625
+    },
+    {
+      "label": "4 BR simplex · Type 4A",
+      "area": "6,744 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/omniyat/the-alba-residences/plan-page-2-977903aae185.webp",
+      "sha256": "977903aae185448453a11ee6d24592198ca95c181d69a971724f77c06029a9ee",
+      "originalBytes": 158076,
+      "width": 2600,
+      "height": 1625
+    },
+    {
+      "label": "3 BR duplex · Type 3B",
+      "area": "5,586 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/omniyat/the-alba-residences/plan-page-3-a0100d40488c.webp",
+      "sha256": "a0100d40488cfecfacdf21ca59fb47cfc774b526a230ccc8ede9e726bcc2d888",
+      "originalBytes": 166832,
+      "width": 2600,
+      "height": 1625
+    },
+    {
+      "label": "4 BR duplex · Type 4C",
+      "area": "6,912 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/omniyat/the-alba-residences/plan-page-4-ea88a750918b.webp",
+      "sha256": "ea88a750918bfb81bfd7eeea7f4b61e5f0a98f987417adc2769b93694b55a56e",
+      "originalBytes": 183190,
+      "width": 2600,
+      "height": 1625
+    }
+  ]
+}

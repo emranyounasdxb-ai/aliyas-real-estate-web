@@ -1,0 +1,201 @@
+.pd-floor-plans .fp-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 24px 0 16px;
+}
+.pd-floor-plans .fp-select {
+  display: grid;
+  flex: 1 1 288px;
+  gap: 8px;
+  min-width: 0;
+  max-width: 100%;
+}
+.pd-floor-plans label {
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--pd-muted);
+}
+.pd-floor-plans select {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  padding: 12px;
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--pd-line);
+  border-radius: 8px;
+  font: inherit;
+  font-size: 16px;
+  line-height: 24px;
+}
+.pd-floor-plans select:focus-visible {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+}
+.pd-floor-plans .fp-area {
+  margin: 0 0 16px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.pd-floor-plans .fp-preview {
+  display: grid;
+  padding: 0;
+  width: 100%;
+  border: 1px solid var(--pd-line);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  cursor: zoom-in;
+}
+.pd-floor-plans .fp-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pd-floor-plans .fp-preview > span {
+  justify-self: end;
+  margin: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #181818;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.pd-floor-plans .fp-preview:hover {
+  border-color: var(--accent-ink);
+}
+.pd-floor-plans .fp-note {
+  margin: 16px 0;
+  color: var(--pd-muted);
+  font-size: 14px;
+  line-height: 20px;
+  text-wrap: pretty;
+}
+.pd-floor-plans :is(.fp-source, .fp-toolbar a) {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--accent-ink);
+  font-size: 14px;
+  line-height: 20px;
+  text-underline-offset: 4px;
+}
+.fp-dialog {
+  width: calc(100vw - 32px);
+  max-width: 1440px;
+  max-height: calc(100dvh - 32px);
+  padding: 24px;
+  border: 1px solid #454545;
+  border-radius: 16px;
+  background: #181818;
+  color: #fff;
+}
+.fp-dialog::backdrop {
+  background: #000b;
+}
+.fp-dialog .fp-dialog-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+.site-frame .project-detail .pd-floor-plans .fp-dialog-heading h2 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.fp-dialog button {
+  border: 1px solid #666;
+  background: #272727;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+}
+.fp-dialog .fp-dialog-heading button {
+  display: grid;
+  place-items: center;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 8px;
+}
+.fp-dialog button:hover {
+  background: #313131;
+}
+.site-frame .project-detail .fp-dialog :is(a, button, .fp-viewport):focus-visible {
+  outline: 2px solid #d7bd80;
+  outline-offset: 4px;
+}
+.fp-dialog .fp-dialog-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin: 16px 0 12px;
+}
+.fp-dialog .fp-dialog-tools a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #d7bd80;
+  font-size: 14px;
+  line-height: 20px;
+}
+.fp-dialog > p {
+  margin: 0 0 16px;
+  color: #ccc;
+  font-size: 14px;
+  line-height: 20px;
+}
+.fp-dialog .fp-viewport {
+  overflow: auto;
+  max-height: 64dvh;
+  background: #fff;
+  border-radius: 8px;
+  overscroll-behavior: contain;
+}
+.pd-floor-plans .fp-preview[data-plan-background='dark'],
+.fp-dialog .fp-viewport[data-plan-background='dark'] {
+  background: #151515;
+}
+.fp-dialog .fp-viewport img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: none;
+}
+.fp-dialog .fp-viewport[data-original-size='false'] img {
+  max-width: 100%;
+  max-height: 64dvh;
+  object-fit: contain;
+  margin: 0 auto;
+}
+@media (max-width: 600px) {
+  .pd-floor-plans .fp-select {
+    width: 100%;
+  }
+  .fp-dialog {
+    padding: 16px;
+  }
+  .site-frame .project-detail .pd-floor-plans .fp-dialog-heading h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .fp-dialog .fp-viewport {
+    max-height: 56dvh;
+  }
+  .fp-dialog .fp-viewport[data-original-size='false'] img {
+    max-height: 56dvh;
+  }
+}

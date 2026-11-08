@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-11",
+  "projectSlug": "lexington",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road",
+  "pin": {
+    "latitude": 25.003305,
+    "longitude": 55.287846,
+    "sourceUrl": "https://continentalclub.ae/project/lexington-town-square/",
+    "scope": "Approximate building point published by Continental Club and checked against the Nshama master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/lexington/location-74bce25d1cf3.png",
+    "sha256": "74bce25d1cf31df4d82d26c8fe2a4923f6883edc8be09fba610fefc3429debc1",
+    "originalBytes": 3485945,
+    "width": 1980,
+    "height": 1134,
+    "sourceUrl": "https://jiwak.com/files/properties/0f0a4584e1d761b94bc6d279fbcb31cbe6524416.pdf#page=8",
+    "alt": "Nshama master plan showing the Lexington site within Town Square, Dubai.",
+    "scope": "The developer’s community master plan marks the project plot.",
+    "caption": "Lexington at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://jiwak.com/files/properties/0f0a4584e1d761b94bc6d279fbcb31cbe6524416.pdf#page=6",
+    "scope": "Approximate times from the wider Town Square community.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community estimates. The entrance, route and traffic can affect travel time."
+}

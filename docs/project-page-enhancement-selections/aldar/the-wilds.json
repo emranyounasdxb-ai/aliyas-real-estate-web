@@ -1,0 +1,163 @@
+{
+  "id": "aldar-project-11",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/wilds/villas",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "villa-kitchen",
+    "villa-bedroom",
+    "nest-pavilion"
+  ],
+  "location": {
+    "community": "The Wilds, Dubailand",
+    "road": "Beside Al Barari and Majan, along the E311 corridor",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/the-wilds/brochure-map-p6.png",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403#page=6",
+      "alt": "Aldar regional map highlighting The Wilds beside Al Barari and Sheikh Mohammed bin Zayed Road.",
+      "caption": "The Wilds location map from Aldar’s brochure, page 6.",
+      "scope": "The outline marks the wider development. Villa entrances depend on the cluster."
+    },
+    "sourceLabel": "Aldar Cassia fact sheet · Jiwak-hosted copy",
+    "travel": {
+      "sourceUrl": "https://jiwak.com/files/properties/1aefa01fe9a336c86a6c98a8b5d0ccd5e867e77c.pdf",
+      "page": 1,
+      "scope": "Approximate area journeys published for the Cassia villa release.",
+      "destinations": [
+        {
+          "name": "Dubai International Airport",
+          "minutes": 25
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "Aldar’s estimates are for the Cassia release in the wider Wilds community. Use the project directions link for current routing and confirm the gate for your cluster."
+  },
+  "floorPlans": {
+    "cache": "artifacts/project-page-enhancement/the-wilds/plans.pdf",
+    "url": "https://cdn.opr.ae/upload/brochures/TheWilds%20Floorplans.pdf",
+    "label": "Aldar Cassia and Ravenna villa plans · OPR-hosted copy",
+    "introduction": "Compare Cassia Villas and Ravenna Residences. Each sheet shows both villa levels and the gross saleable area printed by Aldar.",
+    "selectorLabel": "Choose a Wilds villa floor plan",
+    "note": "Areas describe the illustrated layouts. Confirm the signed plan, area and plot for the specific villa.",
+    "plans": [
+      {
+        "sourcePage": 2,
+        "label": "Cassia 3 BR · Type 01",
+        "area": "276 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-02.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Cassia 3 BR · Type 02",
+        "area": "276 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-03.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Cassia 4 BR · Type 01",
+        "area": "313 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Cassia 4 BR · Type 02",
+        "area": "313 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Cassia 5 BR · Type 01",
+        "area": "413 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Cassia 5 BR · Type 02",
+        "area": "413 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-07.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Ravenna 4 BR",
+        "area": "505 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Ravenna 5 BR",
+        "area": "620 m² GSA",
+        "cache": "artifacts/project-page-enhancement/the-wilds/plan-10.png"
+      }
+    ]
+  },
+  "review": {
+    "images": "The villa launch supplies the Ravenna poolside hero and kitchen. The developer brochure supplies two Cassia elevations, a villa bedroom and a clearly labelled community pavilion. The distinct apartment and mansion releases were excluded.",
+    "location": "The Aldar brochure map on physical page 6 shows the community beside Al Barari and E311. The 25-minute values are from the separate Jiwak-hosted Aldar Cassia fact sheet and are scoped to that release. Aldar also lists the same area estimates on its Wilds Residences launch. No exact gate was verified.",
+    "floorPlans": "Reviewed the complete 11-page OPR-hosted Aldar villa PDF. Eight plan spreads on pages 2–7 and 9–10 show Cassia and Ravenna layouts and print gross saleable areas. The other pages are cover or chapter art."
+  },
+  "unavailable": [
+    "Verified villa cluster entrance coordinates and plot-specific signed dimensions."
+  ],
+  "slug": "the-wilds",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/the-wilds/",
+  "images": [
+    {
+      "name": "ravenna-poolside",
+      "label": "Ravenna villa and pool",
+      "alt": "Aldar render showing ravenna villa and pool.",
+      "position": "60% 53%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/home_banner.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-cassia-villas-launch/home_banner.webp"
+    },
+    {
+      "name": "cassia-three",
+      "label": "Cassia three-bedroom Type 02 street elevation",
+      "alt": "Aldar render showing cassia three-bedroom Type 02 street elevation.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/brochure-p46-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403#page=46"
+    },
+    {
+      "name": "villa-kitchen",
+      "label": "Villa kitchen and dining room",
+      "alt": "Aldar render showing villa kitchen and dining room.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/welcome_slider-2.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-cassia-villas-launch/welcome_slider-2.webp"
+    },
+    {
+      "name": "cassia-five",
+      "label": "Cassia five-bedroom Type 01 poolside elevation",
+      "alt": "Aldar render showing cassia five-bedroom Type 01 poolside elevation.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/brochure-p56-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403#page=56"
+    },
+    {
+      "name": "villa-bedroom",
+      "label": "Villa bedroom with garden outlook",
+      "alt": "Aldar render showing villa bedroom with garden outlook.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/brochure-p37-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403#page=37"
+    },
+    {
+      "name": "nest-pavilion",
+      "label": "The Nest community pavilion across the stream",
+      "alt": "Aldar render showing the Nest community pavilion across the stream.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/the-wilds/brochure-p13-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The_Wilds_Brochure.pdf/82bf0cf8ca1511f0b43b6a133812b403#page=13"
+    }
+  ],
+  "cardName": "ravenna-poolside"
+}

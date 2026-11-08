@@ -1,0 +1,613 @@
+{
+  "slug": "south-garden",
+  "id": "wasl-project-08",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/south-garden/",
+  "source": {
+    "name": "Wasl",
+    "url": "https://www.wasl.ae/en/project/wasl-gate/south-garden",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "south-garden-exterior",
+  "images": [
+    {
+      "name": "south-garden-exterior",
+      "cache": "artifacts/project-page-enhancement/south-garden/brochure-p8-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=8",
+      "label": "the proposed D/E buildings",
+      "alt": "Wasl render of the proposed D/E buildings.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-living",
+      "cache": "artifacts/project-page-enhancement/south-garden/brochure-p18-0.jpg",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=18",
+      "label": "the proposed living and dining room",
+      "alt": "Wasl render of the proposed living and dining room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-studio",
+      "cache": "artifacts/project-page-enhancement/south-garden/brochure-p10-0.jpg",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=10",
+      "label": "the proposed studio interior",
+      "alt": "Wasl render of the proposed studio interior.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-aerial",
+      "cache": "artifacts/project-page-enhancement/south-garden/brochure-p12-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=12",
+      "label": "the proposed D/E buildings and landscaping",
+      "alt": "Wasl render of the proposed D/E buildings and landscaping.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-gym",
+      "cache": "artifacts/project-page-enhancement/south-garden/brochure-p16-0.jpg",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=16",
+      "label": "the proposed shared gym",
+      "alt": "Wasl render of the proposed shared gym.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-play",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p4-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=4",
+      "label": "the proposed A–C buildings and play garden",
+      "alt": "Wasl render of the proposed A–C buildings and play garden.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-pool",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p7-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=7",
+      "label": "the proposed A–C pool terrace",
+      "alt": "Wasl render of the proposed A–C pool terrace.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-aerial",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p10-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=10",
+      "label": "the proposed A–C buildings and landscaping",
+      "alt": "Wasl render of the proposed A–C buildings and landscaping.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-park",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p12-0.jpg",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=12",
+      "label": "the proposed A–C park frontage",
+      "alt": "Wasl render of the proposed A–C park frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-dining",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p15-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=15",
+      "label": "the proposed original-release dining space",
+      "alt": "Wasl render of the proposed original-release dining space.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-kitchen",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p17-0.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=17",
+      "label": "the proposed original-release kitchen",
+      "alt": "Wasl render of the proposed original-release kitchen.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "south-garden-abc-lifts",
+      "cache": "artifacts/project-page-enhancement/south-garden/original-p18-1.webp",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf#page=18",
+      "label": "the proposed original-release lift lobby",
+      "alt": "Wasl render of the proposed original-release lift lobby.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "south-garden-living",
+    "south-garden-studio"
+  ],
+  "location": {
+    "community": "Wasl Gate, Jebel Ali, Dubai",
+    "road": "Near Sheikh Zayed Road and Energy Metro Station",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/south-garden/south-garden-official-brochure-review-04.png",
+      "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=4",
+      "alt": "Wasl regional map identifying the Wasl Gate community and surrounding Dubai destinations.",
+      "caption": "Wasl Gate regional context · original South Garden D/E brochure.",
+      "scope": "Community-level regional schematic. It does not establish a particular building entrance or live transport conditions."
+    },
+    "sourceLabel": "Wasl South Garden D/E brochure",
+    "travel": {
+      "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=5",
+      "scope": "Published D/E brochure estimates. Mode, exact destination entrances, route and traffic are unspecified.",
+      "destinations": [
+        {
+          "name": "Energy Metro Station",
+          "minutes": 1
+        },
+        {
+          "name": "Festival Plaza / IKEA / ACE",
+          "minutes": 5
+        },
+        {
+          "name": "Expo City Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 15
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 20
+        },
+        {
+          "name": "Mall of the Emirates",
+          "minutes": 20
+        },
+        {
+          "name": "Palm Jebel Ali",
+          "minutes": 25
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 30
+        }
+      ]
+    },
+    "travelNote": "The current project guide instead lists Marina at 20 minutes, Al Maktoum Airport at 15 and Mall of the Emirates at 25. These source estimates conflict. Confirm the selected building entrance and live route. Directions use the project name."
+  },
+  "floorPlans": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf",
+    "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current.pdf",
+    "label": "Wasl South Garden D/E · original brochure drawings",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Browse the original unit layouts and complete building floorplates. Each choice identifies its phase, building and physical PDF page.",
+    "selectorLabel": "Choose a phase, unit layout or building floorplate",
+    "note": "The 62 complete sheets distinguish original A–C and newer D/E releases. Multi-layout totals follow the printed type labels. Whole-floor overviews have varying individual unit areas. D 3 BR A prints 2,188.34 sq ft versus its 2,118.34 component sum. D 1 BR E1 prints 1,082.85 versus its 1,112.85 sq ft component sum. Other rounding, metric and source-range differences remain qualified. Obtain corrected contractual drawings from Wasl.",
+    "plans": [
+      {
+        "sourcePage": 39,
+        "label": "D · studios A / B",
+        "area": "A 438.31 / B 499.88 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-39.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "D · studios B1 / C",
+        "area": "B1 399.34 / C 412.37 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "D · studio D",
+        "area": "410.00 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "D · 1 BR A / B",
+        "area": "A 944.32 / B 857.88 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "D · 1 BR C / D",
+        "area": "C 868.76 / D 1,060.46 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-43.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "D · 1 BR D1 / D2",
+        "area": "D1 959.17 / D2 839.80 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "D · 1 BR D3 / E",
+        "area": "D3 943.24 / E 1,072.09 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "D · 1 BR E1 / E2 · source conflict",
+        "area": "E1 1,082.85 / E2 955.40 sq ft printed · E1 disputed",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "D · 1 BR E3 / F",
+        "area": "E3 955.40 / F 823.98 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "D · 2 BR A / B",
+        "area": "A 1,230.21 / B 1,298.67 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "D · 2 BR C / D",
+        "area": "C 1,233.76 / D 1,188.12 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "D · 3 BR A / A1 · source conflict",
+        "area": "A 2,188.34 / A1 1,743.86 sq ft printed · A disputed",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-50.png"
+      },
+      {
+        "sourcePage": 51,
+        "label": "D · 3 BR B / B1",
+        "area": "B 1,930.18 / B1 1,844.61 sq ft total",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-51.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "A · studios A / B",
+        "area": "A 438.31 / B 508.38 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "A · studios C / D",
+        "area": "C 412.47 / D 410.00 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "A · 1 BR A / B",
+        "area": "A 943.99 / B 857.99 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-43.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "A · 1 BR C / D",
+        "area": "C 868.86 / D 1,064.44 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "A · 1 BR E / F",
+        "area": "E 1,074.78 / F 824.30 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "A · 2 BR A / B",
+        "area": "A 1,230.31 / B 1,296.51 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "A · 2 BR C / D",
+        "area": "C 1,233.76 / D 1,188.44 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "A · 2 BR E / F",
+        "area": "E 1,153.46 / F 1,189.09 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "A · 2 BR G",
+        "area": "1,177.46 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "A · 3 BR A / B",
+        "area": "A 2,126.84 / B 1,931.15 sq ft total",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-50.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "A · ground · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "A · level 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "A · levels 2–5 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-21.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "A · level 6 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-22.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "A · levels 7–10 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-23.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "A · level 11 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "A · level 12 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "B · ground · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "B · level 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "B · levels 2–5 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "B · level 6 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "B · levels 7–10 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "B · level 11 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "B · level 12 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "C · ground · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "C · level 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "C · levels 2–5 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-35.png"
+      },
+      {
+        "sourcePage": 36,
+        "label": "C · level 6 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-36.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "C · levels 7–10 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-37.png"
+      },
+      {
+        "sourcePage": 38,
+        "label": "C · level 11 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-38.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "C · level 12 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original-review-39.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "D · ground · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-20.png"
+      },
+      {
+        "sourcePage": 2,
+        "label": "E · ground · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-02.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "D · podium 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-21.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "E · podium 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-03.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "D · podium 2 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-22.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "E · podium 2 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-04.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "D · level 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-23.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "E · level 1 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-05.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "D · levels 2–5 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-24.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "E · levels 2–5 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-06.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "D · level 6 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-25.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "E · level 6 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-07.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "D · levels 7–10 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-26.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "E · levels 7–10 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-08.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "D · level 11 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-27.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "E · level 11 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-09.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "D · level 12 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-current-review-28.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "E · level 12 · full floorplate",
+        "area": "Whole-floor overview · individual unit areas vary",
+        "documentId": "e",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans-review-10.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "original",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-original.pdf"
+      },
+      {
+        "id": "e",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "cache": "artifacts/project-page-enhancement/south-garden/south-garden-eplans.pdf"
+      }
+    ]
+  },
+  "review": {
+    "imagery": "Twelve distinct project renders were visually reviewed across the official original and current brochures. D/E and A–C exteriors retain explicit phase labels. Shared interior styling is scoped to its publishing release. The repeated studio scene, generic lifestyle images, decorative texture and unrelated stock pool image are excluded. JP2 source resources are retained and converted losslessly to WebP. Card and hero use the D/E frontage. No card badges.",
+    "floorPlans": "The 62 complete sheets distinguish original A–C and newer D/E releases. Multi-layout totals follow the printed type labels. Whole-floor overviews have varying individual unit areas. D 3 BR A prints 2,188.34 sq ft versus its 2,118.34 component sum. D 1 BR E1 prints 1,082.85 versus its 1,112.85 sq ft component sum. Other rounding, metric and source-range differences remain qualified. Obtain corrected contractual drawings from Wasl. All 23 unit-sheet type labels and visible numerical panels were visually checked. All 39 complete building floorplates were reviewed for building/level scope, with individual unit figures left on the unedited originals. The separate E pack supplies its nine floorplates, avoiding duplicate brochure choices. Hidden stale engineering text is not used for the published totals. Source notices, keys and complete pages remain intact.",
+    "location": "Current brochure physical pages 4 and 5 were visually reviewed. All eight brochure estimates are preserved with mode unspecified and the current primary-page conflicts stated explicitly. The primary embed identifies D/E by place ID but exposes camera-centre coordinates, so project-name directions are used. No visitor entrance or walking mode is inferred.",
+    "provenance": "Official HTML, both phase brochures and the standalone E floorplate pack are retained with ordinary-GET receipts and SHA-256 hashes. Each original gallery resource and complete drawing retains its correct phase source link. Original text research, protected identities and commercial qualifications remain intact."
+  },
+  "unavailable": [
+    "A verified phase-specific visitor-entrance coordinate, dated construction photographs and reconciled final areas were not established. The D 1 BR E1, D 3 BR A and other metric/rounding conflicts remain explicit. Travel sources disagree."
+  ]
+}

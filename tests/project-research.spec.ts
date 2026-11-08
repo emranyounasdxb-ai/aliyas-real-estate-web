@@ -2,6 +2,7 @@ import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { readFileSync } from 'node:fs';
 import { getAllDeveloperProjects, developerProjectHref } from '../src/lib/developer-projects';
+import { getProjectMedia } from '../src/lib/project-media';
 
 const researched = getAllDeveloperProjects().filter((p) => p.research?.status === 'reviewed');
 const renderProjects = process.env.PROJECT_RESEARCH_DEVELOPER
@@ -31,8 +32,10 @@ test('researched details retain all 575 identities and images, trace fields and 
     expect(Object.keys(r.reviewCoverage)).toHaveLength(9);
     const sources = new Set(r.sources.map((s) => s.id));
     expect(sources.size).toBe(r.sources.length);
-    for (const list of Object.values(r.fieldSources))
+    for (const list of Object.values(r.fieldSources)) {
+      if (!list) throw new Error(`${project.id}: missing field source list`);
       for (const id of list) expect(sources.has(id)).toBe(true);
+    }
     for (const item of [...r.units, ...r.paymentStages, ...r.facts])
       for (const id of item.sourceIds) expect(sources.has(id)).toBe(true);
     for (const s of r.sources) {
@@ -62,7 +65,10 @@ test('researched pages render their own units, sources, disclaimers and document
       project.research!.units.length,
     );
     await expect(page.locator('#sources a')).toHaveCount(project.research!.sources.length);
-    await expect(page.locator('.pd-disclaimer')).toContainText('Photography is illustrative');
+    const media = getProjectMedia(project);
+    await expect(page.locator('.pd-disclaimer')).toContainText(
+      media ? `${media.source.name} project renders` : 'Photography is illustrative',
+    );
     const brochure = page.getByRole('link', { name: /Project brochure View document/ });
     if (project.brochureUrl) await expect(brochure).toHaveAttribute('href', project.brochureUrl);
     else await expect(brochure).toHaveCount(0);

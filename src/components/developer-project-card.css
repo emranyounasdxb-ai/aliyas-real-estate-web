@@ -152,6 +152,15 @@
   }
 }
 @media (max-width: 700px) {
+  /* Official landscape renders need a landscape frame, not a narrow portrait crop. */
+  .site-frame .catalogue-page .developer-project-placeholder.project-card[data-official-renders] {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .site-frame .catalogue-page .developer-project-placeholder.project-card[data-official-renders] .project-card-visual {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
   .site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-body {
     padding: 16px;
   }

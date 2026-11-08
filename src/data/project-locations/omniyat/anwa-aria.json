@@ -1,0 +1,52 @@
+{
+  "projectId": "omniyat-project-09",
+  "projectSlug": "anwa-aria",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "Dubai Maritime City, Dubai",
+  "pin": {
+    "latitude": 25.269658214842604,
+    "longitude": 55.27000444111414,
+    "sourceUrl": "https://omniyat.com/residential/anwa-aria-by-omniyat",
+    "scope": "Approximate ANWA ARIA point from OMNIYAT’s map. Confirm the visitor entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/anwa-aria/location-f074dea5c2f2.png",
+    "sha256": "f074dea5c2f2cfe8b41d09de3ebf26924adcea0361a35525518bbeb77c94ae2b",
+    "originalBytes": 773528,
+    "width": 1238,
+    "height": 2200,
+    "sourceUrl": "https://d1ov4zfz2t2vta.cloudfront.net/storage/project_files/Anwa_Aria_brochure.pdf#page=7",
+    "alt": "Developer’s Dubai Maritime City locator with ANWA ARIA and nearby destinations marked.",
+    "scope": "Location diagram from the original ANWA ARIA brochure.",
+    "caption": "ANWA ARIA in Dubai Maritime City"
+  },
+  "sourceLabel": "OMNIYAT brochure travel estimates",
+  "travel": {
+    "sourceUrl": "https://d1ov4zfz2t2vta.cloudfront.net/storage/project_files/Anwa_Aria_brochure.pdf#page=7",
+    "scope": "Approximate travel times printed in OMNIYAT’s ANWA ARIA brochure.",
+    "destinations": [
+      {
+        "name": "Mina Rashid",
+        "minutes": 5
+      },
+      {
+        "name": "Jumeirah Beach coastline",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Gold Souk",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "The brochure does not specify the route or mode. Allow for the entrance and current conditions."
+}

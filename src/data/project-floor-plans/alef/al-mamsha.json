@@ -1,0 +1,1154 @@
+{
+  "projectId": "alef-project-06",
+  "projectSlug": "al-mamsha",
+  "developerSlug": "alef",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/b54118ff68bd41fda547bc97a0c01a8f.pdf",
+    "label": "RD1 · original Alef drawings in broker-hosted pack",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/alef/al-mamsha/floor-plans-6b29220de592.pdf",
+    "sha256": "6b29220de592efe5933ba43e321982572e9b24b7c63fb6fa7820b3344993eaeb"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare published Souks RD1, Seerah Sawa and Suroor, Raseel Darb and Hamsa drawing samples.",
+  "selectorLabel": "Choose a phase, original floorplate or complete home spread",
+  "note": "All 66 complete source sheets retain original notices. Net and gross areas remain distinct, and outdoor areas follow each printed panel. Paired figures describe separate homes. Suroor individual sheets omit total areas. Its sheet 16 says three bedrooms while drawing four labelled bedrooms. Hamsa repeats mirror sheets 9/10, and its three-bedroom sheet labels unit 04 while marking 008 in the key plan. Confirm the contracted building, unit, revision, bedroom count and final area. Published samples do not cover every home in the master community.",
+  "plans": [
+    {
+      "label": "Souks · regional location",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-souks-brochure"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/al-mamsha/plan-souks-brochure-page-12-37eb42baabf5.webp",
+      "sha256": "37eb42baabf579423a2e3dd2fceeeb0633b0e90d014b65e04e05ebc18edbf1e3",
+      "originalBytes": 975482,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-souks/documents/z4dZ9LhNbKbJYEkxiKr3J2BwH45cF4PfAUqBtfEx.pdf",
+        "label": "Al Mamsha · original community brochure, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-souks-brochure-88f050cbfe53.pdf",
+        "sha256": "88f050cbfe53fcf57628854bd1c80ccd2aba34a5292aac72501e9bf2ff0d94e5"
+      }
+    },
+    {
+      "label": "Souks · master plan",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-souks-brochure"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/al-mamsha/plan-souks-brochure-page-13-89022100fa87.webp",
+      "sha256": "89022100fa87bf571251908669c90e18529cc0d3671f401684b33178d5b5a920",
+      "originalBytes": 2982378,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-souks/documents/z4dZ9LhNbKbJYEkxiKr3J2BwH45cF4PfAUqBtfEx.pdf",
+        "label": "Al Mamsha · original community brochure, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-souks-brochure-88f050cbfe53.pdf",
+        "sha256": "88f050cbfe53fcf57628854bd1c80ccd2aba34a5292aac72501e9bf2ff0d94e5"
+      }
+    },
+    {
+      "label": "RD1 · ground floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/alef/al-mamsha/plan-page-2-d75d66c1d8c1.webp",
+      "sha256": "d75d66c1d8c1c020a82f7aeaf699d105d19be4049b386042ae394a25fefffe08",
+      "originalBytes": 133720,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · typical floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/al-mamsha/plan-page-3-8681a5b76526.webp",
+      "sha256": "8681a5b76526a873edabb92f2d9a986c1402caee1465af85d70577e86ad17763",
+      "originalBytes": 102608,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · level 7 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/al-mamsha/plan-page-4-9317882d7fab.webp",
+      "sha256": "9317882d7fab4104dd5c49092333266884dd735294f04eb2670710f0dddc36ff",
+      "originalBytes": 104858,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · level 8 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/al-mamsha/plan-page-5-0571f7d2d51b.webp",
+      "sha256": "0571f7d2d51b7773ff120d40c0b60bbdd635d6aa1fe13da5ebb09a9b176e72f9",
+      "originalBytes": 100338,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · level 9 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/al-mamsha/plan-page-6-6c79b8da3c4c.webp",
+      "sha256": "6c79b8da3c4cfa526d6db161f081f107dd1e4fe181c2d23001e27a03143ca94c",
+      "originalBytes": 90912,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · Studio · A23",
+      "area": "701.915 sq ft net / 825.269 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/al-mamsha/plan-page-7-5d5de6090582.webp",
+      "sha256": "5d5de6090582d3d3d3e64fecd630c82be1b502041047c870fb25d3f975ac7e5d",
+      "originalBytes": 676144,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · Studio · Q20",
+      "area": "298.376 sq ft net / 401.709 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/al-mamsha/plan-page-8-078c969d901f.webp",
+      "sha256": "078c969d901f04402130830cdaa46738e39219e037c0030aec29f1379af07b2f",
+      "originalBytes": 591554,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · Studio · Q22",
+      "area": "292.778 sq ft net / 394.175 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/al-mamsha/plan-page-9-0d50d3b90304.webp",
+      "sha256": "0d50d3b90304ab594ec22c254b128bc77ab4ad76545fdf7fbc1e7f70e15f7924",
+      "originalBytes": 582644,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · Studio · Q56",
+      "area": "453.592 sq ft net / 552.081 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/al-mamsha/plan-page-10-664f0d9a5d4f.webp",
+      "sha256": "664f0d9a5d4f38566b8019cae27774c7e83b6a81d5e0c1e463cf7ef4f4aa3bc9",
+      "originalBytes": 891310,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T21",
+      "area": "671.130 sq ft net / 903.523 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/al-mamsha/plan-page-11-cc792bd45514.webp",
+      "sha256": "cc792bd45514c29b07f216e70a300ae76ab89b81454b434eb0230e847cf9ef07",
+      "originalBytes": 815430,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T22",
+      "area": "986.621 sq ft net / 1,194.472 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/al-mamsha/plan-page-12-a0f4f82d80aa.webp",
+      "sha256": "a0f4f82d80aad14ffe8cc9602886facf6fe4455aaf6e9b0303a5cb1e23339429",
+      "originalBytes": 1320824,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T23",
+      "area": "939.151 sq ft net / 1,144.096 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/al-mamsha/plan-page-13-ab5434c77e85.webp",
+      "sha256": "ab5434c77e850939db39fd7fd87c562f79cfdc6d46e6f468db6078bcd4e8d681",
+      "originalBytes": 1045826,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T29",
+      "area": "939.151 sq ft net / 1,144.635 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/al-mamsha/plan-page-14-b1e844f63ca9.webp",
+      "sha256": "b1e844f63ca9c3a1f2af33fa76d0f6d7d1f760aeb1cb31a442bf2bfd3fc3318e",
+      "originalBytes": 1076206,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T31",
+      "area": "589.755 sq ft net / 793.946 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/al-mamsha/plan-page-15-fa60d55f591e.webp",
+      "sha256": "fa60d55f591e2bbb392519bc038b4cb4ffb7ba14bbcf4285743144912cec3a08",
+      "originalBytes": 825944,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · T52",
+      "area": "983.068 sq ft net / 1,187.259 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/al-mamsha/plan-page-16-09f44544671e.webp",
+      "sha256": "09f44544671ee8cf6972934388eacbd9fb13ce59ec0cf527fa81909bd9f4abd0",
+      "originalBytes": 1134430,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · X21B",
+      "area": "492.986 sq ft net / 649.170 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/al-mamsha/plan-page-17-3aca09e5c9ae.webp",
+      "sha256": "3aca09e5c9ae1af5554a4311a3c62f23854f827da44104c659e291f4ec5ed366",
+      "originalBytes": 707350,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 1 BR · X25",
+      "area": "436.692 sq ft net / 587.925 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/alef/al-mamsha/plan-page-18-b51f563b7ac9.webp",
+      "sha256": "b51f563b7ac95fc0eae9f50f3d22bffbbe48ee78566702c5a75cee2ea4e6c0a6",
+      "originalBytes": 670582,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · V23",
+      "area": "889.853 sq ft net / 1,198.023 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/al-mamsha/plan-page-19-7ac7c9056a73.webp",
+      "sha256": "7ac7c9056a73e5760fafc60f33c056efdadfa0be6a711427c039df7249f8b261",
+      "originalBytes": 1277846,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · V23A",
+      "area": "973.381 sq ft net / 1,281.552 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/alef/al-mamsha/plan-page-20-ad2f314547e3.webp",
+      "sha256": "ad2f314547e38699b542e2d6083f6eb7d1830a2b39dabe93f98063fd19867d06",
+      "originalBytes": 1074586,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · V44",
+      "area": "971.228 sq ft net / 1,279.399 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/alef/al-mamsha/plan-page-21-8016c664ef7a.webp",
+      "sha256": "8016c664ef7a0dc87b1da4052a905e98382d0f7098ce17c8b07ebc1475164f88",
+      "originalBytes": 1114180,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · V45",
+      "area": "822.040 sq ft net / 1,106.746 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/alef/al-mamsha/plan-page-22-c7c58708fe88.webp",
+      "sha256": "c7c58708fe881be922f43e91c1c878171d0d1cd353aea792e5af1b0c88a92997",
+      "originalBytes": 992718,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · W20",
+      "area": "1,079.728 sq ft net / 1,348.180 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/alef/al-mamsha/plan-page-23-35427805913a.webp",
+      "sha256": "35427805913a2eee070cc548195a00dfae7c14cd16fd3a75b5f5f091d400b53c",
+      "originalBytes": 1091540,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · W41",
+      "area": "775.110 sq ft net / 1,043.561 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/alef/al-mamsha/plan-page-24-6ffde0e0415c.webp",
+      "sha256": "6ffde0e0415cad7550eb9026ac2cf0e7571325d7ed10db77525e638bba5cc057",
+      "originalBytes": 1073162,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 2 BR · X20",
+      "area": "1,078.221 sq ft net / 1,451.621 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/al-mamsha/plan-page-25-0890c4ae9821.webp",
+      "sha256": "0890c4ae9821850c041df49729e05aab7846aba1909128cee7ea0f6f9cb13d42",
+      "originalBytes": 1210742,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 3 BR · O20",
+      "area": "1,505.225 sq ft net / 1,998.320 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/alef/al-mamsha/plan-page-26-00b6cd96c29e.webp",
+      "sha256": "00b6cd96c29e6bda9a26416462ef08e2daeccba0b003569f46d2dd61930a9377",
+      "originalBytes": 1205964,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 3 BR · O21",
+      "area": "1,379.288 sq ft net / 1,856.990 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/alef/al-mamsha/plan-page-27-56637edb4c72.webp",
+      "sha256": "56637edb4c72b73f95d01d49c3177f9be2d9e10da2f0ad9a4836a34b91b2ad09",
+      "originalBytes": 1328164,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "RD1 · 3 BR · O40",
+      "area": "1,505.225 sq ft net / 1,970.118 sq ft gross",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/alef/al-mamsha/plan-page-28-c5b0a5ee08c5.webp",
+      "sha256": "c5b0a5ee08c5e046e829c63c2cc835b34120db95c08c19d59e2518a7dd3d5286",
+      "originalBytes": 1221374,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Sawa 1 · regional location",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-3-73cd6a3ef29f.webp",
+      "sha256": "73cd6a3ef29fc713220053ece3e18d211609d63f7937c235f0b529fa06765ae9",
+      "originalBytes": 524030,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · marked building",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-4-670d3980e4d5.webp",
+      "sha256": "670d3980e4d5adbb9cad4ef7bd5bd1dc7401dcd03ce2c4255d6644c1fcfa7da4",
+      "originalBytes": 4859750,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · ground floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-9-ebf5fecb5db2.webp",
+      "sha256": "ebf5fecb5db29e792348cd2ed2f977737823ca2ed5d1f2be75618ab19c0d8d09",
+      "originalBytes": 251560,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · level 1 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-10-73d1e886c712.webp",
+      "sha256": "73d1e886c712c330bccb86dd30dbdd0dfb8679ff9007cec5ad90ca9e74d0167a",
+      "originalBytes": 563618,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · source typical floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-11-7b942e44a9f3.webp",
+      "sha256": "7b942e44a9f353da97a4b59ea25ddc24d59b2673e31031f1d30e847600024ca8",
+      "originalBytes": 557884,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · level 9 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-12-1114d43f87a8.webp",
+      "sha256": "1114d43f87a8edd991fe64593d7c4a82c23289532ec04a819d57b1068a9d1c72",
+      "originalBytes": 430098,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · 1 BR sample",
+      "area": "459.73 sq ft net / 551.98 sq ft gross",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-13-536a6ee4bcb1.webp",
+      "sha256": "536a6ee4bcb15cbddc9c684911f8f9c0be63dd773ad1d988b48fe54c517d24be",
+      "originalBytes": 375780,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · 2 BR sample",
+      "area": "938.61 sq ft net / 1,126.96 sq ft gross",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-14-f2fd0567fa29.webp",
+      "sha256": "f2fd0567fa295d3ab677411b2f8e66329ba1b890b6639534ffde815aa97246f7",
+      "originalBytes": 457822,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Sawa 1 · 3 BR sample",
+      "area": "1,307.17 sq ft net / 1,569.48 sq ft gross",
+      "sourceIds": [
+        "plans-sawa1"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/al-mamsha/plan-sawa1-page-15-1c241ba5a010.webp",
+      "sha256": "1c241ba5a01058ff9a7c2cc35b78e835042f441ca24ecdf226243c44e6c4d823",
+      "originalBytes": 491078,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/345a1a56-4748-4cfa-b54a-2ccd60e3fd82/brochure/application/-gv9SXipIXNsprDsfycnhgMYc_EDsOqz1jOGSWiIm24=/original.pdf",
+        "label": "Seerah Sawa 1 · original brochure and plans, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-sawa1-fa0bfd4978a9.pdf",
+        "sha256": "fa0bfd4978a921736ca6b0ec7f272786031873f103b0eab3d633864968889b6e"
+      }
+    },
+    {
+      "label": "Suroor 1 · regional location",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-3-beb7f38ecc44.webp",
+      "sha256": "beb7f38ecc44ef3273e5cf29fcc85e2816ed9d6c36a20f4e82368c86fc8bd2c2",
+      "originalBytes": 523324,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · marked building",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-4-cac68faf42cc.webp",
+      "sha256": "cac68faf42ccc2d170efc8d839ec6d6474286d28ee43ba9b3993c326600b9dbb",
+      "originalBytes": 5388732,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · ground floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-9-6a0ce6615d2e.webp",
+      "sha256": "6a0ce6615d2e82452c6418f6cd65dbf74a0f7f0d324fd7d832f6ac3f4ef3e5cd",
+      "originalBytes": 199032,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · level 1 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-10-d216385ae193.webp",
+      "sha256": "d216385ae1939b623810830e1e1ff447ecc6c828d7c9abd5c8986af19e4d3f89",
+      "originalBytes": 522514,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · source typical floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-11-697cf4f8543f.webp",
+      "sha256": "697cf4f8543ffc08a1dd32a41729bf4e67ce419a3288fdf482ee0c78cb2a06cc",
+      "originalBytes": 504218,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · level 9 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-12-5f7fa98373aa.webp",
+      "sha256": "5f7fa98373aa60e52ac60e0a4ccf9810ef59a58d9a0076bd148aa4315cc18acf",
+      "originalBytes": 469142,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · studio sample",
+      "area": "Individual total not printed",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-13-902d9ca4ce4f.webp",
+      "sha256": "902d9ca4ce4f372d6a94ca850f0c877583345880ef6e62aa1f9cdc1518b6d3e8",
+      "originalBytes": 212014,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · 1 BR landscape sample",
+      "area": "Individual total not printed",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-14-1281a0c3b545.webp",
+      "sha256": "1281a0c3b54582813f1c6d8edb1b8e086133cb790962eebcd5b45421c3c8d156",
+      "originalBytes": 191190,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · 2 BR sample",
+      "area": "Individual total not printed",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-15-4ccb995ae55e.webp",
+      "sha256": "4ccb995ae55ef13670e8bc68f84d1acd392d337d58aa4ab7b56133699ce2b2a5",
+      "originalBytes": 316780,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Suroor 1 · source 3 BR heading · four drawn bedrooms",
+      "area": "Bedroom count disputed / total not printed",
+      "sourceIds": [
+        "plans-suroor"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/al-mamsha/plan-suroor-page-16-5079532237f8.webp",
+      "sha256": "5079532237f860818927f62d15ef10dc66405ea5f30ce4947df46b897da1688a",
+      "originalBytes": 389128,
+      "width": 3600,
+      "height": 2401,
+      "source": {
+        "url": "https://new-projects-media.propertyfinder.com/project/f7c1277b-eccf-49eb-a27e-ee89503533da/brochure/application/SkGu8wXmyqLPN_KZfDHWOa8V4X1WIBOrxwPqRKPiDmA=/original.pdf",
+        "label": "Seerah Suroor 1 · original brochure and drawings, portal mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-suroor-4a41aef305e6.pdf",
+        "sha256": "4a41aef305e6caa2cf37f2997c31d639af15e17d562013abc703ea44a3e20e60"
+      }
+    },
+    {
+      "label": "Darb 1 · regional location",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-3-9ecb64d8723e.webp",
+      "sha256": "9ecb64d8723e149c38b7354eb8f478490919807c6920d98218b4c9fa1f3e75db",
+      "originalBytes": 1177610,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb · community master concept",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-4-2aed366b6f52.webp",
+      "sha256": "2aed366b6f526537217e1b5d297af9775c9a60872a778f144179d9e9c7291da3",
+      "originalBytes": 2642080,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb · marked neighbourhood",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-5-7560383faffd.webp",
+      "sha256": "7560383faffd9f49316d161ab952877b863e24b1d34c2098e2eee0f5b734bfe6",
+      "originalBytes": 2957868,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb 1 · ground / level 1 floorplates",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-18-2ef3a005bd99.webp",
+      "sha256": "2ef3a005bd995883d0649507fb7bd38210688868ac18e6fa9fd90c8aa7b3cf47",
+      "originalBytes": 325048,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb 1 · level 2 / level 7 floorplates",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-19-c70e071d5b12.webp",
+      "sha256": "c70e071d5b12855b41c81f6d9ca9be89554b1e761f97c1c7b1f1eed316f98fe4",
+      "originalBytes": 276366,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb 1 · 1B08C-G02 / 1B08A-102",
+      "area": "812.45 / 573.50 sq ft net, separate homes",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-21-025e392aa1fa.webp",
+      "sha256": "025e392aa1fa97c0e8d8a848a95ec3cfa86a8feba338b9341e475e2a307e4dcc",
+      "originalBytes": 477972,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb 1 · 2B01A-208 / 2B02B-309",
+      "area": "1,050.44 / 1,057.55 sq ft net, separate homes",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-22-082ed7ea2e7b.webp",
+      "sha256": "082ed7ea2e7b7335b02fb8c555587b9f53e4bbed32fc3fc93c89c24afce3c0a4",
+      "originalBytes": 523488,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Darb 1 · 3B01B-313 / 3B01A-213",
+      "area": "1,459.69 sq ft net each",
+      "sourceIds": [
+        "plans-darb1"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/alef/al-mamsha/plan-darb1-page-23-8db0d4650a5d.webp",
+      "sha256": "8db0d4650a5d9f8eb3d9dd67aa1d62b99548c415b7c3bcb12dfadcbd7369a5ac",
+      "originalBytes": 487868,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://www.toumehrealestate.com/storage/projects/al-mamsha-raseel/documents/slwJoo69aQjQZxhAOXxRTG5anbdth8LTwbzCapD7.pdf",
+        "label": "Raseel Darb 1 · original brochure and plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-darb1-78f6d4bc9781.pdf",
+        "sha256": "78f6d4bc978197d8e9802e8069390239ce376de80bdd8a1403ac9063c0af8278"
+      }
+    },
+    {
+      "label": "Hamsa 1 · marked building",
+      "area": "Original community context, no home total",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-4-9dcb7c990850.webp",
+      "sha256": "9dcb7c990850815b50391d31e7a8d1ff90bb23435508cabab4f441c4d03c137d",
+      "originalBytes": 4185970,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · levels 1–8 floorplate",
+      "area": "Floorplate, no single-home area",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-5-e92dd0261a60.webp",
+      "sha256": "e92dd0261a600da3dc9dae799f737bf9fa904eeaf814de532b86d7099a9019e2",
+      "originalBytes": 187496,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 1B01A · unit 17 mirror",
+      "area": "540.02 sq ft net / 677.93 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-8-2e2cc9a236f4.webp",
+      "sha256": "2e2cc9a236f42bd1142293aab1ec54434da484d3d10fbbf5ab1e59dc1285259f",
+      "originalBytes": 874912,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 1B02A mirror · source sheet 9",
+      "area": "592.55 sq ft net / 743.87 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-9-4ecaf5f4172c.webp",
+      "sha256": "4ecaf5f4172ca835cbbdfdfac5d5f0eefeffee5ba147a8d0fd1c9507aae710d3",
+      "originalBytes": 733338,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 1B02A mirror · source sheet 10",
+      "area": "592.55 sq ft net / 743.87 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-10-6b8fcc70e569.webp",
+      "sha256": "6b8fcc70e5699d95cdbaf353fe57e06ff4a1d2f039756ad3e9fa4b39666f24f6",
+      "originalBytes": 733672,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 1B02A · standard",
+      "area": "592.55 sq ft net / 743.87 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-11-e5caa3549c70.webp",
+      "sha256": "e5caa3549c70fb0980ae2be349253c83b61a5c4f7067be7c7948059c1c33b0b2",
+      "originalBytes": 725624,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 1B03A · unit 03",
+      "area": "647.88 sq ft net / 813.33 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-12-bd6950ee5831.webp",
+      "sha256": "bd6950ee58311a6090b20ef94f6ef339035b305e46f4502e5a413eedb522f3f6",
+      "originalBytes": 635238,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 2B01A · unit 02",
+      "area": "1,056.15 sq ft net / 1,325.86 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-13-9c2b34c18025.webp",
+      "sha256": "9c2b34c18025e7a760d5413f12d486baa6df940ecd56b61d176b2a0c37539606",
+      "originalBytes": 742240,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 2B02A · unit 08",
+      "area": "1,174.99 sq ft net / 1,475.04 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-14-26e76e809246.webp",
+      "sha256": "26e76e8092461ba116f4acbe7868ca27a878290dc313ba88d09b021ed126e92e",
+      "originalBytes": 748460,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    },
+    {
+      "label": "Hamsa 1 · 3B01A · disputed unit marker",
+      "area": "1,557.75 sq ft net / 1,955.55 sq ft gross",
+      "sourceIds": [
+        "plans-hamsa1"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/al-mamsha/plan-hamsa1-page-15-9a3c51e7811f.webp",
+      "sha256": "9a3c51e7811f68f15dea6d990fcb7782ae844801d3e090c649dc8af1f8ccaf69",
+      "originalBytes": 721808,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://toumehrealestate.com/storage/projects/al-mamsha-hamsa/documents/MtEr0nTSbgBlApklRcO7afBM7LnwNLaONzPaTSro.pdf",
+        "label": "Hamsa 1 · original unit plans, broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/al-mamsha/floor-plans-hamsa1-788382020efd.pdf",
+        "sha256": "788382020efd32cbc585dca5bda90351ad198ce6e0e32c5874ab05f042ad9786"
+      }
+    }
+  ]
+}

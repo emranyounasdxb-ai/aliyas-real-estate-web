@@ -1,0 +1,283 @@
+{
+  "projectId": "emaar-project-42",
+  "projectSlug": "vindera",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/VINDERA_floorplan.pdf",
+    "label": "Emaar: Vindera full floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/vindera/floor-plans-7417ccf25c02.pdf",
+    "sha256": "7417ccf25c02c40481f2346dffaa248d0950cdf1f9e90e82ac6a34ef3da38ed7"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the three- and four-bedroom townhouses in four-home and six-home clusters, across both facade styles. Each complete sheet shows both floors, the published area breakdown, cluster position, key plan and developer notices.",
+  "selectorLabel": "Choose a Vindera style and cluster position",
+  "note": "Totals include suite, garage and balcony or terrace areas; they are not plot sizes. Style and cluster position can change the area, and mirrored homes retain their own key-plan sheets. Small differences of 0.01 sq ft may arise from rounded components. Furnishings, planting and finished specifications remain subject to the signed plans and agreement.",
+  "plans": [
+    {
+      "label": "4-plex · Style 1 · 4 bedrooms · TH01",
+      "area": "2,923.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/vindera/plan-page-3-7ea40200c499.webp",
+      "sha256": "7ea40200c499ffbb4b60846ad435c06a429f2b575cff9c09433b4b3583bbcac9",
+      "originalBytes": 1190298,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 1 · 3 bedrooms · TH02",
+      "area": "2,401.32 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/vindera/plan-page-4-76259956fc4f.webp",
+      "sha256": "76259956fc4f095b02a225689efe37de59193c79949b7daa0d66fac02e52595e",
+      "originalBytes": 753624,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 1 · 3 bedrooms · TH03",
+      "area": "2,401.32 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/vindera/plan-page-5-d027fc51ebe0.webp",
+      "sha256": "d027fc51ebe0e675f1eae8f1e9fb50dd593cfdac6a41cc9fef0185920e87141b",
+      "originalBytes": 755402,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 1 · 4 bedrooms · TH04",
+      "area": "2,923.58 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/vindera/plan-page-6-949d3d51ffa9.webp",
+      "sha256": "949d3d51ffa921c0876f1e847f5253cc4de208d5a9e76d5dba9c769d0c7a409e",
+      "originalBytes": 1187480,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 2 · 4 bedrooms · TH01",
+      "area": "2,906.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/vindera/plan-page-8-073e47324767.webp",
+      "sha256": "073e473247678efe6c88af236ccc40ca2233cf9efe1a325215dd2e5f51699f26",
+      "originalBytes": 1180952,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 2 · 3 bedrooms · TH02",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/vindera/plan-page-9-f103d41b5e70.webp",
+      "sha256": "f103d41b5e706ce7da2cad0320bfc53adde997015d1845a401005ec96f6633f3",
+      "originalBytes": 749464,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 2 · 3 bedrooms · TH03",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/vindera/plan-page-10-641115797850.webp",
+      "sha256": "6411157978504be031a4d5d576794338c1dc4d48a5e49c168821e0c0f18e6cd2",
+      "originalBytes": 750392,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4-plex · Style 2 · 4 bedrooms · TH04",
+      "area": "2,906.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/vindera/plan-page-11-f25e76c3f92a.webp",
+      "sha256": "f25e76c3f92a3787075048cefe9195a5aad0be87127091143bf72cc058e28321",
+      "originalBytes": 1178374,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 4 bedrooms · TH01",
+      "area": "2,922.29 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/vindera/plan-page-13-cbee23045ac3.webp",
+      "sha256": "cbee23045ac37bf892f08867be2954e3b11b3a833eb6455625ee50128000810b",
+      "originalBytes": 1195838,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 3 bedrooms · TH02",
+      "area": "2,403.47 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/vindera/plan-page-14-14e4dc86de0c.webp",
+      "sha256": "14e4dc86de0ca0d56694b9c7906ceac7faf22e81bd4265b435bf11bead29bd9c",
+      "originalBytes": 757818,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 3 bedrooms · TH03",
+      "area": "2,406.38 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/vindera/plan-page-15-012c51bd420c.webp",
+      "sha256": "012c51bd420c2c8f0eb777c47a792a54b2b6bbdb3b579847e49163037933d4f7",
+      "originalBytes": 757762,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 3 bedrooms · TH04",
+      "area": "2,406.38 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/vindera/plan-page-16-b4ff7bcb2ea1.webp",
+      "sha256": "b4ff7bcb2ea1701af447aa9e4d981cc604fd109fe9b9d4a747f19fbe7f28af42",
+      "originalBytes": 758318,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 3 bedrooms · TH05",
+      "area": "2,403.47 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/vindera/plan-page-17-603f6bfcdc9a.webp",
+      "sha256": "603f6bfcdc9a59d4359af27123eb7bda3543e54d0bc2651f71507f2c121ca369",
+      "originalBytes": 756650,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 1 · 4 bedrooms · TH06",
+      "area": "2,922.29 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/vindera/plan-page-18-87002fc77e99.webp",
+      "sha256": "87002fc77e997cb20032ac999242e739d1157b5750b484932c43ec48316efdad",
+      "originalBytes": 1191446,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 4 bedrooms · TH01",
+      "area": "2,906.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/vindera/plan-page-20-392ce61b0424.webp",
+      "sha256": "392ce61b0424170d1a873cfb085ce65eb46eb63aae0add205d4743505e2235cd",
+      "originalBytes": 1183430,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 3 bedrooms · TH02",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/vindera/plan-page-21-3810293370b4.webp",
+      "sha256": "3810293370b4ae00d499087709b72fc3c3a3211a48ab38253766873b333ce472",
+      "originalBytes": 752958,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 3 bedrooms · TH03",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/vindera/plan-page-22-f544cd06e7c2.webp",
+      "sha256": "f544cd06e7c2f2972caf5c9d2c9dd7e945e47f9c59c699014bd1688c35bf7aee",
+      "originalBytes": 754638,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 3 bedrooms · TH04",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/vindera/plan-page-23-178c172c39d9.webp",
+      "sha256": "178c172c39d933f7750835619406d800f0b6f23dd653cc9b56abf1ace6de0a3d",
+      "originalBytes": 753214,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 3 bedrooms · TH05",
+      "area": "2,396.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/vindera/plan-page-24-b6fef7671358.webp",
+      "sha256": "b6fef76713586387739006e9f50d1cfda9dbd7bf017d502fe8dbe603fffdd21e",
+      "originalBytes": 753282,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "6-plex · Style 2 · 4 bedrooms · TH06",
+      "area": "2,906.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/vindera/plan-page-25-4bcb2d33dea8.webp",
+      "sha256": "4bcb2d33dea801063da2bf7d56415619f910c3e9ac9e65bb90d6d3d5fc78c178",
+      "originalBytes": 1182662,
+      "width": 2400,
+      "height": 1696
+    }
+  ]
+}

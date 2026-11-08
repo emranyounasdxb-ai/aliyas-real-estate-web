@@ -368,6 +368,7 @@ export function DeveloperHero({
                     alt=""
                     fill
                     sizes={galleryImageSizes}
+                    quality={85}
                     loading={index < 7 ? 'eager' : 'lazy'}
                     draggable={false}
                   />
@@ -427,9 +428,7 @@ export function DeveloperHero({
           <span>
             {hasInspiration
               ? 'Stock images for inspiration · project details pending'
-              : projects.some((project) => project.kind === 'project' && project.nameVerified)
-                ? 'Illustrative images · details pending'
-                : 'Design placeholders'}
+              : 'Project imagery and design previews · see project sources'}
           </span>
         </div>
         {count > visibleCount && (

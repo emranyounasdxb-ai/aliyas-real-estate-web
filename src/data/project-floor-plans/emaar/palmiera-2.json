@@ -1,0 +1,62 @@
+{
+  "projectId": "emaar-project-88",
+  "projectSlug": "palmiera-2",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://salesnlease.com/public/uploads/media/floorplan_brochures/Palmiera_2_at_The_Oasis_FloorPlan_compressed.pdf",
+    "label": "Emaar Palmiera 2 original plans via Sales & Lease, Tanami Properties copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/palmiera-2/floor-plans-04e389be58ab.pdf",
+    "sha256": "04e389be58ab62343a88092775b799037e5da60f7274ec8844d86ad466cece1e"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the Classic, Contemporary and Chamfer four-bedroom villa layouts. The original sheets include each level and the area breakdown.",
+  "selectorLabel": "Choose a Palmiera 2 villa floor plan",
+  "note": "The Classic drawing’s printed total is 0.02 sq ft higher than the sum of its printed components. The sheets mark the pool as provided by the owner. Confirm the selected villa’s specifications and signed area.",
+  "plans": [
+    {
+      "label": "4 BR · Classic",
+      "area": "5,627.26 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/palmiera-2/plan-page-2-7795bb93361c.webp",
+      "sha256": "7795bb93361c4acb9363cc8b3ce8ec2a49a8a28982522637622551c23ae6b521",
+      "originalBytes": 759314,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "4 BR · Contemporary",
+      "area": "5,842.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/palmiera-2/plan-page-3-f60bbfcbbbd3.webp",
+      "sha256": "f60bbfcbbbd314d58a3f704fc8a87c4d3b546625a8be256bbcff05f232097f5f",
+      "originalBytes": 772036,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "4 BR · Chamfer",
+      "area": "5,871.92 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/palmiera-2/plan-page-4-83a54f00b47e.webp",
+      "sha256": "83a54f00b47ee0180d88370581b7a7ed8bdbfa66c3c4346c24094bb3de9c333f",
+      "originalBytes": 762690,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

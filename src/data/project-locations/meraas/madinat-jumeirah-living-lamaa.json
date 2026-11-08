@@ -1,0 +1,44 @@
+{
+  "projectId": "meraas-project-19",
+  "projectSlug": "madinat-jumeirah-living-lamaa",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "Madinat Jumeirah Living, Umm Suqeim, Dubai",
+  "road": "Near Umm Suqeim Street and Sheikh Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/madinat-jumeirah-living-lamaa/location-0e9fd69d027f.png",
+    "sha256": "0e9fd69d027f16d3f62360e39e5163f45884374c25774f7cf52382e67b683d1d",
+    "originalBytes": 1346265,
+    "width": 1200,
+    "height": 901,
+    "sourceUrl": "https://meraas.com/sites/default/files/2023-11/FinalMJL_Lamaa_BrochureDigital.pdf#page=17",
+    "alt": "Meraas map showing Madinat Jumeirah Living and nearby landmarks along the Jumeirah coast.",
+    "scope": "The map shows the wider community. Check the entrance for the specific Lamaa building before visiting.",
+    "caption": "Madinat Jumeirah Living map and drive times, Lamaa brochure PDF page 17."
+  },
+  "sourceLabel": "Lamaa brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2023-11/FinalMJL_Lamaa_BrochureDigital.pdf#page=17",
+    "scope": "Approximate drive times from Madinat Jumeirah Living as printed in the Lamaa brochure.",
+    "destinations": [
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Global Village",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Developer estimates vary with traffic and the route from your building."
+}

@@ -1,32 +1,51 @@
 'use client';
 import Image from 'next/image';
 import { useEffect, useId, useRef, useState } from 'react';
-import { ArrowLeft, ArrowRight, Expand, X } from 'lucide-react';
+import { ArrowLeft, ArrowRight, ArrowUpRight, Expand, X } from 'lucide-react';
 
-export type GalleryImage = { src: string; label: string };
+export type GalleryImage = {
+  src: string;
+  label: string;
+  alt?: string;
+  position?: string;
+  blurDataURL?: string;
+  photograph?: boolean;
+};
 
 export function ProjectGallery({
   image,
   projectName,
   illustrative = true,
   gallery,
+  source,
+  reviewedMedia = false,
 }: {
   image: string;
   projectName: string;
   illustrative?: boolean;
   gallery?: readonly GalleryImage[];
+  source?: { name: string; url: string };
+  reviewedMedia?: boolean;
 }) {
   const images = gallery?.length ? gallery : [{ src: image, label: 'Exterior' }];
   const [selected, setSelected] = useState(0);
   const [open, setOpen] = useState(false);
   const dialogRef = useRef<HTMLDialogElement>(null);
   const triggerRef = useRef<HTMLButtonElement | null>(null);
+  const touchStart = useRef<{ x: number; y: number } | null>(null);
   const id = useId();
   const current = images[selected] || images[0];
   const count = (n: number) => String(n).padStart(2, '0');
-  const alt = illustrative
-    ? `${current.label}: illustrative architecture, not a photograph of ${projectName}`
-    : `${projectName} — ${current.label}`;
+  const hasPhotos = images.some((item) => item.photograph);
+  const hasRenders = images.some((item) => !item.photograph);
+  const imageMedium = current.photograph ? 'project photograph' : 'project render';
+  const galleryMedium = hasPhotos && hasRenders ? 'project photographs and renders' :
+    hasPhotos ? 'project photography' : 'project renders';
+  const alt = reviewedMedia
+    ? current.alt || `${projectName} — ${current.label}, ${imageMedium}`
+    : illustrative
+      ? `${current.label}: illustrative architecture, not a photograph of ${projectName}`
+      : `${projectName} — ${current.label}`;
   const move = (delta: number) =>
     setSelected((value) => (value + delta + images.length) % images.length);
   function show(index: number, button: HTMLButtonElement) {
@@ -67,7 +86,10 @@ export function ProjectGallery({
 
   return (
     <>
-      <figure className={`pd-gallery ${images.length > 1 ? 'pd-gallery-multiple' : ''}`}>
+      <figure
+        id={reviewedMedia ? 'project-gallery' : undefined}
+        className={`pd-gallery ${images.length > 1 ? 'pd-gallery-multiple' : ''}`}
+      >
         <div className="pd-gallery-mosaic">
           <button
             type="button"
@@ -76,11 +98,15 @@ export function ProjectGallery({
           >
             <Image
               src={current.src}
-              alt=""
+              alt={reviewedMedia ? alt : ''}
               fill
               sizes="(max-width: 700px) 94vw, 62vw"
               loading="eager"
               fetchPriority="high"
+              quality={reviewedMedia ? 85 : undefined}
+              placeholder={current.blurDataURL ? 'blur' : 'empty'}
+              blurDataURL={current.blurDataURL}
+              style={reviewedMedia ? { objectPosition: current.position } : undefined}
             />
             <span className="pd-gallery-expand">
               <Expand size={17} />
@@ -105,7 +131,16 @@ export function ProjectGallery({
                       aria-label={`Open ${item.label} image of ${projectName}`}
                       onClick={(event) => show(index, event.currentTarget)}
                     >
-                      <Image src={item.src} alt="" fill sizes="30vw" />
+                      <Image
+                        src={item.src}
+                        alt=""
+                        fill
+                        sizes="(max-width: 700px) 90vw, 30vw"
+                        quality={reviewedMedia ? 85 : undefined}
+                        placeholder={item.blurDataURL ? 'blur' : 'empty'}
+                        blurDataURL={item.blurDataURL}
+                        style={reviewedMedia ? { objectPosition: item.position } : undefined}
+                      />
                       <span>{item.label}</span>
                     </button>
                   );
@@ -127,7 +162,18 @@ export function ProjectGallery({
                 aria-pressed={selected === index}
                 onClick={() => setSelected(index)}
               >
-                <Image src={item.src} alt="" width={112} height={72} />
+                <Image
+                  src={item.src}
+                  alt=""
+                  width={112}
+                  height={72}
+                  sizes={
+                    reviewedMedia
+                      ? '(max-width: 700px) 128px, (max-width: 1440px) 15vw, 208px'
+                      : undefined
+                  }
+                  quality={reviewedMedia ? 85 : undefined}
+                />
                 <span>
                   {count(index + 1)} — {item.label}
                 </span>
@@ -136,14 +182,26 @@ export function ProjectGallery({
           </div>
         )}
         <figcaption>
-          {illustrative
-            ? 'Illustrative concept gallery · Official project imagery to follow'
-            : `${projectName} · Project photography`}
+          {reviewedMedia && source ? (
+            <>
+              <span>
+                {source.name} {galleryMedium}{hasRenders ? ' · Design and finishes may vary.' : '.'}
+              </span>
+              <a href={source.url} target="_blank" rel="noopener noreferrer">
+                Images: {source.name} <ArrowUpRight size={14} aria-hidden="true" />
+              </a>
+            </>
+          ) : illustrative ? (
+            'Illustrative concept gallery · Official project imagery to follow'
+          ) : (
+            `${projectName} · Project photography`
+          )}
         </figcaption>
       </figure>
       <dialog
         ref={dialogRef}
         className="pd-lightbox"
+        data-reviewed-media={reviewedMedia || undefined}
         aria-labelledby={`${id}-title`}
         aria-describedby={`${id}-caption`}
         data-lenis-prevent
@@ -172,6 +230,13 @@ export function ProjectGallery({
           <button
             type="button"
             onClick={() => setOpen(false)}
+            onTouchEnd={(event) => {
+              // Mobile browsers can suppress a compatibility click just after a swipe.
+              if (reviewedMedia) {
+                event.preventDefault();
+                setOpen(false);
+              }
+            }}
             aria-label="Close image gallery"
             autoFocus
           >
@@ -179,8 +244,30 @@ export function ProjectGallery({
           </button>
         </div>
         {open && (
-          <div className="pd-lightbox-image">
-            <Image src={current.src} alt={alt} fill sizes="94vw" />
+          <div
+            className="pd-lightbox-image"
+            onTouchStart={(event) => {
+              if (!reviewedMedia) return;
+              const touch = event.touches[0];
+              touchStart.current = touch ? { x: touch.clientX, y: touch.clientY } : null;
+            }}
+            onTouchEnd={(event) => {
+              const start = touchStart.current;
+              touchStart.current = null;
+              const touch = event.changedTouches[0];
+              if (!reviewedMedia || !start || !touch) return;
+              const dx = touch.clientX - start.x;
+              const dy = touch.clientY - start.y;
+              if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.5) move(dx < 0 ? 1 : -1);
+            }}
+          >
+            <Image
+              src={current.src}
+              alt={alt}
+              fill
+              sizes="94vw"
+              quality={reviewedMedia ? 85 : undefined}
+            />
           </div>
         )}
         <div className="pd-lightbox-controls">
@@ -196,7 +283,11 @@ export function ProjectGallery({
             {count(selected + 1)} / {count(images.length)}{' '}
             <span>
               {current.label}
-              {illustrative ? ` · This image does not depict ${projectName}.` : ''}
+              {reviewedMedia
+                ? ` · ${source?.name || 'Developer'} ${imageMedium}`
+                : illustrative
+                  ? ` · This image does not depict ${projectName}.`
+                  : ''}
             </span>
           </p>
           <button

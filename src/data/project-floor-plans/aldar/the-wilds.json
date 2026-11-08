@@ -1,0 +1,127 @@
+{
+  "projectId": "aldar-project-11",
+  "projectSlug": "the-wilds",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://cdn.opr.ae/upload/brochures/TheWilds%20Floorplans.pdf",
+    "label": "Aldar Cassia and Ravenna villa plans · OPR-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/the-wilds/floor-plans-1e176b79376c.pdf",
+    "sha256": "1e176b79376c3c791a70e5b986c28bc4ad6209755a25218e81e4ca76b55064b7"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare Cassia Villas and Ravenna Residences. Each sheet shows both villa levels and the gross saleable area printed by Aldar.",
+  "selectorLabel": "Choose a Wilds villa floor plan",
+  "note": "Areas describe the illustrated layouts. Confirm the signed plan, area and plot for the specific villa.",
+  "plans": [
+    {
+      "label": "Cassia 3 BR · Type 01",
+      "area": "276 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/aldar/the-wilds/plan-page-2-00d88735f18c.webp",
+      "sha256": "00d88735f18c616861813cbad16adcb21bec9ab7be8ad8d24d1a349a616ba52a",
+      "originalBytes": 431192,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Cassia 3 BR · Type 02",
+      "area": "276 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/the-wilds/plan-page-3-04fb5d42e008.webp",
+      "sha256": "04fb5d42e008c97a805d8ad2592f5e8328b57a55017677bf46f3d6c4af05a0a1",
+      "originalBytes": 439736,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Cassia 4 BR · Type 01",
+      "area": "313 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/aldar/the-wilds/plan-page-4-8af245bb0fc6.webp",
+      "sha256": "8af245bb0fc65f882e020b4568be1e35065f44cb91e31ded9c09964988cc6651",
+      "originalBytes": 419198,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Cassia 4 BR · Type 02",
+      "area": "313 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/aldar/the-wilds/plan-page-5-3d62bfb5f323.webp",
+      "sha256": "3d62bfb5f323280a0c19ea777febcae4d951219c45c02d1028a698789cc564df",
+      "originalBytes": 440008,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Cassia 5 BR · Type 01",
+      "area": "413 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/the-wilds/plan-page-6-83532795a30e.webp",
+      "sha256": "83532795a30e97d6d45181eafe5d8492f3a554e3d44557af6b97bd16b6208c80",
+      "originalBytes": 424418,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Cassia 5 BR · Type 02",
+      "area": "413 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/aldar/the-wilds/plan-page-7-7342dfce7d38.webp",
+      "sha256": "7342dfce7d3863540147d4161334d602fc8cbee4d4d844bb34d1adda85193770",
+      "originalBytes": 383226,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Ravenna 4 BR",
+      "area": "505 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/aldar/the-wilds/plan-page-9-c7ccb1470ab2.webp",
+      "sha256": "c7ccb1470ab22e5928a35a753788a772c3a3ee8b799f2ce15eed1fbabb848fc5",
+      "originalBytes": 1378764,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "Ravenna 5 BR",
+      "area": "620 m² GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/aldar/the-wilds/plan-page-10-675786cf83d6.webp",
+      "sha256": "675786cf83d68c73c55844daa81dc2bf7d6789535f8f6562e7f19a112a7b747a",
+      "originalBytes": 1367448,
+      "width": 2400,
+      "height": 1561
+    }
+  ]
+}

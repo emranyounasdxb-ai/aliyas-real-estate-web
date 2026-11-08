@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-08",
+  "projectSlug": "odessa",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road",
+  "pin": {
+    "latitude": 25.002634,
+    "longitude": 55.288606,
+    "sourceUrl": "https://continentalclub.ae/project/odessa-town-square-town-square/",
+    "scope": "Approximate project point published by Continental Club and checked against Nshama’s master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/odessa/location-64dc3c544fb4.png",
+    "sha256": "64dc3c544fb46b66057168d2c2e45d03363f289628f9fbbe7f0384f3772262fe",
+    "originalBytes": 4003171,
+    "width": 1980,
+    "height": 1134,
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Brochure-Final_.pdf#page=8",
+    "alt": "Nshama master plan marking Odessa within Town Square, Dubai.",
+    "scope": "The developer’s master plan marks Odessa within the wider community.",
+    "caption": "Odessa at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Brochure-Final_.pdf#page=6",
+    "scope": "Approximate times from the wider Town Square community.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community estimates. The entrance, traffic and route can affect travel time."
+}

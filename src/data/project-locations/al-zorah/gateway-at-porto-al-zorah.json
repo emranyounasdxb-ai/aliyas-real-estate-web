@@ -1,0 +1,41 @@
+{
+  "projectId": "al-zorah-project-03",
+  "projectSlug": "gateway-at-porto-al-zorah",
+  "developerSlug": "al-zorah",
+  "checkedOn": "2026-11-08",
+  "community": "Porto Al Zorah, Ajman",
+  "road": "Marina waterfront · city connections to Sheikh Mohammed Bin Zayed and Emirates roads",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/al-zorah/gateway-at-porto-al-zorah/location-0f094c08a466.png",
+    "sha256": "0f094c08a46643ca0ed4aa466708dfb0b9c9a746b722403dbf9d8f94bab5d150",
+    "originalBytes": 1167652,
+    "width": 3600,
+    "height": 2583,
+    "sourceUrl": "https://www.alzorahcity.com/assets/pdf/Gateway_PortoAlZorah_Brochure.pdf#page=6",
+    "alt": "Gateway at Porto Al Zorah · complete original neighbourhood map and local journey table.",
+    "scope": "The source identifies Gateway within the wider Al Zorah community. Individual entrance coordinates remain unverified. Source-era facilities and route estimates require current confirmation.",
+    "caption": "Gateway · original Porto neighbourhood drawing."
+  },
+  "sourceLabel": "Gateway · official brochure, pages6 and42",
+  "travel": {
+    "sourceUrl": "https://www.alzorahcity.com/assets/pdf/Gateway_PortoAlZorah_Brochure.pdf",
+    "page": 42,
+    "scope": "Original Al Zorah City connectivity panel. Airport estimates explicitly describe driving. The hospital mode is unspecified. These do not verify an individual residential entrance or current traffic conditions.",
+    "destinations": [
+      {
+        "name": "Dubai International Airport · driving",
+        "minutes": 25
+      },
+      {
+        "name": "Sharjah International Airport · driving",
+        "minutes": 20
+      },
+      {
+        "name": "Hospitals and clinics · mode unspecified",
+        "minutes": 5
+      }
+    ]
+  },
+  "travelNote": "The regional sheet describes shopping within a 3 km radius and education within 7 km. The complete neighbourhood drawing on page 6 separately provides walking, cycling and golf cart estimates. Dashes remain unavailable. Confirm current facility access and routes."
+}

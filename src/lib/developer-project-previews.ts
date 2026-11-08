@@ -3,6 +3,7 @@ import { getDeveloperProjects } from './developer-projects';
 import { developerProjectHref } from './developer-project-url';
 import { DEVELOPER_HERO_LIMIT } from './developer-project-pagination';
 import { developerHeroInspiration } from './developer-hero-imagery';
+import { getProjectMedia } from './project-media';
 
 export type DeveloperProjectPreview = {
   kind: 'project';
@@ -36,7 +37,7 @@ export function getDeveloperProjectPreviews(developer: Developer): DeveloperHero
       developerSlug: developer.slug,
       developerName: developer.name,
       title: project.name,
-      image: project.image,
+      image: getProjectMedia(project)?.cardImage || project.image,
       placeholder: project.placeholder,
       href: developerProjectHref(project),
       nameVerified: Boolean(project.nameSource),

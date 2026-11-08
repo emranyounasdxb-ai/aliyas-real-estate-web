@@ -1,0 +1,64 @@
+{
+  "projectId": "meraas-project-21",
+  "projectSlug": "central-park-erin",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "Central Park at City Walk, Al Wasl, Dubai",
+  "road": "Between Al Wasl Road and Sheikh Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/central-park-erin/location-140ab2ac371f.png",
+    "sha256": "140ab2ac371f327d3e46bde2050224c321569337805a936b5217420a6be70b98",
+    "originalBytes": 1580797,
+    "width": 986,
+    "height": 637,
+    "sourceUrl": "https://meraas.com/sites/default/files/2023-11/FinalCPBrochure_ENGLISH_DIGITAL_Erin.pdf#page=13",
+    "alt": "Meraas site plan showing the Erin building marked within Central Park at City Walk.",
+    "scope": "The masterplan identifies the building footprint. Verify the arrival point before visiting.",
+    "caption": "Erin location within Central Park, Meraas brochure PDF page 13."
+  },
+  "sourceLabel": "Meraas Erin brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2023-11/FinalCPBrochure_ENGLISH_DIGITAL_Erin.pdf#page=6",
+    "scope": "Approximate travel times for the Central Park community, published in the Erin brochure.",
+    "destinations": [
+      {
+        "name": "City Walk Mall",
+        "minutes": 1
+      },
+      {
+        "name": "Coca-Cola Arena",
+        "minutes": 5
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 10
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "La Mer area",
+        "minutes": 15
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 50
+      }
+    ]
+  },
+  "travelNote": "The original brochure does not specify a travel mode. La Mer is the destination name from the original brochure."
+}

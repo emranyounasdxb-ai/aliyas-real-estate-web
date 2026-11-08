@@ -184,7 +184,7 @@ test('image-only slides support touch, reduced-motion keyboard navigation and bo
   await context.close();
 });
 
-test('hero link keyboard navigation opens the exact owned project and keeps illustrative labelling', async ({
+test('hero link keyboard navigation opens the exact owned project and keeps source attribution', async ({
   page,
 }) => {
   await page.goto('/developers/emaar');
@@ -193,9 +193,8 @@ test('hero link keyboard navigation opens the exact owned project and keeps illu
   await page.keyboard.press('Enter');
   await expect(page).toHaveURL(/\/developers\/emaar\/projects\/valia$/);
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Valia');
-  await expect(page.locator('#sources a').filter({ hasText: 'Emaar: Valia' })).toHaveAttribute(
-    'href',
-    getDeveloperProjects('emaar')[0].nameSource!.url,
-  );
-  await expect(page.locator('figure figcaption').first()).toContainText(/Illustrative/);
+  await expect(
+    page.locator('#sources').getByRole('link', { name: 'Developer Emaar: Valia', exact: true }),
+  ).toHaveAttribute('href', getDeveloperProjects('emaar')[0].nameSource!.url);
+  await expect(page.locator('figure figcaption').first()).toContainText(/project renders/);
 });

@@ -1,0 +1,807 @@
+{
+  "slug": "armani-beach-residences",
+  "id": "arada-project-06",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/armani-beach-residences/",
+  "source": {
+    "name": "Arada",
+    "url": "https://www.arada.com/en/armani-beach-residences/",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "armani-beach-residences-waterfront-front",
+  "images": [
+    {
+      "name": "armani-beach-residences-waterfront-front",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/website-main-bnr-1.jpg",
+      "url": "https://www.arada.com/wp-content/uploads/2023/12/main-bnr-1.jpg",
+      "label": "Proposed waterfront facade",
+      "alt": "Armani Beach Residences developer concept render of waterfront facade.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-lobby",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/website-Lobby-first-floor-01-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2023/12/Lobby-first-floor-01-1.jpg",
+      "label": "Proposed first-floor lobby",
+      "alt": "Armani Beach Residences developer concept render of first-floor lobby.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-spa-arrival",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/website-Spa-entrance-3.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2023/12/Spa-entrance-3.jpg",
+      "label": "Proposed spa arrival",
+      "alt": "Armani Beach Residences developer concept render of spa arrival.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-angled-front",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/website-gallery-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2023/12/gallery-1.jpg",
+      "label": "Proposed angled waterfront frontage",
+      "alt": "Armani Beach Residences developer concept render of angled waterfront frontage.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-beachfront",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p3-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=3",
+      "label": "Proposed beachfront setting",
+      "alt": "Armani Beach Residences brochure concept render of beachfront setting.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-front",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p5-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=5",
+      "label": "Proposed building and beach",
+      "alt": "Armani Beach Residences brochure concept render of building and beach.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-arch-courtyard",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p6-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=6",
+      "label": "Proposed arched water courtyard",
+      "alt": "Armani Beach Residences brochure concept render of arched water courtyard.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-indoor-pool",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p8-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=8",
+      "label": "Proposed indoor pool",
+      "alt": "Armani Beach Residences brochure concept render of indoor pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-foyer",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p9-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=9",
+      "label": "Proposed foyer concept",
+      "alt": "Armani Beach Residences brochure concept render of foyer concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bathroom",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p14-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=14",
+      "label": "Proposed bathroom concept",
+      "alt": "Armani Beach Residences brochure concept render of bathroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-home-bedroom",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p16-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=16",
+      "label": "Proposed bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-arrival",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p19-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=19",
+      "label": "Proposed covered arrival",
+      "alt": "Armani Beach Residences brochure concept render of covered arrival.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-side-facade",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p21-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=21",
+      "label": "Proposed side facade",
+      "alt": "Armani Beach Residences brochure concept render of side facade.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-home-living",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p23-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=23",
+      "label": "Proposed living-room concept",
+      "alt": "Armani Beach Residences brochure concept render of living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bedroom-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p24-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=24",
+      "label": "Proposed light bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of light bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bedroom-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p25-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=25",
+      "label": "Proposed dark bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of dark bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-dining-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p34-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=34",
+      "label": "Proposed light dining concept",
+      "alt": "Armani Beach Residences brochure concept render of light dining concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-dining-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p35-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=35",
+      "label": "Proposed dark dining concept",
+      "alt": "Armani Beach Residences brochure concept render of dark dining concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-circular-foyer",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p37-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=37",
+      "label": "Proposed circular foyer concept",
+      "alt": "Armani Beach Residences brochure concept render of circular foyer concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-living-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p38-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=38",
+      "label": "Proposed light living-room concept",
+      "alt": "Armani Beach Residences brochure concept render of light living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-living-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p39-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=39",
+      "label": "Proposed dark living-room concept",
+      "alt": "Armani Beach Residences brochure concept render of dark living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bedroom-two-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p54-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=54",
+      "label": "Proposed second light bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of second light bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bedroom-two-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p55-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=55",
+      "label": "Proposed second dark bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of second dark bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-lounge",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p61-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=61",
+      "label": "Proposed lounge concept",
+      "alt": "Armani Beach Residences brochure concept render of lounge concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-entrance-hall",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p64-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=64",
+      "label": "Proposed entrance hall concept",
+      "alt": "Armani Beach Residences brochure concept render of entrance hall concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-round-living-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p65-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=65",
+      "label": "Proposed curved light living-room concept",
+      "alt": "Armani Beach Residences brochure concept render of curved light living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-round-living-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p66-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=66",
+      "label": "Proposed curved dark living-room concept",
+      "alt": "Armani Beach Residences brochure concept render of curved dark living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-bathroom-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p75-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=75",
+      "label": "Proposed light bathroom concept",
+      "alt": "Armani Beach Residences brochure concept render of light bathroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-kitchen-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p78-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=78",
+      "label": "Proposed light kitchen concept",
+      "alt": "Armani Beach Residences brochure concept render of light kitchen concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-kitchen-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p79-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=79",
+      "label": "Proposed dark kitchen concept",
+      "alt": "Armani Beach Residences brochure concept render of dark kitchen concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-suite-bedroom-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p81-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=81",
+      "label": "Proposed light suite-bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of light suite-bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-suite-bedroom-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p82-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=82",
+      "label": "Proposed dark suite-bedroom concept",
+      "alt": "Armani Beach Residences brochure concept render of dark suite-bedroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-vanity-light",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p84-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=84",
+      "label": "Proposed light vanity concept",
+      "alt": "Armani Beach Residences brochure concept render of light vanity concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-vanity-dark",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p85-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=85",
+      "label": "Proposed dark vanity concept",
+      "alt": "Armani Beach Residences brochure concept render of dark vanity concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-water-courtyard",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p90-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=90",
+      "label": "Proposed open-sky water courtyard",
+      "alt": "Armani Beach Residences brochure concept render of open-sky water courtyard.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-terrace-pool",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p91-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=91",
+      "label": "Proposed terrace pool",
+      "alt": "Armani Beach Residences brochure concept render of terrace pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "armani-beach-residences-pool-view",
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/brochure-p97-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf#page=97",
+      "label": "Proposed pool and skyline",
+      "alt": "Armani Beach Residences brochure concept render of pool and skyline.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "armani-beach-residences-round-living-light",
+    "armani-beach-residences-suite-bedroom-dark"
+  ],
+  "location": {
+    "community": "Outer crescent, Palm Jumeirah, Dubai",
+    "road": "Crescent East Street · Bayut location reference",
+    "pin": {
+      "latitude": 25.13831479384303,
+      "longitude": 55.146562680958056,
+      "sourceUrl": "https://petrodeluxe.com/wp-content/uploads/2024/10/Armani-Beach-Residence.pdf#page=7",
+      "scope": "Approximate project-vicinity marker linked by the PetroDeluxe broker document. It does not establish a surveyed visitor entrance or current access route. Confirm access before travelling."
+    },
+    "map": {
+      "cache": "artifacts/project-page-enhancement/armani-beach-residences/broker-location-review-07.png",
+      "url": "https://petrodeluxe.com/wp-content/uploads/2024/10/Armani-Beach-Residence.pdf#page=7",
+      "alt": "Complete original broker location panel for Armani Beach Residences at Palm Jumeirah.",
+      "caption": "Armani Beach Residences vicinity · PetroDeluxe broker document.",
+      "scope": "Broker regional map with a Google base dated 2023. The marker is approximate. The surveyed entrance remains unverified."
+    },
+    "sourceLabel": "Nearby driving references · Bayut building guide",
+    "travel": {
+      "sourceUrl": "https://www.bayut.com/buildings/armani-beach-residences/",
+      "scope": "Secondary portal driving estimates. Exact home origin, route and traffic conditions are unspecified. Live route confirmation is required.",
+      "destinations": [
+        {
+          "name": "Atlantis The Palm",
+          "minutes": 4
+        },
+        {
+          "name": "The Boardwalk",
+          "minutes": 7
+        },
+        {
+          "name": "Palm West Beach",
+          "minutes": 16
+        },
+        {
+          "name": "Al Khail Metro Station",
+          "minutes": 21
+        }
+      ]
+    },
+    "travelNote": "Crescent East Street and these driving estimates come from Bayut. The map and approximate interactive marker come from a broker document. Confirm the visitor entrance and live route. Exact kilometre journeys and primary developer travel times remain unavailable."
+  },
+  "floorPlans": {
+    "url": "https://www.toumehrealestate.com/storage/projects/armani-beach-residences/documents/f24ed782-18b9-4bcf-9ce4-db074df00f52.pdf",
+    "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised.pdf",
+    "label": "Armani Beach Residences · revised branded plans · Toumeh Real Estate broker mirror",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Explore the complete original and revised apartment, penthouse and presidential drawings.",
+    "selectorLabel": "Choose a brochure version and residence",
+    "note": "All 65 options retain complete source spreads. Original developer and revised broker-hosted drawings remain separately labelled. Areas include external spaces and vary between units and versions. Presidential totals cover the residence and roof once, repeating on the separate roof drawing without addition. Original 3 BR G metric components total 476.03 sq m against printed 476.02. Revised Presidential 2 square-foot components total 43,942 against printed 43,941. These source differences remain unresolved. The revised issue date is unverified. Current developer releases describe 57 homes while the original pack numbers 53. Confirm the contracted revision, unit and area. Interior palettes are proposed brochure concepts.",
+    "plans": [
+      {
+        "sourcePage": 32,
+        "label": "Revised · 2 BR A",
+        "area": "2,623–2,630 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Revised · 2 BR B",
+        "area": "2,870 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "Revised · 2 BR C",
+        "area": "2,897 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "Revised · 2 BR D",
+        "area": "3,020–3,026 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-35.png"
+      },
+      {
+        "sourcePage": 36,
+        "label": "Revised · 2 BR E",
+        "area": "3,141 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-36.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "Revised · 2 BR F",
+        "area": "3,116 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-37.png"
+      },
+      {
+        "sourcePage": 38,
+        "label": "Revised · 2 BR G",
+        "area": "3,160 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-38.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "Revised · 2 BR H",
+        "area": "3,389 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-39.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Revised · 3 BR A",
+        "area": "3,864 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "Revised · 3 BR B",
+        "area": "3,888 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Revised · 3 BR C",
+        "area": "4,393–4,395 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Revised · 3 BR D",
+        "area": "4,676–4,677 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "Revised · 3 BR E",
+        "area": "4,880–4,959 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-50.png"
+      },
+      {
+        "sourcePage": 51,
+        "label": "Revised · 3 BR F",
+        "area": "4,897–4,898 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-51.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Revised · 3 BR G",
+        "area": "5,106–5,107 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-52.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "Revised · 3 BR H",
+        "area": "5,217 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-53.png"
+      },
+      {
+        "sourcePage": 54,
+        "label": "Revised · 3 BR I",
+        "area": "5,418–5,427 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-54.png"
+      },
+      {
+        "sourcePage": 55,
+        "label": "Revised · 3 BR J",
+        "area": "5,724 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-55.png"
+      },
+      {
+        "sourcePage": 62,
+        "label": "Revised · 4 BR A",
+        "area": "6,331 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-62.png"
+      },
+      {
+        "sourcePage": 63,
+        "label": "Revised · 4 BR B",
+        "area": "6,396 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-63.png"
+      },
+      {
+        "sourcePage": 64,
+        "label": "Revised · 4 BR C",
+        "area": "6,424 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-64.png"
+      },
+      {
+        "sourcePage": 65,
+        "label": "Revised · 4 BR D",
+        "area": "7,028 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-65.png"
+      },
+      {
+        "sourcePage": 66,
+        "label": "Revised · 4 BR E",
+        "area": "7,440–7,497 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-66.png"
+      },
+      {
+        "sourcePage": 67,
+        "label": "Revised · 4 BR F",
+        "area": "6,957 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-67.png"
+      },
+      {
+        "sourcePage": 74,
+        "label": "Revised · 5 BR B",
+        "area": "8,375–8,439 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-74.png"
+      },
+      {
+        "sourcePage": 81,
+        "label": "Revised · 5 BR penthouse 1",
+        "area": "9,510 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-81.png"
+      },
+      {
+        "sourcePage": 84,
+        "label": "Revised · 5 BR penthouse 2",
+        "area": "9,684 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-84.png"
+      },
+      {
+        "sourcePage": 87,
+        "label": "Revised · 5 BR penthouse 4",
+        "area": "11,521–11,537 sq ft",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-87.png"
+      },
+      {
+        "sourcePage": 93,
+        "label": "Revised · Presidential 1 · residence",
+        "area": "31,680 sq ft · whole home",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-93.png"
+      },
+      {
+        "sourcePage": 94,
+        "label": "Revised · Presidential 1 · roof",
+        "area": "31,680 sq ft · whole home",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-94.png"
+      },
+      {
+        "sourcePage": 96,
+        "label": "Revised · Presidential 2 · residence",
+        "area": "43,941 sq ft · whole home",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-96.png"
+      },
+      {
+        "sourcePage": 97,
+        "label": "Revised · Presidential 2 · roof",
+        "area": "43,941 sq ft · whole home",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-revised-review-97.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Original · 2 BR A",
+        "area": "2,657 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Original · 2 BR B",
+        "area": "2,926 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Original · 2 BR C",
+        "area": "2,965 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Original · 2 BR D",
+        "area": "2,998 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Original · 2 BR E",
+        "area": "3,143 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Original · 2 BR F",
+        "area": "3,214 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "Original · 2 BR G",
+        "area": "3,273 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Original · 2 BR H",
+        "area": "3,380 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-33.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "Original · 3 BR A",
+        "area": "4,003 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "Original · 3 BR B",
+        "area": "4,061 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Original · 3 BR C",
+        "area": "4,394 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "Original · 3 BR D",
+        "area": "4,652 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-43.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "Original · 3 BR E",
+        "area": "4,865 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Original · 3 BR F",
+        "area": "4,872 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Original · 3 BR G",
+        "area": "5,124 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "Original · 3 BR H",
+        "area": "5,283 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Original · 3 BR I",
+        "area": "5,392 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Original · 3 BR J",
+        "area": "5,790 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-49.png"
+      },
+      {
+        "sourcePage": 56,
+        "label": "Original · 4 BR A",
+        "area": "6,323 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-56.png"
+      },
+      {
+        "sourcePage": 57,
+        "label": "Original · 4 BR B",
+        "area": "6,406 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-57.png"
+      },
+      {
+        "sourcePage": 58,
+        "label": "Original · 4 BR C",
+        "area": "6,416 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-58.png"
+      },
+      {
+        "sourcePage": 59,
+        "label": "Original · 4 BR D",
+        "area": "7,191 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-59.png"
+      },
+      {
+        "sourcePage": 60,
+        "label": "Original · 4 BR E",
+        "area": "7,459 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-60.png"
+      },
+      {
+        "sourcePage": 67,
+        "label": "Original · 5 BR A",
+        "area": "7,571 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-67.png"
+      },
+      {
+        "sourcePage": 70,
+        "label": "Original · 5 BR B",
+        "area": "8,472 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-70.png"
+      },
+      {
+        "sourcePage": 77,
+        "label": "Original · 5 BR penthouse 1",
+        "area": "9,501 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-77.png"
+      },
+      {
+        "sourcePage": 80,
+        "label": "Original · 5 BR penthouse 2",
+        "area": "9,664 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-80.png"
+      },
+      {
+        "sourcePage": 83,
+        "label": "Original · 5 BR penthouse 3",
+        "area": "10,547 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-83.png"
+      },
+      {
+        "sourcePage": 86,
+        "label": "Original · 5 BR penthouse 4",
+        "area": "11,646 sq ft",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-86.png"
+      },
+      {
+        "sourcePage": 92,
+        "label": "Original · Presidential 1 · residence",
+        "area": "30,949 sq ft · whole home",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-92.png"
+      },
+      {
+        "sourcePage": 93,
+        "label": "Original · Presidential 1 · roof",
+        "area": "30,949 sq ft · whole home",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-93.png"
+      },
+      {
+        "sourcePage": 95,
+        "label": "Original · Presidential 2 · residence",
+        "area": "43,830 sq ft · whole home",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-95.png"
+      },
+      {
+        "sourcePage": 96,
+        "label": "Original · Presidential 2 · roof",
+        "area": "43,830 sq ft · whole home",
+        "documentId": "original",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original-review-96.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "original",
+        "label": "Armani Beach Residences · complete original Arada brochure",
+        "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/01/Armani-Beach-Residence-Brochure-2BD-Presidential-Suites-Jan-10.pdf",
+        "cache": "artifacts/project-page-enhancement/armani-beach-residences/armani-beach-residences-original.pdf"
+      }
+    ]
+  },
+  "review": {
+    "imagery": "Root reviewed all60 original brochure resources and eleven observed website image entries representing ten unique files. Selected own-project architecture, interiors, amenities and light/dark palette concepts. Designer portraits, unrelated Palm/Atlantis/Burj Al Arab photographs, logos, repeated frames and lower-resolution duplicate crops were excluded. No as-built status, furnishing entitlement or specific available interior unit is inferred.",
+    "floorPlans": "Root visually reviewed all33 original and32 revised complete spreads, then every visible numeric header panel at enlarged readable resolution. Original2BR A–H,3BR A–J,4BR A–E,5BR A/B,four penthouses and two presidential residence/roof pairs remain distinct from revised4BR A–F,5BR B,three penthouses and revised presidential pairs. Original3BR I5392 and revised5418–5427 were read directly where mixed Sqm/ft² text impeded extraction. Whole-home repeats and source calculation/revision conflicts remain explicit. All original PDF bytes and physical-page links are preserved.",
+    "location": "Root reviewed the complete PetroDeluxe physical page7 map, retained its Google2023 base notice and read its explicit Google coordinate link. The interactive marker is labelled approximate broker project vicinity, with visitor entrance unverified. Bayut was read for Crescent East Street and four driving estimates only. Its older unrelated commercial or completion assertions are excluded. No kilometre distance or current travel time is inferred.",
+    "provenance": "Original Arada100-spread PDF, Toumeh101-spread broker revision, current official HTML, observed official images, PetroDeluxe map document and Bayut HTML were retrieved by ordinary public GET on7November2026 with URLs, byte counts and SHA256 receipts. No enquiry or access bypass. Canonical researched text and protected identity remain intact."
+  },
+  "unavailable": [
+    "The exact visitor entrance, kilometre routes and current primary travel estimates remain unverified. Map coordinates are an approximate broker vicinity reference. The revised issue date, contracted drawing version and original53 versus current57 home inventory remain unresolved. Printed metric/imperial component differences and furnishing entitlements require confirmation."
+  ]
+}

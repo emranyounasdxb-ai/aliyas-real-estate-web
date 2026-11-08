@@ -1,0 +1,64 @@
+{
+  "projectId": "arada-project-03",
+  "projectSlug": "masaar-3",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "community": "Masaar 3, Sharjah",
+  "road": "Khorfakkan Road / Emirates Road E611 vicinity",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/arada/masaar-3/location-5fcd074e875e.png",
+    "sha256": "5fcd074e875e70848dff7b28ff64fd1ae0f29a9983d7e4e72e59ee82f1bd897f",
+    "originalBytes": 1741298,
+    "width": 3200,
+    "height": 1600,
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/10/30092026_Dalia_Brochure-6.pdf#page=15",
+    "alt": "Complete original Masaar 3 regional map and journey panel.",
+    "scope": "Community-area diagram. No surveyed home or visitor entrance coordinates are established.",
+    "caption": "Masaar 3 regional setting · original Dalia brochure."
+  },
+  "sourceLabel": "Masaar 3 · original Dalia brochure · Arada",
+  "travel": {
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/10/30092026_Dalia_Brochure-6.pdf#page=15",
+    "scope": "Developer community-area journey estimates. Individual home origin, route, travel mode and traffic conditions are unspecified.",
+    "destinations": [
+      {
+        "name": "Masaar Central",
+        "minutes": 5
+      },
+      {
+        "name": "Tilal Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Nasma Central Park",
+        "minutes": 5
+      },
+      {
+        "name": "Sharjah Mosque",
+        "minutes": 5
+      },
+      {
+        "name": "Sharjah International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "University City",
+        "minutes": 15
+      },
+      {
+        "name": "Aljada",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Sharjah Corniche",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "The regional panel was read visually. The 15-minute airport is Sharjah and the 20-minute airport is Dubai. Text extraction reverses their grouping. These are source estimates requiring a current route check. Exact entrance coordinates and kilometre distances remain unverified. Directions use Masaar 3 by name."
+}

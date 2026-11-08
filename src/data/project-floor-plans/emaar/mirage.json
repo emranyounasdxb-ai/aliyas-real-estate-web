@@ -1,0 +1,140 @@
+{
+  "projectId": "emaar-project-89",
+  "projectSlug": "mirage",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/MIRAGE_floorplan.pdf",
+    "label": "Emaar Mirage original floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/mirage/floor-plans-da13ccddf744.pdf",
+    "sha256": "da13ccddf744a2dcd64055389a9823edcd752c333498ed5bffdd5ae4b5e8e5ca"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the five- and six-bedroom Flat and Drop layouts in the published Mirage pack. Each drawing shows the levels and the area table for that layout.",
+  "selectorLabel": "Choose a Mirage villa floor plan",
+  "note": "Flat and Drop are villa plan names used by Emaar. The printed totals cover the components listed on each plan. Confirm the signed area and pool or garden specifications for the selected home.",
+  "plans": [
+    {
+      "label": "5 BR · Flat Chamfered",
+      "area": "10,388.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/emaar/mirage/plan-page-1-ef7c8dc40c21.webp",
+      "sha256": "ef7c8dc40c216a1078f5cd5d088aa302de3ead2453db21e7413493b1a21c8efe",
+      "originalBytes": 1278310,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 BR · Drop Chamfered",
+      "area": "11,163.03 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/mirage/plan-page-2-5a4e5e689a8d.webp",
+      "sha256": "5a4e5e689a8db61c0e18b4aba763feaf406ca893e7e05637087480b674e58b30",
+      "originalBytes": 1231378,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "6 BR · Flat Chamfered",
+      "area": "12,967.06 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/mirage/plan-page-3-2146c77905a5.webp",
+      "sha256": "2146c77905a5c4d2add929fb5dc776c75135661a1da7f725e099ec877308c735",
+      "originalBytes": 1035246,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "6 BR · Drop Chamfered",
+      "area": "11,357.31 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/mirage/plan-page-4-f738c95e7107.webp",
+      "sha256": "f738c95e7107b1bece0f20b4e3afca458eee3bd4d702f9211def12b7bd6ff249",
+      "originalBytes": 931438,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 BR · Flat Contemporary",
+      "area": "10,224.95 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/mirage/plan-page-5-e8f3b5bae56d.webp",
+      "sha256": "e8f3b5bae56d2bc033ed459a133c3b0222e1fb4c6fbf33ac9b39f2cfe5e75dbb",
+      "originalBytes": 1275558,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 BR · Drop Contemporary",
+      "area": "10,996.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/mirage/plan-page-6-6e5b4cfbd11f.webp",
+      "sha256": "6e5b4cfbd11f2417db1a716a78992426ef57982c1880e8a473e4e177abccc6ea",
+      "originalBytes": 1237504,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "6 BR · Flat Contemporary",
+      "area": "12,718.09 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/mirage/plan-page-7-c85a74041df3.webp",
+      "sha256": "c85a74041df32186bd3747c897699cc4ee9636dcbcd431a3088348e83b93b839",
+      "originalBytes": 1052802,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "6 BR · Drop Contemporary",
+      "area": "11,297.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/mirage/plan-page-8-e232e1fb7827.webp",
+      "sha256": "e232e1fb78279e84f358985699d020db65940c01cdfb15ae5404b5b53f25dfcc",
+      "originalBytes": 954836,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 BR · Flat Classic",
+      "area": "10,336.25 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/mirage/plan-page-9-ef48dad9109f.webp",
+      "sha256": "ef48dad9109f4b69bda069c4da31cc0e1fb5bc4309ca868514d3500d056679ff",
+      "originalBytes": 1289406,
+      "width": 2400,
+      "height": 1569
+    }
+  ]
+}

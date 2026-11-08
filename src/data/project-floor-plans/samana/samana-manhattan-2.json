@@ -1,0 +1,62 @@
+{
+  "projectId": "samana-project-25",
+  "projectSlug": "samana-manhattan-2",
+  "developerSlug": "samana",
+  "source": {
+    "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/26/25c29e25e58ab5b020e279f2fcd9a743.pdf",
+    "label": "SAMANA Manhattan Phase II · original official brochure and home drawings",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/samana/samana-manhattan-2/floor-plans-b54f7a2bc3f1.pdf",
+    "sha256": "b54f7a2bc3f13dc6751f6a588d967a533ca65554c70928caa67d5205a54d2c81"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "View four home layouts across three complete original sheets, with full-size zoom and physical PDF-page links.",
+  "selectorLabel": "Choose a complete home-plan sheet",
+  "note": "The original official brochure shows four home layouts on three complete sheets. The studio sheet includes both a pool and a non-pool variant. Drawing-specific areas, numbered unit matching and building floorplates were not established in the reviewed accessible sources. Confirm the approved configuration and contractual area with SAMANA.",
+  "plans": [
+    {
+      "label": "Studios · with and without pool",
+      "area": "Areas not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/samana/samana-manhattan-2/plan-page-27-bd7961bd99db.webp",
+      "sha256": "bd7961bd99dbcd46d98da92d5ec091a69902905a4ce712080855789d54097cbf",
+      "originalBytes": 3005442,
+      "width": 3200,
+      "height": 2264
+    },
+    {
+      "label": "1 BR + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/samana/samana-manhattan-2/plan-page-28-44912c59533c.webp",
+      "sha256": "44912c59533ce05e3cc636125b713fc88e32a8a0f8b30461d5c1bd04b316724d",
+      "originalBytes": 2886836,
+      "width": 3200,
+      "height": 2264
+    },
+    {
+      "label": "2 BR + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/samana/samana-manhattan-2/plan-page-29-4257d56171d5.webp",
+      "sha256": "4257d56171d599c2294e6fe3528b83a6eb4dfab0c79980692ae3be688e1ba8a6",
+      "originalBytes": 3024090,
+      "width": 3200,
+      "height": 2264
+    }
+  ]
+}

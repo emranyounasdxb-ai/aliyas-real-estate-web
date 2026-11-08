@@ -1,0 +1,127 @@
+{
+  "projectId": "eagle-hills-project-04",
+  "projectSlug": "the-bristol-hotel-residences",
+  "developerSlug": "eagle-hills",
+  "source": {
+    "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-bristol-residences-brochure-english.pdf",
+    "label": "The Bristol · current original developer brochure, project context",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/eagle-hills/the-bristol-hotel-residences/floor-plans-d560aefaa322.pdf",
+    "sha256": "d560aefaa322d93cfb4ab338c14662e2445ff68872d9ab1b1e2f464c50fc86a1"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3622,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare four complete published apartment samples alongside the original island master and regional drawings.",
+  "selectorLabel": "Choose an apartment sample or original community drawing",
+  "note": "The four whole apartment spreads are original JPEG drawings hosted by the independent Ramhan.ae marketing site. Printed gross area includes sellable and balcony or terrace area. The original notices and level keys remain intact. The current developer PDF provides project context and omits individual apartment drawings. Sixteen other layout rows in the broker table lack public drawings in the reviewed set. Confirm the contracted type, level, revision, area and final specification. Hotel interior and amenity renders describe proposed shared hospitality spaces, with resident access unverified.",
+  "plans": [
+    {
+      "label": "1 BR · Type 1 · balcony",
+      "area": "68.58 m² gross · 58.72 m² sellable + 9.86 m² outdoor",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://ramhan.ae/assets/media/bristol-1bedfloor.jpeg",
+        "label": "Original complete Bristol drawing · independent Ramhan.ae marketing mirror"
+      },
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-image-1-ca759122cd09.jpg",
+      "sha256": "ca759122cd090c889b2f0c30a7c0fcf2d68c19f9fac72a4cbea5a8af14825093",
+      "originalBytes": 461897,
+      "width": 3622,
+      "height": 2480
+    },
+    {
+      "label": "2 BR · Type 1 · balcony",
+      "area": "107.96 m² gross · 89.33 m² sellable + 18.63 m² outdoor",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://ramhan.ae/assets/media/bristol-2bedfloor.jpeg",
+        "label": "Original complete Bristol drawing · independent Ramhan.ae marketing mirror"
+      },
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-image-2-f29cde9dd787.jpg",
+      "sha256": "f29cde9dd78725c0b2a9d6724f923a50f4e0371ab44cd091afb039bce2c428de",
+      "originalBytes": 545610,
+      "width": 3622,
+      "height": 2480
+    },
+    {
+      "label": "3 BR · Type 1 · end unit terrace",
+      "area": "186.57 m² gross · 134.85 m² sellable + 51.72 m² outdoor",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://ramhan.ae/assets/media/bristol-3bedfloor.jpeg",
+        "label": "Original complete Bristol drawing · independent Ramhan.ae marketing mirror"
+      },
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-image-3-f64d7892a428.jpg",
+      "sha256": "f64d7892a4281bcb1015e0de30399fbac823cac07099659914e5f08d920b8859",
+      "originalBytes": 487289,
+      "width": 3622,
+      "height": 2480
+    },
+    {
+      "label": "4 BR · Type 1A · balcony and terrace",
+      "area": "238.03 m² gross · 170.47 m² sellable + 67.56 m² outdoor",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://ramhan.ae/assets/media/bristol-4bedfloor.jpeg",
+        "label": "Original complete Bristol drawing · independent Ramhan.ae marketing mirror"
+      },
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-image-4-5ca373f25d35.jpg",
+      "sha256": "5ca373f25d35a8dd6923cb7bc335fc805a24bd83e2103aaa39c9fec700363dd3",
+      "originalBytes": 537701,
+      "width": 3622,
+      "height": 2480
+    },
+    {
+      "label": "Ramhan Island · original master plan",
+      "area": "Community context, no apartment total",
+      "sourceIds": [
+        "plans-regional"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-regional-page-9-f1311219bae1.webp",
+      "sha256": "f1311219bae1161ad40cafb2f2304c72fa041979daa35df45831abd827018e64",
+      "originalBytes": 8151500,
+      "width": 3600,
+      "height": 2466,
+      "source": {
+        "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-ramhan-island-brochure-english.pdf",
+        "label": "Ramhan Island · original developer community brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/eagle-hills/the-bristol-hotel-residences/floor-plans-regional-5c60cddcaa82.pdf",
+        "sha256": "5c60cddcaa824a60149996ec7876451c80c734cd56f45470c7db943aab44178d"
+      }
+    },
+    {
+      "label": "Ramhan Island · original regional map",
+      "area": "Regional context, no apartment total",
+      "sourceIds": [
+        "plans-regional"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/eagle-hills/the-bristol-hotel-residences/plan-regional-page-10-6acb3484ce92.webp",
+      "sha256": "6acb3484ce92dd258fb81491c6eb0d4307584a4ff326f1efe7ade4a15790c9de",
+      "originalBytes": 186300,
+      "width": 3600,
+      "height": 2466,
+      "source": {
+        "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-ramhan-island-brochure-english.pdf",
+        "label": "Ramhan Island · original developer community brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/eagle-hills/the-bristol-hotel-residences/floor-plans-regional-5c60cddcaa82.pdf",
+        "sha256": "5c60cddcaa824a60149996ec7876451c80c734cd56f45470c7db943aab44178d"
+      }
+    }
+  ]
+}

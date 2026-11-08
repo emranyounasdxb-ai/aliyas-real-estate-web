@@ -1,0 +1,43 @@
+{
+  "projectId": "emaar-project-57",
+  "projectSlug": "arlo",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Dubai Creek Harbour",
+  "travel": {
+    "page": 4,
+    "scope": "Dubai Creek Harbour journey estimates on the regional diagram in Emaar’s ARLO brochure.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 40
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/385314_brochure_File_7b6c971980_prod.pdf"
+  },
+  "travelNote": "Developer brochure estimates vary with the starting point, route and traffic. Confirm current transit services and the building entrance.",
+  "pin": {
+    "latitude": 25.20821576702089,
+    "longitude": 55.3567310730159,
+    "sourceUrl": "https://www.emaar.com/en/properties/arlo-at-dubai-creek-harbour",
+    "scope": "Reference point from Emaar’s ARLO page for the wider district. Public map pins differ. Confirm the building entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/arlo/location-594fddb8562a.jpg",
+    "sha256": "594fddb8562a12f74fd29495f9b2611496f6fee68e117d61147c7995cee37b82",
+    "originalBytes": 267579,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+    "alt": "Emaar regional map showing Dubai Creek Harbour",
+    "scope": "Emaar regional Dubai Creek Harbour diagram, including planned routes shown separately."
+  }
+}

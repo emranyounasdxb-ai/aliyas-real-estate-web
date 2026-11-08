@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-76",
+  "projectSlug": "greenridge",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Greenridge_floorplan.pdf",
+    "label": "Emaar Greenridge original Grace and Pearl floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/greenridge/floor-plans-f5086a67381f.pdf",
+    "sha256": "f5086a67381f45b890ad709f0b43050ba975e5260f8270ac1119188d535f8b01"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare Grace and Pearl three- and four-bedroom townhouses. The full sheets include both floors, key plans and the site layout.",
+  "selectorLabel": "Choose a Greenridge townhouse design and layout",
+  "note": "On the Grace TH03 sheet, the metric terrace figure contains an extra decimal point. The displayed square-foot areas follow the original imperial table. Confirm the signed unit plan and plot position.",
+  "plans": [
+    {
+      "label": "Grace · 4 BR · TH01",
+      "area": "2,707.55 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/greenridge/plan-page-3-8ada27366064.webp",
+      "sha256": "8ada27366064e14888237d1499cd16c5d8d2f2294d888cf68e42506e2ee01180",
+      "originalBytes": 522208,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Grace · 3 BR · TH02",
+      "area": "2,421.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/greenridge/plan-page-4-52d923f8ec61.webp",
+      "sha256": "52d923f8ec610529bbf98bd93b1ab5e1808dfef958ed54d753d2fde676fb2f32",
+      "originalBytes": 365628,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Grace · 3 BR · TH03",
+      "area": "2,421.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/greenridge/plan-page-5-5f7b4cbe926a.webp",
+      "sha256": "5f7b4cbe926ae2ddb7f0b427bc97d08ac832ce35fab169b91bff4cbd8537295a",
+      "originalBytes": 362076,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Grace · 4 BR · TH04",
+      "area": "2,707.55 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/greenridge/plan-page-6-94189a42c17f.webp",
+      "sha256": "94189a42c17f3f110c20c7043920493cf9afd5e2e88813f769ce3e0028bbc991",
+      "originalBytes": 522552,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Pearl · 4 BR · TH01",
+      "area": "2,766.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/greenridge/plan-page-8-f66d3f0a9aaf.webp",
+      "sha256": "f66d3f0a9aafa89e54069d6e7c5cd51c0027b9b1ee97a4c50d3d31d8e3fb7bfe",
+      "originalBytes": 515748,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Pearl · 3 BR · TH02",
+      "area": "2,450.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/greenridge/plan-page-9-39c4148d0eb4.webp",
+      "sha256": "39c4148d0eb43200b9298d16ee3255bd62e7aa549dfff8d8954c3d9b27d83549",
+      "originalBytes": 362346,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Pearl · 3 BR · TH03",
+      "area": "2,450.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/greenridge/plan-page-10-08a70523439c.webp",
+      "sha256": "08a70523439c9e33fe819d0c6170d99ae0fdc70661afc856534fa2856a086ca4",
+      "originalBytes": 357848,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Pearl · 4 BR · TH04",
+      "area": "2,766.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/greenridge/plan-page-11-1b75e2874184.webp",
+      "sha256": "1b75e287418495e143b4390d91e68288a80d5e0a3efae17c4f0f4035023eba5d",
+      "originalBytes": 528728,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

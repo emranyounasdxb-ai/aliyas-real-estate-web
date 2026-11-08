@@ -1,0 +1,50 @@
+{
+  "projectId": "eagle-hills-project-03",
+  "projectSlug": "ramhan-marina-apartments",
+  "developerSlug": "eagle-hills",
+  "source": {
+    "url": "https://ramhanislandcdn.eaglehills.ai/pdf/uae-ramhan-island-brochure-english.pdf",
+    "label": "Ramhan Island · original developer master-community brochure",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/eagle-hills/ramhan-marina-apartments/floor-plans-5c60cddcaa82.pdf",
+    "sha256": "5c60cddcaa824a60149996ec7876451c80c734cd56f45470c7db943aab44178d"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "eyebrow": "Island context",
+  "introduction": "View the published island master plan and regional location map. Individual apartment drawings remain unavailable in the reviewed public sources.",
+  "selectorLabel": "Choose an original community drawing",
+  "note": "Both complete original sheets retain their notices and community scope. They establish the island setting. Individual Marina apartment layouts, room dimensions, contracted unit areas and final revisions remain unavailable in the reviewed public material. Obtain the applicable developer apartment plan before relying on a unit configuration.",
+  "plans": [
+    {
+      "label": "Ramhan Island · original master plan",
+      "area": "Master-community context, no apartment total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/eagle-hills/ramhan-marina-apartments/plan-page-9-f1311219bae1.webp",
+      "sha256": "f1311219bae1161ad40cafb2f2304c72fa041979daa35df45831abd827018e64",
+      "originalBytes": 8151500,
+      "width": 3600,
+      "height": 2466
+    },
+    {
+      "label": "Ramhan Island · original regional map",
+      "area": "Regional context, no apartment total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/eagle-hills/ramhan-marina-apartments/plan-page-10-6acb3484ce92.webp",
+      "sha256": "6acb3484ce92dd258fb81491c6eb0d4307584a4ff326f1efe7ade4a15790c9de",
+      "originalBytes": 186300,
+      "width": 3600,
+      "height": 2466
+    }
+  ]
+}

@@ -1,0 +1,1308 @@
+{
+  "projectId": "alef-project-04",
+  "projectSlug": "olfah",
+  "developerSlug": "alef",
+  "source": {
+    "url": "https://olfah.alefgroup.ae/wp-content/uploads/2025/10/Olfah-1-floorplan.pdf",
+    "label": "Olfah Building 1 · original Alef drawings",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/alef/olfah/floor-plans-4f615b00fc0b.pdf",
+    "sha256": "4f615b00fc0bc3623610bc0e46b3f4848e40a050683cb271d2e78e2b3e7855ad"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published Building 1–5 layouts and floorplates, with their source-specific printed area figures.",
+  "selectorLabel": "Choose a building, full residence spread or original location drawing",
+  "note": "All 73 complete source sheets retain their original artwork and notices. Building 1 labels its values total area. Buildings 2–5 distinguish total net from separately printed gross area. Paired totals describe separate homes. Garden and balcony areas remain within the source scope. Building 1 repeats B.5 mirror sheets 20/21 and prints level G on sheet 31. Its B.1 mirror and standard totals differ. Building 2 sheet 6 incorrectly heads two-bedroom C2.C/C2.D drawings as one bedroom. The Building 3 pack floorplate is headed Olfah 2 and remains disputed. Current building markers and earlier pack maps retain their separate revisions. Confirm the contracted building, level, unit, final area and drawing revision.",
+  "plans": [
+    {
+      "label": "Building 1 pack · original numbered master plan",
+      "area": "Community context, no home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/olfah/plan-page-6-ff58f2310a1b.webp",
+      "sha256": "ff58f2310a1b79608e7b0a2b0720201aa8b2f57ec4f6dd309bfb8780c8d4da1f",
+      "originalBytes": 5160994,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · ground floorplate",
+      "area": "Floorplate, no single-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-page-10-b5802ab0428e.webp",
+      "sha256": "b5802ab0428e846b0ff1981b6df1525ee86bc7e19d52663f577bc725ce419ec9",
+      "originalBytes": 387556,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · levels 1–9 floorplate",
+      "area": "Floorplate, no single-home total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-page-11-c65fafc26fd4.webp",
+      "sha256": "c65fafc26fd452ed4284ca338ae59693efae3f5a34549c6bc35abe56cdbb5534",
+      "originalBytes": 375132,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1 mirror · ground",
+      "area": "506.55 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/olfah/plan-page-14-0f821e295199.webp",
+      "sha256": "0f821e29519976110d47968452e98a5b0b68287b88119affc262925da34f716a",
+      "originalBytes": 228202,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1 · ground",
+      "area": "506.55 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/olfah/plan-page-15-b2fa7c3587cc.webp",
+      "sha256": "b2fa7c3587cce087baaf1150486729b97247123835b97532b928526e1aa1ef93",
+      "originalBytes": 226660,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1G mirror · unit 06",
+      "area": "720.21 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/olfah/plan-page-16-2f6566dbdab3.webp",
+      "sha256": "2f6566dbdab352ff56e4ef99451ae45b11d616d5e2a70b6bfa6096cad691cb63",
+      "originalBytes": 224688,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1G mirror · unit 04",
+      "area": "716.66 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/olfah/plan-page-17-5c1b4c3d94be.webp",
+      "sha256": "5c1b4c3d94be99f96b2ef533fa997ced5ab221eb390c8fec867d59d5c9e0e697",
+      "originalBytes": 224778,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1G · unit 05",
+      "area": "716.66 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/alef/olfah/plan-page-18-5acd5ed9fddb.webp",
+      "sha256": "5acd5ed9fddb97758c74f0c0f013d68e9d2cf8113c9c5551114676d5d432ad4d",
+      "originalBytes": 224196,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1GG mirror",
+      "area": "811.38 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/olfah/plan-page-19-d413ef370555.webp",
+      "sha256": "d413ef3705556515b39b5c8ca472ba5abcb8039ad5de30cc9b42ef07fbde869f",
+      "originalBytes": 223772,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.5 mirror · source sheet 20",
+      "area": "692.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/alef/olfah/plan-page-20-d6798fd5faa8.webp",
+      "sha256": "d6798fd5faa8aa005036f89372b504a49597d15ab2fb00d2056d7ddbcf64fb9b",
+      "originalBytes": 229016,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.5 mirror · source sheet 21",
+      "area": "692.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/alef/olfah/plan-page-21-d6798fd5faa8.webp",
+      "sha256": "d6798fd5faa8aa005036f89372b504a49597d15ab2fb00d2056d7ddbcf64fb9b",
+      "originalBytes": 229016,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.5 · ground",
+      "area": "692.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/alef/olfah/plan-page-22-c33bda96157f.webp",
+      "sha256": "c33bda96157f495f13f8a72c385f4ec684ec8047cf6b48c07f60cbe7793bb897",
+      "originalBytes": 227466,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.6G · ground",
+      "area": "756.81 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/alef/olfah/plan-page-23-35f4c89408ff.webp",
+      "sha256": "35f4c89408ffcead34bc67de27cf58ea41ce844bbbcd0e375b64f75d68a02f98",
+      "originalBytes": 225290,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 3 BR D.4G · ground",
+      "area": "2,820.03 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/alef/olfah/plan-page-24-17b4164a369f.webp",
+      "sha256": "17b4164a369f04f9abd5f417f089a599dd43a14a021e59cc7e919f9606af1faa",
+      "originalBytes": 244114,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1 mirror · levels 1–9",
+      "area": "720.21 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/olfah/plan-page-25-e05b739e2b17.webp",
+      "sha256": "e05b739e2b170c9e08333b2f80633b129851057c911e31b68a9b8cd9ac7247d8",
+      "originalBytes": 230834,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1 · levels 1–9",
+      "area": "506.55 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/alef/olfah/plan-page-26-0406a16ec0c3.webp",
+      "sha256": "0406a16ec0c34e69dfddde018d0df9184c228877b6ee586d92bfee57b860343c",
+      "originalBytes": 232300,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1A mirror",
+      "area": "556.71 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/alef/olfah/plan-page-27-a86e4ac6e717.webp",
+      "sha256": "a86e4ac6e717c9a780f9c97a0b8a1e4f81e26e119049c54a65406954e06fa429",
+      "originalBytes": 237076,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1A",
+      "area": "556.71 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/alef/olfah/plan-page-28-d26f6c364b45.webp",
+      "sha256": "d26f6c364b45ae377f3cd051c16080db9dbdb0c1faab17e420fb17ad598b5730",
+      "originalBytes": 232658,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1B mirror",
+      "area": "615.48 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/alef/olfah/plan-page-29-8a8a3aa4f2f2.webp",
+      "sha256": "8a8a3aa4f2f29cd39c83df21a45647f71d0b79f8c299e784b87f6a58b672920c",
+      "originalBytes": 238098,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.1B",
+      "area": "615.48 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/alef/olfah/plan-page-30-a40b157b53ee.webp",
+      "sha256": "a40b157b53ee36c87e6284741d27d414860cc5cb099ee7d930264843cfa3ee62",
+      "originalBytes": 234410,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.5 mirror · source level G",
+      "area": "692.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/alef/olfah/plan-page-31-e8ae4680fbd8.webp",
+      "sha256": "e8ae4680fbd8e913b7e394ace1392899befcba6e3542f23d58f4119bc6b96a70",
+      "originalBytes": 234690,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.5 · levels 1–9",
+      "area": "692.12 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/alef/olfah/plan-page-32-682cb23072c8.webp",
+      "sha256": "682cb23072c8ae39d8bb865d0f7bb7bb4abff056fbf9278e37a83e436e371bf1",
+      "originalBytes": 232296,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.6 mirror",
+      "area": "528.29 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/alef/olfah/plan-page-33-9e72d4129362.webp",
+      "sha256": "9e72d4129362888a44b4f2aa779fb19c935045d94d397ca606f1e030c9b211eb",
+      "originalBytes": 234328,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 1 BR B.6",
+      "area": "528.29 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/alef/olfah/plan-page-34-b2faf67199b0.webp",
+      "sha256": "b2faf67199b0de53a978a5522514a8549257501711efd8399d5e54f1b5a026d2",
+      "originalBytes": 234404,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 1 · 3 BR D.4 · levels 1–9",
+      "area": "1,495.75 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/alef/olfah/plan-page-35-73726cbac781.webp",
+      "sha256": "73726cbac781626faeca921cefcb036e3840f7e38b5a9ae1ac6b403a8e5e77dd",
+      "originalBytes": 251688,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Building 2 · ground and levels 1–10 floorplates",
+      "area": "Floorplates, no single-home total",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-3-dd802f484d69.webp",
+      "sha256": "dd802f484d69656a513e9899f6a8fee4007558456f712953fe15506d4e48dec1",
+      "originalBytes": 486642,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · ground · 1 BR B.1 / B.1B",
+      "area": "B.1 · 510.75 sq ft net / B.1B · 617.74 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-5-3a5a675613ec.webp",
+      "sha256": "3a5a675613ece2c3bc3e9956ae3dcc4d8302cba33b442aa98d7c20dfe95aff1e",
+      "originalBytes": 122796,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · ground · C2.C / C2.D · source bedroom error",
+      "area": "C2.C · 1,179.83 sq ft net / C2.D · 1,232.14 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-6-7c698e5f56ac.webp",
+      "sha256": "7c698e5f56ac6d61784b363a159a35e0df6fcbd5b0518d2ee0cc062692e9a6e4",
+      "originalBytes": 159344,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · ground · 2 BR C.3 / mirror",
+      "area": "1,167.02 sq ft net each",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-7-c27da35e2c28.webp",
+      "sha256": "c27da35e2c28bda0bcdc540394c51cffdbdfbeebf474c1ebe003591fa2511e17",
+      "originalBytes": 183614,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · ground · 3 BR D.2A / D.3",
+      "area": "D.2A · 1,601.88 sq ft net / D.3 · 1,633.53 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-8-16d45c70a96f.webp",
+      "sha256": "16d45c70a96ff55ae22cfa2cb408ab695354d62d6bde86257ecb83786d43708d",
+      "originalBytes": 187594,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · levels 1–10 · B.1B / C.2C mirror",
+      "area": "B.1B · 617.74 sq ft net / C.2C mirror · 1,179.83 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-9-bc195c5ec5d5.webp",
+      "sha256": "bc195c5ec5d5a08af991d0039d94af9955d83c01e9a6e8568514faebe630a30f",
+      "originalBytes": 180022,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · levels 1–10 · 2 BR C.2C / C.2D",
+      "area": "C.2C · 1,179.83 sq ft net / C.2D · 1,232.14 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-10-a16ea420d7f8.webp",
+      "sha256": "a16ea420d7f8c1b0c2fb9c938b0b14baedc3c0e5379b7a8d86428d026981b0f8",
+      "originalBytes": 136870,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · levels 1–10 · 2 BR C.3 / mirror",
+      "area": "1,167.02 sq ft net each",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-11-fe56648fa5fb.webp",
+      "sha256": "fe56648fa5fb536aabe12f49414d6529ef1b66fdf39728f27be9f961f9d2e3d2",
+      "originalBytes": 173524,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · levels 1–10 · C.4 / D.2A",
+      "area": "C.4 · 1,105.99 sq ft net / D.2A · 1,601.88 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-12-333bc5a6a8e7.webp",
+      "sha256": "333bc5a6a8e7bd41b60c0093d18fd10af772067baa7173e213d357cc56f143fc",
+      "originalBytes": 184388,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 2 · levels 1–10 · 3 BR D.3",
+      "area": "1,633.53 sq ft net",
+      "sourceIds": [
+        "plans-plans2"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/olfah/plan-plans2-page-13-86b59063cdeb.webp",
+      "sha256": "86b59063cdebd55044a0634ec6c1642236004e3dbf94edda930478e3fd51dea3",
+      "originalBytes": 201376,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans2-fae1804bb6bf.pdf",
+        "sha256": "fae1804bb6bf544c8f0ec1df0215d52a114df9128659fe45c52858c32d9376f6"
+      }
+    },
+    {
+      "label": "Building 3 pack · floorplates headed Olfah 2",
+      "area": "Source heading disputed, no home total",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-3-dd802f484d69.webp",
+      "sha256": "dd802f484d69656a513e9899f6a8fee4007558456f712953fe15506d4e48dec1",
+      "originalBytes": 486642,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · ground · 1 BR B.1A / mirror",
+      "area": "556.17 sq ft net each",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-5-fdbcf77a8ef3.webp",
+      "sha256": "fdbcf77a8ef3dda9cfb60083c36e1aef81668a3345fd5502b536b89855629086",
+      "originalBytes": 122032,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · ground · 1 BR B.1B / mirror",
+      "area": "617.74 sq ft net each",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-6-bd981ed10016.webp",
+      "sha256": "bd981ed10016ba5b47d66923ea9522d4d1e57b41e909e86c552769369a272a55",
+      "originalBytes": 124186,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · ground · 1 BR B.5A / B.7",
+      "area": "B.5A · 674.36 sq ft net / B.7 · 624.63 sq ft net",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-7-f9ca3a52d8eb.webp",
+      "sha256": "f9ca3a52d8eb91e92f99a21399a427952d8822cef5f9934c109207ba297e3ba8",
+      "originalBytes": 120634,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · ground · 2 BR C.2C / C.3",
+      "area": "C.2C · 1,179.83 sq ft net / C.3 · 1,167.02 sq ft net",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-8-1d064e1d3134.webp",
+      "sha256": "1d064e1d3134ee66274b9fbd1e563d6a2bfc3bd22cfaecd1e7f7f164b6163173",
+      "originalBytes": 182022,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · ground · 3 BR D.3 source pair",
+      "area": "1,633.53 sq ft net each",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-9-9700d4a4de3f.webp",
+      "sha256": "9700d4a4de3fff023b4e2a563063bd095b81e0c642d32e5994766c958c7b17bc",
+      "originalBytes": 98854,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · levels 1–11 · 1 BR B.1A / mirror",
+      "area": "556.17 sq ft net each",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-10-cefb8e7c8855.webp",
+      "sha256": "cefb8e7c88553a1d5372c43cf6277268a883f091b6b09b1eaf7efd019499ea6d",
+      "originalBytes": 124588,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · levels 1–11 · B.1A / B.1B mirror",
+      "area": "B.1A · 556.17 sq ft net / B.1B mirror · 617.74 sq ft net",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-11-59302d6ab540.webp",
+      "sha256": "59302d6ab540590bbbfe4e4fec5267a57287e44594cd0b2faacf65d772fc09a4",
+      "originalBytes": 176054,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · levels 1–11 · B.1B / C.2C",
+      "area": "B.1B · 617.74 sq ft net / C.2C · 1,179.83 sq ft net",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-12-497982beb959.webp",
+      "sha256": "497982beb9593c6e9dc921288778e38547f6fe5b2c262042bac7d2b14ad1a3c5",
+      "originalBytes": 164590,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · levels 1–11 · 2 BR C.3 source pair",
+      "area": "1,167.02 sq ft net each",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-13-4bcca9bc70bb.webp",
+      "sha256": "4bcca9bc70bb9ea2b4e369dfaf8a67b3e1051c6225d9256b4d5b9c906a5a2cf9",
+      "originalBytes": 92874,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 3 · levels 1–11 · C.5 / D.3",
+      "area": "C.5 · 1,245.06 sq ft net / D.3 · 1,633.53 sq ft net",
+      "sourceIds": [
+        "plans-plans3"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/olfah/plan-plans3-page-14-a7ae07e7ac27.webp",
+      "sha256": "a7ae07e7ac2761442c9461752bc8f95f2c7987bbf1fba46410c783e7cc28e380",
+      "originalBytes": 180076,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans3-1d01b2ac95a6.pdf",
+        "sha256": "1d01b2ac95a6c7c36c88e0752347979aad9691fda03110ae3cb0d66927f090f4"
+      }
+    },
+    {
+      "label": "Building 4 · first and typical floorplates",
+      "area": "Floorplates, no single-home total",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-4-ccc668a0bf2f.webp",
+      "sha256": "ccc668a0bf2f3ee8e5f8aa958715b5c32669f03df98569d19f5b34b19ac40462",
+      "originalBytes": 408424,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · levels 2–11 · 1 BR B.2 / B.1",
+      "area": "B.2 · 602.02 sq ft net / B.1 · 506.98 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-6-051cc17dc994.webp",
+      "sha256": "051cc17dc99402e0c2d734fee545f154dfe2c00effa510d6659ebe7183fac0e6",
+      "originalBytes": 104952,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · level 1 · 1 BR B.2 / B.1",
+      "area": "B.2 · 602.02 sq ft net / B.1 · 506.98 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-7-22a59c93ad2c.webp",
+      "sha256": "22a59c93ad2c59a9f26267882c25085d2b1f0b5bb03d544e5252a70d844f8ad5",
+      "originalBytes": 106514,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · 1 BR B.3 / B.2 mirror",
+      "area": "B.3 · 667.58 sq ft net / B.2 mirror · 602.02 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-8-10113cdb610c.webp",
+      "sha256": "10113cdb610c3bc715fc6c8eb6d51c0fffb835c453ebcde42ce2716e17ad14c9",
+      "originalBytes": 103664,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · 1 BR B.1B / mirror",
+      "area": "610.42 sq ft net each",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-9-1679e22963f7.webp",
+      "sha256": "1679e22963f7675072083b8a7e67ded09f6719657067d41be8f56ef2a772c7d2",
+      "originalBytes": 101168,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · levels 2–11 · 2 BR C.2C1",
+      "area": "1,154.21 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-10-e949a6033805.webp",
+      "sha256": "e949a6033805a883f2d6360068203666d2b27166ad814e0f2925b0d5d6f77339",
+      "originalBytes": 149394,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · C.2C1 level 1 / C.2C levels 1–11",
+      "area": "C.2C1 · 1,154.21 sq ft net / C.2C · 1,174.88 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-11-fa5b62997600.webp",
+      "sha256": "fa5b629976003aa0858ce24d63823ae4a15f0b1975bb9b3a2df0f6d48c3c3940",
+      "originalBytes": 116292,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · 2 BR C.2A / C.2",
+      "area": "C.2A · 1,259.48 sq ft net / C.2 · 1,244.52 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-12-2bc5fbde39da.webp",
+      "sha256": "2bc5fbde39da53ccba4cde2e0cbbf73539c0fab69c5176ad290897190cc85787",
+      "originalBytes": 153230,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · level 1 · 3 BR D.3",
+      "area": "1,633.96 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-14-a963ecf58647.webp",
+      "sha256": "a963ecf58647952532dbfd41fb1ce60f415f5638c1c168d52bef23fbf4ee08c8",
+      "originalBytes": 115984,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 4 · levels 2–11 · 3 BR D.3",
+      "area": "1,633.96 sq ft net",
+      "sourceIds": [
+        "plans-plans4"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/olfah/plan-plans4-page-15-30280b8f17d7.webp",
+      "sha256": "30280b8f17d794e6bcf1d8211cbeaa3008a3e118c471124a1c143e45c4bfd023",
+      "originalBytes": 116094,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans4-850fc86aec24.pdf",
+        "sha256": "850fc86aec24efa2b86914803c8c188d307c40d338079ecb49351d6311824b44"
+      }
+    },
+    {
+      "label": "Building 5 · ground and typical floorplates",
+      "area": "Floorplates, no single-home total",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-4-e28b58084cc3.webp",
+      "sha256": "e28b58084cc305eed927e9681f02d5c1d3696f77f2ce81f361f3fb40c41a28c6",
+      "originalBytes": 367776,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · levels 1–11 · 1 BR B.7",
+      "area": "617.96 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-5-b959cb071936.webp",
+      "sha256": "b959cb071936f767b3482750520fefc7bbc5fb9e0a6feb0e25a879d596f47ea4",
+      "originalBytes": 143430,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 1 BR B.1 / B.2A",
+      "area": "B.1 · 506.76 sq ft net / B.2A · 650.57 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-6-380e495fadfa.webp",
+      "sha256": "380e495fadfa01573a7049b3b01472a9b21ad65e0f2eb0f9a713cd8821f9f4cf",
+      "originalBytes": 110186,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 1 BR B.1D / B.1A",
+      "area": "B.1D · 659.72 sq ft net / B.1A · 557.68 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-7-30e05c39e509.webp",
+      "sha256": "30e05c39e50950da1f40af9c23974e7ac87232a4500a847ee695e46d75f910a9",
+      "originalBytes": 110378,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 1 BR B.1A mirror / B.7",
+      "area": "B.1A mirror · 557.68 sq ft net / B.7 · 617.96 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-8-f2b7c279b5b4.webp",
+      "sha256": "f2b7c279b5b4941c71af7e27329cdb04dbc8ff4b4829fcac6c3f630eae848abb",
+      "originalBytes": 116782,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · levels 1–11 · 2 BR C.4 / C.2C",
+      "area": "C.4 · 1,094.37 sq ft net / C.2C · 1,174.45 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-10-f11f723970f3.webp",
+      "sha256": "f11f723970f3f23aa373c134a2123cfd98ffd16c921da94125c449b84c4a6fd9",
+      "originalBytes": 123598,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 2 BR C.1 / C.2C mirror",
+      "area": "C.1 · 1,186.83 sq ft net / C.2C mirror · 1,174.45 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-11-5b71ec38d46a.webp",
+      "sha256": "5b71ec38d46a97313486745d74679f1151b5d3022baf4f42a88fca9145a2cb0b",
+      "originalBytes": 144832,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 2 BR C.2A / mirror",
+      "area": "1,266.37 sq ft net each",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-12-7fbbd0baf79e.webp",
+      "sha256": "7fbbd0baf79e2b8d75f749ef2be4663c30556b4182590af9275bc0bb79781e02",
+      "originalBytes": 156004,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · ground · 2 BR C.2C / C.1",
+      "area": "C.2C · 1,174.45 sq ft net / C.1 · 1,186.83 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-13-c6c0443d1556.webp",
+      "sha256": "c6c0443d1556a42192f33dde4bebfed40cbac065971c9f6764a461abd6f70a4e",
+      "originalBytes": 146018,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Building 5 · 3 BR D.4A",
+      "area": "1,509.96 sq ft net",
+      "sourceIds": [
+        "plans-plans5"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/olfah/plan-plans5-page-15-787c0c170a18.webp",
+      "sha256": "787c0c170a18d9d2c77c5fdaf0e1d24d605d04198bbd3f4989bd7a58b79756c2",
+      "originalBytes": 111366,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-plans5-5513c306d9dd.pdf",
+        "sha256": "5513c306d9ddca715d287ba180ce0a0788a798e5d83687a563e8b19a54c4d443"
+      }
+    },
+    {
+      "label": "Olfah · current brochure regional map",
+      "area": "Regional context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-7-91a7bb648754.webp",
+      "sha256": "91a7bb6487549c957014c52a7bd93c943ba22446db11d5fc8e105fa231a5279b",
+      "originalBytes": 1308744,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current brochure community overview",
+      "area": "Community context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-8-031365f345e9.webp",
+      "sha256": "031365f345e9e89553f3cd7015198a0727ca0e5a66ab27b68fb67e443abf23db",
+      "originalBytes": 3507278,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current marked Building 1",
+      "area": "Building context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-10-a9df87ea9ef6.webp",
+      "sha256": "a9df87ea9ef685b27433ebb9402362beeb7aa0cae081905a6e7e3475dbd26f9f",
+      "originalBytes": 2749064,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current marked Building 2",
+      "area": "Building context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-11-983b5a2d99ba.webp",
+      "sha256": "983b5a2d99ba5d6b7acd58ae4bab0ef182d0b3389540c51a98acb1df15b3ab70",
+      "originalBytes": 2759782,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current marked Building 3",
+      "area": "Building context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-12-e84fcbcc8bac.webp",
+      "sha256": "e84fcbcc8bacf628316d9f72ce6006c734c53e940e43c3e876475ebecbe8d8ea",
+      "originalBytes": 2754026,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current marked Building 4",
+      "area": "Building context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-13-339d95f36d9c.webp",
+      "sha256": "339d95f36d9c1dce4929562733e79f19b5d20a5c3decbfdd5f1ad43a5ddaa641",
+      "originalBytes": 2764368,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    },
+    {
+      "label": "Olfah · current marked Building 5",
+      "area": "Building context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/olfah/plan-brochure-page-14-ddd47d054550.webp",
+      "sha256": "ddd47d054550b8be01d0570402c701751c0f2198dc5769003e3d0fcf6e6ce349",
+      "originalBytes": 2769020,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "label": "Olfah · current original Alef brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/olfah/floor-plans-brochure-cbfeee4c917b.pdf",
+        "sha256": "cbfeee4c917bfbc4bf41e1e39b965072b775b48de6a1ba762ac6b7a87e19c1e9"
+      }
+    }
+  ]
+}

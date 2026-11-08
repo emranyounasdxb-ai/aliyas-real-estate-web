@@ -1,0 +1,219 @@
+{
+  "projectId": "modon-project-07",
+  "projectSlug": "nawayef-park-views",
+  "developerSlug": "modon",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/nawayef-park-views/NAWAYEF_PARK_VIEWS_FLOOR_PLANS.pdf",
+    "label": "Nawayef Park Views · complete original Modon drawing pack, Mitchells broker mirror",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/modon/nawayef-park-views/floor-plans-cbde087a1d6f.pdf",
+    "sha256": "cbde087a1d6f7c7b7fcea78309875b2cb0fe99db685d6090998d1634062ccb0f"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare twenty-three apartment samples across twelve complete original spreads, with their printed areas and building keys.",
+  "selectorLabel": "Choose a complete apartment spread or original community map",
+  "note": "Paired spreads retain both layouts. Areas follow their left-to-right order. Type C prints 195.7 m² while 169.2 + 26.6 totals 195.8 m². Some room-table type labels differ from their sheet headers, including three-bedroom B1 and four-bedroom A. Original notices and keys remain intact. Confirm the contracted type, level, revision and area basis.",
+  "plans": [
+    {
+      "label": "1 BR · A1 / A2",
+      "area": "101.30 / 140.6 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-2-a3238bca7c3b.webp",
+      "sha256": "a3238bca7c3b90908b65acbf26f46120ee4de6e297eae5c907283517370accb9",
+      "originalBytes": 402896,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR · A3 / B1",
+      "area": "127.48 / 96.79 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-3-c1b1cfac4d14.webp",
+      "sha256": "c1b1cfac4d14eeddeeeee22172258af264495aa12a9ee1eb4ef43ffccf00ebbc",
+      "originalBytes": 403966,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "1 BR · B2 / C1",
+      "area": "134.39 / 121.96 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-4-bb1e72d99500.webp",
+      "sha256": "bb1e72d995004a9d33ec10f4da25c0c63a7dd10f4df575560e73163bff04ec17",
+      "originalBytes": 318842,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · A1 / A2",
+      "area": "162.8 / 170.14 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-5-16c2b751b23c.webp",
+      "sha256": "16c2b751b23ce51e50f07ea2ea06bf5e708c678c1d973b169414685a667bb862",
+      "originalBytes": 677178,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · A3 / A4",
+      "area": "205.26 / 205.56 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-6-e9d1a26d376d.webp",
+      "sha256": "e9d1a26d376d85ea79b2df13f3bf731bcf37b227aafed21376dbd583ec893a1f",
+      "originalBytes": 469742,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · A5 / B1",
+      "area": "196.12 / 181.38 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-7-ccc98041bafa.webp",
+      "sha256": "ccc98041bafa3b708a53735f67b865877d5d46d1484d33d431bfda419641b81e",
+      "originalBytes": 481456,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · B2 / B3",
+      "area": "254.56 / 198.7 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-8-30f8e456cf60.webp",
+      "sha256": "30f8e456cf60fe0975a0fa98bb9fd0f260295b3a32abbe0971ef1dbd752198ae",
+      "originalBytes": 460448,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · C / D1 · Type C disputed",
+      "area": "195.7 / 226.5 m² printed GSA · Type C components total 195.8 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-9-9885c76d0bc9.webp",
+      "sha256": "9885c76d0bc9b1bcec404d8349c5ebd7229c5b23f3a38822b720f18514c7869f",
+      "originalBytes": 495252,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · D2 / E",
+      "area": "179.28 / 208.39 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-10-5c829187da70.webp",
+      "sha256": "5c829187da70f7125483aec285e56fed2c53f7001c2b4ec46e41b32791085f36",
+      "originalBytes": 494470,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · A1 / A2",
+      "area": "232.56 / 272.4 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-11-32e067be1644.webp",
+      "sha256": "32e067be1644bba4892c01d88eee93b95e76b04b0397cf4a3aa3bb267365385c",
+      "originalBytes": 597002,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · A3 / B1",
+      "area": "283.37 / 305.77 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-12-f5a6e37c992c.webp",
+      "sha256": "f5a6e37c992c61e627ad5430f5c75f91a8b4930ce0014039ff2e0988fb255ce9",
+      "originalBytes": 556338,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "4 BR · Type A",
+      "area": "495.25 m² printed GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/modon/nawayef-park-views/plan-page-13-164b53a0ea96.webp",
+      "sha256": "164b53a0ea96a5fd87b29a656b2475f0919fc875edce939bf346e9cb9a0e7887",
+      "originalBytes": 1683152,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Original regional location map",
+      "area": "Community context, no apartment area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/modon/nawayef-park-views/plan-brochure-page-9-f9db8252846b.webp",
+      "sha256": "f9db8252846b0364d8caa1dd1fde9a6edf782f15ab81a79fb870ed2a6eeebf30",
+      "originalBytes": 167888,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/nawayef-park-views/NAWAYEF_PARK_VIEWS_BROCHURE_WITH_FLOORPLANS.pdf",
+        "label": "Nawayef Park Views · complete original Modon brochure, Mitchells broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-park-views/floor-plans-brochure-b1d020159a5f.pdf",
+        "sha256": "b1d020159a5fe23eefdaae7132789a0911ba71ccfe3442dfc9da014af1b67451"
+      }
+    },
+    {
+      "label": "Original Hudayriyat Island master plan",
+      "area": "Community context, no apartment area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/modon/nawayef-park-views/plan-brochure-page-10-1790c29b74c9.webp",
+      "sha256": "1790c29b74c95772fe97b5783cd2855c84018d3268f515e19e129a1aecb78521",
+      "originalBytes": 5314952,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/nawayef-park-views/NAWAYEF_PARK_VIEWS_BROCHURE_WITH_FLOORPLANS.pdf",
+        "label": "Nawayef Park Views · complete original Modon brochure, Mitchells broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-park-views/floor-plans-brochure-b1d020159a5f.pdf",
+        "sha256": "b1d020159a5fe23eefdaae7132789a0911ba71ccfe3442dfc9da014af1b67451"
+      }
+    }
+  ]
+}

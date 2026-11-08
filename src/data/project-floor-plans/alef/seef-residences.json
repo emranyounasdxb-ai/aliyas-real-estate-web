@@ -1,0 +1,348 @@
+{
+  "projectId": "alef-project-01",
+  "projectSlug": "seef-residences",
+  "developerSlug": "alef",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/19c95b908f634bcd95107e712792f450.pdf",
+    "label": "Seef B3 and B4 · original Alef apartment drawings, broker-hosted mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/alef/seef-residences/floor-plans-5040fbece334.pdf",
+    "sha256": "5040fbece3342b4476b6fe2c78292ee677b87b28dbe0fc450be7445ad421ea15"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the published B3 and B4 layouts, including garden homes, duplexes and penthouses.",
+  "selectorLabel": "Choose a complete B3 or B4 residence drawing",
+  "note": "All 25 original drawing sheets remain complete. Values are printed total areas, including outdoor space where shown. Paired figures describe separate homes. Duplex totals cover both levels and are shown once. Rounded factsheet NSA figures use a different scope. Detailed B1, B2 and B5 drawings remain unavailable. Interiors and terrace-pool renders illustrate selected design concepts. Confirm the contracted building, unit, outdoor area, revision and final finishes.",
+  "plans": [
+    {
+      "label": "B3 · 1 BR A / A1",
+      "area": "A · 763.70 sq ft / A1 · 734.85 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/alef/seef-residences/plan-page-2-89ba89b3ccdb.webp",
+      "sha256": "89ba89b3ccdb93440d604576a98615f62029045639090cef1064e158bfdbbf2b",
+      "originalBytes": 138366,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 1 BR AG / B mirror",
+      "area": "AG · 863.37 sq ft / B mirror · 688.89 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/seef-residences/plan-page-3-e72dba2eb8b1.webp",
+      "sha256": "e72dba2eb8b119b030146f9af5dbcf41906ddebb44166fa31e0c84c81d9b1f21",
+      "originalBytes": 143218,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 1 BR B / BG mirror",
+      "area": "B · 688.89 sq ft / BG mirror · 939.15 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/seef-residences/plan-page-4-9dfb7d9f8029.webp",
+      "sha256": "9dfb7d9f8029234edd1d2b3276ffedfa31cc67ce4512c57c504ee41998869c9e",
+      "originalBytes": 141556,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 1 BR BG / CG",
+      "area": "BG · 939.15 sq ft / CG · 1,105.13 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/seef-residences/plan-page-5-b086e8a76dbf.webp",
+      "sha256": "b086e8a76dbf7e7a193acc7647c6973b4cae7403b3a2c7111bb703aafc197593",
+      "originalBytes": 123704,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 1 BR DG",
+      "area": "1,246.78 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/seef-residences/plan-page-6-6a20f47e00b1.webp",
+      "sha256": "6a20f47e00b1da293a695ff8f060fc6d255ac49788b4f984f577856442c1a370",
+      "originalBytes": 301272,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "B3 · 2 BR A / A1 mirror",
+      "area": "A · 1,136.99 sq ft / A1 mirror · 1,164.44 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/seef-residences/plan-page-7-3da96f2bcb4c.webp",
+      "sha256": "3da96f2bcb4ceaaef976466d5f8784035e37a99c5ca3afc758326e091589c459",
+      "originalBytes": 185426,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 2 BR A1 / AG",
+      "area": "A1 · 1,164.44 sq ft / AG · 1,385.96 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/seef-residences/plan-page-8-4133e0689959.webp",
+      "sha256": "4133e0689959b17cf33121db92e6bebe28b9734005f65746dd08e5a1b3f74a3c",
+      "originalBytes": 164326,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 2 BR D / D1",
+      "area": "D · 1,244.09 sq ft / D1 · 1,244.85 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/seef-residences/plan-page-9-9f7b536779bf.webp",
+      "sha256": "9f7b536779bf5f1f810c69064d2f6c638f55d0c73dfbc61e0a7ffcfe3941c783",
+      "originalBytes": 148812,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 2 BR D2 / F mirror",
+      "area": "D2 · 1,192.10 sq ft / F mirror · 1,148.40 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/seef-residences/plan-page-10-9a246b5262ab.webp",
+      "sha256": "9a246b5262ab731bbf10890c5a0bf057f6c39a9bf4e1f3d3c75aa0e3a0f7c317",
+      "originalBytes": 174752,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 2 BR F / FG",
+      "area": "F · 1,148.40 sq ft / FG · 1,336.98 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/seef-residences/plan-page-11-7556eae6885b.webp",
+      "sha256": "7556eae6885be73b9220dd1f67eca2ddc554a0b8ce28c90983a230255e97676a",
+      "originalBytes": 181386,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 3 BR duplex DX-B / DX-C",
+      "area": "DX-B · 2,445.56 sq ft / DX-C · 2,472.68 sq ft, each whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/seef-residences/plan-page-12-4d034380313b.webp",
+      "sha256": "4d034380313b1f02aef4bfd3599c547b08a7251caff374ca1c7a3e2a626fb0e6",
+      "originalBytes": 175956,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 3 BR A / AG",
+      "area": "A · 1,666.47 sq ft / AG · 2,083.25 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/seef-residences/plan-page-13-c43e52987563.webp",
+      "sha256": "c43e529875630a26003997f67391ba832e93601612f4482506e3f3dc552dbcfe",
+      "originalBytes": 167666,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 3 BR B",
+      "area": "1,947.08 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/seef-residences/plan-page-14-53a2cbc70c76.webp",
+      "sha256": "53a2cbc70c76aefbc2e363f208e884c54e9e63e9b43d21e5f28cf8fb2bc0f892",
+      "originalBytes": 537738,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "B3 · 4 BR duplex DX-B · both levels",
+      "area": "3,224.54 sq ft, whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/seef-residences/plan-page-15-bfc1d2a74711.webp",
+      "sha256": "bfc1d2a7471143358fbcb471fd9c0b8de5da9f05a192504e77e2f7471ef0f03a",
+      "originalBytes": 201628,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 4 BR duplex DX-C · both levels",
+      "area": "2,713.69 sq ft, whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/seef-residences/plan-page-16-e8cceaa1d9a9.webp",
+      "sha256": "e8cceaa1d9a9dff4a2e5cb82e1856b574b8052e3c6a2fbc67005672e4ab722d0",
+      "originalBytes": 162370,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B3 · 3 BR / 4 BR penthouses",
+      "area": "3 BR · 4,319.01 sq ft / 4 BR · 5,136.53 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/seef-residences/plan-page-17-6e297e77b577.webp",
+      "sha256": "6e297e77b577b351fbbff3ecf0235e9a32d22af78807533e90ea0253fe639290",
+      "originalBytes": 147852,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 1 BR B.A2 mirror / B.A2",
+      "area": "687.28 sq ft each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/seef-residences/plan-page-19-4ce80cfdaea3.webp",
+      "sha256": "4ce80cfdaea3864870a95a43f01679e85e6a305f756b8b915d1c46390e03f9be",
+      "originalBytes": 138818,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 1 BR B.B1 mirror / B.B1",
+      "area": "664.02 sq ft each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/alef/seef-residences/plan-page-20-dfc4a7408e4d.webp",
+      "sha256": "dfc4a7408e4d235d1e2167c9a173528aa98eb9e9557407d5ad02863cf84bacf5",
+      "originalBytes": 129242,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 1 BR B.B1G mirror / B.B1G",
+      "area": "909.55 sq ft each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/alef/seef-residences/plan-page-21-9d0a5d1c6f5a.webp",
+      "sha256": "9d0a5d1c6f5ada45170b6afa302b5c0c57a31c07e48e9a03d0fae134cfd8a8e4",
+      "originalBytes": 133074,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 2 BR B.B mirror / B.B",
+      "area": "1,069.72 sq ft each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/alef/seef-residences/plan-page-22-77b51f5e00b9.webp",
+      "sha256": "77b51f5e00b9c7d10923c59cccae22e4f1f8c3af020abc6129f58a4568fbc336",
+      "originalBytes": 171920,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 2 BR B.BG mirror / B.BG",
+      "area": "1,449.14 sq ft each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/alef/seef-residences/plan-page-23-6a578e7ee3ea.webp",
+      "sha256": "6a578e7ee3eab12af090b3976fb73c8c75d7f622b928e5fc444740720c5dce66",
+      "originalBytes": 155624,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 2 BR B.E / B.G",
+      "area": "B.E · 1,104.81 sq ft / B.G · 948.51 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/alef/seef-residences/plan-page-24-6bb23d943607.webp",
+      "sha256": "6bb23d943607ff193bbb7d89a9d975d6995af47538ef49602a307a4050517469",
+      "originalBytes": 192838,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 2 BR B.GG / B.H",
+      "area": "B.GG · 1,173.48 sq ft / B.H · 1,208.89 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/seef-residences/plan-page-25-c8559f327afd.webp",
+      "sha256": "c8559f327afdd468542486febf859735a8d8efb0898d5c79390100b2f088a513",
+      "originalBytes": 202458,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B4 · 2 BR B.HG",
+      "area": "1,741.06 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/alef/seef-residences/plan-page-26-ce26475eba0d.webp",
+      "sha256": "ce26475eba0d78ccf9e00705fec83fa11ca8c0cfdde839fa025bf3a307bf0e3d",
+      "originalBytes": 354122,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "B4 · 3 BR B.C",
+      "area": "1,579.82 sq ft",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/alef/seef-residences/plan-page-27-ddcedae061ed.webp",
+      "sha256": "ddcedae061ed119361fc36e6dd4462e0750eaeb7b951d4f002c8ed9c0470cc1d",
+      "originalBytes": 426722,
+      "width": 3600,
+      "height": 3600
+    }
+  ]
+}

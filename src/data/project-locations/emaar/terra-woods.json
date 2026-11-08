@@ -1,0 +1,49 @@
+{
+  "projectId": "emaar-project-06",
+  "projectSlug": "terra-woods",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Expo Living",
+  "road": "",
+  "pin": {
+    "latitude": 24.9687215,
+    "longitude": 55.1468036,
+    "sourceUrl": "https://www.emaar.com/en/properties/terra-woods-at-expo-living",
+    "scope": "Official page project pin; exact building access may differ."
+  },
+  "map": {
+    "src": "/images/projects/emaar/terra-woods/location-83ad41e022fa.jpg",
+    "sha256": "83ad41e022faae5f6b53fbdc2ed9f472f4bf8859f6f6a9cbb6e3834effaa601f",
+    "originalBytes": 267485,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_67557ef8bc.jpg",
+    "alt": "Emaar regional diagram locating Expo Living beside Expo City",
+    "scope": "Regional diagram, not to scale; future transport and proposed developments are not operational-service guarantees."
+  },
+  "travelHeading": "Published walking and driving estimates for Expo Living",
+  "travelNote": "Expo City is a published walking estimate; the other destinations are driving estimates. These are community estimates, not live routing or measured distances from a specific home. Starting point, route and traffic can change the journey.",
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf",
+    "page": 3,
+    "scope": "Own brochure page3 visually reviewed; walking and driving distinguished.",
+    "destinations": [
+      {
+        "name": "Expo City · walk",
+        "minutes": 5
+      },
+      {
+        "name": "Al Maktoum International Airport · drive",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina · drive",
+        "minutes": 15
+      },
+      {
+        "name": "Downtown Dubai · drive",
+        "minutes": 35
+      }
+    ]
+  }
+}

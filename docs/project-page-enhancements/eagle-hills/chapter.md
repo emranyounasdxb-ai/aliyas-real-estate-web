@@ -1,0 +1,19 @@
+# Eagle Hills media chapter verified on 7 November 2026
+
+All four protected projects are verified with 58 sourced gallery entries, four owned listing images and 22 complete original drawing choices. Root reviewed original brochure indexes, selected native resources, whole maps and every delivered drawing. All visible numerical panels were checked. Original notices, whole drawing spreads, PDFs and physical source pages remain intact.
+
+Bvlgari Abu Dhabi uses four verified original Eagle Hills mansion, estate and island renders. The public portal brochure identifying Dubai/Jumeira Bay was excluded. Verified Abu Dhabi residential drawings and precise location coordinates remain unavailable. The floor-plan section supplies an explicit dated availability note and original developer/operator links. No substitute drawing or PDF was manufactured. Source links use the existing research citation styling.
+
+Infinity uses thirty original brochure renders and fourteen complete drawings. Twelve original home spreads include both levels, plus original master and regional sheets. Unit and gross area definitions remain distinct. Bliss I prints 651 m² while its metric components total 621 m², and the 49 m²/853 sq ft carport pair conflicts. Spark II contains an extra guest-room entry under its four-bedroom heading. Garden variants lack individual drawings in the reviewed set. Earlier plot and imperial figures differ from the current factsheet.
+
+Ramhan Marina uses twelve scoped architectural/residential renders and two original community drawings. Individual apartment plans and contracted areas remain unavailable. Explicit AI-edited media, the external ChatGPT-hosted poster, villas and generic lifestyle photographs were excluded. Bristol uses twelve native original renders, four unchanged whole apartment JPEG drawings from an independent marketing mirror and two complete original community sheets. Sixteen other broker table layouts lack public drawings in the reviewed set. Belgrade historical photographs and generic lifestyle images were excluded. Bristol hospitality scenes retain shared hotel concept scope, with resident access and private apartment applicability unverified.
+
+Three Ramhan pages retain original community maps and source-qualified driving estimates. Marina's current mosque estimate differs from its factsheet and original regional map. No unverified entrance coordinate, live route or kilometre journey was invented. Bvlgari uses project-name directions because reliable map and travel figures remain unavailable.
+
+Normal-GET source receipts preserve URLs, dates, original bytes and SHA256. Independent checks matched 58 selected native resources and original JPEG plans to their parent PDF resources or web-source receipts. Four own browser cases passed across batches 245b and 246, with five widths in light/dark, reduced motion, four accessibility scans each, own cards and zero badges. The two original Avelia floor-plan regression cases also passed. Root reviewed fresh light/desktop and dark/mobile composites and all owned card crops. The chapter check passed four owned cards and matching hero slides plus eleven unlinked inspiration slides, keyboard enquiry focus/Escape restoration and native mobile plan pan/immediate close. No enquiry was submitted.
+
+Global validation passed 1532 owner-validated manifests, 20498 asset hashes and all 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. Existing commercial text research remains preserved. External handoff still requires asset permissions and large-file storage review.
+
+Optimized main build BABsZzJWajwpfFeqeVfpR is serving http://127.0.0.1:3000 with PID 70820. All four detail routes and owned card images passed final main-preview checks.
+
+Cumulative progress is 511/575, 64 remaining and 23/30 chapters complete. Modon is next.

@@ -1,0 +1,173 @@
+{
+  "id": "aldar-project-14",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/verdesbyhaven/",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "living",
+    "duplex-kitchen",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Haven by Aldar, Dubailand",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/brochure-p8-0.webp",
+      "url": "https://asset.aldar.com/damascus/brochures/Verdes-By-Haven.pdf#page=8",
+      "alt": "Aldar aerial render of Verdes apartment buildings and their internal courtyard in Haven.",
+      "caption": "Verdes apartment buildings within Haven, from Aldar’s brochure, page 8.",
+      "scope": "Apartment development context render. Building entrances are unconfirmed."
+    },
+    "sourceLabel": "Aldar Verdes launch page",
+    "travel": {
+      "sourceUrl": "https://www.aldar.com/verdesbyhaven/",
+      "scope": "Approximate drive from the Verdes development area.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "Verdes is the apartment collection in Haven. Aldar estimates about 25 minutes to Downtown Dubai. Check directions from the building you plan to visit."
+  },
+  "floorPlans": {
+    "label": "Aldar Verdes by Haven brochure and layouts",
+    "introduction": "Compare the apartments and the three two-bedroom duplex layouts. Each duplex sheet shows both levels.",
+    "selectorLabel": "Choose a Verdes by Haven floor plan",
+    "note": "The figures are the published average gross floor areas in square feet, excluding balconies. Confirm the signed plan and area for your apartment.",
+    "cache": "artifacts/project-page-enhancement/verdes-by-haven/brochure.pdf",
+    "url": "https://asset.aldar.com/damascus/brochures/Verdes-By-Haven.pdf",
+    "plans": [
+      {
+        "sourcePage": 32,
+        "label": "1 BR apartment",
+        "area": "730 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "2 BR · Middle",
+        "area": "1,259 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "2 BR · Corner",
+        "area": "1,485 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "2 BR duplex · Type 1",
+        "area": "1,485 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-35.png"
+      },
+      {
+        "sourcePage": 36,
+        "label": "2 BR duplex · Type 2",
+        "area": "1,582 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-36.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "2 BR duplex · Type 3",
+        "area": "1,690 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-37.png"
+      },
+      {
+        "sourcePage": 38,
+        "label": "3 BR with play area",
+        "area": "1,625 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-38.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "3 BR + maid",
+        "area": "1,625 sq ft average GFA",
+        "cache": "artifacts/project-page-enhancement/verdes-by-haven/plan-39.png"
+      }
+    ]
+  },
+  "review": {
+    "images": "Aldar’s Verdes microsite supplies the project-specific elevations and interiors. The official brochure supplies the yoga studio and context aerial, exported from embedded JPEG 2000 images as lossless WebP. Generic lifestyle images were excluded.",
+    "location": "The project brochure page 8 provides a dedicated aerial of Verdes within Haven. The developer launch page gives 25 minutes to Downtown Dubai. A geographic pin for any building was not confirmed.",
+    "floorPlans": "Visually checked all eight plan pages on physical pages 32–39. Areas use the square feet as printed under average GFA, excluding balcony. The brochure’s one-bedroom metric equivalent is printed as 67 m². No conversion or signed-unit area was substituted."
+  },
+  "unavailable": [
+    "Verified building entrances and signed unit dimensions."
+  ],
+  "slug": "verdes-by-haven",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/verdes-by-haven/",
+  "images": [
+    {
+      "name": "towers-and-pool",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/banner-slider-1.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/banner/slider-1.jpg",
+      "label": "Verdes buildings and landscaped pool",
+      "position": "52% 50%",
+      "alt": "Aldar render showing verdes buildings and landscaped pool."
+    },
+    {
+      "name": "garden-court",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/banner-slider-3.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/banner/slider-3.jpg",
+      "label": "Landscaped pool courtyard between Verdes buildings",
+      "position": "50% 50%",
+      "alt": "Aldar render showing landscaped pool courtyard between Verdes buildings."
+    },
+    {
+      "name": "living",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/overview-overview-4.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/overview/overview-4.jpg",
+      "label": "Apartment living room and dining area",
+      "position": "50% 50%",
+      "alt": "Aldar render showing apartment living room and dining area."
+    },
+    {
+      "name": "duplex-kitchen",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/overview-overview-3.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/overview/overview-3.jpg",
+      "label": "Duplex kitchen beside the stairs",
+      "position": "50% 50%",
+      "alt": "Aldar render showing duplex kitchen beside the stairs."
+    },
+    {
+      "name": "bedroom",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/overview-overview-1.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/overview/overview-1.jpg",
+      "label": "Bedroom with a balcony outlook",
+      "position": "50% 50%",
+      "alt": "Aldar render showing bedroom with a balcony outlook."
+    },
+    {
+      "name": "arrival",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/background-banner-4.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/background/banner-4.jpg",
+      "label": "Covered arrival at the apartment buildings",
+      "position": "50% 50%",
+      "alt": "Aldar render showing covered arrival at the apartment buildings."
+    },
+    {
+      "name": "yoga-studio",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/brochure-p19-0.webp",
+      "url": "https://asset.aldar.com/damascus/brochures/Verdes-By-Haven.pdf#page=19",
+      "label": "Yoga studio with garden views",
+      "position": "50% 50%",
+      "alt": "Aldar render showing yoga studio with garden views."
+    },
+    {
+      "name": "pool-terrace",
+      "cache": "artifacts/project-page-enhancement/verdes-by-haven/banner-slider-2.jpg",
+      "url": "https://app-aldarlandingphp-prod-we-001.azurewebsites.net/verdesbyhaven/assets/images/banner/slider-2.jpg",
+      "label": "Pool terrace along the apartment gardens",
+      "position": "50% 50%",
+      "alt": "Aldar render showing pool terrace along the apartment gardens."
+    }
+  ],
+  "cardName": "towers-and-pool"
+}

@@ -1,0 +1,75 @@
+{
+  "projectId": "emaar-project-107",
+  "projectSlug": "montura-2",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/MONTURA-2_floorplan.pdf",
+    "label": "Emaar Montura 2 original floor plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/montura-2/floor-plans-91bd23300551.pdf",
+    "sha256": "91bd23300551d535f75f07b384c9cfae50f75f59e0b33928d8e03a59bf2139f2"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare two three-bedroom and two five-bedroom villa designs. The three-bedroom plans show two floors and the five-bedroom plans show three.",
+  "selectorLabel": "Choose a Montura 2 floor plan",
+  "note": "The selected floor plan includes its key plan, suite, outdoor area and carport. Confirm the signed area and plot for your villa.",
+  "plans": [
+    {
+      "label": "5 BR · Type 1",
+      "area": "5,206.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/montura-2/plan-page-2-032c6e45db47.webp",
+      "sha256": "032c6e45db4780664f5b1c9cf0e33c1409886fbf93e57489a6a004f4468b50a0",
+      "originalBytes": 713246,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "5 BR · Type 2",
+      "area": "5,358.16 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/montura-2/plan-page-3-2d60cb518980.webp",
+      "sha256": "2d60cb518980984dcafa4d17ab38c4496c0a8c76ad3d1f6918e7e4186e4a8993",
+      "originalBytes": 704222,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "3 BR · Type 1",
+      "area": "3,015.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/montura-2/plan-page-4-46ce84a7be2a.webp",
+      "sha256": "46ce84a7be2a960f6bd8de0af0a007ff7b3494d3d52c40104083b89ddcfcfd6f",
+      "originalBytes": 835548,
+      "width": 2400,
+      "height": 1563
+    },
+    {
+      "label": "3 BR · Type 2",
+      "area": "2,948.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/montura-2/plan-page-5-79874e5fadba.webp",
+      "sha256": "79874e5fadbaf47a50b12d7018d6a4bfa01a114c94576c7ea33fac7d9453b5cb",
+      "originalBytes": 823538,
+      "width": 2400,
+      "height": 1563
+    }
+  ]
+}

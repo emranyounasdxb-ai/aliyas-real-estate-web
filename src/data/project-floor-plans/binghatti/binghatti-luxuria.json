@@ -1,0 +1,387 @@
+{
+  "projectId": "binghatti-project-06",
+  "projectSlug": "binghatti-luxuria",
+  "developerSlug": "binghatti",
+  "source": {
+    "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-luxuria-assets/binghatti-luxuria-brochure.pdf",
+    "label": "Binghatti Luxuria brochure · residential plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-5a1a160e43d8.pdf",
+    "sha256": "5a1a160e43d8fa1639cc69f01c7364895fc373032ec22f7999db4dcf90f4cab3"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published apartments and twelve ground-floor retail units.",
+  "selectorLabel": "Choose a Luxuria apartment or retail layout",
+  "note": "Apartment areas use the brochure’s rounded square-foot totals and include balconies. Match the selected type to its title on the shared sheet. Retail figures follow the individual area tables. Retail 02 has conflicting use labels in its source.",
+  "plans": [
+    {
+      "label": "Studio · Type 1",
+      "area": "430 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-24-e445dc7e0e7b.webp",
+      "sha256": "e445dc7e0e7bb67098052f151658911301ef1201b9900f2f8c37827ce79cfb4a",
+      "originalBytes": 1052102,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "Studio · Type 2",
+      "area": "360 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-24-e445dc7e0e7b.webp",
+      "sha256": "e445dc7e0e7bb67098052f151658911301ef1201b9900f2f8c37827ce79cfb4a",
+      "originalBytes": 1052102,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "1 BR · Type 1",
+      "area": "838 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-24-03892ee6ce09.webp",
+      "sha256": "03892ee6ce097b5af011a4717cd9a7f32905947eb4bed959c83c85809b3e5e5c",
+      "originalBytes": 1059288,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "1 BR · Type 2",
+      "area": "652 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-24-03892ee6ce09.webp",
+      "sha256": "03892ee6ce097b5af011a4717cd9a7f32905947eb4bed959c83c85809b3e5e5c",
+      "originalBytes": 1059288,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "1 BR · Type 3",
+      "area": "852 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-26-7c627a0d6e93.webp",
+      "sha256": "7c627a0d6e93c49aae13cfe2ee3749cc3be95b5c0842f3d53d89550262b37424",
+      "originalBytes": 1120270,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "1 BR · Type 4",
+      "area": "742 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-26-7c627a0d6e93.webp",
+      "sha256": "7c627a0d6e93c49aae13cfe2ee3749cc3be95b5c0842f3d53d89550262b37424",
+      "originalBytes": 1120270,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "2 BR · Type 1",
+      "area": "1,859 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-26-2fc1c61f4a83.webp",
+      "sha256": "2fc1c61f4a833855f31b052015dbbfe1ecd4f50f7b9b8069676811e842f64399",
+      "originalBytes": 1041978,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "2 BR · Type 2",
+      "area": "1,356 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-page-26-2fc1c61f4a83.webp",
+      "sha256": "2fc1c61f4a833855f31b052015dbbfe1ecd4f50f7b9b8069676811e842f64399",
+      "originalBytes": 1041978,
+      "width": 2100,
+      "height": 2101
+    },
+    {
+      "label": "Ground floor · Retail overview",
+      "area": "Individual areas are listed on each retail sheet",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-4-d28453cfdfc9.webp",
+      "sha256": "d28453cfdfc9cd2923699c784dfed7edbdd39e2fb0029daac10e10385d7ea9c1",
+      "originalBytes": 561188,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 01 · Convenience / service",
+      "area": "490.76 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-5-ac07a8a55444.webp",
+      "sha256": "ac07a8a55444977153308a8b94bcf395a38bcd71d9f34ddc433363406e40143a",
+      "originalBytes": 46178,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 02",
+      "area": "1,249.80 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-6-5083b75e707b.webp",
+      "sha256": "5083b75e707b06f0333687b06da2475ff77681cf1a8a8dcff209fc3df1f4001c",
+      "originalBytes": 48402,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 03 · Convenience / service",
+      "area": "1,051 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-7-ff4ac78974e3.webp",
+      "sha256": "ff4ac78974e319d899a5b3b385e295e6da9977346c4379c0d68d8d074faa3780",
+      "originalBytes": 49866,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 04 · F&B",
+      "area": "579.31 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-8-007c4fd699c1.webp",
+      "sha256": "007c4fd699c175c0b9dfe5090014d6bed059ff93b5cfa0ffa551f33d1179df61",
+      "originalBytes": 44732,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 05 · F&B",
+      "area": "1,879 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-9-2ae352af3110.webp",
+      "sha256": "2ae352af3110701a1b35cc53c53386f1d72ea1b2fa1d5ac0d24c5e8cf88e8c2e",
+      "originalBytes": 44000,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 06 · F&B",
+      "area": "769.383 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-10-59af8c0f6f40.webp",
+      "sha256": "59af8c0f6f409431039876288fd9829a2e6b9ff1d145f5d02b482cc16d1dfdb0",
+      "originalBytes": 60520,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 07 · F&B",
+      "area": "1,162.00 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-11-41833972e077.webp",
+      "sha256": "41833972e0773ed296fa3a3b2e3edf37245c1f477c9b4672e0980ef24e1a21c8",
+      "originalBytes": 55816,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 08 · Convenience / service",
+      "area": "1,373 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-12-94dc16c20eb7.webp",
+      "sha256": "94dc16c20eb78efb4e49fe0e21bae6244e1ebe5b76e07254dbcf31c0fba2dffd",
+      "originalBytes": 59526,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 09 · Convenience / service",
+      "area": "1,610 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-13-e64d981e8f03.webp",
+      "sha256": "e64d981e8f0344ea37df810941a8e93c3f37d320849b4af84b51f40f6b498549",
+      "originalBytes": 56976,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 10 · Convenience / service",
+      "area": "1,391 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-14-a4a8776b294a.webp",
+      "sha256": "a4a8776b294a40b371d435ea3bc04e46a1e0aedf37d7d05546b87abbf5bfdb2a",
+      "originalBytes": 54014,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 11 · F&B",
+      "area": "1,840 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-15-0eb344bf3552.webp",
+      "sha256": "0eb344bf3552bcb63781714f8b0ad5f995f63c4c4ecb4414f07fe26152098d53",
+      "originalBytes": 44360,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    },
+    {
+      "label": "Retail 12 · F&B",
+      "area": "2,721.44 sq ft published area",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/binghatti/binghatti-luxuria/plan-retail-page-16-a6316e3abe5b.webp",
+      "sha256": "a6316e3abe5bf8351bb0fa899c986e294fc0dbee4e28b2399e72428a9fafc955",
+      "originalBytes": 57828,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/binghatti-luxuria-retail/Retail%20Brochure_Binghatti%20Luxuria.pdf",
+        "label": "Binghatti Luxuria retail brochure · Mitchell’s Commercial Realty mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/binghatti-luxuria/floor-plans-retail-66d15aa6bbb9.pdf",
+        "sha256": "66d15aa6bbb966b892b1bc53db380d0888b6c51b5e3eb2b42bedf31b671c775e"
+      }
+    }
+  ]
+}

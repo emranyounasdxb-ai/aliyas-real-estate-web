@@ -1,0 +1,75 @@
+{
+  "projectId": "nshama-project-17",
+  "projectSlug": "ora",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2024/03/ORA-Floor-Plans-Website-1.pdf",
+    "label": "Nshama Ora apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/ora/floor-plans-256c08f4d541.pdf",
+    "sha256": "256c08f4d541455ec9dcf8dc870a5a0899b141b971a66181daa9718f770b450f"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the one-, two- and three-bedroom layouts published by Nshama.",
+  "selectorLabel": "Choose a Ora apartment layout",
+  "note": "Built-up totals include the balcony. Area ranges follow the printed values. The printed totals for 2 BR Type B and 3 BR Type A can differ from rounded suite and balcony sums by 0.01 sq ft. Confirm the size of the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "623.55–623.77 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/ora/plan-page-1-db8ebca06a46.webp",
+      "sha256": "db8ebca06a465257a486ce5ac2655dac829f1311ffa4e96ca67fb0fbc39aeaf4",
+      "originalBytes": 695322,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "1,010.19 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/ora/plan-page-2-75cf9c093fe5.webp",
+      "sha256": "75cf9c093fe52e3573d9caa7a16f9f2b391b7eb66d0bf2e273f3979a240d4add",
+      "originalBytes": 780274,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "1,186.51–1,186.94 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/ora/plan-page-3-fd98e21b9223.webp",
+      "sha256": "fd98e21b9223ab1750e4fbe9227e9e966a779a49cb0658ff5baf238d8a19d7ad",
+      "originalBytes": 792962,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,521.16 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/ora/plan-page-4-ab7e5f691026.webp",
+      "sha256": "ab7e5f6910263355c474d925fd939c1947b3c303559c807f23e4285190229b15",
+      "originalBytes": 661304,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

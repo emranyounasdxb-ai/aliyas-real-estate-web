@@ -1,0 +1,44 @@
+{
+  "projectId": "azizi-project-01",
+  "projectSlug": "azizi-florence",
+  "developerSlug": "azizi",
+  "checkedOn": "2026-11-06",
+  "community": "Um Fanain, Sharjah",
+  "road": "Along Sheikh Mohammed Bin Zayed Road (E311)",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/azizi/azizi-florence/location-e288d6e583b3.png",
+    "sha256": "e288d6e583b3e2e860819c05a2a3dc1a1f3e26dd1fa7b4df5de1ebfb0ad278e1",
+    "originalBytes": 2805613,
+    "width": 3600,
+    "height": 2455,
+    "sourceUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1788182790383-6b3f7037523522de.pdf#page=9",
+    "alt": "Azizi Florence marked near E311 in Sharjah, with airport and regional road connections.",
+    "scope": "Planned community context and approximate developer travel times.",
+    "caption": "Azizi Florence regional map, developer brochure PDF page 9. REM mirror."
+  },
+  "sourceLabel": "Azizi Florence brochure map · REM mirror",
+  "travel": {
+    "sourceUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1788182790383-6b3f7037523522de.pdf#page=9",
+    "scope": "Approximate developer estimates from the Florence community.",
+    "destinations": [
+      {
+        "name": "Sharjah International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "University of Sharjah",
+        "minutes": 10
+      },
+      {
+        "name": "Emirates Road (E611)",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "The developer map shows Florence on E311. It publishes indicative times for the community. Routes and actual travel time depend on the starting point and traffic."
+}

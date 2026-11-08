@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-20",
+  "projectSlug": "golf-edge",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Emaar South",
+  "road": "",
+  "pin": {
+    "latitude": 24.86011,
+    "longitude": 55.145947,
+    "sourceUrl": "https://www.emaar.com/en/properties/golf-edge-at-emaar-south",
+    "scope": "Developer-published Golf Edge reference point. Confirm the exact building entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/golf-edge/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional diagram locating Emaar South in southern Dubai",
+    "scope": "Regional community diagram, not to scale. Proposed transport shown does not confirm operational service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/397817_brochure_File_2166e8a7ea_prod.pdf",
+    "page": 4,
+    "scope": "Own Golf Edge brochure community driving estimates, visually checked; not live routing.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 5
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 35
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 30
+      },
+      {
+        "name": "Abu Dhabi city centre",
+        "minutes": 50
+      }
+    ]
+  }
+}

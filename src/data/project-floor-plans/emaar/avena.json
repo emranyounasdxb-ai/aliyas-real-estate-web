@@ -1,0 +1,101 @@
+{
+  "projectId": "emaar-project-96",
+  "projectSlug": "avena",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://petkovicproperties.com/wp-content/uploads/2024/07/Emaar-Avena-Floor-Plans.pdf",
+    "label": "Emaar Avena original floor-plan PDF via Petkovic Properties",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/avena/floor-plans-298cff7ba1c5.pdf",
+    "sha256": "298cff7ba1c5d5bf9bb54e57133c38988b7dd1ded6f0fcf7cd3e8e44b2ee6489"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the A and B versions of Gardenia, Lotus, Lily. Each complete sheet shows the three levels and the original area table.",
+  "selectorLabel": "Choose an Avena villa floor plan",
+  "note": "The printed totals exceed the sum of the listed suite, garage and balcony by 258.97–259.40 sq ft. The drawings do not explain the gap. Confirm the signed area for the selected villa.",
+  "plans": [
+    {
+      "label": "4 BR · Gardenia A",
+      "area": "3,709.46 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/avena/plan-page-2-6dbab8e2dcb6.webp",
+      "sha256": "6dbab8e2dcb61ef576d274842b3e2e6135626919e259fb6e6489a2a888e51238",
+      "originalBytes": 1218986,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR · Gardenia B",
+      "area": "3,709.46 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/avena/plan-page-3-2172535b9a1c.webp",
+      "sha256": "2172535b9a1c4511b72856f77bc412f9c19c2265c15c2d336d3d7295e4311367",
+      "originalBytes": 1222350,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR · Lotus A",
+      "area": "3,688.25 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/avena/plan-page-4-e119267256de.webp",
+      "sha256": "e119267256de3d159f0874cef17b33db6c8c7067b66958de3d86626dee7d31da",
+      "originalBytes": 1231594,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR · Lotus B",
+      "area": "3,688.25 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/avena/plan-page-5-2394ec0f464f.webp",
+      "sha256": "2394ec0f464f28e670a8c429a5cbf94b2c83f55940ff6ca0e801e9547bc7cd7e",
+      "originalBytes": 1227606,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR · Lily A",
+      "area": "3,684.59 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/avena/plan-page-6-e7cbe6eaac7b.webp",
+      "sha256": "e7cbe6eaac7bc82e9de408f516d51257ca85eade7881230d72d1c9e0ab798d76",
+      "originalBytes": 1224486,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR · Lily B",
+      "area": "3,684.59 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/avena/plan-page-7-680830479295.webp",
+      "sha256": "680830479295b6a034e99c9be4823f33605e49803ee97ee3a35738b0dbae81b4",
+      "originalBytes": 1224386,
+      "width": 2400,
+      "height": 1696
+    }
+  ]
+}

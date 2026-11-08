@@ -1,0 +1,93 @@
+{
+  "projectId": "danube-project-12",
+  "projectSlug": "diamondz",
+  "developerSlug": "danube",
+  "checkedOn": "2026-11-06",
+  "community": "Uptown Dubai, Jumeirah Lake Towers, Dubai",
+  "road": "First Al Khail Street",
+  "pin": {
+    "latitude": 25.063857,
+    "longitude": 55.14095,
+    "sourceUrl": "https://maps.danubeproperties.com/?location=diamondzbydanube",
+    "scope": "Named project point from Danube’s directions link. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/danube/diamondz/location-c95927f1fba1.jpg",
+    "sha256": "c95927f1fba1c061d47ffe29ff7e3d4ab162f5fc56de483496b7d431a03e6118",
+    "originalBytes": 2053327,
+    "width": 2736,
+    "height": 2660,
+    "sourceUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/diamondz/brochures",
+    "alt": "The Diamondz location in Jumeirah Lake Towers, marked on Danube’s regional map.",
+    "scope": "Developer schematic for orientation.",
+    "caption": "Danube archive brochure location map, page 4."
+  },
+  "sourceLabel": "Diamondz by Danube brochure · page 4",
+  "travel": {
+    "sourceUrl": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/diamondz/brochures",
+    "scope": "Approximate developer estimates from Diamondz in Jumeirah Lake Towers.",
+    "destinations": [
+      {
+        "name": "DMCC Metro Station",
+        "minutes": 2
+      },
+      {
+        "name": "Dubai Marina Mall",
+        "minutes": 3
+      },
+      {
+        "name": "Jumeirah Islands",
+        "minutes": 3
+      },
+      {
+        "name": "Dubai Marina Walk",
+        "minutes": 5
+      },
+      {
+        "name": "Topgolf Dubai",
+        "minutes": 5
+      },
+      {
+        "name": "Ain Dubai",
+        "minutes": 7
+      },
+      {
+        "name": "Skydive Dubai",
+        "minutes": 7
+      },
+      {
+        "name": "Dubai Cruise Terminal",
+        "minutes": 8
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 10
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 10
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 12
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 15
+      },
+      {
+        "name": "Burj Khalifa",
+        "minutes": 18
+      },
+      {
+        "name": "Dubai Frame",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "Station and destination names follow the brochure. Allow for traffic and route changes."
+}

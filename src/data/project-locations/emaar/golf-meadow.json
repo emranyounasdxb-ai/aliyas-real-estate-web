@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-22",
+  "projectSlug": "golf-meadow",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Emaar South",
+  "road": "",
+  "pin": {
+    "latitude": 24.8615125,
+    "longitude": 55.1352969,
+    "sourceUrl": "https://www.emaar.com/en/properties/golf-meadow-at-emaar-south",
+    "scope": "Reference point published on the Golf Meadow page, also used by Emaar for other Emaar South releases. Confirm the exact building entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/golf-meadow/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional diagram locating Emaar South in southern Dubai",
+    "scope": "Regional community diagram, not to scale. Proposed transport shown does not confirm operational service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/Golf-Meadow_brochure.pdf",
+    "page": 3,
+    "scope": "Own Golf Meadow brochure community driving estimates, visually checked; not live routing.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 5
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 35
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 30
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "projectId": "aldar-project-07",
+  "projectSlug": "yas-park-place",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "community": "Beside Yas Park, Yas Island",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/aldar/yas-park-place/location-67ba87a3a8d5.png",
+    "sha256": "67ba87a3a8d59dd7846f3d969dd4891578e1e7cb81956e4f1941c27617155f8d",
+    "originalBytes": 917852,
+    "width": 2400,
+    "height": 1350,
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/3574cab1361745d6a7e4a5a9e9480537.pdf#page=5",
+    "alt": "Aldar schematic marking Yas Park Place beside Yas Park and listing Yas Island connections.",
+    "scope": "Yas Island context and approximate project position. No entrance pin verified.",
+    "caption": "Aldar’s Yas Island diagram, brochure page 5. Planned destinations and drive estimates are as shown in the brochure."
+  },
+  "sourceLabel": "Aldar brochure · page 5 · Reelly-hosted copy",
+  "travelHeading": "Approximate drives from Yas Island in the Aldar brochure",
+  "travel": {
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/3574cab1361745d6a7e4a5a9e9480537.pdf",
+    "page": 5,
+    "scope": "Yas Island estimates rather than unit-specific routes.",
+    "destinations": [
+      {
+        "name": "Zayed International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "Saadiyat Island",
+        "minutes": 20
+      },
+      {
+        "name": "Abu Dhabi Corniche",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "Aldar’s Yas Island estimates pair these trips with 10 km, 20 km and 28 km, respectively. Distances and times from your building can differ."
+}

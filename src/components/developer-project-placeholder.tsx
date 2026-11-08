@@ -4,6 +4,7 @@ import { ArrowUpRight, BedDouble, MapPin } from 'lucide-react';
 import type { DeveloperProjectRecord } from '@/lib/developer-projects';
 import { developerProjectHref } from '@/lib/developer-project-url';
 import { formatPrice } from '@/lib/content';
+import { getProjectMedia } from '@/lib/project-media';
 import './developer-project-card.css';
 
 /** Design slots stay separate from the catalogue until approved inventory is supplied. */
@@ -15,11 +16,22 @@ export function DeveloperProjectPlaceholder({
   developerName: string;
 }) {
   const href = developerProjectHref(project);
+  const media = getProjectMedia(project);
+  const cover = media?.images.find((image) => image.src === media.cardImage) || media?.images[0];
+  const locationParts = (project.research?.community || project.location || '')
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+  const emirate = project.emirate?.trim();
+  if (emirate && locationParts.at(-1)?.toLowerCase() !== emirate.toLowerCase()) {
+    locationParts.push(emirate);
+  }
   return (
     <article
       className="project-card developer-project-placeholder"
       data-developer={project.developerSlug}
       data-project-id={project.id}
+      data-official-renders={Boolean(media) || undefined}
     >
       <div className="project-card-visual">
         <Link
@@ -28,27 +40,22 @@ export function DeveloperProjectPlaceholder({
           aria-label={`Explore ${project.name}`}
         >
           <Image
-            src={project.image}
-            alt="Illustrative architecture for a project design preview"
+            src={cover?.src || project.image}
+            alt={cover?.alt || 'Illustrative architecture for a project design preview'}
             fill
             sizes="(max-width:700px) 90vw, (max-width:1050px) 44vw, 29vw"
+            quality={media ? 85 : undefined}
+            placeholder={cover?.blurDataURL ? 'blur' : 'empty'}
+            blurDataURL={cover?.blurDataURL}
+            style={cover ? { objectPosition: cover.position } : undefined}
           />
         </Link>
-        <span className="project-card-badge">
-          {project.nameSource
-            ? 'Illustrative image'
-            : project.placeholder
-              ? 'Design preview'
-              : 'Off-plan'}
-        </span>
         <span className="project-card-developer">BY {developerName.toUpperCase()}</span>
       </div>
       <div className="project-card-body">
         <p className="project-location">
           <MapPin size={12} aria-hidden="true" />
-          {[project.research?.community || project.location, project.emirate]
-            .filter(Boolean)
-            .join(', ') || 'Location pending'}
+          {locationParts.join(', ') || 'Location pending'}
         </p>
         <div className="project-title-row">
           <h3>

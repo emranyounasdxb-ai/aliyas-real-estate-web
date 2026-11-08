@@ -1,0 +1,291 @@
+{
+  "projectId": "ellington-project-17",
+  "projectSlug": "belmont-residences",
+  "developerSlug": "ellington",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_FLOOR_PLANS.pdf",
+    "label": "Ellington Belmont floor plans · Mitchells mirror",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/ellington/belmont-residences/floor-plans-54a76c0855a9.pdf",
+    "sha256": "54a76c0855a9b45eeb5a7b5e699f33c20d805b3ca6f31de7813bb39540a19fbe"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 1451,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare studios, apartments, amenity floors and typical floor layouts using the original Belmont drawings.",
+  "selectorLabel": "Choose a Belmont residence or floor plan",
+  "note": "Areas follow the printed totals. The brochure names the 805.89 sq ft drawing 1 BR Type B. The separate plan file labels that same layout 2 BR Type B, although it depicts one bedroom. Studio Type B and 2 BR Type C also have differing internal figures across the two sources. The 1 BR Type C terrace drawing’s printed components add to 768.76 sq ft and its stated total is 768.87 sq ft. Confirm the applicable unit plan and area.",
+  "plans": [
+    {
+      "label": "Studio Type A",
+      "area": "414.30 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-4-545fc49e3c8b.webp",
+      "sha256": "545fc49e3c8b4fd42c00425201245a05f5d39ac7061d10902a73d0ae76dabd10",
+      "originalBytes": 100380,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Studio Type B",
+      "area": "654.34 sq ft total living area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/ellington/belmont-residences/plan-brochure-page-23-25a2b95f7f79.webp",
+      "sha256": "25a2b95f7f7935dded93a15cbf6a621b7a6463e701e224d78c0edaa2c0f986bd",
+      "originalBytes": 116516,
+      "width": 1450,
+      "height": 1450,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_BROCHURE.pdf",
+        "label": "Ellington Belmont brochure and alternate plan sheets · Mitchells mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/ellington/belmont-residences/floor-plans-brochure-85a3c77ccbb5.pdf",
+        "sha256": "85a3c77ccbb5617277edf2884fc15b73be9f047927f693db959de2049ab08b96"
+      }
+    },
+    {
+      "label": "1 BR Type A",
+      "area": "739.14 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-5-3c47d90f6a0e.webp",
+      "sha256": "3c47d90f6a0e73026bfa9a9ef2a640d50e44ff4eb6737dc51fb949e9dcdf93be",
+      "originalBytes": 82978,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "1 BR Type A with terrace",
+      "area": "973.70 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-5-4f94303ac889.webp",
+      "sha256": "4f94303ac8890950c886080eb24b8c4af0012f7eb6b9ce3c1fcc26e25ee37e9f",
+      "originalBytes": 93176,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "1 BR Type B",
+      "area": "805.89 sq ft total living area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/ellington/belmont-residences/plan-brochure-page-25-bae899faa447.webp",
+      "sha256": "bae899faa447ee070d473062f6c230ad7df76bb0eff20d3da58c00c6eaa6f57f",
+      "originalBytes": 94430,
+      "width": 1450,
+      "height": 1450,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_BROCHURE.pdf",
+        "label": "Ellington Belmont brochure and alternate plan sheets · Mitchells mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/ellington/belmont-residences/floor-plans-brochure-85a3c77ccbb5.pdf",
+        "sha256": "85a3c77ccbb5617277edf2884fc15b73be9f047927f693db959de2049ab08b96"
+      }
+    },
+    {
+      "label": "1 BR Type C with terrace",
+      "area": "768.87 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-6-fff481ac91f3.webp",
+      "sha256": "fff481ac91f313c017e354debec803f6e630d1053f102b7e0d5f33a33b97e2a3",
+      "originalBytes": 80412,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type A",
+      "area": "1,142.80 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-7-7c8f65138ecf.webp",
+      "sha256": "7c8f65138ecfd6e304b4c5b25cb3433d24104d2d92663355dc8e425da44384bb",
+      "originalBytes": 90374,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type A with courtyard view",
+      "area": "1,188.87 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-7-42fe487ba778.webp",
+      "sha256": "42fe487ba7787f2fc69974476c18effd14b234b95fc4a555a8da1431fcdda3ab",
+      "originalBytes": 190606,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type B",
+      "area": "1,287.04 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-8-ad536e33c0ba.webp",
+      "sha256": "ad536e33c0bac7ed698b79b3b49e2aba912c72b47113744561d34a957565f4b3",
+      "originalBytes": 195536,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type C",
+      "area": "1,275.74 sq ft total living area",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/ellington/belmont-residences/plan-brochure-page-27-0c73e46a3e75.webp",
+      "sha256": "0c73e46a3e755bdf35e2a30517b256927de1b99de4b83ce67eff5d2fb2c97549",
+      "originalBytes": 128160,
+      "width": 1450,
+      "height": 1450,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/belmont-residences/BELMONT_RESIDENCES_BROCHURE.pdf",
+        "label": "Ellington Belmont brochure and alternate plan sheets · Mitchells mirror",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/ellington/belmont-residences/floor-plans-brochure-85a3c77ccbb5.pdf",
+        "sha256": "85a3c77ccbb5617277edf2884fc15b73be9f047927f693db959de2049ab08b96"
+      }
+    },
+    {
+      "label": "2 BR Type D",
+      "area": "1,229.78 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-9-c112581c2b5f.webp",
+      "sha256": "c112581c2b5f79ccc7751cbefd178dd7f72a97f51a2270b78c34dc4fdb5fcd2b",
+      "originalBytes": 99036,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type D with terrace",
+      "area": "1,534.83 sq ft total living area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-9-79e8c21a3d54.webp",
+      "sha256": "79e8c21a3d54ae9126e584df5ea185c1678acf673d05c9ee059863522b8aa700",
+      "originalBytes": 106414,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Ground-floor amenities",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-2-3106688d52bb.webp",
+      "sha256": "3106688d52bb3d03acbbf013997369b8186502601612d60919b59d0255df671f",
+      "originalBytes": 196302,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "First-floor amenities",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-2-02e2e8b714f1.webp",
+      "sha256": "02e2e8b714f14673f5f1288830e8fbb3e5ea4e5de537661fbd967dc5c0fb06dd",
+      "originalBytes": 516438,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Floor 1",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-3-baa6ae36ad5f.webp",
+      "sha256": "baa6ae36ad5fee51540adca6b1b09f2fd1e5c17fdfe7d23cf9bad82dcce776ac",
+      "originalBytes": 213530,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Typical floors 2–5",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-3-ba74f0cac4b1.webp",
+      "sha256": "ba74f0cac4b1a4acffe4dd82571388d01e70213cf9f38c4e855b5056bdb84988",
+      "originalBytes": 153194,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Studio Type B · alternate plan issue",
+      "area": "654.34 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-4-e1df04ae44df.webp",
+      "sha256": "e1df04ae44df09126d5c6604c320fea0a65dbe0c34de9ef1d521ec7332b070cb",
+      "originalBytes": 106140,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "Type B · alternate heading",
+      "area": "805.89 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-6-d8289c1b31d3.webp",
+      "sha256": "d8289c1b31d3b8226e8639977e97515e608a61606a7f7a7aa0839fe94aedcfb5",
+      "originalBytes": 83992,
+      "width": 1450,
+      "height": 1451
+    },
+    {
+      "label": "2 BR Type C · alternate plan issue",
+      "area": "1,275.74 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/ellington/belmont-residences/plan-page-8-43c5c6c6177e.webp",
+      "sha256": "43c5c6c6177ecda3e9521cad9046f61e1ea78ff7168ee261a9cb55f6ca0623ac",
+      "originalBytes": 98590,
+      "width": 1450,
+      "height": 1451
+    }
+  ]
+}

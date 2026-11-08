@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-18",
+  "projectSlug": "elva",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/ELVA_TV_FLOORPLAN.pdf",
+    "label": "Emaar: Elva complete townhouse plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/elva/floor-plans-ee40b50a6843.pdf",
+    "sha256": "ee40b50a68430fac3e88a36d21a8d39330abb848d2938d68ed19318eaa4d3569"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore Elva’s Ravine and Nash three and four bedroom layouts. Published built-up area includes suite, garage and balcony or terrace components. Some source tables and unit labels are inconsistent; confirm the final unit reference and area with Emaar.",
+  "selectorLabel": "Choose a Elva townhouse layout",
+  "note": "Source sheet 2 prints 2,704.81 sq ft although its component rows total 2,709.81 sq ft. Sheet 5 labels a four-bedroom unit TH03 while its key plan highlights TH04. Published totals and complete sheets are retained without guessing corrections. Confirm the selected unit, dimensions and sale inclusions.",
+  "plans": [
+    {
+      "label": "Ravine · 4 bedroom · TH01",
+      "area": "2,704.81 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/elva/plan-page-2-0878ea963f8e.webp",
+      "sha256": "0878ea963f8ee62470416135507c2b7b3c1d20f4b9aeb1fa8febe6155e63337b",
+      "originalBytes": 784018,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ravine · 3 bedroom · TH02",
+      "area": "2,418.33 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/elva/plan-page-3-bd430c53b247.webp",
+      "sha256": "bd430c53b2477700ed9896eb69d6780b3d2f8fbb195062c4e5d94715eec36dde",
+      "originalBytes": 511448,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ravine · 3 bedroom · TH03",
+      "area": "2,418.33 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/elva/plan-page-4-ba1f3ca41f81.webp",
+      "sha256": "ba1f3ca41f81d536aa58f63b910c58fece0d61f8692a0e40490006beafb89713",
+      "originalBytes": 511410,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ravine · 4 bedroom · sheet 5",
+      "area": "2,709.81 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/elva/plan-page-5-39e966f20c65.webp",
+      "sha256": "39e966f20c6596e90fb7d493b05500977871aa9fc0cd1f69310e7a8e1cf59b80",
+      "originalBytes": 794004,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Nash · 4 bedroom · TH01",
+      "area": "2,706.26 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/elva/plan-page-6-7046988f6dbd.webp",
+      "sha256": "7046988f6dbda8ad126ac0106cffec9783cd7ca3601b51d02ad852955e11d6ed",
+      "originalBytes": 781198,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Nash · 3 bedroom · TH02",
+      "area": "2,415.63 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/elva/plan-page-7-0f1f0efcf65e.webp",
+      "sha256": "0f1f0efcf65ecbc8b0f1577fbf3dabdfe4cece6059b23978dccf7ba97f6e30c2",
+      "originalBytes": 511338,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Nash · 3 bedroom · TH03",
+      "area": "2,415.63 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/elva/plan-page-8-ed296644cc0a.webp",
+      "sha256": "ed296644cc0aa76509a709967579780c3a87dd79626036a6ae80a6ede515aad8",
+      "originalBytes": 513832,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Nash · 4 bedroom · TH04",
+      "area": "2,710.57 sq ft published built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/elva/plan-page-9-47be333bb05d.webp",
+      "sha256": "47be333bb05d725bceec54ca20f6d3a3696764cbee9e4bfe4a24110ddfcc16fc",
+      "originalBytes": 792304,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

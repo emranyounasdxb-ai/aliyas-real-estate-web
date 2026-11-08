@@ -1,0 +1,95 @@
+{
+  "projectId": "ellington-project-23",
+  "projectSlug": "ellington-villa-collection-la-mer",
+  "developerSlug": "ellington",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/ellington-villa-collection/floor-plans/c20f2cc6e0aa40d8.pdf",
+    "label": "Ellington La Mer villa floor plans (Madena mirror)",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/ellington/ellington-villa-collection-la-mer/floor-plans-c20f2cc6e0aa.pdf",
+    "sha256": "c20f2cc6e0aa40d8f30aebd19e804c9e4b04553a27bfe979e13e160a68d281a9"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the basement, ground, first and roof plans for the seven-bedroom La Mer villa.",
+  "selectorLabel": "Choose a La Mer villa floor drawing",
+  "note": "The developer brief gives 33,044 sq ft for the entire villa and 21,934 sq ft for the plot. The ground-floor drawings label one room differently. Confirm the applicable drawing and contracted areas with the developer.",
+  "plans": [
+    {
+      "label": "Basement floor",
+      "area": "Individual floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/ellington/ellington-villa-collection-la-mer/plan-page-1-d18d4b643685.webp",
+      "sha256": "d18d4b6436854a390b350d5302fd33018a91bbd86330521c3bd7a3183db448cd",
+      "originalBytes": 591426,
+      "width": 2800,
+      "height": 1667
+    },
+    {
+      "label": "Ground floor · standalone plan",
+      "area": "Individual floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/ellington/ellington-villa-collection-la-mer/plan-page-2-84b97528811a.webp",
+      "sha256": "84b97528811a3fc86e2b1e44a92d3a09cba37146dc4b39a96c2e76c9ca79a232",
+      "originalBytes": 1548002,
+      "width": 2800,
+      "height": 1667
+    },
+    {
+      "label": "First floor",
+      "area": "Individual floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/ellington/ellington-villa-collection-la-mer/plan-page-3-167ede8920ce.webp",
+      "sha256": "167ede8920ce3e1b76a0815f6f159af69ff87f6e9b95877de7a9e7ef89b53a8d",
+      "originalBytes": 1255942,
+      "width": 2800,
+      "height": 1667
+    },
+    {
+      "label": "Roof floor",
+      "area": "Individual floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/ellington/ellington-villa-collection-la-mer/plan-page-4-cd5b8a8d2276.webp",
+      "sha256": "cd5b8a8d2276b341cb1dd33c570807d280765d673ee01c0c4cdab343288c76be",
+      "originalBytes": 944734,
+      "width": 2800,
+      "height": 1667
+    },
+    {
+      "label": "Ground floor · project brief version",
+      "area": "Individual floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans-project-brief"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/ellington/ellington-villa-collection-la-mer/plan-project-brief-page-15-c8c884106c4e.webp",
+      "sha256": "c8c884106c4e617c2579c0082042a3e5d0ac8a9632b310e78bfc5f036827e323",
+      "originalBytes": 1466014,
+      "width": 2800,
+      "height": 1667,
+      "source": {
+        "url": "https://drehomes.ae/ellington-villa-collection-la-mer/ellington-villa-collection-la-mer-brochure.pdf",
+        "label": "Ellington La Mer villa original project brief (DRE Homes mirror)",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/ellington/ellington-villa-collection-la-mer/floor-plans-project-brief-db7c95f3d3c6.pdf",
+        "sha256": "db7c95f3d3c63a936590c9911e43c47013843b06547a04632febbbaae0d80c7d"
+      }
+    }
+  ]
+}

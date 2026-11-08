@@ -1,0 +1,48 @@
+{
+  "projectId": "binghatti-project-16",
+  "projectSlug": "binghatti-hillviews",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "community": "Dubai Science Park, Dubai",
+  "road": "Connections to Umm Suqeim Street, Al Khail Road and Sheikh Mohammed Bin Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/binghatti/binghatti-hillviews/location-3557c24a90a9.png",
+    "sha256": "3557c24a90a9836166243982513739ae4abd9019347a6e7bee4b3a8be27307c4",
+    "originalBytes": 837977,
+    "width": 2261,
+    "height": 2686,
+    "sourceUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-brochure.pdf#page=11",
+    "alt": "Hillviews marked on the Binghatti map of Dubai Science Park and neighbouring landmarks.",
+    "scope": "The developer’s regional diagram is schematic.",
+    "caption": "Hillviews and surrounding landmarks, Binghatti brochure PDF page 11."
+  },
+  "sourceLabel": "Binghatti Hillviews brochure",
+  "travel": {
+    "sourceUrl": "https://binghatti-public.s3.me-central-1.amazonaws.com/project-assets/binghatti-hillviews-assets/binghatti-hillviews-brochure.pdf#page=11",
+    "scope": "Approximate times attached to routes on the Hillviews brochure map.",
+    "destinations": [
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 3
+      },
+      {
+        "name": "Al Barsha Mall",
+        "minutes": 7
+      },
+      {
+        "name": "King’s College Hospital",
+        "minutes": 9
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Hills Golf Club",
+        "minutes": 12
+      }
+    ]
+  },
+  "travelNote": "Times are approximate and come from the brochure map. Additional nearby landmarks appear without individual times."
+}

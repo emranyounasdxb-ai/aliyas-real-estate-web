@@ -1,0 +1,88 @@
+{
+  "projectId": "reportage-project-19",
+  "projectSlug": "reportage-village-dubai",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Brochure-Digital.pdf",
+    "label": "Reportage · Village Dubai original brochure and unit plans",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/reportage-village-dubai/floor-plans-c9fc00ee9695.pdf",
+    "sha256": "c9fc00ee9695acc87811ff88502677982bae2e75a3448310f1988e869f7e6659"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore complete townhouse levels and the original community diagrams.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "All three types retain their complete original pages. Totals include outdoor space. The 2 BR source prints 1,566.80–2,037.18 sq ft, while its components sum to 1,567.40–2,037.78 sq ft. The 3 BR lower components total 2,169.47 sq ft against a printed 2,169.50. Confirm the selected home and contractual measurements.",
+  "plans": [
+    {
+      "label": "2 BR townhouse A · both levels",
+      "area": "1,566.80–2,037.18 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/reportage-village-dubai/plan-page-20-342673a03755.webp",
+      "sha256": "342673a03755c68abddb47eefc641c89ba3ff729c3a1cd3a4172329d86a362dc",
+      "originalBytes": 979566,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "3 BR / 4 BR townhouse A · all levels",
+      "area": "3 BR 2,169.50–4,587.04 / 4 BR 2,274.70–2,956.07 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/reportage-village-dubai/plan-page-21-dc0e791a4244.webp",
+      "sha256": "dc0e791a4244e49a714e346bbe2045ee5d808bff8426c2cb245abb9021533a3f",
+      "originalBytes": 146686,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "Original vicinity and community aerial",
+      "area": "Neighbourhood context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/reportage-village-dubai/plan-page-6-44a46bdae431.webp",
+      "sha256": "44a46bdae4310b6563e64b5f2ccba278de3a5376aebad57a9aaa6c78e924d7aa",
+      "originalBytes": 3271250,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "Original community master plan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/reportage-village-dubai/plan-page-23-3ba5605cef53.webp",
+      "sha256": "3ba5605cef538e7f7fb712bf51172956eccdd5f946723ea5f80b9a2458ce81e8",
+      "originalBytes": 11152814,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/reportage-village-dubai/plan-page-5-cf57240ec562.webp",
+      "sha256": "cf57240ec56247fd39231bce36e2da690d297d3ae2fb7a68f0be13247e41325c",
+      "originalBytes": 152860,
+      "width": 3600,
+      "height": 1273
+    }
+  ]
+}

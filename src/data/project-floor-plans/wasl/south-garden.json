@@ -1,0 +1,1109 @@
+{
+  "projectId": "wasl-project-08",
+  "projectSlug": "south-garden",
+  "developerSlug": "wasl",
+  "source": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf",
+    "label": "Wasl South Garden D/E · original brochure drawings",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/wasl/south-garden/floor-plans-965a0f695e85.pdf",
+    "sha256": "965a0f695e858a1139e62d76ced9bb7bc8f0b11b94bd11f3f3a79438e80604db"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Browse the original unit layouts and complete building floorplates. Each choice identifies its phase, building and physical PDF page.",
+  "selectorLabel": "Choose a phase, unit layout or building floorplate",
+  "note": "The 62 complete sheets distinguish original A–C and newer D/E releases. Multi-layout totals follow the printed type labels. Whole-floor overviews have varying individual unit areas. D 3 BR A prints 2,188.34 sq ft versus its 2,118.34 component sum. D 1 BR E1 prints 1,082.85 versus its 1,112.85 sq ft component sum. Other rounding, metric and source-range differences remain qualified. Obtain corrected contractual drawings from Wasl.",
+  "plans": [
+    {
+      "label": "D · studios A / B",
+      "area": "A 438.31 / B 499.88 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/wasl/south-garden/plan-page-39-fdbb290e2e1b.webp",
+      "sha256": "fdbb290e2e1b610baba85c21462ac7aa933c0e71539e58238304d53692ccd153",
+      "originalBytes": 329010,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · studios B1 / C",
+      "area": "B1 399.34 / C 412.37 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/wasl/south-garden/plan-page-40-a6ef455f2da7.webp",
+      "sha256": "a6ef455f2da70da600c831c06203e14ccd97eec20d610df8a962d891e20d9191",
+      "originalBytes": 308784,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · studio D",
+      "area": "410.00 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/wasl/south-garden/plan-page-41-8e2a6a59b7ab.webp",
+      "sha256": "8e2a6a59b7ab31e1abdcd3ae4f8ebe1b389bdbe3a20afe9871540ffa5f79a3bb",
+      "originalBytes": 152714,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR A / B",
+      "area": "A 944.32 / B 857.88 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/wasl/south-garden/plan-page-42-9f6dc810bd28.webp",
+      "sha256": "9f6dc810bd2842234635b30e94b5b44cf8fc9656271ee20069e03b2ae65b9782",
+      "originalBytes": 517876,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR C / D",
+      "area": "C 868.76 / D 1,060.46 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/wasl/south-garden/plan-page-43-471794ec6995.webp",
+      "sha256": "471794ec69956831a2f46c6debb77922515d9726c3c48a41e384995fb0fbf196",
+      "originalBytes": 572064,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR D1 / D2",
+      "area": "D1 959.17 / D2 839.80 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/wasl/south-garden/plan-page-44-f5ac97a7d53a.webp",
+      "sha256": "f5ac97a7d53ab445332c84fe533b64160eac7ba7d13a8e481b44a46ec4b3aeec",
+      "originalBytes": 535910,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR D3 / E",
+      "area": "D3 943.24 / E 1,072.09 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/wasl/south-garden/plan-page-45-72e9d67609f3.webp",
+      "sha256": "72e9d67609f3e9832e405c31c43376f8a2a830372e4f0b7450b99906b4b68a49",
+      "originalBytes": 573146,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR E1 / E2 · source conflict",
+      "area": "E1 1,082.85 / E2 955.40 sq ft printed · E1 disputed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/wasl/south-garden/plan-page-46-0464c8cbcb96.webp",
+      "sha256": "0464c8cbcb96fd753c7c4dee52d4adfbbd7dc276c26f7f866f93137da42d8163",
+      "originalBytes": 574654,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 1 BR E3 / F",
+      "area": "E3 955.40 / F 823.98 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/wasl/south-garden/plan-page-47-7d9d3b0f2ce1.webp",
+      "sha256": "7d9d3b0f2ce132545d19f5304a2f59a584c7a7ab4b5e91b00f8da16fe1a39301",
+      "originalBytes": 539296,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 2 BR A / B",
+      "area": "A 1,230.21 / B 1,298.67 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/wasl/south-garden/plan-page-48-c120e89ae225.webp",
+      "sha256": "c120e89ae225a2fcb74442f4e4570076297f3d278bf648bb0fbcd7c57ebfd352",
+      "originalBytes": 708840,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 2 BR C / D",
+      "area": "C 1,233.76 / D 1,188.12 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/wasl/south-garden/plan-page-49-ac47ee959986.webp",
+      "sha256": "ac47ee9599868a04716a4a92c185b59ca943e07d80486110b709ae032c470fcb",
+      "originalBytes": 687802,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 3 BR A / A1 · source conflict",
+      "area": "A 2,188.34 / A1 1,743.86 sq ft printed · A disputed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/wasl/south-garden/plan-page-50-e71eb6a8eb44.webp",
+      "sha256": "e71eb6a8eb4464811030775402d46a2adb82600cddec7dd481158085229d6c79",
+      "originalBytes": 685898,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "D · 3 BR B / B1",
+      "area": "B 1,930.18 / B1 1,844.61 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/wasl/south-garden/plan-page-51-f6ab5cb86051.webp",
+      "sha256": "f6ab5cb86051261be85d344f1c426f011fc5e9041f6ffe1ef2f98fdc217d07ea",
+      "originalBytes": 896708,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "A · studios A / B",
+      "area": "A 438.31 / B 508.38 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-41-e9335d484df6.webp",
+      "sha256": "e9335d484df67a2f790f5ca89f24726c9a77a9903ba54b5c698ad614ea9cb6ba",
+      "originalBytes": 400320,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · studios C / D",
+      "area": "C 412.47 / D 410.00 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-42-3a652ed3e7ae.webp",
+      "sha256": "3a652ed3e7aecfb3dfb9817f3d40367d6981a28df16d64ce92c68983269e1a28",
+      "originalBytes": 369332,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 1 BR A / B",
+      "area": "A 943.99 / B 857.99 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-43-b18f7980ab60.webp",
+      "sha256": "b18f7980ab60a2b285637923d270d25b72a8be9040b7f93140c76b402142026e",
+      "originalBytes": 661964,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 1 BR C / D",
+      "area": "C 868.86 / D 1,064.44 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-44-4343375feea2.webp",
+      "sha256": "4343375feea2a4c37f423ced6a3eedf95832067797b12111a14b6e91b5d7c8e5",
+      "originalBytes": 695094,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 1 BR E / F",
+      "area": "E 1,074.78 / F 824.30 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-45-683a2194e1e0.webp",
+      "sha256": "683a2194e1e049b8b5d3c07051cd842e1fd103ef1c31a4f3089bd3b9352c1ac2",
+      "originalBytes": 629246,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 2 BR A / B",
+      "area": "A 1,230.31 / B 1,296.51 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-46-f206030f20a2.webp",
+      "sha256": "f206030f20a27ce05d0e31cb0732f3872faeb65849105aecde3603cb4eabc534",
+      "originalBytes": 780124,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 2 BR C / D",
+      "area": "C 1,233.76 / D 1,188.44 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-47-46a63cfa3cbb.webp",
+      "sha256": "46a63cfa3cbb4597f7999812e22d0c7764f5ac51f52ae7129d429c2ac88fcf59",
+      "originalBytes": 731066,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 2 BR E / F",
+      "area": "E 1,153.46 / F 1,189.09 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-48-9aa693c248a8.webp",
+      "sha256": "9aa693c248a86300c675d5e8b06288d1dc184c25ee66e43609c24c1a05a199f9",
+      "originalBytes": 677190,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 2 BR G",
+      "area": "1,177.46 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-49-462ba1694ae8.webp",
+      "sha256": "462ba1694ae8f7a7f31a22363f9b656364bc9ee51898bea2fa9b091f90da06c2",
+      "originalBytes": 412538,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · 3 BR A / B",
+      "area": "A 2,126.84 / B 1,931.15 sq ft total",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-50-aca690c75fff.webp",
+      "sha256": "aca690c75fff7d674a4db958ddd814a1a26c72746b57f494149b7a80c55f6b1f",
+      "originalBytes": 1032822,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · ground · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-19-62c4233b497b.webp",
+      "sha256": "62c4233b497b375de885a6b425d4a7c79ffb8adc577fa6f4547fbcb52bc22591",
+      "originalBytes": 629720,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · level 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-20-b02a015f6bcf.webp",
+      "sha256": "b02a015f6bcf308ad58b4c9456082ffdd9b6567fc0f79bc13e6f6d163b1c570b",
+      "originalBytes": 664902,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · levels 2–5 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-21-1fe59bdb22c0.webp",
+      "sha256": "1fe59bdb22c004aabaed3c34cf104a3a3bfa6dca39d5de941b18ab41c4ed9cec",
+      "originalBytes": 688980,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · level 6 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-22-f7e65ec3f27c.webp",
+      "sha256": "f7e65ec3f27c6796418958252e3de24a9ffd7fbf1a3b817462c5230648d19e31",
+      "originalBytes": 691026,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · levels 7–10 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-23-9ac2814aeed0.webp",
+      "sha256": "9ac2814aeed0462b756e270f66e6253ca9e349f031c6fb3a062fe16ba84e6dea",
+      "originalBytes": 690170,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · level 11 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-24-a6b533060a28.webp",
+      "sha256": "a6b533060a2854ce938e80cb3d1afe33a636e41f6d88565bdeb3a4f60f39d436",
+      "originalBytes": 685896,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "A · level 12 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-25-4265f5f04582.webp",
+      "sha256": "4265f5f04582b72c0a5cc2ae7f46b111c252aa1416518eaa3ba025926a5f03e2",
+      "originalBytes": 664862,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · ground · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-26-66a1ddb17a8d.webp",
+      "sha256": "66a1ddb17a8d42c9520ecc48e3ba3d83ba743f5ad84df393183bf1ea61fc7481",
+      "originalBytes": 731064,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · level 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-27-aa86785f86a8.webp",
+      "sha256": "aa86785f86a8de0be733e8a4ae77586a645cac5ac282607c8f98e68778558148",
+      "originalBytes": 689870,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · levels 2–5 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-28-e54845fb88c7.webp",
+      "sha256": "e54845fb88c7eddacd370d11c0753a58323bdbfd16cc00d5f3571b41581b749a",
+      "originalBytes": 688306,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · level 6 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-29-11bc2455165d.webp",
+      "sha256": "11bc2455165df18fb8293290ec5684448590a14077361672f60f376fa20a5a6f",
+      "originalBytes": 694252,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · levels 7–10 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-30-658bc62fd378.webp",
+      "sha256": "658bc62fd3784119befe59a72e4d0eb555a5086e832c4c76b2f92c1f1cb38cff",
+      "originalBytes": 692014,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · level 11 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-31-7b1db6769750.webp",
+      "sha256": "7b1db67697504b54aeb4107167f18ee8240823d126bb327621347ce1f092d140",
+      "originalBytes": 686018,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "B · level 12 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-32-97d523c2198c.webp",
+      "sha256": "97d523c2198c446baaea54b72ce9b15069874349e408dc5da833fe0bedac724b",
+      "originalBytes": 665378,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · ground · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-33-592985d4feae.webp",
+      "sha256": "592985d4feae2c0cd3148a28a41d6966c64d05a0b7df8c8944d356fa9b7a744b",
+      "originalBytes": 628640,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · level 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-34-9266ae4e2b0a.webp",
+      "sha256": "9266ae4e2b0afafff2244f0fefcf65b6c2403d608c2368f7dc7bdc5f6d6a9de8",
+      "originalBytes": 688366,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · levels 2–5 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-35-65b46a889b02.webp",
+      "sha256": "65b46a889b0237295895d1ff50df6cb1457f019bf4e2356d7b362c89db9fa59e",
+      "originalBytes": 687794,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · level 6 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-36-1dc1e70598f0.webp",
+      "sha256": "1dc1e70598f0cec636a65119778126a1eaaf39d3afb6f288aace0db5522eea74",
+      "originalBytes": 693306,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · levels 7–10 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-37-cbe2d863c1ef.webp",
+      "sha256": "cbe2d863c1ef0b5d6443cd1f3fc2c3384367ec1c6fee3804c832e3dc2d21979a",
+      "originalBytes": 690868,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · level 11 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-38-2c81e162a029.webp",
+      "sha256": "2c81e162a02986474edfff2bd6bf38061b638891683f08f75436a4c3d779c915",
+      "originalBytes": 685436,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "C · level 12 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-original"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/wasl/south-garden/plan-original-page-39-704627f1ea84.webp",
+      "sha256": "704627f1ea849128ef284ab7a6cd1f4a93ca0e184bd4dfe2da60ceed3c40a4ce",
+      "originalBytes": 664976,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-09/SG%20Brochure.pdf",
+        "label": "Wasl South Garden A–C · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-original-b323a1bed255.pdf",
+        "sha256": "b323a1bed255fd28c4a827beba1d25084770b22e4df9b3279eec2531c741ebdb"
+      }
+    },
+    {
+      "label": "D · ground · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/wasl/south-garden/plan-page-20-2bb470b69dcb.webp",
+      "sha256": "2bb470b69dcb4f687ee0381db3649eb7dcf13174302cf5befbdc6906286307f2",
+      "originalBytes": 1907746,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · ground · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-2-64e091ffe03b.webp",
+      "sha256": "64e091ffe03b46fad32c6fb3c7aad169f28aaa00f8135dd8ddf81177750a8f57",
+      "originalBytes": 1631660,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · podium 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/wasl/south-garden/plan-page-21-f4f883e61a2b.webp",
+      "sha256": "f4f883e61a2b24700adffee033b6cb44b7427a1a1d52049cba1ff6ce9430da55",
+      "originalBytes": 739902,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · podium 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-3-69afe2842299.webp",
+      "sha256": "69afe2842299707aa8bd5076d5347ab69059d8ae41544f30dbfebcaba7588d9f",
+      "originalBytes": 881788,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · podium 2 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/wasl/south-garden/plan-page-22-fa7d9db7ae6f.webp",
+      "sha256": "fa7d9db7ae6f44256e9b3a0d5f1860822e1c4d050d7512742ecbb3fb7ee88a0b",
+      "originalBytes": 729296,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · podium 2 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-4-cf6966c416e1.webp",
+      "sha256": "cf6966c416e1210cdcca91d3ad27c6408930ff1b2df508cb083243d496539f5d",
+      "originalBytes": 831128,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · level 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/wasl/south-garden/plan-page-23-d1d6c9bcafef.webp",
+      "sha256": "d1d6c9bcafefb9749c351d048bbffe180812961cdf387376187698de9625f0bc",
+      "originalBytes": 707648,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · level 1 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-5-60fd7d100080.webp",
+      "sha256": "60fd7d100080cae9838321a5808e9fc232afc8b3893b483312c77ba924aceb27",
+      "originalBytes": 1170562,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · levels 2–5 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/wasl/south-garden/plan-page-24-53cb06fe0dda.webp",
+      "sha256": "53cb06fe0dda22ace591a8d5095281df682f97fbcbcae277f2a61f7a9719d910",
+      "originalBytes": 732300,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · levels 2–5 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-6-aeacd97371a8.webp",
+      "sha256": "aeacd97371a8b849126879a78bc60684a5ef9426fe42f483b3d53eeb2b6fc2d2",
+      "originalBytes": 1136288,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · level 6 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/wasl/south-garden/plan-page-25-e942b0545462.webp",
+      "sha256": "e942b0545462bf9274304624f9481ce757cff35d71b2ae499f4cba6b95a53e59",
+      "originalBytes": 679030,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · level 6 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-7-cb35fc686590.webp",
+      "sha256": "cb35fc686590e8629e88948f1c237897193d0a792b300f2c39ea59962899f320",
+      "originalBytes": 1062822,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · levels 7–10 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/wasl/south-garden/plan-page-26-f0e6c02115e4.webp",
+      "sha256": "f0e6c02115e4fb2e3658fde6043bb791c2cd0965636061ca495012c19ec9bfcf",
+      "originalBytes": 693560,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · levels 7–10 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-8-c11ad75c9c1d.webp",
+      "sha256": "c11ad75c9c1d781f7045814e9994862f0a5059eeb139064b2708dd477ad96d99",
+      "originalBytes": 1074646,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · level 11 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/wasl/south-garden/plan-page-27-992be9710e8a.webp",
+      "sha256": "992be9710e8a05164565171b883183c779dc8fd1ad13eaeebe0c2defde11e09d",
+      "originalBytes": 671442,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · level 11 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-9-12cb3a8757d7.webp",
+      "sha256": "12cb3a8757d7e8268c64e4972fc66a65197ee26dffd5ba213d12f6efb2ad6367",
+      "originalBytes": 1049200,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    },
+    {
+      "label": "D · level 12 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/wasl/south-garden/plan-page-28-e08febf78e67.webp",
+      "sha256": "e08febf78e67c7739e9cc16a22a812e9585467a8f255bf69604384256e7b0ff0",
+      "originalBytes": 658184,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "E · level 12 · full floorplate",
+      "area": "Whole-floor overview · individual unit areas vary",
+      "sourceIds": [
+        "plans-e"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/wasl/south-garden/plan-e-page-10-996587abfc88.webp",
+      "sha256": "996587abfc8855081a3fc69abd3f8405427095308a668bd2306a88f2c072ec55",
+      "originalBytes": 1039340,
+      "width": 3200,
+      "height": 2263,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/Floor%20Plans%20E.pdf",
+        "label": "Wasl South Garden Building E · original floorplate pack",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/south-garden/floor-plans-e-33e28228d224.pdf",
+        "sha256": "33e28228d2247be841adcaaf4eeb63692d60440fecc6d9188eb128f196e9747c"
+      }
+    }
+  ]
+}

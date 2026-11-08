@@ -1,0 +1,514 @@
+{
+  "id": "emaar-project-53",
+  "slug": "aeon",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/aeon",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "creek-beach",
+      "label": "Creek Beach and bridge",
+      "url": "https://www.emaar.com/cms-media/uploads/378755_hero_slide_0_b7970cf577_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/official-hero.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: creek beach and bridge. Proposed architecture or community setting."
+    },
+    {
+      "name": "park-frontage",
+      "label": "Aeon towers from the park",
+      "url": "https://www.emaar.com/cms-media/uploads/378701_exterior_0_b853d03238_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378701_exterior_0_b853d03238_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: aeon towers from the park. Proposed architecture or community setting."
+    },
+    {
+      "name": "dusk",
+      "label": "Aeon towers at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/378710_exterior_1_d6b6f1534c_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378710_exterior_1_d6b6f1534c_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: aeon towers at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "entrance",
+      "label": "Aeon entrance",
+      "url": "https://www.emaar.com/cms-media/uploads/378719_exterior_2_bda0d3c6c3_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378719_exterior_2_bda0d3c6c3_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: aeon entrance. Proposed architecture or community setting."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom with balcony",
+      "url": "https://www.emaar.com/cms-media/uploads/378728_interior_0_cc45f999e8_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378728_interior_0_cc45f999e8_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: bedroom with balcony. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Living room with balcony",
+      "url": "https://www.emaar.com/cms-media/uploads/378737_interior_1_0d13d99222_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378737_interior_1_0d13d99222_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: living room with balcony. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Shared lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/378746_interior_2_f03c504c9e_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/378746_interior_2_f03c504c9e_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Aeon developer render: shared lobby. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "park-frontage",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Creek Harbour",
+    "travel": {
+      "page": 3,
+      "scope": "Published area estimates in the Aeon brochure.",
+      "destinations": [
+        {
+          "name": "Burj Khalifa",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/378815_brochure_File_4f35d53ea5_prod.pdf"
+    },
+    "travelNote": "Emaar’s brochure estimates depend on the starting point, route and traffic. Confirm current transport and tower access before visiting.",
+    "pin": {
+      "latitude": 25.20638943321272,
+      "longitude": 55.35187182883515,
+      "sourceUrl": "https://www.emaar.com/en/properties/aeon",
+      "scope": "This is the reference point on Emaar’s Aeon page. Use the entrance for the specific tower when planning a visit."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+      "cache": "artifacts/project-page-enhancement/aeon/04.-MAP---2400x1600px.jpg",
+      "alt": "Emaar regional map showing Dubai Creek Harbour",
+      "scope": "The developer’s regional Dubai Creek Harbour map, with future metro lines shown separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Aeon Tower 1 floor plans via Mitchell’s",
+    "introduction": "Compare apartments by tower, level and unit number. Each sheet keeps the complete original drawing. Shared sheets show separate totals where unit areas differ.",
+    "selectorLabel": "Choose an Aeon tower and layout",
+    "note": "The area includes the suite and balcony as printed. T1 and T2 refer to Towers 1 and 2. Compare the sheet for the specific unit and confirm the signed drawing.",
+    "additionalDocuments": [
+      {
+        "id": "tower-2",
+        "label": "Emaar Aeon Tower 2 floor plans via Mitchell’s",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_TOWER2_MARKETING_LAYOUT.pdf",
+        "cache": "artifacts/project-details/emaar/aeon-tower2.pdf"
+      }
+    ],
+    "url": "https://www.mitchellscommercialrealty.com/downloads/aeon/AEON_DCH_TOWER1_MARKETING_LAYOUT.pdf",
+    "cache": "artifacts/project-details/emaar/aeon-tower1.pdf",
+    "plans": [
+      {
+        "label": "T1 · 1 BR · L1 · 02–04",
+        "area": "763.37 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          763.37
+        ],
+        "areaCalculation": "698.36 + 65.01 = 763.37 sq ft. Printed total 763.37 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-02.png"
+      },
+      {
+        "label": "T1 · 1 BR · L2–15 · 04–06",
+        "area": "763.38 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          763.38
+        ],
+        "areaCalculation": "699.33 + 64.05 = 763.38 sq ft. Printed total 763.38 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-03.png"
+      },
+      {
+        "label": "T1 · 1 BR · L16–19 · 04 & 05",
+        "area": "762.30 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          762.3
+        ],
+        "areaCalculation": "698.25 + 64.05 = 762.30 sq ft. Printed total 762.30 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-04.png"
+      },
+      {
+        "label": "T1 · 1 BR · L20 · 04 & 05",
+        "area": "762.41 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          762.41
+        ],
+        "areaCalculation": "698.36 + 64.05 = 762.41 sq ft. Printed total 762.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-05.png"
+      },
+      {
+        "label": "T1 · 2 BR · L1 · 01",
+        "area": "1,334.83 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          1334.83
+        ],
+        "areaCalculation": "1161.53 + 173.30 = 1334.83 sq ft. Printed total 1334.83 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-06.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 03",
+        "area": "1,334.73 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          1334.73
+        ],
+        "areaCalculation": "1162.72 + 172.01 = 1334.73 sq ft. Printed total 1334.73 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-07.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 08",
+        "area": "1,339.03 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1339.03
+        ],
+        "areaCalculation": "1167.02 + 172.01 = 1339.03 sq ft. Printed total 1339.03 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-08.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 02",
+        "area": "1,241.18 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1241.18
+        ],
+        "areaCalculation": "1169.71 + 71.47 = 1241.18 sq ft. Printed total 1241.18 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-09.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 07",
+        "area": "1,233.54 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1233.54
+        ],
+        "areaCalculation": "1162.07 + 71.47 = 1233.54 sq ft. Printed total 1233.54 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-10.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 09",
+        "area": "1,235.49 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1235.49
+        ],
+        "areaCalculation": "1171.44 + 64.05 = 1235.49 sq ft. Printed total 1235.49 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-11.png"
+      },
+      {
+        "label": "T1 · 2 BR · L2–15 · 01",
+        "area": "1,297.16 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1297.16
+        ],
+        "areaCalculation": "1169.18 + 127.98 = 1297.16 sq ft. Printed total 1297.16 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-12.png"
+      },
+      {
+        "label": "T1 · 3 BR · L16–19 · 01",
+        "area": "1,693.38 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1693.38
+        ],
+        "areaCalculation": "1565.40 + 127.98 = 1693.38 sq ft. Printed total 1693.38 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-13.png"
+      },
+      {
+        "label": "T1 · 3 BR · L20 · 01",
+        "area": "1,693.48 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1693.48
+        ],
+        "areaCalculation": "1565.50 + 127.98 = 1693.48 sq ft. Printed total 1693.48 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-14.png"
+      },
+      {
+        "label": "T1 · 3 BR · L16–19 · 02",
+        "area": "1,672.50 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1672.5
+        ],
+        "areaCalculation": "1536.98 + 135.52 = 1672.50 sq ft. Printed total 1672.50 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-15.png"
+      },
+      {
+        "label": "T1 · 3 BR · L20 · 02",
+        "area": "1,673.25 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1673.25
+        ],
+        "areaCalculation": "1537.84 + 135.41 = 1673.25 sq ft. Printed total 1673.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-16.png"
+      },
+      {
+        "label": "T1 · 3 BR · L16–19 · 03",
+        "area": "1,766.36 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1766.36
+        ],
+        "areaCalculation": "1530.31 + 236.05 = 1766.36 sq ft. Printed total 1766.36 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-17.png"
+      },
+      {
+        "label": "T1 · 3 BR · L20 · 03",
+        "area": "1,767.32 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1767.32
+        ],
+        "areaCalculation": "1531.38 + 235.94 = 1767.32 sq ft. Printed total 1767.32 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-18.png"
+      },
+      {
+        "label": "T1 · 3 BR · L16–19 · 07",
+        "area": "1,771.20 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1771.2
+        ],
+        "areaCalculation": "1535.15 + 236.05 = 1771.20 sq ft. Printed total 1771.20 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-19.png"
+      },
+      {
+        "label": "T1 · 3 BR · L20 · 07",
+        "area": "1,771.95 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1771.95
+        ],
+        "areaCalculation": "1536.01 + 235.94 = 1771.95 sq ft. Printed total 1771.95 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-20.png"
+      },
+      {
+        "label": "T1 · 3 BR · L16–19 · 06",
+        "area": "1,665.29 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1665.29
+        ],
+        "areaCalculation": "1529.77 + 135.52 = 1665.29 sq ft. Printed total 1665.29 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-21.png"
+      },
+      {
+        "label": "T1 · 3 BR · L20 · 06",
+        "area": "1,666.15 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          1666.15
+        ],
+        "areaCalculation": "1530.63 + 135.52 = 1666.15 sq ft. Printed total 1666.15 sq ft.",
+        "cache": "artifacts/project-page-enhancement/aeon/plan-22.png"
+      },
+      {
+        "label": "T2 · 1 BR · Podium · 02–04",
+        "area": "813.10 sq ft (02 & 04) / 813.96 sq ft (03)",
+        "sourcePage": 2,
+        "areaValues": [
+          813.1,
+          813.96
+        ],
+        "areaCalculation": "02 & 04: 750.35 + 62.75 = 813.10 sq ft. Printed total 813.10 sq ft. 03: 751.21 + 62.75 = 813.96 sq ft. Printed total 813.96 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-02.png"
+      },
+      {
+        "label": "T2 · 1 BR · L1 · 04–06",
+        "area": "814.61 sq ft (04) / 815.59 sq ft (05) / 814.62 sq ft (06)",
+        "sourcePage": 3,
+        "areaValues": [
+          814.61,
+          815.59,
+          814.62
+        ],
+        "areaCalculation": "04: 750.03 + 64.58 = 814.61 sq ft. Printed total 814.61 sq ft. 05: 751.54 + 64.05 = 815.59 sq ft. Printed total 815.59 sq ft. 06: 750.57 + 64.05 = 814.62 sq ft. Printed total 814.62 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-03.png"
+      },
+      {
+        "label": "T2 · 1 BR · L2–11 · 01, 04–06",
+        "area": "814.62 sq ft (01 & 06) / 814.61 sq ft (04) / 815.59 sq ft (05)",
+        "sourcePage": 4,
+        "areaValues": [
+          814.62,
+          814.61,
+          815.59
+        ],
+        "areaCalculation": "01 & 06: 750.57 + 64.05 = 814.62 sq ft. Printed total 814.62 sq ft. 04: 750.03 + 64.58 = 814.61 sq ft. Printed total 814.61 sq ft. 05: 751.54 + 64.05 = 815.59 sq ft. Printed total 815.59 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-04.png"
+      },
+      {
+        "label": "T2 · 1 BR · L1 · 01",
+        "area": "990.50 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          990.5
+        ],
+        "areaCalculation": "750.57 + 239.93 = 990.50 sq ft. Printed total 990.50 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-05.png"
+      },
+      {
+        "label": "T2 · 2 BR · Podium · 01",
+        "area": "1,339.68 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          1339.68
+        ],
+        "areaCalculation": "1171.76 + 167.92 = 1339.68 sq ft. Printed total 1339.68 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-06.png"
+      },
+      {
+        "label": "T2 · 2 BR · Podium · 05",
+        "area": "1,243.99 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          1243.99
+        ],
+        "areaCalculation": "1173.70 + 70.29 = 1243.99 sq ft. Printed total 1243.99 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-07.png"
+      },
+      {
+        "label": "T2 · 2 BR · Podium · 06",
+        "area": "1,272.73 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1272.73
+        ],
+        "areaCalculation": "1157.34 + 115.39 = 1272.73 sq ft. Printed total 1272.73 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-08.png"
+      },
+      {
+        "label": "T2 · 2 BR · Podium · 07–09",
+        "area": "1,289.19 sq ft (07) / 1,289.20 sq ft (08) / 1,289.30 sq ft (09)",
+        "sourcePage": 9,
+        "areaValues": [
+          1289.19,
+          1289.2,
+          1289.3
+        ],
+        "areaCalculation": "07: 1177.03 + 112.16 = 1289.19 sq ft. Printed total 1289.19 sq ft. 08: 1174.99 + 114.21 = 1289.20 sq ft. Printed total 1289.20 sq ft. 09: 1177.14 + 112.16 = 1289.30 sq ft. Printed total 1289.30 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-09.png"
+      },
+      {
+        "label": "T2 · 2 BR · L1 · 02",
+        "area": "1,663.34 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1663.34
+        ],
+        "areaCalculation": "1161.53 + 501.81 = 1663.34 sq ft. Printed total 1663.34 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-10.png"
+      },
+      {
+        "label": "T2 · 2 BR · L1 · 08",
+        "area": "1,654.09 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1654.09
+        ],
+        "areaCalculation": "1161.53 + 492.56 = 1654.09 sq ft. Printed total 1654.09 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-11.png"
+      },
+      {
+        "label": "T2 · 2 BR · L2–11 · 02",
+        "area": "1,233.00 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1233
+        ],
+        "areaCalculation": "1161.53 + 71.47 = 1233.00 sq ft. Printed total 1233.00 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-12.png"
+      },
+      {
+        "label": "T2 · 2 BR · L1 · 03",
+        "area": "1,332.57 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1332.57
+        ],
+        "areaCalculation": "1161.53 + 171.04 = 1332.57 sq ft. Printed total 1332.57 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-13.png"
+      },
+      {
+        "label": "T2 · 2 BR · L2–11 · 03 & 08",
+        "area": "1,332.57 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1332.57
+        ],
+        "areaCalculation": "1161.53 + 171.04 = 1332.57 sq ft. Printed total 1332.57 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-14.png"
+      },
+      {
+        "label": "T2 · 2 BR · L1 · 07",
+        "area": "1,332.57 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1332.57
+        ],
+        "areaCalculation": "1161.53 + 171.04 = 1332.57 sq ft. Printed total 1332.57 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-15.png"
+      },
+      {
+        "label": "T2 · 2 BR · L2–11 · 07",
+        "area": "1,332.57 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1332.57
+        ],
+        "areaCalculation": "1161.53 + 171.04 = 1332.57 sq ft. Printed total 1332.57 sq ft.",
+        "documentId": "tower-2",
+        "cache": "artifacts/project-page-enhancement/aeon/tower-2/plan-16.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/aeon/",
+  "review": {
+    "images": "Seven Emaar Aeon page renders visually reviewed. The Creek Beach scene leads the gallery with community scope, the building park frontage is used for the card, and the bedroom and living room are shown separately from the shared lobby.",
+    "location": "Compared the Aeon official reference point with the same district on the regional map. Emaar brochure physical page 3 prints ten minutes to Burj Khalifa and fifteen to DXB. Other points of interest on that page have no printed travel estimate.",
+    "floorPlans": "Fresh original Emaar packs hosted by Mitchell’s match both checked originals. Reviewed all 38 physical pages including the two covers. All 21 Tower 1 and 15 Tower 2 complete apartment sheets retained, with separate unit-area tables on Tower 2 pages 2, 3, 4 and 9. Verified every suite and balcony sum. Official site’s single floor-plan sheet duplicates Tower 2 podium 07–09. The raster broker variant contains reordered Tower 1 plans and branded covers, so the complete Mitchell’s packs are used."
+  },
+  "unavailable": [
+    "Current signed unit areas, unlisted layouts, final tower access and transport operating status need confirmation."
+  ]
+}

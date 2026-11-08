@@ -1,0 +1,75 @@
+{
+  "projectId": "aldar-project-16",
+  "projectSlug": "al-ghadeer-gardens",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/al_ghadeer_gardens_brochure.pdf/4e261b56534c11f19bc966566d304dd1",
+    "label": "Aldar Al Ghadeer Gardens brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/al-ghadeer-gardens/floor-plans-bd79ddad6978.pdf",
+    "sha256": "bd79ddad6978351664b44519b4eaef0439965c17cd8993fc8c4f48fe0a874ac2"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Open the townhouse and villa layouts for this release. Each sheet shows the ground and first floors together.",
+  "selectorLabel": "Choose an Al Ghadeer Gardens floor plan",
+  "note": "Confirm the signed layout and total area for the individual home. The brochure drawings do not give a measured whole-unit area.",
+  "plans": [
+    {
+      "label": "2 BR townhouse",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/aldar/al-ghadeer-gardens/plan-page-40-d97d4d0af2dc.webp",
+      "sha256": "d97d4d0af2dcd68d2223b6ec12c831497347f47514789a636a30e95e0d10f1fd",
+      "originalBytes": 3217904,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR townhouse · Middle",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/aldar/al-ghadeer-gardens/plan-page-41-565cac9f957b.webp",
+      "sha256": "565cac9f957ba0b95a56090802d5fddbdc3b08c24b201294b9cc39c097e3f7a3",
+      "originalBytes": 3262878,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR townhouse · Corner",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/aldar/al-ghadeer-gardens/plan-page-42-c33117eca4a3.webp",
+      "sha256": "c33117eca4a3623fd7ecdb22a92e5fbf9c6a9563a4c89d08654bb93e836fd09d",
+      "originalBytes": 3239208,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "4 BR villa",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/aldar/al-ghadeer-gardens/plan-page-43-f1d61b22f29b.webp",
+      "sha256": "f1d61b22f29bed58617023e6a76dec0da67f3840419ee83c12f6267f4436bc15",
+      "originalBytes": 3209972,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

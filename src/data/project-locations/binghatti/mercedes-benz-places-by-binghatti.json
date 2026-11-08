@@ -1,0 +1,63 @@
+{
+  "projectId": "binghatti-project-23",
+  "projectSlug": "mercedes-benz-places-by-binghatti",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "community": "Downtown Dubai, Dubai",
+  "road": "Near Dubai Water Canal and the D71 corridor",
+  "pin": {
+    "latitude": 25.188485,
+    "longitude": 55.2799832,
+    "sourceUrl": "https://maps.app.goo.gl/qVh7SSmE8BK11hNj8",
+    "scope": "The project pin published in Binghatti’s map. Individual entrances may differ."
+  },
+  "map": {
+    "src": "/images/projects/binghatti/mercedes-benz-places-by-binghatti/location-26ea39e3c924.png",
+    "sha256": "26ea39e3c924bf72c420e349f0c1f1b502c963d2f87b024f4816a86887ab479c",
+    "originalBytes": 562848,
+    "width": 3493,
+    "height": 1793,
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-mercedes-benz-places-assets/binghatti-mercedes-benz-places-map.pdf#page=2",
+    "alt": "Mercedes-Benz Places tower marked in Downtown Dubai with nearby roads and landmarks.",
+    "scope": "Developer schematic. Times on the rendered distance guide and schematic can differ.",
+    "caption": "Downtown Mercedes-Benz Places location diagram, Binghatti map PDF page 2."
+  },
+  "sourceLabel": "Binghatti Downtown distance guide",
+  "travel": {
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-mercedes-benz-places-assets/binghatti-mercedes-benz-places-map.pdf#page=1",
+    "scope": "Approximate times and distances from the developer’s illustrated distance guide.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 4,
+        "distanceKm": 1.1
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 7,
+        "distanceKm": 3
+      },
+      {
+        "name": "Dubai International Financial Centre",
+        "minutes": 7,
+        "distanceKm": 3
+      },
+      {
+        "name": "Burj Khalifa",
+        "minutes": 10,
+        "distanceKm": 3
+      },
+      {
+        "name": "Emirates Towers",
+        "minutes": 11,
+        "distanceKm": 4.9
+      },
+      {
+        "name": "Jumeirah Public Beach",
+        "minutes": 15,
+        "distanceKm": 7.7
+      }
+    ]
+  },
+  "travelNote": "These paired times and distances are from page 1 of the developer’s map PDF. The schematic on page 2 gives different times for several destinations. Check directions for the current route."
+}

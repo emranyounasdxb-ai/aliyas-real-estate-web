@@ -1,0 +1,121 @@
+{
+  "projectId": "reportage-project-21",
+  "projectSlug": "taormina-village",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/TAORMINA-BROCHURE-ARTWORK-tk06-1.pdf",
+    "label": "Taormina · original brochure with complete home plans",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/taormina-village/floor-plans-3bbe708651b5.pdf",
+    "sha256": "3bbe708651b51fe6a92dd10357ad6ea4efd3351158b91f85c8d2b9ab7716db07"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore all townhouse and villa levels with middle and corner variants.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Seven types retain four whole source pages. The 3 BR villa B area table falls outside the visible original page and its total requires confirmation. Standalone B prints 4,817 sq ft against components totalling 4,816. The 5 BR corner total prints 3,614.52 against components totalling 3,614.45. The Village 1 master plan covers a 530-home parcel, while the broader factsheet describes 838 homes. Confirm the phase, home and approved drawing.",
+  "plans": [
+    {
+      "label": "3 BR townhouse A · all levels · middle / corner",
+      "area": "Middle 1,936.85 / corner 2,617.57 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/taormina-village/plan-page-18-2301512aa5f3.webp",
+      "sha256": "2301512aa5f368d58a8dcd5377238d40f34f8df6f09879cdaf219a1311bdb3b2",
+      "originalBytes": 106946,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR townhouse C / standalone B · all levels",
+      "area": "C middle 1,992 / corner 2,674. Standalone B 4,817 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/taormina-village/plan-page-19-e094ec041ed8.webp",
+      "sha256": "e094ec041ed8ef8c9fe9d4367fea634e5b458538d4d49c571308d01cca73562f",
+      "originalBytes": 165232,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "5 BR corner villa A / 4 BR middle villa A · all levels",
+      "area": "5 BR 3,614.52 / 4 BR 2,812.50 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/taormina-village/plan-page-20-fab2338047a5.webp",
+      "sha256": "fab2338047a5b3ffbaaa2f5b0628443ef9c0a68d6b5889ebdc94533af5154c0a",
+      "originalBytes": 132626,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "3 BR villa B / 4 BR villa D · all levels",
+      "area": "3 BR total unavailable on visible sheet. 4 BR middle 2,821.76 / corner 3,476.52 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/taormina-village/plan-page-21-16b316aa772b.webp",
+      "sha256": "16b316aa772b79d609b1d8e01ca83e61ea4241e4a8873d750466e11a3ffddef2",
+      "originalBytes": 165812,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "Original wider community master plan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/taormina-village/plan-page-23-6b257720654a.webp",
+      "sha256": "6b257720654ad27bc4c1f880676899e2d47fac58f20036cc1116d3d62f2a4fce",
+      "originalBytes": 8936542,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Village 1 parcel · original 530-unit master plan",
+      "area": "Parcel context · broader factsheet describes 838 homes",
+      "sourceIds": [
+        "plans-master"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/reportage/taormina-village/plan-master-page-1-47e54315ea48.webp",
+      "sha256": "47e54315ea48623672e0386d08336e5baaa0ae0413654c82528c41d012f22ccf",
+      "originalBytes": 1245474,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Taormina-Village-1-Materplan-.pdf",
+        "label": "Taormina Village 1 · parcel master plan",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/taormina-village/floor-plans-master-4b6f8d49f001.pdf",
+        "sha256": "4b6f8d49f001776e0664e09502f56860cad91ca989e41351c19a3e89ed60689c"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/taormina-village/plan-page-4-e77ceb205e20.webp",
+      "sha256": "e77ceb205e2062f4bf81785c6bf0c22474a26285d43668febd8a953950f3343a",
+      "originalBytes": 169580,
+      "width": 3600,
+      "height": 1273
+    }
+  ]
+}

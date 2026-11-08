@@ -1,0 +1,116 @@
+{
+  "projectId": "reportage-project-20",
+  "projectSlug": "reportage-village-abu-dhabi",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-UNIT-TYPES.pdf",
+    "label": "Reportage Village Abu Dhabi · original unit types",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/reportage-village-abu-dhabi/floor-plans-6e714e8044a9.pdf",
+    "sha256": "6e714e8044a98fb9bc16157f9de06f2c251afacc2c2e8439537b037d74c666b8"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the complete published townhouse and its five original levels.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "The original sheet is labelled 3 BR and includes ground, first, second, third and roof levels. The factsheet instead describes four-bedroom homes. This conflict remains explicit. Printed totals include outdoor space and count the whole home once. Lower components total 4,074.68 sq ft, against the printed 4,074.67. Confirm the bedroom configuration and approved contractual drawing.",
+  "plans": [
+    {
+      "label": "Published 3 BR townhouse · all five levels",
+      "area": "4,074.67–5,226.41 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/reportage-village-abu-dhabi/plan-page-4-e447a1da2b4b.webp",
+      "sha256": "e447a1da2b4bce88dfd47876c85adb2d277f939d61d5921a4087557422b9c8fa",
+      "originalBytes": 3085542,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Published 3 BR townhouse · whole brochure edition",
+      "area": "4,074.67–5,226.41 sq ft printed total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/reportage-village-abu-dhabi/plan-brochure-page-15-458428c879f6.webp",
+      "sha256": "458428c879f6a4fd0cf78aca8ce30bd5fe8173e8b6b2200060821ace0e67f507",
+      "originalBytes": 837952,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+        "label": "Reportage Village Abu Dhabi · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/reportage-village-abu-dhabi/floor-plans-brochure-669fc9870e8e.pdf",
+        "sha256": "669fc9870e8e9d232a0e1b511e92cf37c606172eb1a9665608eea322b6e1e0ce"
+      }
+    },
+    {
+      "label": "Original community masterplan aerial",
+      "area": "Community context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/reportage-village-abu-dhabi/plan-brochure-page-17-f1314b949bb0.webp",
+      "sha256": "f1314b949bb09b0cd43dafa74d298848da70bcc4b3a3c90e95bc41b7184cdeb5",
+      "originalBytes": 10164078,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+        "label": "Reportage Village Abu Dhabi · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/reportage-village-abu-dhabi/floor-plans-brochure-669fc9870e8e.pdf",
+        "sha256": "669fc9870e8e9d232a0e1b511e92cf37c606172eb1a9665608eea322b6e1e0ce"
+      }
+    },
+    {
+      "label": "Original community master plan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/reportage-village-abu-dhabi/plan-brochure-page-18-a0ec605b805e.webp",
+      "sha256": "a0ec605b805ee51b3b0f36c0c9254b6dab3192528b465c2d786dd42f751c9227",
+      "originalBytes": 7135952,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+        "label": "Reportage Village Abu Dhabi · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/reportage-village-abu-dhabi/floor-plans-brochure-669fc9870e8e.pdf",
+        "sha256": "669fc9870e8e9d232a0e1b511e92cf37c606172eb1a9665608eea322b6e1e0ce"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/reportage-village-abu-dhabi/plan-brochure-page-4-2328c614b698.webp",
+      "sha256": "2328c614b698edcdd82f484c09157a08e26e9181f567787274d7228e916abe8f",
+      "originalBytes": 723310,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Reportage-Village-Abu-Dhabi-Brochure-Artwork.pdf",
+        "label": "Reportage Village Abu Dhabi · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/reportage-village-abu-dhabi/floor-plans-brochure-669fc9870e8e.pdf",
+        "sha256": "669fc9870e8e9d232a0e1b511e92cf37c606172eb1a9665608eea322b6e1e0ce"
+      }
+    }
+  ]
+}

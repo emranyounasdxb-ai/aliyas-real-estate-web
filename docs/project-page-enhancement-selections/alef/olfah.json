@@ -1,0 +1,717 @@
+{
+  "slug": "olfah",
+  "id": "alef-project-04",
+  "developerSlug": "alef",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/olfah/",
+  "source": {
+    "name": "Alef Group",
+    "url": "https://www.alefgroup.ae/alef-communities/olfah/",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "olfah-frontage",
+  "images": [
+    {
+      "name": "olfah-frontage",
+      "cache": "artifacts/project-page-enhancement/olfah/Exterior-Images-1-3.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-1-3.jpg",
+      "label": "Proposed Olfah residences and balcony outlook",
+      "alt": "Alef Group render showing proposed olfah residences and balcony outlook.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-aerial",
+      "cache": "artifacts/project-page-enhancement/olfah/second-fold-2x.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/second-fold-2x.jpg",
+      "label": "Proposed Olfah master community",
+      "alt": "Alef Group render showing proposed olfah master community.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-courtyard",
+      "cache": "artifacts/project-page-enhancement/olfah/Exterior-Images-2-3.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-2-3.jpg",
+      "label": "Proposed Olfah landscaped courtyard",
+      "alt": "Alef Group render showing proposed olfah landscaped courtyard.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-pool",
+      "cache": "artifacts/project-page-enhancement/olfah/Exterior-Images-3-4.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-3-4.jpg",
+      "label": "Proposed Olfah shared pool",
+      "alt": "Alef Group render showing proposed olfah shared pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-lawn",
+      "cache": "artifacts/project-page-enhancement/olfah/Exterior-Images-4-3.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Exterior-Images-4-3.jpg",
+      "label": "Proposed Olfah central lawn",
+      "alt": "Alef Group render showing proposed olfah central lawn.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-walk",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-9-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-9-1.jpg",
+      "label": "Proposed Olfah shaded walking route",
+      "alt": "Alef Group render showing proposed olfah shaded walking route.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-plaza",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-12.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-12.jpg",
+      "label": "Proposed Olfah community plaza",
+      "alt": "Alef Group render showing proposed olfah community plaza.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-gym",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-31-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-31-1.jpg",
+      "label": "Proposed Olfah gym",
+      "alt": "Alef Group render showing proposed olfah gym.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-play",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-39-2.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-39-2.jpg",
+      "label": "Proposed Olfah climbing and play area",
+      "alt": "Alef Group render showing proposed olfah climbing and play area.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-play-aerial",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-83.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-83.jpg",
+      "label": "Proposed Olfah play gardens",
+      "alt": "Alef Group render showing proposed olfah play gardens.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-social",
+      "cache": "artifacts/project-page-enhancement/olfah/Amenities-81.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Amenities-81.jpg",
+      "label": "Proposed Olfah outdoor social space",
+      "alt": "Alef Group render showing proposed olfah outdoor social space.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-kitchen",
+      "cache": "artifacts/project-page-enhancement/olfah/Interior-Images-1-1.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-1-1.jpg",
+      "label": "Proposed Olfah kitchen concept",
+      "alt": "Alef Group render showing proposed olfah kitchen concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-bathroom",
+      "cache": "artifacts/project-page-enhancement/olfah/Interior-Images-2-2.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-2-2.jpg",
+      "label": "Proposed Olfah bathroom concept",
+      "alt": "Alef Group render showing proposed olfah bathroom concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-living",
+      "cache": "artifacts/project-page-enhancement/olfah/Interior-Images-3-2.jpg",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/Interior-Images-3-2.jpg",
+      "label": "Proposed Olfah living-room concept",
+      "alt": "Alef Group render showing proposed olfah living-room concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "olfah-bedroom",
+      "cache": "artifacts/project-page-enhancement/olfah/olfah-native-p44-0.jpg",
+      "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf#page=44",
+      "label": "Proposed Olfah bedroom concept",
+      "alt": "Alef Group original bedroom render from the current Olfah brochure.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "olfah-living",
+    "olfah-bedroom"
+  ],
+  "location": {
+    "community": "Muwaileh, Sharjah",
+    "road": "Near Sharjah Space Academy · developer regional context",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/olfah/olfah-map-web-3.png",
+      "url": "https://www.alefgroup.ae/wp-content/uploads/2026/04/olfah-map-web-3.png",
+      "alt": "Original Alef map marking Olfah near University City and Sharjah Space Academy.",
+      "caption": "Olfah · developer regional location map.",
+      "scope": "Published community-vicinity graphic. A surveyed visitor entrance and precise coordinates remain unverified."
+    },
+    "sourceLabel": "Alef Group original Olfah web map",
+    "travel": {
+      "sourceUrl": "https://www.alefgroup.ae/wp-content/uploads/2026/04/olfah-map-web-3.png",
+      "scope": "Developer regional estimates. Journey mode, exact entrance, traffic assumptions and current routing are unspecified.",
+      "destinations": [
+        {
+          "name": "Sharjah International Airport",
+          "minutes": 5
+        },
+        {
+          "name": "Sharjah University City",
+          "minutes": 2
+        },
+        {
+          "name": "06 Mall",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "The current web map supplies these estimates. The current brochure regional map on physical page 7 agrees on both airports, University City and Downtown, and adds 7 minutes to Sheikh Khalifa Bin Zayed Al Nahyan Road. These are source-published guides. Confirm the final building access and current traffic. Kilometre journeys and surveyed entrance coordinates remain unavailable."
+  },
+  "floorPlans": {
+    "url": "https://olfah.alefgroup.ae/wp-content/uploads/2025/10/Olfah-1-floorplan.pdf",
+    "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1.pdf",
+    "label": "Olfah Building 1 · original Alef drawings",
+    "renderTool": "Poppler pdftoppm, lossless WebP delivery",
+    "introduction": "Compare the published Building 1–5 layouts and floorplates, with their source-specific printed area figures.",
+    "selectorLabel": "Choose a building, full residence spread or original location drawing",
+    "note": "All 73 complete source sheets retain their original artwork and notices. Building 1 labels its values total area. Buildings 2–5 distinguish total net from separately printed gross area. Paired totals describe separate homes. Garden and balcony areas remain within the source scope. Building 1 repeats B.5 mirror sheets 20/21 and prints level G on sheet 31. Its B.1 mirror and standard totals differ. Building 2 sheet 6 incorrectly heads two-bedroom C2.C/C2.D drawings as one bedroom. The Building 3 pack floorplate is headed Olfah 2 and remains disputed. Current building markers and earlier pack maps retain their separate revisions. Confirm the contracted building, level, unit, final area and drawing revision.",
+    "plans": [
+      {
+        "sourcePage": 6,
+        "label": "Building 1 pack · original numbered master plan",
+        "area": "Community context, no home total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-06.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Building 1 · ground floorplate",
+        "area": "Floorplate, no single-home total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Building 1 · levels 1–9 floorplate",
+        "area": "Floorplate, no single-home total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-11.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Building 1 · 1 BR B.1 mirror · ground",
+        "area": "506.55 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Building 1 · 1 BR B.1 · ground",
+        "area": "506.55 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Building 1 · 1 BR B.1G mirror · unit 06",
+        "area": "720.21 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-16.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "Building 1 · 1 BR B.1G mirror · unit 04",
+        "area": "716.66 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-17.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Building 1 · 1 BR B.1G · unit 05",
+        "area": "716.66 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-18.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Building 1 · 1 BR B.1GG mirror",
+        "area": "811.38 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "Building 1 · 1 BR B.5 mirror · source sheet 20",
+        "area": "692.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "Building 1 · 1 BR B.5 mirror · source sheet 21",
+        "area": "692.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-21.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "Building 1 · 1 BR B.5 · ground",
+        "area": "692.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-22.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Building 1 · 1 BR B.6G · ground",
+        "area": "756.81 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-23.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Building 1 · 3 BR D.4G · ground",
+        "area": "2,820.03 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Building 1 · 1 BR B.1 mirror · levels 1–9",
+        "area": "720.21 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Building 1 · 1 BR B.1 · levels 1–9",
+        "area": "506.55 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Building 1 · 1 BR B.1A mirror",
+        "area": "556.71 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Building 1 · 1 BR B.1A",
+        "area": "556.71 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Building 1 · 1 BR B.1B mirror",
+        "area": "615.48 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Building 1 · 1 BR B.1B",
+        "area": "615.48 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Building 1 · 1 BR B.5 mirror · source level G",
+        "area": "692.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "Building 1 · 1 BR B.5 · levels 1–9",
+        "area": "692.12 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Building 1 · 1 BR B.6 mirror",
+        "area": "528.29 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "Building 1 · 1 BR B.6",
+        "area": "528.29 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "Building 1 · 3 BR D.4 · levels 1–9",
+        "area": "1,495.75 sq ft printed total",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans1-review-35.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Building 2 · ground and levels 1–10 floorplates",
+        "area": "Floorplates, no single-home total",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-03.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Building 2 · ground · 1 BR B.1 / B.1B",
+        "area": "B.1 · 510.75 sq ft net / B.1B · 617.74 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Building 2 · ground · C2.C / C2.D · source bedroom error",
+        "area": "C2.C · 1,179.83 sq ft net / C2.D · 1,232.14 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Building 2 · ground · 2 BR C.3 / mirror",
+        "area": "1,167.02 sq ft net each",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Building 2 · ground · 3 BR D.2A / D.3",
+        "area": "D.2A · 1,601.88 sq ft net / D.3 · 1,633.53 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Building 2 · levels 1–10 · B.1B / C.2C mirror",
+        "area": "B.1B · 617.74 sq ft net / C.2C mirror · 1,179.83 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Building 2 · levels 1–10 · 2 BR C.2C / C.2D",
+        "area": "C.2C · 1,179.83 sq ft net / C.2D · 1,232.14 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Building 2 · levels 1–10 · 2 BR C.3 / mirror",
+        "area": "1,167.02 sq ft net each",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Building 2 · levels 1–10 · C.4 / D.2A",
+        "area": "C.4 · 1,105.99 sq ft net / D.2A · 1,601.88 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Building 2 · levels 1–10 · 3 BR D.3",
+        "area": "1,633.53 sq ft net",
+        "documentId": "plans2",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2-review-13.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Building 3 pack · floorplates headed Olfah 2",
+        "area": "Source heading disputed, no home total",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-03.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Building 3 · ground · 1 BR B.1A / mirror",
+        "area": "556.17 sq ft net each",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Building 3 · ground · 1 BR B.1B / mirror",
+        "area": "617.74 sq ft net each",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Building 3 · ground · 1 BR B.5A / B.7",
+        "area": "B.5A · 674.36 sq ft net / B.7 · 624.63 sq ft net",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Building 3 · ground · 2 BR C.2C / C.3",
+        "area": "C.2C · 1,179.83 sq ft net / C.3 · 1,167.02 sq ft net",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Building 3 · ground · 3 BR D.3 source pair",
+        "area": "1,633.53 sq ft net each",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Building 3 · levels 1–11 · 1 BR B.1A / mirror",
+        "area": "556.17 sq ft net each",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Building 3 · levels 1–11 · B.1A / B.1B mirror",
+        "area": "B.1A · 556.17 sq ft net / B.1B mirror · 617.74 sq ft net",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Building 3 · levels 1–11 · B.1B / C.2C",
+        "area": "B.1B · 617.74 sq ft net / C.2C · 1,179.83 sq ft net",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Building 3 · levels 1–11 · 2 BR C.3 source pair",
+        "area": "1,167.02 sq ft net each",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Building 3 · levels 1–11 · C.5 / D.3",
+        "area": "C.5 · 1,245.06 sq ft net / D.3 · 1,633.53 sq ft net",
+        "documentId": "plans3",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3-review-14.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Building 4 · first and typical floorplates",
+        "area": "Floorplates, no single-home total",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-04.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Building 4 · levels 2–11 · 1 BR B.2 / B.1",
+        "area": "B.2 · 602.02 sq ft net / B.1 · 506.98 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Building 4 · level 1 · 1 BR B.2 / B.1",
+        "area": "B.2 · 602.02 sq ft net / B.1 · 506.98 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Building 4 · 1 BR B.3 / B.2 mirror",
+        "area": "B.3 · 667.58 sq ft net / B.2 mirror · 602.02 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Building 4 · 1 BR B.1B / mirror",
+        "area": "610.42 sq ft net each",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Building 4 · levels 2–11 · 2 BR C.2C1",
+        "area": "1,154.21 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Building 4 · C.2C1 level 1 / C.2C levels 1–11",
+        "area": "C.2C1 · 1,154.21 sq ft net / C.2C · 1,174.88 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Building 4 · 2 BR C.2A / C.2",
+        "area": "C.2A · 1,259.48 sq ft net / C.2 · 1,244.52 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-12.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Building 4 · level 1 · 3 BR D.3",
+        "area": "1,633.96 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Building 4 · levels 2–11 · 3 BR D.3",
+        "area": "1,633.96 sq ft net",
+        "documentId": "plans4",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4-review-15.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Building 5 · ground and typical floorplates",
+        "area": "Floorplates, no single-home total",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Building 5 · levels 1–11 · 1 BR B.7",
+        "area": "617.96 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Building 5 · 1 BR B.1 / B.2A",
+        "area": "B.1 · 506.76 sq ft net / B.2A · 650.57 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Building 5 · 1 BR B.1D / B.1A",
+        "area": "B.1D · 659.72 sq ft net / B.1A · 557.68 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Building 5 · 1 BR B.1A mirror / B.7",
+        "area": "B.1A mirror · 557.68 sq ft net / B.7 · 617.96 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-08.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Building 5 · levels 1–11 · 2 BR C.4 / C.2C",
+        "area": "C.4 · 1,094.37 sq ft net / C.2C · 1,174.45 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Building 5 · 2 BR C.1 / C.2C mirror",
+        "area": "C.1 · 1,186.83 sq ft net / C.2C mirror · 1,174.45 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Building 5 · 2 BR C.2A / mirror",
+        "area": "1,266.37 sq ft net each",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Building 5 · ground · 2 BR C.2C / C.1",
+        "area": "C.2C · 1,174.45 sq ft net / C.1 · 1,186.83 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-13.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Building 5 · 3 BR D.4A",
+        "area": "1,509.96 sq ft net",
+        "documentId": "plans5",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans-review-15.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Olfah · current brochure regional map",
+        "area": "Regional context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Olfah · current brochure community overview",
+        "area": "Community context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-08.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Olfah · current marked Building 1",
+        "area": "Building context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Olfah · current marked Building 2",
+        "area": "Building context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Olfah · current marked Building 3",
+        "area": "Building context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Olfah · current marked Building 4",
+        "area": "Building context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Olfah · current marked Building 5",
+        "area": "Building context, no home total",
+        "documentId": "brochure",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure-review-14.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "plans2",
+        "label": "Olfah Building 2 · original Alef floor and unit drawings",
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-2-Floorplan.pdf",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans2.pdf"
+      },
+      {
+        "id": "plans3",
+        "label": "Olfah Building 3 · original Alef floor and unit drawings",
+        "url": "https://olfah.alefgroup.ae/assets/olfah2-3-assets/Olfah-3-Floorplan.pdf",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans3.pdf"
+      },
+      {
+        "id": "plans4",
+        "label": "Olfah Building 4 · original Alef floor and unit drawings",
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-04-Floor-Plans.pdf",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-plans4.pdf"
+      },
+      {
+        "id": "plans5",
+        "label": "Olfah Building 5 · original Alef floor and unit drawings",
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-05-Floor-Plans.pdf",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-plans.pdf"
+      },
+      {
+        "id": "brochure",
+        "label": "Olfah · current original Alef brochure",
+        "url": "https://olfah.alefgroup.ae/assets/Olfah-5/Olfah-Brochure-Website.pdf",
+        "cache": "artifacts/project-page-enhancement/olfah/olfah-official-brochure.pdf"
+      }
+    ]
+  },
+  "review": {
+    "imagery": "Root reviewed both original brochure indexes and all 20 scoped website resources. Fifteen selected original renders comprise 14 website images and one native bedroom resource from current brochure physical page 44. Red-overprint duplicate views and the website banner were excluded. Architecture and amenity concepts remain scoped to the Olfah community. No delivery status inferred from render artwork.",
+    "floorPlans": "Root visually reviewed all 73 delivered complete sheets and all 90 visible residence-area headers. Building 4/5 paired PDF text order is reversed in several places, so manual visible left/right figures control every label. Building 1 printed total and later net/gross definitions remain distinct. Repeated B.5 sheets, B.1 area differences, Building 2 bedroom-header error and Building 3 disputed floorplate heading remain explicit. Original five drawing PDFs and current brochure retain byte/hash and physical-page links.",
+    "location": "Root reviewed the complete current web map and original brochure physical page 7, including all printed estimates and the additional 7-minute road entry. Both sources remain regionally scoped. Current brochure community overview and all five marked building spreads are delivered intact. No surveyed coordinates or kilometre journey inferred.",
+    "provenance": "Normal-GET dated URL/byte/SHA256 receipts cover all eight research documents, official HTML and 20 website resources. Source masters remain unchanged. Existing commercial research, owner and protected identity preserved."
+  },
+  "unavailable": [
+    "Surveyed visitor entrance, live routes, kilometre journeys, contracted unit revision and final finishes remain unverified. Building 3 pack floorplate ownership is disputed by its Olfah 2 heading. Building 1 repeated/type-area inconsistencies and Building 2 bedroom-header error remain explicit. Detailed Building 6–12 layouts were not located in the reviewed official packs."
+  ]
+}

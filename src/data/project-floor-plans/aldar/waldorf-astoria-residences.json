@@ -1,0 +1,114 @@
+{
+  "projectId": "aldar-project-36",
+  "projectSlug": "waldorf-astoria-residences",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://api.reelly.io/vault/ZZLvFZFt/geo6GGGO1_zuc4kUaqkEDKXnN4Q/RCgWiA../Waldorf+Astoria+Residences+Yas+Floor+Plans.pdf",
+    "label": "Aldar Waldorf Astoria Residences Yas plans · Reelly-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/waldorf-astoria-residences/floor-plans-f4f1021b7cbc.pdf",
+    "sha256": "f4f1021b7cbcf775fa474748427d87f27507c88d8469565563a9dd742fb048b4"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare seven furnished layouts. Each complete sheet pairs the light and dark finish schemes.",
+  "selectorLabel": "Choose a Waldorf Astoria Residences Yas floor plan",
+  "note": "The sheets list average gross sellable areas (GSA) or a category range. Confirm the signed plan and exact area for the selected home.",
+  "plans": [
+    {
+      "label": "1 BR · Pendulum Type A",
+      "area": "119–155 m² published GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-1-4ce8009138ba.webp",
+      "sha256": "4ce8009138ba57fe6f0bc03a518f7209fd36f8586a132f9c9203025b0a673a36",
+      "originalBytes": 604478,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR · Pendulum Type B",
+      "area": "119–155 m² published GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-2-f55ba34f9154.webp",
+      "sha256": "f55ba34f91548f6d15dbd4f94083d39a99eed060fb3aa10e8a4d1d5dadf11255",
+      "originalBytes": 612114,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR duplex · Horology",
+      "area": "115 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-3-bd1cd8f28f84.webp",
+      "sha256": "bd1cd8f28f842b48075c2ca2743894dc6850c7042f3369727c5eb7862cfea6a3",
+      "originalBytes": 729298,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + study · Chronograph Type A",
+      "area": "206 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-4-4e2c15c90708.webp",
+      "sha256": "4e2c15c90708180d898bc177b5ead443b8960e432a51affa44bb881cc1d449f3",
+      "originalBytes": 819668,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + study · Chronograph Type B",
+      "area": "206 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-5-e8224b555d70.webp",
+      "sha256": "e8224b555d70e56db250d1fa13c6b98b5be107601a4e5871144527b04c3e3c8a",
+      "originalBytes": 770166,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + study · Perpetual Type A",
+      "area": "269 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-6-7cbe4785de86.webp",
+      "sha256": "7cbe4785de86f90f6e857934b6442784ec17c3fb067771fc4d7cfce10a82183f",
+      "originalBytes": 789800,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + maid · Perpetual Type B",
+      "area": "267 m² average GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/aldar/waldorf-astoria-residences/plan-page-7-3a34a220522e.webp",
+      "sha256": "3a34a220522ef8787e4105b7d1c9249d2f514a233297d49a30af40d5041f358d",
+      "originalBytes": 755756,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

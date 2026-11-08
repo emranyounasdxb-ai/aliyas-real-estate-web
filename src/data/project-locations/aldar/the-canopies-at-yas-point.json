@@ -1,0 +1,48 @@
+{
+  "projectId": "aldar-project-06",
+  "projectSlug": "the-canopies-at-yas-point",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "community": "Yas Point, northern Yas Island",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/aldar/the-canopies-at-yas-point/location-50593469f636.png",
+    "sha256": "50593469f63611e1e9e3ccb54cc9cb44a78f00e75fb9df0b4bb336d362706a8f",
+    "originalBytes": 2658783,
+    "width": 2400,
+    "height": 1201,
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/05ff89c092a74c0eac4d73ab933b2ef8.pdf#page=6",
+    "alt": "Aldar brochure map marking The Canopies on the north shore of Yas Island and nearby attractions.",
+    "scope": "Aerial destination context. No exact entrance coordinates.",
+    "caption": "Aldar’s Yas Island context diagram, brochure page 6. Some destinations shown are planned."
+  },
+  "sourceLabel": "Aldar brochure · page 6 · Reelly-hosted copy",
+  "travel": {
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/05ff89c092a74c0eac4d73ab933b2ef8.pdf",
+    "page": 6,
+    "scope": "Aldar brochure estimates from the Yas Point area.",
+    "destinations": [
+      {
+        "name": "Yas Mall",
+        "minutes": 3
+      },
+      {
+        "name": "Zayed International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "Saadiyat Island",
+        "minutes": 15
+      },
+      {
+        "name": "Abu Dhabi City Centre",
+        "minutes": 15
+      },
+      {
+        "name": "Abu Dhabi Corniche",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "The Canopies is in the first residential release at Yas Point. The brochure times are area estimates. Access and travel times may change as the wider destination takes shape."
+}

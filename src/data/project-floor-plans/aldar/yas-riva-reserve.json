@@ -1,0 +1,101 @@
+{
+  "projectId": "aldar-project-01",
+  "projectSlug": "yas-riva-reserve",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/83bc4764d16f47c29db06827d68ba5b3.pdf",
+    "label": "Yas Riva Reserve floor plans · Reelly-hosted Aldar booklet",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/yas-riva-reserve/floor-plans-6bad3cb60d5f.pdf",
+    "sha256": "6bad3cb60d5ff7f81cf087acdc6459f3f00f48fbc7d2f1f6e1bf90aa964f4e20"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published inland and waterfront villas. Each complete drawing shows the ground and first floors together.",
+  "selectorLabel": "Choose a Yas Riva Reserve floor plan",
+  "note": "Aldar lists average area by villa category on its launch page. The two six-bedroom waterfront sheets share that category average. The individual drawings give layouts without exact unit areas. Confirm the signed plan and area for your villa.",
+  "plans": [
+    {
+      "label": "4 BR · Inland",
+      "area": "437 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-2-899bc4e238e0.webp",
+      "sha256": "899bc4e238e0234af7e1aebda3d7702d18a26b709ad2bfb1f1e9ab03f6c6c320",
+      "originalBytes": 723400,
+      "width": 2400,
+      "height": 1440
+    },
+    {
+      "label": "5 BR · Inland",
+      "area": "482 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-3-b2c274a2cd32.webp",
+      "sha256": "b2c274a2cd3250b48e9f683accf988eb7b9ed883d595996d69a7813b2f0baa77",
+      "originalBytes": 579940,
+      "width": 2400,
+      "height": 1440
+    },
+    {
+      "label": "6 BR · Inland",
+      "area": "538 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-4-2fe747a3d9ac.webp",
+      "sha256": "2fe747a3d9ac8b09ef7db12d3f73fb93136cc54343c55b860e97e93a47766835",
+      "originalBytes": 679254,
+      "width": 2400,
+      "height": 1440
+    },
+    {
+      "label": "5 BR · Waterfront",
+      "area": "552 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-5-ceb74708e5e6.webp",
+      "sha256": "ceb74708e5e6c4e47c3181412bdb200802612969759f5f90804ced06d6a20049",
+      "originalBytes": 565382,
+      "width": 2400,
+      "height": 1440
+    },
+    {
+      "label": "6 BR · Waterfront · L-shaped",
+      "area": "609 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-6-1fd793501634.webp",
+      "sha256": "1fd793501634c2b03b40f12edf7d7b1222bfb7c8e97e316a455ea651683de627",
+      "originalBytes": 810792,
+      "width": 2400,
+      "height": 1440
+    },
+    {
+      "label": "6 BR · Waterfront",
+      "area": "609 sq m published type average",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/aldar/yas-riva-reserve/plan-page-7-1dea8322f149.webp",
+      "sha256": "1dea8322f149b0d38049384a6d95b792f9b08555fec1c883c89decdb57219b4d",
+      "originalBytes": 677082,
+      "width": 2400,
+      "height": 1440
+    }
+  ]
+}

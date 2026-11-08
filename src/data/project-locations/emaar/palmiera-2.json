@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-88",
+  "projectSlug": "palmiera-2",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "The Oasis",
+  "map": {
+    "src": "/images/projects/emaar/palmiera-2/location-38ec57e570d1.png",
+    "sha256": "38ec57e570d17d93fd1924561455bde4fcc743706aeb51350bc08ffa4509745b",
+    "originalBytes": 333716,
+    "width": 2400,
+    "height": 1350,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/383954_brochure_File_7ce4a7685f_prod.pdf#page=5",
+    "alt": "Emaar’s brochure map of The Oasis.",
+    "scope": "Regional connectivity map from the Palmiera 2 brochure."
+  },
+  "travelHeading": "Estimated travel times in the Emaar brochure",
+  "travel": {
+    "page": 5,
+    "scope": "Regional connectivity map from the Palmiera 2 brochure.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 18
+      },
+      {
+        "name": "Dubai Hills Estate and Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Marina and Dubai Marina Mall",
+        "minutes": 28
+      },
+      {
+        "name": "Downtown Dubai and Dubai Mall",
+        "minutes": 35
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/383954_brochure_File_7ce4a7685f_prod.pdf"
+  },
+  "travelNote": "The Oasis brochure gives estimated travel times. Confirm your route and traffic conditions.",
+  "pin": {
+    "latitude": 25.00713546910611,
+    "longitude": 55.20361110000001,
+    "sourceUrl": "https://www.emaar.com/en/properties/palmiera-2-at-the-oasis",
+    "scope": "Emaar’s published Palmiera 2 collection point. Confirm the address for an individual villa."
+  }
+}

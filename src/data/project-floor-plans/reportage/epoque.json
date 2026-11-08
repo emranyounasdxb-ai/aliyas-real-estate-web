@@ -1,0 +1,277 @@
+{
+  "projectId": "reportage-project-03",
+  "projectSlug": "epoque",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/UAE_EPOQUE_FLOORPLANS_V1-3.pdf",
+    "label": "Époque · original apartment drawings",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/epoque/floor-plans-d066a1e39ed8.pdf",
+    "sha256": "d066a1e39ed81d8aaf800ced2646680854476580186bffbddff3eed237362fde"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the residences with their original building floors and regional setting.",
+  "selectorLabel": "Choose a residence, building floor or context sheet",
+  "note": "Printed totals include outdoor space and retain their published endpoints. Balconies and selected floors vary. Several range endpoint sums differ by 0.01 sq ft. Whole sheets preserve room dimensions, floor scope, locators and source notices. Confirm the selected unit, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "1 BR · A",
+      "area": "589.75–598.80 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/epoque/plan-page-14-98b61a46a94d.webp",
+      "sha256": "98b61a46a94d04a7c20574f2a106ccde2efc4a715eab1d99584d9a7f624f3f11",
+      "originalBytes": 3960900,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "1 BR · B",
+      "area": "545.95 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/epoque/plan-page-15-ed53b9dabf75.webp",
+      "sha256": "ed53b9dabf755a965f0d2fe43743c2553687a3c728c40685c977d7f50e3bda4c",
+      "originalBytes": 4095514,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · A",
+      "area": "772.96–775.65 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/reportage/epoque/plan-page-16-f9e5d90b0940.webp",
+      "sha256": "f9e5d90b09402c0f86a102d224c1fa9cebb6c3be69131ba5687cc6dc09891427",
+      "originalBytes": 4388638,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · B",
+      "area": "1,108.90–1,115.68 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/epoque/plan-page-17-e7a08430cb9d.webp",
+      "sha256": "e7a08430cb9d61d7d865fc15d9ad50f288bb1b74dde0f3b59f3b2930a85c6b1d",
+      "originalBytes": 3559478,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · C",
+      "area": "817.95–820.53 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/epoque/plan-page-18-8dec36b2bebc.webp",
+      "sha256": "8dec36b2bebc5dfec7182b2624e0cbaee11fa46873ebb1b73ad2fd5e876da0c6",
+      "originalBytes": 4208820,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · D",
+      "area": "1,004.27–1,007.07 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/epoque/plan-page-19-bfadd07dcc46.webp",
+      "sha256": "bfadd07dcc46ac0f65b29aed6a4feb495a91b4bee4e3d7cc092f966cbc87d5f8",
+      "originalBytes": 4449162,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · E",
+      "area": "810.74–813.00 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/epoque/plan-page-20-940b8a80a12e.webp",
+      "sha256": "940b8a80a12ee3971b841dd33ae83b66da9e5ab9145d40ca7d2f3231ed11e2f5",
+      "originalBytes": 4111076,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · F",
+      "area": "1,034.95–1,038.07 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/epoque/plan-page-21-a1626b097a53.webp",
+      "sha256": "a1626b097a5384041a2a686267c4aa5862e794972772b1a67062420cbe1749e7",
+      "originalBytes": 4442514,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Basement 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/reportage/epoque/plan-page-3-880c44ecf6f5.webp",
+      "sha256": "880c44ecf6f54f0b46aaded925405909a07019045e50af82523b9a620eb4fff8",
+      "originalBytes": 2305780,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Basement 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/epoque/plan-page-4-c9da224186ec.webp",
+      "sha256": "c9da224186ecaf79063d7cca7e4d2b2d39ca680139b4e7813f790b1a050bee97",
+      "originalBytes": 2307880,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/epoque/plan-page-5-261616db716e.webp",
+      "sha256": "261616db716ebc17ca82acbbea1b687d4afd8a87c731ca0748966d593635374d",
+      "originalBytes": 2251664,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Podium",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/epoque/plan-page-6-c4ac1b64ec1d.webp",
+      "sha256": "c4ac1b64ec1d376441b5b75666603fb9f92f20a81f2e541d668cca1c854370d6",
+      "originalBytes": 2205594,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "First floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/epoque/plan-page-7-59fc4767dd2a.webp",
+      "sha256": "59fc4767dd2a1dc22146678ccc5d92afbdde2aca98b3bf9934c2e13a89d45f69",
+      "originalBytes": 1949664,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/epoque/plan-page-8-b16db3ec544d.webp",
+      "sha256": "b16db3ec544df4e1c71eba20d99cf1e2d04e4c6e37d854c2c12e9ea6b4696800",
+      "originalBytes": 1935676,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 3",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/epoque/plan-page-9-59e054fc7c8b.webp",
+      "sha256": "59e054fc7c8b5028ca141fb067752cd007639d989f09c0526b975074b253e324",
+      "originalBytes": 1935406,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 4",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/epoque/plan-page-10-63eca13986cf.webp",
+      "sha256": "63eca13986cf29b0a095bc324a577e543b59c755726df3af8b95b03d546e8aed",
+      "originalBytes": 1942232,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 5",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/epoque/plan-page-11-3fbe870044fd.webp",
+      "sha256": "3fbe870044fdc334bbf82dc8edf484f85c8db9ae168ecd507b05c7625999752b",
+      "originalBytes": 1940022,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 6",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/epoque/plan-page-12-1fe060ce8bf6.webp",
+      "sha256": "1fe060ce8bf6b181f39f51b0938a4e1e6965057845204c3548cf579ad7a93e16",
+      "originalBytes": 1941076,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/epoque/plan-brochure-page-6-7c6b0edc2695.webp",
+      "sha256": "7c6b0edc269556e5a4614d446af53217f558bf9ae9e734af3803b8be6602e36b",
+      "originalBytes": 3128672,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/EPOQUE_BROCHURE_V4-1.pdf",
+        "label": "Époque · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/epoque/floor-plans-brochure-c0f97888e863.pdf",
+        "sha256": "c0f97888e863ea759e38307907787039a2364f164ea9a0fc5bf0834fe7aa2d2b"
+      }
+    }
+  ]
+}

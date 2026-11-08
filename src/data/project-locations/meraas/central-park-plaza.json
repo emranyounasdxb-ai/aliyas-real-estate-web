@@ -1,0 +1,48 @@
+{
+  "projectId": "meraas-project-20",
+  "projectSlug": "central-park-plaza",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "Central Park at City Walk, Al Wasl, Dubai",
+  "road": "Between Al Wasl Road and Sheikh Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/central-park-plaza/location-32eacc716d19.png",
+    "sha256": "32eacc716d1963ee26e397f873c50c4a6cd07cbd5a5e59802f657ed638a40b49",
+    "originalBytes": 2259050,
+    "width": 1620,
+    "height": 638,
+    "sourceUrl": "https://meraas.com/sites/default/files/2024-05/CP%20Plaza%20Brochure_V2_digital%20FINAL%20%281%29.pdf#page=16",
+    "alt": "Meraas masterplan marking the two Central Park Plaza towers within Central Park at City Walk.",
+    "scope": "The marked area identifies the two towers. Verify the entrance for the tower you are visiting.",
+    "caption": "Central Park Plaza location on the Meraas masterplan, brochure PDF page 16."
+  },
+  "sourceLabel": "Meraas Central Park Plaza brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2024-05/CP%20Plaza%20Brochure_V2_digital%20FINAL%20%281%29.pdf#page=15",
+    "scope": "Approximate times from Central Park Plaza, as published by Meraas.",
+    "destinations": [
+      {
+        "name": "City Walk on foot",
+        "minutes": 2
+      },
+      {
+        "name": "Sheikh Zayed Road by car",
+        "minutes": 2
+      },
+      {
+        "name": "Dubai Mall by car",
+        "minutes": 10
+      },
+      {
+        "name": "Jumeirah Beach by car",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport by car",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Travel time varies with route and traffic."
+}

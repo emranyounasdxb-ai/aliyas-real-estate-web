@@ -1,0 +1,97 @@
+{
+  "projectId": "binghatti-project-22",
+  "projectSlug": "mercedes-benz-places-binghatti-city",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "community": "Nad Al Sheba, Meydan, Dubai",
+  "road": "Near Dubai–Al Ain Road and Al Khail Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/location-8c1f411baadb.png",
+    "sha256": "8c1f411baadbe28074e835b8b40c91c3bb2fb109d5f3d19f126dc364acecace4",
+    "originalBytes": 1186917,
+    "width": 3486,
+    "height": 1035,
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf#page=15",
+    "alt": "Mercedes-Benz Places Binghatti City marked near Al Ain Road and the Meydan Racecourse.",
+    "scope": "Master development map. Journeys differ by tower and traffic.",
+    "caption": "Binghatti City location diagram, master brochure PDF page 15."
+  },
+  "sourceLabel": "Binghatti City master brochure",
+  "travel": {
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf#page=15",
+    "scope": "Developer estimates for the whole Binghatti City development.",
+    "destinations": [
+      {
+        "name": "Meydan Hotel and Racecourse",
+        "minutes": 3
+      },
+      {
+        "name": "Ras Al Khor Wildlife Sanctuary",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 8,
+        "maxMinutes": 10
+      },
+      {
+        "name": "Burj Khalifa",
+        "minutes": 8
+      },
+      {
+        "name": "Dubai Opera",
+        "minutes": 8
+      },
+      {
+        "name": "Dubai Design District",
+        "minutes": 8
+      },
+      {
+        "name": "Emirates Towers",
+        "minutes": 9
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 9
+      },
+      {
+        "name": "Business Bay",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai World Trade Centre",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Harbour and Festival City",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Frame",
+        "minutes": 12
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 12
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Binghatti’s brochure gives 8 minutes to Dubai Mall and its project website gives 10. Both sources describe the wider development. Check directions for your tower and current traffic."
+}

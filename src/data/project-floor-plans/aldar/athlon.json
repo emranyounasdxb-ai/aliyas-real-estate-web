@@ -1,0 +1,127 @@
+{
+  "projectId": "aldar-project-15",
+  "projectSlug": "athlon",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://cdn.aldar.com/-/media/project/damascus/damascus/brochures/com_athlon_living/athlon_brochure.pdf",
+    "label": "Aldar Athlon brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/athlon/floor-plans-2b8a9360de93.pdf",
+    "sha256": "2b8a9360de932e99c73a4fcddd1a75ff7578245ab762447c4aaf8a75e649f03d"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published townhouse, standard villa and premium villa layouts. The six-bedroom premium example includes its second floor.",
+  "selectorLabel": "Choose an Athlon floor plan",
+  "note": "These drawings illustrate typical layouts. Confirm the signed plans and areas for the selected home and release.",
+  "plans": [
+    {
+      "label": "3 BR townhouse",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/aldar/athlon/plan-page-33-4ad979ccb636.webp",
+      "sha256": "4ad979ccb63696a9182e1ac0093654a2ed936e840b2aed2ed67c953d5bd1b94b",
+      "originalBytes": 335874,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "4 BR townhouse",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/aldar/athlon/plan-page-34-2bc274143b43.webp",
+      "sha256": "2bc274143b439aec6de357995f32bf7c2d5b036edabb00d1545392b780ea06ca",
+      "originalBytes": 468760,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR villa · Standard",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/aldar/athlon/plan-page-39-794d0a7da339.webp",
+      "sha256": "794d0a7da339055dd7b062b248f589c396d5450efaaa3eb1a41cdda5dc1373d6",
+      "originalBytes": 522046,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "4 BR villa · Standard",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/aldar/athlon/plan-page-44-a1b43b4a1165.webp",
+      "sha256": "a1b43b4a11654be0b9cfe9b1df02f6d93ab4a223766f4c604df8373ff2d26262",
+      "originalBytes": 585186,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "5 BR villa · Standard",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/aldar/athlon/plan-page-49-17e38aca70ca.webp",
+      "sha256": "17e38aca70ca75054f773c6b2a0f4bb99aacd1b906e6cf2dbe4b190e9c7ed385",
+      "originalBytes": 472238,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "4 BR villa · Premium",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 55,
+      "src": "/images/projects/aldar/athlon/plan-page-55-d973c461a131.webp",
+      "sha256": "d973c461a1310573ba5970ae679074ecdae670a49161a8fa9a2279cd5caa77e7",
+      "originalBytes": 674988,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "5 BR villa · Premium",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 60,
+      "src": "/images/projects/aldar/athlon/plan-page-60-950d774e075e.webp",
+      "sha256": "950d774e075ee28d90757354c0422af4d3e5d24687ded75bc047da3c077c2aed",
+      "originalBytes": 736178,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "6 BR villa · Premium",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 65,
+      "src": "/images/projects/aldar/athlon/plan-page-65-d98a1acbcecb.webp",
+      "sha256": "d98a1acbcecb3bb05d796cbf1713855d12be001914b266ed582c6c09943f20c2",
+      "originalBytes": 565534,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

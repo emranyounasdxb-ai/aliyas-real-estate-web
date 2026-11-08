@@ -1,0 +1,102 @@
+{
+  "projectId": "samana-project-23",
+  "projectSlug": "samana-parkville",
+  "developerSlug": "samana",
+  "source": {
+    "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/46/837b4d98d8c05efe7a15af2ca0b83be7.pdf",
+    "label": "SAMANA ParkVille · original official brochure and home plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/samana/samana-parkville/floor-plans-102d358f08db.pdf",
+    "sha256": "102d358f08db1faf55fa34e139cee627a14dd29e97046140603166d810d9d8db"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore complete original home and building drawings, with full-size zoom and physical PDF-page links.",
+  "selectorLabel": "Choose a home or building plan",
+  "note": "Three home drawings are from the official brochure. Two complete building sheets are from a REM-hosted broker-platform mirror of the branded plan pack. Its three repeated home sheets remain in the original PDF. The two-bedroom drawing includes a store. Numerical unit areas and home-to-unit matching are not supplied. Confirm the approved layout and contractual area with SAMANA.",
+  "plans": [
+    {
+      "label": "Studio + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/samana/samana-parkville/plan-page-33-148596c9d810.webp",
+      "sha256": "148596c9d81015d192affe82d2b33b4716371a3bb7694f2b94cd81386d038541",
+      "originalBytes": 473752,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "1 BR + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/samana/samana-parkville/plan-page-34-c85fb0c8bcc0.webp",
+      "sha256": "c85fb0c8bcc0a12c82682528d79ad1bf50ff4d0bfee71520111bd57218a51ee3",
+      "originalBytes": 860470,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "2 BR + pool · store shown",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/samana/samana-parkville/plan-page-35-e926260c94da.webp",
+      "sha256": "e926260c94da5b44e6a084751fd3df9ec0064bc1b57cc60c6c043d4cd1dec6f4",
+      "originalBytes": 916512,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "First floor · broker mirror",
+      "area": "Whole-floor overview · unit areas not stated",
+      "sourceIds": [
+        "plans-floorplates"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/samana/samana-parkville/plan-floorplates-page-2-adb3d9c83ca1.webp",
+      "sha256": "adb3d9c83ca145b52dd77a3d46e82140c0627b8f4c81e33f5648e8528a5519b6",
+      "originalBytes": 1319192,
+      "width": 3200,
+      "height": 2058,
+      "source": {
+        "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771249315500-fe794bbc4db30ff8.pdf",
+        "label": "REM broker-platform mirror · SAMANA-branded ParkVille floorplates",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/samana/samana-parkville/floor-plans-floorplates-6cb0e59ca3bb.pdf",
+        "sha256": "6cb0e59ca3bbd8d7f7b786f497307c7d043d791e83255355aa7ae82e12a1b8ec"
+      }
+    },
+    {
+      "label": "Floors 2–20 · broker mirror",
+      "area": "Whole-floor overview · unit areas not stated",
+      "sourceIds": [
+        "plans-floorplates"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/samana/samana-parkville/plan-floorplates-page-3-650a1e09fae8.webp",
+      "sha256": "650a1e09fae83b108bfd60c32fecb6de9fac52605335251b13d7ea3f25d15380",
+      "originalBytes": 1705724,
+      "width": 3200,
+      "height": 2058,
+      "source": {
+        "url": "https://files.remapp.ae/rem-offplan-v3/project-files/1771249315500-fe794bbc4db30ff8.pdf",
+        "label": "REM broker-platform mirror · SAMANA-branded ParkVille floorplates",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/samana/samana-parkville/floor-plans-floorplates-6cb0e59ca3bb.pdf",
+        "sha256": "6cb0e59ca3bbd8d7f7b786f497307c7d043d791e83255355aa7ae82e12a1b8ec"
+      }
+    }
+  ]
+}

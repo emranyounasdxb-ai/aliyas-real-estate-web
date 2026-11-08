@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-01",
+  "projectSlug": "evelyn",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road, beside West Park",
+  "pin": {
+    "latitude": 25.008995,
+    "longitude": 55.287114,
+    "sourceUrl": "https://dubaihandover.com/projects/4150-evelyn-on-the-park",
+    "scope": "Approximate project location from the Dubai Handover registry entry, cross-checked against Nshama’s master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/evelyn/location-d54ea7200904.png",
+    "sha256": "d54ea72009045fadd2049381e96696714dc4e458ec265c4dc9dd737e7a88245a",
+    "originalBytes": 8959679,
+    "width": 3200,
+    "height": 2263,
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Brochure-Final.pdf#page=7",
+    "alt": "Nshama Town Square master plan marking Evelyn between West Park and the Main Park.",
+    "scope": "Nshama’s master plan identifies the project plot between West Park and the Main Park.",
+    "caption": "Evelyn on the Park at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Brochure-Final.pdf#page=5",
+    "scope": "Approximate times from Town Square, as shown in the Nshama brochure.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "These estimates apply to the wider community. Routes, traffic and the building entrance can affect travel time."
+}

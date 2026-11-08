@@ -1,0 +1,88 @@
+{
+  "projectId": "aldar-project-08",
+  "projectSlug": "the-wilds-residences",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/15dda434aa3b432999b23c4cb933eccc.pdf",
+    "label": "Aldar The Wilds Residences floor plans · Reelly-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/the-wilds-residences/floor-plans-41f2ac5d6247.pdf",
+    "sha256": "41f2ac5d6247ad8e59d87b9efe5a48d2f5af18fc8876f901562e30d963267ae2"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare apartments and duplexes in the residences. The duplex sheets show the upper and lower levels together.",
+  "selectorLabel": "Choose a Wilds Residences floor plan",
+  "note": "These published layouts do not give exact total area for each drawing. Confirm the signed layout and area for the apartment you choose.",
+  "plans": [
+    {
+      "label": "1 BR apartment",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/aldar/the-wilds-residences/plan-page-2-5c9d7418e513.webp",
+      "sha256": "5c9d7418e513d86ff840ab6743facb1afec272a73e6928a612a91d9525fe2684",
+      "originalBytes": 2103526,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "2 BR apartment",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/aldar/the-wilds-residences/plan-page-3-10926804b3b9.webp",
+      "sha256": "10926804b3b9f6f749142478f93e61b2129b9f44640df572a650886497a26815",
+      "originalBytes": 2367756,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "3 BR + maid apartment",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/aldar/the-wilds-residences/plan-page-4-b436fcb5cf11.webp",
+      "sha256": "b436fcb5cf11ebcf636030d4f8d9a8c19730814df7fc1e762d33df046ee15808",
+      "originalBytes": 2131316,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "2 BR duplex",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/the-wilds-residences/plan-page-6-ec31bde7a14d.webp",
+      "sha256": "ec31bde7a14d0fd8c39a0ab22db8fd2e607d54e3dace01a509165eb31b0b642a",
+      "originalBytes": 1717170,
+      "width": 2400,
+      "height": 1561
+    },
+    {
+      "label": "3 BR duplex",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/aldar/the-wilds-residences/plan-page-8-e9eb022fb029.webp",
+      "sha256": "e9eb022fb029c76b33135504f4c60d159a0c96b1ddb35f89ee8d188d9053f0e7",
+      "originalBytes": 1674492,
+      "width": 2400,
+      "height": 1561
+    }
+  ]
+}

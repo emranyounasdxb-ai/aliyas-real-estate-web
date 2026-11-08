@@ -1,0 +1,58 @@
+{
+  "projectId": "damac-project-07",
+  "projectSlug": "damac-islands",
+  "developerSlug": "damac",
+  "checkedOn": "2026-11-06",
+  "community": "Dubailand, Dubai",
+  "road": "Emirates Road corridor",
+  "pin": {
+    "latitude": 25.023074,
+    "longitude": 55.296122,
+    "sourceUrl": "https://preprod.damacproperties.com/en/projects/damac-islands/",
+    "scope": "DAMAC’s published development marker. Access varies by plot."
+  },
+  "sourceLabel": "DAMAC Islands brochure · Canaletto Sky-hosted copy · page 3",
+  "travel": {
+    "sourceUrl": "https://canalettosky.com/wp-content/uploads/2024/11/DAMAC-ISLANDS-brochure.pdf",
+    "page": 3,
+    "scope": "Approximate travel times printed in the launch brochure.",
+    "destinations": [
+      {
+        "name": "Sports City, Motor City and DAMAC Hills",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Investments Park",
+        "minutes": 18
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 20
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 23
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 28
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "The brochure gives one estimate for Sports City, Motor City and DAMAC Hills. Use directions for current routes.",
+  "map": {
+    "src": "/images/projects/damac/damac-islands/location-930239469a36.png",
+    "sha256": "930239469a36632375ca1357d24d67a88bde9aea595d78a3d8f3255672ab4631",
+    "originalBytes": 1734353,
+    "width": 2600,
+    "height": 1463,
+    "sourceUrl": "https://canalettosky.com/wp-content/uploads/2024/11/DAMAC-ISLANDS-brochure.pdf#page=3",
+    "alt": "DAMAC source map locating DAMAC Islands and showing nearby destinations.",
+    "scope": "Developer diagram. Confirm the entrance for your home.",
+    "caption": "DAMAC Islands location, developer brochure page 3."
+  }
+}

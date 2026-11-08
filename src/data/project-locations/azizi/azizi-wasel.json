@@ -1,0 +1,68 @@
+{
+  "projectId": "azizi-project-09",
+  "projectSlug": "azizi-wasel",
+  "developerSlug": "azizi",
+  "checkedOn": "2026-11-06",
+  "community": "Dubai Islands, Dubai",
+  "road": "On the Dubai Islands waterfront near Deira",
+  "pin": {
+    "latitude": 25.29489,
+    "longitude": 55.31937,
+    "sourceUrl": "https://jre.ae/projects/azizi-wasel",
+    "scope": "Broker-published project marker. Confirm the exact building entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/azizi/azizi-wasel/location-63f664ccb1ad.png",
+    "sha256": "63f664ccb1ade0cf774723b4e0ee6359b657781e3311560ceebd4c861f7010c2",
+    "originalBytes": 225527,
+    "width": 1662,
+    "height": 705,
+    "sourceUrl": "https://files.remapp.ae/rem-offplan-v3/project-files/1771147574911-9ed45fbd119c6d47.pdf#page=2",
+    "alt": "Azizi Wasel marked on the Dubai Islands waterfront on the developer map.",
+    "scope": "Developer regional context. The drawing is schematic.",
+    "caption": "Azizi Wasel regional map, developer factsheet page 2. REM mirror."
+  },
+  "sourceLabel": "Madena · Wasel road-route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/azizi-wasel#location",
+    "scope": "Approximate route distances and travel times from the published project point.",
+    "destinations": [
+      {
+        "name": "Deira Islands Beach",
+        "minutes": 7,
+        "distanceKm": 3.7
+      },
+      {
+        "name": "Gold Souq Metro Station",
+        "minutes": 10,
+        "distanceKm": 6.7
+      },
+      {
+        "name": "Al Ghurair Centre",
+        "minutes": 10,
+        "distanceKm": 7.5
+      },
+      {
+        "name": "Dubai Frame",
+        "minutes": 15,
+        "distanceKm": 13.3
+      },
+      {
+        "name": "DIFC",
+        "minutes": 20,
+        "distanceKm": 16.6
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 20,
+        "distanceKm": 19
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 35,
+        "distanceKm": 21.1
+      }
+    ]
+  },
+  "travelNote": "These broker route estimates vary by entrance, route and traffic. The developer factsheet gives a shorter airport estimate without identifying its route."
+}

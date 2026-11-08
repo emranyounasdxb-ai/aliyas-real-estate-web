@@ -1,0 +1,844 @@
+{
+  "projectId": "danube-project-05",
+  "projectSlug": "breez",
+  "developerSlug": "danube",
+  "source": {
+    "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+    "label": "Danube archive · Breez standard tower floor plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/danube/breez/floor-plans-84dc30780618.pdf",
+    "sha256": "84dc30780618f6a491846638b08d08d550c16d6e41cad966fd0c8097ab3d0f89"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2900,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the standard tower layouts, the separate plans for levels 22–25, Breez villas and the ground-floor retail.",
+  "selectorLabel": "Choose a Breez layout or floor plate",
+  "note": "Some apartment types have different areas on different levels. A studio footnote shows a separate 368 sq ft variant. Villa totals cover both levels.",
+  "plans": [
+    {
+      "label": "Flex studio Type A · Standard tower",
+      "area": "414 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/danube/breez/plan-page-2-d824d12f1bc8.webp",
+      "sha256": "d824d12f1bc8f6ca2b41a75a557cd3291b34e36963784f1694a8f466509c2eda",
+      "originalBytes": 830252,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex studio Type B · Standard tower",
+      "area": "411–447 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/danube/breez/plan-page-3-39bb9ea63efa.webp",
+      "sha256": "39bb9ea63efa91ded50180c05bc7094d8626503f3a22decf8fbc94a11fc87492",
+      "originalBytes": 914732,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex studio Type C · Standard tower",
+      "area": "478 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/breez/plan-page-4-9bc2d15e6fef.webp",
+      "sha256": "9bc2d15e6fef5f0de6c8de6398d515a35fd9bf4985c126c99214b3385e324d90",
+      "originalBytes": 1067604,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex studio Type D · Standard tower",
+      "area": "466 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/breez/plan-page-5-6e228978ba27.webp",
+      "sha256": "6e228978ba275e5daade7a3c01b1b1cd7879efc4c8ec944e6619f1bab98e3f57",
+      "originalBytes": 1093210,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Studio · Standard tower",
+      "area": "394–404 sq ft total · 368 sq ft variant noted",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/breez/plan-page-6-eb947dde1623.webp",
+      "sha256": "eb947dde1623ad2ebea6b4ef169f64014af31c89bf2a75d7e2176b0c22bc4941",
+      "originalBytes": 849056,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex 1 BR Type A · Standard tower",
+      "area": "656–662 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/breez/plan-page-7-8280d564504d.webp",
+      "sha256": "8280d564504d511216870a5643e3a73b0938fc7d8ce50c7b63852a8813b6e02d",
+      "originalBytes": 1119914,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex 1 BR Type B · Standard tower",
+      "area": "764 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/breez/plan-page-8-842c6fa82785.webp",
+      "sha256": "842c6fa82785f691aa9a2c6efaa15089e4e64a81b1238c8d1a040f93d53fc69a",
+      "originalBytes": 1127886,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex 1 BR Type C · Standard tower",
+      "area": "668 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/breez/plan-page-9-48a1304cb0bb.webp",
+      "sha256": "48a1304cb0bbdec6546cf241076fe6a3e5d8cad6d304ee79a69f79387b0c4fb4",
+      "originalBytes": 779360,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex 1 BR Premium · Standard tower",
+      "area": "793–806 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/breez/plan-page-10-09724e21d112.webp",
+      "sha256": "09724e21d112269c362aef12fbcb451329b36bb8d17260606d9f14ebae893300",
+      "originalBytes": 1259826,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "1 BR Type A · Standard tower",
+      "area": "623 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/breez/plan-page-11-494e53d342e8.webp",
+      "sha256": "494e53d342e84aaa669a98b5ed8c5c5ef2ebe951d9512d0af1eff3210c2932d7",
+      "originalBytes": 1234738,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "1 BR Type B · Standard tower",
+      "area": "603 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/danube/breez/plan-page-12-51fde4d9e913.webp",
+      "sha256": "51fde4d9e9138ee8e178ddb3af446448694ef20a739cca2d1dc23438e43bdbe2",
+      "originalBytes": 1294784,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Premium 2 BR Type A · Standard tower",
+      "area": "1,026–1,029 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/danube/breez/plan-page-13-0ea9cbaf9914.webp",
+      "sha256": "0ea9cbaf9914723e6a42466110ecffb9161db6fd27b531ea2ad402ab050fae11",
+      "originalBytes": 1707032,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Premium 2 BR Type B · Standard tower",
+      "area": "1,277 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/danube/breez/plan-page-14-77bf86e20c37.webp",
+      "sha256": "77bf86e20c37b6999e6a55230c33a38ef7ac90119b14a11184c36174c59e69f0",
+      "originalBytes": 1534104,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Premium 3 BR · Standard tower",
+      "area": "1,769 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/danube/breez/plan-page-15-76a55bfb3d3a.webp",
+      "sha256": "76a55bfb3d3a9d0b823e68a5ee3e75274b4cda9d855c78253091db8c9241d583",
+      "originalBytes": 1505526,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Flex studio Type A · Levels 22–25",
+      "area": "414 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-2-fe7e5cd4e41a.webp",
+      "sha256": "fe7e5cd4e41a941a7fdba945eeb12aaa33d22c0fe0d7e5f41c5a92355973a099",
+      "originalBytes": 802770,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex studio Type B · Levels 22–25",
+      "area": "447 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-3-053f783f4182.webp",
+      "sha256": "053f783f41825662a30597f94efb9f4b564d393cdcf360173b99e386f2ad0b43",
+      "originalBytes": 798994,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex studio Type C · Levels 22–25",
+      "area": "478 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-4-394f50c38d4d.webp",
+      "sha256": "394f50c38d4d27809ba02ea2af58f9a84c6dc756de9e243a5d0e5a8d8395d4d1",
+      "originalBytes": 1003724,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex studio Type D · Levels 22–25",
+      "area": "466 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-5-5d03afc1f1df.webp",
+      "sha256": "5d03afc1f1dfd9c11ba47244dc6182f88a70bfe740cd29581528e6addcb31d95",
+      "originalBytes": 1042320,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Studio · Levels 22–25",
+      "area": "394–404 sq ft total · 368 sq ft variant noted",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-6-8cb11854e9d8.webp",
+      "sha256": "8cb11854e9d8316a839bec71a10dadb8da81e94eac8c51489d89486a325d6f44",
+      "originalBytes": 801388,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex 1 BR Type A · Levels 22–25",
+      "area": "656–662 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-7-fc7a4b9cd166.webp",
+      "sha256": "fc7a4b9cd166e6998ee1c1088bc77ae5a92a65fc61dc8f7d19959a234eb5b025",
+      "originalBytes": 1184196,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex 1 BR Type B · Levels 22–25",
+      "area": "764 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-8-15407bac419f.webp",
+      "sha256": "15407bac419f2caacfad153ee11b3331d2edb5ee5a0b9a694684bf9e83f268fe",
+      "originalBytes": 1156468,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex 1 BR Type C · Levels 22–25",
+      "area": "668 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-9-e4fb0e317f83.webp",
+      "sha256": "e4fb0e317f836db42a2e01f9b4d1959982a33df32f7189b27ef14e0a952a23e5",
+      "originalBytes": 694092,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "1 BR Type A · Levels 22–25",
+      "area": "623 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-10-da1ddd349b2b.webp",
+      "sha256": "da1ddd349b2badbf451575ea0393f9bab589e0d2b9064b418a27b5c26f9c238d",
+      "originalBytes": 1269902,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "1 BR Type B · Levels 22–25",
+      "area": "603 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-11-88e1a913500f.webp",
+      "sha256": "88e1a913500f3162eb1074521c20effa29006c2f93cc73b4f02514e45dccaffd",
+      "originalBytes": 1232118,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Flex 1 BR Premium · Levels 22–25",
+      "area": "793–806 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-12-23eb03e0ee05.webp",
+      "sha256": "23eb03e0ee05ec7c1730f9c435c1dfca6a5ce970f4e2a4fc5de0c33eecc0c8cf",
+      "originalBytes": 1220360,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "4 BR Type A · Levels 22–25",
+      "area": "3,088 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-13-7fa014fdc793.webp",
+      "sha256": "7fa014fdc793111338ce4631f1fb4464706bdf20562438a0717d3d9c0876d044",
+      "originalBytes": 1922706,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "4 BR Type B · Levels 22–25",
+      "area": "3,266 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-14-4d77c26fe0ff.webp",
+      "sha256": "4d77c26fe0ff43718d31d2ff8276755d99af3e2e250b5b660eadab48efd0f072",
+      "originalBytes": 1673228,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "4 BR Type C · Levels 22–25",
+      "area": "3,460 sq ft total",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-15-a7e197632085.webp",
+      "sha256": "a7e197632085038f32d89c94e8eaa065aa0ebb0ff8189ded13b9e81de66f3e21",
+      "originalBytes": 1919166,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Breez Villa A · Both levels",
+      "area": "7,211 sq ft combined",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/danube/breez/plan-villa-page-2-85b805fcf53c.webp",
+      "sha256": "85b805fcf53c2501cf99232429cad31bdcd63ecd7d7c9caa712f093780cfde91",
+      "originalBytes": 1340214,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa B · Lower level",
+      "area": "Combined area printed on the upper-level sheet",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/danube/breez/plan-villa-page-3-27a592bfc1e6.webp",
+      "sha256": "27a592bfc1e6ab19a1d324f17e4d0c883ddc418615764aaa0809609ecba9bca5",
+      "originalBytes": 781734,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa B · Upper level",
+      "area": "7,202 sq ft combined",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/breez/plan-villa-page-4-f0a0fbc7cb89.webp",
+      "sha256": "f0a0fbc7cb899df8acf09b4f2bb93371fb9b44e02467fee074289a29074fe4c6",
+      "originalBytes": 1043308,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa C · Lower level",
+      "area": "Combined area printed on the upper-level sheet",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/breez/plan-villa-page-5-80c4b79ead01.webp",
+      "sha256": "80c4b79ead01b44673b7a4e8081da077e49b065629a4c42d8f69c6151667601d",
+      "originalBytes": 1163998,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa C · Upper level",
+      "area": "6,176 sq ft combined",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/breez/plan-villa-page-6-03712043bbf9.webp",
+      "sha256": "03712043bbf92da9b8979609b6527606c570c5e0ade582e439d8771126755bf9",
+      "originalBytes": 1200944,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa D · Lower level",
+      "area": "Combined area printed on the upper-level sheet",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/breez/plan-villa-page-7-db505504f97a.webp",
+      "sha256": "db505504f97a4703a830fdaace68b9e2ab44e863a0302370af6afcc565a77172",
+      "originalBytes": 894484,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Breez Villa D · Upper level",
+      "area": "10,319 sq ft combined",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/breez/plan-villa-page-8-69dc9f510738.webp",
+      "sha256": "69dc9f5107388efb8c5fd1dbb81e35bdd86d781f679c02cd1c73001c41d28add",
+      "originalBytes": 1124328,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Retail 1",
+      "area": "1,074 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/danube/breez/plan-retail-page-1-2a7d84abe157.webp",
+      "sha256": "2a7d84abe1572c31c4e6785012a331135cafd690b4b239288ecfbe87fc7e1f98",
+      "originalBytes": 442876,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Retail 2",
+      "area": "1,288 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/danube/breez/plan-retail-page-2-5780771b02fc.webp",
+      "sha256": "5780771b02fc5f3ef7ff56d56490c5d119108038150bd84b8829a3f6b59c1530",
+      "originalBytes": 400644,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Retail 3",
+      "area": "1,273 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/danube/breez/plan-retail-page-3-0ae64031372d.webp",
+      "sha256": "0ae64031372d9c6f2406155a6f43a5aa8ad54a8497f644b890cf0818d3619be8",
+      "originalBytes": 366366,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Retail 4",
+      "area": "1,223 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/breez/plan-retail-page-4-0f8a84c05322.webp",
+      "sha256": "0f8a84c05322d485d7aece8179da87d59c54de7e547905473077f5cdf77f30c6",
+      "originalBytes": 397010,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Retail 5",
+      "area": "1,154 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/breez/plan-retail-page-5-e5f1acec0e07.webp",
+      "sha256": "e5f1acec0e07df7cec8de5c819026f2d8c47f6d295f477aee5774e2457516286",
+      "originalBytes": 392108,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Retail 6",
+      "area": "1,087 sq ft total",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/breez/plan-retail-page-6-1c49bc13befe.webp",
+      "sha256": "1c49bc13befe8c9cda50aaec96907635dc9194cf86ab219493274e601f79dbc8",
+      "originalBytes": 364764,
+      "width": 2900,
+      "height": 2051,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Standard tower floor plates",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/danube/breez/plan-page-16-0ab358066144.webp",
+      "sha256": "0ab35806614461d468c6700d1f8df51e0cd52b6856439078c74cd8a2e4313ab5",
+      "originalBytes": 371384,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Tower floor plates · Levels 22–25",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans-levels-22-to-25"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/danube/breez/plan-levels-22-to-25-page-16-6a957dc720e9.webp",
+      "sha256": "6a957dc720e980af1422ac9a1376ceff4307531e89f0b3616bb9eb884f438ffb",
+      "originalBytes": 334800,
+      "width": 2900,
+      "height": 2072,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez plans for levels 22–25",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-levels-22-to-25-6d4bb9ebc6c7.pdf",
+        "sha256": "6d4bb9ebc6c7163d4ace6bb78035a8f354065cd9f3a91814464a42dfd4669e75"
+      }
+    },
+    {
+      "label": "Breez Villa level plates",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans-villa"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/breez/plan-villa-page-9-5964b8091129.webp",
+      "sha256": "5964b80911297c38c3113590fee269f22abfb04d8d3747aa1cf2c5e35a5fe565",
+      "originalBytes": 1601438,
+      "width": 2900,
+      "height": 1036,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez villa floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-villa-9948a516a2a5.pdf",
+        "sha256": "9948a516a2a54664d360fbda53c1744460f3ba64e8556b487f2737b3adb8b7d5"
+      }
+    },
+    {
+      "label": "Ground level · Retail plate",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans-retail"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/breez/plan-retail-page-7-20569076ecb5.webp",
+      "sha256": "20569076ecb512bb048bee6733d498480696df328dc1326179e4477ddb8dec54",
+      "originalBytes": 184598,
+      "width": 2900,
+      "height": 2821,
+      "source": {
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/breez/floor-plans",
+        "label": "Danube archive · Breez retail floor plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/danube/breez/floor-plans-retail-d8907645d61d.pdf",
+        "sha256": "d8907645d61d1870038adc9889e177d5c382c538d3ae3ed4d5e26f271166273e"
+      }
+    },
+    {
+      "label": "Breez 10 amenity plan",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/danube/breez/plan-page-18-721b540d2bc6.webp",
+      "sha256": "721b540d2bc6aefb7445cf6914442d178b12c7b253bbafbaad18f53b2b8a4050",
+      "originalBytes": 3516110,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Breez 60 amenity plan",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/danube/breez/plan-page-19-91a34c196b93.webp",
+      "sha256": "91a34c196b93d8a50364d7efaf18557e11af9fae02ea46f94f4337fcdd0813f4",
+      "originalBytes": 2568600,
+      "width": 2900,
+      "height": 2072
+    }
+  ]
+}

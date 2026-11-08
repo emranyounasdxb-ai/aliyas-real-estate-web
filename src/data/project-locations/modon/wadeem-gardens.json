@@ -1,0 +1,48 @@
+{
+  "projectId": "modon-project-01",
+  "projectSlug": "wadeem-gardens",
+  "developerSlug": "modon",
+  "checkedOn": "2026-11-07",
+  "community": "Hudayriyat Island, Abu Dhabi",
+  "road": "East Hudayriyat vicinity · final villa entrance unverified",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/modon/wadeem-gardens/location-34936d725938.png",
+    "sha256": "34936d72593862f859febdfa1226044f89096b099312bd38a10c4be23dc3623d",
+    "originalBytes": 765057,
+    "width": 3600,
+    "height": 2026,
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf#page=7",
+    "alt": "Complete original Modon regional map marking Wadeem Gardens on Hudayriyat Island.",
+    "scope": "Community vicinity. The map labels a tunnel and a proposed Disneyland destination. Operational tunnel access remains unverified. Exact villa entrance and surveyed coordinates remain unverified.",
+    "caption": "Wadeem Gardens · original regional brochure map, physical page 7."
+  },
+  "sourceLabel": "Modon original brochure · regional map, physical page 7",
+  "travel": {
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/02730b8bccbb4dc5bcbfad02b4374ded.pdf#page=7",
+    "scope": "Published community estimates. Journey mode, exact villa origin, final routing and traffic conditions are unspecified.",
+    "destinations": [
+      {
+        "name": "Al Qana",
+        "minutes": 5
+      },
+      {
+        "name": "Zayed International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "Abu Dhabi Global Market",
+        "minutes": 20
+      },
+      {
+        "name": "Louvre Abu Dhabi",
+        "minutes": 23
+      },
+      {
+        "name": "Disneyland · proposed resort",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "The original brochure provides these community estimates. The current developer SVG repeats the four airport, ADGM, Louvre and Disneyland figures. Disneyland is a proposed destination, with final access and opening unverified. Operational access through the depicted tunnel remains unverified. Confirm the final villa entrance and current routing. Sales-centre coordinates published elsewhere on the page identify a separate visitor destination and are omitted from the project pin. Kilometre journeys remain unverified."
+}

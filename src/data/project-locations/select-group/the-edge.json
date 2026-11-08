@@ -1,0 +1,63 @@
+{
+  "projectId": "select-group-project-05",
+  "projectSlug": "the-edge",
+  "developerSlug": "select-group",
+  "checkedOn": "2026-11-07",
+  "community": "Business Bay, Dubai",
+  "road": "7 Al A’amal Street",
+  "pin": {
+    "latitude": 25.188746,
+    "longitude": 55.268346,
+    "sourceUrl": "https://www.madena.ae/projects/the-edge",
+    "scope": "Madena’s published point for The EDGE, cross-checked against the developer’s Business Bay address. Confirm the entrance for your tower."
+  },
+  "map": {
+    "src": "/images/projects/select-group/the-edge/location-9a1c04f5b05a.png",
+    "sha256": "9a1c04f5b05a495e70a884abea79348aeead1bffc1db6346563d4e8666a54ad6",
+    "originalBytes": 766918,
+    "width": 2800,
+    "height": 1575,
+    "sourceUrl": "https://www.madena.ae/api/assets/documents/projects/the-edge/brochure/49c41884e57700a6.pdf#page=3",
+    "alt": "Select Group regional map locating The EDGE in Business Bay beside Dubai Canal.",
+    "scope": "Regional context from the Select Group brochure.",
+    "caption": "The EDGE in Business Bay"
+  },
+  "sourceLabel": "Madena location and route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/the-edge",
+    "scope": "Approximate road routes from the published project point.",
+    "destinations": [
+      {
+        "name": "Business Bay Metro",
+        "minutes": 2,
+        "distanceKm": 1.2
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 4,
+        "distanceKm": 2
+      },
+      {
+        "name": "Horizon English School",
+        "minutes": 5,
+        "distanceKm": 2.3
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 7,
+        "distanceKm": 4.9
+      },
+      {
+        "name": "Mercato Beach",
+        "minutes": 10,
+        "distanceKm": 6.3
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 35,
+        "distanceKm": 22.1
+      }
+    ]
+  },
+  "travelNote": "These driving estimates come from Madena. Traffic, the route and the entrance can change the journey."
+}

@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-95",
+  "projectSlug": "velora",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "The Valley",
+  "map": {
+    "src": "/images/projects/emaar/velora/location-e60eb868b9dc.png",
+    "sha256": "e60eb868b9dc4ab6e3c414dadd306d6aaa1745054490857fb6246e29ed260233",
+    "originalBytes": 2326877,
+    "width": 2400,
+    "height": 1350,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf#page=21",
+    "alt": "Velora plot and amenities map in the shared Emaar Valley Phase Two brochure.",
+    "scope": "Velora plot and amenities map in the shared Emaar Valley Phase Two brochure."
+  },
+  "travelHeading": "Estimated travel times in the Emaar brochure",
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/388778_brochure_File_870f052715_prod.pdf",
+    "page": 3,
+    "scope": "Approximate Emaar launch estimates for The Valley.",
+    "destinations": [
+      {
+        "name": "The Sevens Stadium",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Outlet Mall",
+        "minutes": 8
+      },
+      {
+        "name": "Burj Khalifa and Dubai Mall",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community travel estimates for The Valley. Confirm the route and current traffic.",
+  "pin": {
+    "latitude": 25.008598536896486,
+    "longitude": 55.433841355820086,
+    "sourceUrl": "https://www.emaar.com/en/properties/velora-at-the-valley",
+    "scope": "Emaar’s published Velora collection point. Confirm the address for a specific home."
+  }
+}

@@ -1,14 +1,11 @@
 'use client';
 import { useEffect, useRef, type MouseEvent } from 'react';
 import { useSearchParams, usePathname } from 'next/navigation';
-import { ArrowLeft, ArrowRight } from 'lucide-react';
+import { ProjectPagination } from './project-pagination';
 import { LocationFields } from './location-fields';
 import { DeveloperProjectPlaceholder } from './developer-project-placeholder';
 import { getArea, updateLocationQuery } from '@/lib/locations';
-import {
-  developerProjectPageNumbers,
-  selectDeveloperProjectPage,
-} from '@/lib/developer-project-pagination';
+import { selectDeveloperProjectPage } from '@/lib/developer-project-pagination';
 import type { DeveloperProjectRecord } from '@/lib/developer-projects';
 import './location-filters.css';
 
@@ -112,66 +109,12 @@ export function DeveloperListings({
           </button>
         </div>
       )}
-      {view.pageCount > 1 && (
-        <nav className="developer-pagination" aria-label="Project pagination">
-          <p className="developer-pagination-summary">
-            Page {view.page} of {view.pageCount}
-          </p>
-          <div className="developer-pagination-controls">
-            {view.page > 1 ? (
-              <a
-                className="developer-pagination-previous"
-                href={pageHref(view.page - 1)}
-                onClick={navigate}
-                rel="prev"
-              >
-                <ArrowLeft size={16} aria-hidden="true" />
-                Previous
-              </a>
-            ) : (
-              <span className="developer-pagination-previous" aria-disabled="true">
-                <ArrowLeft size={16} aria-hidden="true" />
-                Previous
-              </span>
-            )}
-            <div className="developer-pagination-numbers">
-              {developerProjectPageNumbers(view.page, view.pageCount).map((page) =>
-                typeof page === 'string' ? (
-                  <span className="developer-pagination-gap" aria-hidden="true" key={page}>
-                    …
-                  </span>
-                ) : (
-                  <a
-                    key={page}
-                    href={pageHref(page)}
-                    onClick={navigate}
-                    aria-label={`Page ${page}`}
-                    aria-current={page === view.page ? 'page' : undefined}
-                  >
-                    {page}
-                  </a>
-                ),
-              )}
-            </div>
-            {view.page < view.pageCount ? (
-              <a
-                className="developer-pagination-next"
-                href={pageHref(view.page + 1)}
-                onClick={navigate}
-                rel="next"
-              >
-                Next
-                <ArrowRight size={16} aria-hidden="true" />
-              </a>
-            ) : (
-              <span className="developer-pagination-next" aria-disabled="true">
-                Next
-                <ArrowRight size={16} aria-hidden="true" />
-              </span>
-            )}
-          </div>
-        </nav>
-      )}
+      <ProjectPagination
+        page={view.page}
+        pageCount={view.pageCount}
+        href={pageHref}
+        onNavigate={navigate}
+      />
     </>
   );
 }

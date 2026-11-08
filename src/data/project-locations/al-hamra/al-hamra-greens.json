@@ -1,0 +1,61 @@
+{
+  "projectId": "al-hamra-project-02",
+  "projectSlug": "al-hamra-greens",
+  "developerSlug": "al-hamra",
+  "checkedOn": "2026-11-08",
+  "community": "Al Hamra Village, Ras Al Khaimah",
+  "road": "Al Hamra Greens · opposite RAK Central, entrance unverified",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/al-hamra/al-hamra-greens/location-b1319e40c18f.png",
+    "sha256": "b1319e40c18f10f94f8f91f31e53ed11b0adb6a60805b77f9243666830b67965",
+    "originalBytes": 3337675,
+    "width": 3600,
+    "height": 1800,
+    "sourceUrl": "https://www.alhamragreens.com/wp-content/themes/Netstager_Creative_Suite-3.0/brochure.pdf#page=8",
+    "alt": "Al Hamra Greens · complete official brochure regional map.",
+    "scope": "Project and regional context. Individual entrance coordinates remain unverified. Regional distance rings on the separate source map are schematic radii.",
+    "caption": "Al Hamra Greens · original official regional map."
+  },
+  "sourceLabel": "Al Hamra Greens · official brochure",
+  "travel": {
+    "sourceUrl": "https://www.alhamragreens.com/wp-content/themes/Netstager_Creative_Suite-3.0/brochure.pdf",
+    "page": 8,
+    "scope": "Original brochure estimates. Golf and RAK Central times are walking. Waldorf and Ritz Carlton times are driving. Remaining modes are unspecified. Wynn is a proposed destination. Current access and routing require confirmation.",
+    "destinations": [
+      {
+        "name": "Al Hamra Golf Course · walking",
+        "minutes": 1
+      },
+      {
+        "name": "RAK Central · walking, source-era destination",
+        "minutes": 3
+      },
+      {
+        "name": "Waldorf Astoria Ras Al Khaimah · driving",
+        "minutes": 3
+      },
+      {
+        "name": "The Ritz Carlton Al Hamra Beach · driving",
+        "minutes": 5
+      },
+      {
+        "name": "Royal Yacht Club · mode unspecified",
+        "minutes": 8
+      },
+      {
+        "name": "Wynn Al Marjan Island · proposed destination, mode unspecified",
+        "minutes": 10
+      },
+      {
+        "name": "Ras Al Khaimah International Airport · mode unspecified",
+        "minutes": 30
+      },
+      {
+        "name": "Dubai International Airport · mode unspecified",
+        "minutes": 55
+      }
+    ]
+  },
+  "travelNote": "The official brochure shows 55 minutes to Dubai International Airport. The earlier prelaunch map shows 45 minutes driving. These source editions conflict. Distance rings are schematic radii. Ferry links in earlier material are proposed."
+}

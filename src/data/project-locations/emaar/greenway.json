@@ -1,0 +1,56 @@
+{
+  "projectId": "emaar-project-72",
+  "projectSlug": "greenway",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Emaar South",
+  "travel": {
+    "page": 5,
+    "scope": "Driving estimates published in Emaar’s Greenway brochure.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 7,
+        "mode": "drive"
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 10,
+        "mode": "drive"
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20,
+        "mode": "drive"
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30,
+        "mode": "drive"
+      },
+      {
+        "name": "Abu Dhabi",
+        "minutes": 50,
+        "mode": "drive"
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/Greenway_brochure.pdf"
+  },
+  "travelNote": "The developer’s estimates describe Emaar South. Actual times vary by route and traffic.",
+  "pin": {
+    "latitude": 24.8501926542112,
+    "longitude": 55.15381818465941,
+    "sourceUrl": "https://www.emaar.com/en/properties/greenway-at-emaar-south",
+    "scope": "Emaar’s published Greenway location reference in Emaar South. Confirm your townhouse entrance before visiting."
+  },
+  "map": {
+    "src": "/images/projects/emaar/greenway/location-dec541a30735.jpg",
+    "sha256": "dec541a30735a8992646aa7f91e2c1f9c20859e892ac7de8fb6fea3fa5e1213e",
+    "originalBytes": 268462,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+    "alt": "Emaar regional map showing Emaar South",
+    "scope": "Emaar South regional map from Emaar. The Greenway project point appears separately."
+  }
+}

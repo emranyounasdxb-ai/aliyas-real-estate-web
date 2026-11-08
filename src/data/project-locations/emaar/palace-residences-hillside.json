@@ -1,0 +1,42 @@
+{
+  "projectId": "emaar-project-45",
+  "projectSlug": "palace-residences-hillside",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Dubai Hills Estate",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/emaar/palace-residences-hillside/location-5b32b744a1f1.jpg",
+    "sha256": "5b32b744a1f141242f598dbb0ad6cdac89cda61be38fd3c9224cd1ec95b0faa4",
+    "originalBytes": 267274,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+    "alt": "Emaar regional map locating Dubai Hills Estate",
+    "scope": "Own exact Hillside fallback map, verified against the official Dubai Hills Estate brochure. Regional diagram, not a surveyed project entrance."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/PALACE-RESIDENCES-HILLSIDE_brochure.pdf",
+    "page": 3,
+    "scope": "Own full regional map and all four numerical destinations visually reviewed.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Developer estimates for Dubai Hills Estate, not live traffic times or measured routes from an individual home. Emaar’s current web pin conflicts with its brochure community, so no unverified coordinate is shown. Directions search by project and community; confirm the current entrance with Emaar before travelling."
+}

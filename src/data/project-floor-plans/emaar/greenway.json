@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-72",
+  "projectSlug": "greenway",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Greenway_floorplan.pdf",
+    "label": "Emaar Greenway original Classic and Modern floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/greenway/floor-plans-9a891196e35c.pdf",
+    "sha256": "9a891196e35c337f65da3a47253276fef549d177d341ebf340849207234399aa"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare Classic and Modern three- and four-bedroom townhouses. Each sheet includes three floors and the unit’s position in the row.",
+  "selectorLabel": "Choose a Greenway townhouse design and layout",
+  "note": "The plans include mirrored layouts. Total area includes the suite, garage and balcony or terrace. The displayed totals retain the developer’s rounding of up to 0.02 sq ft.",
+  "plans": [
+    {
+      "label": "Classic · 4 BR · TH01",
+      "area": "3,513.01 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/greenway/plan-page-2-3242453016f7.webp",
+      "sha256": "3242453016f72cb65186737326b7998c19d99bdfa0636643de101f53b21016f2",
+      "originalBytes": 634208,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Classic · 3 BR · TH02",
+      "area": "3,071.37 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/greenway/plan-page-3-f1c83f1cc64b.webp",
+      "sha256": "f1c83f1cc64b8126b8a4cce5407fd3f285050bee520b8b8337ecb1c7edf864f4",
+      "originalBytes": 528794,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Classic · 3 BR mirrored · TH03",
+      "area": "3,071.37 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/greenway/plan-page-4-09a575503ec1.webp",
+      "sha256": "09a575503ec1ffb3940dedb352626f81000acd8a4247fe9d28df972a1dd487d0",
+      "originalBytes": 532278,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Classic · 4 BR mirrored · TH04",
+      "area": "3,513.01 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/greenway/plan-page-5-d23f213da543.webp",
+      "sha256": "d23f213da54355f49459cefbf17a454022cd904fba5d2ec6d9e31595e360265c",
+      "originalBytes": 637096,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Modern · 4 BR · TH01",
+      "area": "3,512.05 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/greenway/plan-page-7-f04ff4f467f3.webp",
+      "sha256": "f04ff4f467f3ef4d6564bed5857344b519ff2512f3a00836ba7801c8fbd3ef57",
+      "originalBytes": 643220,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Modern · 3 BR · TH02",
+      "area": "3,092.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/greenway/plan-page-8-e6ff8acb05c2.webp",
+      "sha256": "e6ff8acb05c2bab3a53595b3d42e807b443e030d7e92dc131811384358deba95",
+      "originalBytes": 527354,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Modern · 3 BR mirrored · TH03",
+      "area": "3,092.90 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/greenway/plan-page-9-98e651124aab.webp",
+      "sha256": "98e651124aab9bccb6f4749fe22272a619b94f792d3f99534a80ac3b99d142fd",
+      "originalBytes": 529726,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Modern · 4 BR mirrored · TH04",
+      "area": "3,512.05 sq ft total area · printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/greenway/plan-page-10-325ef36cd754.webp",
+      "sha256": "325ef36cd75418b49d96b4915327a21274906b2a81265444a1f84993708a49e3",
+      "originalBytes": 646124,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "projectId": "omniyat-project-04",
+  "projectSlug": "vela",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "Marasi Bay, Business Bay, Dubai",
+  "pin": {
+    "latitude": 25.19007874507536,
+    "longitude": 55.28914967941028,
+    "sourceUrl": "https://omniyat.com/residential/vela-dorchester-collection-dubai",
+    "scope": "Approximate VELA point on the OMNIYAT map. Confirm the visitor entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/vela/location-19384f71f0b6.png",
+    "sha256": "19384f71f0b63e4c4eb0d6e5be5e08ad2620128cb54da42d52493b16c0a387b1",
+    "originalBytes": 662683,
+    "width": 2001,
+    "height": 1125,
+    "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/vela-dorchester-collection-dubai/VELA_BROCHURE.pdf#page=9",
+    "alt": "OMNIYAT brochure map showing VELA beside The Lana at Marasi Marina and Downtown Dubai across the canal.",
+    "scope": "OMNIYAT’s brochure map marks VELA and The Lana separately.",
+    "caption": "VELA at Marasi Bay"
+  },
+  "sourceLabel": "Madena published road-route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/vela",
+    "scope": "Approximate road-route estimates from Madena’s nearby Marasi Bay reference point.",
+    "destinations": [
+      {
+        "name": "Bayside Park 7",
+        "minutes": 2,
+        "distanceKm": 0.7
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 6,
+        "distanceKm": 3.4
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 7,
+        "distanceKm": 5
+      },
+      {
+        "name": "Mercato Beach",
+        "minutes": 9,
+        "distanceKm": 6.3
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 30,
+        "distanceKm": 19.8
+      }
+    ]
+  },
+  "travelNote": "Drive times vary by entrance, route and traffic."
+}

@@ -1,0 +1,576 @@
+{
+  "id": "emaar-project-80",
+  "slug": "ocean-point",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/ocean-point",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "canal",
+      "label": "Ocean Point buildings beside the canal pool",
+      "url": "https://www.emaar.com/cms-media/uploads/381272_property_Hero_Image_d068c2006f_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/official-hero.jpg",
+      "position": "65% 55%",
+      "alt": "Ocean Point developer render: ocean point buildings beside the canal pool. Proposed architecture or community setting."
+    },
+    {
+      "name": "balcony-dusk",
+      "label": "Balcony overlooking the gardens and pool at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/381317_exterior_0_3afb7c74eb_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381317_exterior_0_3afb7c74eb_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Point developer render: balcony overlooking the gardens and pool at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "street",
+      "label": "Pedestrian approach between the apartment buildings",
+      "url": "https://www.emaar.com/cms-media/uploads/381326_exterior_1_4ec8d3c333_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381326_exterior_1_4ec8d3c333_prod.jpg",
+      "position": "51% 57%",
+      "alt": "Ocean Point developer render: pedestrian approach between the apartment buildings. Proposed architecture or community setting."
+    },
+    {
+      "name": "balcony-day",
+      "label": "Shaded balcony overlooking the landscaped grounds",
+      "url": "https://www.emaar.com/cms-media/uploads/381344_exterior_3_57731115aa_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381344_exterior_3_57731115aa_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Point developer render: shaded balcony overlooking the landscaped grounds. Proposed architecture or community setting."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom looking out towards the gardens",
+      "url": "https://www.emaar.com/cms-media/uploads/381353_interior_0_8adf9459db_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381353_interior_0_8adf9459db_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Point developer render: bedroom looking out towards the gardens. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Living room and kitchen opening to a balcony",
+      "url": "https://www.emaar.com/cms-media/uploads/381362_interior_1_bb08568687_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381362_interior_1_bb08568687_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Point developer render: living room and kitchen opening to a balcony. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Lobby with seating and garden views",
+      "url": "https://www.emaar.com/cms-media/uploads/381371_interior_2_c07f47e989_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/381371_interior_2_c07f47e989_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Ocean Point developer render: lobby with seating and garden views. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "street",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Rashid Yachts & Marina",
+    "travelHeading": "Estimated travel times from the Ocean Point launch fact sheet",
+    "travel": {
+      "page": 1,
+      "sourceUrl": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Fact-Sheet.pdf",
+      "sourceLabel": "Emaar Ocean Point launch fact sheet via Petkovic Properties",
+      "scope": "Project launch estimates published by Emaar.",
+      "destinations": [
+        {
+          "name": "Sheikh Zayed Road",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 20
+        },
+        {
+          "name": "Dubai Mall and Burj Khalifa",
+          "minutes": 20
+        },
+        {
+          "name": "Dubai Creek Harbour",
+          "minutes": 20
+        }
+      ]
+    },
+    "travelNote": "These are launch estimates from Emaar. Check the current route and traffic before travelling.",
+    "pin": {
+      "latitude": 25.255246,
+      "longitude": 55.277788,
+      "sourceUrl": "https://www.emaar.com/en/properties/ocean-point",
+      "scope": "Emaar’s published Ocean Point project point. Confirm access to the relevant building before visiting."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_0c6736d9eb.jpg",
+      "cache": "artifacts/project-page-enhancement/ocean-point/04_MAP_2400x1600px_0c6736d9eb.jpg",
+      "alt": "Emaar regional map showing Rashid Yachts & Marina",
+      "scope": "Emaar’s regional map for Rashid Yachts & Marina. The Ocean Point project point appears separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Ocean Point Building 1 and townhouse original PDF via Petkovic Properties",
+    "introduction": "Explore apartments in Buildings 1 and 2, alongside the three-bedroom townhouses. Select a sheet to see the unit groups on its key plan.",
+    "note": "Petkovic Properties hosts both original Emaar plan packs. Building 2 Type 1G lists 788.56 sq ft for the group beginning with unit 109. Its printed components add to 788.46 sq ft. Confirm the signed plan.",
+    "selectorLabel": "Choose a Ocean Point layout and unit group",
+    "additionalDocuments": [
+      {
+        "id": "building-2",
+        "label": "Emaar Ocean Point Building 2 original PDF via Petkovic Properties",
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Floor-Plans-Building-2.pdf",
+        "cache": "artifacts/project-details/emaar/ocean-point-plans2.pdf"
+      }
+    ],
+    "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Ocean-Point-Rashid-Yachts-Marina-Floor-Plans-Building-1.pdf",
+    "cache": "artifacts/project-details/emaar/ocean-point-plans1.pdf",
+    "plans": [
+      {
+        "label": "Building 1 · 1 BR · Type 1A · G02",
+        "area": "967.14 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          967.14
+        ],
+        "areaCalculation": "730.55 + 236.59 = 967.14 sq ft. Printed total 967.14 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-03.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1B · 109 / 209",
+        "area": "810.41 sq ft (see 109 group on sheet) / 805.25 sq ft (see 209 group on sheet)",
+        "sourcePage": 4,
+        "areaValues": [
+          810.41,
+          805.25
+        ],
+        "areaCalculation": "see 109 group on sheet: 730.44 + 79.98 = 810.42 sq ft. Printed total 810.41 sq ft. see 209 group on sheet: 730.44 + 74.81 = 805.25 sq ft. Printed total 805.25 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-04.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1B · 212",
+        "area": "788.13 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          788.13
+        ],
+        "areaCalculation": "713.32 + 74.81 = 788.13 sq ft. Printed total 788.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-05.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1D · 101",
+        "area": "923.44 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          923.44
+        ],
+        "areaCalculation": "730.44 + 193.00 = 923.44 sq ft. Printed total 923.44 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-06.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1F · 112",
+        "area": "972.41 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          972.41
+        ],
+        "areaCalculation": "713.32 + 259.09 = 972.41 sq ft. Printed total 972.41 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-07.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1G · 106",
+        "area": "788.56 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          788.56
+        ],
+        "areaCalculation": "713.32 + 75.24 = 788.56 sq ft. Printed total 788.56 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-08.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1H · 105",
+        "area": "805.68 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          805.68
+        ],
+        "areaCalculation": "730.44 + 75.24 = 805.68 sq ft. Printed total 805.68 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-09.png"
+      },
+      {
+        "label": "Building 1 · 1 BR · Type 1I · 102",
+        "area": "966.60 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          966.6
+        ],
+        "areaCalculation": "713.32 + 253.27 = 966.59 sq ft. Printed total 966.60 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-10.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1A · G01",
+        "area": "1,461.63 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1461.63
+        ],
+        "areaCalculation": "1093.83 + 367.80 = 1461.63 sq ft. Printed total 1461.63 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-11.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1B · 108 / 208",
+        "area": "1,260.24 sq ft (see 108 group on sheet) / 1,255.07 sq ft (see 208 group on sheet)",
+        "sourcePage": 12,
+        "areaValues": [
+          1260.24,
+          1255.07
+        ],
+        "areaCalculation": "see 108 group on sheet: 1095.23 + 165.01 = 1260.24 sq ft. Printed total 1260.24 sq ft. see 208 group on sheet: 1095.34 + 159.74 = 1255.08 sq ft. Printed total 1255.07 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-12.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 1C · 107 / 207",
+        "area": "1,260.99 sq ft (see 107 group on sheet) / 1,255.07 sq ft (see 207 group on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1260.99,
+          1255.07
+        ],
+        "areaCalculation": "see 107 group on sheet: 1095.12 + 165.87 = 1260.99 sq ft. Printed total 1260.99 sq ft. see 207 group on sheet: 1095.34 + 159.74 = 1255.08 sq ft. Printed total 1255.07 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-13.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2A · G03",
+        "area": "1,479.18 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1479.18
+        ],
+        "areaCalculation": "1113.53 + 365.65 = 1479.18 sq ft. Printed total 1479.18 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-14.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 2C · 104 / 204",
+        "area": "1,279.51 sq ft (see 104 group on sheet) / 1,273.48 sq ft (see 204 group on sheet)",
+        "sourcePage": 15,
+        "areaValues": [
+          1279.51,
+          1273.48
+        ],
+        "areaCalculation": "see 104 group on sheet: 1113.63 + 165.87 = 1279.50 sq ft. Printed total 1279.51 sq ft. see 204 group on sheet: 1113.74 + 159.74 = 1273.48 sq ft. Printed total 1273.48 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-15.png"
+      },
+      {
+        "label": "Building 1 · 2 BR · Type 4A · 110 / 210",
+        "area": "1,278.64 sq ft (see 110 group on sheet) / 1,273.59 sq ft (see 210 group on sheet)",
+        "sourcePage": 16,
+        "areaValues": [
+          1278.64,
+          1273.59
+        ],
+        "areaCalculation": "see 110 group on sheet: 1113.63 + 165.01 = 1278.64 sq ft. Printed total 1278.64 sq ft. see 210 group on sheet: 1113.74 + 159.84 = 1273.58 sq ft. Printed total 1273.59 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-16.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 1A · 103",
+        "area": "1,963.34 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1963.34
+        ],
+        "areaCalculation": "1448.07 + 515.27 = 1963.34 sq ft. Printed total 1963.34 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-17.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 1D · 203",
+        "area": "1,607.91 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1607.91
+        ],
+        "areaCalculation": "1448.18 + 159.74 = 1607.92 sq ft. Printed total 1607.91 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-18.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 2A · 211",
+        "area": "1,607.91 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1607.91
+        ],
+        "areaCalculation": "1448.18 + 159.74 = 1607.92 sq ft. Printed total 1607.91 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-19.png"
+      },
+      {
+        "label": "Building 1 · 3 BR · Type 2D · 111",
+        "area": "1,966.14 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1966.14
+        ],
+        "areaCalculation": "1448.07 + 518.07 = 1966.14 sq ft. Printed total 1966.14 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-20.png"
+      },
+      {
+        "label": "Townhouse · Type TH-1A · TH02 / TH06",
+        "area": "3,040.27 sq ft (see TH02 group on sheet) / 3,061.04 sq ft (see TH06 group on sheet)",
+        "sourcePage": 21,
+        "areaValues": [
+          3040.27,
+          3061.04
+        ],
+        "areaCalculation": "see TH02 group on sheet: 2190.89 + 849.38 = 3040.27 sq ft. Printed total 3040.27 sq ft. see TH06 group on sheet: 2190.99 + 870.05 = 3061.04 sq ft. Printed total 3061.04 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-21.png"
+      },
+      {
+        "label": "Townhouse · Type TH-1B · TH03",
+        "area": "3,057.06 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          3057.06
+        ],
+        "areaCalculation": "2190.99 + 866.06 = 3057.05 sq ft. Printed total 3057.06 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-22.png"
+      },
+      {
+        "label": "Townhouse · Type TH-1C · TH01 / TH05",
+        "area": "3,058.57 sq ft (see TH01 group on sheet) / 3,068.04 sq ft (see TH05 group on sheet)",
+        "sourcePage": 23,
+        "areaValues": [
+          3058.57,
+          3068.04
+        ],
+        "areaCalculation": "see TH01 group on sheet: 2190.89 + 867.68 = 3058.57 sq ft. Printed total 3058.57 sq ft. see TH05 group on sheet: 2190.99 + 877.04 = 3068.03 sq ft. Printed total 3068.04 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-23.png"
+      },
+      {
+        "label": "Townhouse · Type TH-1D · TH04 / TH08",
+        "area": "3,087.84 sq ft (see TH04 group on sheet) / 3,064.49 sq ft (see TH08 group on sheet)",
+        "sourcePage": 24,
+        "areaValues": [
+          3087.84,
+          3064.49
+        ],
+        "areaCalculation": "see TH04 group on sheet: 2216.50 + 871.34 = 3087.84 sq ft. Printed total 3087.84 sq ft. see TH08 group on sheet: 2192.07 + 872.41 = 3064.48 sq ft. Printed total 3064.49 sq ft.",
+        "cache": "artifacts/project-page-enhancement/ocean-point/plan-24.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1C · 108",
+        "area": "788.03 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          788.03
+        ],
+        "areaCalculation": "713.22 + 74.81 = 788.03 sq ft. Printed total 788.03 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-03.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1E · 101",
+        "area": "934.31 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          934.31
+        ],
+        "areaCalculation": "730.44 + 203.87 = 934.31 sq ft. Printed total 934.31 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-04.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1G · 109 / 201",
+        "area": "788.56 sq ft (see 109 group on sheet) · printed total / 805.68 sq ft (see 201 group on sheet)",
+        "sourcePage": 5,
+        "areaValues": [
+          788.56,
+          805.68
+        ],
+        "areaCalculation": "see 109 group on sheet: 713.22 + 75.24 = 788.46 sq ft. Printed total 788.56 sq ft. Source difference 0.10 sq ft retained. see 201 group on sheet: 730.44 + 75.24 = 805.68 sq ft. Printed total 805.68 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-05.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1H · 110",
+        "area": "788.46 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          788.46
+        ],
+        "areaCalculation": "713.22 + 75.24 = 788.46 sq ft. Printed total 788.46 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-06.png"
+      },
+      {
+        "label": "Building 2 · 1 BR · Type 1J · 102",
+        "area": "972.52 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          972.52
+        ],
+        "areaCalculation": "713.32 + 259.19 = 972.51 sq ft. Printed total 972.52 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-07.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1B · 116",
+        "area": "1,254.86 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1254.86
+        ],
+        "areaCalculation": "1095.23 + 159.63 = 1254.86 sq ft. Printed total 1254.86 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-08.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 1C · 107",
+        "area": "1,256.04 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1256.04
+        ],
+        "areaCalculation": "1095.34 + 160.71 = 1256.05 sq ft. Printed total 1256.04 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-09.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2B · 104 / 117",
+        "area": "1,271.33 sq ft (see 104 group on sheet) / 1,256.36 sq ft (see 117 group on sheet)",
+        "sourcePage": 10,
+        "areaValues": [
+          1271.33,
+          1256.36
+        ],
+        "areaCalculation": "see 104 group on sheet: 1111.59 + 159.74 = 1271.33 sq ft. Printed total 1271.33 sq ft. see 117 group on sheet: 1096.63 + 159.74 = 1256.37 sq ft. Printed total 1256.36 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-10.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 2C · 106",
+        "area": "1,256.36 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1256.36
+        ],
+        "areaCalculation": "1096.63 + 159.74 = 1256.37 sq ft. Printed total 1256.36 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-11.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 3A · 105 / 213",
+        "area": "1,169.28 sq ft (see 105 group on sheet) / 1,158.20 sq ft (see 213 group on sheet)",
+        "sourcePage": 12,
+        "areaValues": [
+          1169.28,
+          1158.2
+        ],
+        "areaCalculation": "see 105 group on sheet: 1092.75 + 76.53 = 1169.28 sq ft. Printed total 1169.28 sq ft. see 213 group on sheet: 1078.65 + 79.55 = 1158.20 sq ft. Printed total 1158.20 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-12.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 3B · 113",
+        "area": "1,468.31 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1468.31
+        ],
+        "areaCalculation": "1078.65 + 389.65 = 1468.30 sq ft. Printed total 1468.31 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-13.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 3C · 115",
+        "area": "1,468.20 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1468.2
+        ],
+        "areaCalculation": "1078.65 + 389.55 = 1468.20 sq ft. Printed total 1468.20 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-14.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 3D · 215",
+        "area": "1,158.73 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1158.73
+        ],
+        "areaCalculation": "1078.65 + 80.08 = 1158.73 sq ft. Printed total 1158.73 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-15.png"
+      },
+      {
+        "label": "Building 2 · 2 BR · Type 4B · 118",
+        "area": "1,256.36 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1256.36
+        ],
+        "areaCalculation": "1096.63 + 159.74 = 1256.37 sq ft. Printed total 1256.36 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-16.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 1B · 103",
+        "area": "1,972.49 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1972.49
+        ],
+        "areaCalculation": "1447.96 + 524.53 = 1972.49 sq ft. Printed total 1972.49 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-17.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 1C · 203",
+        "area": "1,607.81 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1607.81
+        ],
+        "areaCalculation": "1448.07 + 159.74 = 1607.81 sq ft. Printed total 1607.81 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-18.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 2B · 219",
+        "area": "1,627.83 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1627.83
+        ],
+        "areaCalculation": "1468.09 + 159.74 = 1627.83 sq ft. Printed total 1627.83 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-19.png"
+      },
+      {
+        "label": "Building 2 · 3 BR · Type 2C · 119",
+        "area": "1,935.24 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1935.24
+        ],
+        "areaCalculation": "1467.98 + 467.26 = 1935.24 sq ft. Printed total 1935.24 sq ft.",
+        "documentId": "building-2",
+        "cache": "artifacts/project-page-enhancement/ocean-point/building-2/plan-20.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/ocean-point/",
+  "review": {
+    "images": "Reviewed the exact official project gallery and wide hero. Removed one narrower version of the same scene. The listing and interior images show the development’s published design.",
+    "location": "Checked the named official project point and regional marina map independently. Visually verified five published launch estimates on the original Emaar fact sheet, credited to Petkovic Properties.",
+    "floorPlans": "All 44 source pages were visually reviewed. The 40 residence drawings include 36 apartment and four townhouse sheets covering eight townhouses. Of the 51 area panels, the Building 2 Type 1G group on physical page 5 has a 0.10 sq ft printed total discrepancy. Checked the original source bytes and matched imperial area figures against independent PDFium text and spatial area panels."
+  },
+  "unavailable": [
+    "A corrected Building 2 Type 1G area table or developer-hosted copies of the two complete plan packs were not verified.",
+    "Signed unit-specific area and building entrance coordinates were not verified."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "projectId": "omniyat-project-07",
+  "projectSlug": "lumena-by-omniyat",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "Business Bay, Dubai",
+  "road": "Sheikh Zayed Road (E11)",
+  "pin": {
+    "latitude": 25.190899,
+    "longitude": 55.260921,
+    "sourceUrl": "https://omniyat.com/commercial/lumena-by-omniyat",
+    "scope": "Approximate LUMENA point from the OMNIYAT map. Confirm the building entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/lumena-by-omniyat/location-13fd1f363c5a.png",
+    "sha256": "13fd1f363c5ad3fd1182bcd5c31437ec3e87a69ba88d0341a21c5b4d28557806",
+    "originalBytes": 4510191,
+    "width": 2800,
+    "height": 1575,
+    "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/lumena-by-omniyat/lumena-by-omniyat-brochure.pdf#page=16",
+    "alt": "Original brochure aerial diagram identifying LUMENA beside Sheikh Zayed Road and Business Bay Metro Station.",
+    "scope": "OMNIYAT’s brochure aerial diagram of the LUMENA site and the existing Metro corridor.",
+    "caption": "LUMENA beside Business Bay Metro"
+  },
+  "sourceLabel": "OMNIYAT brochure travel estimates",
+  "travel": {
+    "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/lumena-by-omniyat/lumena-by-omniyat-brochure.pdf#page=15",
+    "scope": "Approximate travel times printed in OMNIYAT’s LUMENA brochure.",
+    "destinations": [
+      {
+        "name": "Sheikh Zayed Road (E11)",
+        "minutes": 1
+      },
+      {
+        "name": "Al Khail Road (E44)",
+        "minutes": 6
+      },
+      {
+        "name": "Dubai International Financial Centre",
+        "minutes": 8
+      },
+      {
+        "name": "Downtown Dubai and Burj Khalifa",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 13
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "The brochure does not specify the route or mode. Travel times vary with the entrance and current conditions."
+}

@@ -1,0 +1,53 @@
+{
+  "projectId": "mag-project-01",
+  "projectSlug": "keturah-ardh",
+  "developerSlug": "mag",
+  "source": {
+    "url": "https://www.fullstory.ae/api/public-project-documents/2929-1",
+    "label": "Ardh original community brochure · FullStory archive retrieved 2 November 2026",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/mag/keturah-ardh/floor-plans-90ca01503a00.pdf",
+    "sha256": "90ca01503a009aa6b480054a1d97b1ce4c43425c183d98d7a6d154145eb19cf5"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "eyebrow": "Inside the community",
+  "introduction": "Explore the phase one master plan and original plot 35 control drawing.",
+  "selectorLabel": "Choose a master plan or plot drawing",
+  "note": "These drawings cover land and development controls. Individual home layouts remain unavailable. Plot 35 permits four townhouses with G+2 height and preliminary controls. Land area and maximum GFA have different meanings. The full archived brochure is preserved with its original notices.",
+  "plans": [
+    {
+      "label": "Phase one · complete plot master plan",
+      "area": "Community plan · individual home areas unavailable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/mag/keturah-ardh/plan-page-32-3cc080832db6.webp",
+      "sha256": "3cc080832db685d3331983f1ae8e64e510b9c837f56dec2c41c6b567259069f7",
+      "originalBytes": 2773078,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Plot 35 · original development controls",
+      "area": "10,380.25 sq ft land · 12,455.78 sq ft maximum GFA",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://magit.blob.core.windows.net/renders/KeturahArdh/Phase1_THPlots/FloorPlan/Ardh-TH01_35.jpg",
+        "label": "MAG original plot 35 development control drawing"
+      },
+      "src": "/images/projects/mag/keturah-ardh/plan-image-2-7370825bc595.jpg",
+      "sha256": "7370825bc5954468137384938b72bbff4b0eabc565f93d94959c7d3bcc5baa90",
+      "originalBytes": 424253,
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}

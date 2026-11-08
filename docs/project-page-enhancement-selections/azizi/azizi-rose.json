@@ -1,0 +1,895 @@
+{
+  "slug": "azizi-rose",
+  "id": "azizi-project-05",
+  "developerSlug": "azizi",
+  "checkedOn": "2026-11-06",
+  "evidence": "artifacts/project-page-enhancement/azizi-rose/",
+  "source": {
+    "name": "Azizi Developments · Reelly mirror",
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf",
+    "checkedOn": "2026-11-06"
+  },
+  "cardName": "rose-garden-front",
+  "images": [
+    {
+      "name": "rose-garden-front",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p1-1.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "label": "the Azizi Rose building seen from the garden at dusk",
+      "alt": "Azizi Developments render of the Azizi Rose building seen from the garden at dusk.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "rose-courtyard-pool",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p2-0.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=2",
+      "label": "the landscaped courtyard pool at Azizi Rose",
+      "alt": "Azizi Developments render of the landscaped courtyard pool at Azizi Rose.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "rose-living-dining",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p1-3.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "label": "a living and dining room in the Rose factsheet",
+      "alt": "Azizi Developments render of a living and dining room in the Rose factsheet.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "rose-entrance-day",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p1-0.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "label": "Azizi Rose from the approach road",
+      "alt": "Azizi Developments render of Azizi Rose from the approach road.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "rose-retail-corner",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p1-2.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "label": "the Azizi Rose corner and street-level shopfronts",
+      "alt": "Azizi Developments render of the Azizi Rose corner and street-level shopfronts.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "rose-bedroom",
+      "cache": "artifacts/project-page-enhancement/azizi-rose/azizi-rose-official-brochure-p1-4.jpg",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "label": "a bedroom in the Rose factsheet",
+      "alt": "Azizi Developments render of a bedroom in the Rose factsheet.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "rose-living-dining",
+    "rose-bedroom"
+  ],
+  "location": {
+    "community": "Downtown Jebel Ali, Dubai",
+    "road": "Off Sheikh Zayed Road (E11), near Jebel Ali Free Zone",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/azizi-rose/developer-map.png",
+      "url": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=2",
+      "alt": "Azizi Rose is marked near Sheikh Zayed Road in Downtown Jebel Ali.",
+      "caption": "Azizi Rose regional map, developer factsheet page 2. Reelly mirror.",
+      "scope": "Developer regional context. The drawing is schematic."
+    },
+    "sourceLabel": "Azizi Rose location factsheet · Reelly mirror",
+    "travel": {
+      "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/f0ec3a074c054530ba74d9055d37d65a.pdf#page=1",
+      "scope": "Approximate developer estimates from Downtown Jebel Ali.",
+      "destinations": [
+        {
+          "name": "Life Pharmacy Metro Station",
+          "minutes": 8
+        },
+        {
+          "name": "Expo City Dubai",
+          "minutes": 8
+        },
+        {
+          "name": "Dubai Parks and Resorts",
+          "minutes": 8
+        },
+        {
+          "name": "Dubai Marina and JBR",
+          "minutes": 12
+        },
+        {
+          "name": "Jumeirah Lake Towers",
+          "minutes": 12
+        },
+        {
+          "name": "Ibn Battuta Mall",
+          "minutes": 13
+        },
+        {
+          "name": "Al Maktoum International Airport (DWC)",
+          "minutes": 18
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 25
+        }
+      ]
+    },
+    "travelNote": "Times are the estimates published for Rose. Routes and travel mode are unspecified."
+  },
+  "floorPlans": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/04a9400cbd594fd0b9becaa932d15d2d.pdf",
+    "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans.pdf",
+    "label": "Rose-linked Jabal Ali Plot 11 plan pack · Reelly mirror",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Compare the available studio and one-bedroom plans across the podium and residential floors.",
+    "selectorLabel": "Choose an Azizi Rose apartment or stack",
+    "note": "The Rose-linked source uses the drawing title Jabal Ali Plot 11. Some totals differ from the sum of the printed areas. Studio 2014 and the 4014–6014 stack show 386.10 sq ft total against 388.15 sq ft from the components. Two sheets for 2015–3015 give different balcony areas. Confirm the exact unit and latest plan with the developer.",
+    "plans": [
+      {
+        "sourcePage": 1,
+        "label": "Studio 01A · 6002 · 6th floor",
+        "area": "362.85 sq ft total · 290.52 sq ft apartment · 72.33 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-01.png"
+      },
+      {
+        "sourcePage": 2,
+        "label": "1 BR 04A · 1001 · 1st floor",
+        "area": "875.33 sq ft total · 552.19 sq ft apartment · 323.14 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-02.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "1 BR 04A · 1002 · 1st floor",
+        "area": "875.33 sq ft total · 552.19 sq ft apartment · 323.14 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-03.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "1 BR 01C · 1003 · 1st floor",
+        "area": "726.03 sq ft total · 583.19 sq ft apartment · 142.84 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Studio 01 · 1004 · 1st floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Studio 01 · 1005 · 1st floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-06.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Studio 01A · 1006 · 1st floor",
+        "area": "352.20 sq ft total · 279.22 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-07.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "1 BR 01F · 1007 · 1st floor",
+        "area": "727.11 sq ft total · 584.49 sq ft apartment · 142.62 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Studio 01G · 1008 · 1st floor",
+        "area": "433.14 sq ft total · 273.73 sq ft apartment · 159.41 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Studio 01B · 1009 · 1st floor",
+        "area": "437.66 sq ft total · 273.73 sq ft apartment · 163.94 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Studio 01B · 1010 · 1st floor",
+        "area": "437.56 sq ft total · 273.73 sq ft apartment · 163.83 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Studio 01B · 1011 · 1st floor",
+        "area": "437.56 sq ft total · 273.73 sq ft apartment · 163.83 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Studio 01B · 1012 · 1st floor",
+        "area": "437.66 sq ft total · 273.73 sq ft apartment · 163.94 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Studio 03A · 1013 · 1st floor",
+        "area": "515.17 sq ft total · 289.66 sq ft apartment · 225.51 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Studio 01B · 1014 · 1st floor",
+        "area": "437.56 sq ft total · 273.73 sq ft apartment · 163.83 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Studio 01G · 1015 · 1st floor",
+        "area": "433.14 sq ft total · 273.73 sq ft apartment · 159.41 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-16.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "1 BR 01B · 1016 · 1st floor",
+        "area": "909.88 sq ft total · 584.49 sq ft apartment · 325.40 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-17.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Studio 01H · 1017 · 1st floor",
+        "area": "445.74 sq ft total · 279.22 sq ft apartment · 166.52 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-18.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "1 BR 05A · 2001 · 2nd floor",
+        "area": "847.45 sq ft total · 658.00 sq ft apartment · 189.45 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "1 BR 04 · 2002 · 2nd floor",
+        "area": "695.57 sq ft total · 552.95 sq ft apartment · 142.62 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "1 BR 04 · 2003 · 2nd floor",
+        "area": "694.92 sq ft total · 552.19 sq ft apartment · 142.73 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-21.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "1 BR 01E · 2004–6004 · 2nd to 6th floor",
+        "area": "727.54 sq ft total · 583.19 sq ft apartment · 144.35 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-22.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Studio 01 · 2005–6005 · 2nd to 6th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-23.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Studio 01 · 2006–6006 · 2nd to 6th floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Studio 01A · 2007–6007 · 2nd to 6th floor",
+        "area": "352.20 sq ft total · 279.22 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "1 BR 01G · 2008–6008 · 2nd to 6th floor",
+        "area": "728.51 sq ft total · 584.49 sq ft apartment · 144.02 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Studio 01F · 2009–6009 · 2nd to 6th floor",
+        "area": "344.66 sq ft total · 273.73 sq ft apartment · 70.93 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-27.png"
+      },
+      {
+        "sourcePage": 28,
+        "label": "Studio 01 · 2010–6010 · 2nd to 6th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Studio 01 · 2011–6011 · 2nd to 6th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Studio 01 · 2012–6012 · 2nd to 6th floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Studio 01 · 2013–6013 · 2nd to 6th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-31.png"
+      },
+      {
+        "sourcePage": 32,
+        "label": "Studio 03 · 2014 · 2nd floor",
+        "area": "386.10 sq ft total · 289.66 sq ft apartment · 98.49 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-32.png"
+      },
+      {
+        "sourcePage": 33,
+        "label": "Studio 01 · 2015–3015 · 2nd to 3rd floor · sheet 33",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-33.png"
+      },
+      {
+        "sourcePage": 34,
+        "label": "Studio 01 · 2015–3015 · 2nd to 3rd floor · sheet 34",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-34.png"
+      },
+      {
+        "sourcePage": 35,
+        "label": "Studio 01F · 2016 · 2nd floor",
+        "area": "344.56 sq ft total · 273.73 sq ft apartment · 70.83 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-35.png"
+      },
+      {
+        "sourcePage": 36,
+        "label": "1 BR 01D · 2017–6017 · 2nd to 6th floor",
+        "area": "737.23 sq ft total · 584.49 sq ft apartment · 152.74 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-36.png"
+      },
+      {
+        "sourcePage": 37,
+        "label": "Studio 01A · 2018–6018 · 2nd to 6th floor",
+        "area": "352.20 sq ft total · 279.22 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-37.png"
+      },
+      {
+        "sourcePage": 38,
+        "label": "1 BR 05 · 2019 · 2nd floor",
+        "area": "854.88 sq ft total · 664.57 sq ft apartment · 190.31 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-38.png"
+      },
+      {
+        "sourcePage": 39,
+        "label": "1 BR 05A · 3001–5001 · 3rd to 5th floor",
+        "area": "847.88 sq ft total · 658.43 sq ft apartment · 189.45 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-39.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "1 BR 04 · 3002–5002 · 3rd to 5th floor",
+        "area": "695.46 sq ft total · 552.84 sq ft apartment · 142.62 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "1 BR 04 · 3003–6003 · 3rd to 6th floor",
+        "area": "694.82 sq ft total · 552.09 sq ft apartment · 142.73 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Studio 03 · 3014 · 3rd floor",
+        "area": "386.10 sq ft total · 287.66 sq ft apartment · 98.49 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "Studio 01F · 3016 · 3rd floor",
+        "area": "344.66 sq ft total · 273.73 sq ft apartment · 70.93 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-43.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "1 BR 05 · 3019–6019 · 3rd to 6th floor",
+        "area": "855.20 sq ft total · 664.89 sq ft apartment · 190.31 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Studio 03 · 4014–6014 · 4th to 6th floor",
+        "area": "386.10 sq ft total · 289.66 sq ft apartment · 98.49 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Studio 01 · 4015–6015 · 4th to 6th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-46.png"
+      },
+      {
+        "sourcePage": 47,
+        "label": "Studio 01F · 4016–6016 · 4th to 6th floor",
+        "area": "344.56 sq ft total · 273.73 sq ft apartment · 70.83 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-47.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "1 BR 05B · 6001 · 6th floor",
+        "area": "1,160.47 sq ft total · 658.43 sq ft apartment · 502.03 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-48.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "1 BR 05C · 7001 · 7th floor",
+        "area": "1,149.60 sq ft total · 661.23 sq ft apartment · 488.36 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "1 BR 04 · 7002 · 7th floor",
+        "area": "694.82 sq ft total · 552.09 sq ft apartment · 142.73 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-50.png"
+      },
+      {
+        "sourcePage": 51,
+        "label": "1 BR 01E · 7003–8003 · 7th to 8th floor",
+        "area": "727.54 sq ft total · 583.19 sq ft apartment · 144.35 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-51.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Studio 01 · 7004–8004 · 7th to 8th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-52.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "Studio 01 · 7005–8005 · 7th to 8th floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-53.png"
+      },
+      {
+        "sourcePage": 54,
+        "label": "Studio 01A · 7006–8006 · 7th to 8th floor",
+        "area": "352.20 sq ft total · 279.22 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-54.png"
+      },
+      {
+        "sourcePage": 55,
+        "label": "1 BR 01G · 7007–8007 · 7th to 8th floor",
+        "area": "728.51 sq ft total · 584.49 sq ft apartment · 144.02 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-55.png"
+      },
+      {
+        "sourcePage": 56,
+        "label": "Studio 01F · 7008 · 7th floor",
+        "area": "344.66 sq ft total · 273.73 sq ft apartment · 70.93 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-56.png"
+      },
+      {
+        "sourcePage": 57,
+        "label": "Studio 01 · 7009 · 7th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-57.png"
+      },
+      {
+        "sourcePage": 58,
+        "label": "Studio 01 · 7010–8010 · 7th to 8th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-58.png"
+      },
+      {
+        "sourcePage": 59,
+        "label": "Studio 01 · 7011 · 7th floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-59.png"
+      },
+      {
+        "sourcePage": 60,
+        "label": "Studio 01 · 7012–8012 · 7th to 8th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-60.png"
+      },
+      {
+        "sourcePage": 61,
+        "label": "Studio 03 · 7013 · 7th floor",
+        "area": "388.04 sq ft total · 289.66 sq ft apartment · 98.38 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-61.png"
+      },
+      {
+        "sourcePage": 62,
+        "label": "Studio 01 · 7014–8014 · 7th to 8th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-62.png"
+      },
+      {
+        "sourcePage": 63,
+        "label": "Studio 01F · 7015–8015 · 7th to 8th floor",
+        "area": "344.66 sq ft total · 273.73 sq ft apartment · 70.93 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-63.png"
+      },
+      {
+        "sourcePage": 64,
+        "label": "1 BR 01D · 7016–8016 · 7th to 8th floor",
+        "area": "737.23 sq ft total · 584.49 sq ft apartment · 152.74 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-64.png"
+      },
+      {
+        "sourcePage": 65,
+        "label": "Studio 01A · 7017–8017 · 7th to 8th floor",
+        "area": "352.20 sq ft total · 279.22 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-65.png"
+      },
+      {
+        "sourcePage": 66,
+        "label": "1 BR 05 · 7018–8018 · 7th to 8th floor",
+        "area": "855.20 sq ft total · 664.89 sq ft apartment · 190.31 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-66.png"
+      },
+      {
+        "sourcePage": 67,
+        "label": "1 BR 05D · 8001 · 8th floor",
+        "area": "1,190.28 sq ft total · 659.40 sq ft apartment · 530.88 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-67.png"
+      },
+      {
+        "sourcePage": 68,
+        "label": "Studio 01J · 8002 · 8th floor",
+        "area": "349.61 sq ft total · 277.50 sq ft apartment · 72.12 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-68.png"
+      },
+      {
+        "sourcePage": 69,
+        "label": "Studio 01F · 8008 · 8th floor",
+        "area": "343.80 sq ft total · 273.73 sq ft apartment · 70.07 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-69.png"
+      },
+      {
+        "sourcePage": 70,
+        "label": "Studio 01 · 8009 · 8th floor",
+        "area": "345.09 sq ft total · 273.73 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-70.png"
+      },
+      {
+        "sourcePage": 71,
+        "label": "Studio 01 · 8011 · 8th floor",
+        "area": "344.99 sq ft total · 273.73 sq ft apartment · 71.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-71.png"
+      },
+      {
+        "sourcePage": 72,
+        "label": "Studio 03 · 8013 · 8th floor",
+        "area": "387.83 sq ft total · 289.66 sq ft apartment · 98.17 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-72.png"
+      },
+      {
+        "sourcePage": 73,
+        "label": "1 BR 01 · 101 · 1st podium",
+        "area": "715.05 sq ft total · 573.72 sq ft apartment · 141.33 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-73.png"
+      },
+      {
+        "sourcePage": 74,
+        "label": "Studio 01 · 102–202 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-74.png"
+      },
+      {
+        "sourcePage": 75,
+        "label": "Studio 01 · 103–303 · 1st & 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-75.png"
+      },
+      {
+        "sourcePage": 76,
+        "label": "Studio 01A · 104 · 1st podium",
+        "area": "352.41 sq ft total · 279.43 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-76.png"
+      },
+      {
+        "sourcePage": 77,
+        "label": "Studio 01 · 105–205 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-77.png"
+      },
+      {
+        "sourcePage": 78,
+        "label": "Studio 01 · 106–306 · 1st & 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-78.png"
+      },
+      {
+        "sourcePage": 79,
+        "label": "1 BR 02 · 107 · 1st podium",
+        "area": "703.97 sq ft total · 518.61 sq ft apartment · 185.36 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-79.png"
+      },
+      {
+        "sourcePage": 80,
+        "label": "Studio 01C · 108 · 1st podium",
+        "area": "354.35 sq ft total · 280.94 sq ft apartment · 73.41 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-80.png"
+      },
+      {
+        "sourcePage": 81,
+        "label": "1 BR 03 · 109–209 · 1st & 2nd podium",
+        "area": "638.31 sq ft total · 481.04 sq ft apartment · 157.26 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-81.png"
+      },
+      {
+        "sourcePage": 82,
+        "label": "Studio 01A · 110 · 1st podium",
+        "area": "353.17 sq ft total · 280.19 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-82.png"
+      },
+      {
+        "sourcePage": 83,
+        "label": "Studio 01 · 111–211 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-83.png"
+      },
+      {
+        "sourcePage": 84,
+        "label": "Studio 01 · 112–312 · 1st & 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-84.png"
+      },
+      {
+        "sourcePage": 85,
+        "label": "Studio 01 · 113–213 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-85.png"
+      },
+      {
+        "sourcePage": 86,
+        "label": "Studio 01 · 114–214 · 1st & 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-86.png"
+      },
+      {
+        "sourcePage": 87,
+        "label": "Studio 01 · 115–215 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-87.png"
+      },
+      {
+        "sourcePage": 88,
+        "label": "Studio 01D · 116 · 1st podium",
+        "area": "347.89 sq ft total · 274.05 sq ft apartment · 73.84 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-88.png"
+      },
+      {
+        "sourcePage": 89,
+        "label": "1 BR 01A · 117–217 · 1st & 2nd podium",
+        "area": "711.39 sq ft total · 570.49 sq ft apartment · 140.90 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-89.png"
+      },
+      {
+        "sourcePage": 90,
+        "label": "Studio 01K · 118 · 1st podium",
+        "area": "348.86 sq ft total · 277.50 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-90.png"
+      },
+      {
+        "sourcePage": 91,
+        "label": "Studio 01 · 119–219 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-91.png"
+      },
+      {
+        "sourcePage": 92,
+        "label": "Studio 01 · 120 · 1st podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-92.png"
+      },
+      {
+        "sourcePage": 93,
+        "label": "Studio 01A · 121 · 1st podium",
+        "area": "352.63 sq ft total · 279.65 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-93.png"
+      },
+      {
+        "sourcePage": 94,
+        "label": "Studio 01 · 122–222 · 1st to 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-94.png"
+      },
+      {
+        "sourcePage": 95,
+        "label": "Studio 01 · 123 · 1st podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-95.png"
+      },
+      {
+        "sourcePage": 96,
+        "label": "1 BR 01 · 124–224 · 1st & 2nd podium",
+        "area": "714.62 sq ft total · 573.83 sq ft apartment · 140.79 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-96.png"
+      },
+      {
+        "sourcePage": 97,
+        "label": "1 BR 01 · 201 · 2nd podium",
+        "area": "714.94 sq ft total · 573.72 sq ft apartment · 141.22 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-97.png"
+      },
+      {
+        "sourcePage": 98,
+        "label": "Studio 01A · 204 · 2nd podium",
+        "area": "352.41 sq ft total · 279.43 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-98.png"
+      },
+      {
+        "sourcePage": 99,
+        "label": "Studio 02 · 207 · 2nd podium",
+        "area": "601.71 sq ft total · 331.85 sq ft apartment · 269.85 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-99.png"
+      },
+      {
+        "sourcePage": 100,
+        "label": "Studio 01E · 208 · 2nd podium",
+        "area": "339.93 sq ft total · 280.29 sq ft apartment · 59.63 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-100.png"
+      },
+      {
+        "sourcePage": 101,
+        "label": "Studio 01A · 210 · 2nd podium",
+        "area": "353.17 sq ft total · 280.19 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-101.png"
+      },
+      {
+        "sourcePage": 102,
+        "label": "Studio 01D · 216 · 2nd podium",
+        "area": "347.89 sq ft total · 274.05 sq ft apartment · 73.84 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-102.png"
+      },
+      {
+        "sourcePage": 103,
+        "label": "Studio 01K · 218 · 2nd podium",
+        "area": "348.86 sq ft total · 277.50 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-103.png"
+      },
+      {
+        "sourcePage": 104,
+        "label": "Studio 01 · 220 · 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-104.png"
+      },
+      {
+        "sourcePage": 105,
+        "label": "Studio 01A · 221 · 2nd podium",
+        "area": "352.63 sq ft total · 279.65 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-105.png"
+      },
+      {
+        "sourcePage": 106,
+        "label": "Studio 01 · 223 · 2nd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-106.png"
+      },
+      {
+        "sourcePage": 107,
+        "label": "1 BR 01 · 301 · 3rd podium",
+        "area": "715.05 sq ft total · 573.72 sq ft apartment · 141.33 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-107.png"
+      },
+      {
+        "sourcePage": 108,
+        "label": "Studio 01 · 302 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-108.png"
+      },
+      {
+        "sourcePage": 109,
+        "label": "Studio 01A · 304 · 3rd podium",
+        "area": "352.41 sq ft total · 279.43 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-109.png"
+      },
+      {
+        "sourcePage": 110,
+        "label": "Studio 01 · 305 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-110.png"
+      },
+      {
+        "sourcePage": 111,
+        "label": "Studio 02A · 307 · 3rd podium",
+        "area": "458.44 sq ft total · 327.55 sq ft apartment · 130.89 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-111.png"
+      },
+      {
+        "sourcePage": 112,
+        "label": "1 BR 03A · 308 · 3rd podium",
+        "area": "627.22 sq ft total · 480.72 sq ft apartment · 146.50 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-112.png"
+      },
+      {
+        "sourcePage": 113,
+        "label": "Studio 01A · 309 · 3rd podium",
+        "area": "353.17 sq ft total · 280.19 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-113.png"
+      },
+      {
+        "sourcePage": 114,
+        "label": "Studio 01 · 310 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-114.png"
+      },
+      {
+        "sourcePage": 115,
+        "label": "Studio 01 · 312 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-115.png"
+      },
+      {
+        "sourcePage": 116,
+        "label": "Studio 01 · 313 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-116.png"
+      },
+      {
+        "sourcePage": 117,
+        "label": "Studio 01 · 314 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-117.png"
+      },
+      {
+        "sourcePage": 118,
+        "label": "Studio 01D · 315 · 3rd podium",
+        "area": "347.89 sq ft total · 274.05 sq ft apartment · 73.84 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-118.png"
+      },
+      {
+        "sourcePage": 119,
+        "label": "1 BR 01A · 316 · 3rd podium",
+        "area": "711.39 sq ft total · 570.49 sq ft apartment · 140.90 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-119.png"
+      },
+      {
+        "sourcePage": 120,
+        "label": "Studio 01K · 317 · 3rd podium",
+        "area": "348.86 sq ft total · 277.50 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-120.png"
+      },
+      {
+        "sourcePage": 121,
+        "label": "Studio 01 · 318 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-121.png"
+      },
+      {
+        "sourcePage": 122,
+        "label": "Studio 01 · 319 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-122.png"
+      },
+      {
+        "sourcePage": 123,
+        "label": "Studio 01A · 320 · 3rd podium",
+        "area": "352.63 sq ft total · 279.65 sq ft apartment · 72.98 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-123.png"
+      },
+      {
+        "sourcePage": 124,
+        "label": "Studio 01 · 321 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-124.png"
+      },
+      {
+        "sourcePage": 125,
+        "label": "Studio 01 · 322 · 3rd podium",
+        "area": "345.42 sq ft total · 274.05 sq ft apartment · 71.37 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-125.png"
+      },
+      {
+        "sourcePage": 126,
+        "label": "1 BR 01 · 323 · 3rd podium",
+        "area": "714.62 sq ft total · 573.83 sq ft apartment · 140.79 sq ft balcony",
+        "cache": "artifacts/project-page-enhancement/azizi-rose/developer-floor-plans-review-126.png"
+      }
+    ],
+    "additionalDocuments": []
+  },
+  "review": {
+    "gallery": "Six distinct project renders from the Azizi Rose factsheet. The branded facade views, courtyard and room scenes were checked visually. Stock photos and repeated native crops were excluded.",
+    "location": "The Rose-labelled map and all eight journey estimates were inspected in the two-page factsheet. Rose has a separate map and distinct Marina and JLT estimates from Wares.",
+    "floorPlans": "All 126 complete Plot 11 sheets compared using PDF text and OCR of visible area panels. 24 printed differences of 0.01 sq ft. Larger source discrepancies on pages 32, 34, 42 and 45 are preserved. Physical pages 33–34 are two versions of the same stack. The PDF’s historic annotations carry no inventory claim."
+  },
+  "unavailable": [
+    "A surveyed entrance pin, measured journeys and a standalone retail or building-wide plan were not established in the reviewed material."
+  ]
+}

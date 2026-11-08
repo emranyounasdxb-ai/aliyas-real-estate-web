@@ -1,0 +1,101 @@
+{
+  "projectId": "nshama-project-01",
+  "projectSlug": "evelyn",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2026/01/EVELYN-Floor-Plans-Website.pdf",
+    "label": "Nshama Evelyn official apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/evelyn/floor-plans-7b7d8aff2efb.pdf",
+    "sha256": "7b7d8aff2efbb340f2598fa8c09f5464a7a4752c0b4fc92ef44cf245adc1165f"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the six apartment layouts published by Nshama, from one-bedroom homes to the three-bedroom Type A.",
+  "selectorLabel": "Choose an Evelyn apartment layout",
+  "note": "Built-up totals include the balcony. A range indicates that the printed sheet lists minimum and maximum totals. Confirm the area for your specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "612.57–615.80 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/evelyn/plan-page-1-681cbfe75a95.webp",
+      "sha256": "681cbfe75a9549b0339f363b7e2eb6824efff4f21655e417a940c276470fdf05",
+      "originalBytes": 1170662,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "1 BR · Type B",
+      "area": "609.67 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/evelyn/plan-page-2-383f24cd8dd4.webp",
+      "sha256": "383f24cd8dd479d2c8f48d1c44e0b7a754b6735e56cb13cc55860b5fb230fc4a",
+      "originalBytes": 1140998,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A1",
+      "area": "915.36 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/evelyn/plan-page-3-126dc74ecda3.webp",
+      "sha256": "126dc74ecda334ac7be387cf0a08ba5cd9a41125ecbcb110acb2791d02e593cb",
+      "originalBytes": 957762,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A2",
+      "area": "967.24–969.51 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/evelyn/plan-page-4-f4edf2cf9141.webp",
+      "sha256": "f4edf2cf914146b6bc9f7d4e611a1e830e1cb6afdbc86a08e1580dcbbe766ea3",
+      "originalBytes": 867380,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "897.93–900.51 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/evelyn/plan-page-5-58e8133fe8dc.webp",
+      "sha256": "58e8133fe8dc087b2a3f1ba8b2925d2ba7a7af64dc79bfbd3113fae7b76b3151",
+      "originalBytes": 946808,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,473.04 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/nshama/evelyn/plan-page-6-2c8d23e6ba7f.webp",
+      "sha256": "2c8d23e6ba7fb7142b244d4d876a194fbe5372eb2aa6a06ad6edcc976fea26ca",
+      "originalBytes": 878276,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

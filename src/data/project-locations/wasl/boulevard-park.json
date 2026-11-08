@@ -1,0 +1,40 @@
+{
+  "projectId": "wasl-project-05",
+  "projectSlug": "boulevard-park",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "community": "Wasl Gate, Jebel Ali, Dubai",
+  "road": "Near Sheikh Zayed Road and Energy Metro Station",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/wasl/boulevard-park/location-bce90e379c64.png",
+    "sha256": "bce90e379c64eebc57ef9f43ac15836217e531d93c3e2634fe8addf3e440e528",
+    "originalBytes": 650598,
+    "width": 2800,
+    "height": 1575,
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf#page=9",
+    "alt": "Wasl schematic locating Boulevard Park at Wasl Gate near Energy Metro Station.",
+    "scope": "Regional schematic with Boulevard Park marked. It is not a surveyed entrance map. The future Blue Line is identified separately in the original key.",
+    "caption": "Boulevard Park location · Reelly-hosted Wasl brochure copy."
+  },
+  "sourceLabel": "Wasl Boulevard Park brochure · Reelly-hosted copy",
+  "travel": {
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/b8b0c4528e0d47f8838583a04b55cd5b.pdf#page=8",
+    "scope": "Brochure estimates for the development setting. Routes, traffic and exact destination entrances are unspecified.",
+    "destinations": [
+      {
+        "name": "Dubai Marina / JBR",
+        "minutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 35
+      }
+    ]
+  },
+  "travelNote": "Use the particular entrance and live route when planning a journey. The brochure also places the development within walking distance of Energy Metro Station and beside Festival Plaza. Directions use the project name."
+}

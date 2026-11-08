@@ -1,0 +1,357 @@
+{
+  "id": "emaar-project-05",
+  "slug": "fior-1",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/fior-1-at-rashid-yachts-and-marina",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "building",
+      "url": "https://www.emaar.com/cms-media/uploads/FIOR-1_brochure.pdf#page=5",
+      "cache": "artifacts/project-page-enhancement/fior-1/brochure-images/page-05-00-Im0.jpg",
+      "label": "Marina residences",
+      "alt": "Emaar render of Fior 1 residences beside the marina at dusk",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes, no image edit or upscaling",
+      "sourcePage": 5
+    },
+    {
+      "name": "terrace",
+      "url": "https://www.emaar.com/cms-media/uploads/FIOR-1_brochure.pdf#page=6",
+      "cache": "artifacts/project-page-enhancement/fior-1/brochure-images/page-06-01-Im0.jpg",
+      "label": "Waterfront terraces",
+      "alt": "Emaar render of Fior 1 waterfront terraces at sunset",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes, no image edit or upscaling",
+      "sourcePage": 6
+    },
+    {
+      "name": "pool",
+      "url": "https://www.emaar.com/cms-media/uploads/FIOR-1_brochure.pdf#page=8",
+      "cache": "artifacts/project-page-enhancement/fior-1/brochure-images/page-08-00-Im0.jpg",
+      "label": "Marina-side pool",
+      "alt": "Emaar render of Fior 1’s pool overlooking the marina",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes, no image edit or upscaling",
+      "sourcePage": 8
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_3_5_06bc87a19e_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/fior-1/PRO_INT_3_5_06bc87a19e_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render of Fior 1’s living room with marina-facing windows",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_2_5_b9146f7280_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/fior-1/PRO_INT_2_5_b9146f7280_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render of a Fior 1 bedroom facing the marina",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/PRO_INT_1_5_473d5f6986_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/fior-1/PRO_INT_1_5_473d5f6986_prod.jpg",
+      "label": "Arrival lobby",
+      "alt": "Emaar render of Fior 1’s furnished arrival lobby",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "building",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Rashid Yachts & Marina",
+    "road": "",
+    "pin": {
+      "latitude": 25.2730959,
+      "longitude": 55.2788821,
+      "sourceUrl": "https://www.emaar.com/en/properties/fior-1-at-rashid-yachts-and-marina",
+      "scope": "Official page project pin; exact building access may differ."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_0c6736d9eb.jpg",
+      "cache": "artifacts/project-page-enhancement/fior-1/04_MAP_2400x1600px_0c6736d9eb.jpg",
+      "alt": "Emaar regional diagram locating Rashid Yachts & Marina on Dubai’s coast",
+      "scope": "Regional diagram, not to scale; planned transport is not an operational-service guarantee."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/FIOR-1_brochure.pdf",
+      "page": 4,
+      "scope": "Community drive estimates from own Fior 1 brochure; visually verified.",
+      "destinations": [
+        {
+          "name": "Al Shindagha Heritage District",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 20
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 25
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 30
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/FIOR-1_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/fior-1-floorplans-1.pdf",
+    "label": "Emaar: Fior 1 floor plans",
+    "introduction": "Explore the published apartment layouts. Sheets with the same type name can serve different unit groups; match the unit reference and level shown on the plan.",
+    "selectorLabel": "Choose a residence layout",
+    "note": "Plans and dimensions are approximate and subject to developer revisions. Drawings are not to scale; shown furnishings and generic view legends do not guarantee a particular unit’s outlook or sale inclusions.",
+    "plans": [
+      {
+        "label": "1 bedroom · Type B1 · sheet 3",
+        "area": "906.75 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          906.75
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-03.png"
+      },
+      {
+        "label": "1 bedroom · Type B1 · sheet 4",
+        "area": "890.93 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          890.93
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-04.png"
+      },
+      {
+        "label": "1 bedroom · Type B2 · sheet 5",
+        "area": "891.04 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          891.04
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-05.png"
+      },
+      {
+        "label": "1 bedroom · Type A · sheet 6",
+        "area": "775.43 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          775.43
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-06.png"
+      },
+      {
+        "label": "1 bedroom · Type A · sheet 7",
+        "area": "759.82 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          759.82
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-07.png"
+      },
+      {
+        "label": "2 bedroom · Type A2 · sheet 8",
+        "area": "1,175.96 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1175.96
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-08.png"
+      },
+      {
+        "label": "2 bedroom · Type B1.1 · sheet 9",
+        "area": "1,311.80 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1311.8
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-09.png"
+      },
+      {
+        "label": "2 bedroom · Type B1 · sheet 10",
+        "area": "1,140.54 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1140.54
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-10.png"
+      },
+      {
+        "label": "2 bedroom · Type B2.1 · sheet 11",
+        "area": "1,325.79 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1325.79
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-11.png"
+      },
+      {
+        "label": "2 bedroom · Type B2 · sheet 12",
+        "area": "1,154.43 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1154.43
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-12.png"
+      },
+      {
+        "label": "2 bedroom · Type C · sheet 13",
+        "area": "1,345.49 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1345.49
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-13.png"
+      },
+      {
+        "label": "2 bedroom · Type D · sheet 14",
+        "area": "1,440.21 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1440.21
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-14.png"
+      },
+      {
+        "label": "2 bedroom · Type E · sheet 15",
+        "area": "1,140.54 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1140.54
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-15.png"
+      },
+      {
+        "label": "2 bedroom · Type F · sheet 16",
+        "area": "1,347.43 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1347.43
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-16.png"
+      },
+      {
+        "label": "2 bedroom · Type G · sheet 17",
+        "area": "1,347.43 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1347.43
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-17.png"
+      },
+      {
+        "label": "2 bedroom · Type A1 · sheet 18",
+        "area": "1,196.09 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1196.09
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-18.png"
+      },
+      {
+        "label": "3 bedroom · Type A.1 · sheet 19",
+        "area": "1,863.98 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1863.98
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-19.png"
+      },
+      {
+        "label": "3 bedroom · Type B · sheet 20",
+        "area": "1,876.48 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1876.48
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-20.png"
+      },
+      {
+        "label": "3 bedroom · Type C.1 · sheet 21",
+        "area": "2,493.46 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          2493.46
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-21.png"
+      },
+      {
+        "label": "3 bedroom · Type C · sheet 22",
+        "area": "2,972.88 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          2972.88
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-22.png"
+      },
+      {
+        "label": "3 bedroom · Type A · sheet 23",
+        "area": "1,591.99 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1591.99
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-23.png"
+      },
+      {
+        "label": "3 bedroom · Type D.1 · sheet 24",
+        "area": "2,166.99 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          2166.99
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-24.png"
+      },
+      {
+        "label": "3 bedroom · Type D · sheet 25",
+        "area": "2,582.48 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          2582.48
+        ],
+        "areaCalculation": "Printed square-foot total area on the matching source sheet; not suite area or preceding square metres.",
+        "cache": "artifacts/project-page-enhancement/fior-1/plan-25.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/fior-1/",
+  "review": {
+    "images": "All selected image assets visually checked. Three exterior masters extracted as embedded original image bytes from own official brochure pages5/6/8 replace low-resolution website previews. Three interiors from exact official gallery. No AI/stock substitutes or upscaling.",
+    "location": "Official published pin and own linked regional map reviewed; own brochure physical4 connectivity panel visually checked. Approximate community times qualified.",
+    "floorPlans": "All23 residence title and area panels visually reviewed, physical3–25. Decimal variants B1.1/B2.1/A.1/C.1/D.1 retained; repeated names identified by sheet. Square feet distinguished from square metres; complete unedited sheets and original PDF retained."
+  }
+}

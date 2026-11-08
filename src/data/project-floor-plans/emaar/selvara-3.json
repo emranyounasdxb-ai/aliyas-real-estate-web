@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-105",
+  "projectSlug": "selvara-3",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/selvara-3/floor-plans/50a97842b7e93632.pdf",
+    "label": "Emaar Selvara 3 floor plans · Madena broker-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/selvara-3/floor-plans-50a97842b7e9.pdf",
+    "sha256": "50a97842b7e93632a663b86bfafd24a15e93c494ee869cedabde098c352a8261"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare four-bedroom Villa A and Villa B in Styles 1 and 2. The original pack shows regular and mirrored layouts, each with three floors.",
+  "selectorLabel": "Choose a Selvara 3 floor plan",
+  "note": "The plot key identifies the regular or mirrored variant. Total area includes the terrace or balcony and carport. Confirm your signed plan and area.",
+  "plans": [
+    {
+      "label": "4 BR · Villa A · Style 1",
+      "area": "3,819.46 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/selvara-3/plan-page-2-5fc61e94f08a.webp",
+      "sha256": "5fc61e94f08afe9e8a17ca33eb36caa2471d96bca22104de7d6e95090dfc492d",
+      "originalBytes": 798388,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa A · Style 1 mirrored",
+      "area": "3,819.46 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/selvara-3/plan-page-3-d01e76265d0b.webp",
+      "sha256": "d01e76265d0b19afc711df411fb23d5c51d2caac55bd9b304a37b410f20c0723",
+      "originalBytes": 785940,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa A · Style 2",
+      "area": "3,832.27 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/selvara-3/plan-page-4-a9202f0b5699.webp",
+      "sha256": "a9202f0b5699a5b41b36f2ba0898cf211dea835166e40fc1b41bc882f6766926",
+      "originalBytes": 801042,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa A · Style 2 mirrored",
+      "area": "3,832.27 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/selvara-3/plan-page-5-374802b3e1f6.webp",
+      "sha256": "374802b3e1f6b7d6a3b67012641ab15feb95b1c4cd70bf3d93b4c010c7b83de4",
+      "originalBytes": 791506,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa B · Style 1",
+      "area": "3,651.87 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/selvara-3/plan-page-6-3d9e3734ff83.webp",
+      "sha256": "3d9e3734ff8311e6f95479e408b10d32ac4c1a09c626f0608dc3f46e85469a48",
+      "originalBytes": 749118,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa B · Style 1 mirrored",
+      "area": "3,651.87 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/selvara-3/plan-page-7-7df1dfe72bc5.webp",
+      "sha256": "7df1dfe72bc5884a68b4100c8eeadb0d35c54ff1871938262a4199a209d4d07b",
+      "originalBytes": 748816,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa B · Style 2",
+      "area": "3,689.97 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/selvara-3/plan-page-8-2821b124941f.webp",
+      "sha256": "2821b124941f873016b2efba0ec2a2887497cc68575a85825f7cc627ee87177c",
+      "originalBytes": 747594,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 BR · Villa B · Style 2 mirrored",
+      "area": "3,689.97 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/selvara-3/plan-page-9-92cc95d219b6.webp",
+      "sha256": "92cc95d219b614beeb693a47af8018168c9da0aad802075133f1f3e5abdbd16f",
+      "originalBytes": 748568,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "projectId": "arada-project-04",
+  "projectSlug": "masaar-2",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "community": "Masaar 2, Sharjah",
+  "road": "Khorfakkan Road / Emirates Road E611 vicinity",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/arada/masaar-2/location-a6ab7402f6b8.png",
+    "sha256": "a6ab7402f6b8ff806e5074237f82bd04614acaa61f9e3d8d7fc93e78ded55177",
+    "originalBytes": 1532624,
+    "width": 3200,
+    "height": 1600,
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/02/Masaar-2-Ph1-Brochure-1.pdf#page=14",
+    "alt": "Complete original Masaar 2 regional map and journey panel.",
+    "scope": "Community-area diagram. It establishes no surveyed home or visitor entrance coordinates.",
+    "caption": "Masaar 2 regional setting · original Melia brochure."
+  },
+  "sourceLabel": "Masaar 2 · original Melia brochure · Arada",
+  "travel": {
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/02/Masaar-2-Ph1-Brochure-1.pdf#page=14",
+    "scope": "Developer community-area journey estimates. Individual home origin, route, travel mode and traffic conditions are unspecified.",
+    "destinations": [
+      {
+        "name": "Masaar 1",
+        "minutes": 5
+      },
+      {
+        "name": "Nasma Central Park",
+        "minutes": 5
+      },
+      {
+        "name": "Tilal Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Sharjah International Airport Free Zone (SAIF)",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Sharjah Corniche",
+        "minutes": 20
+      },
+      {
+        "name": "Aljada",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "The original regional panel was read visually. Masaar 2 is a separate community from Masaar 1 and Masaar 3. These source estimates need a current route check. An exact visitor entrance and kilometre journeys remain unverified. Directions use Masaar 2 by name."
+}

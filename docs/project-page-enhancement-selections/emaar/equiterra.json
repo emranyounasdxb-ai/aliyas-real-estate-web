@@ -1,0 +1,238 @@
+{
+  "id": "emaar-project-51",
+  "slug": "equiterra",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/equiterra-at-grand-polo-club-and-resort",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "polo-gardens",
+      "label": "Equestrian paths and homes",
+      "url": "https://www.emaar.com/cms-media/uploads/425092_hero_slide_0_d39e73711e_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/official-hero.jpg",
+      "position": "50% 50%",
+      "alt": "Equiterra developer render: equestrian paths and homes. Proposed architecture or community setting."
+    },
+    {
+      "name": "garden-terrace",
+      "label": "Garden terrace at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/425080_exterior_0_662ef8a7cc_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/425080_exterior_0_662ef8a7cc_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Equiterra developer render: garden terrace at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "poolside",
+      "label": "Poolside with townhouses beyond",
+      "url": "https://www.emaar.com/cms-media/uploads/425083_exterior_1_95063bd9b7_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/425083_exterior_1_95063bd9b7_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Equiterra developer render: poolside with townhouses beyond. Proposed architecture or community setting."
+    },
+    {
+      "name": "dining",
+      "label": "Dining area",
+      "url": "https://www.emaar.com/cms-media/uploads/425086_interior_0_fb831741c7_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/425086_interior_0_fb831741c7_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Equiterra developer render: dining area. Finishes and outlook vary by home."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/425089_interior_1_44de88da55_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/425089_interior_1_44de88da55_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Equiterra developer render: bedroom. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "poolside",
+  "editorialNames": [
+    "dining",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Grand Polo Club & Resort",
+    "sourceLabel": "Emaar brochure via Mitchell’s · page 4",
+    "travel": {
+      "page": 4,
+      "scope": "Grand Polo community estimates from the original Equiterra brochure, hosted by Mitchell’s.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 5
+        },
+        {
+          "name": "The Oasis",
+          "minutes": 5
+        },
+        {
+          "name": "Expo 2020 area",
+          "minutes": 10
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 30
+        }
+      ],
+      "sourceUrl": "https://www.mitchellscommercialrealty.com/downloads/equestra-equiterra/EQUITERRA_GP_BROCHURE.pdf"
+    },
+    "travelNote": "Emaar’s brochure estimates use a community reference. Current routes, traffic and the starting point can change the journey.",
+    "pin": {
+      "latitude": 24.9646625,
+      "longitude": 55.2174844,
+      "sourceUrl": "https://www.emaar.com/en/properties/equiterra-at-grand-polo-club-and-resort",
+      "scope": "Emaar publishes this reference point for the wider Grand Polo community. Confirm the approach and entrance for the specific home."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_d19600bb28.jpg",
+      "cache": "artifacts/project-page-enhancement/equiterra/04_MAP_2400x1600px_d19600bb28.jpg",
+      "alt": "Emaar regional map showing Grand Polo Club & Resort",
+      "scope": "Regional context for Grand Polo Club & Resort. Future metro lines are shown separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Equiterra floor plans via Madena",
+    "introduction": "Compare three- and four-bedroom townhouses in Styles B and C. Each sheet shows both storeys and highlights the row positions for that layout.",
+    "selectorLabel": "Choose an Equiterra townhouse layout",
+    "note": "Published totals include suite, garage and balcony or terrace areas. The Style B TH05 sheet prints 2,171.42 sq ft, while its components sum to 2,171.40 sq ft. Two Style B layouts show the same square-foot total with different metric totals. Confirm the figures on the signed unit drawing. A verified five-bedroom sheet was unavailable.",
+    "url": "https://www.madena.ae/api/assets/documents/projects/equiterra/floor-plans/0981dfd1b696ce0f.pdf",
+    "cache": "artifacts/project-details/emaar/equiterra-own-plans.pdf",
+    "plans": [
+      {
+        "label": "4 bedrooms · Style B · Left end",
+        "area": "2,471.50 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          2471.5
+        ],
+        "areaCalculation": "1992.94 + 377.49 + 101.07 = 2471.50 sq ft. Printed total 2471.50 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-03.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH02",
+        "area": "2,163.44 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          2163.44
+        ],
+        "areaCalculation": "1557.21 + 354.03 + 252.20 = 2163.44 sq ft. Printed total 2163.44 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-04.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH04",
+        "area": "2,171.42 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          2171.42
+        ],
+        "areaCalculation": "1557.12 + 354.03 + 260.27 = 2171.42 sq ft. Printed total 2171.42 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-05.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH06",
+        "area": "2,178.53 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          2178.53
+        ],
+        "areaCalculation": "1558.20 + 354.03 + 266.30 = 2178.53 sq ft. Printed total 2178.53 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-06.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH03",
+        "area": "2,163.44 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          2163.44
+        ],
+        "areaCalculation": "1557.21 + 354.03 + 252.20 = 2163.44 sq ft. Printed total 2163.44 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-07.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH05",
+        "area": "2,171.42 sq ft total area · printed total",
+        "sourcePage": 8,
+        "areaValues": [
+          2171.42
+        ],
+        "areaCalculation": "1557.10 + 354.03 + 260.27 = 2171.40 sq ft. Printed total 2171.42 sq ft. Source difference 0.02 sq ft retained.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-08.png"
+      },
+      {
+        "label": "3 bedrooms · Style B · TH07",
+        "area": "2,178.53 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          2178.53
+        ],
+        "areaCalculation": "1558.20 + 354.03 + 266.30 = 2178.53 sq ft. Printed total 2178.53 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-09.png"
+      },
+      {
+        "label": "4 bedrooms · Style B · Right end",
+        "area": "2,471.50 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          2471.5
+        ],
+        "areaCalculation": "1992.94 + 377.49 + 101.07 = 2471.50 sq ft. Printed total 2471.50 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-10.png"
+      },
+      {
+        "label": "4 bedrooms · Style C · Left end",
+        "area": "2,482.70 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          2482.7
+        ],
+        "areaCalculation": "2008.66 + 377.60 + 96.44 = 2482.70 sq ft. Printed total 2482.70 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-12.png"
+      },
+      {
+        "label": "3 bedrooms · Style C · Layout 1",
+        "area": "2,171.08 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          2171.08
+        ],
+        "areaCalculation": "1556.89 + 353.92 + 260.27 = 2171.08 sq ft. Printed total 2171.08 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-13.png"
+      },
+      {
+        "label": "3 bedrooms · Style C · Layout 2",
+        "area": "2,171.08 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          2171.08
+        ],
+        "areaCalculation": "1556.89 + 353.92 + 260.27 = 2171.08 sq ft. Printed total 2171.08 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-14.png"
+      },
+      {
+        "label": "4 bedrooms · Style C · Right end",
+        "area": "2,482.70 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          2482.7
+        ],
+        "areaCalculation": "2008.66 + 377.60 + 96.44 = 2482.70 sq ft. Printed total 2482.70 sq ft.",
+        "cache": "artifacts/project-page-enhancement/equiterra/plan-15.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/equiterra/",
+  "review": {
+    "images": "Official Equiterra page supplied all five project renders. The panoramic equestrian path leads the gallery, the poolside townhouse view is on the card, and dining and bedroom renders appear in the interiors section.",
+    "location": "Reviewed the official page pin, regional diagram and exact Equiterra brochure cover and physical page 4. Four visually read travel estimates are scoped to Grand Polo. The legacy developer brochure URL served HTML. The matched original brochure is attributed to its Mitchell’s mirror.",
+    "floorPlans": "Fresh original 15-page Emaar PDF from Madena matched cached bytes. Reviewed all pages, including both full levels, notices, row positions and area panels on sheets 3–10 and 12–15. Page 8 has a 0.02 sq ft component discrepancy. Pages 5 and 8 print 201.99 and 201.73 sq m respectively against the same 2,171.42 sq ft total. Printed figures and all row variants retained."
+  },
+  "unavailable": [
+    "Five-bedroom Equiterra sheets and area range remain unverified. The Projectory listing reports Style E and F figures matching neighbouring Equestra, without a verified Equiterra-branded sheet.",
+    "Signed unit dimensions, confirmed plot access and entitlement to shared amenities remain unit-specific."
+  ]
+}

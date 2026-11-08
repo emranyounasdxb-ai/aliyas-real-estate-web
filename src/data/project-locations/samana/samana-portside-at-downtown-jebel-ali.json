@@ -1,0 +1,63 @@
+{
+  "projectId": "samana-project-04",
+  "projectSlug": "samana-portside-at-downtown-jebel-ali",
+  "developerSlug": "samana",
+  "checkedOn": "2026-11-07",
+  "community": "Downtown Jebel Ali, Dubai",
+  "road": "Sheikh Zayed Road (E11) corridor",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/samana/samana-portside-at-downtown-jebel-ali/location-767be9c3b4c4.png",
+    "sha256": "767be9c3b4c4d53ac05c3cd1e810a84b23888accdeb51490c7afa857ce5b2d0f",
+    "originalBytes": 815559,
+    "width": 3200,
+    "height": 2263,
+    "sourceUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/08/14/10/16/036c304891317e2d81eb987365908a45.pdf#page=10",
+    "alt": "Original SAMANA map locating Portside in the Downtown Jebel Ali corridor.",
+    "scope": "Regional schematic and source destination list. The primary interactive embed uses the project name, without a coordinate. Confirm the visitor entrance.",
+    "caption": "Portside location context · original SAMANA brochure."
+  },
+  "sourceLabel": "SAMANA Portside · original brochure",
+  "travel": {
+    "sourceUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/08/14/10/16/036c304891317e2d81eb987365908a45.pdf#page=10",
+    "scope": "The source places these destinations within 20 minutes. Travel mode, route, traffic, station and destination entrances are unspecified.",
+    "destinations": [
+      {
+        "name": "Dubai Metro",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Palm Jebel Ali",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Dubai Investment Park",
+        "minutes": 20,
+        "timeQualifier": "within"
+      },
+      {
+        "name": "Jumeirah Beach Residence",
+        "minutes": 20,
+        "timeQualifier": "within"
+      }
+    ]
+  },
+  "travelNote": "“Within 20 minutes” is the developer’s published upper limit. Check current routing and destination access. Future infrastructure mentioned in the brochure is proposed. Directions use the project name because an entrance coordinate was not established."
+}

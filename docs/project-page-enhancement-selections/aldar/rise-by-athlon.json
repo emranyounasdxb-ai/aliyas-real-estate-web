@@ -1,0 +1,197 @@
+{
+  "id": "aldar-project-09",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/rise-by-athlon",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "bedroom",
+    "kitchen",
+    "club-lounge"
+  ],
+  "location": {
+    "community": "Athlon, Dubailand",
+    "road": "Near Global Village, between the E311 and E611 corridors",
+    "pin": null,
+    "map": {
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/RISE_MAGENTA_BROCHURE-V2.pdf/e4a09770f6d911f08e63b6ec98be2ad5#page=5",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/brochure-map-p5.png",
+      "alt": "Rise by Athlon Magenta brochure map showing the site in Dubailand and the surrounding Dubai road network.",
+      "caption": "Aldar’s regional context map from the Magenta release brochure, page 5.",
+      "scope": "The map shows community context for one Rise release. It does not identify each tower entrance."
+    },
+    "sourceLabel": "Aldar Magenta brochure · page 5",
+    "travel": {
+      "sourceUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/RISE_MAGENTA_BROCHURE-V2.pdf/e4a09770f6d911f08e63b6ec98be2ad5",
+      "page": 5,
+      "scope": "Aldar community travel estimates, corroborated by the Rise location page.",
+      "destinations": [
+        {
+          "name": "Dubai International Airport",
+          "minutes": 25
+        },
+        {
+          "name": "Jumeirah Beach",
+          "minutes": 30
+        }
+      ]
+    },
+    "travelNote": "Rise is the apartment collection within Athlon. The regional map comes from the Magenta release. Confirm directions for your building, as access and travel times can vary."
+  },
+  "floorPlans": {
+    "url": "https://storage.googleapis.com/xdil-qda0-zofk.m2.xano.io/vault/ZZLvFZFt/Al7mWg8kaIf5WmcKXyVkwSU6zCo/SVIl7A../Rise%20by%20Athlon%20Floorplans.pdf",
+    "label": "Aldar Rise by Athlon floor plans · hosted copy",
+    "introduction": "Explore the published low-rise and tower apartment layouts. Some have separate maid’s rooms or larger terraces.",
+    "selectorLabel": "Choose a Rise by Athlon floor plan",
+    "note": "The plan sheets identify types but omit measured total areas. Confirm the area, outdoor space and building for the apartment you select.",
+    "plans": [
+      {
+        "label": "1 BR · Low rise",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 2,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-02.png"
+      },
+      {
+        "label": "2 BR + maid · Low rise",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 3,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-03.png"
+      },
+      {
+        "label": "2 BR · Low rise standard",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 4,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-04.png"
+      },
+      {
+        "label": "3 BR · Low rise standard",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 5,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-05.png"
+      },
+      {
+        "label": "1 BR tower · Type A",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 6,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-06.png"
+      },
+      {
+        "label": "1 BR tower · Type B",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 7,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-07.png"
+      },
+      {
+        "label": "1 BR tower · Type C",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 8,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-08.png"
+      },
+      {
+        "label": "2 BR tower · Type A",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 9,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-09.png"
+      },
+      {
+        "label": "2 BR tower · Type B",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 10,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-10.png"
+      },
+      {
+        "label": "3 BR tower · Standard",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 11,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-11.png"
+      },
+      {
+        "label": "3 BR · Terrace",
+        "area": "Unit area to be confirmed",
+        "sourcePage": 12,
+        "cache": "artifacts/project-page-enhancement/rise-by-athlon/plan-12.png"
+      }
+    ],
+    "cache": "artifacts/project-page-enhancement/rise-by-athlon/plans.pdf"
+  },
+  "review": {
+    "images": "Three corporate gallery renders carry the Aldar AthlonResidential project naming and match the Rise apartment architecture. The corporate page also contains an Alreeman villa image, which was excluded. Interior and club images come from the Rise launch page and its subsidiary sections. Corporate page: https://www.aldar.com/properties/en/uae/dubai/rise-by-athlon",
+    "location": "Visually checked the official Aldar Magenta brochure map and two time values on physical page 5. Both agree with the Rise location landing page https://www.aldar.com/properties/en/rise-by-athlon/location. Regional map scope is named in the caption, without an invented tower pin.",
+    "floorPlans": "Reviewed all eleven complete drawing pages of the 12-page collection (physical 2–12). Original byte hash matched the previously cached copy. The printed brochure folios are retained, while source links use physical PDF pages. The sheets do not give an exact measured whole-unit area."
+  },
+  "unavailable": [
+    "Signed drawing-specific areas and confirmed entrances for individual apartment buildings."
+  ],
+  "slug": "rise-by-athlon",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/rise-by-athlon/",
+  "images": [
+    {
+      "name": "park-from-above",
+      "label": "Rise apartment towers and central activity park",
+      "alt": "Aldar render of rise apartment towers and central activity park.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/corporate-0.jpg",
+      "url": "https://images2.cmp.optimizely.com/assets/ALDAR_AthlonResidential02_CGI10_05_NoPPl.jpg/Zz04ZTllMWYzZWY2ZGMxMWYwOTAzYmI2ZWM5OGJlMmFkNQ=="
+    },
+    {
+      "name": "running-path",
+      "label": "Running path and garden at the base of the apartment buildings",
+      "alt": "Aldar render of running path and garden at the base of the apartment buildings.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/corporate-1.jpg",
+      "url": "https://images4.cmp.optimizely.com/assets/ALDAR_AthlonResidential_CGI06_08a-NOPPL.jpg/Zz04NmM5ZDg0OGY2ZGMxMWYwODkwNzZhMDkyZmZkODVlMw=="
+    },
+    {
+      "name": "arrival",
+      "label": "Covered arrival at a Rise residential building",
+      "alt": "Aldar render of covered arrival at a rise residential building.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/corporate-2.jpg",
+      "url": "https://images1.cmp.optimizely.com/assets/ALDAR_AthlonResidential_CGI05_07_No_PPL.jpg/Zz05ZGM0YzVlNGY2ZGMxMWYwYWZlYzBlODk5MjQ2ZjIwYw=="
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom in the light palette",
+      "alt": "Aldar render of bedroom in the light palette.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/perfromance_bg.png",
+      "url": "https://asset.aldar.com/damascus/launch/mp-rise-by-athlon/perfromance_bg.png"
+    },
+    {
+      "name": "kitchen",
+      "label": "Kitchen and breakfast counter in a Rise home",
+      "alt": "Aldar render of kitchen and breakfast counter in a rise home.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/athlon_sustainability_footer_banner.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-rise-by-athlon-magenta/athlon_sustainability_footer_banner.webp"
+    },
+    {
+      "name": "club-lounge",
+      "label": "Shared club lounge and work area",
+      "alt": "Aldar render of shared club lounge and work area.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/athlon_service_home_banner.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-rise-by-athlon-magenta/athlon_service_home_banner.webp"
+    },
+    {
+      "name": "screening-lounge",
+      "label": "Screening lounge with tiered seating",
+      "alt": "Aldar render of screening lounge with tiered seating.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/athlon_aminity_footer_banner.webp",
+      "url": "https://asset.aldar.com/damascus/launch/mp-rise-by-athlon-magenta/athlon_aminity_footer_banner.webp"
+    },
+    {
+      "name": "aerial-layout",
+      "label": "Aerial view of the Rise apartment collection",
+      "alt": "Aldar render of aerial view of the rise apartment collection.",
+      "position": "50% 50%",
+      "cache": "artifacts/project-page-enhancement/rise-by-athlon/location_bg.png",
+      "url": "https://asset.aldar.com/damascus/launch/mp-rise-by-athlon-magenta/location_bg.png"
+    }
+  ],
+  "cardName": "park-from-above"
+}

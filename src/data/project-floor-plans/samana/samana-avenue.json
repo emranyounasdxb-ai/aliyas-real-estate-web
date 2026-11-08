@@ -1,0 +1,95 @@
+{
+  "projectId": "samana-project-30",
+  "projectSlug": "samana-avenue",
+  "developerSlug": "samana",
+  "source": {
+    "url": "https://www.samanadevelopers.com/storage/projects-files/2025/09/01/10/34/0f989e1777d8258c13e3d25762decf8f.pdf",
+    "label": "SAMANA Avenue · original official brochure and home drawings",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/samana/samana-avenue/floor-plans-aeb055945b57.pdf",
+    "sha256": "aeb055945b5762f79eb57a412903c4ac2fc0d5c04c227b6720ea9b3bae96e4db"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore four complete home drawings and a complete building floorplate, with full-size zoom and original PDF-page links.",
+  "selectorLabel": "Choose a complete home or building sheet",
+  "note": "Four complete official home drawings show studios with and without a pool, plus 1 BR and 2 BR pool homes. A separate branded Petkovic broker-hosted PDF adds the complete second-to-sixteenth-floor overview. The 1 BR drawing labels a store. Numerical unit areas and approved numbered-unit matching are not printed on these sheets. Confirm the contractual configuration, area definition and pool provision with SAMANA.",
+  "plans": [
+    {
+      "label": "Studio · without pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/samana/samana-avenue/plan-page-32-8c1a8137b43a.webp",
+      "sha256": "8c1a8137b43ae62b7b315bcc458adb49acff8ecdd995f25f553251cd06cf121b",
+      "originalBytes": 167946,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "Studio + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/samana/samana-avenue/plan-page-33-2ab75698051b.webp",
+      "sha256": "2ab75698051be7733d5e1cf1f17d0f76b73e8a55903b386abda04a1dd42de7be",
+      "originalBytes": 136482,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "1 BR + pool · store shown",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/samana/samana-avenue/plan-page-34-b9d31d5d794d.webp",
+      "sha256": "b9d31d5d794dcfcef406d18bbf0230ebe0ffca2803854308a3312e075f79148b",
+      "originalBytes": 211382,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "2 BR + pool",
+      "area": "Area not stated on source sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/samana/samana-avenue/plan-page-35-2ed88325396f.webp",
+      "sha256": "2ed88325396f3c230f9d3a8becc1f0d1b83418fb1dc80d1dec994d9bed415742",
+      "originalBytes": 235884,
+      "width": 3200,
+      "height": 2058
+    },
+    {
+      "label": "Floors 2–16 · complete building overview",
+      "area": "Whole-floor overview · unit areas not stated",
+      "sourceIds": [
+        "plans-building"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/samana/samana-avenue/plan-building-page-2-412dd39b4bf0.webp",
+      "sha256": "412dd39b4bf0643fa0c97970878eeda28585cbdc9b3329d9ad92ed928ef2581e",
+      "originalBytes": 2300848,
+      "width": 3200,
+      "height": 2058,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/07/Samana-Avenue-Floor-Plan.pdf",
+        "label": "SAMANA Avenue · branded floorplate PDF, Petkovic broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/samana/samana-avenue/floor-plans-building-42ceceac8ec3.pdf",
+        "sha256": "42ceceac8ec3498b3ef6b5a6edbb802d5cf5368c3d002229efddb6f74e06ebf8"
+      }
+    }
+  ]
+}

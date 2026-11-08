@@ -1,0 +1,48 @@
+{
+  "projectId": "wasl-project-04",
+  "projectSlug": "avenue-park-towers-ii",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "community": "Wasl 1, Al Kifaf, Dubai",
+  "road": "Near Zabeel Park and Max Metro Station",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/wasl/avenue-park-towers-ii/location-dd4ea7c5bde6.png",
+    "sha256": "dd4ea7c5bde601ced2525b55177203cdd38902d23e06d165697aa883128bf65c",
+    "originalBytes": 669288,
+    "width": 2800,
+    "height": 1575,
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf#page=4",
+    "alt": "Wasl regional map identifying Wasl 1, Zabeel Park and surrounding Dubai destinations.",
+    "scope": "Regional context for the Wasl 1 community. Phase-specific visitor entrances and live transport access require confirmation.",
+    "caption": "Wasl 1 location context · original Avenue Park Towers II brochure."
+  },
+  "sourceLabel": "Wasl Avenue Park Towers II brochure · community estimates",
+  "travel": {
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2026-09/APII_WASL1_BROCHURE_EN_0400.pdf#page=4",
+    "scope": "Brochure estimates from the wider Wasl 1 setting. Travel mode, route, traffic and exact entrances are unspecified.",
+    "destinations": [
+      {
+        "name": "Zabeel Park",
+        "minutes": 2
+      },
+      {
+        "name": "Dubai World Trade Centre",
+        "minutes": 5
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "DIFC",
+        "minutes": 10
+      },
+      {
+        "name": "DXB Airport",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "Allow for the particular tower entrance and live route. Directions use the full phase name."
+}

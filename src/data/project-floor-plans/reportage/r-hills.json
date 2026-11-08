@@ -1,0 +1,128 @@
+{
+  "projectId": "reportage-project-08",
+  "projectSlug": "r-hills",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/R-DOT-HILLS-Brochure-Unittype-1.pdf",
+    "label": "Reportage · R. Hills ten townhouse drawings",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/r-hills/floor-plans-51b24d9a68bf.pdf",
+    "sha256": "51b24d9a68bf24e04b8166eb8e30fe8175c9b5edc4b53ada8de925d825531a56"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the ten original townhouse types and complete community drawings.",
+  "selectorLabel": "Choose a paired residence page or original context sheet",
+  "note": "Ten townhouse types remain together on five complete paired pages, retaining every level and locator. Printed sellable totals include outdoor space. The 3BR A/B total is 2,289.5 sq ft against 2,289.7 in components. The 3BR C total is 1,875 against 1,874.3, C* is 1,902.5 against 1,902.3, and 4BR C is 1,912.2 against 1,912. The original figures remain visible. Confirm the selected home, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "3 BR townhouse · A / B",
+      "area": "A 2,289.5 / B 2,289.5 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/r-hills/plan-page-4-3438be03a944.webp",
+      "sha256": "3438be03a944898a614a9a31759ae05936e12957c3b135ca25a37a876390a6ef",
+      "originalBytes": 446318,
+      "width": 3600,
+      "height": 1801
+    },
+    {
+      "label": "3 BR townhouse · C / C*",
+      "area": "C 1,875 / C* 1,902.5 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/r-hills/plan-page-5-b93ab135b120.webp",
+      "sha256": "b93ab135b1207f1f87a372ec2aef6455b3c2a3d2145b9e8fd3fecc952f31d765",
+      "originalBytes": 518056,
+      "width": 3600,
+      "height": 1801
+    },
+    {
+      "label": "4 BR townhouse · A / B",
+      "area": "A 2,335.7 / B 2,335.7 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/r-hills/plan-page-6-677bf2a7fa3c.webp",
+      "sha256": "677bf2a7fa3cfbf2bd0fb95caa20813b8f3f6559d63a63d76f9780fd9cb2bc7e",
+      "originalBytes": 565124,
+      "width": 3600,
+      "height": 1801
+    },
+    {
+      "label": "4 BR C / 5 BR A townhouses",
+      "area": "4 BR C 1,912.2 / 5 BR A 2,940 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/r-hills/plan-page-7-b3b362ac3674.webp",
+      "sha256": "b3b362ac3674785a5356b8ba76144e433317880e8ec31991ff8b8d2f128f8072",
+      "originalBytes": 562002,
+      "width": 3600,
+      "height": 1801
+    },
+    {
+      "label": "5 BR townhouse · B / C",
+      "area": "B 2,940 / C 2,404 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/r-hills/plan-page-8-4d642f36e189.webp",
+      "sha256": "4d642f36e1895d1d27232835905876f9c7d6aeacc9969d8b4845b0dd9c721c07",
+      "originalBytes": 596804,
+      "width": 3600,
+      "height": 1801
+    },
+    {
+      "label": "Original community master plan",
+      "area": "Building context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/r-hills/plan-brochure-page-25-71a3e4f9157c.webp",
+      "sha256": "71a3e4f9157c195c1c5d1796e8f4917e2162af475c946ab2d03d7836161ce571",
+      "originalBytes": 9272276,
+      "width": 3600,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/R-DOT-HILLS-Brochure-Artwork-AR-EN-TK01-DIGITAL-1.pdf",
+        "label": "Reportage · R. Hills original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/r-hills/floor-plans-brochure-db518980700f.pdf",
+        "sha256": "db518980700faa1649294ae44526974f0853d44693c0dc485512cc7d149b0f98"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/r-hills/plan-brochure-page-4-cf2146d7edb4.webp",
+      "sha256": "cf2146d7edb4bb488d3a7fa432e595ad7af76f9ab095765f7d8597646e6a3e73",
+      "originalBytes": 407182,
+      "width": 3600,
+      "height": 1801,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/R-DOT-HILLS-Brochure-Artwork-AR-EN-TK01-DIGITAL-1.pdf",
+        "label": "Reportage · R. Hills original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/r-hills/floor-plans-brochure-db518980700f.pdf",
+        "sha256": "db518980700faa1649294ae44526974f0853d44693c0dc485512cc7d149b0f98"
+      }
+    }
+  ]
+}

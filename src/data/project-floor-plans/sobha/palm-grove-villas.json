@@ -1,0 +1,101 @@
+{
+  "projectId": "sobha-project-45",
+  "projectSlug": "palm-grove-villas",
+  "developerSlug": "sobha",
+  "source": {
+    "url": "https://sobharealty.com/sites/default/files/2024-12/Sobha%20Siniya%20Island.pdf",
+    "label": "Palm Grove Villas original brochure and floor plans · Sobha Realty",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/sobha/palm-grove-villas/floor-plans-661bee52605b.pdf",
+    "sha256": "661bee52605bf86052698ff760aadbb7166068071142b105bb52eb49547c91f8"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published four-bedroom villa types and their mirror versions. Each sheet shows the ground, first and terrace floors.",
+  "selectorLabel": "Choose a four-bedroom villa layout",
+  "note": "The selector uses saleable area from Sobha’s current linked brochure. Check the separate plot range and plot numbers on the original sheet.",
+  "plans": [
+    {
+      "label": "4 BR Villa · Type A",
+      "area": "4,814.70 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-30-89bc65f23dae.webp",
+      "sha256": "89bc65f23dae4b054ae2fb7298de38451e8e626aece424f5239b22c8c755c3e6",
+      "originalBytes": 805352,
+      "width": 1558,
+      "height": 2800
+    },
+    {
+      "label": "4 BR Villa · Type A mirror",
+      "area": "4,814.70 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-31-0e33e1f04879.webp",
+      "sha256": "0e33e1f04879572f9f1d4bfd4248a94d01f834b42be41275cea70e315d2553e1",
+      "originalBytes": 809084,
+      "width": 1619,
+      "height": 2800
+    },
+    {
+      "label": "4 BR Villa · Type B",
+      "area": "4,836.22 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-32-619d63cc2aa8.webp",
+      "sha256": "619d63cc2aa8fcab9cfceb4a8ad61d652382d089437795d735b280ffb1adc412",
+      "originalBytes": 768614,
+      "width": 1558,
+      "height": 2800
+    },
+    {
+      "label": "4 BR Villa · Type B mirror",
+      "area": "4,836.22 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-33-d42980e2a022.webp",
+      "sha256": "d42980e2a02237ff804370c4863df2d91c210cd0fbce7d4cf8fa515d6e9a5dfa",
+      "originalBytes": 778280,
+      "width": 1558,
+      "height": 2800
+    },
+    {
+      "label": "4 BR Villa · Type C",
+      "area": "5,219.42 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-34-a496121f16bb.webp",
+      "sha256": "a496121f16bba140520ca0623baedf23afeebab8ba455e27f7371356e3aa35c9",
+      "originalBytes": 719976,
+      "width": 1558,
+      "height": 2800
+    },
+    {
+      "label": "4 BR Villa · Type C mirror",
+      "area": "5,219.42 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/sobha/palm-grove-villas/plan-page-35-ae2c64662965.webp",
+      "sha256": "ae2c64662965750c16e55beec1596633fc142824988f6b1ac61a416b44738f92",
+      "originalBytes": 758938,
+      "width": 1558,
+      "height": 2800
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "projectId": "reportage-project-16",
+  "projectSlug": "plaza-1",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/15-Plaza-Brochure-24-Feb-Digital-V2.pdf",
+    "label": "Reportage · Plaza 1 original brochure",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/plaza-1/floor-plans-425cf7083721.pdf",
+    "sha256": "425cf70837219399fa658c458298fe258f9194a818ffc2b508a7ecba337bc647"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the original apartments, all townhouse levels and complete building floorplates.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Twelve home types retain eight whole brochure sheets, followed by eight building levels. Printed totals include outdoor space. Multiple schedules differ from component sums, including studio A, 1 BR A, 2 BR A–D and the townhouses. Townhouse B prints 2,208.00–2,303.71 sq ft, while its stated components sum to 2,198.96–2,294.65 sq ft. Printed source totals remain visible. Confirm the specific home and contractual measurements.",
+  "plans": [
+    {
+      "label": "Studio A / 1 BR A",
+      "area": "Studio 354.35–545.52 / 1 BR A 586.63–838.40 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/plaza-1/plan-page-21-c7489fa7cd51.webp",
+      "sha256": "c7489fa7cd51f8199db5002e3f82cbaec7351309d6044430606a8478dc0b8e74",
+      "originalBytes": 1017276,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "1 BR B / C",
+      "area": "B 696.32 / C 743.46 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/reportage/plaza-1/plan-page-22-961a1b21c864.webp",
+      "sha256": "961a1b21c864d5236bccb7bcb70e79b92155a3d69fd0824b9b7485e84b3b2b29",
+      "originalBytes": 961238,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "2 BR A / B",
+      "area": "A 1,072.52–1,168.85 / B 1,032.69–1,130.32 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/plaza-1/plan-page-23-ecd12dfcbe14.webp",
+      "sha256": "ecd12dfcbe14511c1f62de31704246c6f69557c0d8c52ac5638c31bbb6e00dab",
+      "originalBytes": 783016,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "2 BR C / D",
+      "area": "C 840.55–1,077.90 / D 1,024.72–1,406.95 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/plaza-1/plan-page-24-4b1bebafedae.webp",
+      "sha256": "4b1bebafedae8fbfc95f9cb7ed03fea1b13f577ec2c5b1b4ff81fde58b04a798",
+      "originalBytes": 841918,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "2 BR E · roof floor",
+      "area": "1,184.78 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/plaza-1/plan-page-25-156e85a1fc39.webp",
+      "sha256": "156e85a1fc39f79bd8f2ff842acf59a39848b6ceaa4964f52c46b6e8235698cf",
+      "originalBytes": 1871708,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "4 BR townhouse A · all three levels",
+      "area": "2,278.94–2,303.80 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/plaza-1/plan-page-26-bd74e701aff1.webp",
+      "sha256": "bd74e701aff1487934409f82304efc8c597c47b5559fabd2ae1ae2f48b28a691",
+      "originalBytes": 1605490,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "4 BR townhouse B · all three levels",
+      "area": "2,208.00–2,303.71 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/reportage/plaza-1/plan-page-27-324e0df6a9db.webp",
+      "sha256": "324e0df6a9dbe2db248d6fa5d23741a3f34c15f3f200d8ed030876fbe667ab12",
+      "originalBytes": 1989648,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "4 BR townhouse C · all three levels",
+      "area": "2,331.05–2,344.72 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/reportage/plaza-1/plan-page-28-b77f5c55a0c4.webp",
+      "sha256": "b77f5c55a0c4ad677b496b2f140dd899fc8d282c9ade69e1e263a42b3837c9db",
+      "originalBytes": 1551718,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-2-810311de95ff.webp",
+      "sha256": "810311de95ffdc2d9ef45faf0c3ff4266105d46fc29badfbd8337da8644c16d6",
+      "originalBytes": 147402,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "First floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-3-cf43d001af25.webp",
+      "sha256": "cf43d001af25f5fede532f528480dd65798e81079ceb206cfcbd856df7b09632",
+      "originalBytes": 139254,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Second floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-4-da6e0d3bfd92.webp",
+      "sha256": "da6e0d3bfd9289d81399efeef535c0e78d338e03af46c341e5797a550a623486",
+      "originalBytes": 132992,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Third floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-5-01bb1fbd6459.webp",
+      "sha256": "01bb1fbd64595d0ad514ccbd66bc312ef23e45599947acfa70730827a112207c",
+      "originalBytes": 287256,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Fourth floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-6-f989f773ce28.webp",
+      "sha256": "f989f773ce28343a6ff09c5d3cfd94e93ee9d73fd537025bf62e1d298e358271",
+      "originalBytes": 137354,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Fifth floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-7-7a055b5d42cc.webp",
+      "sha256": "7a055b5d42cc91e2f637505d8b287cc7ff0b097ceb10770b00e497ceda953571",
+      "originalBytes": 133682,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Sixth floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-8-cd11754177a7.webp",
+      "sha256": "cd11754177a7d309cce390dd7a3d937a349aefdff7c5aa55e2e69d4c5c749d0d",
+      "originalBytes": 104198,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Roof floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/plaza-1/plan-plans-page-9-7823608af47f.webp",
+      "sha256": "7823608af47f0aaab43f6e6ea72e77381ab3232ec00b627e8a95494f8ca47b65",
+      "originalBytes": 37314,
+      "width": 3177,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Plaza-Floor-Plans-24-March.pdf",
+        "label": "Reportage · Plaza 1 original floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/plaza-1/floor-plans-plans-fce9ed8507b4.pdf",
+        "sha256": "fce9ed8507b480a800d4e2cfdd9be3a13b1a7b9ac443465478c14a2bf11ec7ff"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/plaza-1/plan-page-4-301dc63dc566.webp",
+      "sha256": "301dc63dc56611159af648b9ce9153e116dd7199fcb0d0a77937f22cb5749006",
+      "originalBytes": 1938594,
+      "width": 3600,
+      "height": 1800
+    }
+  ]
+}

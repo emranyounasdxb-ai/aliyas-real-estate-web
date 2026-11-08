@@ -1,0 +1,155 @@
+{
+  "id": "aldar-project-17",
+  "source": {
+    "name": "Aldar",
+    "url": "https://www.aldar.com/properties/en/uae/al-ghadeer/alghadeer-gardens-n2",
+    "checkedOn": "2026-11-05"
+  },
+  "editorialNames": [
+    "living-dark",
+    "bedroom-dark",
+    "kitchen-dark"
+  ],
+  "location": {
+    "community": "Al Ghadeer, Abu Dhabi–Dubai border",
+    "road": "Al Fayah Road (E75), between the E11 and E311 corridors",
+    "pin": null,
+    "sourceLabel": "Aldar Al Ghadeer Gardens brochure · page 6",
+    "map": {
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-map.png",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=6",
+      "alt": "Aldar diagram showing Al Ghadeer Gardens between Abu Dhabi and Dubai and the nearby airports.",
+      "caption": "Aldar’s Al Ghadeer Gardens area diagram, from page 6 of this release brochure.",
+      "scope": "The schematic covers the wider Gardens community. Phase and villa entrances are unconfirmed."
+    },
+    "travel": {
+      "sourceUrl": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f",
+      "page": 6,
+      "scope": "Aldar’s published community-level estimates.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 16
+        },
+        {
+          "name": "Zayed International Airport",
+          "minutes": 35
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 45
+        },
+        {
+          "name": "Abu Dhabi city",
+          "minutes": 50
+        }
+      ]
+    },
+    "travelNote": "Al Ghadeer Gardens sits near the Abu Dhabi–Dubai border. The brochure gives area-wide estimates. Check directions for the gate and home you intend to visit."
+  },
+  "floorPlans": {
+    "label": "Aldar Al Ghadeer Gardens N2 brochure and layouts",
+    "introduction": "Open the townhouse and villa layouts for this release. Each sheet shows the ground and first floors together.",
+    "selectorLabel": "Choose an Al Ghadeer Gardens N2 floor plan",
+    "note": "Confirm the signed layout and total area for the individual home. The brochure drawings do not give a measured whole-unit area.",
+    "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure.pdf",
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f",
+    "plans": [
+      {
+        "sourcePage": 40,
+        "label": "2 BR townhouse · Middle",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/plan-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "2 BR townhouse · Corner",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/plan-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "3 BR townhouse · Corner",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/plan-42.png"
+      },
+      {
+        "sourcePage": 43,
+        "label": "4 BR villa",
+        "area": "Unit area to be confirmed",
+        "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/plan-43.png"
+      }
+    ]
+  },
+  "review": {
+    "images": "Residence and amenity renders extracted from the official brochure for Al Ghadeer Gardens N2. Aldar uses some shared neighbourhood, elevation and interior art across both Gardens brochures. Shared facilities are labelled as such and the card uses this release’s selected lead view.",
+    "location": "Visually checked all four estimates on physical page 6 of this release’s brochure. The same schematic appears in both releases. The map shows area connections via Al Fayah Road and does not locate individual gates.",
+    "floorPlans": "Four complete sheets on physical pages 40–43 reviewed. The official N2 brochure replaces the launch’s three-bedroom middle sheet with the two-bedroom corner sheet. No three-bedroom middle layout was carried over from the first release. No signed area is printed beside the individual drawings."
+  },
+  "unavailable": [
+    "Verified entrance coordinates and unit-specific signed total areas."
+  ],
+  "slug": "al-ghadeer-gardens-n2",
+  "developerSlug": "aldar",
+  "checkedOn": "2026-11-05",
+  "evidence": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/",
+  "images": [
+    {
+      "name": "gardens-aerial",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p2-1.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=2",
+      "label": "Al Ghadeer Gardens neighbourhood from above",
+      "position": "50% 50%",
+      "alt": "Aldar render showing al Ghadeer Gardens neighbourhood from above."
+    },
+    {
+      "name": "villa-evening",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p11-1.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=11",
+      "label": "Villa entrance at dusk",
+      "position": "50% 50%",
+      "alt": "Aldar render showing villa entrance at dusk."
+    },
+    {
+      "name": "living-dark",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p36-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=36",
+      "label": "Living and dining room in the dark scheme",
+      "position": "50% 50%",
+      "alt": "Aldar render showing living and dining room in the dark scheme."
+    },
+    {
+      "name": "bedroom-dark",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p37-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=37",
+      "label": "Bedroom in the dark scheme",
+      "position": "50% 50%",
+      "alt": "Aldar render showing bedroom in the dark scheme."
+    },
+    {
+      "name": "kitchen-dark",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p38-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=38",
+      "label": "Kitchen in the dark scheme",
+      "position": "50% 50%",
+      "alt": "Aldar render showing kitchen in the dark scheme."
+    },
+    {
+      "name": "community-pool",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p21-1.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=21",
+      "label": "Shared community centre pool",
+      "position": "50% 50%",
+      "alt": "Aldar render showing shared community centre pool."
+    },
+    {
+      "name": "villa-front",
+      "cache": "artifacts/project-page-enhancement/al-ghadeer-gardens-n2/brochure-p17-0.jpg",
+      "url": "https://vazeno.files.cmp.optimizely.com/download/assets/AlGhadeer_Brochure_Final.pdf/93a9b59876dd11f1b362c6e0996e448f#page=17",
+      "label": "Villa entrance and covered carport",
+      "position": "50% 50%",
+      "alt": "Aldar render showing villa entrance and covered carport."
+    }
+  ],
+  "cardName": "gardens-aerial"
+}

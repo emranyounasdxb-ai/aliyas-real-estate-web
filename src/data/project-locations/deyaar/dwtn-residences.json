@@ -1,0 +1,64 @@
+{
+  "projectId": "deyaar-project-01",
+  "projectSlug": "dwtn-residences",
+  "developerSlug": "deyaar",
+  "checkedOn": "2026-11-07",
+  "community": "Business Bay, Dubai",
+  "road": "Near Sheikh Zayed Road and Business Bay Metro Station",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/deyaar/dwtn-residences/location-e7c6e62d9207.png",
+    "sha256": "e7c6e62d92079ae1ccc2f76c4add26fc8d6d2096404f74d3ba308d6c23e2991c",
+    "originalBytes": 5999575,
+    "width": 2288,
+    "height": 1032,
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf#page=17",
+    "alt": "Deyaar neighbourhood map marking DWTN Residences near Business Bay Metro.",
+    "scope": "The developer’s map marks the project site near Sheikh Zayed Road.",
+    "caption": "DWTN Residences neighbourhood map"
+  },
+  "sourceLabel": "Deyaar brochure neighbourhood estimates",
+  "travel": {
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/08/DWTN-Brochure_c.pdf#page=17",
+    "scope": "Approximate travel times published for DWTN Residences.",
+    "destinations": [
+      {
+        "name": "Sheikh Zayed Road",
+        "minutes": 2
+      },
+      {
+        "name": "Business Bay Metro Station",
+        "minutes": 3
+      },
+      {
+        "name": "Downtown / The Dubai Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Marasi Business Bay",
+        "minutes": 6
+      },
+      {
+        "name": "DIFC",
+        "minutes": 7
+      },
+      {
+        "name": "Dubai Water Canal",
+        "minutes": 7
+      },
+      {
+        "name": "Safa Park",
+        "minutes": 7
+      },
+      {
+        "name": "Jumeirah Beach Coast",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "Developer estimates. The brochure does not identify the travel mode. Confirm the entrance, route and traffic before travelling."
+}

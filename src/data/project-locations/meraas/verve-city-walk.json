@@ -1,0 +1,48 @@
+{
+  "projectId": "meraas-project-11",
+  "projectSlug": "verve-city-walk",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "City Walk, Al Wasl, Dubai",
+  "road": "Al Safa Street, near Sheikh Zayed Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/verve-city-walk/location-e459e750ae83.png",
+    "sha256": "e459e750ae833848579887bc99280e55c3a97be1d8611fddaa5ea3401b5ee6c4",
+    "originalBytes": 4965357,
+    "width": 2350,
+    "height": 1616,
+    "sourceUrl": "https://meraas.com/sites/default/files/2025-05/CWVERVE%20BROCHUREDigitalEN.pdf#page=7",
+    "alt": "Meraas regional map showing Verve City Walk and nearby Dubai landmarks.",
+    "scope": "This brochure map shows the project area and nearby destinations. Confirm the tower entrance before visiting.",
+    "caption": "Verve City Walk location map, developer brochure PDF page 7."
+  },
+  "sourceLabel": "Verve City Walk brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2025-05/CWVERVE%20BROCHUREDigitalEN.pdf#page=7",
+    "scope": "Approximate drive times from Verve City Walk as shown on the brochure map.",
+    "destinations": [
+      {
+        "name": "City Walk Mall",
+        "minutes": 2
+      },
+      {
+        "name": "Sheikh Zayed Road",
+        "minutes": 2
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      }
+    ]
+  },
+  "travelNote": "These are developer estimates. Drive times vary by route and traffic."
+}

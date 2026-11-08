@@ -131,7 +131,7 @@ for (const [owner, collection] of Object.entries(collections)) {
           throw new Error(`Invalid research source: ${project.id}/${source.id}`);
       }
       for (const refs of Object.values(research.fieldSources)) {
-        if (refs.some((id) => !sourceIds.has(id)))
+        if (!refs || refs.some((id) => !sourceIds.has(id)))
           throw new Error(`Missing field source: ${project.id}`);
       }
     }

@@ -1,0 +1,45 @@
+{
+  "projectId": "al-zorah-project-02",
+  "projectSlug": "sealine-residence",
+  "developerSlug": "al-zorah",
+  "checkedOn": "2026-11-08",
+  "community": "Al Zorah, Ajman",
+  "road": "Seafront community · city connections to Sheikh Mohammed Bin Zayed and Emirates roads",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/al-zorah/sealine-residence/location-2da8624fc4ae.png",
+    "sha256": "2da8624fc4ae48c527db1cde4befdc02685e671d9c981a6d70ed4cfdad2a3404",
+    "originalBytes": 1897918,
+    "width": 3600,
+    "height": 2583,
+    "sourceUrl": "https://www.alzorahcity.com/assets/pdf/sealine-brochure.pdf#page=50",
+    "alt": "Sealine Residence · complete original Al Zorah regional map and connectivity panel.",
+    "scope": "Al Zorah City context. Individual entrance coordinates remain unverified. Source-era destination labels are retained.",
+    "caption": "Sealine Residence · original regional connectivity sheet."
+  },
+  "sourceLabel": "Sealine Residence · official brochure, page 50",
+  "travel": {
+    "sourceUrl": "https://www.alzorahcity.com/assets/pdf/sealine-brochure.pdf",
+    "page": 50,
+    "scope": "Original Al Zorah City connectivity estimates. Only the two airport routes explicitly state driving. Other modes are unspecified. Wynn is a proposed destination. These are source-era claims and require current route confirmation.",
+    "destinations": [
+      {
+        "name": "Dubai International Airport · driving",
+        "minutes": 25
+      },
+      {
+        "name": "Sharjah International Airport · driving",
+        "minutes": 20
+      },
+      {
+        "name": "Hospitals and clinics · mode unspecified",
+        "minutes": 5
+      },
+      {
+        "name": "Wynn, Ras Al Khaimah · proposed destination, mode unspecified",
+        "minutes": 35
+      }
+    ]
+  },
+  "travelNote": "The original regional panel describes shopping within a 3 km radius and educational institutions within 7 km. These are radius claims. Page 26 separately preserves walking, cycling and golf cart estimates for the neighbourhood. Creekside publishes a different Wynn estimate in its own brochure. Confirm current access and routes."
+}

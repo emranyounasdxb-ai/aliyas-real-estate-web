@@ -23,6 +23,11 @@ import { DeveloperProjectPlaceholder } from '@/components/developer-project-plac
 import { DEVELOPER_PROJECT_PAGE_SIZE } from '@/lib/developer-project-pagination';
 import { EnquiryTrigger } from '@/components/enquiry-trigger';
 import { ProjectGallery } from '@/components/project-gallery';
+import { getProjectMedia } from '@/lib/project-media';
+import { ProjectMediaScenes } from '@/components/project-media-scenes';
+import { ProjectLocation } from '@/components/project-location';
+import { ProjectFloorPlans } from '@/components/project-floor-plans';
+import { getProjectFloorPlans, getProjectLocation } from '@/lib/project-enhancements';
 import { SectionNavigation } from '@/components/section-navigation';
 import {
   ResearchSources,
@@ -34,6 +39,7 @@ import {
 import '@/components/catalogue.css';
 import '@/components/project-detail.css';
 import '@/components/developer-profile.css';
+import '@/components/project-media-pilot.css';
 
 type Props = { params: Promise<{ slug: string; projectSlug: string }> };
 export function generateStaticParams() {
@@ -56,7 +62,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       `Explore ${project.name} by ${developer.name}. Project information will be added once confirmed.`,
     alternates: { canonical: developerProjectHref(project) },
     robots: { index: !project.placeholder, follow: true },
-    openGraph: { images: [project.image] },
+    openGraph: { images: [getProjectMedia(project)?.images[0].src || project.image] },
   };
 }
 
@@ -67,6 +73,10 @@ export default async function DeveloperProjectPage({ params }: Props) {
   if (!developer || !project) notFound();
   if (projectSlug !== project.slug) permanentRedirect(developerProjectHref(project));
   const research = project.research;
+  const media = getProjectMedia(project);
+  const plans = getProjectFloorPlans(project);
+  const location = getProjectLocation(project);
+  const scenes = media?.images.filter((image) => media.editorialImages?.includes(image.src)) || [];
   const priceLabel = research?.priceLabel || 'Starting price';
   const collection = getDeveloperProjects(slug);
   const related = collection.filter((item) => item.id !== project.id).slice(0, 3);
@@ -88,7 +98,7 @@ export default async function DeveloperProjectPage({ params }: Props) {
   });
   return (
     <div
-      className="catalogue-page project-detail developer-project-detail"
+      className={`catalogue-page project-detail developer-project-detail${media ? ' project-media-pilot' : ''}`}
       data-project-id={project.id}
       data-developer={project.developerSlug}
     >
@@ -116,9 +126,11 @@ export default async function DeveloperProjectPage({ params }: Props) {
           <h1>{project.name}</h1>
           <p className="pd-location">
             <MapPin size={17} aria-hidden="true" />
-            {[research?.community || project.location, project.emirate]
-              .filter(Boolean)
-              .join(', ') || 'Location details coming soon'}
+            {location?.community ||
+              [research?.community || project.location, project.emirate]
+                .filter(Boolean)
+                .join(', ') ||
+              'Location details coming soon'}
           </p>
         </div>
         <EnquiryTrigger className="pd-button pd-heading-action" initialMessage={message}>
@@ -127,15 +139,21 @@ export default async function DeveloperProjectPage({ params }: Props) {
         </EnquiryTrigger>
       </header>
       <ProjectGallery
-        image={project.image}
-        gallery={project.gallery}
+        image={media?.images[0].src || project.image}
+        gallery={media?.images || project.gallery}
         projectName={project.name}
-        illustrative={project.placeholder}
+        illustrative={media ? false : project.placeholder}
+        source={media?.source}
+        reviewedMedia={Boolean(media)}
       />
       <SectionNavigation
         items={[
+          ...(media ? [{ id: 'project-gallery', label: 'Gallery' }] : []),
           { id: 'overview', label: 'Overview' },
           { id: 'project-details', label: 'Project details' },
+          ...(plans || media?.unavailableFloorPlans
+            ? [{ id: 'floor-plans', label: 'Floor plans' }]
+            : []),
           { id: 'payment-plan', label: 'Payment plan' },
           { id: 'location', label: 'Location' },
           { id: 'downloads', label: 'Downloads' },
@@ -156,6 +174,13 @@ export default async function DeveloperProjectPage({ params }: Props) {
                 {paragraph}
               </p>
             ))}
+            {scenes.length > 0 && (
+              <ProjectMediaScenes
+                images={scenes}
+                projectName={project.name}
+                sourceName={media!.source.name}
+              />
+            )}
             {research && (
               <ResearchSources research={research} fields={['description', 'overview']} />
             )}
@@ -217,6 +242,35 @@ export default async function DeveloperProjectPage({ params }: Props) {
             )}
             {research && <ResearchSources research={research} fields={['amenities']} />}
           </section>
+          {plans && (
+            <ProjectFloorPlans
+              data={plans}
+              eyebrow={project.type === 'Office' ? 'Inside the workplace' : undefined}
+            />
+          )}
+          {!plans && media?.unavailableFloorPlans && (
+            <section className="pd-section pd-floor-plans-unavailable" id="floor-plans">
+              <p className="pd-eyebrow">Published layouts</p>
+              <h2>Floor plans.</h2>
+              <p className="pd-description">{media.unavailableFloorPlans.note}</p>
+                <p className="pd-research-citations">
+                {media.unavailableFloorPlans.sources.map((source) => (
+                  <a key={source.url} href={source.url} target="_blank" rel="noopener noreferrer">
+                    {source.label} <ArrowUpRight size={14} aria-hidden="true" />
+                  </a>
+                ))}
+                <span>
+                  Checked{' '}
+                  {new Intl.DateTimeFormat('en-GB', {
+                    day: 'numeric',
+                    month: 'long',
+                    year: 'numeric',
+                    timeZone: 'UTC',
+                  }).format(new Date(`${media.unavailableFloorPlans.reviewedOn}T00:00:00Z`))}
+                </span>
+              </p>
+            </section>
+          )}
           <section className="pd-section" id="payment-plan">
             <p className="pd-eyebrow">03 / Planning your purchase</p>
             <h2>Price & payment plan.</h2>
@@ -236,16 +290,22 @@ export default async function DeveloperProjectPage({ params }: Props) {
           </section>
           <section className="pd-section" id="location">
             <p className="pd-eyebrow">04 / The neighbourhood</p>
-            <h2>Find your place.</h2>
-            <p className="pd-description">
-              {project.location
-                ? [project.location, project.emirate, 'United Arab Emirates']
-                    .filter(Boolean)
-                    .join(', ')
-                : 'Location, nearby destinations and community information will be added with the approved project details.'}
-            </p>
-            {research && <p className="pd-description">{research.locationNote}</p>}
-            {research && <ResearchSources research={research} fields={['location']} />}
+            <h2>{location ? 'Location & connectivity.' : 'Find your place.'}</h2>
+            {location ? (
+              <ProjectLocation data={location} projectName={project.name} />
+            ) : (
+              <>
+                <p className="pd-description">
+                  {project.location
+                    ? [project.location, project.emirate, 'United Arab Emirates']
+                        .filter(Boolean)
+                        .join(', ')
+                    : 'Location, nearby destinations and community information will be added with the approved project details.'}
+                </p>
+                {research && <p className="pd-description">{research.locationNote}</p>}
+                {research && <ResearchSources research={research} fields={['location']} />}
+              </>
+            )}
           </section>
           <section className="pd-section" id="downloads">
             <p className="pd-eyebrow">05 / Look closer</p>
@@ -281,7 +341,13 @@ export default async function DeveloperProjectPage({ params }: Props) {
               )}
             </div>
           </section>
-          {research && <ResearchReview research={research} />}
+          {research && (
+            <ResearchReview
+              research={research}
+              hasProjectMedia={Boolean(media)}
+              researchNoteReplacements={plans?.researchNoteReplacements}
+            />
+          )}
         </div>
         <aside className="pd-enquiry-panel" aria-label="Project enquiry">
           <p className="pd-eyebrow">{developer.name}</p>
@@ -314,11 +380,13 @@ export default async function DeveloperProjectPage({ params }: Props) {
       </div>
       {project.placeholder && (
         <p className="catalogue-disclaimer pd-disclaimer">
-          {research
-            ? 'Photography is illustrative. Project information is sourced from the references above; current unit availability and final terms require confirmation.'
-            : project.nameSource
-              ? 'Project name verified from the developer source. Photography is illustrative; detailed specifications, pricing and availability are pending.'
-              : 'Design preview. Names and photography are placeholders; specifications, prices and availability have not been confirmed.'}
+          {media
+            ? `${media.source.name} project renders are illustrative of the proposed design. Current unit availability, final specifications and terms require confirmation.`
+            : research
+              ? 'Photography is illustrative. Project information is sourced from the references above; current unit availability and final terms require confirmation.'
+              : project.nameSource
+                ? 'Project name verified from the developer source. Photography is illustrative; detailed specifications, pricing and availability are pending.'
+                : 'Design preview. Names and photography are placeholders; specifications, prices and availability have not been confirmed.'}
         </p>
       )}
       <section className="catalogue-related pd-related" aria-labelledby="related-projects-title">

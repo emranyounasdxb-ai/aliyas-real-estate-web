@@ -1,0 +1,442 @@
+{
+  "slug": "akala",
+  "id": "arada-project-02",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "evidence": "artifacts/project-page-enhancement/akala/",
+  "source": {
+    "name": "Arada",
+    "url": "https://www.arada.com/en/akala/",
+    "checkedOn": "2026-11-07"
+  },
+  "cardName": "akala-towers",
+  "images": [
+    {
+      "name": "akala-towers",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p26-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=26",
+      "label": "Proposed two towers and city setting",
+      "alt": "Akala developer concept render of two towers and city setting.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-sunset",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p10-0.webp",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=10",
+      "label": "Proposed towers at sunset",
+      "alt": "Akala developer concept render of towers at sunset.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-gateway",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p10-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=10",
+      "label": "Proposed tower gateway",
+      "alt": "Akala developer concept render of tower gateway.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-podium",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p22-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=22",
+      "label": "Proposed podium aerial",
+      "alt": "Akala developer concept render of podium aerial.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-facade",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p24-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=24",
+      "label": "Proposed facade viewed upwards",
+      "alt": "Akala developer concept render of facade viewed upwards.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-arrival",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p15-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=15",
+      "label": "Proposed arrival",
+      "alt": "Akala developer concept render of arrival.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-hammam",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p3-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=3",
+      "label": "Proposed spherical hammam",
+      "alt": "Akala developer concept render of spherical hammam.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-thermal-spa",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p8-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=8",
+      "label": "Proposed thermal spa",
+      "alt": "Akala developer concept render of thermal spa.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-spa-lounge",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p12-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=12",
+      "label": "Proposed spa lounge",
+      "alt": "Akala developer concept render of spa lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-fitness",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p16-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=16",
+      "label": "Proposed Formative fitness concept",
+      "alt": "Akala developer concept render of Formative fitness concept.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-thermal-hall",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p19-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=19",
+      "label": "Proposed thermal hall",
+      "alt": "Akala developer concept render of thermal hall.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-treatment",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p19-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=19",
+      "label": "Proposed treatment room",
+      "alt": "Akala developer concept render of treatment room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-changing",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p21-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=21",
+      "label": "Proposed changing rooms",
+      "alt": "Akala developer concept render of changing rooms.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-studio",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p32-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=32",
+      "label": "Proposed mirror studio",
+      "alt": "Akala developer concept render of mirror studio.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-wellness",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p32-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=32",
+      "label": "Proposed wellness room",
+      "alt": "Akala developer concept render of wellness room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-corridor",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p34-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=34",
+      "label": "Proposed gold-toned corridor",
+      "alt": "Akala developer concept render of gold-toned corridor.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-pool",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p35-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=35",
+      "label": "Proposed pool",
+      "alt": "Akala developer concept render of pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-lap-pool",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p36-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=36",
+      "label": "Proposed indoor lap pool",
+      "alt": "Akala developer concept render of indoor lap pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-circular-pool",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p38-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=38",
+      "label": "Proposed circular pool",
+      "alt": "Akala developer concept render of circular pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-living",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p39-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=39",
+      "label": "Proposed living room",
+      "alt": "Akala developer concept render of living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-dining",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p42-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=42",
+      "label": "Proposed living and dining",
+      "alt": "Akala developer concept render of living and dining.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-bedroom",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p43-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=43",
+      "label": "Proposed bedroom",
+      "alt": "Akala developer concept render of bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-bathroom",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p43-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=43",
+      "label": "Proposed bathroom",
+      "alt": "Akala developer concept render of bathroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-home-lounge",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p47-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=47",
+      "label": "Proposed home lounge",
+      "alt": "Akala developer concept render of home lounge.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-suite-bedroom",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p48-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=48",
+      "label": "Proposed suite bedroom",
+      "alt": "Akala developer concept render of suite bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-dressing",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p48-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=48",
+      "label": "Proposed dressing room",
+      "alt": "Akala developer concept render of dressing room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-circular-living",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p51-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=51",
+      "label": "Proposed circular-ceiling living room",
+      "alt": "Akala developer concept render of circular-ceiling living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-home-bedroom",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p52-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=52",
+      "label": "Proposed home bedroom",
+      "alt": "Akala developer concept render of home bedroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-curved-living",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p54-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=54",
+      "label": "Proposed curved living room",
+      "alt": "Akala developer concept render of curved living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-balcony-living",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p55-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=55",
+      "label": "Proposed balcony and living room",
+      "alt": "Akala developer concept render of balcony and living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-terrace-view",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p56-1.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=56",
+      "label": "Proposed terrace skyline view",
+      "alt": "Akala developer concept render of terrace skyline view.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-loft-living",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p58-2.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=58",
+      "label": "Proposed penthouse living room",
+      "alt": "Akala developer concept render of penthouse living room.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-bath-mirror",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p59-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=59",
+      "label": "Proposed penthouse bathroom",
+      "alt": "Akala developer concept render of penthouse bathroom.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-terrace-pool",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p60-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=60",
+      "label": "Proposed terrace pool",
+      "alt": "Akala developer concept render of terrace pool.",
+      "position": "50% 50%"
+    },
+    {
+      "name": "akala-twilight-pool",
+      "cache": "artifacts/project-page-enhancement/akala/brochure-p62-0.jpg",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=62",
+      "label": "Proposed terrace pool at twilight",
+      "alt": "Akala developer concept render of terrace pool at twilight.",
+      "position": "50% 50%"
+    }
+  ],
+  "editorialNames": [
+    "akala-circular-living",
+    "akala-bedroom"
+  ],
+  "location": {
+    "community": "DIFC / Downtown district, Dubai",
+    "road": "Financial Centre Road / Sheikh Zayed Road vicinity",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-27.png",
+      "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf#page=27",
+      "alt": "Complete original Akala regional location map.",
+      "caption": "Akala regional setting · original Arada brochure.",
+      "scope": "Regional road and landmark diagram. The drawing does not establish a surveyed visitor entrance."
+    },
+    "sourceLabel": "Current Akala project page · Arada",
+    "travel": {
+      "sourceUrl": "https://www.arada.com/en/akala/",
+      "scope": "Developer-published district journey estimates. Travel mode, route and traffic conditions are unspecified.",
+      "destinations": [
+        {
+          "name": "DIFC Gate Avenue",
+          "minutes": 3
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 3
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "Estimates require a current route check. Road names come from the original regional map and describe the vicinity. Exact visitor entrance coordinates remain unverified. Directions use the project name."
+  },
+  "floorPlans": {
+    "url": "https://aradawebcontent.blob.core.windows.net/arada-com/2025/07/Akala-Residences-Tower-1-Brochure_Final-2.pdf",
+    "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure.pdf",
+    "label": "Akala Tower 1 · complete original Arada brochure and drawings",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Explore the original Tower 1 residence and building drawings.",
+    "selectorLabel": "Choose a residence or building drawing",
+    "note": "These fifteen options preserve complete original spreads from the Tower 1 brochure. Paired residence areas are listed separately. No floorplate area is implied. The Observatory’s repeated 23,672.72 sq ft figure describes its whole home including roof terrace and is counted once. Its metric components total 2,199.26 sq m against a printed 2,199.27. The 3 BR A metric components total 240.32 against a printed 240.31. Printed totals remain unchanged. Tower 2 layouts and a separate roof-level area were not established in this source. Confirm the contracted tower, unit and revision.",
+    "plans": [
+      {
+        "sourcePage": 28,
+        "label": "Levels 4–17 / 19–29 · building floorplates",
+        "area": "Whole floors · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-28.png"
+      },
+      {
+        "sourcePage": 29,
+        "label": "Levels 30–39 / 41–47 · building floorplates",
+        "area": "Whole floors · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-29.png"
+      },
+      {
+        "sourcePage": 30,
+        "label": "Levels 48–49 / 50 · building floorplates",
+        "area": "Whole floors · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-30.png"
+      },
+      {
+        "sourcePage": 31,
+        "label": "Level 51 / roof · building floorplates",
+        "area": "Whole floors · individual home areas vary",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-31.png"
+      },
+      {
+        "sourcePage": 40,
+        "label": "1 BR A / B",
+        "area": "A 1,036.01 · B 1,044.10 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-40.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "1 BR C / D",
+        "area": "C 1,203.73 · D 1,406.73 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-41.png"
+      },
+      {
+        "sourcePage": 44,
+        "label": "2 BR A / B",
+        "area": "A 1,556.77 · B 1,649.96 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-44.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "2 BR C / D",
+        "area": "C 1,724.80 · D 1,950.76 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-45.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "2 BR E / F",
+        "area": "E 2,076.47 · F 2,091.04 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-46.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "3 BR A / B",
+        "area": "A 2,586.71 · B 2,647.00 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-49.png"
+      },
+      {
+        "sourcePage": 50,
+        "label": "3 BR C / D",
+        "area": "C 3,126.14 · D 3,664.92 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-50.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "4 BR A / B",
+        "area": "A 3,647.94 · B 4,697.80 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-53.png"
+      },
+      {
+        "sourcePage": 56,
+        "label": "5 BR · Gravity House",
+        "area": "6,256.59 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-56.png"
+      },
+      {
+        "sourcePage": 58,
+        "label": "6 BR penthouse · Sky Terrace",
+        "area": "14,628.40 sq ft",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-58.png"
+      },
+      {
+        "sourcePage": 61,
+        "label": "6 BR presidential suite · Observatory",
+        "area": "23,672.72 sq ft · whole home",
+        "cache": "artifacts/project-page-enhancement/akala/akala-official-brochure-review-61.png"
+      }
+    ],
+    "additionalDocuments": []
+  },
+  "review": {
+    "imagery": "Root visually inspected all 45 native brochure candidates and nine observed website images. Thirty-five project concept renders are selected from original brochure resources. Generic lifestyle photographs, unassociated city context, masks and duplicate crops were excluded. Formative imagery retains concept scope. No as-built status is inferred.",
+    "floorPlans": "Root visually reviewed all fifteen complete physical spreads 28–31, 40–41, 44–46, 49–50, 53, 56, 58 and 61. All twenty visible area headers were independently read at readable resolution. Whole original Tower 1 brochure and physical-page links are retained. Paired types are kept on their original spreads. Observatory total repeats across two levels and remains one whole-home figure. Printed metric component differences are explicit.",
+    "location": "Root inspected complete original map spread 27 and current official-page journey estimates. Financial Centre Road and Sheikh Zayed Road labels establish regional context. No exact entrance coordinate or kilometre journey was inferred.",
+    "provenance": "Official 65-spread brochure, current official HTML and observed website resources were downloaded by ordinary public GET on 7 November 2026 with URLs, bytes and SHA256 receipts. Original extracted media, drawing notices and protected identity are preserved. No enquiries or access-challenge bypass."
+  },
+  "unavailable": [
+    "Exact visitor entrance coordinates, live routing, Tower 2 drawings and a separately verified roof-level area remain unavailable within the reviewed source scope. Minor printed metric component differences remain unresolved."
+  ]
+}

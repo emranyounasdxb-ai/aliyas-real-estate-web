@@ -1,0 +1,491 @@
+{
+  "slug": "mercedes-benz-places-binghatti-city",
+  "id": "binghatti-project-22",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "evidence": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/",
+  "source": {
+    "name": "Binghatti",
+    "url": "https://www.binghatti.com/en/branded-projects/mercedes-benz-places-binghatti-city",
+    "checkedOn": "2026-11-06"
+  },
+  "cardName": "city-aerial",
+  "images": [
+    {
+      "name": "city-aerial",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-exterior-2.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-exterior-2.webp",
+      "label": "the full Binghatti City masterplan at sunset",
+      "position": "47% 54%",
+      "alt": "Binghatti render of the full Binghatti City masterplan at sunset."
+    },
+    {
+      "name": "promenade",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-exterior-4.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-exterior-4.webp",
+      "label": "the Binghatti City promenade and landscaped gardens",
+      "position": "50% 50%",
+      "alt": "Binghatti render of the Binghatti City promenade and landscaped gardens."
+    },
+    {
+      "name": "living-room",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-living-room-1.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-living-room-1.webp",
+      "label": "a Binghatti City living and dining area",
+      "position": "50% 50%",
+      "alt": "Binghatti render of a Binghatti City living and dining area."
+    },
+    {
+      "name": "city-night",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-exterior-1.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-exterior-1.webp",
+      "label": "the Binghatti City skyline after dark",
+      "position": "50% 50%",
+      "alt": "Binghatti render of the Binghatti City skyline after dark."
+    },
+    {
+      "name": "arrival-lobby",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-lobby-1.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-lobby-1.webp",
+      "label": "a Binghatti City arrival lobby",
+      "position": "50% 50%",
+      "alt": "Binghatti render of a Binghatti City arrival lobby."
+    },
+    {
+      "name": "bedroom",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-bedroom-1.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-bedroom-1.webp",
+      "label": "a Binghatti City bedroom",
+      "position": "50% 50%",
+      "alt": "Binghatti render of a Binghatti City bedroom."
+    },
+    {
+      "name": "courtyard",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-exterior-5.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-exterior-5.webp",
+      "label": "the courtyard and towers from the promenade",
+      "position": "50% 50%",
+      "alt": "Binghatti render of the courtyard and towers from the promenade."
+    },
+    {
+      "name": "stepped-towers",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-exterior-3.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-exterior-3.webp",
+      "label": "the stepped tower elevations at dusk",
+      "position": "50% 50%",
+      "alt": "Binghatti render of the stepped tower elevations at dusk."
+    },
+    {
+      "name": "living-at-night",
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mbp-bc-living-room-2.webp",
+      "url": "https://binghattiweb.imgix.net/mbp-bc-living-room-2.webp",
+      "label": "a Binghatti City living room at night",
+      "position": "50% 50%",
+      "alt": "Binghatti render of a Binghatti City living room at night."
+    }
+  ],
+  "editorialNames": [
+    "living-room",
+    "bedroom",
+    "living-at-night"
+  ],
+  "location": {
+    "community": "Nad Al Sheba, Meydan, Dubai",
+    "road": "Near Dubai–Al Ain Road and Al Khail Road",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/location-source-crop.png",
+      "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf#page=15",
+      "alt": "Mercedes-Benz Places Binghatti City marked near Al Ain Road and the Meydan Racecourse.",
+      "caption": "Binghatti City location diagram, master brochure PDF page 15.",
+      "scope": "Master development map. Journeys differ by tower and traffic."
+    },
+    "sourceLabel": "Binghatti City master brochure",
+    "travel": {
+      "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf#page=15",
+      "scope": "Developer estimates for the whole Binghatti City development.",
+      "destinations": [
+        {
+          "name": "Meydan Hotel and Racecourse",
+          "minutes": 3
+        },
+        {
+          "name": "Ras Al Khor Wildlife Sanctuary",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 8,
+          "maxMinutes": 10
+        },
+        {
+          "name": "Burj Khalifa",
+          "minutes": 8
+        },
+        {
+          "name": "Dubai Opera",
+          "minutes": 8
+        },
+        {
+          "name": "Dubai Design District",
+          "minutes": 8
+        },
+        {
+          "name": "Emirates Towers",
+          "minutes": 9
+        },
+        {
+          "name": "Museum of the Future",
+          "minutes": 9
+        },
+        {
+          "name": "Business Bay",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai World Trade Centre",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Harbour and Festival City",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Frame",
+          "minutes": 12
+        },
+        {
+          "name": "Mall of the Emirates",
+          "minutes": 12
+        },
+        {
+          "name": "Burj Al Arab",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai Hills Mall",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Palm Jumeirah",
+          "minutes": 20
+        }
+      ]
+    },
+    "travelNote": "Binghatti’s brochure gives 8 minutes to Dubai Mall and its project website gives 10. Both sources describe the wider development. Check directions for your tower and current traffic."
+  },
+  "floorPlans": {
+    "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf",
+    "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure.pdf",
+    "label": "Binghatti City master brochure · Layouts by tower",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "imageSourceIndex": "https://www.binghatti.com/en/projects/vision-iconic",
+    "introduction": "Explore the masterplan and compare residence drawings for the different tower groups in Binghatti City.",
+    "selectorLabel": "Choose a Binghatti City tower and floor plan",
+    "note": "Drawings and published areas apply to the named tower group. Some tables print m² beside values in the SQ.FT column. The selector follows the column heading. The Vision Iconic brochure and website publish different layouts and areas, shown as separate source editions.",
+    "plans": [
+      {
+        "sourcePage": 20,
+        "label": "Binghatti City · Tower masterplan",
+        "area": "Site diagram with tower labels",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-20.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Vision Iconic · 1 BR Type 01, brochure",
+        "area": "836.99 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-24.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Vision Iconic · 2 BR Type 02, brochure",
+        "area": "1,927.37 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-24.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Vision Iconic · 3 BR Type 01, brochure",
+        "area": "2,493.00 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-25.png"
+      },
+      {
+        "sourcePage": 26,
+        "label": "Vision Iconic · 4 BR duplex, brochure",
+        "area": "3,022.15 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-26.png"
+      },
+      {
+        "sourcePage": 27,
+        "label": "Vision Iconic · 5 BR duplex, brochure",
+        "area": "3,776.05 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-27.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Project Maybach · Studio Type 01",
+        "area": "385.03 sq ft published total area",
+        "documentId": "maybach",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-plans-review-05.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Project Maybach · 1 BR Type 01",
+        "area": "632.16 sq ft published total area",
+        "documentId": "maybach",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Project Maybach · 2 BR Type 01",
+        "area": "992.00 sq ft published total area",
+        "documentId": "maybach",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-plans-review-06.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Project Maybach · 3 BR Type 01",
+        "area": "1,321.38 sq ft published total area",
+        "documentId": "maybach",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-plans-review-06.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Maybach Ultimate Luxury · Studio Type 01",
+        "area": "361.13 sq ft published total area",
+        "documentId": "ultimate-luxury",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-ultimate-luxury-vision-plans-review-04.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Maybach Ultimate Luxury · 1 BR Type 01",
+        "area": "617.31 sq ft published total area",
+        "documentId": "ultimate-luxury",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-ultimate-luxury-vision-plans-review-04.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Maybach Ultimate Luxury · 2 BR Type 01",
+        "area": "980.16 sq ft published total area",
+        "documentId": "ultimate-luxury",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-ultimate-luxury-vision-plans-review-05.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Maybach Ultimate Luxury · 3 BR Type 01",
+        "area": "1,284.35 sq ft published total area",
+        "documentId": "ultimate-luxury",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-ultimate-luxury-vision-plans-review-05.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Maybach 6 · Studio Type 01",
+        "area": "361.13 sq ft published total area",
+        "documentId": "maybach-6",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-6-vision-plans-review-05.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Maybach 6 · 1 BR Type 01",
+        "area": "617.31 sq ft published total area",
+        "documentId": "maybach-6",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-6-vision-plans-review-05.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Maybach 6 · 2 BR Type 01",
+        "area": "980.16 sq ft published total area",
+        "documentId": "maybach-6",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-6-vision-plans-review-06.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Maybach 6 · 3 BR Type 01",
+        "area": "1,284.35 sq ft published total area",
+        "documentId": "maybach-6",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-6-vision-plans-review-06.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "Vision Simplex · Studio Type 01",
+        "area": "385.03 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-41.png"
+      },
+      {
+        "sourcePage": 41,
+        "label": "Vision Simplex · 1 BR Type 01",
+        "area": "632.16 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-41.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Vision Simplex · 2 BR Type 01",
+        "area": "992.00 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-42.png"
+      },
+      {
+        "sourcePage": 42,
+        "label": "Vision Simplex · 3 BR Type 01",
+        "area": "1,321.38 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-42.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Vision AVTR · Studio Type 01",
+        "area": "385.03 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-45.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Mercedes-Benz AMG Vision · Studio Type 01",
+        "area": "385.03 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-48.png"
+      },
+      {
+        "sourcePage": 45,
+        "label": "Vision AVTR · 1 BR Type 01",
+        "area": "632.16 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-45.png"
+      },
+      {
+        "sourcePage": 48,
+        "label": "Mercedes-Benz AMG Vision · 1 BR Type 01",
+        "area": "632.16 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-48.png"
+      },
+      {
+        "sourcePage": 46,
+        "label": "Vision AVTR · 2 BR Type 01",
+        "area": "992.00 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-46.png"
+      },
+      {
+        "sourcePage": 49,
+        "label": "Mercedes-Benz AMG Vision · 2 BR Type 01",
+        "area": "992.00 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-49.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Vision One-Eleven · 1 BR Type 01",
+        "area": "632.16 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-52.png"
+      },
+      {
+        "sourcePage": 52,
+        "label": "Vision One-Eleven · 2 BR Type 01",
+        "area": "992.00 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-52.png"
+      },
+      {
+        "sourcePage": 53,
+        "label": "Vision One-Eleven · 3 BR Type 01",
+        "area": "1,321.38 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/mercedes-benz-places-binghatti-city-official-brochure-review-53.png"
+      },
+      {
+        "label": "Vision Iconic · 1 BR Type 01, website",
+        "area": "822.90 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-one-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-one-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 1 BR Type 02, website",
+        "area": "822.90 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-one-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-one-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 2 BR Type 01, website",
+        "area": "1,024.94 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-two-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-two-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 2 BR Type 02, website",
+        "area": "1,037.32 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-two-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-two-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 3 BR Type 01, website",
+        "area": "1,312.23 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-three-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-three-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 3 BR Type 02, website",
+        "area": "1,197.92 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-three-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-three-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 4 BR duplex Type 01, website",
+        "area": "3,089.57 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-four-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-four-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      },
+      {
+        "label": "Vision Iconic · 5 BR duplex Type 01, website",
+        "area": "2,556 sq ft published total area",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/vision-icon-five-bedroom-layout-1.webp",
+        "imageSource": {
+          "url": "https://binghattiweb.imgix.net/vision-icon-five-bedroom-layout-1.webp",
+          "label": "Binghatti Vision Iconic project website drawing"
+        }
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "maybach",
+        "label": "Binghatti · Project Maybach fact sheet and plans",
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-plans.pdf"
+      },
+      {
+        "id": "ultimate-luxury",
+        "label": "Binghatti · Vision Mercedes-Maybach Ultimate Luxury plans",
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-ultimate-luxury-vision-plans.pdf"
+      },
+      {
+        "id": "maybach-6",
+        "label": "Binghatti · Vision Mercedes-Maybach 6 plans",
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+        "cache": "artifacts/project-page-enhancement/mercedes-benz-places-binghatti-city/maybach-6-vision-plans.pdf"
+      }
+    ]
+  },
+  "review": {
+    "gallery": "Nine verified Binghatti City project renders from the branded City website. The sunset aerial shows the distinct 12-tower masterplan.",
+    "location": "The original map shows the Nad Al Sheba site. Fourteen brochure estimates and the additional developer website locations were reviewed. Dubai Mall has two values, displayed as a range.",
+    "floorPlans": "The masterplan and 30 brochure or tower-document layouts span all eight named tower groups. The separate current Vision Iconic page provides eight additional options on five full original image sheets. This source differs from the master brochure and is labelled separately. Invisible PDF text for unprinted three-bedroom AVTR and AMG layouts was excluded."
+  },
+  "unavailable": [
+    "Exact tower entry coordinates, individual retail plans and a comprehensive unit schedule for every tower were not established. The project website map uses a place-name search."
+  ]
+}

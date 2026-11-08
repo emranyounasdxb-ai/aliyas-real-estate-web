@@ -1,0 +1,155 @@
+{
+  "projectId": "aldar-project-28",
+  "projectSlug": "rosso-bay-residences",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/rosso_bay_brochure_en.pdf/645a7588ce9b11f0a4824e47afc2fc16",
+    "label": "Aldar Al Marjan presentation · Rosso Bay plans on pages 43–46",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/rosso-bay-residences/floor-plans-560ba25de14d.pdf",
+    "sha256": "560ba25de14d055e40aa20e1a7577ebcf067b31bbcc4786d0cb981bd224a2f3a"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare Aldar’s one- to four-bedroom technical sheets with furnished illustrations, including the separate three-bedroom Type 3B.",
+  "selectorLabel": "Choose a Rosso Bay floor plan",
+  "note": "The furnished examples show Property Finder’s listed areas. Confirm the signed plan and measurement basis for the selected residence.",
+  "plans": [
+    {
+      "label": "1 BR · Type 1A technical",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-page-43-ead39dcde773.webp",
+      "sha256": "ead39dcde773e6541d73d731027c40b3427d4cdeca77eba4cdfac44431f1e774",
+      "originalBytes": 39412,
+      "width": 2400,
+      "height": 1351
+    },
+    {
+      "label": "1 BR · Type 1A furnished",
+      "area": "1,011 sq ft listed area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/d7fc47d5-6a81-4a5c-a49e-516bc284774d/floor_plan/image/4vqZFpXOOlrGBJ88SQ7wpccPJyqVJXOdC5PxOU4N_kc%3D/original.webp",
+        "label": "Property Finder · Rosso Bay furnished illustration"
+      },
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-image-2-dd4dd7d47e0f.webp",
+      "sha256": "dd4dd7d47e0f0833f8655126276c99bc288989d3e5daf982a1dc9d914b5b1196",
+      "originalBytes": 42516,
+      "width": 1282,
+      "height": 952
+    },
+    {
+      "label": "2 BR · Type 2A technical",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-page-44-9d8f5e4840f2.webp",
+      "sha256": "9d8f5e4840f213fb52e99f717f89051c7db652e99165e925c36705a810a38823",
+      "originalBytes": 46930,
+      "width": 2400,
+      "height": 1351
+    },
+    {
+      "label": "2 BR · Type 2A furnished",
+      "area": "1,345 sq ft listed area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/5eb70984-534d-49d4-961f-6e01c413b749/floor_plan/image/n7PgPr40qMVBTJfMr9nOTiQbbVMQRswUXBroeX1DnmI%3D/original.webp",
+        "label": "Property Finder · Rosso Bay furnished illustration"
+      },
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-image-4-9e45b39ee362.webp",
+      "sha256": "9e45b39ee3622f1177189437b71d32a61f8c96b55cc44cf54cae07b9cf042357",
+      "originalBytes": 44228,
+      "width": 1220,
+      "height": 950
+    },
+    {
+      "label": "3 BR · Type 3A technical",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-page-45-c7560d8122a9.webp",
+      "sha256": "c7560d8122a92c4ca7cc389d127264e8c8e6e8cfe4b13ef5ec1f9a34b62366c6",
+      "originalBytes": 48592,
+      "width": 2400,
+      "height": 1351
+    },
+    {
+      "label": "3 BR · Type 3A furnished",
+      "area": "2,152 sq ft listed area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/c4d3c9b3-d3e5-4fe9-add8-e1591e34e03b/floor_plan/image/E8G2qGRGjTdlWAQKLujHMKuDdo6Y1xghhQe45H1c2fU%3D/original.webp",
+        "label": "Property Finder · Rosso Bay furnished illustration"
+      },
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-image-6-115eac2b5331.webp",
+      "sha256": "115eac2b5331085abe92a48748e803a0bd5bc8b9203676828d231a9a72b7cabe",
+      "originalBytes": 44252,
+      "width": 1376,
+      "height": 928
+    },
+    {
+      "label": "3 BR · Type 3B furnished",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://cms.propjunction.com/Project/Floor_Image/1536/Gallery/30671.jpg",
+        "label": "Propjunction · original Type 3B illustration"
+      },
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-image-7-67a3d7e01914.jpg",
+      "sha256": "67a3d7e019144016e9931ba5e4b0da22395c2c908567474d021755511e4059b0",
+      "originalBytes": 226956,
+      "width": 1454,
+      "height": 1000
+    },
+    {
+      "label": "4 BR · Type 4A technical",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-page-46-ccfc0d1e94b0.webp",
+      "sha256": "ccfc0d1e94b090240e90f5e6f664c80b9b74bf5204f61903ca56878d829ec858",
+      "originalBytes": 42322,
+      "width": 2400,
+      "height": 1351
+    },
+    {
+      "label": "4 BR · Type 4A furnished",
+      "area": "3,272 sq ft listed area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/8f7b2937-fc4d-42bc-bb52-3aaa0f858a3a/floor_plan/image/oH_NQG4qTkAHui4PhO6btgQ9ZZXpU6icm3-CU7XggJQ%3D/original.webp",
+        "label": "Property Finder · Rosso Bay furnished illustration"
+      },
+      "src": "/images/projects/aldar/rosso-bay-residences/plan-image-9-fd3d11311416.webp",
+      "sha256": "fd3d113114163ef3f5eb15e4f43e2a512fd27bb570bea0803e9de7face57c969",
+      "originalBytes": 43558,
+      "width": 1508,
+      "height": 716
+    }
+  ]
+}

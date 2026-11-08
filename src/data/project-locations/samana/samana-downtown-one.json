@@ -1,0 +1,83 @@
+{
+  "projectId": "samana-project-01",
+  "projectSlug": "samana-downtown-one",
+  "developerSlug": "samana",
+  "checkedOn": "2026-11-07",
+  "community": "Downtown Jebel Ali, Jebel Ali Industrial 2, Dubai",
+  "road": "Access to Sheikh Zayed Road and Dubai Metro Red Line",
+  "pin": {
+    "latitude": 24.970368,
+    "longitude": 55.088992,
+    "sourceUrl": "https://www.samanadevelopers.com/projects/samana-downtown-one",
+    "scope": "Project vicinity from SAMANA’s published map coordinate. Confirm the visitor entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/samana/samana-downtown-one/location-0fadac57f5c2.png",
+    "sha256": "0fadac57f5c2a00247c8f1961fd8bd11ff5bd2fdf8bf679440fbf5af30330d28",
+    "originalBytes": 2988643,
+    "width": 3200,
+    "height": 2263,
+    "sourceUrl": "https://www.samanadevelopers.com/storage/projects-files/2026/10/13/03/46/75677ca3c73ae9458f7ebebb8337c457.pdf#page=9",
+    "alt": "SAMANA map marking Downtown One within Jebel Ali.",
+    "scope": "Regional schematic and inset. Published destinations and station naming reflect the source. Confirm current access.",
+    "caption": "Downtown One location · original SAMANA brochure."
+  },
+  "sourceLabel": "SAMANA Downtown One · primary project page",
+  "travel": {
+    "sourceUrl": "https://www.samanadevelopers.com/projects/samana-downtown-one",
+    "scope": "Published time ranges. Mode, route, traffic, station and exact destination entrances are unspecified.",
+    "destinations": [
+      {
+        "name": "Dubai Metro",
+        "minutes": 5,
+        "maxMinutes": 10
+      },
+      {
+        "name": "Aster Cedars Hospital",
+        "minutes": 5,
+        "maxMinutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 10,
+        "maxMinutes": 15
+      },
+      {
+        "name": "JBR",
+        "minutes": 10,
+        "maxMinutes": 15
+      },
+      {
+        "name": "Dubai Parks & Resorts",
+        "minutes": 10,
+        "maxMinutes": 15
+      },
+      {
+        "name": "JAFZA One",
+        "minutes": 10,
+        "maxMinutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 15,
+        "maxMinutes": 20
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 15,
+        "maxMinutes": 20
+      },
+      {
+        "name": "Dubai Investment Park",
+        "minutes": 15,
+        "maxMinutes": 20
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 15,
+        "maxMinutes": 20
+      }
+    ]
+  },
+  "travelNote": "Source estimates require current route checks. The primary page also lists the airport, which the brochure’s travel legend omits. The pin indicates the published project vicinity."
+}

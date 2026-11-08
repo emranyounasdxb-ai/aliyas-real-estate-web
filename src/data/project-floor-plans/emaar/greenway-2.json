@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-74",
+  "projectSlug": "greenway-2",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Greenway-2_floorplan.pdf",
+    "label": "Emaar Greenway 2 original Ivy and Ilya floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/greenway-2/floor-plans-86a24a0e3733.pdf",
+    "sha256": "86a24a0e373338ec35c5aeb9b962de9f6314cc2d9be5f742cfd06c005fc7fd83"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the Ivy and Ilya three- and four-bedroom designs. Each plan shows the townhouse’s position in a row of four.",
+  "selectorLabel": "Choose a Greenway 2 townhouse design and layout",
+  "note": "Imperial figures follow the original sheets. The Ivy TH02 and TH03 plans print different metric suite figures for the same imperial suite area. Confirm the signed plan for your home.",
+  "plans": [
+    {
+      "label": "Ivy · 4 BR · TH01",
+      "area": "2,755.45 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/greenway-2/plan-page-3-49f63a11e216.webp",
+      "sha256": "49f63a11e216cf152ec1a251f244ca869ac2e79125beff9a3697f82954c023c4",
+      "originalBytes": 478592,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ivy · 3 BR · TH02",
+      "area": "2,447.71 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/greenway-2/plan-page-4-39b17a7779b2.webp",
+      "sha256": "39b17a7779b29761d6746d2550f0b30bf9ff6d140e3ce16ec645f897bd2a0b85",
+      "originalBytes": 324120,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ivy · 3 BR · TH03",
+      "area": "2,447.71 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/greenway-2/plan-page-5-b4a5554014f7.webp",
+      "sha256": "b4a5554014f7e6208f487f80e8f6a7c1e4d13c7f9be15fb388450c66961931b4",
+      "originalBytes": 321746,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ivy · 4 BR · TH04",
+      "area": "2,755.45 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/greenway-2/plan-page-6-fee7d2e65c89.webp",
+      "sha256": "fee7d2e65c89ba86fd2ae055db29281d2c4aec39bdc1c98fe67772cb450c167e",
+      "originalBytes": 479102,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ilya · 4 BR · TH01",
+      "area": "2,753.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/greenway-2/plan-page-8-a12b49b8d13e.webp",
+      "sha256": "a12b49b8d13e4c61ea363346fd79f559f30169c119568dc3346514f73ed7791c",
+      "originalBytes": 478354,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ilya · 3 BR · TH02",
+      "area": "2,446.20 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/greenway-2/plan-page-9-8186b263f37b.webp",
+      "sha256": "8186b263f37bf3608cef0e735d6be6c832fc99b2fa3ddc132d02b696bedccc1d",
+      "originalBytes": 324260,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ilya · 3 BR · TH03",
+      "area": "2,446.20 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/greenway-2/plan-page-10-3b2c2a44d232.webp",
+      "sha256": "3b2c2a44d232882cd890c8bd63a61ccafb10417f1f3583d095e6851a231923fd",
+      "originalBytes": 322252,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ilya · 4 BR · TH04",
+      "area": "2,753.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/greenway-2/plan-page-11-075777f24fe9.webp",
+      "sha256": "075777f24fe9e06dea53b8ef0e58d116ef963bfbc7375e1e89a5fbd5a0920cb0",
+      "originalBytes": 482096,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

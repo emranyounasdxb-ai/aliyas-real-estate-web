@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-12",
+  "projectSlug": "berkshire-park",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road",
+  "pin": {
+    "latitude": 25.007873,
+    "longitude": 55.289127,
+    "sourceUrl": "https://continentalclub.ae/project/berkshire-park-town-square/",
+    "scope": "Approximate building point published by Continental Club and checked against the Nshama master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/berkshire-park/location-32f626a5b425.png",
+    "sha256": "32f626a5b425e135afd7ee40df8ee0ea323169cf706636dd1158183f1b724b35",
+    "originalBytes": 3497249,
+    "width": 1980,
+    "height": 1134,
+    "sourceUrl": "https://1newhomes.ae/assets/cities/ae/houses/nshama-dubai/berkshire-residences-dubai/files/berkshire-residences-Brochure.pdf#page=6",
+    "alt": "Nshama master plan showing the Berkshire Park site within Town Square, Dubai.",
+    "scope": "The developer’s community master plan marks the project plot.",
+    "caption": "Berkshire Park at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://1newhomes.ae/assets/cities/ae/houses/nshama-dubai/berkshire-residences-dubai/files/berkshire-residences-Brochure.pdf#page=10",
+    "scope": "Approximate times from the wider Town Square community.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community estimates. The entrance, route and traffic can affect travel time."
+}

@@ -1,0 +1,101 @@
+{
+  "projectId": "emaar-project-48",
+  "projectSlug": "ovelle",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Ovelle-Avelia_floorplan.pdf",
+    "label": "Emaar: Ovelle complete villa floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/ovelle/floor-plans-405d6f65d1cc.pdf",
+    "sha256": "405d6f65d1ccae940ba3f79fdef97be25e28fddcca46b97836e37fdb899e9481"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare four-bedroom, five-bedroom Medium and five-bedroom Premium villas. Each complete sheet shows ground, first and second floors together, plus the original area table, key plan and developer notices. The Medium wording follows the plan document.",
+  "selectorLabel": "Choose an Ovelle villa layout",
+  "note": "Built-up area includes suite, parking, balcony and entrance/terrace components; it is not plot area or internal suite area alone. Displayed BUA follows each original printed total; sums of the listed components differ by up to 0.02 sq ft. Confirm the contractual unit drawing and pool, lift and landscaping inclusions. These are Ovelle plans; Avelia remains a separate release.",
+  "plans": [
+    {
+      "label": "4 bedrooms · Type A",
+      "area": "4,334.73 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/ovelle/plan-page-2-da665f80a9a1.webp",
+      "sha256": "da665f80a9a11a5c60ba65fc89c853ba6a3d179914a479d8d607459bacddd089",
+      "originalBytes": 504822,
+      "width": 2400,
+      "height": 1778
+    },
+    {
+      "label": "4 bedrooms · Type B",
+      "area": "4,355.72 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/ovelle/plan-page-3-0ca1285739ef.webp",
+      "sha256": "0ca1285739ef1223f44404458b626756cf393d8bf6498ab815504b0c27d34cc2",
+      "originalBytes": 517204,
+      "width": 2400,
+      "height": 1778
+    },
+    {
+      "label": "5 bedrooms · Medium Type A",
+      "area": "5,669.88 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/ovelle/plan-page-4-ac49de7353f0.webp",
+      "sha256": "ac49de7353f0061f6cadab6a76588e837b7b7d6716ee60e0cec53ca566923991",
+      "originalBytes": 563390,
+      "width": 2400,
+      "height": 1778
+    },
+    {
+      "label": "5 bedrooms · Medium Type B",
+      "area": "5,639.42 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/ovelle/plan-page-5-31428e9b768e.webp",
+      "sha256": "31428e9b768e6d8fdb8e6aaae2f00b7755f0d2e7191991bdd1fa8f08d9952b53",
+      "originalBytes": 567946,
+      "width": 2400,
+      "height": 1778
+    },
+    {
+      "label": "5 bedrooms · Premium Type A",
+      "area": "7,728.37 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/ovelle/plan-page-6-73555eda6232.webp",
+      "sha256": "73555eda62327302f897fa0c5bc3ea8e3f71852696a90a1ab7fafd71474bff85",
+      "originalBytes": 747118,
+      "width": 2400,
+      "height": 1778
+    },
+    {
+      "label": "5 bedrooms · Premium Type B",
+      "area": "7,970.24 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/ovelle/plan-page-7-5e8181f84e26.webp",
+      "sha256": "5e8181f84e2667f390136ce7d620f5ade61c14b339487e7036f8c211fc61047e",
+      "originalBytes": 743232,
+      "width": 2400,
+      "height": 1778
+    }
+  ]
+}

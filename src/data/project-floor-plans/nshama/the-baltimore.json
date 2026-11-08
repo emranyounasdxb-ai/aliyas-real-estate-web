@@ -1,0 +1,114 @@
+{
+  "projectId": "nshama-project-10",
+  "projectSlug": "the-baltimore",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/the-baltimore/floor-plans/8fd46697f64c619b.pdf",
+    "label": "Nshama The Baltimore apartment plans hosted by Madena",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/the-baltimore/floor-plans-8fd46697f64c.pdf",
+    "sha256": "8fd46697f64c619b1dc3e5ccbbb384da4553d246b107d02513472d479c536b82"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the one-, two- and three-bedroom layouts published by Nshama.",
+  "selectorLabel": "Choose a The Baltimore apartment layout",
+  "note": "Built-up totals include the balcony. Area ranges follow the printed values. The printed totals differ from the displayed suite and balcony sums in several layouts, including 1 BR Type B and 2 BR Type A. The plan selector follows the printed totals. Confirm the size of the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "661.66–662.41 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-1-20b8b7a584db.webp",
+      "sha256": "20b8b7a584db18e73cfa22a6547f34b88c718f306df726a2451a53ed1af56bed",
+      "originalBytes": 959752,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "1 BR · Type B",
+      "area": "706.00–717.85 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-2-a862069c2f60.webp",
+      "sha256": "a862069c2f603282f9c9906914f248bdb0a590bc9f9583194f96ebf37882ac24",
+      "originalBytes": 944424,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "977.04–997.04 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-3-928ecff76910.webp",
+      "sha256": "928ecff76910f55ee7923ba92039e2ac18db8359896c5b1f32417ff51e2f208b",
+      "originalBytes": 945264,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "1,042.81 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-4-b0c3d6ffc06e.webp",
+      "sha256": "b0c3d6ffc06e09ceab8f383668fcb67fa00d2bc4fb8bd09e67e47e8a5baca3ba",
+      "originalBytes": 995950,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C",
+      "area": "956.16–956.91 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-5-b2bc98234e07.webp",
+      "sha256": "b2bc98234e07c14f1ae0a9d243511170e0ac392ef5d63dfb4270c55b8edb27ca",
+      "originalBytes": 970198,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type D",
+      "area": "1,013.85–1,016.22 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-6-6ada60ee4266.webp",
+      "sha256": "6ada60ee4266ac27975fc701fb7dc004e45c3971d84a046d5178361f861eb974",
+      "originalBytes": 966564,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,427.94–1,429.77 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/nshama/the-baltimore/plan-page-7-ae1d85e00359.webp",
+      "sha256": "ae1d85e0035925b9af2ddb80b724d1a2e397df700c5f64bbfa5eb68b8451c3a4",
+      "originalBytes": 928930,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

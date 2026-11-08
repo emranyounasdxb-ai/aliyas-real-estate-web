@@ -1,0 +1,40 @@
+{
+  "projectId": "deyaar-project-04",
+  "projectSlug": "parkfive-ivy",
+  "developerSlug": "deyaar",
+  "checkedOn": "2026-11-07",
+  "community": "Dubai Production City, Dubai",
+  "road": "Near Sheikh Mohammed bin Zayed Road and Al Khail Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/deyaar/parkfive-ivy/location-cef12c65dd90.png",
+    "sha256": "cef12c65dd9013aeb9b361709ca3bb060758b7acfac69f2628acda9181940d3c",
+    "originalBytes": 255837,
+    "width": 1204,
+    "height": 1425,
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-ParkFive-Brochure.pdf#page=11",
+    "alt": "Deyaar community map locating ParkFive within Dubai Production City.",
+    "scope": "Shared community location. Confirm the entrance for Ivy before travelling.",
+    "caption": "ParkFive community location"
+  },
+  "sourceLabel": "Deyaar Ivy brochure community estimates",
+  "travel": {
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/10/Ivy-at-ParkFive-Brochure.pdf#page=11",
+    "scope": "Approximate travel times from the wider ParkFive community.",
+    "destinations": [
+      {
+        "name": "Dubai Exhibition Centre",
+        "minutes": 15
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "Developer community estimates. Travel varies with the building entrance, route and traffic."
+}

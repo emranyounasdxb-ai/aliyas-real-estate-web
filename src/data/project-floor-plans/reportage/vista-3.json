@@ -1,0 +1,458 @@
+{
+  "projectId": "reportage-project-18",
+  "projectSlug": "vista-3",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Brochure-Artwork-Final-New-1.pdf",
+    "label": "Reportage · Vista 3 original brochure",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/vista-3/floor-plans-565b5543cd8f.pdf",
+    "sha256": "565b5543cd8fe701f29452248199ba8fdeadbf5e2cc7a0d51ec2a6dc2afac14c"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the complete apartment, penthouse and building-level drawings.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Twenty-six types retain fourteen whole brochure pages and twelve building plates. Areas include outdoor space. The 2 BR D source prints malformed 9,38.72 sq ft. Its components total 938.71 sq ft, and the source error remains explicit. Several other schedules differ from component sums. Range endpoints can describe different homes. Confirm the specific home, floor and contractual measurements.",
+  "plans": [
+    {
+      "label": "1 BR A",
+      "area": "529–588.30 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/vista-3/plan-page-19-2543126f1dca.webp",
+      "sha256": "2543126f1dca8d89e48d33fb39fcd980383f45a6231eb85b285a21827186f3f5",
+      "originalBytes": 554344,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "1 BR B / C",
+      "area": "B 481.30–789.42 / C 515.50–813.30 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/vista-3/plan-page-20-770de9eb50b1.webp",
+      "sha256": "770de9eb50b155ecc1cb1fd9118bcf2674431a5233a1faea01a153c1f8d723dd",
+      "originalBytes": 671008,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "1 BR D / E",
+      "area": "D 589.70–599.60 / E 533.60–565.40 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/vista-3/plan-page-21-46be1a7376b1.webp",
+      "sha256": "46be1a7376b1571ad7be2955d319bc20bc9c3bc3a9ae0a93e383e8c6c003e7f9",
+      "originalBytes": 696428,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "1 BR F / G",
+      "area": "F 565.00–706.80 / G 602.60–603.50 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/reportage/vista-3/plan-page-22-25be7240adad.webp",
+      "sha256": "25be7240adad5377f64159a516d22b27b5ef865c4fbf6b1b57d9dacb128a8cc3",
+      "originalBytes": 698340,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "1 BR H / I",
+      "area": "H 535.83 / I 585.01–587.81 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/vista-3/plan-page-23-90f76c43f82c.webp",
+      "sha256": "90f76c43f82c1ec81ae435d7344d4cbbef186335e6074123818f80f212583dad",
+      "originalBytes": 691846,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR penthouse A / apartment A",
+      "area": "Penthouse 2,503.14 / apartment 846.04–856.59 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/vista-3/plan-page-24-d3864ca1ad90.webp",
+      "sha256": "d3864ca1ad90c5858f3daf9fc91d4388dc4b9bc4f2682ec875ef0aa5ef299862",
+      "originalBytes": 703324,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR B / C",
+      "area": "B 715.05–857.56 / C 871.55 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/vista-3/plan-page-25-ce75e3a92ce3.webp",
+      "sha256": "ce75e3a92ce3dfe570620f50cbe5c26ce1ec22bb2214899e7343267b265e0b6f",
+      "originalBytes": 746336,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR D / 3 BR penthouse A",
+      "area": "2 BR D prints malformed 9,38.72 / 3 BR penthouse 2,811.85 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/vista-3/plan-page-26-fbf65ec4c856.webp",
+      "sha256": "fbf65ec4c8565ad3384259c4bf78a65ff9ed3b7ff7017b022004a442fb661b08",
+      "originalBytes": 723308,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "3 BR penthouse B / apartment A",
+      "area": "Penthouse 1,692.00 / apartment 1,209.00–1,642.00 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/reportage/vista-3/plan-page-27-1e338796cbe7.webp",
+      "sha256": "1e338796cbe7540f2ab1386ec49ebff6e3e852568810002f8da7938b6b09a6f7",
+      "originalBytes": 729146,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "3 BR B / C",
+      "area": "B 1,090.00 / C 1,214.00 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/reportage/vista-3/plan-page-28-3a89e8e23279.webp",
+      "sha256": "3a89e8e23279d3c7b3de5c4fb85c5dfa02c1e9244a58aea387a93f437a480dad",
+      "originalBytes": 712366,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "3 BR D / E",
+      "area": "D 1,096.00 / E 1,019.00 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/reportage/vista-3/plan-page-29-8f16df61d364.webp",
+      "sha256": "8f16df61d364637590965d0ba6dcd99f809bee5a6c7735660cc17231446e7de8",
+      "originalBytes": 761168,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "3 BR F / 4 BR penthouse A",
+      "area": "3 BR F 1,079.00 / 4 BR penthouse 2,880.96 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/reportage/vista-3/plan-page-30-b2aa33d5b217.webp",
+      "sha256": "b2aa33d5b21788c9c41da39f09cd107f6566f150f50bb9ccf9c95483dd281ab1",
+      "originalBytes": 775996,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "4 BR A / B",
+      "area": "A 1,785.84–1,788.40 / B 1,507.91 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/reportage/vista-3/plan-page-31-6734f45a007f.webp",
+      "sha256": "6734f45a007fa7ea38719d7d4411114b1e88ec71c709a346c5e7be22c3561644",
+      "originalBytes": 824952,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "5 BR A",
+      "area": "1,644.29 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/reportage/vista-3/plan-page-32-3ea76bef2b1a.webp",
+      "sha256": "3ea76bef2b1a2e8267d2511b705421ff788effd060c290ba6aae2b3a43842e5e",
+      "originalBytes": 1695040,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Basement 1",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-4-94ddf9bb0064.webp",
+      "sha256": "94ddf9bb00646fdea0389c36f5a0ab85bdef4bc73b2eb2f96210ba2b1107caa2",
+      "originalBytes": 485142,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Podiums 1–5",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-5-ef02c12f4c53.webp",
+      "sha256": "ef02c12f4c53de32c46b63f66aec44d237b8fa9cfba1f1ef029920492de4dd90",
+      "originalBytes": 497494,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Podium 6",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-6-c0f2c97ed348.webp",
+      "sha256": "c0f2c97ed3486f6f405cf7434da4880072b4d5b8e653bad99b61dab272cfa841",
+      "originalBytes": 490982,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-7-e0e6f8b33ba9.webp",
+      "sha256": "e0e6f8b33ba9ae0d2ebb6a7a95e0c618389479da7e4392ef07756127337b3d45",
+      "originalBytes": 572028,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floor 7",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-8-55bcf80763e3.webp",
+      "sha256": "55bcf80763e34e19da66fd90931b40c0e7d6abdd3ebc047c27bcff632e36e237",
+      "originalBytes": 803252,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floors 8–26",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-9-e5df4462249d.webp",
+      "sha256": "e5df4462249d55a0238efd69f35af7fe6516c4fd565d8f7335583512c6993064",
+      "originalBytes": 568224,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floors 10 / 20 · separate sheet",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-10-7dc8b7d8a226.webp",
+      "sha256": "7dc8b7d8a2268b9d0ad6c5e0d8a45db7ae2aa217929a953c8bf5e19d375415c7",
+      "originalBytes": 560040,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floor 21 · separate sheet",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-11-255dded60829.webp",
+      "sha256": "255dded60829bc4ef3837ae5497d70784facee35c27f8b297e009ed208cc017a",
+      "originalBytes": 553960,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floors 27–31",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-12-a7d212f0a5e1.webp",
+      "sha256": "a7d212f0a5e1fafde20d06138862146a004fa74f47cfacfe3f9ea759c0772f7f",
+      "originalBytes": 565030,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floor 30 · separate sheet",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-13-71ff71295852.webp",
+      "sha256": "71ff7129585244f91c15b7d454531541a1ee6cb5213492846d0eee3795e8ae60",
+      "originalBytes": 559222,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floor 32",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-14-d04c4be43055.webp",
+      "sha256": "d04c4be43055f9a2acc5ef05d0ebb8cdd316e7709e81ecd8c353fbf2348d9218",
+      "originalBytes": 555146,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Floor 33",
+      "area": "Building floorplate",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/vista-3/plan-plans-page-15-f792ae0d148c.webp",
+      "sha256": "f792ae0d148c26447a55d5bb497908c4079bf70a8f8775311fecde99dd19f801",
+      "originalBytes": 518998,
+      "width": 2546,
+      "height": 3600,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Vista-3-Floor-Plan-New-Final.pdf",
+        "label": "Reportage · Vista 3 original building floor plates",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/vista-3/floor-plans-plans-f942134c1209.pdf",
+        "sha256": "f942134c12094510ff1142ff8ec6aa4ccc2ffbefd6d41b8412ab5a4a1bd13d5f"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/vista-3/plan-page-5-2f19bcebfbfd.webp",
+      "sha256": "2f19bcebfbfd00fbfbb76f57538ff9b5adad1f78671f76f2bcd0411a68473e21",
+      "originalBytes": 233108,
+      "width": 3600,
+      "height": 2546
+    }
+  ]
+}

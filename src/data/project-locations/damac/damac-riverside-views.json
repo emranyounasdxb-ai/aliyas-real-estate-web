@@ -1,0 +1,50 @@
+{
+  "projectId": "damac-project-06",
+  "projectSlug": "damac-riverside-views",
+  "developerSlug": "damac",
+  "checkedOn": "2026-11-06",
+  "community": "DAMAC Riverside, Dubai Investments Park 2, Dubai",
+  "road": "Near Yalayis Street and Emirates Road",
+  "pin": {
+    "latitude": 24.977044359083,
+    "longitude": 55.232316244495,
+    "sourceUrl": "https://preprod.damacproperties.com/en/projects/damac-riverside-views/",
+    "scope": "DAMAC’s published community marker. Apartment entrances vary by cluster."
+  },
+  "sourceLabel": "DAMAC Riverside Views brochure · Reelly-hosted copy · page 3",
+  "travel": {
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/1c20c3a0189d42399ee7ddb6fee6a91f.pdf",
+    "page": 3,
+    "scope": "Approximate travel times on DAMAC’s apartment brochure map.",
+    "destinations": [
+      {
+        "name": "DAMAC Mall",
+        "minutes": 9
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 12
+      },
+      {
+        "name": "Metro · station unspecified",
+        "minutes": 15
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 16
+      }
+    ]
+  },
+  "travelNote": "The brochure does not name the metro station. Use directions for current travel and building access.",
+  "map": {
+    "src": "/images/projects/damac/damac-riverside-views/location-4793ad307808.png",
+    "sha256": "4793ad307808a7aedcf0208d98dce3141a22b77fc449e33b0fd180e775d3949c",
+    "originalBytes": 1949104,
+    "width": 2600,
+    "height": 1463,
+    "sourceUrl": "https://reelly-backend.s3.amazonaws.com/project_files/1c20c3a0189d42399ee7ddb6fee6a91f.pdf#page=3",
+    "alt": "DAMAC Riverside Views regional and local maps highlighting the development near Emirates Road.",
+    "scope": "Developer site and road diagram. Confirm access for your cluster.",
+    "caption": "Riverside Views within DAMAC Riverside, DAMAC apartment brochure page 3."
+  }
+}

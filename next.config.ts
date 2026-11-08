@@ -1,7 +1,9 @@
 import type { NextConfig } from 'next';
 
 const isDev = process.env.NODE_ENV !== 'production';
+const previewSlot = process.env.ALIYAS_ISOLATED_PREVIEW ?? '';
 const nextConfig: NextConfig = {
+  distDir: /^[12]$/.test(previewSlot) ? `artifacts/next-preview-${previewSlot}` : '.next',
   poweredByHeader: false,
   images: { formats: ['image/avif', 'image/webp'], qualities: [75, 85] },
   async headers() {
@@ -25,7 +27,7 @@ const nextConfig: NextConfig = {
           { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=()' },
           {
             key: 'Content-Security-Policy',
-            value: `default-src 'self'; script-src 'self' 'unsafe-inline' ${isDev ? "'unsafe-eval'" : ''}; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ${isDev ? 'ws: wss:' : ''}; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'`,
+            value: `default-src 'self'; script-src 'self' 'unsafe-inline' ${isDev ? "'unsafe-eval'" : ''}; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ${isDev ? 'ws: wss:' : ''}; frame-src 'self' https://www.openstreetmap.org; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'`,
           },
         ],
       },

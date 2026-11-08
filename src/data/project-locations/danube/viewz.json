@@ -1,0 +1,49 @@
+{
+  "projectId": "danube-project-19",
+  "projectSlug": "viewz",
+  "developerSlug": "danube",
+  "checkedOn": "2026-11-06",
+  "community": "Jumeirah Lake Towers, Dubai",
+  "road": "Jumeirah Lake Towers, near Sheikh Zayed Road (E11)",
+  "pin": {
+    "latitude": 25.0656697,
+    "longitude": 55.1409217,
+    "sourceUrl": "https://maps.danubeproperties.com/?location=viewzbydanube",
+    "scope": "Danube’s directions link identifies Viewz Tower 1. Confirm the entrance for the tower you plan to visit."
+  },
+  "map": {
+    "src": "/images/projects/danube/viewz/location-65e347b63d50.jpg",
+    "sha256": "65e347b63d50507b27cdcea8d9af60f7e08432a6cc2e9df5ec1c72723b062619",
+    "originalBytes": 145664,
+    "width": 1078,
+    "height": 739,
+    "sourceUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=4",
+    "alt": "Viewz marked relative to Dubai Marina and Palm Jumeirah on Danube’s regional map.",
+    "scope": "Developer schematic for orientation.",
+    "caption": "Danube Viewz brochure location map, page 4."
+  },
+  "sourceLabel": "Danube Viewz brochure · page 4",
+  "travel": {
+    "sourceUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=4",
+    "scope": "Approximate developer estimates from Viewz in Jumeirah Lake Towers.",
+    "destinations": [
+      {
+        "name": "Metro station (walk)",
+        "minutes": 10
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 11
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 28
+      }
+    ]
+  },
+  "travelNote": "The brochure specifies walking for the metro and driving for the other destinations. It does not name a station."
+}

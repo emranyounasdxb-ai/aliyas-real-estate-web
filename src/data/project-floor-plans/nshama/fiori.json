@@ -1,0 +1,88 @@
+{
+  "projectId": "nshama-project-03",
+  "projectSlug": "fiori",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2025/09/FIORI-Floor-Plans.pdf",
+    "label": "Nshama Fiori official apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/fiori/floor-plans-ca84e85ddcc1.pdf",
+    "sha256": "ca84e85ddcc1f9927e959ec44f45ed0fd981955451c03529ef14c69111a2b1c7"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published one-, two- and three-bedroom apartment layouts.",
+  "selectorLabel": "Choose a Fiori apartment layout",
+  "note": "Built-up totals include the balcony. Ranges follow the printed minimum and maximum figures. Confirm the area for the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "636.04–639.48 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/fiori/plan-page-1-e521351c09da.webp",
+      "sha256": "e521351c09da24ca78caf056cf4edc3800c8ecabb5181803f87185fc7bcdf443",
+      "originalBytes": 706410,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "932.59–933.34 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/fiori/plan-page-2-7c7f867ba9d4.webp",
+      "sha256": "7c7f867ba9d47ca3033a9ed6112d6f735514f5e161b42ccacd50133fd2678415",
+      "originalBytes": 657252,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "929.36 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/fiori/plan-page-3-319162203aeb.webp",
+      "sha256": "319162203aeb51eab2f8a0efa743cfef9c77705ac34dec6ae381f7c5bafdc740",
+      "originalBytes": 660230,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C",
+      "area": "848.09 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/fiori/plan-page-4-1dfaf14d9278.webp",
+      "sha256": "1dfaf14d9278b1a30c1bc1f4e27e24aa97069c9b79816bca607265efd7a2ba19",
+      "originalBytes": 659208,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,431.92 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/fiori/plan-page-5-0b5a3b098c53.webp",
+      "sha256": "0b5a3b098c5353534f8521b2da645ba491b5961111f440049299f3979c2123d7",
+      "originalBytes": 486976,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

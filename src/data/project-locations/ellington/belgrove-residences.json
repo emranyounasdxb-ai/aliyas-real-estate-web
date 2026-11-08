@@ -1,0 +1,65 @@
+{
+  "projectId": "ellington-project-15",
+  "projectSlug": "belgrove-residences",
+  "developerSlug": "ellington",
+  "checkedOn": "2026-11-06",
+  "community": "Meydan Horizon, Bukadra, Mohammed Bin Rashid City, Dubai",
+  "road": "E44 Ras Al Khor Road",
+  "pin": {
+    "latitude": 25.18356,
+    "longitude": 55.32619,
+    "sourceUrl": "https://jre.ae/projects/belgrove-residences",
+    "scope": "Approximate Belgrove site point from a property listing, consistent with the historical Ellington map. Confirm the current name and entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/ellington/belgrove-residences/location-8280c68fb1fe.png",
+    "sha256": "8280c68fb1febc0af5b673a27b3778890fb2c64b1dea753589f235d9bb00210d",
+    "originalBytes": 4657470,
+    "width": 2200,
+    "height": 1556,
+    "sourceUrl": "https://petkovicproperties.com/wp-content/uploads/2024/08/Belgrove-Ellington-Map.pdf#page=1",
+    "alt": "Historical Ellington map locating Belgrove Residences south of E44 near the Ras Al Khor Mangrove Hide.",
+    "scope": "Developer illustration for orientation. The Metro alignment is shown as proposed.",
+    "caption": "Historical Ellington Belgrove location map · Petkovic mirror"
+  },
+  "sourceLabel": "Ellington’s historical Belgrove brochure, page 6 · Petkovic mirror",
+  "travel": {
+    "sourceUrl": "https://petkovicproperties.com/wp-content/uploads/2024/08/Belgrove-Ellington-Brochure-1.pdf#page=6",
+    "scope": "Approximate drive times published in the historical Belgrove brochure.",
+    "destinations": [
+      {
+        "name": "Ras Al Khor Wildlife Sanctuary",
+        "minutes": 6
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 9
+      },
+      {
+        "name": "Burj Khalifa and Dubai Mall",
+        "minutes": 10
+      },
+      {
+        "name": "Meydan Racecourse",
+        "minutes": 12
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Financial Centre",
+        "minutes": 18
+      },
+      {
+        "name": "Burj Al Arab and Jumeirah Beach",
+        "minutes": 22
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 28
+      }
+    ]
+  },
+  "travelNote": "Routes and traffic affect these historical estimates. The Metro alignment shown in the brochure is a proposal."
+}

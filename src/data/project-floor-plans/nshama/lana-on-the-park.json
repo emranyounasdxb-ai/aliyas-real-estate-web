@@ -1,0 +1,127 @@
+{
+  "projectId": "nshama-project-15",
+  "projectSlug": "lana-on-the-park",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2024/05/LANA-Brochure-Final.pdf",
+    "label": "Nshama Lana on the Park brochure with original layouts",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/lana-on-the-park/floor-plans-db19eafbbefb.pdf",
+    "sha256": "db19eafbbefbf876fab98dea1500f6bd139977707a98d18c131e5c09aeeca087"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the one-, two- and three-bedroom layouts published by Nshama.",
+  "selectorLabel": "Choose a Lana on the Park apartment layout",
+  "note": "Built-up totals include the balcony. Area ranges follow the printed values. Several printed totals differ from the displayed component sums. Both total columns for 2 BR Type C show 1,028.49 sq ft. The selector uses the published totals. Confirm the size of the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "797.18 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-20-a2bba4f6b499.webp",
+      "sha256": "a2bba4f6b4999bad74c7fbb295a0cff0f19275e3829849a8db9673b77f814860",
+      "originalBytes": 797808,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "1 BR · Type B",
+      "area": "664.99–665.75 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-21-ce8adf1291df.webp",
+      "sha256": "ce8adf1291df9f4cbce5efbba0cc6aa5741b492876e3dff040dc2474ed64a182",
+      "originalBytes": 746520,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "965.52–978.01 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-22-29ad131aee55.webp",
+      "sha256": "29ad131aee55e54f7fad13d914c46238703b373beea843c9379e1a54c19ef771",
+      "originalBytes": 762184,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "1,032.69–1,032.90 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-23-1e8c22ee945e.webp",
+      "sha256": "1e8c22ee945e88539983c1edc322a0cb1a7ca78718e888df36e8897e782dbcbe",
+      "originalBytes": 821096,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C",
+      "area": "1,028.49 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-24-808fdcc08986.webp",
+      "sha256": "808fdcc089865beda16e903acc1576f1a6cb032ae30cfbcafb4296c647f21766",
+      "originalBytes": 655996,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type D",
+      "area": "1,100.18 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-25-63937752b1f3.webp",
+      "sha256": "63937752b1f33ff9b798ebba8b854bc22cfbd2bfc7f73743af1c8e5a9f7c094a",
+      "originalBytes": 844234,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,676.69 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-26-6544ff70fa5e.webp",
+      "sha256": "6544ff70fa5e3350010c41e2605dd3dc2c1aa91a0a29682d9aefd6b1c3fd954a",
+      "originalBytes": 581908,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type B",
+      "area": "1,407.81 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/nshama/lana-on-the-park/plan-page-27-01cf23470b3b.webp",
+      "sha256": "01cf23470b3b80a00265827d94be3efbfd36a38f828726a8719fcbb6116c206f",
+      "originalBytes": 666490,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "projectId": "omniyat-project-04",
+  "projectSlug": "vela",
+  "developerSlug": "omniyat",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/vela-dorchester-collection/floor-plans/3868fd2ae0aa9446.pdf",
+    "label": "Original OMNIYAT VELA typology sheets, hosted by Madena",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/omniyat/vela/floor-plans-3868fd2ae0aa.pdf",
+    "sha256": "3868fd2ae0aa94460235c0f830ad3cc1973a70274c50ff52150fbf81f5cda5d1"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore published VELA Marina and Sky Residence layouts with their original terrace and area schedules.",
+  "selectorLabel": "Choose a VELA residence",
+  "note": "Totals include terraces and follow the May 2023 marketing drawings. Confirm current dimensions and plans for the specific residence.",
+  "plans": [
+    {
+      "label": "4 BR Marina · 101",
+      "area": "7,337.87 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/omniyat/vela/plan-page-2-e30cb906f30e.webp",
+      "sha256": "e30cb906f30e2985b950a020638c0d4dc773995054a7482350d8e22de4493254",
+      "originalBytes": 139322,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "3 BR Marina · 201",
+      "area": "5,987.53 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/omniyat/vela/plan-page-3-1ec83aef6df6.webp",
+      "sha256": "1ec83aef6df67e4113517d45971b17f908edc6853d82b5bd516eccad1f7ef12f",
+      "originalBytes": 123316,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "4 BR Marina · 301",
+      "area": "7,368.11 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/omniyat/vela/plan-page-4-af51bb31d904.webp",
+      "sha256": "af51bb31d9041036a6232db8a581c30365506df9b9af1ac9211120994ad316d9",
+      "originalBytes": 135312,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "3 BR Marina · 401",
+      "area": "6,361.26 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/omniyat/vela/plan-page-5-5f0524bb8ebc.webp",
+      "sha256": "5f0524bb8ebc4b25134ff4cdd5d36f287f93ec5d17aa7fc5240f4483d434cca1",
+      "originalBytes": 119670,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "3 BR Marina · 402",
+      "area": "6,046.95 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/omniyat/vela/plan-page-6-1e8c7475a1fc.webp",
+      "sha256": "1e8c7475a1fc8654a7e7e4c5bc86624284780816ec4db6f40411a8890c9c7e49",
+      "originalBytes": 228268,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "4 BR Marina · 501",
+      "area": "7,373.39 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/omniyat/vela/plan-page-7-2c60ae227523.webp",
+      "sha256": "2c60ae227523efa6d0c0644cfa31f640602631811abcd30a8972eda81528000c",
+      "originalBytes": 135140,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "3 BR Marina simplex · 902",
+      "area": "4,256.59 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/omniyat/vela/plan-page-8-97b0bb0ee41d.webp",
+      "sha256": "97b0bb0ee41dfe670d0f7ef9e2af72d3fdb226a00c1dfe53436c285b04991bc4",
+      "originalBytes": 198232,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "3 BR Sky · 1901",
+      "area": "6,301.62 sq ft total with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/omniyat/vela/plan-page-9-e8622eda12a1.webp",
+      "sha256": "e8622eda12a1ee50e6188ab33048771688ce9f59004b1ecaf5119dcc09550750",
+      "originalBytes": 108486,
+      "width": 2600,
+      "height": 1463
+    }
+  ]
+}

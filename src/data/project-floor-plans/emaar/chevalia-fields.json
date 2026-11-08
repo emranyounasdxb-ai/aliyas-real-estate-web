@@ -1,0 +1,88 @@
+{
+  "projectId": "emaar-project-32",
+  "projectSlug": "chevalia-fields",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/CHEVALIA-FIELDS_floorplan.pdf",
+    "label": "Emaar: Chevalia Fields floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/chevalia-fields/floor-plans-f581e7a194b2.pdf",
+    "sha256": "f581e7a194b2d99ed872c652335e4d9da80aa09eca6baa0d29ef7dbbb670867d"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the five published villa sheets. Each complete sheet includes all three floors, its area table and the developer key plan.",
+  "selectorLabel": "Choose a Chevalia Fields villa layout",
+  "note": "Published totals include suite, balcony and carport; they are not plot areas. Drawn landscaping, pools and furnishings do not establish sale inclusions. Confirm the selected villa and final specifications.",
+  "plans": [
+    {
+      "label": "4 bedrooms · Type 3",
+      "area": "4,165.63 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/chevalia-fields/plan-page-6-284b557f80da.webp",
+      "sha256": "284b557f80da9e6f5efa6ed459b077c94725bb73a71018876f7c511a53a54f14",
+      "originalBytes": 616520,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · A Type 1",
+      "area": "8,615.11 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/chevalia-fields/plan-page-2-9abd43f71fd2.webp",
+      "sha256": "9abd43f71fd2828633953973f1ca7995fa33d7857987b053431191d7f4e91de0",
+      "originalBytes": 1178078,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · A Type 2",
+      "area": "8,606.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/chevalia-fields/plan-page-3-9ec7c61b5ddc.webp",
+      "sha256": "9ec7c61b5ddc70fdd3c3b12d101d3f96a8e4943dd9c8c3d1f858148f427e167e",
+      "originalBytes": 1178552,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · B Type 1",
+      "area": "4,932.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/chevalia-fields/plan-page-4-1569ad951542.webp",
+      "sha256": "1569ad951542e98d21f48888bf88f3f6298b381955018df8c2bb2e44279b2433",
+      "originalBytes": 654092,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · B Type 2",
+      "area": "5,153.87 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/chevalia-fields/plan-page-5-61c5ef31b0c2.webp",
+      "sha256": "61c5ef31b0c2ae0b21d60ed64b4b5079c3bca53f8b9d885142b3e4e941a76cda",
+      "originalBytes": 632830,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

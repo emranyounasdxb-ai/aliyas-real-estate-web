@@ -1,0 +1,44 @@
+{
+  "projectId": "arada-project-11",
+  "projectSlug": "the-gate-4",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "community": "Aljada, Sharjah",
+  "road": "Aljada boulevard precinct · developer-marked master plan",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/arada/the-gate-4/location-4a44d93bc639.png",
+    "sha256": "4a44d93bc639524065864611f621b34ca5474f690b0f897f96f068ad70fd027b",
+    "originalBytes": 224341,
+    "width": 3600,
+    "height": 2496,
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/12/The-GATE-4-Brochure-Digital.pdf#page=15",
+    "alt": "Complete original master-plan spread marking The Gate 4 within Aljada.",
+    "scope": "The original developer drawing identifies this phase. The exact surveyed visitor entrance and live access route remain unverified.",
+    "caption": "The Gate 4 · developer-marked building footprint."
+  },
+  "sourceLabel": "Original phase-four regional estimates · Arada brochure",
+  "travel": {
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2024/12/The-GATE-4-Brochure-Digital.pdf#page=5",
+    "scope": "The regional panel explicitly distinguishes a walk to Madar from airport and Downtown driving estimates. Exact entrance, route and traffic conditions are unspecified.",
+    "destinations": [
+      {
+        "name": "Madar at Aljada · walk",
+        "minutes": 5
+      },
+      {
+        "name": "Sharjah International Airport · drive",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport · drive",
+        "minutes": 25
+      },
+      {
+        "name": "Downtown Dubai · drive",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "The original regional panel gives a 5-minute Madar walk and drives of 10 minutes to Sharjah airport, 25 to Dubai airport and 30 to Downtown Dubai. Its community map instead prints 5 and 20 minutes to the airports. Both source versions remain available, with this conflict unresolved. Confirm the phase entrance and current route. Exact kilometre journeys remain unavailable."
+}

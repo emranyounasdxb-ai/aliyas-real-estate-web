@@ -1,0 +1,318 @@
+{
+  "id": "emaar-project-06",
+  "slug": "terra-woods",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/terra-woods-at-expo-living",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "building",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=4",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-04-00-Im0.jpg",
+      "label": "Buildings and arrival",
+      "alt": "Emaar render of Terra Woods buildings and landscaped arrival at dusk",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 4
+    },
+    {
+      "name": "pool",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=9",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-09-00-Im0.jpg",
+      "label": "Pool courtyard",
+      "alt": "Emaar render of Terra Woods pool courtyard between the buildings",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 9
+    },
+    {
+      "name": "courtyard",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=10",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-10-00-Im0.jpg",
+      "label": "Landscaped courtyard",
+      "alt": "Emaar render of Terra Woods outdoor seating and landscaped courtyard",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 10
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=16",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-16-01-Im0.jpg",
+      "label": "Living room",
+      "alt": "Emaar render of Terra Woods living room opening onto a planted balcony",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 16
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=17",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-17-03-Im0.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render of Terra Woods bedroom and balcony overlooking the courtyard",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 17
+    },
+    {
+      "name": "living-detail",
+      "url": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf#page=13",
+      "cache": "artifacts/project-page-enhancement/terra-woods/brochure-images/page-13-00-Im0.jpg",
+      "label": "Multipurpose room",
+      "alt": "Emaar render of Terra Woods’ multipurpose room and garden-facing windows",
+      "position": "50% 50%",
+      "extraction": "pypdf embedded image bytes; no editing or upscaling",
+      "sourcePage": 13
+    }
+  ],
+  "cardName": "building",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Expo Living",
+    "road": "",
+    "pin": {
+      "latitude": 24.9687215,
+      "longitude": 55.1468036,
+      "sourceUrl": "https://www.emaar.com/en/properties/terra-woods-at-expo-living",
+      "scope": "Official page project pin; exact building access may differ."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_67557ef8bc.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-woods/04_MAP_2400x1600px_67557ef8bc.jpg",
+      "alt": "Emaar regional diagram locating Expo Living beside Expo City",
+      "scope": "Regional diagram, not to scale; future transport and proposed developments are not operational-service guarantees."
+    },
+    "travelHeading": "Published walking and driving estimates for Expo Living",
+    "travelNote": "Expo City is a published walking estimate; the other destinations are driving estimates. These are community estimates, not live routing or measured distances from a specific home. Starting point, route and traffic can change the journey.",
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/TERRAWOODS_XL_BROCHURE_46433ba42e.pdf",
+      "page": 3,
+      "scope": "Own brochure page3 visually reviewed; walking and driving distinguished.",
+      "destinations": [
+        {
+          "name": "Expo City · walk",
+          "minutes": 5
+        },
+        {
+          "name": "Al Maktoum International Airport · drive",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina · drive",
+          "minutes": 15
+        },
+        {
+          "name": "Downtown Dubai · drive",
+          "minutes": 35
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/TERRA_WOODS_XL_FLOOR_PLAN_BUILDING_1_eb5b6ea8cc.pdf",
+    "cache": "artifacts/project-details/emaar/terra-woods-floorplans-1.pdf",
+    "label": "Emaar: Terra Woods Building 1 floor plans",
+    "introduction": "Explore the published Building 1 apartment plans. Match the unit number and level on each sheet; layouts and areas can differ within a type. Townhouse and other-building residence plans are not included in this published document.",
+    "selectorLabel": "Choose a residence layout",
+    "note": "Plans and dimensions are approximate and subject to developer revisions. Drawings are not to scale; shown furnishings and generic view legends do not guarantee a particular unit’s outlook or sale inclusions.",
+    "plans": [
+      {
+        "label": "1 bedroom · Type 1A · sheet 4",
+        "area": "752.83 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          752.83
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-04.png"
+      },
+      {
+        "label": "1 bedroom · Type 1B · sheet 5",
+        "area": "765.53 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          765.53
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-05.png"
+      },
+      {
+        "label": "1 bedroom · Type 2A · sheet 6",
+        "area": "741.85 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          741.85
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-06.png"
+      },
+      {
+        "label": "1 bedroom · Type 2A · sheet 7",
+        "area": "746.26 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          746.26
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-07.png"
+      },
+      {
+        "label": "1 bedroom · Type 2A · sheet 8",
+        "area": "760.90 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          760.9
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-08.png"
+      },
+      {
+        "label": "1 bedroom · Type 2A · sheet 9",
+        "area": "766.39 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          766.39
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-09.png"
+      },
+      {
+        "label": "1 bedroom · Type 2B · sheet 10",
+        "area": "759.93 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          759.93
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-10.png"
+      },
+      {
+        "label": "2 bedroom · Type 1A · sheet 11",
+        "area": "1,119.55 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1119.55
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-11.png"
+      },
+      {
+        "label": "2 bedroom · Type 1B · sheet 12",
+        "area": "1,119.88 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1119.88
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-12.png"
+      },
+      {
+        "label": "2 bedroom · Type 2A · sheet 13",
+        "area": "1,126.77 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1126.77
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-13.png"
+      },
+      {
+        "label": "2 bedroom · Type 2A.1 · sheet 14",
+        "area": "1,230.75 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1230.75
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-14.png"
+      },
+      {
+        "label": "2 bedroom · Type 2B · sheet 15",
+        "area": "1,126.34 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1126.34
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-15.png"
+      },
+      {
+        "label": "2 bedroom · Type 2B · sheet 16",
+        "area": "1,120.52 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1120.52
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-16.png"
+      },
+      {
+        "label": "2 bedroom · Type 3A · sheet 17",
+        "area": "1,113.42 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1113.42
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-17.png"
+      },
+      {
+        "label": "2 bedroom · Type 3B · sheet 18",
+        "area": "1,113.85 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1113.85
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-18.png"
+      },
+      {
+        "label": "2 bedroom · Type 3B.1 · sheet 19",
+        "area": "1,218.04 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1218.04
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-19.png"
+      },
+      {
+        "label": "3 bedroom · Type 1A · sheet 20",
+        "area": "1,675.83 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1675.83
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-20.png"
+      },
+      {
+        "label": "3 bedroom · Type 1B · sheet 21",
+        "area": "1,667.33 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1667.33
+        ],
+        "areaCalculation": "Printed square-foot total area (first numeric column) on this Building 1 sheet; not suite area or following square metres.",
+        "cache": "artifacts/project-page-enhancement/terra-woods/plan-21.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/terra-woods/",
+  "review": {
+    "images": "All six selected image masters visually reviewed. Own official brochure embedded originals used rather than the670px website previews; no editing/upscaling/stock substitutions. Final browser visual review caught and corrected a brochure-background selection before completion; reviewed page13 living-space original replaces it. Page13 identifies the room as multipurpose; its displayed label follows that source.",
+    "location": "Exact official pin and regional map checked. Brochure physical3 reviewed;5min walk to Expo City distinguished from10/15/35min drives. Community estimates qualified.",
+    "floorPlans": "All18 Building 1 residence title/area panels visually checked, physical4–21; complete unedited sheets and original PDF retained. First numeric area column is sqft, second sqm. Decimal variants retained; repeated type names carry sheet number. Scope limitation explicitly shown."
+  },
+  "unavailable": [
+    "The official linked floor-plan PDF covers Building 1 apartments only. Other-building and townhouse residence plans were not present in that document or the reviewed official page links; no substitutes were added."
+  ]
+}

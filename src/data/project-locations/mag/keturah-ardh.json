@@ -1,0 +1,77 @@
+{
+  "projectId": "mag-project-01",
+  "projectSlug": "keturah-ardh",
+  "developerSlug": "mag",
+  "checkedOn": "2026-11-07",
+  "community": "Al Rowaiyah First District",
+  "road": "Al Rowaiyah First, Dubai · proposed access shown in the original road diagram",
+  "pin": {
+    "latitude": 25.124043,
+    "longitude": 55.436185,
+    "sourceUrl": "https://keturah.global/assets/keturah-map/keturah-map-app.js?v=1788189419",
+    "scope": "Ardh site vicinity published in Keturah’s active project map. This identifies the community, with no verified visitor entrance."
+  },
+  "map": {
+    "src": "/images/projects/mag/keturah-ardh/location-f9e841bcad0f.png",
+    "sha256": "f9e841bcad0ff08fb05413a18437d84e24d213ac21e1151efa3379437d78dc7b",
+    "originalBytes": 2519952,
+    "width": 3200,
+    "height": 1800,
+    "sourceUrl": "https://www.fullstory.ae/api/public-project-documents/2929-1#page=17",
+    "alt": "Original Ardh regional map and journey estimates.",
+    "scope": "Whole original regional illustration. Proposed transport and neighbouring destinations reflect its publishing period.",
+    "caption": "Ardh regional context · original developer brochure, archived FullStory copy."
+  },
+  "sourceLabel": "Ardh original brochure · archived FullStory copy",
+  "travel": {
+    "sourceUrl": "https://www.fullstory.ae/api/public-project-documents/2929-1#page=17",
+    "scope": "Original community estimates. Travel mode, traffic assumptions and individual plot origin are unspecified.",
+    "destinations": [
+      {
+        "name": "Academic City",
+        "minutes": 6
+      },
+      {
+        "name": "Al Nakheel Park",
+        "minutes": 8
+      },
+      {
+        "name": "Dubai Outlet Mall",
+        "minutes": 9
+      },
+      {
+        "name": "Dubai Silicon Oasis",
+        "minutes": 9
+      },
+      {
+        "name": "IMG Worlds of Adventure",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Safari Park",
+        "minutes": 12
+      },
+      {
+        "name": "Global Village",
+        "minutes": 14
+      },
+      {
+        "name": "Dubai Festival City",
+        "minutes": 18
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 21
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 36
+      }
+    ]
+  },
+  "travelNote": "Historical brochure estimates require current route checks. Future transport is proposed. The developer’s current map supplies a community vicinity, with no confirmed visitor entrance. The archived brochure download returned HTTP 401 on 7 November 2026."
+}

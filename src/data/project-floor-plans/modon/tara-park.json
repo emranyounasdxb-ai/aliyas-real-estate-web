@@ -1,0 +1,128 @@
+{
+  "projectId": "modon-project-03",
+  "projectSlug": "tara-park",
+  "developerSlug": "modon",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/tara-park/floor-plans/91553d07ae0564fc.pdf",
+    "label": "Tara Park · original five complete apartment sheets, Madena broker mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/modon/tara-park/floor-plans-91553d07ae05.pdf",
+    "sha256": "91553d07ae0564fc929ebdce7d8e0ec35ad0a50b26d11754c14fac7f53970fcd"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare five published apartment samples with their original area ranges, room tables and level keys, alongside the project maps.",
+  "selectorLabel": "Choose a typical apartment or original project map",
+  "note": "The sheets show one bedroom, two bedroom corner and middle, and three bedroom corner and middle samples. GSA ranges describe published families and do not establish one selected unit’s exact area. Current webpage ranges differ from these drawings. The original preliminary notice retains template villa wording on these apartment sheets. Confirm the contracted building, release, level, revision, area basis and final specification.",
+  "plans": [
+    {
+      "label": "1 BR · typical layout",
+      "area": "81.5–91.3 m² published family GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/modon/tara-park/plan-page-1-2dfb2b0f0f86.webp",
+      "sha256": "2dfb2b0f0f860541b4e965cc32dc26e840c2e54e24643688f0739c85a1b0835e",
+      "originalBytes": 377534,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · corner unit",
+      "area": "121.2–169 m² published family GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/modon/tara-park/plan-page-2-690ad192cc92.webp",
+      "sha256": "690ad192cc92f830aea4dbfe530577c26540ab64c8fde6b19d60e4425d6521e0",
+      "originalBytes": 477628,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · middle unit",
+      "area": "121.2–169 m² published family GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/modon/tara-park/plan-page-3-daf10cf543c2.webp",
+      "sha256": "daf10cf543c2f2efd15818d4963387b9160c3972550b5cf131ab14ef4eac4167",
+      "originalBytes": 444290,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · corner unit",
+      "area": "146.8–190.6 m² published family GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/modon/tara-park/plan-page-4-21c8764e090d.webp",
+      "sha256": "21c8764e090d2b5862aec20bdbf16c930aaa1b092a2afdec92d530270d62731c",
+      "originalBytes": 462340,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · middle unit",
+      "area": "146.8–190.6 m² published family GSA range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/modon/tara-park/plan-page-5-5bded2fa1995.webp",
+      "sha256": "5bded2fa199539153eb30c0e84993a21862dda4b1244d5c5bbd8c6ad7c10bc9a",
+      "originalBytes": 486452,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Original Reem Island regional map",
+      "area": "Vicinity context, no apartment total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/modon/tara-park/plan-brochure-page-7-5b2f02883070.webp",
+      "sha256": "5b2f02883070a27ee5b39f5941eb4f24266077ecd3ab4e4d559afe2140edd783",
+      "originalBytes": 372984,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.madena.ae/api/assets/documents/projects/tara-park/brochure/e83b3ded2d658a89.pdf",
+        "label": "Tara Park · original complete phase-one Modon brochure, Madena broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/modon/tara-park/floor-plans-brochure-e83b3ded2d65.pdf",
+        "sha256": "e83b3ded2d658a891f58eef8dbce73c8b25ba364495d7a36c081121850667240"
+      }
+    },
+    {
+      "label": "Original Tara Park site and amenity plan",
+      "area": "Published site concept, no apartment total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/modon/tara-park/plan-brochure-page-12-de9abd7018e4.webp",
+      "sha256": "de9abd7018e44e322e5bda548da10b7b39c2430c6e0e464c232e547db1515d8c",
+      "originalBytes": 4400706,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.madena.ae/api/assets/documents/projects/tara-park/brochure/e83b3ded2d658a89.pdf",
+        "label": "Tara Park · original complete phase-one Modon brochure, Madena broker mirror",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/modon/tara-park/floor-plans-brochure-e83b3ded2d65.pdf",
+        "sha256": "e83b3ded2d658a891f58eef8dbce73c8b25ba364495d7a36c081121850667240"
+      }
+    }
+  ]
+}

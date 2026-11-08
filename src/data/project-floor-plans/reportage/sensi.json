@@ -1,0 +1,251 @@
+{
+  "projectId": "reportage-project-06",
+  "projectSlug": "sensi",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_FLOORPLANS_V1-2-1.pdf",
+    "label": "Reportage · original Sensi residence and building plans",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/sensi/floor-plans-66c0e8504a2b.pdf",
+    "sha256": "66c0e8504a2bb8d3039a09b6e8d6e3841fee3ada9889588d8ed5df71e581b112"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the residences, townhouse levels and original building floors.",
+  "selectorLabel": "Choose a residence, building floor or regional sheet",
+  "note": "Printed totals include outdoor space and retain source discrepancies. The 2BR B total is 1,102.77 sq ft against 1,102.47 sq ft in components. The 3BR B total is 1,571 against 1,571.38, and 3BR F is 2,046.15 against 2,046.12. Other schedules differ by 0.01 sq ft. The 3BR F entrance arrow says 1BR. All townhouse levels, roof and pool remain together. Confirm the selected unit, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "2 BR · A",
+      "area": "1,342.57 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/sensi/plan-page-4-0ae27c43c9f2.webp",
+      "sha256": "0ae27c43c9f23967c8269820b4ed4ca2ae42db7f543b550b81ded3996c159e2f",
+      "originalBytes": 67020,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "2 BR · B",
+      "area": "1,102.77 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/sensi/plan-page-5-bc321614b387.webp",
+      "sha256": "bc321614b387edb435877f394c97d12cd91aac9ad0ce46628b9fc22e5d18c1ba",
+      "originalBytes": 74698,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · A",
+      "area": "1,421.14 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/sensi/plan-page-6-0e3767378c63.webp",
+      "sha256": "0e3767378c63bc43e0c01fd185445ec75186cdfbfedc1564f47bde53271d3810",
+      "originalBytes": 79194,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · B",
+      "area": "1,571 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/sensi/plan-page-7-eba89a4ad29f.webp",
+      "sha256": "eba89a4ad29fc91cb53d3ebe85c9e1b4b3ab1d0c1c7e0b010ed950f3bdb25eb0",
+      "originalBytes": 98978,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · C",
+      "area": "1,759.10 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/sensi/plan-page-8-afe4127f73a5.webp",
+      "sha256": "afe4127f73a5b7de9ba02392a183368eb792e26a2d9f3a18fa3a2fce37e9a842",
+      "originalBytes": 101942,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · D",
+      "area": "1,358.18 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/sensi/plan-page-9-f766d31e5ff8.webp",
+      "sha256": "f766d31e5ff800fb1072676a2f2619f9af7085ea74b2e27e7c0b188c65db6c9d",
+      "originalBytes": 67806,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · E",
+      "area": "2,437.40 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/sensi/plan-page-10-13dd0e82e1fc.webp",
+      "sha256": "13dd0e82e1fc6138b284030d7502bcfaccb7389a2b8e5fe82ae343a6500621c4",
+      "originalBytes": 62668,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · F",
+      "area": "2,046.15 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/sensi/plan-page-11-179a9754db44.webp",
+      "sha256": "179a9754db446e8f63955d3a8cc6510f3ea30880b94d312322142e6fc0dfd292",
+      "originalBytes": 79390,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "3 BR · G",
+      "area": "4,557.38 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/sensi/plan-page-12-2ddcd384d74a.webp",
+      "sha256": "2ddcd384d74a4b349e8c5a6471a488a063a6704ffbbbc49f594a64aa84b1e3a9",
+      "originalBytes": 60516,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "4 BR townhouse · all levels",
+      "area": "4,232.98 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/sensi/plan-page-13-29a4915e5f04.webp",
+      "sha256": "29a4915e5f040ac8200a7babcef57b9447564574ab00884db07a98e3388fd5c1",
+      "originalBytes": 64590,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/reportage/sensi/plan-page-16-9f291a71f1ab.webp",
+      "sha256": "9f291a71f1ab602e6ce02f24b36b09f93076e8b788277936530e03cb779bdde8",
+      "originalBytes": 251192,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Floors 1–2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/sensi/plan-page-17-75fd88a2cd48.webp",
+      "sha256": "75fd88a2cd48c53c8b6d5db9531cf3199e2c61aaedf7cfb0ab876cca5cf17cf0",
+      "originalBytes": 228272,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Floor 3",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/sensi/plan-page-18-bd4f58393a31.webp",
+      "sha256": "bd4f58393a31a1db4a69e5f7bbecee1fb3203aab67602e7e590cab189fbd23b2",
+      "originalBytes": 219556,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Floor 4",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/sensi/plan-page-19-468674de0403.webp",
+      "sha256": "468674de040336a132d9baa38c941ec517186e798ccc46620993615dd277810e",
+      "originalBytes": 181736,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Floor 5",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/sensi/plan-page-20-844e60b31ce8.webp",
+      "sha256": "844e60b31ce85f7b97eaac4046a0266fbd6fb1b68f80531239413c7bbceb7871",
+      "originalBytes": 143248,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Floors 6–7",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/sensi/plan-page-21-8a5354ad98d8.webp",
+      "sha256": "8a5354ad98d8bf2ebb9b7c814ac4db9c0581fd72f57c6e8c5b069ac277f69d25",
+      "originalBytes": 128842,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/sensi/plan-brochure-page-11-fea71611a6d1.webp",
+      "sha256": "fea71611a6d1386da34ef4070ffcf415e6e4d8376c2288eda1ecf5f29d9e7281",
+      "originalBytes": 2279914,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/UAE_SENSI_BROCHURE_EN_V1-1.pdf",
+        "label": "Sensi · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/sensi/floor-plans-brochure-a256e417a466.pdf",
+        "sha256": "a256e417a466a64919e8be2ab94caa03db878072864aeba7368a05014fba0091"
+      }
+    }
+  ]
+}

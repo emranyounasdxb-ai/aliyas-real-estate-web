@@ -1,0 +1,153 @@
+{
+  "projectId": "emaar-project-50",
+  "projectSlug": "equestra",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/EQUESTRA-EQUITERRA_floorplan.pdf",
+    "label": "Emaar: Equestra original full floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/equestra/floor-plans-73619c8c3144.pdf",
+    "sha256": "73619c8c31447231807764379cd37c1625fc18f207087315fd6022c25b233d7b"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare three- and four-bedroom townhouse layouts in Styles A and C with the five-bedroom Styles E and F. Complete sheets keep both townhouse levels or all three five-bedroom levels together, with original area tables, highlighted row positions, key plans and notices.",
+  "selectorLabel": "Choose an Equestra style and layout",
+  "note": "Total area includes suite, garage and balcony/terrace space; it is not plot size or internal-only area. Both four-bedroom Style A sheets print 2,460.19 sq ft, while 1,985.64 + 377.49 + 96.76 sums to 2,459.89 sq ft. Confirm the signed unit drawing. Four-, six- and eight-home row positions stay visible; Equiterra and Equiterra 2 remain separate records.",
+  "plans": [
+    {
+      "label": "5 bedrooms · Style E",
+      "area": "5,039.77 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/equestra/plan-page-3-080ce7f0aacc.webp",
+      "sha256": "080ce7f0aacc5b7f5caacc79e07fd72e60eb74c9c2feca2911001979bbfac484",
+      "originalBytes": 644624,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "5 bedrooms · Style F",
+      "area": "5,055.38 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/equestra/plan-page-5-794a1f3634b1.webp",
+      "sha256": "794a1f3634b11539f73af1c4832a4f8c137139ee08742ab04defdd71d26ac605",
+      "originalBytes": 659362,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 bedrooms · Style A · Left end",
+      "area": "2,460.19 sq ft total area · printed total; see note",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/equestra/plan-page-7-606c63af6991.webp",
+      "sha256": "606c63af69916d154a1c0bf4dd3d5c4cfe282db297923e62a2f5ef21c5f64115",
+      "originalBytes": 701230,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 bedrooms · Style A · Layout 1",
+      "area": "2,180.24 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/equestra/plan-page-8-7b7d72920302.webp",
+      "sha256": "7b7d7292030227711b46ba8bcf4b604907e465cedf8d127f6b93525e07b5890b",
+      "originalBytes": 454842,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 bedrooms · Style A · Layout 2",
+      "area": "2,180.24 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/equestra/plan-page-9-d5af143fac1b.webp",
+      "sha256": "d5af143fac1b33459f0f89c0937fdf8491cd83d4505ae392f0ae6de9e8b87d26",
+      "originalBytes": 455088,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 bedrooms · Style A · Right end",
+      "area": "2,460.19 sq ft total area · printed total; see note",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/equestra/plan-page-10-d7d9ff6b376c.webp",
+      "sha256": "d7d9ff6b376c4f15e51ff83f93791ed139bb476ae3cf18c0f657692769c4c5d6",
+      "originalBytes": 700442,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 bedrooms · Style C · Left end",
+      "area": "2,482.70 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/equestra/plan-page-12-46f648d3f9fd.webp",
+      "sha256": "46f648d3f9fd06344166f82bed0fe202320e3cbd05ee209781bdef4854d9e054",
+      "originalBytes": 702250,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 bedrooms · Style C · Layout 1",
+      "area": "2,171.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/equestra/plan-page-13-83e43e98d71b.webp",
+      "sha256": "83e43e98d71baf5a61c278e07e1c63daf15efdd01ded8e8455c2b1150279f11d",
+      "originalBytes": 452706,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 bedrooms · Style C · Layout 2",
+      "area": "2,171.08 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/equestra/plan-page-14-17915858bf74.webp",
+      "sha256": "17915858bf74e79fef0992da7ed75146686208e29539daedd8bdd31181eb61bc",
+      "originalBytes": 454114,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "4 bedrooms · Style C · Right end",
+      "area": "2,482.70 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/equestra/plan-page-15-d28a33e2d5b0.webp",
+      "sha256": "d28a33e2d5b0817f3b49f125bf03d559e0ec001e5400f31564245dfec834140e",
+      "originalBytes": 704688,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# SAMANA Business Hub enhancement — verified 7 November 2026
+
+Protected identity: samana / samana-project-06 / samana-business-hub. 18 source images and 57 complete commercial plan sheets.
+
+imagery: Eighteen distinct project renders were visually reviewed. Sixteen native brochure scenes cover the commercial tower, office interior, meetings, arrival, gardens, podcast, boardroom, gym, spa, cafes and pool. Two additional current-gallery scenes show a conference room and gym. The horizontal tower view supplies the card and hero. Decorative backgrounds, generic people/city photographs and duplicate gallery scenes are excluded. Proposed equipment and fitout require confirmation. No dated construction photographs or card badges.
+
+floorPlans: The 57 complete sheets cover 16 retail units, ten first-floor office layouts, 18 upper-office types and 13 floorplates. Displayed areas use printed totals, including balconies where listed. Upper-type ranges span the particular floors shown. Component rounding and range differences remain in the source. Confirm the exact commercial unit and approved fitout. All 44 numerical source panels were visually reviewed at readable resolution, including all totals and floor-specific ranges. Sixteen retail totals, ten first-office-floor totals and 18 upper-office range summaries were transcribed from the visible panels. The 13 complete floorplates retain their particular floor, retail, parking, amenity, mechanical and prayer scope. Original sheets remain whole, with position keys and notices. Retail/office layouts are not labelled as residences. Numeric bounds are not added as independent component endpoints.
+
+location: The complete original brochure page 18 was visually reviewed. It gives 10/12/15-minute groups for six destinations. Source variation against brochure page 15 and the current primary page remains explicit. The primary q coordinate 24.97509467541225, 55.09138226239464 is recorded with source hash and six-place conversion. Plot 34 / municipality 518-0203 retains the exact primary microsite address. Map rings are not converted into distances.
+
+provenance: Fresh primary/microsite HTML, original developer brochure and official 66-page plan/fact documents retain retrieval receipts, bytes and SHA-256 values. Native original image resources, complete drawing notices and individual physical-page links are preserved. Protected identity, commercial designation, completed text research and commercial/source conflicts are unchanged.
+
+Unavailable or restricted scope: A verified visitor entrance, dated construction photographs, current unit inventory, final equipment and the applicable contractual commercial fitout were not established. Published travel and commercial-source differences remain qualified.
+
+Sources:
+- https://www.samanadevelopers.com/projects/samana-business-hub
+- https://www.samanadevelopers.com/storage/projects-files/2026/07/03/12/52/d7628dc53a51eb4199417769e7d781d7.pdf#page=18
+- https://samana-projects.samanadevelopers.com/storage/projects/files/floor-plans/2026/08/19/17/45/6a85b37ed0276.pdf
+
+Selection: docs/project-page-enhancement-selections/samana/samana-business-hub.json. Source/owner/hash validation: 1245 owner-validated manifests, 15488 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. All other canonical text and protected identities match the original researched snapshot.. Optimized build d_USsJqm0EeyqwgrcWftI / PID63404. Own browser case passed in passing batch (2.0m) (artifacts/project-page-enhancement/batch-205-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

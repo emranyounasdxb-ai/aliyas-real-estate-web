@@ -1,0 +1,292 @@
+{
+  "projectId": "reportage-project-22",
+  "projectSlug": "royal-park",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/ROYAL-PARK-BROCHURE-DIGITAL-ARTWORK-2.pdf",
+    "label": "Royal Park · original brochure and home plans",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/royal-park/floor-plans-425ad2658194.pdf",
+    "sha256": "425ad2658194d57502711877fdb06dee2a372375c14199ddc2496f378067ad7c"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore complete apartments, penthouses and townhouse levels across the clusters.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Twenty-two types retain eleven whole paired pages, followed by five complete building plates. Areas include outdoor space. Several printed totals differ from component sums, including 1 BR C and 4 BR E. The latter prints 1,406.73–2,151.17 sq ft, while component endpoints sum to 1,327.19–2,271.51. Range endpoints can describe different homes. Confirm the cluster, home and contractual measurements.",
+  "plans": [
+    {
+      "label": "Junior 1 BR A / 1 BR A",
+      "area": "Junior 482.65–636.58 / 1 BR 567.69–945.61 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/royal-park/plan-page-23-f53f54b8b5f8.webp",
+      "sha256": "f53f54b8b5f87485043584ec05d0fd2233b65d27ce6a6d70b3310b6ef6f87fc0",
+      "originalBytes": 110664,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "1 BR B / C",
+      "area": "B 672.21–737.97 / C 584.59–942.38 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/royal-park/plan-page-24-4fad905170e2.webp",
+      "sha256": "4fad905170e25e11a789d37af64f96fccb4d9e8ff57024f5b1ed5197f9936ed7",
+      "originalBytes": 108198,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "2 BR A / B",
+      "area": "A 891.58–1,269.60 / B 1,016.22 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/royal-park/plan-page-25-65b1479a6257.webp",
+      "sha256": "65b1479a6257f0d78f5bde941204a37b641a394b1864951cac354d348458deab",
+      "originalBytes": 125940,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "2 BR C / D",
+      "area": "C 932.48 / D 839.80–1,390.91 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/royal-park/plan-page-26-c4d6f8ba35c6.webp",
+      "sha256": "c4d6f8ba35c6d7a718639267e57fe27f6e3bcdad3ec332b87e87e925554fdd21",
+      "originalBytes": 129562,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "2 BR E / 4 BR A",
+      "area": "2 BR 909.76–1,082.85 / 4 BR 1,409.11–2,202.30 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/reportage/royal-park/plan-page-27-ed888900b092.webp",
+      "sha256": "ed888900b092050c02f932343a3335f221859341d57e942e26eb1614f09cbeb5",
+      "originalBytes": 125098,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR B / C",
+      "area": "B 1,381.01–2,153.21 / C 1,758.82 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/reportage/royal-park/plan-page-28-0cc76f71a4a2.webp",
+      "sha256": "0cc76f71a4a29ef4f9a078d83582f0413125ac3ee7e2dc71f2666b6c00439250",
+      "originalBytes": 147264,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR D / E",
+      "area": "D 1,662.16 / E 1,406.73–2,151.17 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/reportage/royal-park/plan-page-29-9a2181d46bf5.webp",
+      "sha256": "9a2181d46bf52d2e4a8c23f12d938267b1dad44092875bac4aa8953442acaa4d",
+      "originalBytes": 138822,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR penthouse A / B · both levels",
+      "area": "A 1,953.88–3,933.26 / B 2,022.86–4,044.65 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/reportage/royal-park/plan-page-30-c82e5ddf63b8.webp",
+      "sha256": "c82e5ddf63b81e75e9b53e8f1d7de6d27d81d0b776ba16bfa27f21b118457375",
+      "originalBytes": 149712,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR penthouse C / D · both levels",
+      "area": "C 1,756.34–2,082.12 / D 2,852.43 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/reportage/royal-park/plan-page-31-5dd387c27b6b.webp",
+      "sha256": "5dd387c27b6bb01268a95bb325a85fa8cd221d4b170eef49adcd58f27094f034",
+      "originalBytes": 136722,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR penthouse E / F · both levels",
+      "area": "E 2,512.94 / F 2,297.02 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/reportage/royal-park/plan-page-32-8caaa8e2c3e7.webp",
+      "sha256": "8caaa8e2c3e7a0c9ec0185c8d2b74bf791761378e2038760e3cc1735e99d349f",
+      "originalBytes": 148446,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "4 BR penthouse G / townhouse · all levels",
+      "area": "Penthouse 2,054.09–2,121.98 / townhouse 2,313.38–3,498.16 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/reportage/royal-park/plan-page-33-eb14f0524d74.webp",
+      "sha256": "eb14f0524d747b09bbf432d72376ab9a678d708372cbd920879b6fbc71b5bd8d",
+      "originalBytes": 154936,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "Ground floor · all clusters",
+      "area": "Building floorplates",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/royal-park/plan-plans-page-4-f4287df262da.webp",
+      "sha256": "f4287df262da6c3e527d6800d48bc2ddf6b2b2c96fb67cd9efe49e8a26f3ea94",
+      "originalBytes": 669382,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Royal-Park-FLOOR-PLANS.pdf",
+        "label": "Royal Park · building floor plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/royal-park/floor-plans-plans-f0d2954046ec.pdf",
+        "sha256": "f0d2954046ecc2484306e47380d2a75e0c1b0eb153e68089c296036daf3cbba0"
+      }
+    },
+    {
+      "label": "First floor · all clusters",
+      "area": "Building floorplates",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/royal-park/plan-plans-page-5-5f650e592e06.webp",
+      "sha256": "5f650e592e066ad10bcfb7ef31133d8a4cca889d7bcc0c07b2f2cd493c93332a",
+      "originalBytes": 237078,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Royal-Park-FLOOR-PLANS.pdf",
+        "label": "Royal Park · building floor plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/royal-park/floor-plans-plans-f0d2954046ec.pdf",
+        "sha256": "f0d2954046ecc2484306e47380d2a75e0c1b0eb153e68089c296036daf3cbba0"
+      }
+    },
+    {
+      "label": "Floors 2–6 · all clusters",
+      "area": "Building floorplates",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/royal-park/plan-plans-page-6-0ea15cd6e38a.webp",
+      "sha256": "0ea15cd6e38ab787fdbb3be42425258a005864574cd43f95a0054b856079e05a",
+      "originalBytes": 266608,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Royal-Park-FLOOR-PLANS.pdf",
+        "label": "Royal Park · building floor plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/royal-park/floor-plans-plans-f0d2954046ec.pdf",
+        "sha256": "f0d2954046ecc2484306e47380d2a75e0c1b0eb153e68089c296036daf3cbba0"
+      }
+    },
+    {
+      "label": "Seventh floor · all clusters",
+      "area": "Building floorplates",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/royal-park/plan-plans-page-7-6c403864bec8.webp",
+      "sha256": "6c403864bec8ec3b4f5d0782d0a834f83c0bdb395cf3d0f56e27acf452f348b0",
+      "originalBytes": 138448,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Royal-Park-FLOOR-PLANS.pdf",
+        "label": "Royal Park · building floor plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/royal-park/floor-plans-plans-f0d2954046ec.pdf",
+        "sha256": "f0d2954046ecc2484306e47380d2a75e0c1b0eb153e68089c296036daf3cbba0"
+      }
+    },
+    {
+      "label": "Eighth floor · all clusters",
+      "area": "Building floorplates",
+      "sourceIds": [
+        "plans-plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/royal-park/plan-plans-page-8-6a83973fe31b.webp",
+      "sha256": "6a83973fe31bc3a88a48c595888553e813c7d02fee20e8a2a87048e6ce395a16",
+      "originalBytes": 102962,
+      "width": 3600,
+      "height": 2546,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Royal-Park-FLOOR-PLANS.pdf",
+        "label": "Royal Park · building floor plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/royal-park/floor-plans-plans-f0d2954046ec.pdf",
+        "sha256": "f0d2954046ecc2484306e47380d2a75e0c1b0eb153e68089c296036daf3cbba0"
+      }
+    },
+    {
+      "label": "Original cluster master diagram",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/royal-park/plan-page-21-a789206974fe.webp",
+      "sha256": "a789206974feb5ea8d2c7af973577ddfe364a4980e14f5a3e6a8ed10a3fc7337",
+      "originalBytes": 2231750,
+      "width": 3600,
+      "height": 1273
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/royal-park/plan-page-4-c854a81f2fbc.webp",
+      "sha256": "c854a81f2fbc30d9191bc54c27317195de00b8222f2a2d9af71e0f0b04b90a99",
+      "originalBytes": 279764,
+      "width": 3600,
+      "height": 1273
+    }
+  ]
+}

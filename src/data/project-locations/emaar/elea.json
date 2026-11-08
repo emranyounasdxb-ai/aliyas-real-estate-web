@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-16",
+  "projectSlug": "elea",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "The Valley",
+  "road": "",
+  "pin": {
+    "latitude": 25.005951,
+    "longitude": 55.462341,
+    "sourceUrl": "https://www.emaar.com/en/properties/elea-at-the-valley",
+    "scope": "Official Elea reference point. Individual townhouse plots and entrances differ; confirm access before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/elea/location-c63026addb1d.jpg",
+    "sha256": "c63026addb1ddeb7588f2e4c441546ef8dd11bc44e87d01ba30f6b8897f6539f",
+    "originalBytes": 267018,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_3bf197e315.jpg",
+    "alt": "Emaar regional context diagram showing The Valley among Dubai communities",
+    "scope": "Regional community diagram, not to scale or an individual plot map; future transport shown is not confirmed operational service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/KAIA_ELEA_TV_BROCHURE.pdf",
+    "page": 5,
+    "scope": "Community drive estimates in the shared Kaia, Elea and Elva brochure, visually checked; not live routes or guaranteed journey times.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 25
+      }
+    ]
+  }
+}

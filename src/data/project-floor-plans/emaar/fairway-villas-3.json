@@ -1,0 +1,75 @@
+{
+  "projectId": "emaar-project-71",
+  "projectSlug": "fairway-villas-3",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Fairway-Villas-III_floorplan.pdf",
+    "label": "Emaar Fairway Villas 3 original floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/fairway-villas-3/floor-plans-4098565a2670.pdf",
+    "sha256": "4098565a26702bb1cb4e1d5de4e0cdc11eca3c4972648a5915502d989d0cfa9c"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare four-bedroom semi-detached and five-bedroom standalone villas, with mirrored versions of both. The complete sheets show ground, first and second floors.",
+  "selectorLabel": "Choose a Fairway Villas 3 layout",
+  "note": "The displayed total combines suite, garage and balcony areas. The source gives separate plot sizes. Confirm the plot and signed layout for your villa.",
+  "plans": [
+    {
+      "label": "4 BR villa",
+      "area": "4,036.25 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/fairway-villas-3/plan-page-2-d2879409fd51.webp",
+      "sha256": "d2879409fd51a0f25f8d25d8e78e23bba56601ccdf20e60c9beea1ae15e7a6a2",
+      "originalBytes": 1157870,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "4 BR villa · Mirrored",
+      "area": "4,036.25 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/fairway-villas-3/plan-page-3-b8a9ddf19e2c.webp",
+      "sha256": "b8a9ddf19e2ceab7f773f4845ed0afc2985c952b733caa21fca82c9531f832ea",
+      "originalBytes": 1160484,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "5 BR villa",
+      "area": "4,773.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/fairway-villas-3/plan-page-4-8f90694ab667.webp",
+      "sha256": "8f90694ab667d468f6d4821ad7baeb0d572f91a3fcb1a3dd77c39bac0d63b924",
+      "originalBytes": 1148936,
+      "width": 2400,
+      "height": 1696
+    },
+    {
+      "label": "5 BR villa · Mirrored",
+      "area": "4,773.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/fairway-villas-3/plan-page-5-651b1ef9088e.webp",
+      "sha256": "651b1ef9088e840f9f4ae36f680a27549e99a8f4c66311c0ac0aefe8060f50bd",
+      "originalBytes": 1150518,
+      "width": 2400,
+      "height": 1696
+    }
+  ]
+}

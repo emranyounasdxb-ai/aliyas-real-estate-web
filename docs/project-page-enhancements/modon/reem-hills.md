@@ -1,0 +1,30 @@
+# Reem Hills enhancement — verified 8 November 2026
+
+Protected identity: modon / modon-project-10 / reem-hills. 69 source images and 93 complete original drawing sheets.
+
+imagery: Root reviewed all64 original-villa pages,76 new-phase pages,10 apartment-guide pages,25 apartment family sheets,13 additional whole Makany/Maskan images and25 current website candidates. Selected69 genuine project-specific images comprise the scoped current show-villa photograph, eight current concepts, sixteen original-villa resources, thirty-six new-phase resources and eight apartment-edition resources. Native PDF resources preserve original bytes or documented lossless JPX pixel derivatives. White masks, icons, logo, decorative material, generic family/lifestyle photographs, stock aerial beach and repeated compositions were excluded. Shared community concepts do not establish completion or individual ownership. Listing uses the actual current developer show-villa photograph, whose finishes and private pool do not establish every home specification.
+
+floorPlans: Root read all93 delivered complete source sheets. Two official legacy examples, twenty original-villa levels, six original plot keys, fourteen new-phase levels, twenty-five Manzel/Majlis/Aman family sheets, thirteen Makany/Maskan original JPEGs and thirteen regional/master/amenity/range sheets retain complete notices and content. Enlarged area panels were checked. Six original whole-villa totals19153/17435/14382/13108/11119/10487ft² remain edition-specific. New-phase totals17435/13108/10487/6036/3887/2377/2377ft² are whole homes. Legacy SM2378 differs from new RM/RC2377, and twin plot bases3705/3251 differ. Manzel/Majlis A31286 differs from Makany1230. Three-bedroom A2574 differs from Makany2570. Duplex family/garden quantities differ across editions. Source internal headings such as 7 BM-FIRST FLOOR on some5/6-bedroom ground sheets are retained, with actual type panels governing selectors. No floors multiplied, no plotted land added to sellable area, no staff/study room promoted to bedroom. Ten exact complete PDFs and thirteen original published plan images remain available. The Lavish full Makany brochure returned404 again, so no fabricated PDF or physical-page link was made for those image sources.
+
+location: Root read original villa regional/master sheets, all seven new-phase regional/neighbourhood/zoning sheets and apartment regional/facility/range sheets. The complete new-phase physical4 map supplies twenty explicitly read distance/time pairs. Earlier sources differ, including original villa Saadiyat16minutes versus apartment-guide20 versus new-phase23. These were not silently harmonised. A generic Modon Hudayriyat sales-centre address is geographically separate from Reem Hills on Al Reem Island. No selected-home pin, current driving route, completion certificate or operational status was inferred.
+
+provenance: Normal-GET dated receipts preserve official current HTML and image originals, official legacy PDFs, honestly labeled portal/broker-hosted Q Properties documents and observed public Makany image URLs with original byte counts and SHA256. Root visually inspected every delivered whole sheet, selected resource and numerical panel. Full PDFs and complete original published JPEGs remain intact. Existing575 protected text records, ownership, aliases, commercial qualifiers and source conflicts remain unchanged.
+
+Unavailable or restricted scope: Exact contracted phase/building/villa, current revision, measured area and garden basis, selected-home finishes and facility entitlements, full Makany/Maskan PDF, surveyed entrance coordinates and live routes remain unverified.
+
+Sources:
+- https://www.modon.com/real-estate/reem-hills
+- https://emirateselevateproperties.com/wp-content/uploads/2023/02/Reem-Hills-New-Phase_-2023-1.pdf#page=4
+- https://www.modon.com/docs/modoncorporatelibraries/reem-hills-floor-plans/3bedrooms.pdf?sfvrsn=7d6b7186_2
+- https://www.modon.com/docs/modoncorporatelibraries/reem-hills-floor-plans/4bedrooms.pdf?sfvrsn=9b427e3d_0
+- https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-00b37920.pdf
+- https://emirateselevateproperties.com/wp-content/uploads/2023/02/Reem-Hills-New-Phase_-2023-1.pdf
+- https://pf-ae-documents.s3.ap-southeast-1.amazonaws.com/new-project/brochure-eb161a64.pdf
+- https://goldendomeproperties.ae/interactive/catalogue-media/reem-hills-apartments-phase-2/reem-hills-apartments-phase-2-individual-home-designs-1.pdf
+- https://goldendomeproperties.ae/interactive/catalogue-media/reem-hills-apartments-phase-2/reem-hills-apartments-phase-2-individual-home-designs-2.pdf
+- https://goldendomeproperties.ae/interactive/catalogue-media/reem-hills-apartments-phase-2/reem-hills-apartments-phase-2-individual-home-designs-3.pdf
+- https://goldendomeproperties.ae/interactive/catalogue-media/reem-hills-apartments-phase-2/reem-hills-apartments-phase-2-individual-home-designs-4.pdf
+- https://goldendomeproperties.ae/interactive/catalogue-media/reem-hills-apartments-phase-2/reem-hills-apartments-phase-2-individual-home-designs-5.pdf
+- https://reem-hills.mcpuae.com/
+
+Selection: docs/project-page-enhancement-selections/modon/reem-hills.json. Source/owner/hash validation: 1562 owner-validated manifests, 21148 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. Other canonical text and protected identities match the researched snapshot.. Optimized build Z4seUKVpGoSlVtNG9n1rG / PID61524. Own browser case passed in passing batch (4.4m) (artifacts/project-page-enhancement/batch-250-browser.log). All selectable sheets/areas/physical-page links, original PDF and keyboard full-size zoom/Escape/focus passed. Five widths/light-dark/reduced motion, four accessibility scans, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

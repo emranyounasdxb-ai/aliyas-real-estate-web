@@ -1,0 +1,75 @@
+{
+  "projectId": "emaar-project-33",
+  "projectSlug": "chevalia-estate",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/CHEVALIA-ESTATES_floorplan.pdf",
+    "label": "Emaar: Chevalia Estate floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/chevalia-estate/floor-plans-f82e52b589c9.pdf",
+    "sha256": "f82e52b589c93821917ccb817f4b5aecf049bee06dbe912781cac2905f33cc2f"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the four published five-bedroom villa sheets. Each complete sheet includes all three floors, its area table and the developer key plan.",
+  "selectorLabel": "Choose a Chevalia Estate villa layout",
+  "note": "Published totals include suite, balcony and carport; they are not plot areas. Drawn landscaping, pools and furnishings do not establish sale inclusions. Confirm the selected villa and final specifications.",
+  "plans": [
+    {
+      "label": "5 bedrooms · A Type 1",
+      "area": "8,615.11 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/chevalia-estate/plan-page-2-a2cb21bf4a4c.webp",
+      "sha256": "a2cb21bf4a4c80483013cffb990a0ee9b03df863835e4dfe4179b16c0c730e90",
+      "originalBytes": 1176402,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · A Type 2",
+      "area": "8,606.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/chevalia-estate/plan-page-3-01d242c4afca.webp",
+      "sha256": "01d242c4afca126a1e8c8c61040547995def9521ea5ec38887af1ec88982849a",
+      "originalBytes": 1175962,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · B Type 1",
+      "area": "4,932.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/chevalia-estate/plan-page-4-5089e9fa1340.webp",
+      "sha256": "5089e9fa13403306f1155e1900f957f40748991ac50ccf2e070a49feef95edcc",
+      "originalBytes": 646492,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "5 bedrooms · B Type 2",
+      "area": "5,153.87 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/chevalia-estate/plan-page-5-920415be0fc8.webp",
+      "sha256": "920415be0fc8f4209d9581b048244f31948dde2a4a884aa45bd71440d4f3b43a",
+      "originalBytes": 622604,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

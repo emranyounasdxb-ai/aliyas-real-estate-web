@@ -1,0 +1,140 @@
+{
+  "projectId": "aldar-project-27",
+  "projectSlug": "nouran-living",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/nouran-living/floor-plans/a6b5e78ffe27ed32.pdf",
+    "label": "Aldar Nouran Living plan set · Madena-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/nouran-living/floor-plans-a6b5e78ffe27.pdf",
+    "sha256": "a6b5e78ffe27ed32b67525916dfa6b49f7d88f779b22d795f84ce721795715cc"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare a studio, five one-bedroom variants, four two-bedroom variants and the three-bedroom layout. Two sheets each show a pair of one-bedroom plans.",
+  "selectorLabel": "Choose a Nouran Living floor plan",
+  "note": "Each area comes from its original plan sheet. Confirm the measurement basis and signed area for the selected apartment. Building floorplates are included in the linked PDF.",
+  "plans": [
+    {
+      "label": "Studio · No balcony",
+      "area": "30 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/aldar/nouran-living/plan-page-15-e27f1280cee7.webp",
+      "sha256": "e27f1280cee7dffb1c01842cc91b445f2d031aeaca7835cba99e46be5aab0066",
+      "originalBytes": 197408,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR · Types A and B",
+      "area": "Type A 78 m² · Type B 77 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/aldar/nouran-living/plan-page-16-7ddc4bca4fc2.webp",
+      "sha256": "7ddc4bca4fc28f5930496121832de4a57a16456176721e1ccb511b73af5f9acc",
+      "originalBytes": 669244,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR · Types C and D",
+      "area": "Type C 76 m² · Type D 71 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/aldar/nouran-living/plan-page-17-007b37f9b1ec.webp",
+      "sha256": "007b37f9b1ec1744cbe2e9bb2b4172d2d2cf96d32d6a4f0a5f9d9d39ce4f95ab",
+      "originalBytes": 627918,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "1 BR · Type E",
+      "area": "70 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/aldar/nouran-living/plan-page-18-d6f4fc99bb7f.webp",
+      "sha256": "d6f4fc99bb7f59f35fdcdbce1601d0df9735b1a349343db98a029b4a0669af03",
+      "originalBytes": 316056,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR · Type 1",
+      "area": "109 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/aldar/nouran-living/plan-page-19-e6bdd09d6d97.webp",
+      "sha256": "e6bdd09d6d97a6ba81dafc8cab6219fad96cf5ce5329f6aede4889a56fec4240",
+      "originalBytes": 425830,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid · Type 2",
+      "area": "143 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/aldar/nouran-living/plan-page-20-f338526e1188.webp",
+      "sha256": "f338526e1188f5cf95149cb299ad9c7e9b80b0857018c49b897ad6dcb110bc98",
+      "originalBytes": 512024,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR · Type 3",
+      "area": "112 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/aldar/nouran-living/plan-page-21-e15b0c91d0ab.webp",
+      "sha256": "e15b0c91d0ab0bfb768bd3ffd0b21ce6046edfd52a25140ad17093037bec89f4",
+      "originalBytes": 455730,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid · Type 4",
+      "area": "143 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/aldar/nouran-living/plan-page-22-3123dff2bc77.webp",
+      "sha256": "3123dff2bc773cf3db76c933d03e5517643d161d67c6ebc63218902bcfd202a6",
+      "originalBytes": 528188,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + maid and study",
+      "area": "204 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/aldar/nouran-living/plan-page-23-30f0c5dbc30e.webp",
+      "sha256": "30f0c5dbc30e1221cd59fac0cf8c87aa2398d9a5b2204c57c2ae86165790be7f",
+      "originalBytes": 600160,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

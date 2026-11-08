@@ -1,0 +1,408 @@
+{
+  "projectId": "reportage-project-23",
+  "projectSlug": "diva",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/DIVA-FLOOR-PLANS.pdf",
+    "label": "Diva · original WeBridge complete unit drawings hosted by Reportage",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/diva/floor-plans-ff2772650bb6.pdf",
+    "sha256": "ff2772650bb624655ead94a096e71b6bc2cd934053a469d2887f7e311dc90de6"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore complete studios, apartments and duplex levels in the original tower drawings.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Twenty-five original WeBridge unit sheets are hosted by Reportage. Both final sheets print 3 BR C and the same area, although one draws a balcony and the other a terrace pool. Their labels remain as published. Areas include outdoor space. Original concepts and current own-page imagery show different design editions. Confirm the tower, home, revision and contract.",
+  "plans": [
+    {
+      "label": "Studio A",
+      "area": "369.28 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/reportage/diva/plan-page-2-28ae1537b8fe.webp",
+      "sha256": "28ae1537b8fe643d6215918fb45a0c61f6692b2c3da0997643e94652f61791e6",
+      "originalBytes": 86410,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Studio B",
+      "area": "334.57 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/reportage/diva/plan-page-3-8a97144d19eb.webp",
+      "sha256": "8a97144d19eb810495f0bbb281d5d6c38703ddc6f3b927281e3f2822e24c6fa8",
+      "originalBytes": 87816,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Studio C",
+      "area": "351.19 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/diva/plan-page-4-a4493df63f1d.webp",
+      "sha256": "a4493df63f1d5cbdcb37782b492898eb715fd7055b19896e21ffb47146a03c1f",
+      "originalBytes": 90570,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Studio D · ground",
+      "area": "448.61 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/diva/plan-page-5-4f5d1330536a.webp",
+      "sha256": "4f5d1330536acc4dddf81746ddbda71aa75550579b1d66a6d653f98f2790a468",
+      "originalBytes": 91486,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Studio E",
+      "area": "361.72 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/diva/plan-page-6-4d6b7847155e.webp",
+      "sha256": "4d6b7847155e76504a66305645cdd260db3d679c360258c78515f0a3bd186c0f",
+      "originalBytes": 89354,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Junior 1 BR A",
+      "area": "524.23 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/diva/plan-page-7-b27bb91c466b.webp",
+      "sha256": "b27bb91c466b0674675e50e0c5c791f884de7a110544d678b7ee206f7f3e5818",
+      "originalBytes": 90304,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR A",
+      "area": "646.67 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/diva/plan-page-8-220ac8bd7cda.webp",
+      "sha256": "220ac8bd7cdabb5f96af0eff13a477a528a2e4314c1c93976eaea04cd8d0f1a7",
+      "originalBytes": 86640,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR B",
+      "area": "583.64 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/diva/plan-page-9-e31f54407093.webp",
+      "sha256": "e31f544070931c1a2bb4e66c4dab9c8d195e39380a30a9ca87095f0936262a93",
+      "originalBytes": 85762,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR C",
+      "area": "612.24 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/diva/plan-page-10-675867c55607.webp",
+      "sha256": "675867c55607c8a54154598882a2bc73ceb74b783c0e3e8b9d1546720ecaf99a",
+      "originalBytes": 86686,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR D · ground terrace",
+      "area": "1,135.92 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/diva/plan-page-11-15a7125223c9.webp",
+      "sha256": "15a7125223c9f960f777e26f0e3c50cff73222303a9d039f2399364c7302d7e2",
+      "originalBytes": 97704,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR E",
+      "area": "591.68 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/diva/plan-page-12-1f8eac35fd6b.webp",
+      "sha256": "1f8eac35fd6bb108d167dd74a6a7869740ba0779a78861b9591ac8f973e5d0a5",
+      "originalBytes": 83656,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "1 BR F",
+      "area": "697.15 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/diva/plan-page-13-7f5ce73558a9.webp",
+      "sha256": "7f5ce73558a9c84d99a8cf601ca08aa8c993cbd041c1891d0bf138b98da02510",
+      "originalBytes": 88186,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR A",
+      "area": "1,108.82 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/diva/plan-page-14-051919949152.webp",
+      "sha256": "0519199491527dccfe378c5efcd1df6c560c52310e9304499030e1c9f4020628",
+      "originalBytes": 99654,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR B",
+      "area": "894.11 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/diva/plan-page-15-7983541cce32.webp",
+      "sha256": "7983541cce3222bcd0c5c2940d2e7969213a36225eacbed81d5707ecc6bad46b",
+      "originalBytes": 95452,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR C",
+      "area": "765.72 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/reportage/diva/plan-page-16-46f1137ab2dc.webp",
+      "sha256": "46f1137ab2dc6ef6b530d77a4f264f2b8fea15f7a956424f89d08c719be72c18",
+      "originalBytes": 96674,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR D",
+      "area": "936.07 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/diva/plan-page-17-f5c4ed0b067e.webp",
+      "sha256": "f5c4ed0b067e00a84e16ff32e64373202ba2ca7ff5e764978c50cf8298d24cf0",
+      "originalBytes": 91560,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR E",
+      "area": "967.48 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/diva/plan-page-18-a875748ea23a.webp",
+      "sha256": "a875748ea23a8e88df348bd40a0f5b7717e5068146655dbb83fc95f483c67518",
+      "originalBytes": 95176,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR F",
+      "area": "961.01 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/diva/plan-page-19-ca6eec07fdb0.webp",
+      "sha256": "ca6eec07fdb06019000e6900f880ca45265153011edea35645e30dbe7b412304",
+      "originalBytes": 88722,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR G · ground terrace",
+      "area": "1,351.74 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/diva/plan-page-20-ef11356b69b8.webp",
+      "sha256": "ef11356b69b8e11bd93c2495d3159980529279e68c289a5546b816c16a3064a6",
+      "originalBytes": 97382,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR H · ground terrace",
+      "area": "1,467.27 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/diva/plan-page-21-67f81c0c9be3.webp",
+      "sha256": "67f81c0c9be3bf1434a375c199b13f3893c4c1ee6542d523accf4300e47097d3",
+      "originalBytes": 95232,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR duplex A · both levels",
+      "area": "1,132.27 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/reportage/diva/plan-page-22-eb2471591da9.webp",
+      "sha256": "eb2471591da94c865b9ac9bb013d35ac5f806d3fb574c3c5a79e3d898731561e",
+      "originalBytes": 125468,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "2 BR duplex B · both levels",
+      "area": "1,113.71 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/diva/plan-page-23-f5ffa71e1abe.webp",
+      "sha256": "f5ffa71e1abe8e2ec8959dcda57526af23d04b0f620153bc1cf55d6fb6cf3b85",
+      "originalBytes": 126800,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "3 BR A",
+      "area": "1,031.50 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/diva/plan-page-24-5b88ed9f5e27.webp",
+      "sha256": "5b88ed9f5e27427cc6f96c330cab5fd889935e49a808e5108c47307955f85c80",
+      "originalBytes": 105048,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Published 3 BR C · ground balcony",
+      "area": "1,785.53 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/diva/plan-page-25-67a499841045.webp",
+      "sha256": "67a499841045ec53d7bc6063a61315f15f1af5afbf00796be31f49074d201246",
+      "originalBytes": 90862,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Published 3 BR C · terrace pool",
+      "area": "1,785.53 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/diva/plan-page-26-56efac5b0e7d.webp",
+      "sha256": "56efac5b0e7d0c4563e1606b4442c030a995b03f99700747e628e15e20158c32",
+      "originalBytes": 94452,
+      "width": 3600,
+      "height": 2542
+    },
+    {
+      "label": "Yas Bay · original waterfront context",
+      "area": "Original context drawing",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/diva/plan-brochure-page-9-3c972eb73d91.webp",
+      "sha256": "3c972eb73d91501a05e7cd03f31b55b0649914243bea12a90c69530997ec1386",
+      "originalBytes": 4209696,
+      "width": 3600,
+      "height": 2542,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/10-DIVA-BROCHURE-WITH-FP.pdf",
+        "label": "Diva · developer-hosted We Bridge brochure and home plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/diva/floor-plans-brochure-6ee329d40b5d.pdf",
+        "sha256": "6ee329d40b5dbed38b331912dff134253e7307f355b0c49c7240b35281cd2179"
+      }
+    },
+    {
+      "label": "Yas Bay · original vicinity aerial",
+      "area": "Original context drawing",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/reportage/diva/plan-brochure-page-38-f8b620b6f13a.webp",
+      "sha256": "f8b620b6f13ae42c334b2b63bf2484701d108175918a0e58c9a6575003bf0900",
+      "originalBytes": 4646624,
+      "width": 3600,
+      "height": 2542,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/10-DIVA-BROCHURE-WITH-FP.pdf",
+        "label": "Diva · developer-hosted We Bridge brochure and home plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/diva/floor-plans-brochure-6ee329d40b5d.pdf",
+        "sha256": "6ee329d40b5dbed38b331912dff134253e7307f355b0c49c7240b35281cd2179"
+      }
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/diva/plan-brochure-page-8-1f7c6dd29ce0.webp",
+      "sha256": "1f7c6dd29ce00ada43cb23a3eb1a0bd852963a3aa444d0593735e971331f4d42",
+      "originalBytes": 4947538,
+      "width": 3600,
+      "height": 2542,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/10-DIVA-BROCHURE-WITH-FP.pdf",
+        "label": "Diva · developer-hosted We Bridge brochure and home plans",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/diva/floor-plans-brochure-6ee329d40b5d.pdf",
+        "sha256": "6ee329d40b5dbed38b331912dff134253e7307f355b0c49c7240b35281cd2179"
+      }
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "projectId": "emaar-project-66",
+  "projectSlug": "parkland",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PARKLAND_floorplan.pdf",
+    "label": "Emaar Parkland Building A original floor plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/parkland/floor-plans-af1347fb5340.pdf",
+    "sha256": "af1347fb53406264744e9567a60d57dc62ffc8550f3cf2a6a4751935e445de54"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one-, two- and three-bedroom apartment layouts from ground level through floor 23. Use each drawing’s unit list and key plan to find the correct stack.",
+  "selectorLabel": "Choose a Parkland apartment layout",
+  "note": "Figures follow Emaar’s printed totals. Some differ from the displayed suite and balcony sum by 0.01 sq ft. Confirm the signed plan for the unit.",
+  "plans": [
+    {
+      "label": "A · 1 BR · Type 2 · AG01",
+      "area": "869.19 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/parkland/plan-page-2-74238e61b99a.webp",
+      "sha256": "74238e61b99acd197cd99934c5b764d1cc99ee78733fe66cdc8c6d7d4bece1da",
+      "originalBytes": 243960,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · AG02",
+      "area": "884.15 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/parkland/plan-page-3-f7ba0286b9a8.webp",
+      "sha256": "f7ba0286b9a8b795bf1748f5bbcb47bb90a141057880dacb519f53335cffed52",
+      "originalBytes": 267666,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · AG03",
+      "area": "867.57 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/parkland/plan-page-4-2309ecdccaf6.webp",
+      "sha256": "2309ecdccaf694d284ad07ecbebee34760ace0adfbc2975ae7fba78d53ad0124",
+      "originalBytes": 267966,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A101",
+      "area": "747.02 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/parkland/plan-page-5-0f31d57c528b.webp",
+      "sha256": "0f31d57c528b28ecd1ca97ecba0fcf4d78d27fa5697d9c28b42add8251ef596f",
+      "originalBytes": 261368,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 3 · A102",
+      "area": "1,379.72 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/parkland/plan-page-6-b6fe258217b0.webp",
+      "sha256": "b6fe258217b086f7002ef7a32a2f26a795695d9875fa2f08c9c4775375832552",
+      "originalBytes": 374564,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2 · A103",
+      "area": "1,227.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/parkland/plan-page-7-c51e73d30493.webp",
+      "sha256": "c51e73d30493563bd24d05e826d2948a9a9ef599af95ba0e15923a14498da5fa",
+      "originalBytes": 353626,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1 · A104",
+      "area": "1,812.97 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/parkland/plan-page-8-bc32a88a3ab6.webp",
+      "sha256": "bc32a88a3ab635cc96b23d70450e83fda503b6e209ff27ba3fc5f4204d8d64d4",
+      "originalBytes": 466536,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1 · A105",
+      "area": "1,341.18 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/parkland/plan-page-9-fc34f9b6c9c3.webp",
+      "sha256": "fc34f9b6c9c321c76581a82d72dee26c31d14bcdbea386779679c1231278536d",
+      "originalBytes": 391678,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · A106",
+      "area": "817.41 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/parkland/plan-page-10-7af9454ff838.webp",
+      "sha256": "7af9454ff838441157dc44a43756e1c83b1f55c806d9cdc8fe8f72c4db5f917b",
+      "originalBytes": 266416,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · A107",
+      "area": "815.37 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/parkland/plan-page-11-7c51b6c4911d.webp",
+      "sha256": "7c51b6c4911d887fc341dae4d567e195396a6df62593fc4b24eb1b66e9c7645e",
+      "originalBytes": 266608,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A108",
+      "area": "741.85 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/parkland/plan-page-12-05a6033ab785.webp",
+      "sha256": "05a6033ab785f177adc77867db7940fa448be74669039d7c7590c0f8a28a1981",
+      "originalBytes": 253786,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A201",
+      "area": "762.95 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/parkland/plan-page-13-74951074b0e0.webp",
+      "sha256": "74951074b0e0db46c8cacdb1815fd56269ffea19678498ed90f00ebf99ac21d7",
+      "originalBytes": 255926,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1 · A202",
+      "area": "1,378.21 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/parkland/plan-page-14-11158be1f96c.webp",
+      "sha256": "11158be1f96cbbed60bc219f6cb828c1b2d0896504765e281f45b1adccfb07f8",
+      "originalBytes": 414462,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1 · A203",
+      "area": "1,840.63 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/parkland/plan-page-15-a8010ddda878.webp",
+      "sha256": "a8010ddda878815fdcc6ba812adb74091098a1a4602fcd5967be6c37cef7773d",
+      "originalBytes": 482132,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2 · A204",
+      "area": "1,242.26 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/parkland/plan-page-16-aeb3ee9b421b.webp",
+      "sha256": "aeb3ee9b421bd6ec302550713c431a9e6b6d16a121815ffcdb040690edffc8f1",
+      "originalBytes": 376004,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1 · A205",
+      "area": "1,839.98 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/parkland/plan-page-17-44b22578cdeb.webp",
+      "sha256": "44b22578cdeb99334dfd0d5a30be5c36ed1f38c86948e5612068f64269d25fff",
+      "originalBytes": 489676,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1 · A206",
+      "area": "1,375.74 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/parkland/plan-page-18-306ecb81fd00.webp",
+      "sha256": "306ecb81fd00754eac5892357febfb3ad2239eb318acca3cf1be76d0a7349aa6",
+      "originalBytes": 392554,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · A207",
+      "area": "829.14 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/parkland/plan-page-19-d576b0a31cbe.webp",
+      "sha256": "d576b0a31cbef6ecac5769c4978e3484cca2e5c58c8e850e7f504c6ebf52c395",
+      "originalBytes": 272034,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 1 · A208",
+      "area": "827.31 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/parkland/plan-page-20-c6674af28a88.webp",
+      "sha256": "c6674af28a8841b452372de536ad22267320e2c4dfb76b7a5310bba5f7104b9a",
+      "originalBytes": 270706,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A209",
+      "area": "757.67 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/parkland/plan-page-21-61f2ca5f99bf.webp",
+      "sha256": "61f2ca5f99bf2c6f8a25aeb3ecf331b8bc0c79c92911fc772bfdd4f418f9cff0",
+      "originalBytes": 268380,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A301",
+      "area": "762.95 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/parkland/plan-page-22-b19efe50b042.webp",
+      "sha256": "b19efe50b042755876b1cd96788dc5c67fe7436faccb1a5a1d4978260e2e6e06",
+      "originalBytes": 264648,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1 · A302",
+      "area": "1,378.21 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/parkland/plan-page-23-82fbfbcf79da.webp",
+      "sha256": "82fbfbcf79da104493ba24a89d65fe41e2d08568dcf9d729f5408ca2ba6e82b8",
+      "originalBytes": 396304,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1 · A303",
+      "area": "1,840.63 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/parkland/plan-page-24-d705eb7e1922.webp",
+      "sha256": "d705eb7e1922c6b61c3f79eaef2684b19ca71553397abe24e4096b2f76535ada",
+      "originalBytes": 488952,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 2 · A304",
+      "area": "1,242.26 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/parkland/plan-page-25-9516490cc5b4.webp",
+      "sha256": "9516490cc5b43c96910d19e825f036ddce9792e4d72600a459c0749ea3e961ca",
+      "originalBytes": 351162,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 3 BR · Type 1 · A305",
+      "area": "1,839.88 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/emaar/parkland/plan-page-26-d8e2b6e7ab69.webp",
+      "sha256": "d8e2b6e7ab69f14ae52cd22868db6c58c5a9b178562e553798c8951609d2004b",
+      "originalBytes": 490696,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 2 BR · Type 1 · A306",
+      "area": "1,375.74 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/emaar/parkland/plan-page-27-fbb5c146962a.webp",
+      "sha256": "fbb5c146962adc7e49c3f600b886f103cda972898f37700378c1aef4f8c55d91",
+      "originalBytes": 395222,
+      "width": 2400,
+      "height": 1602
+    },
+    {
+      "label": "A · 1 BR · Type 2 · A309",
+      "area": "757.67 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/emaar/parkland/plan-page-28-865aedce437b.webp",
+      "sha256": "865aedce437b820451e7b4c3c59d7a6e694c44551962ab69da4561d99a5356f5",
+      "originalBytes": 256634,
+      "width": 2400,
+      "height": 1602
+    }
+  ]
+}

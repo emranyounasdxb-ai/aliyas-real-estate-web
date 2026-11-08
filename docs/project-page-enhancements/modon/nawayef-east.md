@@ -1,0 +1,21 @@
+# Nawayef East enhancement — verified 8 November 2026
+
+Protected identity: modon / modon-project-08 / nawayef-east. 35 source images and 43 complete original drawing sheets.
+
+imagery: Root reviewed the complete 61-page Homes and 96-page Heights indexes, twelve qualifying native Homes resources, twenty qualifying native Heights resources and twenty current website candidates. Thirty-five project renders were selected. Current official Type 01 poolside replaces the visually duplicate Homes page 23 resource. Three current interior originals add Homes Type 06 living, Type 05 dining and Type 03 bedroom. Modon also uses some matching interiors in its Al Naseem material. The public source label identifies shared interior designs, whose final villa-specific application remains unverified. Source collection/type captions retain concept scope. Small resources, icons, logos, generic lifestyle scenes and duplicates were omitted. Selected natives retain original resource bytes.
+
+floorPlans: Root read all forty-three complete delivered sheets and enlarged numerical panels. Homes Types 01–06 printed GSA432,437,468,400,370,374m² and bedroom counts5,4,5,4,4,4 were checked. Type05 ground172 + first197 totals369, conflicting with printed370. Heights Types01–08 whole-villa GSA1952,1868,1820,1946,1219,1280,1289,1197m² and bedroom counts7,6,5,5,5,6,7,5 were read from original panels. Extended Types05–08 overall1265,1328,1337,1246m² are distinct variants. Optional guest, majlis, office and multipurpose pods are alternatives. Staff rooms do not increase bedrooms. Complete basements, room schedules, keys and notices remain together. A separately fetched 50-page combined Hudayriyat candidate explicitly locates its mansion collection on West Hill, so it was excluded from East Hill plans. Current East Mansions listing does not establish applicable drawings.
+
+location: Root read the complete current official East regional map and three whole brochure location/master-plan sheets. Six current estimates were transcribed directly from the East map. The East Hill polygon is separate from West and Park Views. No villa coordinates, kilometre distance, driving mode or operational amenity state were inferred. The generic sales centre remains separate from project entrances.
+
+provenance: Normal-GET receipts preserve original official HTML, image/map bytes, official Homes PDF and honestly labeled broker-hosted Heights PDF, dates, byte counts and SHA256. Root visually inspected whole drawing spreads and source resources. Lossless complete-sheet renders preserve content. Existing commercial research, protected IDs, slugs, aliases and owners remain unchanged. The excluded mansion candidate has a separate receipt and exclusion note.
+
+Unavailable or restricted scope: Applicable East Hill Mansions drawings, contracted villa/plot and revision, measured area, exact entrance coordinates, current routes and kilometre journeys remain unverified. Homes Type 05 component sum and printed GSA differ by 1 m².
+
+Sources:
+- https://www.modon.com/real-estate/nawayef-east
+- https://www.modon.com/images/modoncorporatelibraries/maps/nawayef-east-map-01.png?sfvrsn=3563b741_3
+- https://www.modon.com/docs/modoncorporatelibraries/nawayef/homes-east-digital-1.pdf?sfvrsn=2375f3f2_1
+- https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf
+
+Selection: docs/project-page-enhancement-selections/modon/nawayef-east.json. Source/owner/hash validation: 1559 owner-validated manifests, 20975 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. Other canonical text and protected identities match the researched snapshot.. Optimized build t2PTBovFuP0EAnoA0Dpvq / PID3924. Own browser case passed in passing batch (4.1m) (artifacts/project-page-enhancement/batch-249-browser.log). All selectable sheets/areas/physical-page links, original PDF and keyboard full-size zoom/Escape/focus passed. Five widths/light-dark/reduced motion, four accessibility scans, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

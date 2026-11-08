@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-21",
+  "projectSlug": "greenspoint",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/Greenspoint_floorplan.pdf",
+    "label": "Emaar: Greenspoint complete floor plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/greenspoint/floor-plans-5ff1fbd55cf9.pdf",
+    "sha256": "5ff1fbd55cf9d66efe8fed1205623649e1aae48610b9dca6f1d21628e6506277"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published Lana and Ada townhouse layouts. Select the bedroom and unit reference to inspect its complete ground and first floor sheet.",
+  "selectorLabel": "Choose a Greenspoint layout",
+  "note": "Published total area includes the suite, garage and balcony or terrace; it is not plot area. These plans do not confirm current inventory. Dimensions and specifications may change; confirm the selected unit and final sale plan.",
+  "plans": [
+    {
+      "label": "Lana · 4 bedroom · TH01",
+      "area": "2,708.41 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/greenspoint/plan-page-2-cfc6e1d5192c.webp",
+      "sha256": "cfc6e1d5192cf722cd7c086ddea90aab0eda6bf80f1b11824ad7b69d76487bb6",
+      "originalBytes": 563236,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Lana · 3 bedroom · TH02",
+      "area": "2,417.79 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/greenspoint/plan-page-3-84886524bf49.webp",
+      "sha256": "84886524bf499a247f247521b695c8b15584e2ba776c9938448548f582864531",
+      "originalBytes": 390142,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Lana · 3 bedroom · TH03",
+      "area": "2,417.79 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/greenspoint/plan-page-4-1c81c4b3f3a2.webp",
+      "sha256": "1c81c4b3f3a2c49776232ebe8fc3d505a9f018c64d747708ef87c9bd704b5635",
+      "originalBytes": 388984,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Lana · 4 bedroom · TH04",
+      "area": "2,708.41 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/greenspoint/plan-page-5-be648fcd9d87.webp",
+      "sha256": "be648fcd9d87b9d07b51ec75c76de3bd87a910477002e4f38907dfe631ba928c",
+      "originalBytes": 564198,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ada · 4 bedroom · TH01",
+      "area": "2,766.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/greenspoint/plan-page-6-418e81f6c68f.webp",
+      "sha256": "418e81f6c68f524b6e553b1c6b13358ce4a2cbf89329b48ecf77fc61b31a53e5",
+      "originalBytes": 561218,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ada · 3 bedroom · TH02",
+      "area": "2,450.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/greenspoint/plan-page-7-0c5a49d72343.webp",
+      "sha256": "0c5a49d723438ed5f7964b16bdcecdd14000c7b11a98a5f975888c5b88ec9222",
+      "originalBytes": 389726,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ada · 3 bedroom · TH03",
+      "area": "2,450.40 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/greenspoint/plan-page-8-2638ac1d8915.webp",
+      "sha256": "2638ac1d8915a13f7b57071baa2b2f37919ca9841302772cb638eff07f6d9bdd",
+      "originalBytes": 388920,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Ada · 4 bedroom · TH04",
+      "area": "2,766.86 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/greenspoint/plan-page-9-77ffa7968fd1.webp",
+      "sha256": "77ffa7968fd1244f7c4b74e8acd3b7a7fdf3f2a41bb32f69f645baeca62165c8",
+      "originalBytes": 560586,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

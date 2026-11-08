@@ -1,0 +1,88 @@
+{
+  "projectId": "damac-project-07",
+  "projectSlug": "damac-islands",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://canalettosky.com/wp-content/uploads/2024/11/DAMAC-ISLANDS-brochure.pdf",
+    "label": "DAMAC Islands brochure · Canaletto Sky-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/damac-islands/floor-plans-e15044435e1b.pdf",
+    "sha256": "e15044435e1ba8a8d8520781d03260eaf913d24e5002e7194ba42ea5ba72c178"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore four- and five-bedroom townhouses and six- and seven-bedroom villas from the original release. Each drawing keeps all published levels together.",
+  "selectorLabel": "Choose a DAMAC Islands floor plan",
+  "note": "The brochure gives total sellable area for each layout. Individual plot and signed unit areas can differ.",
+  "plans": [
+    {
+      "label": "4 BR townhouse · DITH-M",
+      "area": "2,208 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/damac/damac-islands/plan-page-18-4015f6982da8.webp",
+      "sha256": "4015f6982da8283f87a42a0c93811481bc2e706576792573348f9127557358a0",
+      "originalBytes": 1991860,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "5 BR townhouse · DITH-E",
+      "area": "3,178 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/damac/damac-islands/plan-page-17-b68b68869212.webp",
+      "sha256": "b68b688692122c6017cc59b924e7b0b60e2d4625cf6fe9d65941a38550544019",
+      "originalBytes": 1939960,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "6 BR villa · DIV3",
+      "area": "4,440 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/damac/damac-islands/plan-page-14-f025079b9497.webp",
+      "sha256": "f025079b9497ad9c41c9e8797cfc66bdd078ef1f088011382c8d119cc5ec6768",
+      "originalBytes": 2162844,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "6 BR villa · LV55E",
+      "area": "10,671 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/damac/damac-islands/plan-page-12-a5b100dceaff.webp",
+      "sha256": "a5b100dceaff175cb63f0a969bc27d44176722294d9730eb72b101ac5c655aca",
+      "originalBytes": 1994882,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "7 BR villa · LV75E",
+      "area": "17,078 sq ft sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/damac/damac-islands/plan-page-10-3883c04e769e.webp",
+      "sha256": "3883c04e769e6d90a2d7ebda619eb1054277e4227f87503e40b4ab2b8352456d",
+      "originalBytes": 2056770,
+      "width": 2600,
+      "height": 1463
+    }
+  ]
+}

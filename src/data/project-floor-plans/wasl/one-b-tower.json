@@ -1,0 +1,854 @@
+{
+  "projectId": "wasl-project-10",
+  "projectSlug": "one-b-tower",
+  "developerSlug": "wasl",
+  "source": {
+    "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Floor%20Plans_0.pdf",
+    "label": "Wasl One B Tower · original separate plan pack",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/wasl/one-b-tower/floor-plans-ffea420647a4.pdf",
+    "sha256": "ffea420647a403a35187ed04118654d637fcd9abcbb07c9655ccf049dbd5e9a1"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the original brochure and separate plan-pack layouts. Each complete sheet retains its own tables, position key and source PDF link.",
+  "selectorLabel": "Choose a source version, home layout or floorplate",
+  "note": "The 51 complete sheets distinguish the separate plan pack from the brochure. Their layouts, dimensions and totals differ, and revision order is unverified. Whole duplex totals apply once. E2 prints an incompatible 805.1 sq ft balcony. Floorplate arithmetic and one brochure floor heading also conflict. Figures remain source-specific. Confirm the approved contractual drawing with Wasl.",
+  "plans": [
+    {
+      "label": "Plan pack · 1 BR A",
+      "area": "674.90–683.50 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-2-6f9a92d766e7.webp",
+      "sha256": "6f9a92d766e7525e28103b8c4e10b3b0a085dd6ad6334282fc0b9a1e236403fa",
+      "originalBytes": 221302,
+      "width": 2473,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 1 BR B",
+      "area": "897.70–902.00 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-3-e0bdf34e97f7.webp",
+      "sha256": "e0bdf34e97f7dcd8ed0569187be0b91256a9dfd8d3fd83dc23a427bdb675528c",
+      "originalBytes": 184874,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 1 BR C",
+      "area": "836.40 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-4-24f409cde661.webp",
+      "sha256": "24f409cde661bd87a244c8f42918647a02912a392df3eeef744edebcb5a5785b",
+      "originalBytes": 167354,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 1 BR D",
+      "area": "944.00–990.30 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-5-e37cda38f1fd.webp",
+      "sha256": "e37cda38f1fd8471511a2c404658696d99daf16d69467f5487331a67d0214c3f",
+      "originalBytes": 195918,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 1 BR E · source conflict",
+      "area": "928.90–1,012.30 sq ft printed · E2 arithmetic disputed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-6-d6bd5d9a86da.webp",
+      "sha256": "d6bd5d9a86da487bbbd3cc6c54cc81daffaf8edff2c9f430924659bbd32acac9",
+      "originalBytes": 187522,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR duplex A",
+      "area": "2,377.70 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-8-70128b19fbcf.webp",
+      "sha256": "70128b19fbcfa1250fef6290bb51c4e4ef1196a4c215237c29e8e390c7f0d66f",
+      "originalBytes": 247082,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR duplex B",
+      "area": "1,650.80 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-9-bdd3c2230cbd.webp",
+      "sha256": "bdd3c2230cbdea22a215f4cdcf5dd6423c098407b47d1d812b7155851f00d1cd",
+      "originalBytes": 219878,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR A",
+      "area": "1,753.10–1,770.70 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-10-71658caf6bdd.webp",
+      "sha256": "71658caf6bddf6c40bb547e3a37efcdbe66dbc4c86abdbdaf7ccc0d59be8271f",
+      "originalBytes": 247538,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR B",
+      "area": "1,712.50–1,738.40 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-11-d96d2d74d492.webp",
+      "sha256": "d96d2d74d492b1ee9e3aa36247e41361b1e94e961953c34a78f79a5f2a9e2742",
+      "originalBytes": 227144,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR C1",
+      "area": "1,475.50–1,566.50 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-12-71198fe4797e.webp",
+      "sha256": "71198fe4797e346abd3b87681b189b4f2cf33fafb5c556f0d94f4bd8f17dee1c",
+      "originalBytes": 227770,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 2 BR C4",
+      "area": "1,391.00 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-13-97b49dabff65.webp",
+      "sha256": "97b49dabff6540ac32efae7d6aac2fc3e4d10aa501ac9ba573ecd44923d3208d",
+      "originalBytes": 216472,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 3 BR duplex A",
+      "area": "2,855.20 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-14-9cf85cdce850.webp",
+      "sha256": "9cf85cdce850941e5f8c3f69312fb39426bd05a36031ab33db5f6072c65fca39",
+      "originalBytes": 242396,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 3 BR A",
+      "area": "2,438.00–2,450.90 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-15-84ad7f5ec89e.webp",
+      "sha256": "84ad7f5ec89edf75be652431c46f34b5459504fb6e6ccead50d97091b672fe41",
+      "originalBytes": 265100,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 3 BR B",
+      "area": "2,413.30 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-16-01f1f8c3d035.webp",
+      "sha256": "01f1f8c3d0352b634e198cf264c0204c4d4f37ecc78016b6f07718cd89e16555",
+      "originalBytes": 275582,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Plan pack · 4 BR duplex A",
+      "area": "4,769.50 sq ft whole home",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-17-1632ad41dd1e.webp",
+      "sha256": "1632ad41dd1e73a684145479882d960816fabe488c46d9c56e94ebcfe8d914fc",
+      "originalBytes": 318396,
+      "width": 2263,
+      "height": 3200
+    },
+    {
+      "label": "Brochure · 1 BR A",
+      "area": "676.70–692.00 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-26-64e9873226a3.webp",
+      "sha256": "64e9873226a3b3c9a942e7a7409b25ddac29507a575f3e4c9d028008c21f4f9a",
+      "originalBytes": 422280,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 1 BR B",
+      "area": "929.60–933.20 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-27-d9bb47836e43.webp",
+      "sha256": "d9bb47836e4328fc2cf1a02769a117c774ad55119f5d8695c98c11991289fa97",
+      "originalBytes": 459694,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 1 BR C",
+      "area": "863.50–867.00 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-28-39a42cf66a16.webp",
+      "sha256": "39a42cf66a1653fd2c6a23f8d075100ee67b7265cad60df6526daebb48ff6fe6",
+      "originalBytes": 517394,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 1 BR D",
+      "area": "921.80–958.50 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-29-95eba6fba897.webp",
+      "sha256": "95eba6fba897fb3270044b6f97ed83b672e0f7fb0167b2f01d92a2e593778c65",
+      "originalBytes": 495000,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 2 BR A",
+      "area": "1,720.30–1,730.10 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-30-70b9f1954410.webp",
+      "sha256": "70b9f1954410f54f37f3c2b2685786dfe4ebb71510d6a3dc4445c8de8717a096",
+      "originalBytes": 462314,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 2 BR B",
+      "area": "1,685.70–1,796.40 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-31-6a756ec58358.webp",
+      "sha256": "6a756ec583585903067883191a27c9e3ec4f5adce41453193d98a18f3e7c00b8",
+      "originalBytes": 586498,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 2 BR duplex A",
+      "area": "2,192.60 sq ft whole home",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-32-8379cb306ab1.webp",
+      "sha256": "8379cb306ab14f3e79e6f9e7c2085a0026a5487cdcdd911e1f1eb1dc025f82f8",
+      "originalBytes": 461348,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 3 BR A",
+      "area": "2,397.60–2,404.50 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-33-12fc426acb79.webp",
+      "sha256": "12fc426acb7906789b1add0597f6cb10ba77238a3677728713f968221d4e6a12",
+      "originalBytes": 566932,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 3 BR B",
+      "area": "2,342.30–2,358.60 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-34-7eb947d6e155.webp",
+      "sha256": "7eb947d6e155ae5ad1ec8b19c0ac0b7e4a83532e92f11b4b804971b5ad92584a",
+      "originalBytes": 583700,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 3 BR duplex A",
+      "area": "2,802.30 sq ft whole home",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-35-04d67c0131be.webp",
+      "sha256": "04d67c0131bebdb0b64882c1440cbc9b8dcb1f6a4a68ce2c140cf99e757be08d",
+      "originalBytes": 718808,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 4 BR A",
+      "area": "3,970.40 sq ft total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-36-c59983e56ed9.webp",
+      "sha256": "c59983e56ed9b7cebf81ca77c99739a504443745ea3da4c483f8fb98d69eaad1",
+      "originalBytes": 702272,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Brochure · 4 BR duplex A",
+      "area": "4,750.10–4,759.40 sq ft whole home",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-37-511140ea992d.webp",
+      "sha256": "511140ea992d0ab1f9f057aed957c22ba9dd0319cae4b705b9138eee0dff6f89",
+      "originalBytes": 829706,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 8 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-18-de3f00e4d5b0.webp",
+      "sha256": "de3f00e4d5b09d618ce3f2307553c25b9a20529dc5d985e31d75c526ff18d0ea",
+      "originalBytes": 692010,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 8 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-39-cffa7ca01e0f.webp",
+      "sha256": "cffa7ca01e0f8e9fe58bd3f1c2a1d032fa8c637a195f60a73666eb1aa2327b45",
+      "originalBytes": 1239348,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 9 / 11 / 13 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-19-8fadf846aa2b.webp",
+      "sha256": "8fadf846aa2b9197d3f391be641a2da426c224162260c795ad4ad596cc58953d",
+      "originalBytes": 671170,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 9 / 11 / 13 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-40-d0ff58d665ee.webp",
+      "sha256": "d0ff58d665ee795dc3d075a2c147b66d693d3d8ee9b298a8cd89005dde2f4a4a",
+      "originalBytes": 1275670,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 10 / 12 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-20-db8ee3f57b37.webp",
+      "sha256": "db8ee3f57b372795ed5c7d472062a4a5e0b7a3b36121a0db93f221e390e3411b",
+      "originalBytes": 643164,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 10 / 12 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-41-c7031820b05f.webp",
+      "sha256": "c7031820b05f48c8da1a10d4070def33d7361389aafe4a8f50d497ba1b72d63b",
+      "originalBytes": 1260594,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 14 / 16 / 18 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-21-f3ce3c7a1429.webp",
+      "sha256": "f3ce3c7a14294ec777437a2c89ef6da9369e50f8e1a0d281d3c8d70635a5ac3b",
+      "originalBytes": 648410,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 14 / 16 / 18 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-42-207b09e2ec5e.webp",
+      "sha256": "207b09e2ec5e68016177a52cb7711dde094f6582a1f27024ce82b31ad90b984a",
+      "originalBytes": 1200778,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 15 / 17 / 19 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-22-7c1f8ffc89f1.webp",
+      "sha256": "7c1f8ffc89f1f5d2f8d60f80e6bee7ee5e20f8f7693dc3c77774c436e5b16edb",
+      "originalBytes": 652702,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 15 / 17 / 19 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-43-519e08e3bfff.webp",
+      "sha256": "519e08e3bfffeabd2dd8a6f65a2ac7d604afa98e6c70ad31bff3d2550d62c877",
+      "originalBytes": 1203906,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 20 / 24 / 26 / 28 / 30 / 32 / 34 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-23-ef8eae981e76.webp",
+      "sha256": "ef8eae981e76e98e9f95ba862d4d3d4e53b831a7116b5bcb79ef40384c811d7b",
+      "originalBytes": 556068,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · typical upper floors · header disputed",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-44-be9018710a0f.webp",
+      "sha256": "be9018710a0f1f503bb8dfac44564ee33e4ab826171ba00ff166af9f316f6fa9",
+      "originalBytes": 1185924,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 21 / 25 / 27 / 29 / 31 / 33 / 35 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-24-7709e3656540.webp",
+      "sha256": "7709e365654061ec0f8131e6563e6f27cbec546b804d27279a35020a526ff042",
+      "originalBytes": 605922,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 21 / 25 / 27 / 29 / 31 / 33 / 35 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-45-814fe211ffb3.webp",
+      "sha256": "814fe211ffb39c883f49e578f078839c23c34db676e8fd22a92457119910b61c",
+      "originalBytes": 1229762,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 23 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-25-47c342c45a14.webp",
+      "sha256": "47c342c45a14de1ef139ddc85149aac847ada036e7890de4bf349372845b6061",
+      "originalBytes": 570402,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 23 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-46-e817abff2e17.webp",
+      "sha256": "e817abff2e17758a79b62263e0d9710aa2a6b5aeee843bb11ce76ad494bc34fa",
+      "originalBytes": 1173044,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 36 / 38 / 40 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-26-bcef45981d15.webp",
+      "sha256": "bcef45981d15b6e5a23be654a29459e8ee6bd8d1e4d81d4996a78a1bc196b3d8",
+      "originalBytes": 683460,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 36 / 38 / 40 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-47-60f878a8d020.webp",
+      "sha256": "60f878a8d020f2ef5dbb6a98463790bf5b9966f93ff79251344d003a087c9c49",
+      "originalBytes": 1212194,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 37 / 39 / 41 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-27-fef026a026f7.webp",
+      "sha256": "fef026a026f7d2cce96059d829a76d6f9d68ada9bfc63985ed086caf4f562d09",
+      "originalBytes": 624532,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 37 / 39 / 41 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-48-f0757cf4cb55.webp",
+      "sha256": "f0757cf4cb55d5b2c14e673a9c48fdccafec52c11f06ed1c709fb793d7d421fe",
+      "originalBytes": 1229044,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 42 / 44 / 46 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-28-baa5127a0e25.webp",
+      "sha256": "baa5127a0e25961aa568138815effda9d3f969e84e57b096b5e3ea451dca94ad",
+      "originalBytes": 637966,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 42 / 44 / 46 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-49-67ab4359f020.webp",
+      "sha256": "67ab4359f0201cf4cd3895dd7047ed938d494be2568b567577ac6861e7ef061c",
+      "originalBytes": 1199444,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    },
+    {
+      "label": "Plan pack · levels 43 / 45 / 47 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/wasl/one-b-tower/plan-page-29-273c7a680ead.webp",
+      "sha256": "273c7a680ead14f78b5e2c60456cbf0b792dd094b7b52f4dfeef5b935f7933bc",
+      "originalBytes": 623664,
+      "width": 3200,
+      "height": 2263
+    },
+    {
+      "label": "Brochure · levels 43 / 45 / 47 · floorplate",
+      "area": "Whole-floor overview · individual printed unit areas vary",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/wasl/one-b-tower/plan-brochure-page-50-8da069e7e6e1.webp",
+      "sha256": "8da069e7e6e10a5d4fa7f734bf42ce7c62f64f7c97d09be240caf92ca0c94cfa",
+      "originalBytes": 1204410,
+      "width": 3200,
+      "height": 1800,
+      "source": {
+        "url": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf",
+        "label": "Wasl One B Tower · original brochure drawings",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/wasl/one-b-tower/floor-plans-brochure-9544ca884882.pdf",
+        "sha256": "9544ca884882b98e2c013d5a680a12f4113adc82e0363249ee18b6c56e268ce5"
+      }
+    }
+  ]
+}

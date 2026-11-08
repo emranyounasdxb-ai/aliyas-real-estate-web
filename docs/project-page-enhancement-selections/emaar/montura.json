@@ -1,0 +1,163 @@
+{
+  "id": "emaar-project-31",
+  "slug": "montura",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/montura-at-grand-polo",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "pool-villa",
+      "url": "https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf#page=15",
+      "cache": "artifacts/project-page-enhancement/montura/brochure-15-1-Im0.jpg",
+      "label": "Villa and pool",
+      "alt": "Emaar render published for Montura: villa and pool",
+      "position": "50% 50%"
+    },
+    {
+      "name": "community",
+      "url": "https://www.emaar.com/cms-media/uploads/407343_exterior_1_252f97eefe_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/montura/407343_exterior_1_252f97eefe_prod.jpg",
+      "label": "Community landscape",
+      "alt": "Emaar render published for Montura: community landscape",
+      "position": "50% 50%"
+    },
+    {
+      "name": "frontage",
+      "url": "https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf#page=17",
+      "cache": "artifacts/project-page-enhancement/montura/brochure-17-1-Im0.jpg",
+      "label": "Villa frontage",
+      "alt": "Emaar render published for Montura: villa frontage",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/407367_interior_0_6b15e4fd5a_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/montura/407367_interior_0_6b15e4fd5a_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render published for Montura: living room",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/407375_interior_1_33e49033fd_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/montura/407375_interior_1_33e49033fd_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render published for Montura: bedroom",
+      "position": "50% 50%"
+    },
+    {
+      "name": "garden-dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf#page=16",
+      "cache": "artifacts/project-page-enhancement/montura/brochure-16-1-Im0.jpg",
+      "label": "Garden-facing villa at dusk",
+      "alt": "Garden-facing villa render in the Montura brochure",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "pool-villa",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Grand Polo Club & Resort",
+    "road": "",
+    "pin": {
+      "latitude": 24.9622625,
+      "longitude": 55.2201406,
+      "sourceUrl": "https://www.emaar.com/en/properties/montura-at-grand-polo",
+      "scope": "Developer-published Montura reference point. Confirm the selected villa and exact entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_d19600bb28.jpg",
+      "cache": "artifacts/project-page-enhancement/montura/04_MAP_2400x1600px_d19600bb28.jpg",
+      "alt": "Emaar regional diagram locating Grand Polo Club and Resort",
+      "scope": "Community diagram, not to scale; proposed transport does not establish current service."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/MONTURA_brochure.pdf",
+      "page": 5,
+      "scope": "Own Montura brochure numerical panel visually checked.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 5
+        },
+        {
+          "name": "The Oasis",
+          "minutes": 5
+        },
+        {
+          "name": "Expo 2020 site",
+          "minutes": 10
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 30
+        }
+      ]
+    },
+    "travelNote": "Published community estimates using the brochure destination labels, not live traffic times or measured distances from a selected villa."
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/MONTURA_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/montura-floorplans-1.pdf",
+    "label": "Emaar: Montura floor plans",
+    "introduction": "Compare the four published villa sheets. Each complete sheet includes all three floors, its area table and a developer key plan.",
+    "selectorLabel": "Choose a Montura villa layout",
+    "note": "Published totals include suite, balcony and carport; they are not plot areas. Drawn landscaping, pools and furnishings do not establish sale inclusions. Confirm the selected villa and final specifications.",
+    "plans": [
+      {
+        "label": "4 bedrooms · Type 1",
+        "area": "3,838.20 sq ft total area",
+        "areaValues": [
+          3838.2
+        ],
+        "sourcePage": 4,
+        "areaCalculation": "All four numerical source tables visually checked: sqft is the second column, after sqm. Printed total includes suite, balcony and carport, not plot. PDF text does not expose table values; no automatic text inference used.",
+        "cache": "artifacts/project-page-enhancement/montura/plan-4.png"
+      },
+      {
+        "label": "4 bedrooms · Type 2",
+        "area": "3,842.82 sq ft total area",
+        "areaValues": [
+          3842.82
+        ],
+        "sourcePage": 5,
+        "areaCalculation": "All four numerical source tables visually checked: sqft is the second column, after sqm. Printed total includes suite, balcony and carport, not plot. PDF text does not expose table values; no automatic text inference used.",
+        "cache": "artifacts/project-page-enhancement/montura/plan-5.png"
+      },
+      {
+        "label": "5 bedrooms · B Type 3",
+        "area": "5,115.23 sq ft total area",
+        "areaValues": [
+          5115.23
+        ],
+        "sourcePage": 2,
+        "areaCalculation": "All four numerical source tables visually checked: sqft is the second column, after sqm. Printed total includes suite, balcony and carport, not plot. PDF text does not expose table values; no automatic text inference used.",
+        "cache": "artifacts/project-page-enhancement/montura/plan-2.png"
+      },
+      {
+        "label": "5 bedrooms · B Type 4",
+        "area": "5,157.74 sq ft total area",
+        "areaValues": [
+          5157.74
+        ],
+        "sourcePage": 3,
+        "areaCalculation": "All four numerical source tables visually checked: sqft is the second column, after sqm. Printed total includes suite, balcony and carport, not plot. PDF text does not expose table values; no automatic text inference used.",
+        "cache": "artifacts/project-page-enhancement/montura/plan-3.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/montura/",
+  "review": {
+    "images": "All5 official gallery scenes visually checked. Native3641×2306 brochure15 villa-and-pool and3645×2305 brochure17 frontage replace matching gallery versions. Own native brochure16 garden-facing dusk scene added;6 source images total. Decorative texture backgrounds rejected. Own living/bedroom selected.",
+    "location": "Own official Montura point24.9622625,55.2201406 and Grand Polo regional diagram reviewed. Own brochure physical5 map/numerical panel checked5/5/10/30min DWC/Oasis/Expo2020/Downtown; published legacy Expo label preserved and times qualified.",
+    "floorPlans": "Live official5page original SHA matched. Every physical page independently reviewed: own Montura cover1 and four full residence sheets2–5. Numeric panels visually checked despite embedded extraction lacking all totals. Source sqm-first/sqft-second distinguished:3838.20/3842.82 for4bedType1/2;5115.23/5157.74 for5bedBType3/4. No Montura2/3 layouts borrowed. Full source sheets, notes/logos and original PDF unchanged."
+  },
+  "unavailable": []
+}

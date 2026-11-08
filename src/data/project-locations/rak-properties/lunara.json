@@ -1,0 +1,65 @@
+{
+  "projectId": "rak-properties-project-01",
+  "projectSlug": "lunara",
+  "developerSlug": "rak-properties",
+  "checkedOn": "2026-11-08",
+  "community": "The Strand · Urban District, Marjan Beach District, Ras Al Khaimah",
+  "road": "Lunara · individual entrance unverified",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/rak-properties/lunara/location-afa10049b9b2.png",
+    "sha256": "afa10049b9b2a1cc860b522f7c85c9faca45a8f61a0276ae3524d4b6753d3e88",
+    "originalBytes": 15797151,
+    "width": 3600,
+    "height": 2443,
+    "sourceUrl": "https://www.rakproperties.ae/wp-content/uploads/2026/07/The-Strand-Brochure.pdf#page=7",
+    "alt": "Lunara · whole original The Strand vicinity and destination map.",
+    "scope": "Community schematic. Lunara is located within the highlighted Strand master plan. Individual entrances and future connections require confirmation.",
+    "caption": "The Strand vicinity · original developer diagram."
+  },
+  "sourceLabel": "Lunara · original location sources",
+  "travel": {
+    "sourceUrl": "https://www.rakproperties.ae/wp-content/uploads/2026/07/Lunara-Factsheet.pdf",
+    "page": 1,
+    "scope": "Factsheet driving estimates for The Strand. Brochure page 7 gives RAK Central as nine minutes, and page 5 gives RAK airport as fifteen. The factsheet gives five and twenty five. Future bridge and Wynn resort references describe proposed connectivity. Confirm current routes and access.",
+    "destinations": [
+      {
+        "name": "Al Marjan Beach · driving",
+        "minutes": 2
+      },
+      {
+        "name": "Royal Yacht Club · driving",
+        "minutes": 4
+      },
+      {
+        "name": "Al Hamra Mall · driving",
+        "minutes": 5
+      },
+      {
+        "name": "Wynn Resort · proposed destination · driving",
+        "minutes": 5
+      },
+      {
+        "name": "RAK Central · driving",
+        "minutes": 5
+      },
+      {
+        "name": "Al Hamra Golf Course · driving",
+        "minutes": 7
+      },
+      {
+        "name": "Mina · driving",
+        "minutes": 12
+      },
+      {
+        "name": "Ras Al Khaimah International Airport · driving",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport · driving",
+        "minutes": 50
+      }
+    ]
+  },
+  "travelNote": "Factsheet driving estimates for The Strand. Brochure page 7 gives RAK Central as nine minutes, and page 5 gives RAK airport as fifteen. The factsheet gives five and twenty five. Future bridge and Wynn resort references describe proposed connectivity. Confirm current routes and access. The microsite footer directions lead to sales offices. A project entrance coordinate remains unverified."
+}

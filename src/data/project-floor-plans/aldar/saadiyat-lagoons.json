@@ -1,0 +1,88 @@
+{
+  "projectId": "aldar-project-29",
+  "projectSlug": "saadiyat-lagoons",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Saadiyat+Lagoons_EN+Brochure.pdf/9f244d7acf6c11f08977de3dd66d09b0",
+    "label": "Aldar Saadiyat Lagoons brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/saadiyat-lagoons/floor-plans-7be6ffc9d133.pdf",
+    "sha256": "7be6ffc9d133e566b5646ae1da943df4b8232d30e49cb049f9696830185be273"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare four-, five- and six-bedroom villas, each with a maid’s room, and two optional pod layouts.",
+  "selectorLabel": "Choose a Saadiyat Lagoons floor plan",
+  "note": "Villa figures are internal sellable areas as printed. Pod figures are gross sellable areas. Confirm the selected villa specification and pod option with Aldar.",
+  "plans": [
+    {
+      "label": "4 BR + maid villa",
+      "area": "464.7 m² internal sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/aldar/saadiyat-lagoons/plan-page-46-bbc473cc9812.webp",
+      "sha256": "bbc473cc98122190386bc5ec4f6b577ff4dc7951d3af364b6cce984d4f3bc383",
+      "originalBytes": 219574,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "5 BR + maid villa",
+      "area": "544.6 m² internal sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/aldar/saadiyat-lagoons/plan-page-48-0ea5aeb20a02.webp",
+      "sha256": "0ea5aeb20a02715476ca9b76e51588d0abf0e8354b7aabfd5590947a2e96ef79",
+      "originalBytes": 106800,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "6 BR + maid villa",
+      "area": "591.4 m² internal sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/aldar/saadiyat-lagoons/plan-page-50-7cd76c2ae5eb.webp",
+      "sha256": "7cd76c2ae5ebe109aaea17c9ed311b34a13bb53c09e9dfcdceec317f3a2eddc1",
+      "originalBytes": 280220,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "Optional pod · Type 1 multipurpose",
+      "area": "35 m² gross sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/aldar/saadiyat-lagoons/plan-page-52-77b82bdd7fef.webp",
+      "sha256": "77b82bdd7fef0614817386139ee012d2f0ba6f9e9eb3c5f88c25cfe019afe7b6",
+      "originalBytes": 407840,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "Optional pod · Type 2 kitchen",
+      "area": "35 m² gross sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/aldar/saadiyat-lagoons/plan-page-53-0521c0cf8e14.webp",
+      "sha256": "0521c0cf8e14a4ca5417f499ee1f5461e8a2386f195103b40e6980e2cb402a65",
+      "originalBytes": 653216,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

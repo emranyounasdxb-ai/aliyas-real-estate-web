@@ -1,0 +1,785 @@
+{
+  "projectId": "modon-project-08",
+  "projectSlug": "nawayef-east",
+  "developerSlug": "modon",
+  "source": {
+    "url": "https://www.modon.com/docs/modoncorporatelibraries/nawayef/homes-east-digital-1.pdf?sfvrsn=2375f3f2_1",
+    "label": "Nawayef East Homes · complete original Modon brochure",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/modon/nawayef-east/floor-plans-3577233e2a94.pdf",
+    "sha256": "3577233e2a9442800c7abc61484a796ebe4a45198f235ae51a5c94bcea630dd7"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore complete Homes and Heights drawings, their area panels, basement sheets and separately identified extended-plot options.",
+  "selectorLabel": "Choose a complete villa sheet or community map",
+  "note": "GSA labels refer to the whole home and repeat across its sheets. Homes Type 05 prints 370 m² while 172 + 197 totals 369 m². Extended Heights plots have separate overall areas. Each pod drawing offers alternative uses. Contracted revision, measured area, finishes and private facilities require confirmation. Applicable East Hill Mansions plans remain unverified.",
+  "plans": [
+    {
+      "label": "Homes 01 · 5 BR · area and plot key",
+      "area": "432 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/modon/nawayef-east/plan-page-20-de92f3e986d0.webp",
+      "sha256": "de92f3e986d0cbe84c9fc3ae4df345f734d32e89ad82b1244e79a40923dcebd8",
+      "originalBytes": 1677596,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 01 · 5 BR · ground and first floors",
+      "area": "432 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/modon/nawayef-east/plan-page-21-dbacc3df8c11.webp",
+      "sha256": "dbacc3df8c117c008b475671017c8af1f95c5c768f3b5c2bb03e5bcd347ee023",
+      "originalBytes": 677810,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 02 · 4 BR · area and plot key",
+      "area": "437 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/modon/nawayef-east/plan-page-26-d1d36846c955.webp",
+      "sha256": "d1d36846c955522b6027ac2aeac03825ee84590ae09c36f1347fda3b80a7460d",
+      "originalBytes": 1910466,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 02 · 4 BR · ground and first floors",
+      "area": "437 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/modon/nawayef-east/plan-page-27-00fee0680006.webp",
+      "sha256": "00fee0680006e87b4532bfa45668eb8731ba1201e0eb7b081aa0478ba3003a2c",
+      "originalBytes": 689214,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 03 · 5 BR · area and plot key",
+      "area": "468 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/modon/nawayef-east/plan-page-33-1017ea3f2621.webp",
+      "sha256": "1017ea3f262191b165d40ebe592bd23c2f8dd38b6e92681663817f8cf8c20eb7",
+      "originalBytes": 1585860,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 03 · 5 BR · ground and first floors",
+      "area": "468 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/modon/nawayef-east/plan-page-34-d041a4b66cf9.webp",
+      "sha256": "d041a4b66cf95aa4e0d73a618aa1455221f832f89b8e710adc827664d73b7a06",
+      "originalBytes": 715200,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 04 · 4 BR · area and plot key",
+      "area": "400 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/modon/nawayef-east/plan-page-39-aa978ea0334b.webp",
+      "sha256": "aa978ea0334b9c764c459aa150579bf8c2e18014c881d50f527032d0cc002324",
+      "originalBytes": 1301518,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 04 · 4 BR · ground and first floors",
+      "area": "400 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/modon/nawayef-east/plan-page-40-f3ae61144e93.webp",
+      "sha256": "f3ae61144e93c8c5eacd3c9ca8e0401fd31d1395ead0590340bd7960e5710792",
+      "originalBytes": 614032,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 05 · 4 BR · area and plot key",
+      "area": "370 m² printed whole-home GSA · components total 369 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/modon/nawayef-east/plan-page-46-fceb68018bfc.webp",
+      "sha256": "fceb68018bfc07247e6f51a004da4e021e60d9e56f004c55aa344907d8372029",
+      "originalBytes": 1486830,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 05 · 4 BR · ground and first floors",
+      "area": "370 m² printed whole-home GSA · components total 369 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/modon/nawayef-east/plan-page-47-e5daf0e73265.webp",
+      "sha256": "e5daf0e7326524227043ca14c9a2ad5b5560a6d58baa985e1124109201f008cd",
+      "originalBytes": 636694,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 06 · 4 BR · area and plot key",
+      "area": "374 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/modon/nawayef-east/plan-page-53-574e4f8105c0.webp",
+      "sha256": "574e4f8105c049cc1d02d6ea911f967f7af708e72067275f408a6b657a86a40b",
+      "originalBytes": 1662872,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes 06 · 4 BR · ground and first floors",
+      "area": "374 m² printed whole-home GSA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 54,
+      "src": "/images/projects/modon/nawayef-east/plan-page-54-bdee9afacf67.webp",
+      "sha256": "bdee9afacf67d18b4960779d19f56992ca7d5b6beb401b5d7a3df906fa9bdcd7",
+      "originalBytes": 615526,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Heights 01 · 7 BR · area and plot key",
+      "area": "1952 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-20-1a71d5046f4d.webp",
+      "sha256": "1a71d5046f4d3a93a3aab316c2ed3de7a7d39ebb71d310eb277d49101027a4a4",
+      "originalBytes": 1625798,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 01 · 7 BR · ground and first floors",
+      "area": "1952 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-21-a6e563dee25b.webp",
+      "sha256": "a6e563dee25b96a65bfc9bcdbb03061bd693e66392ef175a8afd26c480b21025",
+      "originalBytes": 853750,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 01 · 7 BR · basement",
+      "area": "1952 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-22-1ab2fa0c7234.webp",
+      "sha256": "1ab2fa0c7234d75d6add2da43b7b7ff14887e9b3fa568c528f0ae2ce7e2b9f91",
+      "originalBytes": 1562564,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 02 · 6 BR · area and plot key",
+      "area": "1868 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-29-e5df28a8e488.webp",
+      "sha256": "e5df28a8e48898887ab04ea70673b0f82cecc52304b206041149bc9e4fc60e10",
+      "originalBytes": 1731760,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 02 · 6 BR · ground and first floors",
+      "area": "1868 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-30-42dc7b5b2edb.webp",
+      "sha256": "42dc7b5b2edb66fefca1ef157f3cba6ed5ebd06c228fda892355a4f165b55c2b",
+      "originalBytes": 833692,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 02 · 6 BR · basement",
+      "area": "1868 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-31-243bb6590b47.webp",
+      "sha256": "243bb6590b47a30eacacd9af001bcd68d10af575c8cbce8981a362984f3bb0c9",
+      "originalBytes": 2113288,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 03 · 5 BR · area and plot key",
+      "area": "1820 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-37-5f701452d53b.webp",
+      "sha256": "5f701452d53b0c31fda88010659e9119a143217a833e8f53d5a472cbe48b9829",
+      "originalBytes": 1209200,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 03 · 5 BR · ground and first floors",
+      "area": "1820 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-38-01165d5d40f7.webp",
+      "sha256": "01165d5d40f7b28c0b2a8a570aa02bde346769e25f2b8e5c85b21761502333e0",
+      "originalBytes": 996232,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 03 · 5 BR · basement",
+      "area": "1820 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-39-4e9718dc196a.webp",
+      "sha256": "4e9718dc196a8864422c980e0f9a182d6a72d4f810d3c4caafc604a42ab14847",
+      "originalBytes": 1953246,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 04 · 5 BR · area and plot key",
+      "area": "1946 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-46-768871b1bd31.webp",
+      "sha256": "768871b1bd31c734a4001ac0a4b1421c54d3f327ad75814171139888f9048f40",
+      "originalBytes": 2044378,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 04 · 5 BR · ground and first floors",
+      "area": "1946 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-47-a8781883c443.webp",
+      "sha256": "a8781883c443daa2c88ed0aa414b49f522330f2916fa8b8020d3bbc8fce40c62",
+      "originalBytes": 969848,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 04 · 5 BR · basement",
+      "area": "1946 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-48-e0d5e02027a0.webp",
+      "sha256": "e0d5e02027a0aa6db6f3092fd1dcf0fa45ac5437807c4d94d71146c17ef65385",
+      "originalBytes": 1487724,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 05 · 5 BR · area and plot key",
+      "area": "1219 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 56,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-56-f0b3bb4c2b0f.webp",
+      "sha256": "f0b3bb4c2b0fde899e344951590b7e040bfc53ea081621c36e8def8629ad62e9",
+      "originalBytes": 2002986,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 05 · 5 BR · ground and first floors",
+      "area": "1219 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 57,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-57-39da2cf721a1.webp",
+      "sha256": "39da2cf721a104ceb4aaae0e2e0db1a00b5db05426ff3856ae262394998dabe8",
+      "originalBytes": 832882,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 05 · 5 BR · basement",
+      "area": "1219 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 58,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-58-d3b17267db10.webp",
+      "sha256": "d3b17267db1030efb8acb49f13280e430be164486bcfec37ec9520d208151cf4",
+      "originalBytes": 1939210,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 05 · extended plot and optional pod",
+      "area": "1265 m² printed overall GSA · distinct extended-plot variant",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 59,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-59-5e0ad0835f6f.webp",
+      "sha256": "5e0ad0835f6f326c40e6385cba118ffb93fe8e5a9bf1324ff47072e78a25239d",
+      "originalBytes": 533850,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 06 · 6 BR · area and plot key",
+      "area": "1280 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 66,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-66-f6c40fc3c60b.webp",
+      "sha256": "f6c40fc3c60b21df0720642511401ff1d110ecb5a1822702a1e34bde680c44fe",
+      "originalBytes": 1405606,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 06 · 6 BR · ground and first floors",
+      "area": "1280 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 67,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-67-01d93e392de6.webp",
+      "sha256": "01d93e392de6806be58f10cad94f6c02edb51d5729159465adfa70e14b50c0f3",
+      "originalBytes": 786210,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 06 · 6 BR · basement",
+      "area": "1280 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 68,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-68-ff3edbbfcbb1.webp",
+      "sha256": "ff3edbbfcbb17e88a4f5f60d078a1e9f6a576fbb3015342827d528bf46f567ae",
+      "originalBytes": 1751642,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 06 · extended plot and optional pod",
+      "area": "1328 m² printed overall GSA · distinct extended-plot variant",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 69,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-69-f721e35d7c34.webp",
+      "sha256": "f721e35d7c34a348bb8ec07c35b9aa70392cb1947e35f0c4f404c0e751fb04cc",
+      "originalBytes": 495402,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 07 · 7 BR · area and plot key",
+      "area": "1289 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 76,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-76-40f51c22cf66.webp",
+      "sha256": "40f51c22cf66a5996287aa686d8f54a957104aa00d0ccc5575e27047638ee534",
+      "originalBytes": 1626934,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 07 · 7 BR · ground and first floors",
+      "area": "1289 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 77,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-77-752d5b0df08a.webp",
+      "sha256": "752d5b0df08ad453df0f871a60a306e2858153673fdc63ad20da5ff1f1c0b2e1",
+      "originalBytes": 764590,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 07 · 7 BR · basement",
+      "area": "1289 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 78,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-78-d9dc171ddaba.webp",
+      "sha256": "d9dc171ddabac50070f6d0e4bc3dee53dd48b806e36ba63e77a662dbd13a5071",
+      "originalBytes": 1631544,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 07 · extended plot and optional pod",
+      "area": "1337 m² printed overall GSA · distinct extended-plot variant",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 79,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-79-c8f8fdf90f4f.webp",
+      "sha256": "c8f8fdf90f4f64f50bd763b6349ac31a83ae60be95aa3f0ebbf4ea2e21812e51",
+      "originalBytes": 494202,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 08 · 5 BR · area and plot key",
+      "area": "1197 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 86,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-86-fd602e4a9136.webp",
+      "sha256": "fd602e4a9136fabefed43b7a09024ccc9f274a1fa3c81a0f0f329feab37625d5",
+      "originalBytes": 1731106,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 08 · 5 BR · ground and first floors",
+      "area": "1197 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 87,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-87-8997ea0a3e48.webp",
+      "sha256": "8997ea0a3e48a1ccb3bff4402b5b26294251d372b4c5ec7dc31ee47299e61aca",
+      "originalBytes": 728092,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 08 · 5 BR · basement",
+      "area": "1197 m² printed whole-villa GSA",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 88,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-88-856c78e2b360.webp",
+      "sha256": "856c78e2b360d00139e5f7fc89046c7079d50b4001f69911f0626644e62c14bf",
+      "originalBytes": 1834638,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Heights 08 · extended plot and optional pod",
+      "area": "1246 m² printed overall GSA · distinct extended-plot variant",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 89,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-89-10108402bf42.webp",
+      "sha256": "10108402bf42da587ba2b5c185fda4cffdda54c28f96f6337c0ce036707db73c",
+      "originalBytes": 464444,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    },
+    {
+      "label": "Homes edition · regional location map",
+      "area": "Community context, no villa area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/modon/nawayef-east/plan-page-11-a69e429eff9d.webp",
+      "sha256": "a69e429eff9d6a1f35e8dfd25e9e46b3432f35232e978e3845e3de87ecf066c5",
+      "originalBytes": 418756,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Homes edition · Hudayriyat master plan",
+      "area": "Community context, no villa area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/modon/nawayef-east/plan-page-17-c8b3d77ed12d.webp",
+      "sha256": "c8b3d77ed12db5eec4e2cec050ffe12cbb01a407dd1277986aa9b2fc5207d92a",
+      "originalBytes": 2126824,
+      "width": 3600,
+      "height": 2022
+    },
+    {
+      "label": "Heights edition · Hudayriyat master plan",
+      "area": "Community context, no villa area",
+      "sourceIds": [
+        "plans-heights"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/modon/nawayef-east/plan-heights-page-17-8535ceade3ae.webp",
+      "sha256": "8535ceade3aea740f6244fd5d2a8ced2790191323c6891990f70cf63fa5ffa70",
+      "originalBytes": 1983386,
+      "width": 3600,
+      "height": 2022,
+      "source": {
+        "url": "https://mcpuae.com/wp-content/uploads/2026/01/Nawayef-East-by-Modon-Heights.pdf",
+        "label": "Nawayef East Heights · complete original brochure, MCP broker mirror",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/modon/nawayef-east/floor-plans-heights-3f4903d7625d.pdf",
+        "sha256": "3f4903d7625d5a6ac242e88d04575a4ddd33f7b129cad27d9773c3e613315284"
+      }
+    }
+  ]
+}

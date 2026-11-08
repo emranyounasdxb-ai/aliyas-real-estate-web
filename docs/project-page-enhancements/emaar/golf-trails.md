@@ -1,0 +1,12 @@
+# Golf Trails page enhancement — verified 4 November 2026
+
+Protected identity: Emaar / emaar-project-02 / golf-trails. Seven original developer renders from the precise official project gallery/banner have been visually checked and saved byte for byte, hashed and source linked. The actual building render is the detail/card/developer-hero cover; two own interior images form the overview scenes. No stock images presented as this project's architecture.
+
+Sources:
+- https://www.emaar.com/en/properties/golf-trails-at-emaar-south — own gallery, published pin24.86444,55.136196, and Emaar South regional diagram. Captured page/RSC evidence retained locally.
+- https://www.emaar.com/cms-media/uploads/Golf-Trails_brochure.pdf — physical page3 visually checked: Al Maktoum Airport5min, Expo City10min, Dubai Marina30min, Downtown/Burj Khalifa35min, DXB45min. All qualified community estimates, not live traffic. No kilometre estimates invented.
+- https://www.emaar.com/cms-media/uploads/Golf-Trails_floorplan.pdf — ordinary live re-fetchHTTP200 matched the preserved researched original. Fifteen complete residence sheets (physical3–17), including thirteen apartment sheets and two townhouse sheets, retain labels, source notices and room dimensions. All15 title/area panels visually inspected. Apartment total areas and townhouse ranges are copied from their own sheet, without substituting suite area. Sheets delivered in2400px lossless WebP; original PDF remains byte identical and downloadable.
+
+Reviewed selection and field review notes: docs/project-page-enhancement-selections/emaar/golf-trails.json. Reproducible generic asset preparation: scripts/prepare-project-enhancement.mjs. Media/location/plan registries use protected identity validation. Location/floor-plan files are namespaced by developer to avoid future identical-slug collisions. Canonical575 text records are untouched.
+
+Optimized build aNhjYe-i4I42jGoOz5kJA, previewPID28772. Own-project browser case passed in22.4s (25.5s including runner), covering all original asset/PDF hashes, all15 selectable sheets/areas/source pages, five widths in light/dark, four full-detail accessibility audits, map/destination layout, original-size keyboard viewer/Escape/focus restore, correct actual card image and absence of status badges. The broader batch also passed all four existing Avelia imagery cases and the prior eleven sample/detail regressions; the longer payment section required the test to scroll its lazy map into view before decoding, now corrected. Local only; no enquiries, deployment or push.

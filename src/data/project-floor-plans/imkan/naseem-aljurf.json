@@ -1,0 +1,1020 @@
+{
+  "projectId": "imkan-project-01",
+  "projectSlug": "naseem-aljurf",
+  "developerSlug": "imkan",
+  "source": {
+    "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Master%20E-Brochure%20-%20EN.pdf",
+    "label": "IMKAN · complete original Naseem master brochure",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-f9905475102b.pdf",
+    "sha256": "f9905475102b97836d940e38b263bfa3f38a9f90133484db4a435de44bd3c914"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare complete original layouts and source schedules.",
+  "selectorLabel": "Choose a home sheet, area schedule or community map",
+  "note": "Sellable, BUA and plot measurements stay separate. Linked packs disagree on Canal labels, Alghaf areas, apartment levels and West Block schedules. Loft and unit-conversion errors remain visible. Family ranges do not establish each drawing type’s area. Confirm the contracted edition, measurements, floors and inclusions. Whole sheets, original labels and notices remain intact.",
+  "plans": [
+    {
+      "label": "Canal Frame",
+      "area": "534 m² sellable / 606 m² BUA",
+      "sourceIds": [
+        "plans-canal"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-canal-page-5-98e5c8233689.webp",
+      "sha256": "98e5c8233689e4ff52a92cd961353fd5dbbd0ae8679b2c085acd8bed8c198097",
+      "originalBytes": 1448222,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_CANAL_VILLAS.pdf",
+        "label": "Naseem: Canal drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-canal-1fdf76a0d600.pdf",
+        "sha256": "1fdf76a0d6002062036a9ba112df6bb3735d4a7ae23f7e5121781c623fc7b2e4"
+      }
+    },
+    {
+      "label": "Canal Strata · standalone pack",
+      "area": "534 m² sellable printed · ground label disputed",
+      "sourceIds": [
+        "plans-canal"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-canal-page-6-c90a9e349820.webp",
+      "sha256": "c90a9e349820c1e04cbf3583f73dc7199f77ec01831ee10119a79277caf934e7",
+      "originalBytes": 1499612,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_CANAL_VILLAS.pdf",
+        "label": "Naseem: Canal drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-canal-1fdf76a0d600.pdf",
+        "sha256": "1fdf76a0d6002062036a9ba112df6bb3735d4a7ae23f7e5121781c623fc7b2e4"
+      }
+    },
+    {
+      "label": "Canal area schedule",
+      "area": "534 m² sellable / 606 m² BUA",
+      "sourceIds": [
+        "plans-canal"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-canal-page-7-a00e71376e32.webp",
+      "sha256": "a00e71376e32c6a7923a6187e09a335433290c7fe769297d7d11fe7edebe94da",
+      "originalBytes": 1676076,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_CANAL_VILLAS.pdf",
+        "label": "Naseem: Canal drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-canal-1fdf76a0d600.pdf",
+        "sha256": "1fdf76a0d6002062036a9ba112df6bb3735d4a7ae23f7e5121781c623fc7b2e4"
+      }
+    },
+    {
+      "label": "Canal Strata · villa pack",
+      "area": "534 m² sellable / 606 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-28-185af7ded15e.webp",
+      "sha256": "185af7ded15ef5aca656f18878ace117efb77bd2925b246de1720e6e3a1c4eb5",
+      "originalBytes": 2007494,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Somer · ground and first",
+      "area": "Whole home 277 m² sellable / 325 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-38-5060ac0a0c6c.webp",
+      "sha256": "5060ac0a0c6c165e313a987970c9d1e073e395dba467b41998cb7a4fbbfa6d5b",
+      "originalBytes": 1507380,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Somer · second",
+      "area": "Whole home 277 m² sellable / 325 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-39-057e88fda7ab.webp",
+      "sha256": "057e88fda7abc425dd551c2061baecb7d65622029204a9d6ce885c3782226bc0",
+      "originalBytes": 2412222,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Somer area schedule",
+      "area": "277 m² sellable / 325 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-37-ca1f2995de00.webp",
+      "sha256": "ca1f2995de007c843bd184823debc55bdddd213942c7157465924dfadd96f6ee",
+      "originalBytes": 1902932,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Tala Frame",
+      "area": "293 m² sellable / 329 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-47-58cb1dbf14d5.webp",
+      "sha256": "58cb1dbf14d5f5799b721b2219c5d9c7916e1319761cc672874cd7e50df2a77f",
+      "originalBytes": 1488528,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Tala Strata",
+      "area": "293 m² sellable / 329 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-52-4a901856f540.webp",
+      "sha256": "4a901856f5409ced6910847c741e725914aff08976ace0bb185f7c02bf4c8e32",
+      "originalBytes": 1488802,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Tala area schedule",
+      "area": "293 m² sellable / 329 m² BUA",
+      "sourceIds": [
+        "plans-villas"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-villas-page-51-39b982875bcd.webp",
+      "sha256": "39b982875bcd1c688d8c3bd99a4fc7fe66d9bcce651fd70999a6a270f73df040",
+      "originalBytes": 2731080,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN%20Naseem%20AlJurf%20Floorplan%20-%20Somer%20Villas%20-%20EN.pdf",
+        "label": "Naseem: villa brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-villas-001b6884e306.pdf",
+        "sha256": "001b6884e306d88b37dbd56ec67863edb71eb78a885e666b809137487ad69962"
+      }
+    },
+    {
+      "label": "Acacia · ground and first",
+      "area": "Whole home 359 m² sellable / 430 m² BUA",
+      "sourceIds": [
+        "plans-acacia"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-acacia-page-6-d5ca73e3e045.webp",
+      "sha256": "d5ca73e3e045072e161374cc884cb468d1eaa1373973c7bdd038bd018ca31a1a",
+      "originalBytes": 1162640,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_Acacia_VILLAS.pdf",
+        "label": "Naseem: Acacia drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-acacia-1fad84dfece7.pdf",
+        "sha256": "1fad84dfece7b88ada87a39f1cdcbbc347495fe4f0a6aa628a917510ad25f84c"
+      }
+    },
+    {
+      "label": "Acacia · second",
+      "area": "Whole home 359 m² sellable / 430 m² BUA",
+      "sourceIds": [
+        "plans-acacia"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-acacia-page-7-d656231eb6f2.webp",
+      "sha256": "d656231eb6f223f7015ca2b000ecdfb9029fe0e5c5f86b006cf3e301f2fbed8d",
+      "originalBytes": 1071412,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_Acacia_VILLAS.pdf",
+        "label": "Naseem: Acacia drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-acacia-1fad84dfece7.pdf",
+        "sha256": "1fad84dfece7b88ada87a39f1cdcbbc347495fe4f0a6aa628a917510ad25f84c"
+      }
+    },
+    {
+      "label": "Acacia area schedule",
+      "area": "359 m² sellable / 430 m² BUA",
+      "sourceIds": [
+        "plans-acacia"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-acacia-page-5-19eb9fb02cf5.webp",
+      "sha256": "19eb9fb02cf50069faca916a53197842ba8c596196a991ac3f7548cf096de542",
+      "originalBytes": 517572,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor_Plan_Villa_Acacia_VILLAS.pdf",
+        "label": "Naseem: Acacia drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-acacia-1fad84dfece7.pdf",
+        "sha256": "1fad84dfece7b88ada87a39f1cdcbbc347495fe4f0a6aa628a917510ad25f84c"
+      }
+    },
+    {
+      "label": "Alghaf · townhouse pack",
+      "area": "164 m² sellable / 187 m² BUA",
+      "sourceIds": [
+        "plans-townhouses"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-townhouses-page-22-14127331f997.webp",
+      "sha256": "14127331f9975e7ece9497b016d40ee6c8c85cef77c0b5bc99c9b9a0fec4cb1f",
+      "originalBytes": 1539224,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Townhouses.pdf",
+        "label": "Naseem: townhouse brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-townhouses-f265aa332a61.pdf",
+        "sha256": "f265aa332a617d5e55e57aaa7c1562e158fab20c84155543459d945fdf4a0c25"
+      }
+    },
+    {
+      "label": "Alghaf townhouse schedule",
+      "area": "164 m² sellable / 187 m² BUA",
+      "sourceIds": [
+        "plans-townhouses"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-townhouses-page-21-843b18413710.webp",
+      "sha256": "843b1841371056c9d8c88be8bcd0bc2d364f3639ce1a16de122d77f276759ef7",
+      "originalBytes": 1216978,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Townhouses.pdf",
+        "label": "Naseem: townhouse brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-townhouses-f265aa332a61.pdf",
+        "sha256": "f265aa332a617d5e55e57aaa7c1562e158fab20c84155543459d945fdf4a0c25"
+      }
+    },
+    {
+      "label": "Sikka",
+      "area": "163 m² sellable / 168 m² BUA",
+      "sourceIds": [
+        "plans-sikka"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-sikka-page-6-f7bd141725f2.webp",
+      "sha256": "f7bd141725f2c01d4e37a984d6ac5596c90e6929fa0f26ef4968d0de0eca5e3e",
+      "originalBytes": 1142614,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Townhouse_Sikka.pdf",
+        "label": "Naseem: Sikka drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-sikka-a07c0cd3b379.pdf",
+        "sha256": "a07c0cd3b37911c14b95368d7d21a3552126b392650f531e17f5302f7e4e0fa6"
+      }
+    },
+    {
+      "label": "Sikka area schedule",
+      "area": "163 m² sellable / 168 m² BUA",
+      "sourceIds": [
+        "plans-sikka"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-sikka-page-5-9391abab421f.webp",
+      "sha256": "9391abab421fffd48b8b4ef1df812cf55a30341a070c6573077ec4ea1d33becf",
+      "originalBytes": 1509040,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Townhouse_Sikka.pdf",
+        "label": "Naseem: Sikka drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-sikka-a07c0cd3b379.pdf",
+        "sha256": "a07c0cd3b37911c14b95368d7d21a3552126b392650f531e17f5302f7e4e0fa6"
+      }
+    },
+    {
+      "label": "Main lofts · garden and corner",
+      "area": "57 / 76 m² printed sellable · corner disputed",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-6-7f92301bc2f5.webp",
+      "sha256": "7f92301bc2f53f8663b97f013d316dd89e51d4bdfb15acbbab32c29d3f0e9f49",
+      "originalBytes": 1008228,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main loft area schedules",
+      "area": "57 / 76 m² printed sellable · corner disputed",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-7-88f0a5c7ee61.webp",
+      "sha256": "88f0a5c7ee612f95423cd6da0d96cd7beb805f2e4fbab40b0cf8a7da447950af",
+      "originalBytes": 1515628,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 1 BR · standalone pack",
+      "area": "75–106 m² sellable family range",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-9-bd7fa06bd02f.webp",
+      "sha256": "bd7fa06bd02f8d6422cb78e5712dbead42abc2371c73a13f542f67f38a156423",
+      "originalBytes": 452384,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 2 BR · standalone pack",
+      "area": "119 middle / 125 corner m² sellable",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-11-3291da552f0b.webp",
+      "sha256": "3291da552f0b7e38def90ba32025584d91bb1f750d10d6920e09037edbeabd93",
+      "originalBytes": 1157704,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 2 BR area schedules",
+      "area": "119 middle / 125 corner m² sellable",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-12-820496e0069e.webp",
+      "sha256": "820496e0069efdcdb5042c95973a65b1de053775c2baee69d00f01bd6953315e",
+      "originalBytes": 513098,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 3 BR penthouse",
+      "area": "217 m² sellable",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-14-b007ead89362.webp",
+      "sha256": "b007ead89362ea19b34a9c54617a12fad218b8aa08bdffa5ee5caa8f79064511",
+      "originalBytes": 521566,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 3 BR duplex",
+      "area": "188 m² sellable",
+      "sourceIds": [
+        "plans-apartment-plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartment-plans-page-16-c908616d042f.webp",
+      "sha256": "c908616d042f76e5fbe1fb8efa755a1b3c09233d5b570ca08f3e5c9399a4acfd",
+      "originalBytes": 626148,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/2128203607_IMKAN_Naseem_EBrochure_Eng_Floor%20plan_Apartment.pdf",
+        "label": "Naseem: main apartment drawings",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartment-plans-ebb9ac964db5.pdf",
+        "sha256": "ebb9ac964db5439df3dd012c0b8b38155e8b5200c008f98199900b57bc4ffb48"
+      }
+    },
+    {
+      "label": "Main 1 BR · apartment pack",
+      "area": "75–106 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-28-f361c98278e5.webp",
+      "sha256": "f361c98278e58f7c174644a2bb2820e7d01f2f2b3e9f4a82a2a8cd18174c4f27",
+      "originalBytes": 522640,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "Main 2 BR · apartment pack",
+      "area": "119 middle / 125 corner m² sellable",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-30-896a4902018c.webp",
+      "sha256": "896a4902018c4f691813f13ea727e3593228078188859a2d792458941c83ef61",
+      "originalBytes": 1277224,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 1 BR · apartment pack",
+      "area": "79–100 m² printed sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-48-9258ef6e5838.webp",
+      "sha256": "9258ef6e5838d81855a2940360b71e30587998bf66ec0ff4f7a528b290a5cd20",
+      "originalBytes": 1170152,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 1 BR apartment schedule",
+      "area": "79–100 m² printed sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-49-faae8388a428.webp",
+      "sha256": "faae8388a4287ecf0cb1c9794316cadf97a3bd001e2bd740e5ff945acb437ad0",
+      "originalBytes": 1287776,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 2 BR · types 1–4 · apartment pack",
+      "area": "113–174 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-51-360328a848f7.webp",
+      "sha256": "360328a848f705098bba3f322e3a3513700ebe43f783021ec9d7978110c75b9f",
+      "originalBytes": 1528430,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 2 BR · types 5–8 · apartment pack",
+      "area": "113–174 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-52-3e43bfea7bb4.webp",
+      "sha256": "3e43bfea7bb407a3182f7305c413f29bd9967ad7d84b8146b56f205e19f28127",
+      "originalBytes": 993218,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 2 BR apartment schedule",
+      "area": "113–174 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-53-61ca3ca363c6.webp",
+      "sha256": "61ca3ca363c664485fb295d289f2ff04a36c49dab7816a8711d373206a217a30",
+      "originalBytes": 744076,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 3 BR · types 1–4 · apartment pack",
+      "area": "181–276 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 55,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-55-76011ad86ddf.webp",
+      "sha256": "76011ad86ddfcbe03a45c870ae79b0acf9646130a10cd107f4c0d009aeaccd7f",
+      "originalBytes": 1557724,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 3 BR · types 5–7 · apartment pack",
+      "area": "181–276 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 56,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-56-dbffc16edc5e.webp",
+      "sha256": "dbffc16edc5e63b5184dc3795f0fa7909f61eb89a558393c5e6035894c6f9c0b",
+      "originalBytes": 914268,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 3 BR apartment schedule",
+      "area": "181–276 m² sellable family range",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 57,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-57-c32fe8fb40a2.webp",
+      "sha256": "c32fe8fb40a2dffcaba48a0ddf5945036544df09be438b3f685e92e9c9d099e2",
+      "originalBytes": 1008596,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 3 BR duplex · apartment pack",
+      "area": "274 m² sellable",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 59,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-59-8964ed653776.webp",
+      "sha256": "8964ed65377607a474e4d2b8a4920bcddb2dc8d48badb546d2756cb67c2e3e9f",
+      "originalBytes": 947168,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 3 BR duplex apartment schedule",
+      "area": "274 m² sellable",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 60,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-60-58589be204f1.webp",
+      "sha256": "58589be204f196e601327c64b96dfdc53f81c65f4eeab778d73b22b2b722ddc7",
+      "originalBytes": 1068530,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 4 BR duplex · apartment pack",
+      "area": "325 m² sellable",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 62,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-62-ca45230c19cc.webp",
+      "sha256": "ca45230c19cc67b4b1188b05bb03404b00f96db412d1bcff5ad066a9afdc5cb3",
+      "originalBytes": 945418,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "West 4 BR duplex apartment schedule",
+      "area": "325 m² sellable",
+      "sourceIds": [
+        "plans-apartments"
+      ],
+      "sourcePage": 64,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-apartments-page-64-a21af37638f5.webp",
+      "sha256": "a21af37638f5a131243dff5af1bd75098b8d04a8e1d5c24ac78027036ea9fd30",
+      "originalBytes": 1363448,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://www.imkan.ae/sites/default/files/2026-04/IMKAN_Naseem_Apartments_compressed.pdf",
+        "label": "Naseem: apartment and West Block brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/imkan/naseem-aljurf/floor-plans-apartments-70edae599143.pdf",
+        "sha256": "70edae5991430a2a9ea6ba7a5ee2a83862261b02204898d62d5eec8398e98b30"
+      }
+    },
+    {
+      "label": "Alghaf · master pack",
+      "area": "174 m² sellable / 203 m² BUA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 68,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-68-31b301d35331.webp",
+      "sha256": "31b301d3533163879491b8101d05311ca8e95885a91752f5ad81f5c0bedaf3dd",
+      "originalBytes": 1698946,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Alghaf master schedule",
+      "area": "174 m² sellable / 203 m² BUA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 67,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-67-cd2d227e88cc.webp",
+      "sha256": "cd2d227e88cc05fa2f2b242f9e7d1e9692afb9c1f630f5cd11c8504e5de67d94",
+      "originalBytes": 1471048,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 1 BR · master pack",
+      "area": "79–88 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 108,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-108-516cbbd28a46.webp",
+      "sha256": "516cbbd28a464aa9f76e57280e35163374885d4bd91d321045e065c4abf50cf5",
+      "originalBytes": 1351880,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 1 BR master schedule",
+      "area": "79–88 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 109,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-109-b6a392a25f0d.webp",
+      "sha256": "b6a392a25f0d5cbba6f6c10a3170d0864041040225f43c4ce8fab87d059e162a",
+      "originalBytes": 1566136,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 2 BR · types 1–4 · master pack",
+      "area": "114–176 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 111,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-111-9d1c863bde26.webp",
+      "sha256": "9d1c863bde268e7b6353baaab2b686977a347f5d66dc8199bf5484a61d18bf57",
+      "originalBytes": 1643212,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 2 BR · types 5–8 · master pack",
+      "area": "114–176 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 112,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-112-81b06a2f919b.webp",
+      "sha256": "81b06a2f919b81f87218516d0bef141c819afb621f54708494c213b7ccc1ba68",
+      "originalBytes": 1113632,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 2 BR master schedule",
+      "area": "114–176 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 113,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-113-522bdee9069e.webp",
+      "sha256": "522bdee9069ebac7db9e1227cfeb1ab0dcd08e827abc310da0078232733f364c",
+      "originalBytes": 970710,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 3 BR · types 1–4 · master pack",
+      "area": "182–245 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 115,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-115-ec09d47291f6.webp",
+      "sha256": "ec09d47291f6e5f94eb7a69443c325df87229ee7a700a98193edba6196b0cdcd",
+      "originalBytes": 1628166,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 3 BR · types 5–7 · master pack",
+      "area": "182–245 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 116,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-116-ec1653056e47.webp",
+      "sha256": "ec1653056e47f96fd3106488d9672b42e9f7cabccfd42d82de7440ac90f710cd",
+      "originalBytes": 1019242,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 3 BR master schedule",
+      "area": "182–245 m² sellable family range",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 117,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-117-445fbd9bcea5.webp",
+      "sha256": "445fbd9bcea584c3b8e58db31721c85ca7dcfbb69e8ba641a5190155e580a084",
+      "originalBytes": 1209212,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 3 BR duplex · master pack",
+      "area": "288 m² sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 119,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-119-d7a4ec75115e.webp",
+      "sha256": "d7a4ec75115e772b8ecbeb18bd274c06de674ff80409729625007c63681a4afc",
+      "originalBytes": 1045706,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 3 BR duplex master schedule",
+      "area": "288 m² sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 120,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-120-2efe2d1b8b71.webp",
+      "sha256": "2efe2d1b8b71dd776519ff685001570f631d9d410ae37a0935cbd92f5167d417",
+      "originalBytes": 1365056,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 4 BR duplex · master pack",
+      "area": "362 m² sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 122,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-122-c31c5adc93af.webp",
+      "sha256": "c31c5adc93af317f63d1e2f6dc58e2838f6dcf2ec7a961940890081b1b023cdf",
+      "originalBytes": 1032120,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "West 4 BR duplex master schedule",
+      "area": "362 m² sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 124,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-124-e90852a18f65.webp",
+      "sha256": "e90852a18f65e04ad6ad35e61d7dfa7b305ba9b71cb43f278cc5a022018e3b0b",
+      "originalBytes": 1553840,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "AlJurf master plan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-5-b1cdda8d3a2c.webp",
+      "sha256": "b1cdda8d3a2c68519f6ef0de8e9599c5b637880022756aa9a9295e725c7fcf12",
+      "originalBytes": 5408796,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Naseem master plan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-8-872c4c039ac7.webp",
+      "sha256": "872c4c039ac76e8cf0ea75747b71692abbfb771a3d67b31bb6671e1c722afd26",
+      "originalBytes": 3451250,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Published connectivity sheet",
+      "area": "Community travel estimates",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/imkan/naseem-aljurf/plan-page-9-eead81189a93.webp",
+      "sha256": "eead81189a9313f9c31609af156727c4843d0d6e3b3344fee72c96c121a8b920",
+      "originalBytes": 1284626,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Naseem regional diagram",
+      "area": "Community context",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://www.imkan.ae/sites/default/files/2025-02/al-naseem-map.png",
+        "label": "IMKAN · original Naseem regional diagram"
+      },
+      "src": "/images/projects/imkan/naseem-aljurf/plan-image-56-5f7b108d3329.png",
+      "sha256": "5f7b108d3329a907ac5f3daa1f9d70f6a7bf3d979a6a62b4af258761af771334",
+      "originalBytes": 54426,
+      "width": 598,
+      "height": 584
+    }
+  ]
+}

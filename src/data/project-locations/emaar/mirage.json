@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-89",
+  "projectSlug": "mirage",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "The Oasis",
+  "map": {
+    "src": "/images/projects/emaar/mirage/location-997f9dfdae45.png",
+    "sha256": "997f9dfdae455686d6333ea0c68db5d8094b806d6999a7ae4e51cfa0812ecd17",
+    "originalBytes": 576491,
+    "width": 2400,
+    "height": 1625,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/388440_brochure_File_f9fe1cabd0_prod.pdf#page=5",
+    "alt": "Emaar’s Regional connectivity map from the Mirage brochure.",
+    "scope": "Regional connectivity map from the Mirage brochure."
+  },
+  "travelHeading": "Estimated travel times in the Emaar brochure",
+  "travel": {
+    "page": 5,
+    "scope": "Regional connectivity map from the Mirage brochure.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 18
+      },
+      {
+        "name": "Dubai Hills Estate and Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Marina and Dubai Marina Mall",
+        "minutes": 28
+      },
+      {
+        "name": "Downtown Dubai and Dubai Mall",
+        "minutes": 35
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/388440_brochure_File_f9fe1cabd0_prod.pdf"
+  },
+  "travelNote": "The brochure gives community travel estimates. Check the current route and traffic.",
+  "pin": {
+    "latitude": 25.005129,
+    "longitude": 55.210543,
+    "sourceUrl": "https://www.emaar.com/en/properties/mirage-at-the-oasis",
+    "scope": "Emaar’s published Mirage collection point. Confirm the address for a specific villa."
+  }
+}

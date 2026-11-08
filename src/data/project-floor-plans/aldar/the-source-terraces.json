@@ -1,0 +1,87 @@
+{
+  "projectId": "aldar-project-35",
+  "projectSlug": "the-source-terraces",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/The+Source+III_FactSheet_EN.pdf/10984f56d8aa11f0aa9466254722ed67",
+    "label": "Aldar The Source Terraces factsheet",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/the-source-terraces/floor-plans-c37f1e50f35f.pdf",
+    "sha256": "c37f1e50f35f47b0d233e1c178efaf89001d8ac9f4b315c131efa1e163d33a78"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare four furnished Type A layouts, from one- to four-bedroom homes, published for The Source Terraces.",
+  "selectorLabel": "Choose a Source Terraces floor plan",
+  "note": "Property Finder lists an area for the one-bedroom example. Confirm the signed drawing and measured total for the selected unit.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "1,184 sq ft listed area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/7569a383-60d8-4b8b-9a9b-8b8afdc0392a/floor_plan/image/vk0E9rsBeO5aX6U0H_Xja-_hU2-fSc3TbJFZkpvk6-c%3D/original.webp",
+        "label": "Property Finder · The Source Terraces furnished plan"
+      },
+      "src": "/images/projects/aldar/the-source-terraces/plan-image-1-eaed97a47a20.webp",
+      "sha256": "eaed97a47a20e09df31870d3ac37c7a14f02ced87699bc299edea325d6db6118",
+      "originalBytes": 35778,
+      "width": 1032,
+      "height": 796
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/bf3bfcef-10c5-4771-abdc-fbea146be632/floor_plan/image/s23dzhjbYiNz4XvZAt4-3rQszjDMYzMfoTCCEkFeA9k%3D/original.webp",
+        "label": "Property Finder · The Source Terraces furnished plan"
+      },
+      "src": "/images/projects/aldar/the-source-terraces/plan-image-2-bff0bc2e6230.webp",
+      "sha256": "bff0bc2e623071a3621f69df1a3549f15a81c5865b471d192c895e22e6d6b769",
+      "originalBytes": 20566,
+      "width": 616,
+      "height": 796
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/60b76302-5e6e-4554-afa9-a144e4535a4a/floor_plan/image/-Suna87eL0468tSOtdHktd_fiFN0fX06T2FqGh3DAxM%3D/original.webp",
+        "label": "Property Finder · The Source Terraces furnished plan"
+      },
+      "src": "/images/projects/aldar/the-source-terraces/plan-image-3-377538010ffc.webp",
+      "sha256": "377538010ffc945a8f316dc82c0d62e61ccf349e664304aa524f5ca28b6b2f4d",
+      "originalBytes": 50430,
+      "width": 1194,
+      "height": 728
+    },
+    {
+      "label": "4 BR · Type A",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://new-projects-media.propertyfinder.com/unit/7c9f2f19-07a1-46ac-b086-9151c22bfecc/floor_plan/image/4_M1o3jbW2dHsyFBm93byD_4XKaJc6zREXw6gR84XaU%3D/original.webp",
+        "label": "Property Finder · The Source Terraces furnished plan"
+      },
+      "src": "/images/projects/aldar/the-source-terraces/plan-image-4-ab0abff5c3cc.webp",
+      "sha256": "ab0abff5c3ccf5523c2796246a51093149002597a3388b6dc9f0ed7105e8c3f2",
+      "originalBytes": 34218,
+      "width": 818,
+      "height": 746
+    }
+  ]
+}

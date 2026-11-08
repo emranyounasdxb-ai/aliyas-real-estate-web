@@ -1,0 +1,52 @@
+{
+  "projectId": "meraas-project-12",
+  "projectSlug": "madinat-jumeirah-living-riwa",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "community": "Madinat Jumeirah Living, Umm Suqeim, Dubai",
+  "road": "Near Sheikh Zayed Road in Umm Suqeim",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/meraas/madinat-jumeirah-living-riwa/location-1a369414c668.png",
+    "sha256": "1a369414c668187271688951bdd173a8d237dd13a9cfa734e9a45a100b57a180",
+    "originalBytes": 1095043,
+    "width": 2350,
+    "height": 882,
+    "sourceUrl": "https://meraas.com/sites/default/files/2025-05/MJL_Riwa_Brochure%20English_3.pdf#page=5",
+    "alt": "Meraas regional map showing Madinat Jumeirah Living and Dubai landmarks.",
+    "scope": "The developer’s map shows the broader Madinat Jumeirah Living community. Riwa is marked on the separate masterplan in the same brochure.",
+    "caption": "Madinat Jumeirah Living location map, Riwa brochure PDF page 5."
+  },
+  "sourceLabel": "Riwa brochure",
+  "travel": {
+    "sourceUrl": "https://meraas.com/sites/default/files/2025-05/MJL_Riwa_Brochure%20English_3.pdf#page=5",
+    "scope": "Approximate drive times for the wider Madinat Jumeirah Living community published in the Riwa brochure.",
+    "destinations": [
+      {
+        "name": "Sheikh Zayed Road",
+        "minutes": 2
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 5
+      },
+      {
+        "name": "Palm Jumeirah",
+        "minutes": 10
+      },
+      {
+        "name": "Bluewaters",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 17
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "Actual times depend on traffic and the route from the selected building."
+}

@@ -1,0 +1,57 @@
+{
+  "projectId": "nshama-project-18",
+  "projectSlug": "fia",
+  "developerSlug": "nshama",
+  "checkedOn": "2026-11-07",
+  "community": "Town Square, Dubai",
+  "road": "Off Al Qudra Road",
+  "pin": {
+    "latitude": 25.005099,
+    "longitude": 55.28577,
+    "sourceUrl": "https://continentalclub.ae/project/fia-town-square/",
+    "scope": "Approximate building point published by Continental Club and checked against the Nshama master plan. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/nshama/fia/location-2f71d0cc04d6.png",
+    "sha256": "2f71d0cc04d6b2300e212be7365c7d32733845419bbe2421d1e22dd00d2e35f5",
+    "originalBytes": 4852827,
+    "width": 1980,
+    "height": 1064,
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2024/03/FIA-Brochure-Final.pdf#page=4",
+    "alt": "Nshama master plan showing the Fia site within Town Square, Dubai.",
+    "scope": "The developer’s community master plan marks the project plot.",
+    "caption": "Fia at Town Square"
+  },
+  "sourceLabel": "Nshama brochure location estimates",
+  "travel": {
+    "sourceUrl": "https://nshama.ae/wp-content/uploads/2024/03/FIA-Brochure-Final.pdf#page=8",
+    "scope": "Approximate times from the wider Town Square community.",
+    "destinations": [
+      {
+        "name": "District 2020 (Expo City area)",
+        "minutes": 20
+      },
+      {
+        "name": "Dubai Hills Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Burj Al Arab",
+        "minutes": 24
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 28
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 29
+      }
+    ]
+  },
+  "travelNote": "The brochure gives community estimates. The entrance, route and traffic can affect travel time."
+}

@@ -1,0 +1,95 @@
+{
+  "projectId": "reportage-project-24",
+  "projectSlug": "bianca",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/Bianca-Unit-Types-Final-Digital.pdf",
+    "label": "Bianca · original complete townhouse types",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/bianca/floor-plans-02f013033317.pdf",
+    "sha256": "02f013033317c13a3b9d40321f4b8885022367dadab86e6b85b9fa4520a43539"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare complete two, three and four-bedroom townhouses with every drawn level.",
+  "selectorLabel": "Choose a residence or building level",
+  "note": "Three complete townhouse sheets retain their level keys, QR codes and notices. Printed totals include outdoor space. The 2 BR components sum to 1,554–1,666 sq ft against printed 1,555–1,667. The 3 BR upper components sum to 5,939 against printed 5,940. The 4 BR schedule matches. Confirm the plot, contracted revision and area.",
+  "plans": [
+    {
+      "label": "2 BR townhouse A · both levels",
+      "area": "1,555–1,667 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/bianca/plan-page-6-4493ba01e398.webp",
+      "sha256": "4493ba01e39886d5f7e246c8642f09f1240f6258e5340cebb3a7e89af1869360",
+      "originalBytes": 3296134,
+      "width": 3600,
+      "height": 2521
+    },
+    {
+      "label": "3 BR townhouse A · both levels",
+      "area": "2,446–5,940 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/bianca/plan-page-7-56c41f3d1d31.webp",
+      "sha256": "56c41f3d1d313ca7fedc507932078f4047c1608a651607b6601304a0b882374f",
+      "originalBytes": 3185938,
+      "width": 3600,
+      "height": 2521
+    },
+    {
+      "label": "4 BR townhouse A · all three levels",
+      "area": "2,308–2,347 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/bianca/plan-page-8-37db5ffa9583.webp",
+      "sha256": "37db5ffa9583e4d236b0db872ba2ab6dbd23ec4e97d26046079e4376a02eb8c7",
+      "originalBytes": 3416240,
+      "width": 3600,
+      "height": 2521
+    },
+    {
+      "label": "Original community master plan",
+      "area": "Original context drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/bianca/plan-page-10-f1e21c451959.webp",
+      "sha256": "f1e21c45195958c210d2acc2a21200116eb022ebec0278cbe64ac8c307381eba",
+      "originalBytes": 9815518,
+      "width": 3600,
+      "height": 2520
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/bianca/plan-brochure-page-5-9c4e8048895a.webp",
+      "sha256": "9c4e8048895a7bc32b69959c11061e75fe89b0fae007f44974a0e124afe7c507",
+      "originalBytes": 270514,
+      "width": 3600,
+      "height": 1260,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/Bianca-Brochure-Final-Digital.pdf",
+        "label": "Bianca · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/bianca/floor-plans-brochure-89a00738f603.pdf",
+        "sha256": "89a00738f6037a88ae10b63d6d81ed38b16af48d8a15e4abab16fd3f8648cbcd"
+      }
+    }
+  ]
+}

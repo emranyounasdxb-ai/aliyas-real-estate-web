@@ -1,0 +1,64 @@
+{
+  "projectId": "binghatti-project-09",
+  "projectSlug": "binghatti-skyterraces",
+  "developerSlug": "binghatti",
+  "checkedOn": "2026-11-06",
+  "community": "Motor City, Dubai",
+  "road": "Motor City with access towards E311 and Al Khail Road",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/binghatti/binghatti-skyterraces/location-2fa4489dea6b.png",
+    "sha256": "2fa4489dea6bacb640f748e0f7d4dc07665af63e5176e7d07f67f2ac9bf8c3f0",
+    "originalBytes": 471253,
+    "width": 2092,
+    "height": 2059,
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-brochure.pdf#page=11",
+    "alt": "Binghatti SkyTerraces marked at Motor City on the developer’s schematic map.",
+    "scope": "The illustrated travel bands are approximate. Use the project name to confirm the building approach.",
+    "caption": "Binghatti SkyTerraces and its Motor City connections, Binghatti brochure PDF page 11."
+  },
+  "sourceLabel": "Binghatti SkyTerraces brochure",
+  "travel": {
+    "sourceUrl": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/binghatti-skyterraces-assets/binghatti-skyterraces-brochure.pdf#page=11",
+    "scope": "Approximate journey times published for Binghatti SkyTerraces in Motor City.",
+    "destinations": [
+      {
+        "name": "Dubai Autodrome",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Miracle Garden and Butterfly Garden",
+        "minutes": 8
+      },
+      {
+        "name": "Global Village",
+        "minutes": 12
+      },
+      {
+        "name": "Meydan Hotel and Racecourse",
+        "minutes": 15
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 18
+      },
+      {
+        "name": "Burj Al Arab and Jumeirah Beach",
+        "minutes": 18
+      },
+      {
+        "name": "Burj Khalifa and Dubai Mall",
+        "minutes": 20
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 20
+      }
+    ]
+  },
+  "travelNote": "Journey times follow Binghatti’s nearby-landmarks table and vary with route and traffic."
+}

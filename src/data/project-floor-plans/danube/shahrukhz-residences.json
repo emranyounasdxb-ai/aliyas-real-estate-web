@@ -1,0 +1,530 @@
+{
+  "projectId": "danube-project-01",
+  "projectSlug": "shahrukhz-residences",
+  "developerSlug": "danube",
+  "source": {
+    "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/shahrukhz-residences/floor-plans",
+    "label": "Danube official plan archive · Floorplan_Oct17.pdf",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/danube/shahrukhz-residences/floor-plans-ecf137bd14ca.pdf",
+    "sha256": "ecf137bd14caa4d7e5300caf102853df3047218aff162b2d1725ce552e5f037f"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2900,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare tower and ocean residences, penthouses, and ground-level commercial layouts in the original Danube plan book.",
+  "selectorLabel": "Choose a Shahrukhz Residences layout or floor plate",
+  "note": "Areas are printed on the marketing drawings. The plan book separates tower, ocean and penthouse layouts. Confirm the drawing and area for your unit.",
+  "plans": [
+    {
+      "label": "Tower · Studio",
+      "area": "412–426 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-4-f6e0fd3eba72.webp",
+      "sha256": "f6e0fd3eba725ed6b8c04a84c283b7573f233c735c4dca7a6890d7ab5a9e9a7f",
+      "originalBytes": 2024332,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex studio",
+      "area": "395–430 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-5-48770a0a66f6.webp",
+      "sha256": "48770a0a66f68de7f473d2b879708df61f7005799e7e7e47b2a5482c79296626",
+      "originalBytes": 2085590,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · 1 BR Type A",
+      "area": "535–545 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-6-ca026bc30429.webp",
+      "sha256": "ca026bc304298e91e88830287c462e556f68ca4ec708495fb0d471efa9a9c9c9",
+      "originalBytes": 2260258,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · 1 BR Type B",
+      "area": "538 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-7-2057cad022f9.webp",
+      "sha256": "2057cad022f9affa2e58e3d293b8cca79837f0eac7132d17557eebbde3a6bcd4",
+      "originalBytes": 2062430,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · 1 BR Type C",
+      "area": "602–622 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-8-1990ceab7090.webp",
+      "sha256": "1990ceab7090dc4e1a6d527f70743e1814bc139cd1d50dbdf4aae81ee27bdf96",
+      "originalBytes": 2329364,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex 1 BR Type A",
+      "area": "630–652 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-9-513cd2362862.webp",
+      "sha256": "513cd23628627ec59b092ff2ba33ece9ba75b52c7131a749cfffae996956455e",
+      "originalBytes": 2267030,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex 1 BR Type B",
+      "area": "706 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-10-41c67faef6cd.webp",
+      "sha256": "41c67faef6cd1381ec8e2ed771460c173169e63df3059b1686716850ef5172cb",
+      "originalBytes": 2088962,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex Plus 1 BR",
+      "area": "797 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-11-ceb2e94806df.webp",
+      "sha256": "ceb2e94806df80d922207fb35ec3c0d4428db05fa92cfd3b0267bc5e38067bbe",
+      "originalBytes": 2393244,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · King’s 1 BR",
+      "area": "804–813 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-16-4d282cd26946.webp",
+      "sha256": "4d282cd26946d5d1d58a958fc93376c22a8eaf27b51c1a82508063bf3195f110",
+      "originalBytes": 2605752,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex Plus 2 BR Type A",
+      "area": "1,051 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-17-c8294247aa18.webp",
+      "sha256": "c8294247aa1879427769c20b69096c8141602e641de7bf66b08646f7138b1266",
+      "originalBytes": 2574308,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Flex Plus 2 BR Type B",
+      "area": "1,223 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-18-9852d7c4a89c.webp",
+      "sha256": "9852d7c4a89cb8f8188b5ea2cfea988118da23a5f852c1c0c4a5a480819f9325",
+      "originalBytes": 2654474,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · King’s 2 BR",
+      "area": "1,222–1,239 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-19-04032166dd28.webp",
+      "sha256": "04032166dd28cf26006daeeb393671445c864ff5f06be3b0731eec6013d1cc70",
+      "originalBytes": 2747314,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Tower · Premium 3 BR",
+      "area": "1,446 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-20-baf5d5209978.webp",
+      "sha256": "baf5d5209978ca38c71adfa05606db9a7575ea423130fbc8e7444226ee542aa7",
+      "originalBytes": 2709072,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Ocean · Flex studio",
+      "area": "403–409 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-29-1cf55b1331eb.webp",
+      "sha256": "1cf55b1331eb7667f050e03205d0427e771b7fbaac1db8072f86095567196605",
+      "originalBytes": 1904834,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Ocean · Flex Plus 1 BR",
+      "area": "756–768 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-30-0f581f04681c.webp",
+      "sha256": "0f581f04681c240ad69bb37fa8de8e81b695b20f5cafb0198a70aad51b2e9400",
+      "originalBytes": 2446010,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Ocean · Flex Plus 2 BR",
+      "area": "1,057–1,066 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-31-291a9f7ecc48.webp",
+      "sha256": "291a9f7ecc48b65f65219a21e33206d187158eb47fb7abb20e13e4b1e9f43b66",
+      "originalBytes": 3057860,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Ocean · Signature King’s Ocean Suite",
+      "area": "1,524–1,616 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-32-4c7e5215ab6d.webp",
+      "sha256": "4c7e5215ab6d35ef466a34aeabaf2ed42e93ecb03b3ea135d6bf4fd03c5ae5eb",
+      "originalBytes": 2841010,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Penthouse · 4 BR Premium",
+      "area": "2,594 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-37-44d2fa6139ef.webp",
+      "sha256": "44d2fa6139ef18828c126269a17049b563313497f03ac364431b0460f2ee4b93",
+      "originalBytes": 2483384,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Penthouse · 5 BR Premium Type A",
+      "area": "3,607 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-38-a93ea8fa3c4d.webp",
+      "sha256": "a93ea8fa3c4d4caf703cd0b80485d476aca5124ed77ffc55906127d6e2a3b145",
+      "originalBytes": 2888164,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Penthouse · 5 BR Premium Type B",
+      "area": "3,565 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-39-0e89877d8545.webp",
+      "sha256": "0e89877d8545d4889e970286ad864e5d8796fd8fc33c5a3a25ade674e37f68a2",
+      "originalBytes": 2966766,
+      "width": 2900,
+      "height": 2051
+    },
+    {
+      "label": "Retail 02",
+      "area": "953 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-43-467af09888e7.webp",
+      "sha256": "467af09888e79ac608c543f32387aae66a66a286cb3b45ef2061246ac95224ca",
+      "originalBytes": 982502,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 03",
+      "area": "1,393 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-44-a5faafea93f1.webp",
+      "sha256": "a5faafea93f1f741ca8914a677dde5b9a426b19741c231aa28898190fd63e6e0",
+      "originalBytes": 997280,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 04",
+      "area": "1,414 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-45-0e6313db2ba0.webp",
+      "sha256": "0e6313db2ba0180d6adf34a487d735d91922bd2324498119c8c3230eb6d8830a",
+      "originalBytes": 1000074,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 05",
+      "area": "1,660 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-46-433e15fa09e6.webp",
+      "sha256": "433e15fa09e63bbb4c1235bd55199c08c76344b7ba8d3dfafe9cd64f5d969085",
+      "originalBytes": 1060664,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 07",
+      "area": "1,103 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-47-6f1f708a8132.webp",
+      "sha256": "6f1f708a8132ce83b52dd0b29f0847947feb0190231928957dddffe08a3a9d3f",
+      "originalBytes": 974176,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 08",
+      "area": "1,468 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-48-2fdc88b18bc1.webp",
+      "sha256": "2fdc88b18bc1b18ff38fe92d6bbde78c66d65c67366667e723e75555948facb5",
+      "originalBytes": 996540,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 09",
+      "area": "1,496 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-49-56897bc07cee.webp",
+      "sha256": "56897bc07ceea15b10987ee2ff5cc7b6b3946630a0e845e2069a9499eeec7646",
+      "originalBytes": 979656,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 10",
+      "area": "727 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-50-295154e0ca16.webp",
+      "sha256": "295154e0ca1653a4fdd11c88176e49bf7e42ef54395469d69a1f03b24835a511",
+      "originalBytes": 997270,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 12",
+      "area": "1,601 sq ft retail area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-51-b510edb81729.webp",
+      "sha256": "b510edb817297971d58c07482ded7f4bc6be286b3c93744a1e2e2b462c3e5353",
+      "originalBytes": 986916,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 13",
+      "area": "1,469 sq ft retail area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-52-71f7c6ad49c3.webp",
+      "sha256": "71f7c6ad49c3bf4bc6bd779ca950163e6da4c3176c88d23708e86758ec62913a",
+      "originalBytes": 1002298,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 14",
+      "area": "2,921 sq ft retail area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-53-0e8ab4962688.webp",
+      "sha256": "0e8ab496268868deb5ce15b3ec9efd3c115aea7e2cee68521b26411d6619a12f",
+      "originalBytes": 1017796,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 15",
+      "area": "1,414 sq ft retail area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 54,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-54-abcb4e68b4d4.webp",
+      "sha256": "abcb4e68b4d44cf1ac044cfa6620c7129c52c8a5dee19c34151f977df78a0ea2",
+      "originalBytes": 973424,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Retail 16",
+      "area": "1,707 sq ft retail area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 55,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-55-2dacf18316b5.webp",
+      "sha256": "2dacf18316b5f5819175172c3b27dbb77ef0ff16f72c9f75758d48c79b131914",
+      "originalBytes": 994414,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Nursery 01",
+      "area": "4,167 sq ft nursery area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 56,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-56-39508560f314.webp",
+      "sha256": "39508560f31407539748cd565b091533398a959d0942d3e58778f764e96ea8e1",
+      "originalBytes": 1459224,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Tower floor plates · Levels 10–32 and 34–55",
+      "area": "Overall floor area is not printed on this sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-21-e4f6e6f2cafb.webp",
+      "sha256": "e4f6e6f2cafbc202b6805aeb531e4e5ed3b4bef8a9d20e3279a502942859cce6",
+      "originalBytes": 2827020,
+      "width": 2900,
+      "height": 2052
+    },
+    {
+      "label": "Ocean floor plate · Levels 1–4",
+      "area": "Overall floor area is not printed on this sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-33-da1c80918e10.webp",
+      "sha256": "da1c80918e10d7084892cc67ef9c2bafd9474ed97a3fddc54ff9338f69c1fd77",
+      "originalBytes": 1188302,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Ocean floor plate · Levels 5–8",
+      "area": "Overall floor area is not printed on this sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-34-751d303c29c9.webp",
+      "sha256": "751d303c29c97e2cd11c5062401f8c8de61fe84be1eeff251e9a797f8fe29dcb",
+      "originalBytes": 1180518,
+      "width": 2900,
+      "height": 2072
+    },
+    {
+      "label": "Penthouse floor plate · Levels 56 and 57",
+      "area": "Overall floor area is not printed on this sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-40-0989f8941b29.webp",
+      "sha256": "0989f8941b29cf5dc54307bdf44c07eaa477f630b9f085a47c3c45f4c2873ee7",
+      "originalBytes": 2306162,
+      "width": 2900,
+      "height": 2052
+    },
+    {
+      "label": "Ground floor plate · Retail and nursery",
+      "area": "Overall floor area is not printed on this sheet",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 57,
+      "src": "/images/projects/danube/shahrukhz-residences/plan-page-57-6f72adb81e5a.webp",
+      "sha256": "6f72adb81e5a6634bfe0b7f9de8b1b738994cacd8aab41fcc2d257a70f5c51c7",
+      "originalBytes": 1111726,
+      "width": 2900,
+      "height": 2072
+    }
+  ]
+}

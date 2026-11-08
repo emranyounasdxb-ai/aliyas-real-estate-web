@@ -1,0 +1,36 @@
+{
+  "projectId": "damac-project-08",
+  "projectSlug": "violet-4",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://www.winforth.ae/wp-content/uploads/2025/05/Violet-4-Floor-Plan.pdf",
+    "label": "DAMAC Violet 4 Phase 2 plans · Winforth-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/violet-4/floor-plans-d7fd58ba6c30.pdf",
+    "sha256": "d7fd58ba6c3040332a6250d157580fe2485eb63761c3066522e28e7d58bf9064"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the TH12-4E and TH12-4M four-bedroom townhouses. Both designs appear on the same original sheet with ground, first and roof levels.",
+  "selectorLabel": "Choose a Violet 4 floor plan",
+  "note": "The area table gives total saleable area including applicable garage, balcony and terrace area. Confirm the drawing and signed area for your unit.",
+  "plans": [
+    {
+      "label": "4 BR · TH12-4E and TH12-4M",
+      "area": "TH12-4E 2,415.33 · TH12-4M 2,352.26 sq ft saleable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/damac/violet-4/plan-page-3-540bdd5fbd57.webp",
+      "sha256": "540bdd5fbd57a5aefedb6a33a655c0ab712a4dfca59f5af0f7c84bd8f6651bcf",
+      "originalBytes": 924748,
+      "width": 2600,
+      "height": 920
+    }
+  ]
+}

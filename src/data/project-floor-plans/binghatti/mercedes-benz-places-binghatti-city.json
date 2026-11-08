@@ -1,0 +1,638 @@
+{
+  "projectId": "binghatti-project-22",
+  "projectSlug": "mercedes-benz-places-binghatti-city",
+  "developerSlug": "binghatti",
+  "source": {
+    "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-bc-brochure.pdf",
+    "label": "Binghatti City master brochure · Layouts by tower",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-ea757ccb3d8b.pdf",
+    "sha256": "ea757ccb3d8bee052f11db0d0c8fd21c21432b50548f3265def013fa63c4bb51"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 4001,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the masterplan and compare residence drawings for the different tower groups in Binghatti City.",
+  "selectorLabel": "Choose a Binghatti City tower and floor plan",
+  "note": "Drawings and published areas apply to the named tower group. Some tables print m² beside values in the SQ.FT column. The selector follows the column heading. The Vision Iconic brochure and website publish different layouts and areas, shown as separate source editions.",
+  "plans": [
+    {
+      "label": "Binghatti City · Tower masterplan",
+      "area": "Site diagram with tower labels",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-20-ff7c6b92b393.webp",
+      "sha256": "ff7c6b92b393a87d81a4c23149a16be65618b5a6f365405e0ab961e2eee7e086",
+      "originalBytes": 4780396,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 1 BR Type 01, brochure",
+      "area": "836.99 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-24-37e4c4d478cb.webp",
+      "sha256": "37e4c4d478cb7bcabd460433ab9b4739bc5220b1a4e17ea69144eca75a0ee111",
+      "originalBytes": 5751452,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 2 BR Type 02, brochure",
+      "area": "1,927.37 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-24-37e4c4d478cb.webp",
+      "sha256": "37e4c4d478cb7bcabd460433ab9b4739bc5220b1a4e17ea69144eca75a0ee111",
+      "originalBytes": 5751452,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 3 BR Type 01, brochure",
+      "area": "2,493.00 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-25-3c5e879158eb.webp",
+      "sha256": "3c5e879158ebce820f1b45ac5aa58e42bb27c8752bcab8c818944620ee1ad58e",
+      "originalBytes": 4996306,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 4 BR duplex, brochure",
+      "area": "3,022.15 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-26-b7c19c99b1de.webp",
+      "sha256": "b7c19c99b1de236254d45440a9ec5d3df410ae5614baef5d45028e03d41b48fc",
+      "originalBytes": 5674792,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 5 BR duplex, brochure",
+      "area": "3,776.05 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-27-494044827c07.webp",
+      "sha256": "494044827c07fc7ac5b8e5482ded7212ee379d243be01b7b07f6783c0c467e32",
+      "originalBytes": 5730322,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Project Maybach · Studio Type 01",
+      "area": "385.03 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-page-5-65b9e9b919df.webp",
+      "sha256": "65b9e9b919df38a2eae6609ecf93318efd31a5588aa43abe37158088570bc9f7",
+      "originalBytes": 3478828,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Project Maybach fact sheet and plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-e44565c7f5e1.pdf",
+        "sha256": "e44565c7f5e156803bcda8def6fb2882ecb19756e7bf70337e3249dd88892446"
+      }
+    },
+    {
+      "label": "Project Maybach · 1 BR Type 01",
+      "area": "632.16 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-page-5-65b9e9b919df.webp",
+      "sha256": "65b9e9b919df38a2eae6609ecf93318efd31a5588aa43abe37158088570bc9f7",
+      "originalBytes": 3478828,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Project Maybach fact sheet and plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-e44565c7f5e1.pdf",
+        "sha256": "e44565c7f5e156803bcda8def6fb2882ecb19756e7bf70337e3249dd88892446"
+      }
+    },
+    {
+      "label": "Project Maybach · 2 BR Type 01",
+      "area": "992.00 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-page-6-c84c5a2ded4e.webp",
+      "sha256": "c84c5a2ded4e0a395a69d3026ecc8ff522f5fb864274b080b0e2f20bb90c23b4",
+      "originalBytes": 3615630,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Project Maybach fact sheet and plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-e44565c7f5e1.pdf",
+        "sha256": "e44565c7f5e156803bcda8def6fb2882ecb19756e7bf70337e3249dd88892446"
+      }
+    },
+    {
+      "label": "Project Maybach · 3 BR Type 01",
+      "area": "1,321.38 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-page-6-c84c5a2ded4e.webp",
+      "sha256": "c84c5a2ded4e0a395a69d3026ecc8ff522f5fb864274b080b0e2f20bb90c23b4",
+      "originalBytes": 3615630,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Project Maybach fact sheet and plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-e44565c7f5e1.pdf",
+        "sha256": "e44565c7f5e156803bcda8def6fb2882ecb19756e7bf70337e3249dd88892446"
+      }
+    },
+    {
+      "label": "Maybach Ultimate Luxury · Studio Type 01",
+      "area": "361.13 sq ft published total area",
+      "sourceIds": [
+        "plans-ultimate-luxury"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-ultimate-luxury-page-4-2401908c4994.webp",
+      "sha256": "2401908c49949b5218bf21692f47498c46057db9c31934ef35642712bab87036",
+      "originalBytes": 3406080,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach Ultimate Luxury plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-ultimate-luxury-73cbdb8a1392.pdf",
+        "sha256": "73cbdb8a139295bbf6152fd2396b4bac704ee2a805810555bad1733371decd23"
+      }
+    },
+    {
+      "label": "Maybach Ultimate Luxury · 1 BR Type 01",
+      "area": "617.31 sq ft published total area",
+      "sourceIds": [
+        "plans-ultimate-luxury"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-ultimate-luxury-page-4-2401908c4994.webp",
+      "sha256": "2401908c49949b5218bf21692f47498c46057db9c31934ef35642712bab87036",
+      "originalBytes": 3406080,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach Ultimate Luxury plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-ultimate-luxury-73cbdb8a1392.pdf",
+        "sha256": "73cbdb8a139295bbf6152fd2396b4bac704ee2a805810555bad1733371decd23"
+      }
+    },
+    {
+      "label": "Maybach Ultimate Luxury · 2 BR Type 01",
+      "area": "980.16 sq ft published total area",
+      "sourceIds": [
+        "plans-ultimate-luxury"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-ultimate-luxury-page-5-c617a50ecf2e.webp",
+      "sha256": "c617a50ecf2ec995098b8f71b522f3c7992c85070e99054dca87091cecb23a28",
+      "originalBytes": 3612046,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach Ultimate Luxury plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-ultimate-luxury-73cbdb8a1392.pdf",
+        "sha256": "73cbdb8a139295bbf6152fd2396b4bac704ee2a805810555bad1733371decd23"
+      }
+    },
+    {
+      "label": "Maybach Ultimate Luxury · 3 BR Type 01",
+      "area": "1,284.35 sq ft published total area",
+      "sourceIds": [
+        "plans-ultimate-luxury"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-ultimate-luxury-page-5-c617a50ecf2e.webp",
+      "sha256": "c617a50ecf2ec995098b8f71b522f3c7992c85070e99054dca87091cecb23a28",
+      "originalBytes": 3612046,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-ultimate-luxury-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach Ultimate Luxury plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-ultimate-luxury-73cbdb8a1392.pdf",
+        "sha256": "73cbdb8a139295bbf6152fd2396b4bac704ee2a805810555bad1733371decd23"
+      }
+    },
+    {
+      "label": "Maybach 6 · Studio Type 01",
+      "area": "361.13 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach-6"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-6-page-5-e2f49f4b436e.webp",
+      "sha256": "e2f49f4b436ec10bcf9fa01db15d8d37e1a9b0a302a1f3b7917fe80ff0085e80",
+      "originalBytes": 3366672,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach 6 plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-6-8ab3b4cb7bba.pdf",
+        "sha256": "8ab3b4cb7bbac0f5193c8b8fab3550b3e13ad36751926272517d0f34325f4954"
+      }
+    },
+    {
+      "label": "Maybach 6 · 1 BR Type 01",
+      "area": "617.31 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach-6"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-6-page-5-e2f49f4b436e.webp",
+      "sha256": "e2f49f4b436ec10bcf9fa01db15d8d37e1a9b0a302a1f3b7917fe80ff0085e80",
+      "originalBytes": 3366672,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach 6 plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-6-8ab3b4cb7bba.pdf",
+        "sha256": "8ab3b4cb7bbac0f5193c8b8fab3550b3e13ad36751926272517d0f34325f4954"
+      }
+    },
+    {
+      "label": "Maybach 6 · 2 BR Type 01",
+      "area": "980.16 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach-6"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-6-page-6-8e6374f519f3.webp",
+      "sha256": "8e6374f519f3a1dcf31cba37a9ec8dd5ab79bd5c1cf12909d3e14d676480a782",
+      "originalBytes": 3595098,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach 6 plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-6-8ab3b4cb7bba.pdf",
+        "sha256": "8ab3b4cb7bbac0f5193c8b8fab3550b3e13ad36751926272517d0f34325f4954"
+      }
+    },
+    {
+      "label": "Maybach 6 · 3 BR Type 01",
+      "area": "1,284.35 sq ft published total area",
+      "sourceIds": [
+        "plans-maybach-6"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-maybach-6-page-6-8e6374f519f3.webp",
+      "sha256": "8e6374f519f3a1dcf31cba37a9ec8dd5ab79bd5c1cf12909d3e14d676480a782",
+      "originalBytes": 3595098,
+      "width": 3500,
+      "height": 2511,
+      "source": {
+        "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/mbp-bc-assets/mbp-maybach-6-vision-project-fact-floor-plan.pdf",
+        "label": "Binghatti · Vision Mercedes-Maybach 6 plans",
+        "reviewedOn": "2026-11-06",
+        "pdf": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/floor-plans-maybach-6-8ab3b4cb7bba.pdf",
+        "sha256": "8ab3b4cb7bbac0f5193c8b8fab3550b3e13ad36751926272517d0f34325f4954"
+      }
+    },
+    {
+      "label": "Vision Simplex · Studio Type 01",
+      "area": "385.03 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-41-48ad008ad482.webp",
+      "sha256": "48ad008ad482821a7bcabf00cb001bc4a6a0ef490e26fa4c21b6301e6fa96c16",
+      "originalBytes": 4741012,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Simplex · 1 BR Type 01",
+      "area": "632.16 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-41-48ad008ad482.webp",
+      "sha256": "48ad008ad482821a7bcabf00cb001bc4a6a0ef490e26fa4c21b6301e6fa96c16",
+      "originalBytes": 4741012,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Simplex · 2 BR Type 01",
+      "area": "992.00 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-42-9c055528ee87.webp",
+      "sha256": "9c055528ee87bcf98a361416dfc5773304e6a7a2635f3c15bbe977c53679e938",
+      "originalBytes": 5012280,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Simplex · 3 BR Type 01",
+      "area": "1,321.38 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-42-9c055528ee87.webp",
+      "sha256": "9c055528ee87bcf98a361416dfc5773304e6a7a2635f3c15bbe977c53679e938",
+      "originalBytes": 5012280,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision AVTR · Studio Type 01",
+      "area": "385.03 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-45-a8adb81940e1.webp",
+      "sha256": "a8adb81940e1c8321a645aef871a5612bcf7097508bead7033a12147b2cf6673",
+      "originalBytes": 4738698,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Mercedes-Benz AMG Vision · Studio Type 01",
+      "area": "385.03 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-48-999fbace417d.webp",
+      "sha256": "999fbace417d9762f00192629146c5d76768b064f3faea314c3a12be60df0031",
+      "originalBytes": 4749528,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision AVTR · 1 BR Type 01",
+      "area": "632.16 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-45-a8adb81940e1.webp",
+      "sha256": "a8adb81940e1c8321a645aef871a5612bcf7097508bead7033a12147b2cf6673",
+      "originalBytes": 4738698,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Mercedes-Benz AMG Vision · 1 BR Type 01",
+      "area": "632.16 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-48-999fbace417d.webp",
+      "sha256": "999fbace417d9762f00192629146c5d76768b064f3faea314c3a12be60df0031",
+      "originalBytes": 4749528,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision AVTR · 2 BR Type 01",
+      "area": "992.00 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-46-5d56dfca7901.webp",
+      "sha256": "5d56dfca79013a6e05a3e22896128de251180a7ab7decb19b34e9062d920379a",
+      "originalBytes": 4895856,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Mercedes-Benz AMG Vision · 2 BR Type 01",
+      "area": "992.00 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-49-88e2660d0c76.webp",
+      "sha256": "88e2660d0c76805303de97fc6c74388378c4b842ccc888fed607a854900c2ab2",
+      "originalBytes": 4926716,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision One-Eleven · 1 BR Type 01",
+      "area": "632.16 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-52-9583bfb92c76.webp",
+      "sha256": "9583bfb92c762fa92e8cdba294f0c5a5ef688f9b21d1859126c5a97e694ac483",
+      "originalBytes": 4733702,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision One-Eleven · 2 BR Type 01",
+      "area": "992.00 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-52-9583bfb92c76.webp",
+      "sha256": "9583bfb92c762fa92e8cdba294f0c5a5ef688f9b21d1859126c5a97e694ac483",
+      "originalBytes": 4733702,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision One-Eleven · 3 BR Type 01",
+      "area": "1,321.38 sq ft published total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-page-53-ad03d40d8aca.webp",
+      "sha256": "ad03d40d8aca067b51d89f0a3b8bbaa46117c586ced23ec6f602174e151adc11",
+      "originalBytes": 5107130,
+      "width": 3500,
+      "height": 2511
+    },
+    {
+      "label": "Vision Iconic · 1 BR Type 01, website",
+      "area": "822.90 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-one-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-32-90742b46dd5e.jpg",
+      "sha256": "90742b46dd5e3b77e0dc00d1197cc3a24967e2000a9afb1038f235e3fa41e271",
+      "originalBytes": 409510,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 1 BR Type 02, website",
+      "area": "822.90 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-one-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-33-90742b46dd5e.jpg",
+      "sha256": "90742b46dd5e3b77e0dc00d1197cc3a24967e2000a9afb1038f235e3fa41e271",
+      "originalBytes": 409510,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 2 BR Type 01, website",
+      "area": "1,024.94 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-two-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-34-a1591bad6707.jpg",
+      "sha256": "a1591bad670779bf378edb99bafd2f07bd71dfd696dbce2f3c292ea1a6b839f0",
+      "originalBytes": 441194,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 2 BR Type 02, website",
+      "area": "1,037.32 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-two-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-35-a1591bad6707.jpg",
+      "sha256": "a1591bad670779bf378edb99bafd2f07bd71dfd696dbce2f3c292ea1a6b839f0",
+      "originalBytes": 441194,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 3 BR Type 01, website",
+      "area": "1,312.23 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-three-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-36-00165fed5cd3.jpg",
+      "sha256": "00165fed5cd36c72068e5d49ef74db3366542eb7a734748b0d590524dedeec0e",
+      "originalBytes": 460781,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 3 BR Type 02, website",
+      "area": "1,197.92 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-three-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-37-00165fed5cd3.jpg",
+      "sha256": "00165fed5cd36c72068e5d49ef74db3366542eb7a734748b0d590524dedeec0e",
+      "originalBytes": 460781,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 4 BR duplex Type 01, website",
+      "area": "3,089.57 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-four-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-38-9ae9f5b7f4b8.jpg",
+      "sha256": "9ae9f5b7f4b86cfe3945b4c52211ba90765d04e9e5ae7012697bf9bd761f7bb9",
+      "originalBytes": 452103,
+      "width": 4001,
+      "height": 2251
+    },
+    {
+      "label": "Vision Iconic · 5 BR duplex Type 01, website",
+      "area": "2,556 sq ft published total area",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/vision-icon-five-bedroom-layout-1.webp",
+        "label": "Binghatti Vision Iconic project website drawing"
+      },
+      "src": "/images/projects/binghatti/mercedes-benz-places-binghatti-city/plan-image-39-8a22e206f9a1.jpg",
+      "sha256": "8a22e206f9a1ab823d478fc90084c57dca6cc08d549c9d34ded9a40e82be8bbb",
+      "originalBytes": 460713,
+      "width": 4001,
+      "height": 2251
+    }
+  ]
+}

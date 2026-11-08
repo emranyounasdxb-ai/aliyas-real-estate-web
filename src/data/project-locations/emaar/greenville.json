@@ -1,0 +1,48 @@
+{
+  "projectId": "emaar-project-77",
+  "projectSlug": "greenville",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Emaar South",
+  "map": {
+    "src": "/images/projects/emaar/greenville/location-28bd3526cb28.png",
+    "sha256": "28bd3526cb283202667d8833e6052630a821db8bda192bbbf4aecd3a46792dce",
+    "originalBytes": 414490,
+    "width": 2400,
+    "height": 1350,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/GreenVille_brochure.pdf#page=4",
+    "alt": "Emaar’s regional Emaar South map in the Greenville brochure.",
+    "scope": "Developer’s regional map, with the Greenville project point provided separately."
+  },
+  "travelHeading": "Approximate driving times published for Emaar South",
+  "travel": {
+    "page": 4,
+    "scope": "Estate driving estimates in Emaar’s Greenville brochure.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 7
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 20
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/GreenVille_brochure.pdf"
+  },
+  "travelNote": "The brochure gives estimates for the community. Check traffic and directions to your exact home.",
+  "pin": {
+    "latitude": 24.854781655662904,
+    "longitude": 55.105737898154025,
+    "sourceUrl": "https://www.emaar.com/en/properties/greenville-at-emaar-south",
+    "scope": "Emaar’s published Greenville project point. Confirm directions to your own plot before visiting."
+  }
+}

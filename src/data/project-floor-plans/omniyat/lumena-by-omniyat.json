@@ -1,0 +1,49 @@
+{
+  "projectId": "omniyat-project-07",
+  "projectSlug": "lumena-by-omniyat",
+  "developerSlug": "omniyat",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/lumena-by-omniyat/lumena-by-omniyat-brochure.pdf",
+    "label": "Original OMNIYAT LUMENA brochure, hosted by Mitchell’s",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/omniyat/lumena-by-omniyat/floor-plans-933e2622684f.pdf",
+    "sha256": "933e2622684fd593cc8b869ae638879c25e1ff7aadef715deeb308169b2e5def"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published office and half-floor plates, including their terraces, lift cores and area schedules.",
+  "selectorLabel": "Choose a LUMENA office floor plate",
+  "note": "The office sheet lists totals of 5,999, 4,389 and 5,374 sq ft for Units 01, 02 and 03. The half-floor sheet lists 8,350 and 7,982 sq ft. Each total includes the external terrace. The printed figures are approximate.",
+  "plans": [
+    {
+      "label": "Office floor plate · Units 01–03",
+      "area": "4,389–5,999 sq ft total per office with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/omniyat/lumena-by-omniyat/plan-page-25-a79063a89e44.webp",
+      "sha256": "a79063a89e44ca7621a38150e3470b4debcd6c6899b2d4038419763a25a6a031",
+      "originalBytes": 965626,
+      "width": 2800,
+      "height": 1575
+    },
+    {
+      "label": "Half-floor plate · Units 01–02",
+      "area": "7,982–8,350 sq ft total per office with terrace",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/omniyat/lumena-by-omniyat/plan-page-27-8764376aa8ea.webp",
+      "sha256": "8764376aa8eadfc04bcf21df0902ec081aa0bf51f59c217b72f2d0f58595e855",
+      "originalBytes": 953592,
+      "width": 2800,
+      "height": 1575
+    }
+  ]
+}

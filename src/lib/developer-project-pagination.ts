@@ -1,11 +1,10 @@
-import type { DeveloperProjectRecord } from './developer-projects';
-import { matchesLocation, readLocationFilter } from './locations';
+import { matchesLocation, readLocationFilter, type LocatedProject } from './locations';
 
 export const DEVELOPER_HERO_LIMIT = 15;
 export const DEVELOPER_PROJECT_PAGE_SIZE = 15;
 
-export function selectDeveloperProjectPage(
-  projects: readonly DeveloperProjectRecord[],
+export function selectDeveloperProjectPage<T extends LocatedProject>(
+  projects: readonly T[],
   query: Pick<URLSearchParams, 'get'>,
 ) {
   const selection = readLocationFilter(query.get('emirate') ?? '', query.get('area') ?? '');

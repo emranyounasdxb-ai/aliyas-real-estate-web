@@ -1,0 +1,110 @@
+{
+  "projectId": "aldar-project-24",
+  "projectSlug": "mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Mandarin-20Oriental-20Presentation.pdf/cf51aa12d43811f08ad5d2c3c52770bc",
+    "label": "Aldar Mandarin Oriental Residences presentation and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/floor-plans-a3c8f8b31dd1.pdf",
+    "sha256": "a3c8f8b31dd10b806a7a77d7f3c5b438aaff6bce0f41ad167943be6d41d84cd6"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare Aldar’s one- to three-bedroom drawings and additional two-, three- and four-bedroom illustrations published by brokers.",
+  "selectorLabel": "Choose a Mandarin Oriental Residences floor plan",
+  "note": "Confirm the signed layout and total area for the specific residence. The presentation gives average sizes across types. A public five-bedroom penthouse drawing has yet to be confirmed.",
+  "plans": [
+    {
+      "label": "1 BR · Aldar presentation",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-page-15-502c15522a9e.webp",
+      "sha256": "502c15522a9ef5267b4483dfafa26cd1a7995d748d1b87664be95e4b25e3142b",
+      "originalBytes": 291158,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid · Aldar presentation",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-page-16-7dffb1200004.webp",
+      "sha256": "7dffb1200004f181edaf25b6a84b4656aebd01538887e565658a9a096170568f",
+      "originalBytes": 446892,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR · Curved terrace",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://jre.ae/i/mandarin-oriental-residences-layout-2-bedroom-1-al-saadiyat-island-dubai-2074.webp",
+        "label": "JRE · project floor-plan illustration"
+      },
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-image-3-f5f24ba9925f.webp",
+      "sha256": "f5f24ba9925f202ec383166adcfe3028ff1ce982d6a683c512b3508aff083ed2",
+      "originalBytes": 109948,
+      "width": 1966,
+      "height": 1294
+    },
+    {
+      "label": "3 BR + maid · Aldar presentation",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-page-17-a0dc659b2c1f.webp",
+      "sha256": "a0dc659b2c1f040992ade590c5d5c1ad4add05387732b06c0e94c0a7f8fbb2b6",
+      "originalBytes": 511830,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR · Alternate terrace layout",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://jre.ae/i/mandarin-oriental-residences-layout-3-bedroom-1-al-saadiyat-island-dubai-2074.webp",
+        "label": "JRE · project floor-plan illustration"
+      },
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-image-5-eacbf80d13a5.webp",
+      "sha256": "eacbf80d13a5ee614ce8fdd8822d5c093f882083867fc5c4f038e5b36d6e3f86",
+      "originalBytes": 59986,
+      "width": 1290,
+      "height": 824
+    },
+    {
+      "label": "4 BR + maid · Corner with pool",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://img1.creatium.ru/disk2/65/90/83/8a47d15747b8d82d15a423f16a992ec8e2/mo_4_bed_corner_unit_maid_dark.jpg",
+        "label": "OPR · furnished corner illustration"
+      },
+      "src": "/images/projects/aldar/mandarin-oriental-residences-saadiyat-cultural-district-abu-dhabi/plan-image-6-76695b0c7fbd.jpg",
+      "sha256": "76695b0c7fbd0bde7c3f07822263b124145563e6a807a3b50c2157119e523c3a",
+      "originalBytes": 89412,
+      "width": 1281,
+      "height": 1281
+    }
+  ]
+}

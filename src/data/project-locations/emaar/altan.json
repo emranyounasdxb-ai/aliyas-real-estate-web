@@ -1,0 +1,44 @@
+{
+  "projectId": "emaar-project-28",
+  "projectSlug": "altan",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Green Gate · Dubai Creek Harbour",
+  "road": "",
+  "pin": {
+    "latitude": 25.205032,
+    "longitude": 55.355757,
+    "sourceUrl": "https://www.emaar.com/en/properties/altan-at-dubai-creek-harbour",
+    "scope": "Developer-published Altan reference point. Confirm the selected residence and exact entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/altan/location-594fddb8562a.jpg",
+    "sha256": "594fddb8562a12f74fd29495f9b2611496f6fee68e117d61147c7995cee37b82",
+    "originalBytes": 267579,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+    "alt": "Emaar regional diagram locating Dubai Creek Harbour",
+    "scope": "Community diagram, not to scale; proposed transport does not establish current service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/410790_brochure_File_095285ba79_prod.pdf",
+    "page": 6,
+    "scope": "Own Altan brochure numerical panel visually checked.",
+    "destinations": [
+      {
+        "name": "Downtown Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 40
+      }
+    ]
+  },
+  "travelNote": "Published community estimates, not live traffic times or measured distances from a particular residence."
+}

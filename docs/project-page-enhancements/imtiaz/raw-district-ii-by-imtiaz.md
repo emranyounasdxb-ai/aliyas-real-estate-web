@@ -1,0 +1,20 @@
+# Raw District II by Imtiaz enhancement — verified 7 November 2026
+
+Protected identity: imtiaz / imtiaz-project-03 / raw-district-ii-by-imtiaz. 38 source images and 55 complete original drawing sheets.
+
+imagery: Thirty-eight own-project image entries were selected after visual review of all thirty-two current primary assets, the complete seventy-seven-page brochure index and eight extracted native brochure images. The two wider district aerials containing the first phase are excluded from the project gallery. The complete Phase II street facade supplies the card and hero. Eight complete native brochure images add the gym, reading corner, residential lobby, bathroom, dining, loft and commercial reception. Composite source images and baked-in notices remain unchanged. Lifestyle people photographs and generic concept imagery are excluded.
+
+floorPlans: Nine complete residential sheets show eighteen studio, loft and 1–3 BR variants. Tower A residence and amenity overviews and Tower B office overviews remain separately labeled. The forty-six complete overview sheets show each tower’s ground, five podium levels, levels 1–16 and roof. Room dimensions remain visible. Whole-home areas and office-unit totals are absent. Confirm the selected unit, contractual area and final layout with Imtiaz. All fifty-five complete drawing sheets were visually reviewed on fourteen whole-sheet contact images. Covers are excluded. The home sheets retain all eighteen variants and both loft levels. Whole-source page dimensions, tower keys, room dimensions, orientation, amenity schedules and original notices remain intact. Category starting sizes are not assigned to individual drawings.
+
+location: The complete brief pages 4 and 5 and brochure regional context were visually reviewed. The explicit DMS marker in the project-specific primary embed converts to 24.974167, 55.090639 and retains vicinity scope. Different camera coordinates are excluded. The original protected project location correctly names Downtown Jebel Ali. A stale internal research-community label says DLRC and is not used by this enhancement. Phase I/II and proposed park/metro scope remain explicit.
+
+provenance: Current official HTML and media have dated URL, dimensions, bytes and SHA256 receipts. The branded brochure, brief and complete drawing packet are hosted by Reelly and retain broker-platform labels. Original native image bytes, whole PDF sheets and physical-page source links remain intact. Protected project identity and completed text research remain preserved.
+
+Unavailable or restricted scope: Whole-home and office-unit area totals, numbered-unit contractual matching, verified visitor entrance, completed park or Phase II bridge status, dated construction photographs and final furnishings/views were not established.
+
+Sources:
+- https://real.imtiaz.ae/property/raw-district-ii-by-imtiaz
+- https://files.remapp.ae/rem-offplan-v3/project-files/6a3527c26a346b2009d592a5/1783665871363-91ee25a573491285.pdf#page=4
+- https://files.remapp.ae/rem-offplan-v3/project-files/1785827566736-b0a50796a89824cf.pdf
+
+Selection: docs/project-page-enhancement-selections/imtiaz/raw-district-ii-by-imtiaz.json. Source/owner/hash validation: 1356 owner-validated manifests, 17151 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. All other canonical text and protected identities match the original researched snapshot.. Optimized build ECY0oNeMH4dcgEqq41Amg / PID53164. Own browser case passed in passing batch (2.8m) (artifacts/project-page-enhancement/batch-221-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

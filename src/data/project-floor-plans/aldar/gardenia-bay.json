@@ -1,0 +1,140 @@
+{
+  "projectId": "aldar-project-21",
+  "projectSlug": "gardenia-bay",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://almiraproperties.com/api/media/file/13-6.pdf",
+    "label": "Aldar Gardenia Bay brochure and layouts · Almira-hosted copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/gardenia-bay/floor-plans-cfe0c359b76a.pdf",
+    "sha256": "cfe0c359b76a6e10059db47e4f5e655fccf52afc1bc0d6924b13a85293e0fe9b"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare studios and one- to three-bedroom apartments. The studio sheet shows both variants side by side.",
+  "selectorLabel": "Choose a Gardenia Bay floor plan",
+  "note": "Areas are the figures printed beside the example plans. Confirm the signed drawing and area for the specific apartment. Building floorplates are in the original brochure.",
+  "plans": [
+    {
+      "label": "Studio · Types A and B",
+      "area": "Type A 43.828 m² · Type B 45.625 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-32-83807af43b7d.webp",
+      "sha256": "83807af43b7dd1311b4027b1af45db4f33db98dd23fce572186a6a03d991ed74",
+      "originalBytes": 347902,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Middle",
+      "area": "73.467 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-33-331f19c63e06.webp",
+      "sha256": "331f19c63e06e06ba8301c247fc4c999668f35e1092e6cdfe06b6edb84e76c58",
+      "originalBytes": 290944,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Corner",
+      "area": "70.780 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-34-e7eb01cfbdfe.webp",
+      "sha256": "e7eb01cfbdfe82590607831d3b61c9c939c3c42c50481d233dd0304d94182929",
+      "originalBytes": 292520,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type A corner",
+      "area": "109.641 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-35-7d2916e43eac.webp",
+      "sha256": "7d2916e43eacb490a76cb80c3ae6b1b6a978d05b6dffe8ef0942c7fb7d467661",
+      "originalBytes": 374750,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type A middle",
+      "area": "106.375 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-36-dd8a7aad7ab9.webp",
+      "sha256": "dd8a7aad7ab9a9424cf87e56826ddece04d933a9892edd1876edcdb282d1a47c",
+      "originalBytes": 396870,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type B corner",
+      "area": "132.289 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-37-1d1ef3ebb138.webp",
+      "sha256": "1d1ef3ebb13801c2bc5c11d7ccf16c5cf8c5147ee24f7c148d08561f08fd56bd",
+      "originalBytes": 453258,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 BR · Type A corner",
+      "area": "153.224 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-38-ed3078e58350.webp",
+      "sha256": "ed3078e58350efa1ade68ee4bb00bad5f75b0ee85f511e2148f7b8ae67d08546",
+      "originalBytes": 541466,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 BR · Type B corner",
+      "area": "145.533 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-39-0bbcb7e67acd.webp",
+      "sha256": "0bbcb7e67acd5138058b4754e8f41776663a7f0b9f2220d2eea7a649aa9b23c0",
+      "originalBytes": 499820,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 BR · Type C corner",
+      "area": "179.719 m²",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/aldar/gardenia-bay/plan-page-40-015d05f91693.webp",
+      "sha256": "015d05f916937a80efb5478c1a9a309e9c2732ab5d138b55051e69716db0055c",
+      "originalBytes": 557992,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

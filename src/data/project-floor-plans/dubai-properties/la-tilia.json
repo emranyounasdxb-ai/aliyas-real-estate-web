@@ -1,0 +1,127 @@
+{
+  "projectId": "dubai-properties-project-01",
+  "projectSlug": "la-tilia",
+  "developerSlug": "dubai-properties",
+  "source": {
+    "url": "https://www.dp.ae/images/campaign/latilia/La%20Tilia%20Floor%20Plan-Digital.pdf",
+    "label": "Dubai Properties La Tilia floor plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/dubai-properties/la-tilia/floor-plans-730a1cba7a01.pdf",
+    "sha256": "730a1cba7a012fe07b3f806b62dbe3d0b9e26595032b66c9f841d15f6f42c3ee"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2700,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the three- and four-bedroom townhouses, including the mid-unit, end-unit and mirrored layouts.",
+  "selectorLabel": "Choose a La Tilia townhouse layout",
+  "note": "Areas follow the visible published totals. Each drawing shows the floors of one layout, with a roof plan where applicable.",
+  "plans": [
+    {
+      "label": "3 BR mid · 3B1",
+      "area": "2,354.17 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-2-bb5b52bd2dbe.webp",
+      "sha256": "bb5b52bd2dbeea6722223fc39b51197d9a5bc465c370dfeac3003f32d4639dd7",
+      "originalBytes": 858106,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "3 BR mid · 3B1 mirrored",
+      "area": "2,354.17 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-3-3ae75c8e03c0.webp",
+      "sha256": "3ae75c8e03c0f317ae362ed06127c0913152734772937616adb2de99d2b73a01",
+      "originalBytes": 856206,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "3 BR mid · 3B2",
+      "area": "2,937.36 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-4-7ba9de2a5159.webp",
+      "sha256": "7ba9de2a515983879fbed139e5026be088f3f26859813d9c548db149107c7d7b",
+      "originalBytes": 962060,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "3 BR mid · 3B2 mirrored",
+      "area": "2,937.36 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-5-5b36cd3a2d21.webp",
+      "sha256": "5b36cd3a2d2151070f93189432ed0c114ba7c3e258e715d11a008fec061403a6",
+      "originalBytes": 949342,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "4 BR end · 4B1",
+      "area": "2,476.66 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-6-563af800f1b2.webp",
+      "sha256": "563af800f1b220bc1445b7209c1cc3dc4b30a4a322c2a0ad38b4da9c4c4f7fbf",
+      "originalBytes": 1031046,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "4 BR end · 4B1 mirrored",
+      "area": "2,476.66 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-7-e672c4620237.webp",
+      "sha256": "e672c4620237004c856d92d1779db2acda5580aecc9ccf35e9bda9611489e2ac",
+      "originalBytes": 1036022,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "4 BR end · 4B2",
+      "area": "3,158.12 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-8-0e1c1c0a62ce.webp",
+      "sha256": "0e1c1c0a62ce2ab54c625883c714d6a37bb34074e5bf8d4afa5d2ac15980cad8",
+      "originalBytes": 1224114,
+      "width": 2700,
+      "height": 1519
+    },
+    {
+      "label": "4 BR end · 4B2 mirrored",
+      "area": "3,158.12 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/dubai-properties/la-tilia/plan-page-9-95b965427ebf.webp",
+      "sha256": "95b965427ebfc072484586d086fec7868c303ed4077b96646bdc0516da29af35",
+      "originalBytes": 1233144,
+      "width": 2700,
+      "height": 1519
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "projectId": "emaar-project-16",
+  "projectSlug": "elea",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/ELEA_floorplan.pdf",
+    "label": "Emaar: Elea complete townhouse plans",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/elea/floor-plans-4ee7ff51e4b1.pdf",
+    "sha256": "4ee7ff51e4b1a750771656a67c4d631a6e3ef22063f8d74779964cc00ea24e78"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore Elea’s Slate and Oakley three and four bedroom townhouse layouts. The printed built-up area includes suite, garage and balcony or terrace components; it is not the plot area. Match the style and TH unit code on the full sheet.",
+  "selectorLabel": "Choose an Elea townhouse layout",
+  "note": "Complete ground and first floor sheets retain the source’s dimensions, key plans and notices. Areas, layouts, landscaping and furnishings are approximate and may change; confirm the selected plot and sale inclusions.",
+  "plans": [
+    {
+      "label": "Slate · 4 bedroom · TH01",
+      "area": "2,833.81 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/elea/plan-page-2-668a1b004f9c.webp",
+      "sha256": "668a1b004f9c6312decf4367bf1c34aabbaf3441343418d6aeca2e6ffd557937",
+      "originalBytes": 800450,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Slate · 3 bedroom · TH02",
+      "area": "2,452.34 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/elea/plan-page-3-e608e11eea3a.webp",
+      "sha256": "e608e11eea3ad4059d3f5dd823583f27a33e4a47661647f17e24e6bb9b6f6f18",
+      "originalBytes": 533070,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Slate · 3 bedroom · TH03",
+      "area": "2,451.80 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/elea/plan-page-4-cfb9fe4e596a.webp",
+      "sha256": "cfb9fe4e596a38238c73dd00743fefa40084032cf03ef7e49551e88614545367",
+      "originalBytes": 515632,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Slate · 4 bedroom · TH04",
+      "area": "2,837.79 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/elea/plan-page-5-362cbc9e1fa7.webp",
+      "sha256": "362cbc9e1fa726b11ae1653c1203fe7d94800294fef15e2388341c0560decc1b",
+      "originalBytes": 799854,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Oakley · 4 bedroom · TH01",
+      "area": "2,680.64 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/elea/plan-page-6-d8d1b891c436.webp",
+      "sha256": "d8d1b891c436b39ace5021bbfdfa7fbba79fb9db1a03db8ff6cf90955285d8b4",
+      "originalBytes": 800380,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Oakley · 3 bedroom · TH02",
+      "area": "2,444.05 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/elea/plan-page-7-4ff9801c395c.webp",
+      "sha256": "4ff9801c395cc69591b62f207763dbd50bc117fa76e4fbe92f0e3469743f7369",
+      "originalBytes": 518826,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Oakley · 3 bedroom · TH03",
+      "area": "2,444.05 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/elea/plan-page-8-1589f599df9b.webp",
+      "sha256": "1589f599df9b19013b20ff80fa930039b462b568866f4d2ae239150ae820d17f",
+      "originalBytes": 519454,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Oakley · 4 bedroom · TH04",
+      "area": "2,680.64 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/elea/plan-page-9-2b17e6fab02e.webp",
+      "sha256": "2b17e6fab02e7ac2c8b9ca810d483e02a138f41e1c5d948fcd368e96b4721686",
+      "originalBytes": 804156,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

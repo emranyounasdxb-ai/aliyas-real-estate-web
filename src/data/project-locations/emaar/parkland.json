@@ -1,0 +1,49 @@
+{
+  "projectId": "emaar-project-66",
+  "projectSlug": "parkland",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "community": "Dubai Hills Estate",
+  "road": "Al Khail Road",
+  "travelHeading": "Walking and driving estimates in the Parkland brochure",
+  "travel": {
+    "page": 7,
+    "scope": "Project-specific nearby journey estimates.",
+    "destinations": [
+      {
+        "name": "King’s College Hospital (drive)",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Hills Business Park (walk)",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Hills Mall (walk)",
+        "minutes": 8
+      },
+      {
+        "name": "Downtown Dubai (drive)",
+        "minutes": 15
+      }
+    ],
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/PARKLAND_DHE_BROCHURE.pdf"
+  },
+  "travelNote": "These are approximate journeys published by Emaar. Check current walking access and road conditions before travelling.",
+  "pin": {
+    "latitude": 25.103710881368908,
+    "longitude": 55.24281335582432,
+    "sourceUrl": "https://www.emaar.com/en/properties/parkland-at-dubai-hills-estate",
+    "scope": "Emaar’s published Parkland location near Dubai Hills Park. Confirm the entrance before visiting."
+  },
+  "map": {
+    "src": "/images/projects/emaar/parkland/location-5b32b744a1f1.jpg",
+    "sha256": "5b32b744a1f141242f598dbb0ad6cdac89cda61be38fd3c9224cd1ec95b0faa4",
+    "originalBytes": 267274,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+    "alt": "Emaar regional map showing Dubai Hills Estate",
+    "scope": "Emaar Dubai Hills Estate regional map. The project’s named point is shown separately."
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "id": "emaar-project-46",
+  "slug": "terra-gardens",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/terra-gardens-at-expo-living",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "buildings",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=6",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-6-0-Im0.jpg",
+      "label": "Buildings and streetscape",
+      "alt": "Emaar Terra Gardens proposed render: buildings and streetscape; shared setting and home outlooks may vary",
+      "position": "70% 40%"
+    },
+    {
+      "name": "aerial",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=12",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-12-0-Im0.jpg",
+      "label": "Pool and gardens",
+      "alt": "Emaar Terra Gardens proposed render: pool and gardens; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "open-lawn",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=10",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-10-0-Im0.jpg",
+      "label": "Open lawn",
+      "alt": "Emaar Terra Gardens proposed render: open lawn; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "pool",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=11",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-11-0-Im0.jpg",
+      "label": "Swimming pool",
+      "alt": "Emaar Terra Gardens proposed render: swimming pool; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=19",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-19-0-Im0.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar Terra Gardens proposed render: bedroom; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=20",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-20-0-Im0.jpg",
+      "label": "Lobby",
+      "alt": "Emaar Terra Gardens proposed render: lobby; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=17",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-17-0-Im0.jpg",
+      "label": "Living room",
+      "alt": "Emaar Terra Gardens proposed render: living room; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "kids-pool",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=13",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-13-0-Im0.jpg",
+      "label": "Kids’ pool",
+      "alt": "Emaar Terra Gardens proposed render: kids’ pool; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "playground",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=14",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-14-0-Im0.jpg",
+      "label": "Playground",
+      "alt": "Emaar Terra Gardens proposed render: playground; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    },
+    {
+      "name": "jogging",
+      "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf#page=15",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/brochure-15-0-Im0.jpg",
+      "label": "Jogging path",
+      "alt": "Emaar Terra Gardens proposed render: jogging path; shared setting and home outlooks may vary",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "buildings",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Expo Living · Dubai South",
+    "pin": null,
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_67557ef8bc.jpg",
+      "cache": "artifacts/project-page-enhancement/terra-gardens/04_MAP_2400x1600px_67557ef8bc.jpg",
+      "alt": "Emaar regional map locating Expo Living beside Expo City",
+      "scope": "Exact official Terra Gardens fallback regional map corroborated with its own brochure physical3. Proposed lines shown do not establish operating transport."
+    },
+    "travelHeading": "Developer estimates: Expo City on foot; airport and Marina by car",
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_brochure.pdf",
+      "page": 3,
+      "scope": "Complete own brochure physical3 map and all three travel modes/values visually reviewed.",
+      "destinations": [
+        {
+          "name": "Expo City · walk",
+          "minutes": 5
+        },
+        {
+          "name": "Al Maktoum International Airport · drive",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina · drive",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "Published Expo Living estimates, not live routes from an individual home. The 5-minute figure is walking; the other two are driving. The current official web pin conflicts with the brochure’s Expo Living location and is withheld. Directions search by project/community; confirm current access and route with Emaar. Future transport lines and Expo Mall imagery do not establish opening dates."
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/Terra-Gardens_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/terra-gardens-floorplans-1.pdf",
+    "label": "Emaar: Terra Gardens full townhouse plans",
+    "additionalDocuments": [
+      {
+        "id": "building-1",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/terra-gardens/TERRA-GARDENS_BLDG1_XL_FLOORPLANS.pdf",
+        "cache": "artifacts/project-details/emaar/terra-gardens-b1.pdf",
+        "label": "Emaar: Terra Gardens Building 1 original plans · Mitchells broker mirror"
+      },
+      {
+        "id": "building-2",
+        "url": "https://www.mitchellscommercialrealty.com/downloads/terra-gardens/TERRA-GARDENS_BLDG2_XL_FLOORPLANS.pdf",
+        "cache": "artifacts/project-details/emaar/terra-gardens-b2.pdf",
+        "label": "Emaar: Terra Gardens Building 2 original plans · Mitchells broker mirror"
+      }
+    ],
+    "introduction": "Compare apartments in Buildings 1 and 2 with the three-bedroom townhouses. Each full sheet retains its building, unit and floor references, complete room drawing, area table and original notices. The townhouse sheets show both levels together.",
+    "selectorLabel": "Choose a Terra Gardens building and layout",
+    "note": "Total area includes balcony or terrace space. Repeated type names can have different unit areas, so building and unit variants remain separate. Apartment packs are Emaar-branded documents hosted by Mitchells, a broker; the townhouse PDF is hosted by Emaar. Confirm the selected unit’s signed plan, specification and current availability.",
+    "plans": [
+      {
+        "label": "Building 1 · 1 bedroom · Type 1A · Unit 15",
+        "area": "764.56 sq ft total area",
+        "areaValues": [
+          764.56
+        ],
+        "sourcePage": 3,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 684.80 + balcony/terrace 79.76 = printed total 764.56 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-03.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 1B · Unit 14",
+        "area": "752.72 sq ft total area",
+        "areaValues": [
+          752.72
+        ],
+        "sourcePage": 4,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 672.96 + balcony/terrace 79.76 = printed total 752.72 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-04.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2A · Units 23–24",
+        "area": "741.96 sq ft total area",
+        "areaValues": [
+          741.96
+        ],
+        "sourcePage": 5,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 664.46 + balcony/terrace 77.50 = printed total 741.96 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-05.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2A · Unit 25",
+        "area": "758.64 sq ft total area",
+        "areaValues": [
+          758.64
+        ],
+        "sourcePage": 6,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 681.14 + balcony/terrace 77.50 = printed total 758.64 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-06.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2A.1 · Terrace",
+        "area": "842.27 sq ft total area",
+        "areaValues": [
+          842.27
+        ],
+        "sourcePage": 7,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 663.70 + balcony/terrace 178.57 = printed total 842.27 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-07.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2B · Main unit group",
+        "area": "741.96 sq ft total area",
+        "areaValues": [
+          741.96
+        ],
+        "sourcePage": 8,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 664.46 + balcony/terrace 77.50 = printed total 741.96 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-08.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2B · Units 13/19",
+        "area": "746.26 sq ft total area",
+        "areaValues": [
+          746.26
+        ],
+        "sourcePage": 9,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 668.76 + balcony/terrace 77.50 = printed total 746.26 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-09.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2B · Unit 07",
+        "area": "758.64 sq ft total area",
+        "areaValues": [
+          758.64
+        ],
+        "sourcePage": 10,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 681.14 + balcony/terrace 77.50 = printed total 758.64 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-10.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2B · Units 01/16",
+        "area": "764.24 sq ft total area",
+        "areaValues": [
+          764.24
+        ],
+        "sourcePage": 11,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 686.52 + balcony/terrace 77.72 = printed total 764.24 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-11.png"
+      },
+      {
+        "label": "Building 1 · 1 bedroom · Type 2B.1 · Terrace",
+        "area": "866.38 sq ft total area",
+        "areaValues": [
+          866.38
+        ],
+        "sourcePage": 12,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 687.81 + balcony/terrace 178.57 = printed total 866.38 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-12.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 1A · Unit 05",
+        "area": "1,118.91 sq ft total area",
+        "areaValues": [
+          1118.91
+        ],
+        "sourcePage": 13,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1035.60 + balcony/terrace 83.31 = printed total 1118.91 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-13.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 1A · Unit 20",
+        "area": "1,126.66 sq ft total area",
+        "areaValues": [
+          1126.66
+        ],
+        "sourcePage": 14,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1043.35 + balcony/terrace 83.31 = printed total 1126.66 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-14.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 1B",
+        "area": "1,118.91 sq ft total area",
+        "areaValues": [
+          1118.91
+        ],
+        "sourcePage": 15,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1035.60 + balcony/terrace 83.31 = printed total 1118.91 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-15.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 1B.1 · Terrace",
+        "area": "1,222.03 sq ft total area",
+        "areaValues": [
+          1222.03
+        ],
+        "sourcePage": 16,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1035.60 + balcony/terrace 186.43 = printed total 1222.03 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-16.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 2A",
+        "area": "1,119.44 sq ft total area",
+        "areaValues": [
+          1119.44
+        ],
+        "sourcePage": 17,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1038.39 + balcony/terrace 81.05 = printed total 1119.44 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-17.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 2A.1 · Terrace",
+        "area": "1,224.82 sq ft total area",
+        "areaValues": [
+          1224.82
+        ],
+        "sourcePage": 18,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1038.39 + balcony/terrace 186.43 = printed total 1224.82 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-18.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 3A",
+        "area": "1,111.16 sq ft total area",
+        "areaValues": [
+          1111.16
+        ],
+        "sourcePage": 19,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1030.11 + balcony/terrace 81.05 = printed total 1111.16 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-19.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 3A.1 · Terrace",
+        "area": "1,217.83 sq ft total area",
+        "areaValues": [
+          1217.83
+        ],
+        "sourcePage": 20,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1031.40 + balcony/terrace 186.43 = printed total 1217.83 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-20.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 3B",
+        "area": "1,111.16 sq ft total area",
+        "areaValues": [
+          1111.16
+        ],
+        "sourcePage": 21,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1030.11 + balcony/terrace 81.05 = printed total 1111.16 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-21.png"
+      },
+      {
+        "label": "Building 1 · 2 bedrooms · Type 3B.1 · Terrace",
+        "area": "1,217.83 sq ft total area",
+        "areaValues": [
+          1217.83
+        ],
+        "sourcePage": 22,
+        "documentId": "building-1",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1031.40 + balcony/terrace 186.43 = printed total 1217.83 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-1/plan-22.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 1A",
+        "area": "752.72 sq ft total area",
+        "areaValues": [
+          752.72
+        ],
+        "sourcePage": 3,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 672.96 + balcony/terrace 79.76 = printed total 752.72 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-03.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 1B",
+        "area": "764.56 sq ft total area",
+        "areaValues": [
+          764.56
+        ],
+        "sourcePage": 4,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 684.80 + balcony/terrace 79.76 = printed total 764.56 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-04.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2A · Main unit group",
+        "area": "741.96 sq ft total area",
+        "areaValues": [
+          741.96
+        ],
+        "sourcePage": 5,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 664.46 + balcony/terrace 77.50 = printed total 741.96 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-05.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2A · Source units 113–1213",
+        "area": "746.26 sq ft total area",
+        "areaValues": [
+          746.26
+        ],
+        "sourcePage": 6,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 668.76 + balcony/terrace 77.50 = printed total 746.26 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-06.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2A · Source units 107–1207",
+        "area": "758.64 sq ft total area",
+        "areaValues": [
+          758.64
+        ],
+        "sourcePage": 7,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 681.14 + balcony/terrace 77.50 = printed total 758.64 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-07.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2A · Source units 116/201",
+        "area": "764.24 sq ft total area",
+        "areaValues": [
+          764.24
+        ],
+        "sourcePage": 8,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 686.52 + balcony/terrace 77.72 = printed total 764.24 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-08.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2A.1 · Terrace",
+        "area": "866.38 sq ft total area",
+        "areaValues": [
+          866.38
+        ],
+        "sourcePage": 9,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 687.81 + balcony/terrace 178.57 = printed total 866.38 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-09.png"
+      },
+      {
+        "label": "Building 2 · 1 bedroom · Type 2B",
+        "area": "758.64 sq ft total area",
+        "areaValues": [
+          758.64
+        ],
+        "sourcePage": 10,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 681.14 + balcony/terrace 77.50 = printed total 758.64 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-10.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 1A",
+        "area": "1,118.91 sq ft total area",
+        "areaValues": [
+          1118.91
+        ],
+        "sourcePage": 11,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1035.60 + balcony/terrace 83.31 = printed total 1118.91 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-11.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 1B",
+        "area": "1,118.91 sq ft total area",
+        "areaValues": [
+          1118.91
+        ],
+        "sourcePage": 12,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1035.60 + balcony/terrace 83.31 = printed total 1118.91 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-12.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 2A",
+        "area": "1,125.15 sq ft total area",
+        "areaValues": [
+          1125.15
+        ],
+        "sourcePage": 13,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1044.10 + balcony/terrace 81.05 = printed total 1125.15 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-13.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 2A.1 · Terrace",
+        "area": "1,233.11 sq ft total area",
+        "areaValues": [
+          1233.11
+        ],
+        "sourcePage": 14,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1046.68 + balcony/terrace 186.43 = printed total 1233.11 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-14.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 2B · Source units 103–1203",
+        "area": "1,119.44 sq ft total area",
+        "areaValues": [
+          1119.44
+        ],
+        "sourcePage": 15,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1038.39 + balcony/terrace 81.05 = printed total 1119.44 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-15.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 2B · Source units 117–1117",
+        "area": "1,125.15 sq ft total area",
+        "areaValues": [
+          1125.15
+        ],
+        "sourcePage": 16,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1044.10 + balcony/terrace 81.05 = printed total 1125.15 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-16.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 3A",
+        "area": "1,111.16 sq ft total area",
+        "areaValues": [
+          1111.16
+        ],
+        "sourcePage": 17,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1030.11 + balcony/terrace 81.05 = printed total 1111.16 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-17.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 3A.1 · Terrace",
+        "area": "1,217.83 sq ft total area",
+        "areaValues": [
+          1217.83
+        ],
+        "sourcePage": 18,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1031.40 + balcony/terrace 186.43 = printed total 1217.83 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-18.png"
+      },
+      {
+        "label": "Building 2 · 2 bedrooms · Type 3B",
+        "area": "1,111.16 sq ft total area",
+        "areaValues": [
+          1111.16
+        ],
+        "sourcePage": 19,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1030.11 + balcony/terrace 81.05 = printed total 1111.16 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-19.png"
+      },
+      {
+        "label": "Building 2 · 3 bedrooms · Type 1A",
+        "area": "1,676.37 sq ft total area",
+        "areaValues": [
+          1676.37
+        ],
+        "sourcePage": 20,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1495.97 + balcony/terrace 180.40 = printed total 1676.37 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-20.png"
+      },
+      {
+        "label": "Building 2 · 3 bedrooms · Type 1B",
+        "area": "1,665.07 sq ft total area",
+        "areaValues": [
+          1665.07
+        ],
+        "sourcePage": 21,
+        "documentId": "building-2",
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 1487.25 + balcony/terrace 177.82 = printed total 1665.07 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/building-2/plan-21.png"
+      },
+      {
+        "label": "3 bedrooms · Townhouse Type 1",
+        "area": "2,579.57 sq ft total area",
+        "areaValues": [
+          2579.57
+        ],
+        "sourcePage": 3,
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 2072.16 + balcony/terrace 507.41 = printed total 2579.57 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/plan-3.png"
+      },
+      {
+        "label": "3 bedrooms · Townhouse Type 1.1",
+        "area": "2,701.63 sq ft total area",
+        "areaValues": [
+          2701.63
+        ],
+        "sourcePage": 4,
+        "areaCalculation": "Complete title, unit reference, drawing, key plan, notices and area panel visually read; left sqft, right sqm. Suite 2074.74 + balcony/terrace 626.89 = printed total 2701.63 sq ft. Building/unit-specific variants retained separately. Townhouse source retains both levels, not plot area.",
+        "cache": "artifacts/project-page-enhancement/terra-gardens/plan-4.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/terra-gardens/",
+  "review": {
+    "images": "All6 exact gallery scenes and own observed1620×832 official hero inspected. Ten own native brochure renders selected:6 architecture leads hero/card,12 pool/garden aerial,10 lawn,11 pool,19 bedroom,20 lobby,17 living,13 kids pool,14 play,15 jogging. Architecture original2136×1336 retains buildings; gallery scenes matched to native brochure originals where available. Actual source bytes preserved. Generic Expo attractions and future conference imagery not presented as project-private amenities or completion photography.",
+    "location": "Official RSC map uses a marketing heading as name but exact label Terra Gardens at Expo Living independently matches protected project. Exact-label discovery added without fuzzy owner matching. Its25.2033875,55.3599844 pin is the Creek Harbour reference and conflicts with actual Expo Living brochure location; withheld, not borrowed from a neighbouring project. Own regional fallback image and brochure physical3 fully inspected:5walkExpoCity/10driveDWC/15driveMarina, mode distinction preserved. Directions name/community fallback requires entrance confirmation.",
+    "floorPlans": "Fresh official4page townhouse original and two broker-hosted apartment originals freshly hash matched independently:Building1 22pages andBuilding2 21pages. Every47physical source page visually inspected including each cover/keyplan; every41residence sheet’s title, sqft/sqm, unit/floor group, full drawing, original notices and component amounts checked separately.20 B1 apartment sheets3–22;19 B2 sheets3–21;2 townhouses official3–4. B1Type2A unit25 758.64 versus23/24 741.96; B2Type2A variants741.96/746.26/758.64/764.24; B2Type2A.1 1233.11 are distinct. Three-bedroom apartments only in B2 pages20/21 1676.37/1665.07. TH1 2072.16+507.41=2579.57;TH1.1 2074.74+626.89=2701.63, bothlevels complete. Covers/keyplans not counted as homes. Broker provenance remains explicit, documents not represented as official-host downloads."
+  },
+  "unavailable": [
+    "Official public apartment download is townhouse-only; both apartment packs are verified Emaar-branded broker mirrors rather than official-host originals.",
+    "The published web pin conflicts with the brochure location; a surveyed entrance coordinate is not verified.",
+    "Views, completed amenity access, final specifications and operating dates for proposed community facilities need unit-specific confirmation."
+  ]
+}

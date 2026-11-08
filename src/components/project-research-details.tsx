@@ -1,5 +1,6 @@
 import { ArrowUpRight } from 'lucide-react';
 import type { ProjectResearch } from '@/lib/project-research';
+import { getDisplayedResearchUnresolved } from '@/lib/project-research-display';
 import './project-research-details.css';
 
 export function ResearchSources({
@@ -110,7 +111,16 @@ export function ResearchFacts({ research }: { research: ProjectResearch }) {
   );
 }
 
-export function ResearchReview({ research }: { research: ProjectResearch }) {
+export function ResearchReview({
+  research,
+  hasProjectMedia = false,
+  researchNoteReplacements,
+}: {
+  research: ProjectResearch;
+  hasProjectMedia?: boolean;
+  researchNoteReplacements?: Record<string, string>;
+}) {
+  const unresolved = getDisplayedResearchUnresolved(research, hasProjectMedia, researchNoteReplacements);
   const labels: Record<string, string> = {
     developer: 'Developer',
     'official-document': 'Official document',
@@ -148,11 +158,11 @@ export function ResearchReview({ research }: { research: ProjectResearch }) {
           </li>
         ))}
       </ul>
-      {research.unresolved.length > 0 && (
+      {unresolved.length > 0 && (
         <details className="pd-research-pending">
           <summary>Information still to confirm</summary>
           <ul>
-            {research.unresolved.map((item) => (
+            {unresolved.map((item) => (
               <li key={item}>{item}</li>
             ))}
           </ul>

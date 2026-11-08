@@ -1,0 +1,40 @@
+{
+  "projectId": "deyaar-project-02",
+  "projectSlug": "aya-beachfront-residences",
+  "developerSlug": "deyaar",
+  "checkedOn": "2026-11-07",
+  "community": "Al Khor Waterfront, Umm Al Quwain",
+  "road": "Along the Al Khor Waterfront coastline",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/deyaar/aya-beachfront-residences/location-3b9d58382848.png",
+    "sha256": "3b9d58382848fd031a3eb75828779acced2de51c392330b068efaa1eba4ef929",
+    "originalBytes": 1109352,
+    "width": 2800,
+    "height": 1575,
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf#page=14",
+    "alt": "Deyaar AYA connectivity map with the beachfront site and nearby Umm Al Quwain destinations.",
+    "scope": "The developer’s map shows the site and numbered local destinations.",
+    "caption": "AYA at Al Khor Waterfront"
+  },
+  "sourceLabel": "Deyaar AYA brochure driving estimates",
+  "travel": {
+    "sourceUrl": "https://www.deyaar.ae/wp-content/uploads/2025/02/Aya-Digital-Brochure-1.pdf#page=12",
+    "scope": "Approximate driving times published for AYA.",
+    "destinations": [
+      {
+        "name": "Al Marjan Island",
+        "minutes": 20
+      },
+      {
+        "name": "Sharjah International Airport",
+        "minutes": 35
+      },
+      {
+        "name": "Dubai International Airport (DXB)",
+        "minutes": 40
+      }
+    ]
+  },
+  "travelNote": "Developer estimates on brochure pages 12 and 14. Actual travel varies with the entrance, route and traffic."
+}

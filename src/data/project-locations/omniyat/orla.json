@@ -1,0 +1,48 @@
+{
+  "projectId": "omniyat-project-05",
+  "projectSlug": "orla",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "West Crescent, Palm Jumeirah, Dubai",
+  "road": "Crescent Road",
+  "pin": {
+    "latitude": 25.12315689986629,
+    "longitude": 55.11218639910541,
+    "sourceUrl": "https://omniyat.com/residential/orla-dorchester-collection-dubai",
+    "scope": "Approximate ORLA project point published by OMNIYAT. Confirm the visitor entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/orla/location-eef7dfe1e040.jpg",
+    "sha256": "eef7dfe1e0401d907c7b035745c17706e73d676ff19640594771b89d7c8dd274",
+    "originalBytes": 483329,
+    "width": 1500,
+    "height": 937,
+    "sourceUrl": "https://www.madena.ae/api/assets/documents/projects/orla-dorchester-collection/master-plan/eef7dfe1e0401d90.jpg",
+    "alt": "Published ORLA aerial locator marking the project on Palm Jumeirah’s West Crescent.",
+    "scope": "The project locator marks ORLA. The interactive map uses OMNIYAT’s project point.",
+    "caption": "ORLA on Palm Jumeirah"
+  },
+  "sourceLabel": "Madena published road-route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/orla",
+    "scope": "Approximate road-route estimates from Madena’s West Crescent reference point.",
+    "destinations": [
+      {
+        "name": "Palm Jumeirah Mall",
+        "minutes": 9,
+        "distanceKm": 5.4
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30,
+        "distanceKm": 24.8
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 45,
+        "distanceKm": 43.2
+      }
+    ]
+  },
+  "travelNote": "Drive times vary by entrance, route and traffic."
+}

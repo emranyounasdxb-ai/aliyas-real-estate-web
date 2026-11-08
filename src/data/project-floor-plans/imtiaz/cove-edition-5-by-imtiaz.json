@@ -1,0 +1,78 @@
+{
+  "projectId": "imtiaz-project-16",
+  "projectSlug": "cove-edition-5-by-imtiaz",
+  "developerSlug": "imtiaz",
+  "source": {
+    "url": "https://api.reelly.io/vault/ZZLvFZFt/ekBHQ8iwa0Qv2llcXkMi9pW5O7k/O8ZSSA../Cove%2BEdition%2B5%2BFloor%2BPlans.pdf",
+    "label": "Cove Edition 5 · complete branded floorplate packet, Reelly broker-platform mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/imtiaz/cove-edition-5-by-imtiaz/floor-plans-d0b1cac5329b.pdf",
+    "sha256": "d0b1cac5329b6636239a53588337c927614d8035a185ade067675bdf9429d70e"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 3200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore 3 complete building drawings and 1 attributed home preview, with full-sheet zoom and original-source links.",
+  "selectorLabel": "Choose a complete building level or broker home preview",
+  "note": "Three complete building drawings and one attributed broker studio preview are available. No numerical saleable area is printed. The building packet groups floors 1–11. Confirm contractual home areas and current plan revisions with Imtiaz.",
+  "plans": [
+    {
+      "label": "Ground · arrival and parking",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/imtiaz/cove-edition-5-by-imtiaz/plan-page-2-96a3655eb8d9.webp",
+      "sha256": "96a3655eb8d948a52881ce28640e9b60e24f005c7ab3e69630931bbd9abda9e4",
+      "originalBytes": 208858,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Floors 1–11 · homes",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/imtiaz/cove-edition-5-by-imtiaz/plan-page-3-4c700e46c17e.webp",
+      "sha256": "4c700e46c17ef0f3df795dec814de107ebe97cd4af09e84b8477e67be0d4ecbc",
+      "originalBytes": 246404,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Roof · amenities",
+      "area": "Whole-building level · individual areas not stated",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/imtiaz/cove-edition-5-by-imtiaz/plan-page-4-2fabac78ac96.webp",
+      "sha256": "2fabac78ac96e82bc2a7583ba73e41bdbd659fb0bac98baa6c48d686eba451c9",
+      "originalBytes": 255354,
+      "width": 3200,
+      "height": 1800
+    },
+    {
+      "label": "Studio · broker preview",
+      "area": "Saleable area not printed on this preview",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://reelly-backend.s3.amazonaws.com/unit_layouts/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2025-06-18_185906_de906ee4508f475898c21de73e125434.webp",
+        "label": "Cove Edition 5 project-linked preview · Silver Oak/Reelly broker image"
+      },
+      "src": "/images/projects/imtiaz/cove-edition-5-by-imtiaz/plan-image-4-140c43b3918f.webp",
+      "sha256": "140c43b3918fc111291bc81e69b6bb5fe7ab70480288f7f660f3f6beaaa4973a",
+      "originalBytes": 23772,
+      "width": 330,
+      "height": 854
+    }
+  ]
+}

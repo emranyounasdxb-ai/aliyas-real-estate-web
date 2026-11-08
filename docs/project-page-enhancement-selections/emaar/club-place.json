@@ -1,0 +1,523 @@
+{
+  "id": "emaar-project-65",
+  "slug": "club-place",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/club-place-at-dubai-hills-estate",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "entrance",
+      "label": "Club Place entrance at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/388876_hero_slide_0_aef116f340_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/official-hero.jpg",
+      "position": "52% 53%",
+      "alt": "Club Place developer render: club place entrance at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "balconies",
+      "label": "Upper balconies facing Dubai Hills",
+      "url": "https://www.emaar.com/cms-media/uploads/388921_exterior_0_f7e792856d_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388921_exterior_0_f7e792856d_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: upper balconies facing dubai hills. Proposed architecture or community setting."
+    },
+    {
+      "name": "pool",
+      "label": "Outdoor pool and landscaped deck",
+      "url": "https://www.emaar.com/cms-media/uploads/388939_exterior_2_756fbbe138_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388939_exterior_2_756fbbe138_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: outdoor pool and landscaped deck. Proposed architecture or community setting."
+    },
+    {
+      "name": "playground",
+      "label": "Outdoor play area",
+      "url": "https://www.emaar.com/cms-media/uploads/388948_exterior_3_53cd29554e_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388948_exterior_3_53cd29554e_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: outdoor play area. Proposed architecture or community setting."
+    },
+    {
+      "name": "living",
+      "label": "Corner living room",
+      "url": "https://www.emaar.com/cms-media/uploads/388957_interior_0_9548b92f62_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388957_interior_0_9548b92f62_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: corner living room. Finishes and outlook vary by home."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom overlooking Dubai Hills",
+      "url": "https://www.emaar.com/cms-media/uploads/388966_interior_1_1ceb3a7d7d_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388966_interior_1_1ceb3a7d7d_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: bedroom overlooking dubai hills. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Shared double-height lounge",
+      "url": "https://www.emaar.com/cms-media/uploads/388975_interior_2_184b952dd6_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/388975_interior_2_184b952dd6_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Club Place developer render: shared double-height lounge. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "entrance",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Hills Estate",
+    "road": "Al Khail Road",
+    "travel": {
+      "page": 3,
+      "scope": "Dubai Hills Estate estimates in the official Club Place brochure.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 20
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 25
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/CLUB-PLACE_brochure.pdf"
+    },
+    "travelNote": "Emaar’s brochure identifies the future Blue Line. Allow for current routes and traffic when planning a journey.",
+    "pin": {
+      "latitude": 25.126974414474525,
+      "longitude": 55.26048471164861,
+      "sourceUrl": "https://www.emaar.com/en/properties/club-place-at-dubai-hills-estate",
+      "scope": "Emaar’s location reference for Club Place. Confirm your building’s access before visiting."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "cache": "artifacts/project-page-enhancement/club-place/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "alt": "Emaar regional map showing Dubai Hills Estate",
+      "scope": "Emaar’s Dubai Hills Estate regional map showing transport context. The project point is shown separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Club Place original Buildings A, B and C floor plans",
+    "introduction": "Compare one-, two- and three-bedroom apartments by building, layout and unit group. The first two pages of the PDF include the cover and a building massing plan.",
+    "selectorLabel": "Choose a Club Place building and layout",
+    "note": "Ranges show Emaar’s published endpoints for the whole group. The Building C CG03 total is printed as 1,281.01 sq ft, while its displayed components add to 1,281.04 sq ft. Confirm your signed unit area.",
+    "url": "https://www.emaar.com/cms-media/uploads/CLUB-PLACE_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/club-place-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "A · 1 BR · Type 1A · A207 / A208",
+        "area": "767.36 sq ft (units A207, A307, A407 + 16 on sheet) / 762.84 sq ft (units A208, A308, A408 + 16 on sheet)",
+        "sourcePage": 3,
+        "areaValues": [
+          767.36,
+          762.84
+        ],
+        "areaCalculation": "units A207, A307, A407 + 16 on sheet: 707.83 + 59.52 = 767.35 sq ft. Printed total 767.36 sq ft. units A208, A308, A408 + 16 on sheet: 700.73 + 62.11 = 762.84 sq ft. Printed total 762.84 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-03.png"
+      },
+      {
+        "label": "A · 1 BR · Type 1C · A106 / A107",
+        "area": "833.02 sq ft (unit A106) / 826.13 sq ft (unit A107)",
+        "sourcePage": 4,
+        "areaValues": [
+          833.02,
+          826.13
+        ],
+        "areaCalculation": "unit A106: 707.83 + 125.18 = 833.01 sq ft. Printed total 833.02 sq ft. unit A107: 700.84 + 125.29 = 826.13 sq ft. Printed total 826.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-04.png"
+      },
+      {
+        "label": "A · 1 BR · Type 2A · A201",
+        "area": "697.72 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          697.72
+        ],
+        "areaCalculation": "627.32 + 70.40 = 697.72 sq ft. Printed total 697.72 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-05.png"
+      },
+      {
+        "label": "A · 1 BR · Type 2B · A209",
+        "area": "693.30 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          693.3
+        ],
+        "areaCalculation": "622.37 + 70.93 = 693.30 sq ft. Printed total 693.30 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-06.png"
+      },
+      {
+        "label": "A · 2 BR · Type 1A · AP02 / A103",
+        "area": "1,168.10 sq ft (unit AP02) / 1,173.59 sq ft (units A103, A204, A304 + 17 on sheet)",
+        "sourcePage": 7,
+        "areaValues": [
+          1168.1,
+          1173.59
+        ],
+        "areaCalculation": "unit AP02: 1090.17 + 77.93 = 1168.10 sq ft. Printed total 1168.10 sq ft. units A103, A204, A304 + 17 on sheet: 1095.66 + 77.93 = 1173.59 sq ft. Printed total 1173.59 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-07.png"
+      },
+      {
+        "label": "A · 2 BR · Type 1C · AG02",
+        "area": "1,383.16 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          1383.16
+        ],
+        "areaCalculation": "1092.86 + 290.30 = 1383.16 sq ft. Printed total 1383.16 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-08.png"
+      },
+      {
+        "label": "A · 2 BR · Type 2A · A202",
+        "area": "1,421.80 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1421.8
+        ],
+        "areaCalculation": "1099.75 + 322.06 = 1421.81 sq ft. Printed total 1421.80 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-09.png"
+      },
+      {
+        "label": "A · 2 BR · Type 2D · A101",
+        "area": "1,465.72 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1465.72
+        ],
+        "areaCalculation": "1102.22 + 363.50 = 1465.72 sq ft. Printed total 1465.72 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-10.png"
+      },
+      {
+        "label": "A · 2 BR · Type 2E · A206",
+        "area": "1,524.38 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1524.38
+        ],
+        "areaCalculation": "1097.06 + 427.33 = 1524.39 sq ft. Printed total 1524.38 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-11.png"
+      },
+      {
+        "label": "A · 2 BR · Type 2F · A105",
+        "area": "1,559.15 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1559.15
+        ],
+        "areaCalculation": "1099.53 + 459.62 = 1559.15 sq ft. Printed total 1559.15 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-12.png"
+      },
+      {
+        "label": "A · 3 BR · Type 1A · AP01",
+        "area": "1,751.61–1,752.90 sq ft (units AP01, A102, A203 + 18 on sheet)",
+        "sourcePage": 13,
+        "areaValues": [
+          1751.61,
+          1752.9
+        ],
+        "areaCalculation": "Printed suite range 1495.54–1497.26 sq ft, balcony range 255.64–256.07 sq ft and total range 1751.61–1752.9 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-13.png"
+      },
+      {
+        "label": "A · 3 BR · Type 1B · A205",
+        "area": "1,757.96 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1757.96
+        ],
+        "areaCalculation": "1492.42 + 265.55 = 1757.97 sq ft. Printed total 1757.96 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-14.png"
+      },
+      {
+        "label": "A · 3 BR · Type 1C · AG01",
+        "area": "1,931.37 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1931.37
+        ],
+        "areaCalculation": "1492.74 + 438.63 = 1931.37 sq ft. Printed total 1931.37 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-15.png"
+      },
+      {
+        "label": "A · 3 BR · Type 1E · A104",
+        "area": "1,653.98 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1653.98
+        ],
+        "areaCalculation": "1492.63 + 161.35 = 1653.98 sq ft. Printed total 1653.98 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-16.png"
+      },
+      {
+        "label": "A · 3 BR · Type 2A · AP03",
+        "area": "1,665.82 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1665.82
+        ],
+        "areaCalculation": "1502.86 + 162.97 = 1665.83 sq ft. Printed total 1665.82 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-17.png"
+      },
+      {
+        "label": "A · 3 BR · Type 2C · AG03",
+        "area": "1,923.40 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1923.4
+        ],
+        "areaCalculation": "1489.94 + 433.46 = 1923.40 sq ft. Printed total 1923.40 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-18.png"
+      },
+      {
+        "label": "B · 1 BR · Type 3A · BP08 / B215",
+        "area": "741.63–752.40 sq ft (units BP08, BP09, BP10 + 3 on sheet) / 745.40–752.50 sq ft (units B215, B216, B217 + 36 on sheet)",
+        "sourcePage": 19,
+        "areaValues": [
+          741.63,
+          752.4,
+          745.4,
+          752.5
+        ],
+        "areaCalculation": "Printed suite range 668.33–676.51 sq ft, balcony range 73.3–75.89 sq ft and total range 741.63–752.4 sq ft. No per-unit area pairing supplied. Printed suite range 671.99–675.65 sq ft, balcony range 73.41–76.85 sq ft and total range 745.4–752.5 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-19.png"
+      },
+      {
+        "label": "B · 1 BR · Type 3B · BP03 / B1406",
+        "area": "745.72–751.54 sq ft (units BP03, BP04, BP05 + 5 on sheet) / 742.82–746.37 sq ft (units B1406, B1503, B1504 + 10 on sheet)",
+        "sourcePage": 20,
+        "areaValues": [
+          745.72,
+          751.54,
+          742.82,
+          746.37
+        ],
+        "areaCalculation": "Printed suite range 670.59–674.68 sq ft, balcony range 75.13–76.85 sq ft and total range 745.72–751.54 sq ft. No per-unit area pairing supplied. Printed suite range 671.88–672.31 sq ft, balcony range 70.93–74.06 sq ft and total range 742.82–746.37 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-20.png"
+      },
+      {
+        "label": "B · 1 BR · Type 3C · BG01 / BG03",
+        "area": "901.80 sq ft (unit BG01) / 897.82 sq ft (unit BG03)",
+        "sourcePage": 21,
+        "areaValues": [
+          901.8,
+          897.82
+        ],
+        "areaCalculation": "unit BG01: 673.71 + 228.09 = 901.80 sq ft. Printed total 901.80 sq ft. unit BG03: 670.16 + 227.66 = 897.82 sq ft. Printed total 897.82 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-21.png"
+      },
+      {
+        "label": "B · 1 BR · Type 3G · BG02",
+        "area": "899.97 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          899.97
+        ],
+        "areaCalculation": "671.13 + 228.84 = 899.97 sq ft. Printed total 899.97 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-22.png"
+      },
+      {
+        "label": "B · 1 BR · Type 4A · BP01",
+        "area": "726.89–728.39 sq ft (units BP01, B101, B201 + 15 on sheet)",
+        "sourcePage": 23,
+        "areaValues": [
+          726.89,
+          728.39
+        ],
+        "areaCalculation": "Printed suite range 653.91–657.03 sq ft, balcony range 71.36–72.98 sq ft and total range 726.89–728.39 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-23.png"
+      },
+      {
+        "label": "B · 1 BR · Type 5A · BP02",
+        "area": "784.90–785.98 sq ft (units BP02, B102, B202 + 15 on sheet)",
+        "sourcePage": 24,
+        "areaValues": [
+          784.9,
+          785.98
+        ],
+        "areaCalculation": "Printed suite range 669.08–669.73 sq ft, balcony range 115.17–116.9 sq ft and total range 784.9–785.98 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-24.png"
+      },
+      {
+        "label": "B · 2 BR · Type 3A · BP11 / B214",
+        "area": "1,219.34 sq ft (units BP11, B112) / 1,221.60 sq ft (units B214, B314, B414 + 10 on sheet)",
+        "sourcePage": 25,
+        "areaValues": [
+          1219.34,
+          1221.6
+        ],
+        "areaCalculation": "units BP11, B112: 1010.30 + 209.04 = 1219.34 sq ft. Printed total 1219.34 sq ft. units B214, B314, B414 + 10 on sheet: 1011.81 + 209.79 = 1221.60 sq ft. Printed total 1221.60 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-25.png"
+      },
+      {
+        "label": "B · 2 BR · Type 3C · BGO4",
+        "area": "1,571.96 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1571.96
+        ],
+        "areaCalculation": "1007.39 + 564.57 = 1571.96 sq ft. Printed total 1571.96 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-26.png"
+      },
+      {
+        "label": "B · 2 BR · Type 4A · BP07 / B207",
+        "area": "1,143.23 sq ft (units BP07, B107) / 1,152.49 sq ft (units B207, B307, B407 + 13 on sheet)",
+        "sourcePage": 27,
+        "areaValues": [
+          1143.23,
+          1152.49
+        ],
+        "areaCalculation": "units BP07, B107: 1006.00 + 137.24 = 1143.24 sq ft. Printed total 1143.23 sq ft. units B207, B307, B407 + 13 on sheet: 1007.93 + 144.56 = 1152.49 sq ft. Printed total 1152.49 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-27.png"
+      },
+      {
+        "label": "B · 2 BR · Type 5A · B210",
+        "area": "1,085.65–1,086.08 sq ft (units B210, B211, B212 + 39 on sheet)",
+        "sourcePage": 28,
+        "areaValues": [
+          1085.65,
+          1086.08
+        ],
+        "areaCalculation": "Printed suite range 1006.53–1009.76 sq ft, balcony range 75.89–79.55 sq ft and total range 1085.65–1086.08 sq ft. No per-unit area pairing supplied.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-28.png"
+      },
+      {
+        "label": "B · 2 BR · Type 5B · B209",
+        "area": "1,086.83 sq ft total area",
+        "sourcePage": 29,
+        "areaValues": [
+          1086.83
+        ],
+        "areaCalculation": "1006.53 + 80.30 = 1086.83 sq ft. Printed total 1086.83 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-29.png"
+      },
+      {
+        "label": "B · 2 BR · Type 5C · B110",
+        "area": "1,224.18 sq ft total area",
+        "sourcePage": 30,
+        "areaValues": [
+          1224.18
+        ],
+        "areaCalculation": "1006.75 + 217.43 = 1224.18 sq ft. Printed total 1224.18 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-30.png"
+      },
+      {
+        "label": "B · 2 BR · Type 5G · B109",
+        "area": "1,237.53 sq ft total area",
+        "sourcePage": 31,
+        "areaValues": [
+          1237.53
+        ],
+        "areaCalculation": "1009.98 + 227.55 = 1237.53 sq ft. Printed total 1237.53 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-31.png"
+      },
+      {
+        "label": "B · 3 BR · Type 3A · B213",
+        "area": "1,604.04 sq ft total area",
+        "sourcePage": 32,
+        "areaValues": [
+          1604.04
+        ],
+        "areaCalculation": "1350.98 + 253.06 = 1604.04 sq ft. Printed total 1604.04 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-32.png"
+      },
+      {
+        "label": "B · 3 BR · Type 3C · B111",
+        "area": "1,799.73 sq ft total area",
+        "sourcePage": 33,
+        "areaValues": [
+          1799.73
+        ],
+        "areaCalculation": "1349.90 + 449.82 = 1799.72 sq ft. Printed total 1799.73 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-33.png"
+      },
+      {
+        "label": "B · 3 BR · Type 4A · B208",
+        "area": "1,551.29 sq ft total area",
+        "sourcePage": 34,
+        "areaValues": [
+          1551.29
+        ],
+        "areaCalculation": "1353.13 + 198.16 = 1551.29 sq ft. Printed total 1551.29 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-34.png"
+      },
+      {
+        "label": "B · 3 BR · Type 4C · B108",
+        "area": "1,754.52 sq ft total area",
+        "sourcePage": 35,
+        "areaValues": [
+          1754.52
+        ],
+        "areaCalculation": "1353.78 + 400.74 = 1754.52 sq ft. Printed total 1754.52 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-35.png"
+      },
+      {
+        "label": "C · 2 BR · Type 6A · CP02 / CP04",
+        "area": "1,087.37 sq ft (unit CP02) / 1,091.89 sq ft (unit CP04)",
+        "sourcePage": 36,
+        "areaValues": [
+          1087.37,
+          1091.89
+        ],
+        "areaCalculation": "unit CP02: 1010.30 + 77.07 = 1087.37 sq ft. Printed total 1087.37 sq ft. unit CP04: 1012.45 + 79.44 = 1091.89 sq ft. Printed total 1091.89 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-36.png"
+      },
+      {
+        "label": "C · 2 BR · Type 6B · CP01 / CP03",
+        "area": "1,088.55 sq ft (unit CP01) / 1,087.48 sq ft (unit CP03)",
+        "sourcePage": 37,
+        "areaValues": [
+          1088.55,
+          1087.48
+        ],
+        "areaCalculation": "unit CP01: 1008.69 + 79.87 = 1088.56 sq ft. Printed total 1088.55 sq ft. unit CP03: 1010.30 + 77.18 = 1087.48 sq ft. Printed total 1087.48 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-37.png"
+      },
+      {
+        "label": "C · 2 BR · Type 6C · CG02 / CG04",
+        "area": "1,281.01 sq ft (unit CG02) / 1,283.06 sq ft (unit CG04)",
+        "sourcePage": 38,
+        "areaValues": [
+          1281.01,
+          1283.06
+        ],
+        "areaCalculation": "unit CG02: 1008.15 + 272.87 = 1281.02 sq ft. Printed total 1281.01 sq ft. unit CG04: 1011.38 + 271.68 = 1283.06 sq ft. Printed total 1283.06 sq ft.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-38.png"
+      },
+      {
+        "label": "C · 2 BR · Type 6F · CG01 / CG03",
+        "area": "1,281.12 sq ft (unit CG01) / 1,281.01 sq ft (unit CG03) · printed total",
+        "sourcePage": 39,
+        "areaValues": [
+          1281.12,
+          1281.01
+        ],
+        "areaCalculation": "unit CG01: 1008.15 + 272.97 = 1281.12 sq ft. Printed total 1281.12 sq ft. unit CG03: 1008.26 + 272.78 = 1281.04 sq ft. Printed total 1281.01 sq ft. Source difference 0.03 sq ft retained.",
+        "cache": "artifacts/project-page-enhancement/club-place/plan-39.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/club-place/",
+  "review": {
+    "images": "Verified Emaar’s seven gallery views and original wide hero. Kept seven distinct scenes after removing the repeated entrance crop. The entrance also supplies the listing card, with the living room and bedroom in the interior section.",
+    "location": "Checked the named Club Place pin, the developer’s Dubai Hills Estate regional map and the official brochure’s four regional travel estimates on physical page 3. The Blue Line is marked future.",
+    "floorPlans": "Reviewed the original 39-page pack, including the massing diagram and 37 unedited layout sheets. Checked the tables visually and against independent text, including eight printed range groups on six sheets. BGO4 on physical page 26 is retained as printed. CG03 on physical page 39 prints 1,281.01 sq ft while the parts add to 1,281.04 sq ft. Kept the printed figure with an explicit note."
+  },
+  "unavailable": [
+    "The specific building entrance, signed unit areas and current journey times require confirmation."
+  ]
+}

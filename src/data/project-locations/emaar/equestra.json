@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-50",
+  "projectSlug": "equestra",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Grand Polo Club & Resort",
+  "pin": {
+    "latitude": 24.9646625,
+    "longitude": 55.2174844,
+    "sourceUrl": "https://www.emaar.com/en/properties/equestra-at-grand-polo-club-and-resort",
+    "scope": "Reference point published on Emaar’s exact Equestra page, corroborated with the Grand Polo brochure setting. It is not a surveyed townhouse entrance or five-bedroom plot; confirm current access."
+  },
+  "map": {
+    "src": "/images/projects/emaar/equestra/location-f70f5b641806.jpg",
+    "sha256": "f70f5b641806d16c47b0edfcd15acb9c62ec6aa045cd629cbc0b545ea1db63ea",
+    "originalBytes": 268106,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_d19600bb28.jpg",
+    "alt": "Emaar regional map locating Grand Polo Club & Resort",
+    "scope": "Official Equestra regional map for wider Grand Polo community context, not to scale. Proposed transport and wider resort features do not establish operational service or membership rights."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/EQUESTRA-EQUITERRA_brochure.pdf",
+    "page": 4,
+    "scope": "Own Equestra brochure whole regional map and all4 numerical destination labels visually read.",
+    "destinations": [
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 5
+      },
+      {
+        "name": "The Oasis",
+        "minutes": 5
+      },
+      {
+        "name": "Expo 2020 area",
+        "minutes": 10
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "Developer community estimates, not live traffic or measured routes from a specific home. Expo 2020 is the brochure’s place reference, not a claim that the original event is running. Confirm the exact entrance, current access, golf/equestrian privileges and finished shared facilities separately."
+}

@@ -1,0 +1,251 @@
+{
+  "projectId": "reportage-project-04",
+  "projectSlug": "verso",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/VERSO_FLOORPLAN_V6.pdf",
+    "label": "Verso · original apartment drawings",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/verso/floor-plans-75b0f82a6db8.pdf",
+    "sha256": "75b0f82a6db88cf5a2974a6ed72cf40a293a96e865a204673f51e2a12c8f8fc4"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the residences with their original building floors and regional setting.",
+  "selectorLabel": "Choose a residence, building floor or context sheet",
+  "note": "Printed totals include outdoor space and retain their published endpoints. Balcony sizes and floor scope vary. The 4BR Type B total is 0.01 sq ft below its printed components. Whole sheets preserve room dimensions, locators and source notices. Confirm the selected unit, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "1 BR · A",
+      "area": "505.37–609.24 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/verso/plan-page-13-73037ef5aa32.webp",
+      "sha256": "73037ef5aa3277cfb5173fdab1fcaceadf674891cad9f375fda42e92233cfb98",
+      "originalBytes": 1646722,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · A",
+      "area": "768.87–829.14 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/verso/plan-page-14-5216ab58426e.webp",
+      "sha256": "5216ab58426e8713f19ed7c3beebaf81be3b732a2424cf62c54ebb4297d3713c",
+      "originalBytes": 2602868,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · B",
+      "area": "773.71–980.38 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/verso/plan-page-15-83449bcb3066.webp",
+      "sha256": "83449bcb3066285f0f4daa158236c45509d8823df43692ba9c6b06f406d1098d",
+      "originalBytes": 2642584,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · C",
+      "area": "813.43–1,036.67 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/reportage/verso/plan-page-16-0cc6262ab62f.webp",
+      "sha256": "0cc6262ab62f5044b956eb4ddb6aa53232cf44bae767e2c01c1bd8416f56ad4d",
+      "originalBytes": 2170014,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "2 BR · D",
+      "area": "920.74 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/verso/plan-page-17-11b5196a600d.webp",
+      "sha256": "11b5196a600d27b9a0c2d810009ba770f7a1e70073bd9fd0bcde673b9f222c83",
+      "originalBytes": 2459146,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "4 BR · A",
+      "area": "1,802.20 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/verso/plan-page-18-e8e956c9895d.webp",
+      "sha256": "e8e956c9895d635e6e1a222b5e2c41d01cf4ac0b94c2ee90459d059635140c00",
+      "originalBytes": 2695400,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "4 BR · B",
+      "area": "1,851.71 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/verso/plan-page-19-12a8c357170d.webp",
+      "sha256": "12a8c357170d5f771a5629eb5fd555fcef674c2d4fd124079a1ea599f0343cfa",
+      "originalBytes": 2741208,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Basement 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/reportage/verso/plan-page-3-74482df59371.webp",
+      "sha256": "74482df593715c5207fd60f78b80c9e1423348004b2ecf4e190c7eb0e4186e87",
+      "originalBytes": 159268,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Basement 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/verso/plan-page-4-bd80972fb4c9.webp",
+      "sha256": "bd80972fb4c92499005cc617ab051914da5c2cddda025472ce274df346ccd356",
+      "originalBytes": 144008,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/verso/plan-page-5-858033592ee6.webp",
+      "sha256": "858033592ee6f6735e2483823343c70f43684491ab1dc7787a17189141f74627",
+      "originalBytes": 170832,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Podium 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/verso/plan-page-6-ae01758e41fd.webp",
+      "sha256": "ae01758e41fdbb93948c7db6232edd298224993f7e90456e1c9d18d2bc834984",
+      "originalBytes": 151786,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Podium 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/verso/plan-page-7-ad0a28806cad.webp",
+      "sha256": "ad0a28806cad80f8528a647b8a61640643c807147809f507d64ec62acdd0cc67",
+      "originalBytes": 171686,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "First floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/verso/plan-page-8-97f3fe2b1984.webp",
+      "sha256": "97f3fe2b1984e78b5191432f4223e46ce132427b32f38fe1566cf5a063a530c3",
+      "originalBytes": 790994,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Typical floors 2–7 and 9–14",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/verso/plan-page-9-b99c9ac4ab7e.webp",
+      "sha256": "b99c9ac4ab7e247f9c7df43e2b40003b9ca77ce79a3d7a537323a29866684bac",
+      "originalBytes": 261706,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 8 · GSM room",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/verso/plan-page-10-c01ef27ded68.webp",
+      "sha256": "c01ef27ded6838365ee5ceba2f25ed555f26ad3ac36f3d075ff8c15fdf1ea565",
+      "originalBytes": 259118,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Floor 15",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/verso/plan-page-11-6b9fe449e3e2.webp",
+      "sha256": "6b9fe449e3e232b30ba20be2905f2055c89bece47bdc5d71afaa51e5fe97e317",
+      "originalBytes": 294232,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/verso/plan-brochure-page-7-2eb707a41a3f.webp",
+      "sha256": "2eb707a41a3f68c875a26ecaeb7a19062e3d66768a5ac3fa25caa9a4a86afda9",
+      "originalBytes": 2312304,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/VERSO_BROCHURE_V5_DIGITAL_s.pdf",
+        "label": "Verso · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/verso/floor-plans-brochure-0c09e240229d.pdf",
+        "sha256": "0c09e240229d96d7c2ef94c8b6c9ce1b61086c4868d9b264f20812c9c26f59e4"
+      }
+    }
+  ]
+}

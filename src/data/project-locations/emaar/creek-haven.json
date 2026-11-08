@@ -1,0 +1,51 @@
+{
+  "projectId": "emaar-project-13",
+  "projectSlug": "creek-haven",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "community": "Dubai Creek Harbour",
+  "road": "",
+  "pin": {
+    "latitude": 25.2038875,
+    "longitude": 55.3587656,
+    "sourceUrl": "https://www.emaar.com/en/properties/creek-haven-at-dubai-creek-harbour",
+    "scope": "Developer reference point shared with Creek Bay. Confirm the exact tower entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/emaar/creek-haven/location-594fddb8562a.jpg",
+    "sha256": "594fddb8562a12f74fd29495f9b2611496f6fee68e117d61147c7995cee37b82",
+    "originalBytes": 267579,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+    "alt": "Emaar regional diagram locating Dubai Creek Harbour among Dubai districts",
+    "scope": "Regional community diagram, not to scale. Future transport drawn here does not confirm an operating service."
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/CREEK-HAVEN_brochure.pdf",
+    "page": 4,
+    "scope": "Community time estimates from the Creek Haven brochure; visually checked, not live routing.",
+    "destinations": [
+      {
+        "name": "Ras Al Khor Wildlife Sanctuary",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "Burj Khalifa / Downtown Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 25
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 40
+      }
+    ]
+  }
+}

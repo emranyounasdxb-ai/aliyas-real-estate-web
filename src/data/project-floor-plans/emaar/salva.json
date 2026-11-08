@@ -1,0 +1,101 @@
+{
+  "projectId": "emaar-project-09",
+  "projectSlug": "salva",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PHASE-1-SALVA-SERRO-_floorplan.pdf",
+    "label": "Emaar: The Heights plans · Salva sheets14–19",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/salva/floor-plans-b2fcc1e7d74b.pdf",
+    "sha256": "b2fcc1e7d74b64c308cc739c49aa89277ac200b014e7897a5563c05470b0826b"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore Salva’s published three, four and five bedroom villa plans. Total area includes the listed carport and terraces or balconies; it is not the plot area. Match the plan code to the villa offered.",
+  "selectorLabel": "Choose a Salva villa layout",
+  "note": "These are the Salva sheets in Emaar’s shared The Heights booklet. Plans, dimensions and landscaping are approximate and may change. A drawn pool or furnishing does not confirm its inclusion in the selected villa’s sale.",
+  "plans": [
+    {
+      "label": "3 bedroom villa · Type A",
+      "area": "3,463.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/salva/plan-page-14-c0b853e2504e.webp",
+      "sha256": "c0b853e2504ee9539035857193a1f8e2b2179ba92a680dbc53f72b48e322b7f2",
+      "originalBytes": 626336,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "4 bedroom villa · Type A",
+      "area": "4,312.45 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/salva/plan-page-15-d2d26949d2d2.webp",
+      "sha256": "d2d26949d2d299ea5bf44a33b3d1ad2d717ff3c85290314be682800f841f0d35",
+      "originalBytes": 792448,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 bedroom villa · Type A",
+      "area": "5,884.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/salva/plan-page-16-2f029a151402.webp",
+      "sha256": "2f029a151402cdf3ae0b96e3059dc1ed571ac57756bdb98fd302fa0c31474f1a",
+      "originalBytes": 993478,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "3 bedroom villa · Type C",
+      "area": "3,340.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/salva/plan-page-17-61728a3e7793.webp",
+      "sha256": "61728a3e779372156a506e91526619fd1f3c3b1f3115d1ad02883ea3a6727b7d",
+      "originalBytes": 620694,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "4 bedroom villa · Type C",
+      "area": "4,302.22 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/salva/plan-page-18-10f83786f501.webp",
+      "sha256": "10f83786f501458b5f97f52e0127f28dab4cf949ae13b35a6487a8ab0a85ad07",
+      "originalBytes": 795524,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 bedroom villa · Type C",
+      "area": "5,760.52 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/salva/plan-page-19-1d76be3dc4dd.webp",
+      "sha256": "1d76be3dc4ddee12cc4d315ef004830e7fa229416ade5e82bd6facec4ddbd6a2",
+      "originalBytes": 987870,
+      "width": 2400,
+      "height": 1569
+    }
+  ]
+}

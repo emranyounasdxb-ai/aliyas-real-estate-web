@@ -1,0 +1,249 @@
+{
+  "id": "emaar-project-13",
+  "slug": "creek-haven",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/creek-haven-at-dubai-creek-harbour",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "buildings",
+      "url": "https://www.emaar.com/cms-media/uploads/CREEK-HAVEN_brochure.pdf#page=5",
+      "cache": "artifacts/project-page-enhancement/creek-haven/brochure-5-Im0.jpg",
+      "label": "Creek Haven buildings",
+      "alt": "Emaar brochure render of Creek Haven buildings and the skyline, physical page5",
+      "position": "50% 50%",
+      "extraction": "Native JPEG Im0 from own official brochure physical5, unchanged source bytes."
+    },
+    {
+      "name": "balcony",
+      "url": "https://www.emaar.com/cms-media/uploads/427332_exterior_0_432725ffeb_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/427332_exterior_0_432725ffeb_prod.jpg",
+      "label": "Creek-facing balcony",
+      "alt": "Emaar render published for Creek Haven: creek-facing balcony",
+      "position": "50% 50%"
+    },
+    {
+      "name": "pool",
+      "url": "https://www.emaar.com/cms-media/uploads/427335_exterior_1_bb3867024f_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/427335_exterior_1_bb3867024f_prod.jpg",
+      "label": "Pool terrace",
+      "alt": "Emaar render published for Creek Haven: pool terrace",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/427323_interior_0_0052c7ca75_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/427323_interior_0_0052c7ca75_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render published for Creek Haven: living room",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/427326_interior_1_c063130a98_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/427326_interior_1_c063130a98_prod.jpg",
+      "label": "Arrival lobby",
+      "alt": "Emaar render published for Creek Haven: arrival lobby",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/427329_interior_2_38c8a23cb3_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/427329_interior_2_38c8a23cb3_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render published for Creek Haven: bedroom",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "buildings",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Creek Harbour",
+    "road": "",
+    "pin": {
+      "latitude": 25.2038875,
+      "longitude": 55.3587656,
+      "sourceUrl": "https://www.emaar.com/en/properties/creek-haven-at-dubai-creek-harbour",
+      "scope": "Developer reference point shared with Creek Bay. Confirm the exact tower entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+      "cache": "artifacts/project-page-enhancement/creek-haven/04.-MAP---2400x1600px.jpg",
+      "alt": "Emaar regional diagram locating Dubai Creek Harbour among Dubai districts",
+      "scope": "Regional community diagram, not to scale. Future transport drawn here does not confirm an operating service."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/CREEK-HAVEN_brochure.pdf",
+      "page": 4,
+      "scope": "Community time estimates from the Creek Haven brochure; visually checked, not live routing.",
+      "destinations": [
+        {
+          "name": "Ras Al Khor Wildlife Sanctuary",
+          "minutes": 5
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 10
+        },
+        {
+          "name": "Burj Khalifa / Downtown Dubai",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 25
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 40
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/CREEK-HAVEN_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/creek-haven-floorplans-1.pdf",
+    "label": "Emaar: Creek Haven · Tower A floor plans",
+    "introduction": "Explore the published one, two and three bedroom layouts for Tower A. The linked official booklet covers this tower. Match the unit reference and level on the complete plan; total areas include the listed balcony or terrace.",
+    "selectorLabel": "Choose a Tower A layout",
+    "note": "Plans and dimensions are approximate and may change. Different unit and level groups may share a plan code with different areas; sheet references keep these versions distinct. Furnishings and indicative views are not sale guarantees.",
+    "plans": [
+      {
+        "label": "Tower A · 1 bedroom · 1.1 · sheet 3",
+        "area": "739.48 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          739.48
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-03.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · 1.1A · sheet 4",
+        "area": "876.18 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          876.18
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-04.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · 1.2 · sheet 5",
+        "area": "733.34 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          733.34
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-05.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · 2.1 · sheet 6",
+        "area": "730.44 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          730.44
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-06.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · 2.1A · sheet 7",
+        "area": "872.74 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          872.74
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-07.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · 2.2 · sheet 8",
+        "area": "730.44 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          730.44
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-08.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · 1.2 · sheet 9",
+        "area": "1,191.56 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1191.56
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-09.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · 2.2 · sheet 10",
+        "area": "1,238.39 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1238.39
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-10.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · 3.1 · sheet 11",
+        "area": "1,190.81 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1190.81
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-11.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · 3.2 · sheet 12",
+        "area": "1,196.30 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1196.3
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-12.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · 3.2 · sheet 13",
+        "area": "1,203.41 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1203.41
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-13.png"
+      },
+      {
+        "label": "Tower A · 3 bedroom · 1.2 · sheet 14",
+        "area": "1,860.43 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1860.43
+        ],
+        "areaCalculation": "Printed square-foot TOTAL AREA, including balcony/terrace; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/creek-haven/plan-14.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/creek-haven/",
+  "review": {
+    "images": "All5 exact page-gallery images visually reviewed. The native1923px building JPEG from own brochure physical5 was separately reviewed and selected for detail/card/hero; no decorative background image used.",
+    "location": "Own official page pin and regional diagram reviewed; Creek Haven and Creek Bay share the same published reference coordinates. Visible scope identifies the shared point. Own brochure physical4 time panel visually reviewed; future Blue Line qualified.",
+    "floorPlans": "All12 complete residence title/area panels visually reviewed, TowerA physical3–14. First numerical TOTAL AREA column is sqft; second is sqm. Decimal plan codes and repeated code versions preserved with sheet numbers. Original14pagePDF and unedited full sheets retained."
+  },
+  "unavailable": [
+    "The linked official floor-plan booklet supplies Tower A only; other-tower plans were not verified or substituted."
+  ]
+}

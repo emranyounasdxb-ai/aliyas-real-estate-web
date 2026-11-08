@@ -1,0 +1,177 @@
+{
+  "projectId": "binghatti-project-04",
+  "projectSlug": "tilal-binghatti",
+  "developerSlug": "binghatti",
+  "source": {
+    "url": "https://binghatti-frankfurt-public.s3.eu-central-1.amazonaws.com/project-assets/tilal-binghatti-assets/tilal-binghatti-villa-brochures.zip",
+    "label": "Binghatti · Tilal Dunes Villa brochure",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/binghatti/tilal-binghatti/floor-plans-0891051bca63.pdf",
+    "sha256": "0891051bca63aaa71b44c718e47e1f3cf791b5723bc6a036a4bc3709ebfac3ed"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 4200,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the published townhouse, twin villa and standalone villa layouts.",
+  "selectorLabel": "Choose a Tilal Binghatti villa layout",
+  "note": "The Dunes and Oasis brochures show the same 4-bedroom mid-unit plan and built-up area. Larger villa drawings include separate project and broker sources. Confirm the built-up and plot areas for the selected villa.",
+  "plans": [
+    {
+      "label": "4 BR mid unit · Ground, first, second and roof",
+      "area": "2,773.00 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-page-10-6ad7590e8551.webp",
+      "sha256": "6ad7590e855166e865eb8bacacfa559dd4f610e6d938e1ac20aec3b5bf5afab7",
+      "originalBytes": 2983254,
+      "width": 4200,
+      "height": 2928
+    },
+    {
+      "label": "4 BR mid unit · Isometric and area table",
+      "area": "2,773.00 sq ft built-up area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-page-9-8683b99588b8.webp",
+      "sha256": "8683b99588b89672000a5d02318c813091ecca63e207aaf199d6206e2b3c1867",
+      "originalBytes": 3315902,
+      "width": 4200,
+      "height": 2928
+    },
+    {
+      "label": "5 BR corner townhouse",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://tilal-villa.com/wp-content/uploads/5Bedroom-Corner-Townhouse-layout-Tilal-Binghatti.jpg",
+        "label": "Tilal Villa broker mirror · Corner townhouse drawing"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-3-484e41218c0d.jpg",
+      "sha256": "484e41218c0df87e4f473af1b047404ac4a8a40fd7a3c8999055f2fdb5059bb7",
+      "originalBytes": 288209,
+      "width": 1980,
+      "height": 1266
+    },
+    {
+      "label": "5 BR Oasis Grand Villa",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/tilal-binghatti-grand-villa.webp",
+        "label": "Binghatti · Grand Villa drawing"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-4-b1411a04f515.jpg",
+      "sha256": "b1411a04f5153727a994933e505f1045501553dff6192259b4ccd0f87ff104fb",
+      "originalBytes": 295349,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "label": "6 BR Islands Twin Villa",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/tilal-binghatti-twin-villa-layout.webp",
+        "label": "Binghatti · Twin Villa drawing"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-5-2859a7d5a35e.jpg",
+      "sha256": "2859a7d5a35eb2c0f6acb15c628d18872263811a7d1500a519092cff73fc5976",
+      "originalBytes": 288001,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "label": "6 BR Islands Standalone",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://binghattiweb.imgix.net/tilal-binghatti-standalone-layout.webp",
+        "label": "Binghatti · Standalone villa drawing"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-6-f3c70589a89b.jpg",
+      "sha256": "f3c70589a89b1f2adf8974b83dc0ab91934c82d6d470c074ddca3966ae732f8f",
+      "originalBytes": 279396,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "label": "7 BR premium standalone · Sheet 1",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://tilal.woven.ae/images/sections/floor-plans/TILAL-7-BED-STAND-ALONE-PREMIUM-VILLA-Binghatti-Woven-ae-1.jpg",
+        "label": "Woven broker mirror · 7-bedroom villa plan"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-7-d6eda93a3097.jpg",
+      "sha256": "d6eda93a3097953e683f0d0114745f76e169c15ecdeba1d8c5ed47bd278e3675",
+      "originalBytes": 394295,
+      "width": 1382,
+      "height": 955
+    },
+    {
+      "label": "7 BR premium standalone · Sheet 2",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://tilal.woven.ae/images/sections/floor-plans/TILAL-7-BED-STAND-ALONE-PREMIUM-VILLA-Binghatti-Woven-ae-2.jpg",
+        "label": "Woven broker mirror · 7-bedroom villa plan"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-8-438e885438c5.jpg",
+      "sha256": "438e885438c55ecc5fb6185df51c3ac2207949300e49d6fb8aa56dd06e704e80",
+      "originalBytes": 463797,
+      "width": 1382,
+      "height": 955
+    },
+    {
+      "label": "7 BR premium standalone · Sheet 3",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://tilal.woven.ae/images/sections/floor-plans/TILAL-7-BED-STAND-ALONE-PREMIUM-VILLA-Binghatti-Woven-ae-3.jpg",
+        "label": "Woven broker mirror · 7-bedroom villa plan"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-9-c1744185438f.jpg",
+      "sha256": "c1744185438f6046cc4a39f9cf64b80d604e8038ea37916555b79f948d243aa5",
+      "originalBytes": 423750,
+      "width": 1382,
+      "height": 955
+    },
+    {
+      "label": "7 BR premium standalone · Sheet 4",
+      "area": "Built-up area unavailable on this drawing",
+      "sourceIds": [
+        "plan-image"
+      ],
+      "imageSource": {
+        "url": "https://tilal.woven.ae/images/sections/floor-plans/TILAL-7-BED-STAND-ALONE-PREMIUM-VILLA-Binghatti-Woven-ae-4.jpg",
+        "label": "Woven broker mirror · 7-bedroom villa plan"
+      },
+      "src": "/images/projects/binghatti/tilal-binghatti/plan-image-10-8b70aa454bb7.jpg",
+      "sha256": "8b70aa454bb7bae01667aa2c61a73de3bcdabb7bdbbfa28713d215c34f0152e3",
+      "originalBytes": 421634,
+      "width": 1382,
+      "height": 955
+    }
+  ]
+}

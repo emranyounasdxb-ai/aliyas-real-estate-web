@@ -1,0 +1,101 @@
+{
+  "projectId": "nshama-project-05",
+  "projectSlug": "camden",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2025/06/CAMDEN-Floor-Plans-Website.pdf",
+    "label": "Nshama Camden official apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/camden/floor-plans-9ec6a93c9c9b.pdf",
+    "sha256": "9ec6a93c9c9b3225c2ea1c8224d7602ea3c85f8acf733511b72084f81c2f0141"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the developer’s published one-, two- and three-bedroom apartment layouts.",
+  "selectorLabel": "Choose a Camden apartment layout",
+  "note": "Built-up totals include the balcony. Ranges follow the printed minimum and maximum figures. The published totals for some Camden families differ from the sum of the displayed suite and balcony figures. The original totals are retained. Confirm the size of the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "662.30–682.43 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/camden/plan-page-1-c57aa4c30fb1.webp",
+      "sha256": "c57aa4c30fb1e277d351bab9f8da57c7c2b8b7800db55ae6b75641bcb80a345d",
+      "originalBytes": 1416432,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "992.11–994.91 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/camden/plan-page-2-5424818f5575.webp",
+      "sha256": "5424818f55753c26cd18dc903e3a3c927c87d8e71b73b05e9cf557a51f2def4e",
+      "originalBytes": 1308828,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "954.76–954.87 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/camden/plan-page-3-b27dab40ca0f.webp",
+      "sha256": "b27dab40ca0f81a2ce92c19955ddb226dabfa2b5f5d09adf132520dd934e9f71",
+      "originalBytes": 1284442,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C",
+      "area": "965.20–969.83 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/camden/plan-page-4-3a759d88b46b.webp",
+      "sha256": "3a759d88b46b72b73539bc384dc1e420322b4c4c4523926f670eb83118642f9e",
+      "originalBytes": 1318404,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type D",
+      "area": "975.53–976.18 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/camden/plan-page-5-ea79bbb40481.webp",
+      "sha256": "ea79bbb40481929b9a8f9d1de2f1b3f0f976ce771585b0ab7c792567624f8c75",
+      "originalBytes": 1365012,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,584.23–1,584.34 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/nshama/camden/plan-page-6-d08786a8793d.webp",
+      "sha256": "d08786a8793ded4598155b3a325a3c67f83263969beea66d7c3634bbf510c657",
+      "originalBytes": 1444658,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

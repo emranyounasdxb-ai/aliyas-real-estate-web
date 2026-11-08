@@ -1,0 +1,420 @@
+{
+  "projectId": "reportage-project-05",
+  "projectSlug": "sila",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_FLOORPLANS_V1.pdf",
+    "label": "Reportage · original Sila residence and building plans",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/sila/floor-plans-250b7728ecb7.pdf",
+    "sha256": "250b7728ecb759d07df2f5cdfc3e292bc6e24621f0d6dfb3fd887e631872c7ef"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the residences, townhouse levels and original building floors.",
+  "selectorLabel": "Choose a residence, building floor or regional sheet",
+  "note": "Printed totals include outdoor space. Balcony areas and floor scope vary, with several 0.01 sq ft component differences. The floor-six Type E sheet is headed 2BR but draws three bedrooms and is coded 3B in the text layer. Its published title remains visible. The source includes a seventh-floor context sheet despite the six-floor summary. Townhouse levels remain together. Confirm the selected unit, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "2 BR · A",
+      "area": "1,003.09–1,512.87 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/sila/plan-page-4-dd953e5ddb69.webp",
+      "sha256": "dd953e5ddb698636af128185afc06f517deff3d75297a2084d29689c944f9769",
+      "originalBytes": 113472,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "2 BR · B",
+      "area": "1,200.71–1,274.34 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/sila/plan-page-5-53913292d758.webp",
+      "sha256": "53913292d75839bea01517a310c77420c4bfc5c1acf5eb67e397edf31a0535f1",
+      "originalBytes": 113352,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "2 BR · C",
+      "area": "892.65–1,011.59 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/sila/plan-page-6-60390bcd9520.webp",
+      "sha256": "60390bcd95207d00664754a6e25765fbb8592087f2baad26e176790617738445",
+      "originalBytes": 99184,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "2 BR · D",
+      "area": "1,439.99–1,644.51 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/sila/plan-page-7-b908785f6717.webp",
+      "sha256": "b908785f67175230f6e25ffd7dba87e7c47f30dba887fdcf49e0837fb4e9df84",
+      "originalBytes": 124508,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "2 BR · E",
+      "area": "1,050.13–1,349.36 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/sila/plan-page-8-bb2fe4058c0d.webp",
+      "sha256": "bb2fe4058c0d11a5e569b8344304ed73e89937a0056193f1d28f11dbf5701ce6",
+      "originalBytes": 109432,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · A",
+      "area": "1,396.51–1,790.90 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/sila/plan-page-9-80e2fad933ed.webp",
+      "sha256": "80e2fad933ed371d0a7e33476eb1841e76badb75340159e92daa4fcae04ac648",
+      "originalBytes": 103560,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · B",
+      "area": "1,431.28–2,395.40 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/sila/plan-page-10-f763805f0b19.webp",
+      "sha256": "f763805f0b196dd64a8423c8b679182fa3385a15ac6a965e7a927e5488e6c4f6",
+      "originalBytes": 94296,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · C",
+      "area": "1,656.67–2,027.27 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/sila/plan-page-11-a60f5121dad1.webp",
+      "sha256": "a60f5121dad128b88e7df42076a47937c2a37c549d291640d546b5d757af8c57",
+      "originalBytes": 111350,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · D",
+      "area": "1,553.34–1,898.43 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/sila/plan-page-12-e4870e529c92.webp",
+      "sha256": "e4870e529c92d279c9d36fd0b9072b40ac2e8a1c62871de830fc25cc1a0879a0",
+      "originalBytes": 110364,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Published 2 BR · E · floor 6",
+      "area": "1,762.59–1,960.43 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/sila/plan-page-13-b5ed11a06f58.webp",
+      "sha256": "b5ed11a06f58415e986a0f96d53f23389051c2a9bf6ea07840caa2cc34ad113c",
+      "originalBytes": 86600,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · F",
+      "area": "2,346.85 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/sila/plan-page-14-1eedfe900d61.webp",
+      "sha256": "1eedfe900d61417853abed0407b766a77fca5e8cd3863d30e7df1bffda56d0cc",
+      "originalBytes": 100672,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · G",
+      "area": "2,190.67 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/reportage/sila/plan-page-15-68c81f51eb38.webp",
+      "sha256": "68c81f51eb3847f8498a05fde2722e79c412145d685e292957ce85a61bdee97b",
+      "originalBytes": 99502,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR · H",
+      "area": "1,472.82–1,560.44 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/reportage/sila/plan-page-16-cf1c20e9a784.webp",
+      "sha256": "cf1c20e9a784d2620235dac649d3b935f8fda7026fb33ac950340d6508261f0d",
+      "originalBytes": 107540,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "4 BR apartment · A",
+      "area": "2,339.21–2,592.05 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/sila/plan-page-17-bc0beb7ff7a3.webp",
+      "sha256": "bc0beb7ff7a394810f4cd73ef94583e539f2d2aa048f1be44cbecb4225abba80",
+      "originalBytes": 98556,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "3 BR townhouse · A",
+      "area": "1,874.21 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/reportage/sila/plan-page-31-f9ab6e28ad6f.webp",
+      "sha256": "f9ab6e28ad6fb1e9faac62e28cfada0cbe78e20a3060a513efef86df8fcd000c",
+      "originalBytes": 123500,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "4 BR townhouse · A",
+      "area": "2,084.0–2,101.97 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/reportage/sila/plan-page-32-6752411d110f.webp",
+      "sha256": "6752411d110fca8a3cabd05224a4f91cc97db42f05c6df6b1f08a927fe039194",
+      "originalBytes": 131036,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "4 BR townhouse · B",
+      "area": "3,070.29–3,402.90 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/reportage/sila/plan-page-33-6aa107607dd8.webp",
+      "sha256": "6aa107607dd8629d96770f4cdd255f98300b4d1cd80b67a06bfb457d255dcf81",
+      "originalBytes": 109026,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "4 BR townhouse · C",
+      "area": "2,429.20–2,673.65 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/reportage/sila/plan-page-34-4125001a791f.webp",
+      "sha256": "4125001a791f070259a317eb70618ed4d2e23b3a5f6fc8285ca9b4b49a10cebd",
+      "originalBytes": 108870,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "4 BR townhouse · D",
+      "area": "2,140.29 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/reportage/sila/plan-page-35-3afde62b2077.webp",
+      "sha256": "3afde62b2077028adde311b98092e6a4e0d8c1e5c2e16e7d546a39a116a8f20d",
+      "originalBytes": 124712,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Basement 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/sila/plan-page-19-a722a1e36060.webp",
+      "sha256": "a722a1e360603ba1aba3f462d361a7a3cdb82a5eff9253da7267f7bac65b0c5c",
+      "originalBytes": 66384,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Basement 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/sila/plan-page-20-9b797a7599e7.webp",
+      "sha256": "9b797a7599e7ce16edd9a8868bc5388550eacf080708dfc5a17710b0ec18fe1c",
+      "originalBytes": 67880,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/sila/plan-page-21-334c6c754296.webp",
+      "sha256": "334c6c754296d06c3290f4c2e5f7fcaa8883c20b10666813be574431f4f5b699",
+      "originalBytes": 262644,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/reportage/sila/plan-page-22-f02daf252dd5.webp",
+      "sha256": "f02daf252dd58b06b4dc7884d7f4e7919245d9804d8bc014e06b5876d4afe1eb",
+      "originalBytes": 144688,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/sila/plan-page-23-687b71778845.webp",
+      "sha256": "687b71778845c4c6c548ca9ea2b657437c6c9d144c89698384e381d8c41c326b",
+      "originalBytes": 156564,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 3",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/sila/plan-page-24-15d0bca0ad63.webp",
+      "sha256": "15d0bca0ad63aad69654c5c8e7bda0704771451c32bfe11100c19159f820be42",
+      "originalBytes": 132318,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 4",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/sila/plan-page-25-2bbca80ef4f1.webp",
+      "sha256": "2bbca80ef4f11c1ac9a0e85a06d92b3e814c222354198e9534f6018c877fe678",
+      "originalBytes": 133798,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 5",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/sila/plan-page-26-507734538bc9.webp",
+      "sha256": "507734538bc986775a7da20bc1c0a9c03f8530990d96011903d13427acf7a898",
+      "originalBytes": 101810,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 6",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/reportage/sila/plan-page-27-272c884389ad.webp",
+      "sha256": "272c884389ad77dfaa704180b8dae286b5a3570042a0fb5ba1e1cdd778305b27",
+      "originalBytes": 85576,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Floor 7 · source level",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/reportage/sila/plan-page-28-967d6c78e43a.webp",
+      "sha256": "967d6c78e43a817fd76b213bf76cb6cb6cca4bf8bd31c4a5f79437d62423d301",
+      "originalBytes": 33602,
+      "width": 3600,
+      "height": 3600
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/sila/plan-brochure-page-8-de96daaa9f40.webp",
+      "sha256": "de96daaa9f40de7a9d79c1312b09fad2aa1f4af1355c97651d406274b7a3c37c",
+      "originalBytes": 922016,
+      "width": 3600,
+      "height": 1800,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/UAE_SILA_BROCHURE_V2-2.pdf",
+        "label": "Sila · original brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/sila/floor-plans-brochure-543cda801f5a.pdf",
+        "sha256": "543cda801f5a600606b4926953c396ba12f0add07c8d7f3ff865ed4dea7c89b9"
+      }
+    }
+  ]
+}

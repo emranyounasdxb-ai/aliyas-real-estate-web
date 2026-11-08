@@ -1,0 +1,128 @@
+{
+  "projectId": "nshama-project-02",
+  "projectSlug": "rosewell",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans.pdf",
+    "label": "Nshama Rosewell official apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/rosewell/floor-plans-f4ac7ab3811f.pdf",
+    "sha256": "f4ac7ab3811facd8e8bbb44abc91faafa86178536f0fee3065a21f6fa9cfd74c"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published one-, two- and three-bedroom apartment layouts.",
+  "selectorLabel": "Choose a Rosewell apartment layout",
+  "note": "Built-up totals include the balcony. Ranges follow the printed minimum and maximum figures. Types C and D appear in Nshama’s earlier plan document. Their current applicability is unconfirmed. Confirm the area for the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "610.85–613.87 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/rosewell/plan-page-1-f6cd1064645c.webp",
+      "sha256": "f6cd1064645cda024b755bcaf5aa191a84769f89f46139d741344dcaa5aa6e92",
+      "originalBytes": 1076284,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "1 BR · Type B",
+      "area": "608.16 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/rosewell/plan-page-2-b078986c8e45.webp",
+      "sha256": "b078986c8e45693647a1c070e7a7872d7bb59f17086d191e26579a7816823631",
+      "originalBytes": 1046854,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "946.47–949.59 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/rosewell/plan-page-3-7ca731a6f28e.webp",
+      "sha256": "7ca731a6f28e9527916b97c6793d9b5dc332d39244d3afc91e28db8ac989f8c8",
+      "originalBytes": 723334,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "896.96–897.06 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/rosewell/plan-page-4-4d9b83957f52.webp",
+      "sha256": "4d9b83957f525b1f6ecc700266ee322a2aef4e1f966ed37dd9b41e3f9126af00",
+      "originalBytes": 710592,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,463.78–1,468.09 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/rosewell/plan-page-5-209f4d69f458.webp",
+      "sha256": "209f4d69f4585a5db6b153cc00b0ff5b88b22857bb7fd463a77adc45b5545691",
+      "originalBytes": 812330,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C, earlier release",
+      "area": "1,137.53 sq ft built-up",
+      "sourceIds": [
+        "plans-earlier"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/rosewell/plan-earlier-page-5-9574828c3903.webp",
+      "sha256": "9574828c3903891329acde909bb53e8c52d672b99a9807cb8f82c1281326a61a",
+      "originalBytes": 979482,
+      "width": 1980,
+      "height": 2800,
+      "source": {
+        "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans-Website.pdf",
+        "label": "Earlier Rosewell layouts from Nshama",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/nshama/rosewell/floor-plans-earlier-9da4a3d8bd28.pdf",
+        "sha256": "9da4a3d8bd2837f014aaa2f1e10d304dc8c59b656b4035732208efa7a44d0b43"
+      }
+    },
+    {
+      "label": "2 BR · Type D, earlier release",
+      "area": "1,148.08 sq ft built-up",
+      "sourceIds": [
+        "plans-earlier"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/nshama/rosewell/plan-earlier-page-6-4a413aed73bc.webp",
+      "sha256": "4a413aed73bc2af41e71c530bfda43c6da8778d6b18334bdbe438a080541e52a",
+      "originalBytes": 986770,
+      "width": 1980,
+      "height": 2800,
+      "source": {
+        "url": "https://nshama.ae/wp-content/uploads/2025/10/ROSEWELL-Floor-Plans-Website.pdf",
+        "label": "Earlier Rosewell layouts from Nshama",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/nshama/rosewell/floor-plans-earlier-9da4a3d8bd28.pdf",
+        "sha256": "9da4a3d8bd2837f014aaa2f1e10d304dc8c59b656b4035732208efa7a44d0b43"
+      }
+    }
+  ]
+}

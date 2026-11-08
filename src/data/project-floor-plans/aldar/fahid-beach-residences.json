@@ -1,0 +1,127 @@
+{
+  "projectId": "aldar-project-18",
+  "projectSlug": "fahid-beach-residences",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/Fahid-20Beach-20Residences_Brochure.pdf/a2ae3474cadf11f0a90d969cdae81f14",
+    "label": "Aldar Fahid Beach Residences brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/fahid-beach-residences/floor-plans-d83736ddb72c.pdf",
+    "sha256": "d83736ddb72c8601f8758009e2d90f13cf9288b94887e66497a66b60f3bba5f2"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Browse the published apartment, duplex and townhouse layouts. The source spreads sometimes place two layouts on one sheet.",
+  "selectorLabel": "Choose a Fahid Beach Residences floor plan",
+  "note": "The source drawings show room details. Confirm the signed plan and whole-home area for the residence.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-29-6f70b31a28ed.webp",
+      "sha256": "6f70b31a28ed98b822bf7871af339420ceb64fa64c12860415c8ba31cbd9b8ed",
+      "originalBytes": 1458414,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "1 BR · Types B1 and B2",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-30-cf66bb353ea4.webp",
+      "sha256": "cf66bb353ea44a766c011bd149b88826488aec29ed2ae2d8c690218907d341e8",
+      "originalBytes": 359544,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "1 BR · Types C and D",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-31-1a6cb32f4a48.webp",
+      "sha256": "1a6cb32f4a487edceca9e0f059bf7856134a6dcf4ea2c706cf36cbdee41ff99e",
+      "originalBytes": 377636,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "1 BR townhouse / 2 BR + maid",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-32-1a5cf7c7b389.webp",
+      "sha256": "1a5cf7c7b3895df86765c51b5f56b85bca433d98b010b4b100296ad8ba441e06",
+      "originalBytes": 499990,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "2 BR + study / 2 BR corner duplex",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-33-f335b5d0a927.webp",
+      "sha256": "f335b5d0a92709792c8cdb2fef202c439b6d968bf9363cec8735a1dc8c87de25",
+      "originalBytes": 559604,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "2 BR middle duplex / 2 BR townhouse",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-34-6df7b64b02e9.webp",
+      "sha256": "6df7b64b02e9ea2a23b3a40cdbf3f8402a1bc76f725e98e7f5b046f473ac02ab",
+      "originalBytes": 573104,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "3 BR and 3 BR + maid",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-35-63d093973fe9.webp",
+      "sha256": "63d093973fe90a4d07c11263412177bcd2503e37d47ebcf559d9e3d8fdcece46",
+      "originalBytes": 518092,
+      "width": 2400,
+      "height": 901
+    },
+    {
+      "label": "4 BR + maid",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/aldar/fahid-beach-residences/plan-page-36-d8e5afdcd66c.webp",
+      "sha256": "d8e5afdcd66c3d707217b5f515e2aa4841b53c6ed228a47e5f9abb07e3c83b23",
+      "originalBytes": 1579630,
+      "width": 2400,
+      "height": 901
+    }
+  ]
+}

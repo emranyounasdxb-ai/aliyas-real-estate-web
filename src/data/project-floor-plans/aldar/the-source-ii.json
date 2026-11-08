@@ -1,0 +1,101 @@
+{
+  "projectId": "aldar-project-34",
+  "projectSlug": "the-source-ii",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/the_sourceii_brochure_en.pdf/78ea17ccd1b811f0b65cda5b4301341f",
+    "label": "Aldar The Source II brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/the-source-ii/floor-plans-d612dba72e3a.pdf",
+    "sha256": "d612dba72e3a56de48f0b4345957b50ae67a6f84b1875eeb5716883faf137ea4"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one- and two-bedroom layouts, a two-bedroom plan with a maid’s room, and three different three-bedroom layouts.",
+  "selectorLabel": "Choose a Source II floor plan",
+  "note": "Room dimensions are shown on the original drawings. Confirm the signed layout and total area for the specific apartment. Building floorplates are available in the brochure.",
+  "plans": [
+    {
+      "label": "1 BR apartment",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-43-f7e430f5501b.webp",
+      "sha256": "f7e430f5501be2378f255c5dfead0049ad1324cb1b570232c068933d6504b549",
+      "originalBytes": 92184,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR apartment",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-44-98c15e79d94d.webp",
+      "sha256": "98c15e79d94dab8ee1720d17bd41f202d5ac75122a20cfbf53fb1fb76b33e598",
+      "originalBytes": 119278,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR + maid",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-45-1d4d5c775192.webp",
+      "sha256": "1d4d5c7751920206689cfe5129a92dcf03dba2cbd67b87163bd9f33ae2c976ad",
+      "originalBytes": 109866,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR · Type 1",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-48-b829a06c4dc9.webp",
+      "sha256": "b829a06c4dc92340bcdb22fe795d613979d82c58eda58ba34bf3fff7fc426ef6",
+      "originalBytes": 140558,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR · Type 2",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-49-66fa620c3ba9.webp",
+      "sha256": "66fa620c3ba9e35a7bf95efec7fe5dabc200508d6ea6e47fe15adc9cd06be325",
+      "originalBytes": 117162,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR · Type 3",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/aldar/the-source-ii/plan-page-50-d5b5cafcc18c.webp",
+      "sha256": "d5b5cafcc18c24fb149d21cbbb18b45fcb7d95e7112cf14cdecfd48a96a405ff",
+      "originalBytes": 112140,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "id": "emaar-project-19",
+  "slug": "parkwood",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/parkwood-at-dubai-hills-estate",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "buildings",
+      "url": "https://www.emaar.com/cms-media/uploads/398620_exterior_0_ef840bee32_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398620_exterior_0_ef840bee32_prod.jpg",
+      "label": "Buildings and gardens",
+      "alt": "Emaar render published for Parkwood: buildings and gardens",
+      "position": "50% 0%"
+    },
+    {
+      "name": "cycle-garden",
+      "url": "https://www.emaar.com/cms-media/uploads/398628_exterior_1_d67c443e34_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398628_exterior_1_d67c443e34_prod.jpg",
+      "label": "Cycle garden",
+      "alt": "Emaar render published for Parkwood: cycle garden",
+      "position": "50% 50%"
+    },
+    {
+      "name": "outdoor-screen",
+      "url": "https://www.emaar.com/cms-media/uploads/398636_exterior_2_c5df1f63a6_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398636_exterior_2_c5df1f63a6_prod.jpg",
+      "label": "Outdoor screen terrace",
+      "alt": "Emaar render published for Parkwood: outdoor screen terrace",
+      "position": "50% 50%"
+    },
+    {
+      "name": "play-garden",
+      "url": "https://www.emaar.com/cms-media/uploads/398644_exterior_3_4c8b654735_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398644_exterior_3_4c8b654735_prod.jpg",
+      "label": "Play garden",
+      "alt": "Emaar render published for Parkwood: play garden",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/398652_interior_0_0df580ab09_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398652_interior_0_0df580ab09_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render published for Parkwood: living room",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/398660_interior_1_94a381a837_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398660_interior_1_94a381a837_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render published for Parkwood: bedroom",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/398668_interior_2_e8f2bc4abe_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/398668_interior_2_e8f2bc4abe_prod.jpg",
+      "label": "Arrival lobby",
+      "alt": "Emaar render published for Parkwood: arrival lobby",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "buildings",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Hills Estate",
+    "road": "",
+    "pin": {
+      "latitude": 25.11555187561989,
+      "longitude": 55.25060037116459,
+      "sourceUrl": "https://www.emaar.com/en/properties/parkwood-at-dubai-hills-estate",
+      "scope": "Developer-published Parkwood reference point. Confirm the exact tower entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "cache": "artifacts/project-page-enhancement/parkwood/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "alt": "Emaar regional diagram locating Dubai Hills Estate among Dubai communities",
+      "scope": "Regional community diagram, not to scale. Proposed transport shown does not confirm operational service."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/PARKWOOD_brochure.pdf",
+      "page": 4,
+      "scope": "Own Parkwood brochure community time estimates, visually checked; not live routing.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 25
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/PARKWOOD_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/parkwood-floorplans-1.pdf",
+    "label": "Emaar: Parkwood complete floor plans",
+    "introduction": "Explore the published one to three bedroom apartments in Towers A and B, together with the podium townhouse layouts. Where one sheet covers several unit groups, the area range includes all printed total areas. Match the unit reference on the complete sheet.",
+    "selectorLabel": "Choose a Parkwood layout",
+    "note": "Published plans are not a statement of current inventory. Total area includes the listed balcony area and is not plot area. Layouts, dimensions, furnishings and indicated outlooks may change; confirm the selected unit and final sale plan.",
+    "plans": [
+      {
+        "label": "Tower A · 1 bedroom · A",
+        "area": "824.22–830.01 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          830.01,
+          824.22
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-02.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · B",
+        "area": "762.43 sq ft total area",
+        "sourcePage": 3,
+        "areaValues": [
+          762.43
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-03.png"
+      },
+      {
+        "label": "Tower A · 1 bedroom · B1",
+        "area": "764.15 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          764.15
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-04.png"
+      },
+      {
+        "label": "Tower B · 1 bedroom · C",
+        "area": "727.60 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          727.6
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-05.png"
+      },
+      {
+        "label": "Tower B · 1 bedroom · C1",
+        "area": "731.14 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          731.14
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-06.png"
+      },
+      {
+        "label": "Tower B · 1 bedroom · D",
+        "area": "771.67 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          771.67
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-07.png"
+      },
+      {
+        "label": "Tower B · 1 bedroom · E",
+        "area": "740.53 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          740.53
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-08.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · A",
+        "area": "1,308.88–1,309.64 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          1308.88,
+          1309.64
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-09.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · A1",
+        "area": "1,301.38 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1301.38
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-10.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · A2",
+        "area": "1,354.42 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1354.42
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-11.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · B",
+        "area": "1,233.22 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1233.22
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-12.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · B1",
+        "area": "1,357.01 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1357.01
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-13.png"
+      },
+      {
+        "label": "Tower A · 2 bedroom · C",
+        "area": "1,507.81 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          1507.81
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-14.png"
+      },
+      {
+        "label": "Tower B · 2 bedroom · D",
+        "area": "1,074.08 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1074.08
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-15.png"
+      },
+      {
+        "label": "Tower B · 2 bedroom · D1",
+        "area": "1,073.04 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1073.04
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-16.png"
+      },
+      {
+        "label": "Tower B · 2 bedroom · D2",
+        "area": "1,254.21–1,266.15 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1266.15,
+          1254.21
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-17.png"
+      },
+      {
+        "label": "Tower B · 2 bedroom · E",
+        "area": "1,175.82 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1175.82
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-18.png"
+      },
+      {
+        "label": "Tower B · 2 bedroom · E2",
+        "area": "1,168.75 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1168.75
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-19.png"
+      },
+      {
+        "label": "Tower A · 3 bedroom · A",
+        "area": "1,806.08 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1806.08
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-20.png"
+      },
+      {
+        "label": "Tower A · 3 bedroom · A1",
+        "area": "1,944.07 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1944.07
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-21.png"
+      },
+      {
+        "label": "Tower A · 3 bedroom · A2",
+        "area": "1,807.58 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          1807.58
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-22.png"
+      },
+      {
+        "label": "Tower B · 3 bedroom · B",
+        "area": "1,576.69 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1576.69
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-23.png"
+      },
+      {
+        "label": "Tower B · 3 bedroom · B1",
+        "area": "1,580.57–1,589.40 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1580.57,
+          1589.4
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-24.png"
+      },
+      {
+        "label": "Tower B · 3 bedroom · B2",
+        "area": "1,820.72 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1820.72
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-25.png"
+      },
+      {
+        "label": "Podium townhouse · TH01 / TH11",
+        "area": "3,843.90–3,867.80 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          3843.9,
+          3867.8
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-26.png"
+      },
+      {
+        "label": "Podium townhouse · TH02–TH10",
+        "area": "3,857.68 sq ft total area",
+        "sourcePage": 27,
+        "areaValues": [
+          3857.68
+        ],
+        "areaCalculation": "All printed sqft TOTAL AREA tables on the full sheet. Multi-unit totals displayed as min/max; balconies included. Not suite, sqm or plot area.",
+        "cache": "artifacts/project-page-enhancement/parkwood/plan-27.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/parkwood/",
+  "review": {
+    "images": "All7 own official-gallery images visually checked:4 exterior/landscape scenes and3 interiors. Native source masters retained. Whole-building cover uses top framing to preserve rooflines in wide display; own living and bedroom selected for interior scenes.",
+    "location": "Own official Parkwood project pin retained. Source-linked regional Dubai Hills diagram and brochure physical4 connectivity panel visually checked10/10/15/25min. Community estimates, not live routes; no invented street distance.",
+    "floorPlans": "All26 own residence title/area panels reviewed, physical2–27 of27pageofficialPDF. Supplementary lower-panel crops independently checked all second totals on physical2/9/17/24/26. Both tower and podium townhouse sheets retained; all sqft TOTAL AREA panels supply min/max, no sqm substitution. Complete sheets and original PDF preserved."
+  },
+  "unavailable": []
+}

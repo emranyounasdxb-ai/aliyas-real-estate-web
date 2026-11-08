@@ -1,0 +1,52 @@
+{
+  "projectId": "wasl-project-10",
+  "projectSlug": "one-b-tower",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "community": "Business Bay, Dubai",
+  "road": "Sheikh Zayed Road, beside Dubai Water Canal",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/wasl/one-b-tower/location-dc35ddc40a2b.png",
+    "sha256": "dc35ddc40a2b12cd3d914b7816ce381514a3d6e8efec5a703981eb1f84ac5f80",
+    "originalBytes": 695412,
+    "width": 3200,
+    "height": 1800,
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=6",
+    "alt": "Wasl regional map marking One B Tower beside the Water Canal and Sheikh Zayed Road.",
+    "scope": "Regional schematic marking One B Tower. Station names and surrounding development reflect the publishing source. Confirm the current visitor entrance and route.",
+    "caption": "One B Tower location context · original Wasl brochure."
+  },
+  "sourceLabel": "Wasl One B Tower brochure",
+  "travel": {
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2024-05/One%20B%20Tower%20Brochure_1.pdf#page=6",
+    "scope": "Published brochure estimates. Only the cycling and jogging routes specify a travel mode. Other routes, traffic and destination entrances are unspecified.",
+    "destinations": [
+      {
+        "name": "Dubai Water Canal boardwalk",
+        "minutes": 1
+      },
+      {
+        "name": "Safa Park",
+        "minutes": 5
+      },
+      {
+        "name": "Jumeirah Beach",
+        "minutes": 5
+      },
+      {
+        "name": "Business Bay Metro Station",
+        "minutes": 10
+      },
+      {
+        "name": "Jumeirah Beach · cycling track",
+        "minutes": 20
+      },
+      {
+        "name": "Jumeirah Beach · jogging track",
+        "minutes": 25
+      }
+    ]
+  },
+  "travelNote": "These are source estimates, with cycling and jogging kept as distinct routes. The primary page’s Wasl Tower sales-visit address does not establish the One B Tower residential entrance. Directions use the project name."
+}

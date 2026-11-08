@@ -1,0 +1,47 @@
+{
+  "projectId": "emaar-project-01",
+  "developerSlug": "emaar",
+  "projectSlug": "valia",
+  "checkedOn": "2026-11-04",
+  "community": "Dubai Creek Harbour",
+  "road": "",
+  "pin": {
+    "latitude": 25.1942778,
+    "longitude": 55.352,
+    "sourceUrl": "https://www.emaar.com/en/properties/valia-at-dubai-creek-harbour",
+    "scope": "Developer published project map pin; exact entrance may differ."
+  },
+  "map": {
+    "src": "/images/projects/emaar/valia/location-594fddb8562a.jpg",
+    "sha256": "594fddb8562a12f74fd29495f9b2611496f6fee68e117d61147c7995cee37b82",
+    "originalBytes": 267579,
+    "width": 2400,
+    "height": 1400,
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+    "scope": "Regional diagram, not to scale; future transport is not operating service.",
+    "alt": "Emaar regional diagram locating Dubai Creek Harbour among Dubai’s main districts"
+  },
+  "travel": {
+    "sourceUrl": "https://www.emaar.com/cms-media/uploads/VALIA_DUBAI_CREEK_HARBOUR_BROCHURE_d348255309_prod.pdf",
+    "page": 4,
+    "scope": "Community estimates from the Valia brochure connectivity panel, visually checked.",
+    "destinations": [
+      {
+        "name": "Dubai International Airport",
+        "minutes": 10
+      },
+      {
+        "name": "Burj Khalifa / Downtown Dubai",
+        "minutes": 15
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 25
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 40
+      }
+    ]
+  }
+}

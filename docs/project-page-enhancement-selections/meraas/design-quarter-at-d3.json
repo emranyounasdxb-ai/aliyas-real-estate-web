@@ -1,0 +1,572 @@
+{
+  "slug": "design-quarter-at-d3",
+  "id": "meraas-project-15",
+  "developerSlug": "meraas",
+  "checkedOn": "2026-11-06",
+  "evidence": "artifacts/project-page-enhancement/design-quarter-at-d3/",
+  "source": {
+    "name": "Meraas",
+    "url": "https://meraas.com/en/project/designquarter-at-d3",
+    "checkedOn": "2026-11-06"
+  },
+  "cardName": "design-quarter",
+  "images": [
+    {
+      "name": "design-quarter",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/brochure-p1-0.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=1",
+      "label": "Design Quarter towers from the park",
+      "position": "50% 50%",
+      "alt": "Meraas render of Design Quarter towers from the park."
+    },
+    {
+      "name": "street-and-towers",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/official-listing.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-05/Design%20Quarter%20at%20d3%20ilisting%20image.jpg",
+      "label": "the Design Quarter towers and landscaped street",
+      "position": "50% 25%",
+      "alt": "Meraas render of the Design Quarter towers and landscaped street."
+    },
+    {
+      "name": "podium",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/brochure-p5-1.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=5",
+      "label": "Design Quarter’s landscaped podium and pool",
+      "position": "50% 55%",
+      "alt": "Meraas render of Design Quarter’s landscaped podium and pool."
+    },
+    {
+      "name": "canal-outlook",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/brochure-p7-0.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=7",
+      "label": "the skyline outlook from a Design Quarter balcony",
+      "position": "50% 50%",
+      "alt": "Meraas render of the skyline outlook from a Design Quarter balcony."
+    },
+    {
+      "name": "golden-gardens",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/brochure-p9-0.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=9",
+      "label": "the Golden Gardens pedestrian paths and planting",
+      "position": "50% 50%",
+      "alt": "Meraas render of the Golden Gardens pedestrian paths and planting."
+    },
+    {
+      "name": "duplex-living",
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/brochure-p8-3.jpg",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=8",
+      "label": "a double-height living room and staircase",
+      "position": "50% 50%",
+      "alt": "Meraas render of a double-height living room and staircase."
+    }
+  ],
+  "editorialNames": [
+    "duplex-living"
+  ],
+  "location": {
+    "community": "Dubai Design District (d3), Dubai",
+    "road": "Near Al Khail Road and the Dubai Water Canal",
+    "pin": null,
+    "map": {
+      "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/location-source-crop.png",
+      "url": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=11",
+      "alt": "Meraas location map showing Design Quarter in Dubai Design District, the Dubai Water Canal and surrounding roads.",
+      "caption": "Design Quarter location map and travel estimates, Meraas brochure PDF page 11.",
+      "scope": "The developer map identifies Design Quarter within d3. Confirm the arrival point for the selected tower."
+    },
+    "sourceLabel": "Design Quarter Tower B brochure",
+    "travel": {
+      "sourceUrl": "https://meraas.com/sites/default/files/2024-03/646ca336700fe0d182428404_DesignQuarter_D3_TowerB_Brochure_English.pdf#page=11",
+      "scope": "Approximate travel times from Design Quarter as published in the developer’s Tower B brochure.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 10
+        },
+        {
+          "name": "Business Bay",
+          "minutes": 15
+        },
+        {
+          "name": "DIFC",
+          "minutes": 15
+        },
+        {
+          "name": "Nad Al Sheba",
+          "minutes": 15
+        },
+        {
+          "name": "City Walk",
+          "minutes": 15
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        }
+      ]
+    },
+    "travelNote": "The brochure figures are indicative. Actual travel time depends on the route and traffic."
+  },
+  "floorPlans": {
+    "url": "https://meraas.com/sites/default/files/2024-03/646ca3366881390c106df6df_DesignQuarter_D3_TowerB_FloorPlans_English.pdf",
+    "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans.pdf",
+    "label": "Design Quarter Tower B floor plans · Meraas",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Compare apartment and duplex plans across Design Quarter’s three towers. Each entry shows one complete drawing.",
+    "selectorLabel": "Choose a Design Quarter tower and layout",
+    "note": "Areas follow the printed totals. On the Tower B Type 02 sheet for levels 04–23, the total is filled for one listed stack. Confirm the total for the other stack with the developer.",
+    "plans": [
+      {
+        "sourcePage": 3,
+        "label": "Tower A · 1 BR · Type 02 · levels 02–03",
+        "area": "813.54–813.64 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-03-left.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Tower A · 1 BR · Type 02M · levels 02–03",
+        "area": "813.54–813.64 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-03-right.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Tower A · 1 BR · Type 02 · levels 04–15",
+        "area": "822.68–822.90 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-04-left.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Tower A · 1 BR · Type 02M · levels 04–15",
+        "area": "822.68–822.90 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-04-right.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Tower A · 1 BR · Type 02B",
+        "area": "1,011.05 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-05-left.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Tower A · 1 BR · Type 02BM",
+        "area": "1,009.54 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-05-right.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Tower A · 1 BR · Type 03",
+        "area": "843.35 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-06-left.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Tower A · 1 BR · Type 06",
+        "area": "940.98 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-06-right.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Tower A · 1 BR · Type 06B",
+        "area": "1,498.34 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-07-left.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Tower A · 2 BR · Type 02",
+        "area": "1,264.54 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-07-right.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Tower A · 2 BR · Type 02M",
+        "area": "1,257.76 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-08-left.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Tower A · 2 BR · Type 03 · levels 02–03",
+        "area": "1,175.96–1,176.39 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-08-right.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Tower A · 2 BR · Type 03M · levels 02–03",
+        "area": "1,175.42–1,176.39 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-09-left.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Tower A · 2 BR · Type 03 · levels 04–15",
+        "area": "1,184.46–1,185.00 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-09-right.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Tower A · 2 BR · Type 03M · levels 04–15",
+        "area": "1,184.68–1,184.79 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-10-left.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Tower A · 3 BR · Type 01",
+        "area": "1,683.69 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-10-right.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Tower A · 3 BR · Type 02",
+        "area": "1,546.78 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-11-left.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Tower A · 3 BR · Type 02M",
+        "area": "1,546.78 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-11-right.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Tower A · 3 BR duplex · Type 05",
+        "area": "3,324.65 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-12-left.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Tower A · 3 BR duplex · Type 05M",
+        "area": "3,324.54 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-12-right.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Tower A · 3 BR duplex · Type 06M",
+        "area": "2,752.65 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-13-left.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "Tower A · 3 BR duplex · Type 06",
+        "area": "2,752.97 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-13-right.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "Tower A · 3 BR duplex · Type 07",
+        "area": "3,154.15 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-14-left.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Tower B · 1 BR · Type 02 · levels 02–03",
+        "area": "795.34–795.78 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-03-left.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Tower B · 1 BR · Type 02M · levels 02–03",
+        "area": "795.45–795.56 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-03-right.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Tower B · 1 BR · Type 02 · levels 04–23",
+        "area": "804.82 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-04-left.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "Tower B · 1 BR · Type 02M · levels 04–40",
+        "area": "804.82–821.93 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-04-right.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Tower B · 1 BR · Type 02 · levels 25–40",
+        "area": "821.93 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-05-left.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Tower B · 1 BR · Type 06",
+        "area": "935.17 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-05-right.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Tower B · 1 BR · Type 06B",
+        "area": "1,473.48 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-06-left.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Tower B · 2 BR · Type 03M · levels 02–03",
+        "area": "1,157.12–1,158.31 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-06-right.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Tower B · 2 BR · Type 03 · levels 02–03",
+        "area": "1,157.01–1,158.31 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-07-left.png"
+      },
+      {
+        "sourcePage": 7,
+        "label": "Tower B · 2 BR · Type 03 · levels 04–23",
+        "area": "1,167.13–1,167.56 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-07-right.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Tower B · 2 BR · Type 03M · levels 04–23",
+        "area": "1,167.13–1,167.56 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-08-left.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "Tower B · 2 BR · Type 03M · levels 25–40",
+        "area": "1,184.68 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-08-right.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Tower B · 2 BR · Type 03 · levels 25–40",
+        "area": "1,184.68 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-09-left.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "Tower B · 3 BR · Type 03",
+        "area": "2,018.88 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-09-right.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Tower B · 3 BR · Type 03M",
+        "area": "2,018.77 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-10-left.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "Tower B · 3 BR duplex · Type 05",
+        "area": "3,304.63 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-10-right.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Tower B · 3 BR duplex · Type 05M",
+        "area": "3,304.63 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-11-left.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "Tower B · 3 BR duplex · Type 06M",
+        "area": "2,730.48 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-11-right.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Tower B · 3 BR duplex · Type 06",
+        "area": "2,730.48 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-12-left.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "Tower B · 3 BR duplex · Type 07M",
+        "area": "3,131.87 sq ft total area",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-official-plans-review-12-right.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Tower C · 1 BR · Type 01 · levels 02–03",
+        "area": "794.38–798.79 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-15-left.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "Tower C · 1 BR · Type 01M · levels 02–03",
+        "area": "796.21–798.69 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-15-right.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Tower C · 1 BR · Type 01 · levels 04–08",
+        "area": "804.61–810.74 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-16-left.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "Tower C · 1 BR · Type 01M · levels 04–08",
+        "area": "804.61–810.85 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-16-right.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "Tower C · 1 BR · Type 01B · units 303/306",
+        "area": "1,018.05–1,024.18 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-17-left.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "Tower C · 1 BR · Type 01B · units 307/310",
+        "area": "1,015.14–1,033.01 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-17-right.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Tower C · 1 BR · Type 01 · level 09",
+        "area": "807.30 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-18-left.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Tower C · 1 BR · Type 01M · level 09",
+        "area": "807.30 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-18-right.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Tower C · 1 BR · Type 01BM · units 304/305",
+        "area": "1,015.14–1,029.35 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-19-left.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "Tower C · 1 BR · Type 01BM · units 308/309",
+        "area": "1,018.05–1,024.29 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-19-right.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "Tower C · 1 BR · Type 04",
+        "area": "859.17 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-20-left.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "Tower C · 1 BR · Type 04M",
+        "area": "859.17 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-20-right.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "Tower C · 1 BR · Type 04B",
+        "area": "1,375.52–1,375.63 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-21-left.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "Tower C · 1 BR · Type 04BM",
+        "area": "1,375.63 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-21-right.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "Tower C · 2 BR · Type 01",
+        "area": "1,193.51 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-22-left.png"
+      },
+      {
+        "sourcePage": 22,
+        "label": "Tower C · 2 BR · Type 01M",
+        "area": "1,193.51 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-22-right.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Tower C · 2 BR duplex · Type 04 · unit 904",
+        "area": "2,508.20 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-23-left.png"
+      },
+      {
+        "sourcePage": 23,
+        "label": "Tower C · 2 BR duplex · Type 04M · unit 906",
+        "area": "2,509.60 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-23-right.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Tower C · 3 BR duplex · Type 04 · unit 901",
+        "area": "2,950.71 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-24-left.png"
+      },
+      {
+        "sourcePage": 24,
+        "label": "Tower C · 3 BR duplex · Type 04 · unit 907",
+        "area": "2,953.83 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-24-right.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Tower C · 3 BR duplex · Type 04 · unit 902",
+        "area": "2,922.51 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-25-left.png"
+      },
+      {
+        "sourcePage": 25,
+        "label": "Tower C · 3 BR duplex · Type 04 · unit 908",
+        "area": "2,922.40 sq ft total area",
+        "documentId": "towers-ac",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans-review-25-right.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "towers-ac",
+        "label": "Design Quarter Towers A and C floor plans · Meraas toolkit",
+        "url": "https://dubaiholding.box.com/s/e6qrxo8hbmbirk407vamnpabz2w1kqjt",
+        "cache": "artifacts/project-page-enhancement/design-quarter-at-d3/design-quarter-at-d3-toolkit-plans.pdf"
+      }
+    ]
+  },
+  "review": "Visually matched 45 full original logical sheets for Towers A and C in the developer toolkit and 20 for Tower B in the project-page PDF. Divided original two-up pages at the binding gutter, preserving the drawings, notices and key plans. Kept the published 804.82 sq ft total for the printed 406 stack on Tower B page 4 left. The 402 stack has no printed total on that sheet.",
+  "unavailable": [
+    "A reliable tower entrance pin was unavailable. The Tower B Type 02 402 stack total was not printed in the checked table."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "projectId": "arada-project-01",
+  "projectSlug": "inaura",
+  "developerSlug": "arada",
+  "checkedOn": "2026-11-07",
+  "community": "Downtown Dubai",
+  "road": "Downtown Dubai · Business Bay vicinity",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/arada/inaura/location-6cf451186e20.png",
+    "sha256": "6cf451186e20661ee919b7558e19718c38a9738fc45a16b8450fd2ea8bbe71d2",
+    "originalBytes": 630183,
+    "width": 3200,
+    "height": 1600,
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=48",
+    "alt": "Complete original Inaura regional location and travel panel.",
+    "scope": "Schematic regional context. Diagram positions do not establish surveyed entrance coordinates.",
+    "caption": "Inaura regional setting · original Arada brochure."
+  },
+  "sourceLabel": "Original Inaura brochure · Arada",
+  "travel": {
+    "sourceUrl": "https://aradawebcontent.blob.core.windows.net/arada-com/2026/01/260105_ERA-co_ARADA_INAURA_DOWNTOWN-DUBAI_BROCHURE_ERA_v3.3_AE_Digital.pdf#page=48",
+    "scope": "Published project-area journey estimates. Route, travel mode and traffic conditions are unspecified.",
+    "destinations": [
+      {
+        "name": "Dubai Opera",
+        "minutes": 5
+      },
+      {
+        "name": "Burj Khalifa",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Mall",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Mall Metro Station",
+        "minutes": 5
+      },
+      {
+        "name": "Dubai Design District",
+        "minutes": 8
+      },
+      {
+        "name": "Akala Hotel and Residences",
+        "minutes": 8
+      },
+      {
+        "name": "DIFC Gate",
+        "minutes": 8
+      },
+      {
+        "name": "Museum of the Future",
+        "minutes": 8
+      },
+      {
+        "name": "One Central",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Frame",
+        "minutes": 12
+      },
+      {
+        "name": "Bvlgari Resort Dubai",
+        "minutes": 12
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 18
+      }
+    ]
+  },
+  "travelNote": "The brochure gives 18 minutes to Dubai International Airport and 8 to DIFC. The current official landing page instead gives 15 and 5 minutes. These source differences remain unresolved. Estimates require a current route check. An exact visitor entrance pin and road address remain unverified. Directions use the project name."
+}

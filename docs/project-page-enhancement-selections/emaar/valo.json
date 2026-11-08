@@ -1,0 +1,413 @@
+{
+  "id": "emaar-project-55",
+  "slug": "valo",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/valo-at-dubai-creek-harbour",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "arrival",
+      "label": "Valo entrance at dusk",
+      "url": "https://www.emaar.com/cms-media/uploads/383232_hero_slide_0_3d3805c08b_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/official-hero.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: valo entrance at dusk. Proposed architecture or community setting."
+    },
+    {
+      "name": "garden",
+      "label": "Landscaped gardens",
+      "url": "https://www.emaar.com/cms-media/uploads/383160_exterior_0_48ef50af8a_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/383160_exterior_0_48ef50af8a_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: landscaped gardens. Proposed architecture or community setting."
+    },
+    {
+      "name": "tower",
+      "label": "Valo tower from the plaza",
+      "url": "https://www.emaar.com/cms-media/uploads/383178_exterior_2_9a130f92ab_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/383178_exterior_2_9a130f92ab_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: valo tower from the plaza. Proposed architecture or community setting."
+    },
+    {
+      "name": "living",
+      "label": "Living room",
+      "url": "https://www.emaar.com/cms-media/uploads/383187_interior_0_1ff5749784_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/383187_interior_0_1ff5749784_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: living room. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lobby",
+      "label": "Shared lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/383196_interior_1_c6e1eb435e_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/383196_interior_1_c6e1eb435e_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: shared lobby. Finishes and outlook vary by home."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom overlooking the courtyard",
+      "url": "https://www.emaar.com/cms-media/uploads/383205_interior_2_6713859b09_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/383205_interior_2_6713859b09_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Valo developer render: bedroom overlooking the courtyard. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "tower",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Creek Harbour",
+    "travel": {
+      "page": 5,
+      "scope": "Times alongside the Valo marker in the official brochure.",
+      "destinations": [
+        {
+          "name": "Ras Al Khor Wildlife Sanctuary",
+          "minutes": 5
+        },
+        {
+          "name": "Burj Khalifa",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 40
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/383250_brochure_File_74bf62e8b9_prod.pdf"
+    },
+    "travelNote": "Times are Emaar’s brochure estimates. They vary with the actual route, traffic and starting point. Verify current public transport access before travelling.",
+    "pin": {
+      "latitude": 25.20815752449222,
+      "longitude": 55.352265115340586,
+      "sourceUrl": "https://www.emaar.com/en/properties/valo-at-dubai-creek-harbour",
+      "scope": "Reference point from Emaar’s Valo page in the area highlighted on its masterplan. Confirm the building entrance before travelling."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04.-MAP---2400x1600px.jpg",
+      "cache": "artifacts/project-page-enhancement/valo/04.-MAP---2400x1600px.jpg",
+      "alt": "Emaar regional map showing Dubai Creek Harbour",
+      "scope": "Emaar regional diagram for Dubai Creek Harbour, with future metro lines in the legend."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar original Valo floor plans",
+    "introduction": "Compare the one- to three-bedroom apartments and the two-storey townhouse layouts. Select the level and unit number to see the complete developer sheet.",
+    "selectorLabel": "Choose a Valo apartment or townhouse layout",
+    "note": "The published totals combine the suite and balcony areas shown on the drawing. Levels 20 and 21 and the townhouse sheets show separate totals where the unit areas differ.",
+    "url": "https://www.emaar.com/cms-media/uploads/VALO_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/valo-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "1 BR · L2–19, 22–32 · 04",
+        "area": "751.75 sq ft total area",
+        "sourcePage": 2,
+        "areaValues": [
+          751.75
+        ],
+        "areaCalculation": "688.14 + 63.61 = 751.75 sq ft. Printed total 751.75 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-02.png"
+      },
+      {
+        "label": "1 BR · L20 / L21 · 04",
+        "area": "751.75 sq ft (L20) / 751.54 sq ft (L21)",
+        "sourcePage": 3,
+        "areaValues": [
+          751.75,
+          751.54
+        ],
+        "areaCalculation": "L20: 688.89 + 62.86 = 751.75 sq ft. Printed total 751.75 sq ft. L21: 688.89 + 62.65 = 751.54 sq ft. Printed total 751.54 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-03.png"
+      },
+      {
+        "label": "1 BR · L2–19, 22–32 · 07",
+        "area": "751.75 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          751.75
+        ],
+        "areaCalculation": "689.86 + 61.89 = 751.75 sq ft. Printed total 751.75 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-04.png"
+      },
+      {
+        "label": "1 BR · L2–19, 22–32 · 06",
+        "area": "771.23 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          771.23
+        ],
+        "areaCalculation": "698.25 + 72.98 = 771.23 sq ft. Printed total 771.23 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-05.png"
+      },
+      {
+        "label": "1 BR · L2–19, 22–32 · 05",
+        "area": "771.23 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          771.23
+        ],
+        "areaCalculation": "698.25 + 72.98 = 771.23 sq ft. Printed total 771.23 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-06.png"
+      },
+      {
+        "label": "1 BR · L20 / L21 · 05",
+        "area": "771.34 sq ft (L20) / 771.13 sq ft (L21)",
+        "sourcePage": 7,
+        "areaValues": [
+          771.34,
+          771.13
+        ],
+        "areaCalculation": "L20: 697.50 + 73.84 = 771.34 sq ft. Printed total 771.34 sq ft. L21: 696.64 + 74.49 = 771.13 sq ft. Printed total 771.13 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-07.png"
+      },
+      {
+        "label": "1 BR · Podium 1 · 02",
+        "area": "796.74 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          796.74
+        ],
+        "areaCalculation": "679.74 + 117.00 = 796.74 sq ft. Printed total 796.74 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-08.png"
+      },
+      {
+        "label": "1 BR · Podium 2 · 03",
+        "area": "796.10 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          796.1
+        ],
+        "areaCalculation": "679.10 + 117.00 = 796.10 sq ft. Printed total 796.10 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-09.png"
+      },
+      {
+        "label": "2 BR · Podium 1 · 01",
+        "area": "1,083.92 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          1083.92
+        ],
+        "areaCalculation": "1016.97 + 66.95 = 1083.92 sq ft. Printed total 1083.92 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-10.png"
+      },
+      {
+        "label": "2 BR · Podium 2 · 01",
+        "area": "1,082.63 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          1082.63
+        ],
+        "areaCalculation": "1016.65 + 65.98 = 1082.63 sq ft. Printed total 1082.63 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-11.png"
+      },
+      {
+        "label": "2 BR · L1 · 01",
+        "area": "1,071.44 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          1071.44
+        ],
+        "areaCalculation": "1017.73 + 53.71 = 1071.44 sq ft. Printed total 1071.44 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-12.png"
+      },
+      {
+        "label": "2 BR · L2–19, 22–32 · 01",
+        "area": "1,084.90 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          1084.9
+        ],
+        "areaCalculation": "1018.59 + 66.31 = 1084.90 sq ft. Printed total 1084.90 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-13.png"
+      },
+      {
+        "label": "2 BR · L20 / L21 · 01",
+        "area": "1,084.90 sq ft (L20) / 1,084.68 sq ft (L21)",
+        "sourcePage": 14,
+        "areaValues": [
+          1084.9,
+          1084.68
+        ],
+        "areaCalculation": "L20: 1016.87 + 68.03 = 1084.90 sq ft. Printed total 1084.90 sq ft. L21: 1017.73 + 66.95 = 1084.68 sq ft. Printed total 1084.68 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-14.png"
+      },
+      {
+        "label": "2 BR · Podium 2 · 02",
+        "area": "1,195.12 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          1195.12
+        ],
+        "areaCalculation": "1059.60 + 135.52 = 1195.12 sq ft. Printed total 1195.12 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-15.png"
+      },
+      {
+        "label": "2 BR · L1 · 02",
+        "area": "1,186.19 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1186.19
+        ],
+        "areaCalculation": "1060.14 + 126.05 = 1186.19 sq ft. Printed total 1186.19 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-16.png"
+      },
+      {
+        "label": "2 BR · L2–19, 22–32 · 02",
+        "area": "1,263.79 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1263.79
+        ],
+        "areaCalculation": "1060.68 + 203.11 = 1263.79 sq ft. Printed total 1263.79 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-17.png"
+      },
+      {
+        "label": "2 BR · L20 / L21 · 02",
+        "area": "1,263.36 sq ft (L20) / 1,254.11 sq ft (L21)",
+        "sourcePage": 18,
+        "areaValues": [
+          1263.36,
+          1254.11
+        ],
+        "areaCalculation": "L20: 1061.00 + 202.36 = 1263.36 sq ft. Printed total 1263.36 sq ft. L21: 1060.14 + 193.97 = 1254.11 sq ft. Printed total 1254.11 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-18.png"
+      },
+      {
+        "label": "2 BR · L2–19, 22–32 · 03",
+        "area": "1,079.73 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1079.73
+        ],
+        "areaCalculation": "963.59 + 116.14 = 1079.73 sq ft. Printed total 1079.73 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-19.png"
+      },
+      {
+        "label": "2 BR · L20 / L21 · 03",
+        "area": "1,079.73 sq ft (L20) / 1,071.87 sq ft (L21)",
+        "sourcePage": 20,
+        "areaValues": [
+          1079.73,
+          1071.87
+        ],
+        "areaCalculation": "L20: 963.59 + 116.14 = 1079.73 sq ft. Printed total 1079.73 sq ft. L21: 963.59 + 108.28 = 1071.87 sq ft. Printed total 1071.87 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-20.png"
+      },
+      {
+        "label": "2 BR · L2–19, 22–32 · 08",
+        "area": "1,088.02 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1088.02
+        ],
+        "areaCalculation": "967.03 + 120.99 = 1088.02 sq ft. Printed total 1088.02 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-21.png"
+      },
+      {
+        "label": "2 BR · L20 / L21 · 06",
+        "area": "1,088.56 sq ft (L20) / 1,080.59 sq ft (L21)",
+        "sourcePage": 22,
+        "areaValues": [
+          1088.56,
+          1080.59
+        ],
+        "areaCalculation": "L20: 966.28 + 122.28 = 1088.56 sq ft. Printed total 1088.56 sq ft. L21: 967.14 + 113.45 = 1080.59 sq ft. Printed total 1080.59 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-22.png"
+      },
+      {
+        "label": "3 BR · Podium 1 · 03",
+        "area": "1,809.85 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1809.85
+        ],
+        "areaCalculation": "1605.01 + 204.84 = 1809.85 sq ft. Printed total 1809.85 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-23.png"
+      },
+      {
+        "label": "3 BR · Podium 2 · 04",
+        "area": "1,809.85 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1809.85
+        ],
+        "areaCalculation": "1603.72 + 206.13 = 1809.85 sq ft. Printed total 1809.85 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-24.png"
+      },
+      {
+        "label": "3 BR · L1 · 03",
+        "area": "1,785.95 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1785.95
+        ],
+        "areaCalculation": "1607.05 + 178.90 = 1785.95 sq ft. Printed total 1785.95 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-25.png"
+      },
+      {
+        "label": "3 BR · L2–19, 22–32 · 09",
+        "area": "1,876.36 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1876.36
+        ],
+        "areaCalculation": "1606.94 + 269.42 = 1876.36 sq ft. Printed total 1876.36 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-26.png"
+      },
+      {
+        "label": "3 BR · L20 / L21 · 07",
+        "area": "1,875.93 sq ft (L20) / 1,866.14 sq ft (L21)",
+        "sourcePage": 27,
+        "areaValues": [
+          1875.93,
+          1866.14
+        ],
+        "areaCalculation": "L20: 1605.76 + 270.17 = 1875.93 sq ft. Printed total 1875.93 sq ft. L21: 1607.48 + 258.66 = 1866.14 sq ft. Printed total 1866.14 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-27.png"
+      },
+      {
+        "label": "3 BR townhouse · TH · 01, 03 & 05",
+        "area": "2,046.11 sq ft (unit 01) / 2,041.48 sq ft (unit 03 & 05)",
+        "sourcePage": 28,
+        "areaValues": [
+          2046.11,
+          2041.48
+        ],
+        "areaCalculation": "unit 01: 1956.34 + 89.77 = 2046.11 sq ft. Printed total 2046.11 sq ft. unit 03 & 05: 1956.34 + 85.14 = 2041.48 sq ft. Printed total 2041.48 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-28.png"
+      },
+      {
+        "label": "3 BR townhouse · TH · 02 & 04, 06",
+        "area": "2,041.48 sq ft (unit 02 & 04) / 2,048.26 sq ft (unit 06)",
+        "sourcePage": 29,
+        "areaValues": [
+          2041.48,
+          2048.26
+        ],
+        "areaCalculation": "unit 02 & 04: 1956.34 + 85.14 = 2041.48 sq ft. Printed total 2041.48 sq ft. unit 06: 1956.34 + 91.92 = 2048.26 sq ft. Printed total 2048.26 sq ft.",
+        "cache": "artifacts/project-page-enhancement/valo/plan-29.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/valo/",
+  "review": {
+    "images": "Reviewed the official panoramic entry image and all six original Valo gallery assets. Kept six distinct views, omitting the narrower alternate crop of the same entry. The tower plaza is the card image. Two apartment interiors appear separately from the shared lobby.",
+    "location": "Reviewed the developer’s regional map and exact Valo brochure physical page 5, with Valo separately marked on the neighbourhood plan. Official point retained as a reference. Read all four source times visually.",
+    "floorPlans": "Fresh official 29-page PDF matched original cache. Reviewed the cover and every residence drawing and numerical panel. Pages 2–27 are apartments and 28–29 are three-bedroom townhouses showing both levels. Area panels were extracted by physical position, matched visually to level and unit, and checked against the independent text extraction. All printed square-foot component sums agree."
+  },
+  "unavailable": [
+    "Signed unit areas, final entrance and operational transport status require confirmation."
+  ]
+}

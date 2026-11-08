@@ -1,0 +1,127 @@
+{
+  "projectId": "aldar-project-14",
+  "projectSlug": "verdes-by-haven",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://asset.aldar.com/damascus/brochures/Verdes-By-Haven.pdf",
+    "label": "Aldar Verdes by Haven brochure and layouts",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/verdes-by-haven/floor-plans-477265f31c29.pdf",
+    "sha256": "477265f31c291930c1d905b93b04a2f974340836b14ae80dd71abe376f6d773f"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the apartments and the three two-bedroom duplex layouts. Each duplex sheet shows both levels.",
+  "selectorLabel": "Choose a Verdes by Haven floor plan",
+  "note": "The figures are the published average gross floor areas in square feet, excluding balconies. Confirm the signed plan and area for your apartment.",
+  "plans": [
+    {
+      "label": "1 BR apartment",
+      "area": "730 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-32-496e0e7e1154.webp",
+      "sha256": "496e0e7e11540a08402d90dce92883956327d8cca1c342aba38551a451f5f949",
+      "originalBytes": 481134,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR · Middle",
+      "area": "1,259 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-33-97949c1c9e2b.webp",
+      "sha256": "97949c1c9e2b736c273f601bee472e099e17aeab600c2b773024e73249d64fce",
+      "originalBytes": 536202,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR · Corner",
+      "area": "1,485 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-34-521518f2dec8.webp",
+      "sha256": "521518f2dec8df35849fda5b9949c8bbbcb86e155862dc5b7a6677f78bab0925",
+      "originalBytes": 624260,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR duplex · Type 1",
+      "area": "1,485 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-35-1f97101ac007.webp",
+      "sha256": "1f97101ac0078d6c13840bfcaf46d78b2563f71d0e08d1f8c0238206aa4da054",
+      "originalBytes": 1042670,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR duplex · Type 2",
+      "area": "1,582 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-36-69084d9ee362.webp",
+      "sha256": "69084d9ee3625fff29e4841df958b5c5c6dba217dac85ba0261247bd557c9354",
+      "originalBytes": 863454,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "2 BR duplex · Type 3",
+      "area": "1,690 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-37-4a23ee0670d6.webp",
+      "sha256": "4a23ee0670d6bd49537cc95d23964249adfa36ba42b1313ce588f769ba134077",
+      "originalBytes": 1046154,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR with play area",
+      "area": "1,625 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-38-c31a4f7f59c0.webp",
+      "sha256": "c31a4f7f59c0936e87c92015e165897ff1d4f788fe954a9d6ecff0034c653eb0",
+      "originalBytes": 615900,
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "label": "3 BR + maid",
+      "area": "1,625 sq ft average GFA",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/aldar/verdes-by-haven/plan-page-39-aed3a5580a39.webp",
+      "sha256": "aed3a5580a39215326bc3460a82473481a1f4a447f93d8264d9065ea7c3a0965",
+      "originalBytes": 615866,
+      "width": 2400,
+      "height": 1350
+    }
+  ]
+}

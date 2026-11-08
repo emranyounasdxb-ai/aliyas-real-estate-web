@@ -1,0 +1,62 @@
+{
+  "projectId": "aldar-project-03",
+  "projectSlug": "talay-beach",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://www.mitchellscommercialrealty.com/downloads/talay/TALAY_AND_TALAY_BEACH_FLOOR_PLANS.pdf",
+    "label": "Aldar Talay and Talay Beach floor plans · Mitchell’s Commercial Realty copy",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/talay-beach/floor-plans-837fd25b2a6d.pdf",
+    "sha256": "837fd25b2a6d294e882dc53a73b44e58baf7824405a191058ca3b467dcfd3f10"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore the three villa layouts published for Talay Beach. Each original sheet shows both levels.",
+  "selectorLabel": "Choose a Talay Beach floor plan",
+  "note": "The figure above is the published gross saleable area. The drawing lists the average plot area separately. Confirm the area and layout of the specific villa.",
+  "plans": [
+    {
+      "label": "4 BR villa",
+      "area": "506 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/aldar/talay-beach/plan-page-6-556438e1feb6.webp",
+      "sha256": "556438e1feb67f1dfd8c1d83486994c95bc5e702909c3b3a5c6336c08f40f117",
+      "originalBytes": 856990,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "5 BR villa",
+      "area": "587 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/aldar/talay-beach/plan-page-7-4f9f586e7609.webp",
+      "sha256": "4f9f586e76094734a475ae74ed340d2c92d4b78ab8db35c4d0e2331941bd45c9",
+      "originalBytes": 1031342,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "6 BR villa",
+      "area": "634 sq m gross saleable area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/aldar/talay-beach/plan-page-8-cf4f8f5c7f6a.webp",
+      "sha256": "cf4f8f5c7f6ab6b5d816bfea2e1a96b919359ab275d969a05e52d0b4c31778e9",
+      "originalBytes": 988604,
+      "width": 2400,
+      "height": 1200
+    }
+  ]
+}

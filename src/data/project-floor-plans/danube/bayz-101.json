@@ -1,0 +1,296 @@
+{
+  "projectId": "danube-project-13",
+  "projectSlug": "bayz-101",
+  "developerSlug": "danube",
+  "source": {
+    "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/bayz101/floor-plans",
+    "label": "Danube archive · Bayz 101 apartment plans",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/danube/bayz-101/floor-plans-d52e6243e9c3.pdf",
+    "sha256": "d52e6243e9c33c9390b04a0ad7e7b49c42f36642ee16b3577a5698a3ceadaa91"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2850,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the Bayz 101 apartment layouts and see how the residences and shared lounges are arranged.",
+  "selectorLabel": "Choose a Bayz 101 layout or floor plate",
+  "note": "The total area is taken directly from each plan. Rounded component figures can differ slightly from the printed total.",
+  "plans": [
+    {
+      "label": "Studio",
+      "area": "373–374 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/danube/bayz-101/plan-page-4-03f957ab1f4e.webp",
+      "sha256": "03f957ab1f4e6b1a6b5d8ab2480f68257904bcd7ae1d0d939cda8a0c75dd3edb",
+      "originalBytes": 239842,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Executive Studio",
+      "area": "373–374 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/danube/bayz-101/plan-page-5-b05295181e74.webp",
+      "sha256": "b05295181e74eef2e8b14d8d47ef3fdc9b21c553ed1c2109aafca2179a2e5260",
+      "originalBytes": 276156,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "1 BR Type A",
+      "area": "639 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/danube/bayz-101/plan-page-6-665945bf4730.webp",
+      "sha256": "665945bf47303fb25c5d79d083aa14f95475b17f326a7a8f7074945084f8f318",
+      "originalBytes": 310126,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Executive 1 BR",
+      "area": "753–754 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/danube/bayz-101/plan-page-7-424f7a511eea.webp",
+      "sha256": "424f7a511eea76795b82e58a6d6010c3feee4a23e360c76af5fb4387379854eb",
+      "originalBytes": 258446,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Presidential Suite Type A",
+      "area": "941 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/danube/bayz-101/plan-page-8-58af0e9745fd.webp",
+      "sha256": "58af0e9745fdf51f941f478545a5e6f5b0d8870f8e656ca0389e665dbb9159c0",
+      "originalBytes": 577780,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Presidential Suite Type B",
+      "area": "670 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/danube/bayz-101/plan-page-9-6158d55c4a20.webp",
+      "sha256": "6158d55c4a20521a583a624705885e689afacd11f19e41e5b1f38b9a3ddee9ae",
+      "originalBytes": 557834,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Presidential Suite Type C",
+      "area": "754 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/danube/bayz-101/plan-page-10-a28daec9663f.webp",
+      "sha256": "a28daec9663f0c3a2eb6fbc66e96169518fd5d76b66d5ac674fb20cd434a2e66",
+      "originalBytes": 494216,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "2 BR Type A",
+      "area": "1,127 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/danube/bayz-101/plan-page-11-b9b9f673d958.webp",
+      "sha256": "b9b9f673d958e65b687106c5ac53054c9d8937b9a5137d17c1ffb0c7b0d28d7e",
+      "originalBytes": 577806,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "2 BR Type B",
+      "area": "964 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/danube/bayz-101/plan-page-12-70cc0fa5bed8.webp",
+      "sha256": "70cc0fa5bed8e6aa4504c7a3db6dad59c6a2a2e04073e2254c4a2496de37ef95",
+      "originalBytes": 473534,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "2 BR Type C",
+      "area": "1,276 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/danube/bayz-101/plan-page-13-8df297e5ddff.webp",
+      "sha256": "8df297e5ddffcadc7bb8e081b6dd6a68cdc00c18b26654b05e4f16f282bb329d",
+      "originalBytes": 607990,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "2 BR Type D",
+      "area": "1,054 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/danube/bayz-101/plan-page-14-22d8a8baa7f7.webp",
+      "sha256": "22d8a8baa7f7973ac1a97e9ff6cdd11726976cd22fa12228f33801606d49562b",
+      "originalBytes": 510828,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "2 BR Type E",
+      "area": "1,128–1,156 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/danube/bayz-101/plan-page-15-2cf5a1aab6f5.webp",
+      "sha256": "2cf5a1aab6f50fcd4087006a73373b27c3cfe066f5b22d9288365fb8251d00c5",
+      "originalBytes": 484306,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "3 BR Type A",
+      "area": "1,507 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/danube/bayz-101/plan-page-16-f932216b0f40.webp",
+      "sha256": "f932216b0f40dc246ba5ad3b72f3d58fcedff715d6ab1d4e8dbd4eaf103c16eb",
+      "originalBytes": 465230,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "3 BR Type B",
+      "area": "1,607 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/danube/bayz-101/plan-page-17-b7b033dfa627.webp",
+      "sha256": "b7b033dfa6276ce5068194deba33cfc9b5a970f150fc8de51f0e6a85a0583bf5",
+      "originalBytes": 508342,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "3 BR Type C",
+      "area": "1,511 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/danube/bayz-101/plan-page-18-20e800182f0a.webp",
+      "sha256": "20e800182f0ac771c3ef02e0e1f1b0fcc7118d84d5acb5e6e0bf82573ab51a56",
+      "originalBytes": 545366,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "3 BR Type D",
+      "area": "1,492 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/danube/bayz-101/plan-page-19-066b7dbfe9b4.webp",
+      "sha256": "066b7dbfe9b46418fa1cfa0c998c6c9c7483c2f8567804cabbe353eb6c39e729",
+      "originalBytes": 544556,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "4 BR",
+      "area": "1,822 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/danube/bayz-101/plan-page-20-63d93e0fcbe4.webp",
+      "sha256": "63d93e0fcbe49c97fba803b95fe495038874faebddbaf0b7fd6ced0753059c8d",
+      "originalBytes": 534366,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Typical apartment floor plates",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/danube/bayz-101/plan-page-21-a091240b00fe.webp",
+      "sha256": "a091240b00fe9d94621eb9803cbca118e06d85e0b09dc0e7e0002ec51f321832",
+      "originalBytes": 1080516,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Lounge 1",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/danube/bayz-101/plan-page-22-fdfd52bee4b1.webp",
+      "sha256": "fdfd52bee4b1346c53e578602f2f61c33fc3e423d81cf653f9aee3c21bfd4cb9",
+      "originalBytes": 2243074,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Lounge 55",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/danube/bayz-101/plan-page-23-3da94974392b.webp",
+      "sha256": "3da94974392b3a7542552d73d8788edea811c88d3629b0f3acde137f6d8b5b61",
+      "originalBytes": 1419844,
+      "width": 2850,
+      "height": 2036
+    },
+    {
+      "label": "Rooftop lounge",
+      "area": "Overall floor area is not printed on this drawing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/danube/bayz-101/plan-page-24-9b7fcd0dc2ef.webp",
+      "sha256": "9b7fcd0dc2efd9b7f16376b9189028afd2243c0a95fea9dd8a9af0db54cb9c75",
+      "originalBytes": 1581258,
+      "width": 2850,
+      "height": 2036
+    }
+  ]
+}

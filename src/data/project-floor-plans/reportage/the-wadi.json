@@ -1,0 +1,1389 @@
+{
+  "projectId": "reportage-project-02",
+  "projectSlug": "the-wadi",
+  "developerSlug": "reportage",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/1b686fd13fc843c0b3768dcbdaa410f5.pdf",
+    "label": "The Wadi · original E1/E2 drawings, broker mirror",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/reportage/the-wadi/floor-plans-fefda4d78435.pdf",
+    "sha256": "fefda4d78435bbf1340f4a2c17d71c8c53d309955f80bf68d5a685c643e1fe4b"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore E1 and E2 layouts with their original building and community sheets.",
+  "selectorLabel": "Choose a residence, building floor or context sheet",
+  "note": "E1 and E2 drawings. Printed totals include outdoor space and retain source differences, including one-square-foot component discrepancies. E1 Studio A1 prints 306–502 sq ft despite a 306–310 sq ft internal range plus 60–195 sq ft outdoors. E1 B7 repeats “from” in its range. E2 Type P is labelled 3BR but draws four bedrooms. Accessibility symbols, duplex levels, locators and original notices remain intact. Confirm the selected unit, measurements and contract revision.",
+  "plans": [
+    {
+      "label": "E1 · Studio · A1",
+      "area": "306–502 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/reportage/the-wadi/plan-page-17-363c8fe36c00.webp",
+      "sha256": "363c8fe36c0037bec39c93aa318f8a72b371ac6117a1bb440caff4edb70a81b8",
+      "originalBytes": 5613430,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Studio · A2",
+      "area": "306–472 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/reportage/the-wadi/plan-page-18-28ccde8924bd.webp",
+      "sha256": "28ccde8924bd089a7d4795c44f185c3e38649377e677743a3cc86423b8aab88a",
+      "originalBytes": 5441874,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Studio · A3",
+      "area": "486 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/reportage/the-wadi/plan-page-19-6c236ed38d17.webp",
+      "sha256": "6c236ed38d1798392787f10af520be32d10fd91b63e810e65266fbe4843b79e8",
+      "originalBytes": 5611174,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Studio · A4",
+      "area": "315 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/reportage/the-wadi/plan-page-20-cb83e302e7dd.webp",
+      "sha256": "cb83e302e7ddce43a875a66aac08de0eecad4764fe838e556fa48834a1fe7d2d",
+      "originalBytes": 5401038,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Studio · A5",
+      "area": "368 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/reportage/the-wadi/plan-page-21-c6da0b03ec79.webp",
+      "sha256": "c6da0b03ec7903de7aaac91bb3e5dfb37912b25a9e80d956e7d473aa59554263",
+      "originalBytes": 5479842,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Studio · A6",
+      "area": "357 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/reportage/the-wadi/plan-page-22-45f0e11014cf.webp",
+      "sha256": "45f0e11014cf48f3feae3b842c4e014a8b7622b6ce1023fe502060702d3dfb72",
+      "originalBytes": 5476098,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B1",
+      "area": "585–872 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/reportage/the-wadi/plan-page-23-e47449f802c6.webp",
+      "sha256": "e47449f802c6a4bc685fbc9c03ce10fada97e08b070b153cfb8249acd1b7415f",
+      "originalBytes": 5211704,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B2",
+      "area": "675–716 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/reportage/the-wadi/plan-page-24-e58e15fcb3ca.webp",
+      "sha256": "e58e15fcb3cadbf352c9163f720f493c6d592c7917d22dec35e4d54d222b2cc7",
+      "originalBytes": 5462778,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B3",
+      "area": "660 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/reportage/the-wadi/plan-page-25-6f88a4bf2ba8.webp",
+      "sha256": "6f88a4bf2ba8a2d3221251e25c62c4f30ed935fcb6137bc9ea5f9781b70f7867",
+      "originalBytes": 5271032,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B4",
+      "area": "687–835 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/reportage/the-wadi/plan-page-26-9a4691cc60e6.webp",
+      "sha256": "9a4691cc60e6224474d289befd10d375f25801a35f053e0ae30b036a53e415b5",
+      "originalBytes": 5348668,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B5",
+      "area": "605 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/reportage/the-wadi/plan-page-27-79fdb830c413.webp",
+      "sha256": "79fdb830c413e3d2ee4d488f7eb70d55f6a31a5ab922da48a786f7e6eae91f47",
+      "originalBytes": 4966914,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B6",
+      "area": "488–596 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/reportage/the-wadi/plan-page-28-68f026613b1b.webp",
+      "sha256": "68f026613b1bfade274977afe4e1adc0c1ba71d16992185a10e194c70b590be4",
+      "originalBytes": 4985956,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B7",
+      "area": "623–634 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/reportage/the-wadi/plan-page-29-547dc32db9f3.webp",
+      "sha256": "547dc32db9f3a7513c629af252e06e8e9f271bb33d0efaa82bf9ffcecfb3e9b9",
+      "originalBytes": 5144980,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B8",
+      "area": "589–593 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/reportage/the-wadi/plan-page-30-b6ba0b3c7f05.webp",
+      "sha256": "b6ba0b3c7f0597b593ca67a376e050a331f6dd2f4c84fbf480d99c66823f478f",
+      "originalBytes": 5278886,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B9",
+      "area": "590 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/reportage/the-wadi/plan-page-31-1c627b5c59f8.webp",
+      "sha256": "1c627b5c59f8b65c10b98a10cda1bc6453fe876f3ac7628fb6ddff0beb753ccd",
+      "originalBytes": 5045202,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B10",
+      "area": "606 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/reportage/the-wadi/plan-page-32-5ce45092c859.webp",
+      "sha256": "5ce45092c859d69c161d438440e36979dfeb180b991bd5a06f35297f8e7535ea",
+      "originalBytes": 5082760,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B11",
+      "area": "639 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/reportage/the-wadi/plan-page-33-56ab2834db2e.webp",
+      "sha256": "56ab2834db2e2036005332388ea3531e8204e9625574d7e4a0319d0c78304c4a",
+      "originalBytes": 5116912,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B12",
+      "area": "590 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/reportage/the-wadi/plan-page-34-877ea2b24785.webp",
+      "sha256": "877ea2b247854072efea4de048af70191b287bf20d841bed6d4454fd982dac53",
+      "originalBytes": 4974536,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B13",
+      "area": "607 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/reportage/the-wadi/plan-page-35-3faf5b0865e1.webp",
+      "sha256": "3faf5b0865e1860c8e2f7b90968742deeb8528ea4d867cbe313ed825bfe679eb",
+      "originalBytes": 4890900,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B14",
+      "area": "608 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/reportage/the-wadi/plan-page-36-54e7056d850f.webp",
+      "sha256": "54e7056d850f6d0e4b724269ecc3c8e281ca72e4846588a94d3b3afe10f00f09",
+      "originalBytes": 5001182,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B15",
+      "area": "579–662 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/reportage/the-wadi/plan-page-37-ba6c6397cb85.webp",
+      "sha256": "ba6c6397cb8572f70c4d131b93d13a36a7aaf4235f93a8baf7538a28c92071fc",
+      "originalBytes": 5317864,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B16",
+      "area": "605 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/reportage/the-wadi/plan-page-38-1ae8582b6889.webp",
+      "sha256": "1ae8582b6889805b92205a73b3278852864264dd8429ddcc6e113d7050b02f24",
+      "originalBytes": 5157602,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B17",
+      "area": "635 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/reportage/the-wadi/plan-page-39-941ff4830efe.webp",
+      "sha256": "941ff4830efe395aebf97b214245e8b4ddb9b6c821a52febb9a37ff25650442d",
+      "originalBytes": 5080408,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B18",
+      "area": "680 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/reportage/the-wadi/plan-page-40-15609b31de58.webp",
+      "sha256": "15609b31de58876e49bd809528ba451a8f45b780ffb7b05b467a96dd38f978e3",
+      "originalBytes": 4872076,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B19",
+      "area": "643–795 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/reportage/the-wadi/plan-page-41-86c656dcc657.webp",
+      "sha256": "86c656dcc6579107af52edb265008d257d4549527ee4d32fae0e5f6c29fd1209",
+      "originalBytes": 5440198,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B20",
+      "area": "546–618 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/reportage/the-wadi/plan-page-42-63c13ca3f2da.webp",
+      "sha256": "63c13ca3f2da326e35cc0d5ad4585d02196931380afa08f90ab960c1d73c746a",
+      "originalBytes": 5153106,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B21",
+      "area": "667 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/reportage/the-wadi/plan-page-43-6d7157408fb7.webp",
+      "sha256": "6d7157408fb752270320a8dc9c1b1f1bd20d140e9736989e7a3ed785d69bb650",
+      "originalBytes": 5170136,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B22",
+      "area": "628 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 44,
+      "src": "/images/projects/reportage/the-wadi/plan-page-44-f178edfb0b80.webp",
+      "sha256": "f178edfb0b8000c026284d04da744724239eb972ab043b9b4e732babb0c13166",
+      "originalBytes": 5205768,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B23",
+      "area": "929 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 45,
+      "src": "/images/projects/reportage/the-wadi/plan-page-45-1304e86b841b.webp",
+      "sha256": "1304e86b841b7ec3893a4671b73670c06ec247d34ce372b4e4a71304174a9188",
+      "originalBytes": 5392748,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR · B24",
+      "area": "603–610 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 46,
+      "src": "/images/projects/reportage/the-wadi/plan-page-46-34680a9b626f.webp",
+      "sha256": "34680a9b626f88ad6fd065b76eb93aa5a9cc798e09e6048361a924819025d454",
+      "originalBytes": 5340798,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR+1 · C1",
+      "area": "1010–1334 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 47,
+      "src": "/images/projects/reportage/the-wadi/plan-page-47-75c0dbc94628.webp",
+      "sha256": "75c0dbc9462857b63d1858a2f6ce89449be71d5d6145f78c1446f41146da8be1",
+      "originalBytes": 5178648,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 1 BR+1 · C2",
+      "area": "916–1129 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 48,
+      "src": "/images/projects/reportage/the-wadi/plan-page-48-98da954a4695.webp",
+      "sha256": "98da954a4695f72d6c8130b4923d1b7c95377d241c189d65e54683f1a0a5a760",
+      "originalBytes": 208138,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D1",
+      "area": "786 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 49,
+      "src": "/images/projects/reportage/the-wadi/plan-page-49-722cd97ab039.webp",
+      "sha256": "722cd97ab039dab63981eb63e510619c498ff4b554b09263192a0e1cbd55f01c",
+      "originalBytes": 4939558,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D2",
+      "area": "915 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 50,
+      "src": "/images/projects/reportage/the-wadi/plan-page-50-73d6e95e02a4.webp",
+      "sha256": "73d6e95e02a49d6778195539da949b7a3eb4737f8bec04c966cce44913390af9",
+      "originalBytes": 5054676,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D3",
+      "area": "899–1267 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 51,
+      "src": "/images/projects/reportage/the-wadi/plan-page-51-714284a61f6e.webp",
+      "sha256": "714284a61f6ef0884038173d10bf1cceae97de5e2976a3479076af5f2077bb9e",
+      "originalBytes": 5065128,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D4",
+      "area": "779–785 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 52,
+      "src": "/images/projects/reportage/the-wadi/plan-page-52-50aaec24a077.webp",
+      "sha256": "50aaec24a077747dba29109f6bb696938ad1130900822940622706a6be0e4dba",
+      "originalBytes": 5337202,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D5",
+      "area": "906–1072 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 53,
+      "src": "/images/projects/reportage/the-wadi/plan-page-53-ccc52e2ff30a.webp",
+      "sha256": "ccc52e2ff30ab7c481e7636623d8dac8ce99b979c02f503fbb17de748d4bb093",
+      "originalBytes": 5155046,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D6",
+      "area": "717–792 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 54,
+      "src": "/images/projects/reportage/the-wadi/plan-page-54-0f83b0bab182.webp",
+      "sha256": "0f83b0bab182fff7a235b885f95b9b429bd92405f4b5035ea82be4b60c288673",
+      "originalBytes": 5153602,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D7",
+      "area": "1041 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 55,
+      "src": "/images/projects/reportage/the-wadi/plan-page-55-75ba06c007d8.webp",
+      "sha256": "75ba06c007d820c1c2c55ca01125f822c314cba4cec3bd23d424f995420a5920",
+      "originalBytes": 5623860,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D8",
+      "area": "840–1099 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 56,
+      "src": "/images/projects/reportage/the-wadi/plan-page-56-7259e1ec98dc.webp",
+      "sha256": "7259e1ec98dcd65405e3f1ded34de786fc32a4c84b46ec2e0f677a3c63c48d7a",
+      "originalBytes": 4941092,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D9",
+      "area": "1476 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 57,
+      "src": "/images/projects/reportage/the-wadi/plan-page-57-8c48e5cd74e2.webp",
+      "sha256": "8c48e5cd74e2c9a5183f97c9d238a93000a2d7b4421b7c14c2c27e85f91341c6",
+      "originalBytes": 5534628,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D10",
+      "area": "789 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 58,
+      "src": "/images/projects/reportage/the-wadi/plan-page-58-c42007ce7fb1.webp",
+      "sha256": "c42007ce7fb13c112cae02d48cdf669d4f67b9ea594cac9cae2ed6a3d0bdcb5c",
+      "originalBytes": 5388948,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D11",
+      "area": "1120 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 59,
+      "src": "/images/projects/reportage/the-wadi/plan-page-59-fc5a6beb45a9.webp",
+      "sha256": "fc5a6beb45a9c5c66c1cb577910630cd6a323cc8f3917e2aecb928fe479ad0c5",
+      "originalBytes": 5284084,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D12",
+      "area": "1187 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 60,
+      "src": "/images/projects/reportage/the-wadi/plan-page-60-115032ab4770.webp",
+      "sha256": "115032ab4770077e0062413d8bbef3f8368c199c929c62967c31d72bc39e1b0b",
+      "originalBytes": 5531870,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D13",
+      "area": "1636 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 61,
+      "src": "/images/projects/reportage/the-wadi/plan-page-61-1cf4010a6db5.webp",
+      "sha256": "1cf4010a6db5dc423e57564e1c82a6bac841c1b246b40b9d1591bdb900ab0ecf",
+      "originalBytes": 5178676,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D14",
+      "area": "861 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 62,
+      "src": "/images/projects/reportage/the-wadi/plan-page-62-f3e6a1b371c9.webp",
+      "sha256": "f3e6a1b371c9ebae3af74b2ee22b2ca0368bb0482e711aecfe8ad5e3d786bccd",
+      "originalBytes": 5449218,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D15",
+      "area": "1443 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 63,
+      "src": "/images/projects/reportage/the-wadi/plan-page-63-3784fdeba0fd.webp",
+      "sha256": "3784fdeba0fd257f163803ad23d4b27361c5ad5d17ed9fe8c812f1c66adc1fe7",
+      "originalBytes": 5517980,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 2 BR · D16",
+      "area": "1154 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 64,
+      "src": "/images/projects/reportage/the-wadi/plan-page-64-b6ecd84f673a.webp",
+      "sha256": "b6ecd84f673a73a3fb3ad3befa9cbbcaa0067f58a64a792931656de06a593337",
+      "originalBytes": 5249042,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 3 BR · E1",
+      "area": "1966 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 65,
+      "src": "/images/projects/reportage/the-wadi/plan-page-65-567a14abc4e1.webp",
+      "sha256": "567a14abc4e11ba4f2adad4e8e16cd39bc39c0f88fa9b3980e8bd2a11dcd22e6",
+      "originalBytes": 5072460,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 3 BR · E2",
+      "area": "1118–1142 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 66,
+      "src": "/images/projects/reportage/the-wadi/plan-page-66-ef4758cf258d.webp",
+      "sha256": "ef4758cf258d6869ffdd2da56d13e537f429f74849498313341518c5f8ee31f0",
+      "originalBytes": 5165540,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 3 BR · E3",
+      "area": "1100 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 67,
+      "src": "/images/projects/reportage/the-wadi/plan-page-67-a472e986bc4a.webp",
+      "sha256": "a472e986bc4ad5ff270990feefa82d6b0043c8919423fb1f53673b1664b8c0cd",
+      "originalBytes": 5133546,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 3 BR · E4",
+      "area": "1925 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 68,
+      "src": "/images/projects/reportage/the-wadi/plan-page-68-c42e12f07a49.webp",
+      "sha256": "c42e12f07a49259fb40a19927d175452bfa931e9c0488dd4ca7e1f61b034655d",
+      "originalBytes": 5538426,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 3 BR · E5",
+      "area": "2029 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 69,
+      "src": "/images/projects/reportage/the-wadi/plan-page-69-a58e948d48fe.webp",
+      "sha256": "a58e948d48fe8b3ccf255dabac34529043528f87e4901789363f3111f9b17424",
+      "originalBytes": 5561356,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 4 BR · F",
+      "area": "2330 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 70,
+      "src": "/images/projects/reportage/the-wadi/plan-page-70-1a1b05714fb1.webp",
+      "sha256": "1a1b05714fb11e65a9c2849088344043688674e4c28156673a05bbbdf876a2a3",
+      "originalBytes": 5525630,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · 4 BR · G",
+      "area": "2418 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 71,
+      "src": "/images/projects/reportage/the-wadi/plan-page-71-1ee2438a44ca.webp",
+      "sha256": "1ee2438a44caf22763cda71cede0ff3aefa7a02db9242a269b0e5de7a425d417",
+      "originalBytes": 5243862,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Duplex · H",
+      "area": "3300 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 72,
+      "src": "/images/projects/reportage/the-wadi/plan-page-72-7dbad7415991.webp",
+      "sha256": "7dbad7415991b213cad4a07338142acea273bfd06b77a6f98a760d0dab92d534",
+      "originalBytes": 5284306,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Duplex · I",
+      "area": "2213 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 73,
+      "src": "/images/projects/reportage/the-wadi/plan-page-73-3232c4b60847.webp",
+      "sha256": "3232c4b608471afc5d4277c40d4d547847ce63d437e7b288e81a5cbfd6a834f6",
+      "originalBytes": 5330810,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Studio · A",
+      "area": "350–439 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 86,
+      "src": "/images/projects/reportage/the-wadi/plan-page-86-ecfaf1b37729.webp",
+      "sha256": "ecfaf1b377292c78ea7a98542296d4efa51896171616758b176eba74f2b632ee",
+      "originalBytes": 5439388,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Studio · A2",
+      "area": "503 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 87,
+      "src": "/images/projects/reportage/the-wadi/plan-page-87-174f7fb71379.webp",
+      "sha256": "174f7fb713797ec550fde668472499b77c2dcff410c2b2d21b8d7ba8bbb059f1",
+      "originalBytes": 5447292,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Studio · B",
+      "area": "353–480 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 88,
+      "src": "/images/projects/reportage/the-wadi/plan-page-88-d9034047c6b9.webp",
+      "sha256": "d9034047c6b9a9bcb524e2860501241a01e930bf0e0929009f4d2cc291dd5beb",
+      "originalBytes": 5606428,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Studio · C",
+      "area": "354–521 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 89,
+      "src": "/images/projects/reportage/the-wadi/plan-page-89-b3aaee9ef9d0.webp",
+      "sha256": "b3aaee9ef9d011345a2ad54dc9adb1f593edac27adcd22d26a0d1fbdbbb2b7f6",
+      "originalBytes": 5536454,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 1 BR · D",
+      "area": "704–952 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 90,
+      "src": "/images/projects/reportage/the-wadi/plan-page-90-aec101b491e7.webp",
+      "sha256": "aec101b491e7dc954f7c1ca44982974862391a5c0f71792aac9356d964f22873",
+      "originalBytes": 5113722,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 1 BR · E",
+      "area": "747–854 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 91,
+      "src": "/images/projects/reportage/the-wadi/plan-page-91-f7fb84f56170.webp",
+      "sha256": "f7fb84f561708e5d2380ec04cfdb364ead864c756f73e76e3a412a5e86db2d09",
+      "originalBytes": 5262070,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 1 BR · F",
+      "area": "1157 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 92,
+      "src": "/images/projects/reportage/the-wadi/plan-page-92-ae94e5fbfb63.webp",
+      "sha256": "ae94e5fbfb6313e2f8b2cc054c1e958ae1de7adb30b855481fd8727cab3e053f",
+      "originalBytes": 5338248,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 1 BR · G",
+      "area": "1240 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 93,
+      "src": "/images/projects/reportage/the-wadi/plan-page-93-a68d378d00f2.webp",
+      "sha256": "a68d378d00f231db3e241b19c981d15492af0abbeef478096f40daa1a729539a",
+      "originalBytes": 5453940,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 2 BR · H",
+      "area": "1131–1396 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 94,
+      "src": "/images/projects/reportage/the-wadi/plan-page-94-080240c745b7.webp",
+      "sha256": "080240c745b7bca933e86d116f28639b59025bcbc457d23628ec3fabab23dbd3",
+      "originalBytes": 4980110,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 2 BR · I",
+      "area": "1430–1512 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 95,
+      "src": "/images/projects/reportage/the-wadi/plan-page-95-145aed078ebb.webp",
+      "sha256": "145aed078ebb5b1f447cf1f7720d0187c1cc987706ea1525c6054cd9822ec604",
+      "originalBytes": 5110802,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 2 BR · J",
+      "area": "1131–1226 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 96,
+      "src": "/images/projects/reportage/the-wadi/plan-page-96-bf1c99b8628d.webp",
+      "sha256": "bf1c99b8628d6ceea01b955cf81e0e6320a07aea9b1206d4e90a48861045bb1e",
+      "originalBytes": 5219530,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 2 BR · K",
+      "area": "1244–1431 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 97,
+      "src": "/images/projects/reportage/the-wadi/plan-page-97-8010204216dd.webp",
+      "sha256": "8010204216ddae4e253525a4bcc776f7b39445618b2fe3a15c3d7e4eeb3ed076",
+      "originalBytes": 5313452,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 2 BR · L",
+      "area": "1244 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 98,
+      "src": "/images/projects/reportage/the-wadi/plan-page-98-12774b2e9ecc.webp",
+      "sha256": "12774b2e9ecc360706dfa632dfe30473975ccd68aebe1dae12213694354fed30",
+      "originalBytes": 4947232,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · M",
+      "area": "2557 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 99,
+      "src": "/images/projects/reportage/the-wadi/plan-page-99-1feab32b612f.webp",
+      "sha256": "1feab32b612f29b6744392f35aef22672334ab96530bdff988a03dc72dbfbf95",
+      "originalBytes": 5097152,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · N",
+      "area": "2075 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 100,
+      "src": "/images/projects/reportage/the-wadi/plan-page-100-9cc55ef70f8f.webp",
+      "sha256": "9cc55ef70f8f930cd94bc6eb47d6894ca2cfbef888b6bd3c0f2fa71a7a0c809f",
+      "originalBytes": 5348154,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · O",
+      "area": "2627 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 101,
+      "src": "/images/projects/reportage/the-wadi/plan-page-101-83fd1e9d700e.webp",
+      "sha256": "83fd1e9d700e5c90a697cd6799d92eeb5b9c51e4cabc387d9928a048d548a792",
+      "originalBytes": 5272318,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Published 3 BR · P",
+      "area": "3,435 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 102,
+      "src": "/images/projects/reportage/the-wadi/plan-page-102-1dbf1fc2e07b.webp",
+      "sha256": "1dbf1fc2e07b8b6b0828ddd1be0c6cde9bc0c2d40aa3bdd96636f37c94e4eea2",
+      "originalBytes": 5190012,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · Q",
+      "area": "2,771 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 103,
+      "src": "/images/projects/reportage/the-wadi/plan-page-103-572150465f9c.webp",
+      "sha256": "572150465f9ca3c94a2b8840e18657b1e4b1e967affb2bdb7ac4a90385d6fdb0",
+      "originalBytes": 5142984,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · R",
+      "area": "1912–2135 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 104,
+      "src": "/images/projects/reportage/the-wadi/plan-page-104-3824d947fe7a.webp",
+      "sha256": "3824d947fe7a17229c6af71fb4df907bdf96142ae12f922bc7b5f5a6119fe505",
+      "originalBytes": 5378548,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · 3 BR · S",
+      "area": "2,269 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 105,
+      "src": "/images/projects/reportage/the-wadi/plan-page-105-b909ce291d76.webp",
+      "sha256": "b909ce291d76ad467034b1ce448fb644fd00fa1ab68587415598a361afd17b38",
+      "originalBytes": 5280410,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Retail · 02",
+      "area": "1,636 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 106,
+      "src": "/images/projects/reportage/the-wadi/plan-page-106-ba1ed205d00e.webp",
+      "sha256": "ba1ed205d00e3b65cb5c868c83033b19986034ce515327d3b177f7580e5be7ab",
+      "originalBytes": 5604192,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Retail · 03",
+      "area": "2,337 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 107,
+      "src": "/images/projects/reportage/the-wadi/plan-page-107-7ff6a210faec.webp",
+      "sha256": "7ff6a210faec9123a15a316dad5bcc9856fc17e55c0583fc0f0e1d0071a2cced",
+      "originalBytes": 5499712,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Retail · 04",
+      "area": "1,969 sq ft printed total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 108,
+      "src": "/images/projects/reportage/the-wadi/plan-page-108-309a2eccd563.webp",
+      "sha256": "309a2eccd563da9fa7c15d30c82016b49bcba5d2429f129f1dfa4cc332dd452b",
+      "originalBytes": 5413030,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/reportage/the-wadi/plan-page-4-c6b936fd12e4.webp",
+      "sha256": "c6b936fd12e4a20aa58a0707880558b22426825cfbb702e77290222dca396079",
+      "originalBytes": 5777866,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/reportage/the-wadi/plan-page-5-5696b4fab39d.webp",
+      "sha256": "5696b4fab39db8ba42dcead11d77518c763a8ff0127e95d2240219e311a0fcbf",
+      "originalBytes": 5663528,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/reportage/the-wadi/plan-page-6-da77bb5d9e87.webp",
+      "sha256": "da77bb5d9e87a7cb01ae9f06a146896e9ae7d37e1213ee0861f23a52a155bf09",
+      "originalBytes": 5692914,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 3",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/reportage/the-wadi/plan-page-7-8cdb7a245d2a.webp",
+      "sha256": "8cdb7a245d2a781f17b74a0145d49c6c49de7c8a48e7ddf697e2f98e71e31a1d",
+      "originalBytes": 5664728,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 4",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/the-wadi/plan-page-8-50afa841349d.webp",
+      "sha256": "50afa841349d2b652476737109b7720458d3d24cb4a68275e7977b19ef8bebd9",
+      "originalBytes": 5660814,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 5",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/reportage/the-wadi/plan-page-9-750c3a1011b9.webp",
+      "sha256": "750c3a1011b93233e96af295e00dc524a94b289ad63db1370bc5606050933c8a",
+      "originalBytes": 5676586,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 6",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/reportage/the-wadi/plan-page-10-092de4af8d3d.webp",
+      "sha256": "092de4af8d3d4c37bdb0aca87053ddbdd34839a5f3572f1bae74c191fd2e8d51",
+      "originalBytes": 5617992,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 7",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/the-wadi/plan-page-11-34e89afaf86d.webp",
+      "sha256": "34e89afaf86d99c9c4a59e45b74be8d911bc12187371e8bf522d19564880d633",
+      "originalBytes": 5657188,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 8",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/reportage/the-wadi/plan-page-12-249c758bf66a.webp",
+      "sha256": "249c758bf66a216ccc641112bb73eb745668c2e1033fcdc41228b65fbf1015b8",
+      "originalBytes": 5648454,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 9",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/reportage/the-wadi/plan-page-13-11c5417b87d7.webp",
+      "sha256": "11c5417b87d79418dea6fa5884c634ff7ae7e66789d040ac7c1b35d362075a31",
+      "originalBytes": 5626248,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Level 10",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/reportage/the-wadi/plan-page-14-c5137cce9185.webp",
+      "sha256": "c5137cce9185386807d96d93ecd6274046bf291b228a0c89fc1e8629f475928b",
+      "originalBytes": 5762416,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Ground floor",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 76,
+      "src": "/images/projects/reportage/the-wadi/plan-page-76-409d23ce1048.webp",
+      "sha256": "409d23ce1048518ade41ac01733291c622ff9619a54036ca192f435b27b16e00",
+      "originalBytes": 5616100,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 1",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 77,
+      "src": "/images/projects/reportage/the-wadi/plan-page-77-c73f313e9278.webp",
+      "sha256": "c73f313e9278e954a531a567e2ff567ec256451f7a02f46d026f00599565bb7a",
+      "originalBytes": 5384526,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 2",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 78,
+      "src": "/images/projects/reportage/the-wadi/plan-page-78-e5aa24063567.webp",
+      "sha256": "e5aa2406356717a8d8ef0bb0a5f0aaa20035bce560e32833da04ff9d03c58e10",
+      "originalBytes": 5372826,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 3",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 79,
+      "src": "/images/projects/reportage/the-wadi/plan-page-79-5184a580613e.webp",
+      "sha256": "5184a580613e2b52c0b955b007449a524f668951d05ce09fc05516a50b5bceeb",
+      "originalBytes": 5369632,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 4",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 80,
+      "src": "/images/projects/reportage/the-wadi/plan-page-80-6837c3dc5048.webp",
+      "sha256": "6837c3dc50481618af3eb25969e67680640990557591f981b15d1a4b544e44f5",
+      "originalBytes": 5371730,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 5",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 81,
+      "src": "/images/projects/reportage/the-wadi/plan-page-81-c35d64e2eced.webp",
+      "sha256": "c35d64e2eced4dd121fb722e567e07ca4ee7cf47f97622159fc2b3a3537d9fb8",
+      "originalBytes": 5374254,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 6",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 82,
+      "src": "/images/projects/reportage/the-wadi/plan-page-82-54239ddd4117.webp",
+      "sha256": "54239ddd41173a1d2b3ea3b18ea469d43ed532fd9189b9d3ae740a903199633a",
+      "originalBytes": 5399508,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 7",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 83,
+      "src": "/images/projects/reportage/the-wadi/plan-page-83-985dcc75ec08.webp",
+      "sha256": "985dcc75ec08ff669f5a3dfcff8df803e6ba3e31fb89e5863a46f4c73e7242c1",
+      "originalBytes": 5407504,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Level 8",
+      "area": "Building context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 84,
+      "src": "/images/projects/reportage/the-wadi/plan-page-84-c674d7fc5a45.webp",
+      "sha256": "c674d7fc5a4505df342c2ebe0a42d470d26fa0da91af49983297223cd3cc25db",
+      "originalBytes": 5635862,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E1 · Community locator",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/reportage/the-wadi/plan-page-2-41e8ab678e2b.webp",
+      "sha256": "41e8ab678e2bd5878ad5cec8d37d6a125e53c920d5f5e2be14b01df7b9924e2c",
+      "originalBytes": 3907424,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "E2 · Community locator",
+      "area": "Community context",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 74,
+      "src": "/images/projects/reportage/the-wadi/plan-page-74-1969e3c9b7e0.webp",
+      "sha256": "1969e3c9b7e0715efba728ed13d8083c3c06ca3ae95e0d1af03a857b620e47dd",
+      "originalBytes": 3695362,
+      "width": 3600,
+      "height": 2546
+    },
+    {
+      "label": "Original regional map",
+      "area": "Location context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/reportage/the-wadi/plan-brochure-page-8-948ed76e379f.webp",
+      "sha256": "948ed76e379f46278add902cb34691c5241d3b1103956ebea89be9fed526f1db",
+      "originalBytes": 3051714,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/UAE_WADI_BROCHURE_V3.pdf",
+        "label": "The Wadi · original developer brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/the-wadi/floor-plans-brochure-a112da01696f.pdf",
+        "sha256": "a112da01696f670384ae8e861ed39d084f5ca5ae578d616e72cb7d4f13c34294"
+      }
+    },
+    {
+      "label": "Original community masterplan",
+      "area": "Community context",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/reportage/the-wadi/plan-brochure-page-11-a8562c2e2da1.webp",
+      "sha256": "a8562c2e2da159d3c9afa185c777d9a7b857782c572d8bbd382c64a8074384a9",
+      "originalBytes": 4664714,
+      "width": 3600,
+      "height": 1273,
+      "source": {
+        "url": "https://reportagegroup.com/wp-content/uploads/UAE_WADI_BROCHURE_V3.pdf",
+        "label": "The Wadi · original developer brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/reportage/the-wadi/floor-plans-brochure-a112da01696f.pdf",
+        "sha256": "a112da01696f670384ae8e861ed39d084f5ca5ae578d616e72cb7d4f13c34294"
+      }
+    }
+  ]
+}

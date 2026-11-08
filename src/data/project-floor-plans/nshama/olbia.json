@@ -1,0 +1,101 @@
+{
+  "projectId": "nshama-project-04",
+  "projectSlug": "olbia",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2025/08/OLBIA-Floor-Plans-Website-2.pdf",
+    "label": "Nshama Olbia official apartment plans",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/olbia/floor-plans-eb4df2b176f2.pdf",
+    "sha256": "eb4df2b176f2e538b6bbb61a1867e1a63d2e1a1ca626e556b265e027e2eb3218"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the published one-, two- and three-bedroom apartment layouts.",
+  "selectorLabel": "Choose a Olbia apartment layout",
+  "note": "Built-up totals include the balcony. Ranges follow the printed minimum and maximum figures. Confirm the area for the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "636.04–638.73 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/nshama/olbia/plan-page-1-c2bd672f177b.webp",
+      "sha256": "c2bd672f177b44cb7e25200af88983f9832785ea099d60f2d2c6bce9df392448",
+      "originalBytes": 834286,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "1 BR · Type B",
+      "area": "587.06–587.17 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/nshama/olbia/plan-page-2-b627ba0b09d2.webp",
+      "sha256": "b627ba0b09d2e39a5d4f1ef00add24a3c4c4fd2d2e589fb5b26a9423d89093b3",
+      "originalBytes": 765202,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "946.15 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/nshama/olbia/plan-page-3-4b939bb0932f.webp",
+      "sha256": "4b939bb0932fe5ae3e247baa2ad8ac5eb28b1be0be326c21b0a3841028b3247e",
+      "originalBytes": 771666,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "915.90 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/nshama/olbia/plan-page-4-476ddedc7cf1.webp",
+      "sha256": "476ddedc7cf14f82bccdcea5584c567cddfc37147eadf3510064f6d3281c5a6d",
+      "originalBytes": 762954,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type C",
+      "area": "1,021.28 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/nshama/olbia/plan-page-5-79cb5810d39d.webp",
+      "sha256": "79cb5810d39d26f24828536ffaba65e055a8e245a61f08eca7734c9b82534d12",
+      "originalBytes": 835886,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,400.82 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/nshama/olbia/plan-page-6-2d5df1029f56.webp",
+      "sha256": "2d5df1029f5659eb742a7231734ae59c20a4c46bcb8715114df383590039943c",
+      "originalBytes": 685042,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

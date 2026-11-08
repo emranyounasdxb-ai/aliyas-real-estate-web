@@ -1,0 +1,602 @@
+{
+  "projectId": "alef-project-02",
+  "projectSlug": "linar",
+  "developerSlug": "alef",
+  "source": {
+    "url": "https://reelly-backend.s3.amazonaws.com/project_files/85a064d32fd746a080e9ee52c8f61d89.pdf",
+    "label": "Linar A, B and C · original Alef residence drawings, broker-hosted mirror",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/alef/linar/floor-plans-40a7a5e16044.pdf",
+    "sha256": "40a7a5e16044a1020243e3c1994aa0767c672ee011fbe04c73a52afdf468049c"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Compare all published Tower A, B and C layouts, with their original net-area figures.",
+  "selectorLabel": "Choose a tower and complete original drawing",
+  "note": "Forty-three complete residence spreads and the original regional map retain source artwork. Displayed values are printed net areas, including outdoor space where drawn. Gross areas remain separately visible on the sheets. Paired figures describe separate homes. Page 7 incorrectly labels a three-bedroom drawing as two bedrooms. Page 13 uses the mirror code21B.A and omits the standard home total from its visible panel. Page 21 prints 2B.BC alongside mirror2B.C. Masked older tower labels do not override visible final labels. Confirm tower, level, unit, revision and final finishes.",
+  "plans": [
+    {
+      "label": "A · 1 BR 1B.A / mirror",
+      "area": "827.85 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 1,
+      "src": "/images/projects/alef/linar/plan-page-1-6a2c37ab8c19.webp",
+      "sha256": "6a2c37ab8c1908a5270b40583ef675af12154b93081217e961ef19e94caed48b",
+      "originalBytes": 147826,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 1 BR 1B.B / mirror",
+      "area": "907.29 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/alef/linar/plan-page-2-bc4b44248638.webp",
+      "sha256": "bc4b442486384212e4d05b6c88e7b4fd9fe33cb70eb0e85b287501e9e5c88081",
+      "originalBytes": 132558,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 1 BR 1B.C / mirror",
+      "area": "806.32 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/alef/linar/plan-page-3-42b736a9d77d.webp",
+      "sha256": "42b736a9d77d21c23041920d0fc9ab48e4d6bc41096b8d300870432ea2b89b6a",
+      "originalBytes": 114476,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 2 BR 2B.A / mirror",
+      "area": "1,238.06 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/alef/linar/plan-page-4-c2ada7181203.webp",
+      "sha256": "c2ada7181203c25c1b87f9399eac8a9c0fb6fcc7a73d84ed5db5401cc0ea5221",
+      "originalBytes": 170266,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 2 BR 2B.B / mirror",
+      "area": "1,257.33 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/alef/linar/plan-page-5-53628eac5266.webp",
+      "sha256": "53628eac5266d7586e1c3f8b16cd9d91defd18905e4e1d8e31a34b6b2340bd55",
+      "originalBytes": 151852,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 2 BR 2B.C / mirror",
+      "area": "1,488.32 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/alef/linar/plan-page-6-5c4cf273747e.webp",
+      "sha256": "5c4cf273747eb070e1c6d8e03060cabf57909cb1e2627164293a82a535f2822d",
+      "originalBytes": 161888,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 3 BR 3B.A / mirror · source heading error",
+      "area": "1,930.51 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/alef/linar/plan-page-7-51e0b037b15c.webp",
+      "sha256": "51e0b037b15cd2d014ab58759c0a51096e86a35be471be5b0102bef8f6e1620d",
+      "originalBytes": 196654,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 4 BR PH.A / mirror",
+      "area": "3,742.72 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/alef/linar/plan-page-8-b960accd19f3.webp",
+      "sha256": "b960accd19f3f81a760c77c94fea2dae9932645bf18ac64ac8c276581205d3f4",
+      "originalBytes": 166392,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "A · 4 BR PH.B / mirror",
+      "area": "3,433.79 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/alef/linar/plan-page-9-58a3911f5b53.webp",
+      "sha256": "58a3911f5b5345f95688e7ca2fc3bf75b95c85b7529868fac0583c551c781b13",
+      "originalBytes": 142472,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 1 BR 1B.A / mirror",
+      "area": "830.43 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/alef/linar/plan-page-10-8eaf6ece98f8.webp",
+      "sha256": "8eaf6ece98f81bfc0b7020febe6cf8d8e59ea0900342382e65b60cba63e848fe",
+      "originalBytes": 138600,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 1 BR 1B.B / mirror",
+      "area": "906.86 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/alef/linar/plan-page-11-56c92bee63c6.webp",
+      "sha256": "56c92bee63c6ce511616324d565342079c33aac13c515718aef6432786d3487e",
+      "originalBytes": 109296,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 1 BR 1B.C / mirror",
+      "area": "807.29 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/alef/linar/plan-page-12-0197d4c4f8c7.webp",
+      "sha256": "0197d4c4f8c76ba71c32d1a9f58854a70c2d20c57b6b71cd65b6ca8dc6efd5a3",
+      "originalBytes": 98146,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.A / source 21B.A mirror",
+      "area": "Mirror · 1,237.53 sq ft net / standard · visible total missing",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/linar/plan-page-13-8149d853afa9.webp",
+      "sha256": "8149d853afa9f6900ac203b35547d750991f79acb51283978455e29d2659c5bb",
+      "originalBytes": 170332,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.A1 / mirror",
+      "area": "1,487.03 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/alef/linar/plan-page-14-bf6f25f39bde.webp",
+      "sha256": "bf6f25f39bde842aaedfa1758127db9bdd91b75310226a922dcbb5fd62a137e9",
+      "originalBytes": 165194,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.A2 / 2B.A3",
+      "area": "A2 · 1,507.91 sq ft net / A3 · 1,441.39 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/alef/linar/plan-page-15-9e987c71aee1.webp",
+      "sha256": "9e987c71aee1e89b18b9332757d599db64a0e476fd8e1299f7e9198efb146a69",
+      "originalBytes": 163732,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR garden 2B.AG / mirror",
+      "area": "3,520.98 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/alef/linar/plan-page-16-a376374de75d.webp",
+      "sha256": "a376374de75db83ebc5201134090ac016efcf4e05e275a5fb3ec55358434b86a",
+      "originalBytes": 115142,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.B / mirror",
+      "area": "1,253.13 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/alef/linar/plan-page-17-bbb7ffdd3c11.webp",
+      "sha256": "bbb7ffdd3c11c112f8ad34010dd9531c927e44c314e2f6dee865ddf58adece91",
+      "originalBytes": 140516,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.B1 / 2B.B2 mirror",
+      "area": "B1 · 1,264.11 sq ft net / B2 · 1,358.83 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/alef/linar/plan-page-18-aa1e1daac0a0.webp",
+      "sha256": "aa1e1daac0a0e1585075fc184b7d2d2550b7f1b387fc298dd38846e2325f0dca",
+      "originalBytes": 149672,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.B3 / mirror",
+      "area": "1,291.88 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/alef/linar/plan-page-19-091fb8e665fb.webp",
+      "sha256": "091fb8e665fbf9e0c71408b7e52b0c8feeed9974f85f6c6f9a912905d58aa459",
+      "originalBytes": 145454,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR garden 2B.BG / mirror",
+      "area": "2,183.67 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/alef/linar/plan-page-20-ccd65007b808.webp",
+      "sha256": "ccd65007b808b823718bf3fd287dd8ae325ab9fd765f77463d64a77ec0528832",
+      "originalBytes": 105038,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.C mirror / source 2B.BC",
+      "area": "1,494.89 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/alef/linar/plan-page-21-7429a4f1aad9.webp",
+      "sha256": "7429a4f1aad9759e5d277164a07f471b5586227e62052000e3d7e763f210da21",
+      "originalBytes": 154318,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 2 BR 2B.C1 / mirror",
+      "area": "1,744.61 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/alef/linar/plan-page-22-71283ddc9c4f.webp",
+      "sha256": "71283ddc9c4fd4aba582763a46592062c7d18cb74d551192d164e0940aae6f19",
+      "originalBytes": 155854,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 3 BR 3B.A mirror",
+      "area": "1,939.22 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/alef/linar/plan-page-23-61362d1e5c0a.webp",
+      "sha256": "61362d1e5c0a8bab8100aa26d1837f510299fe815ca8c9d3670fc86f40dcab21",
+      "originalBytes": 116202,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 3 BR 3B.A / 3B.A1 mirror",
+      "area": "A · 1,939.22 sq ft net / A1 · 2,204.88 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/alef/linar/plan-page-24-d2828c5303d2.webp",
+      "sha256": "d2828c5303d24794e0ea8035aa4003f2f138d4f51b52681c34efef8f37515408",
+      "originalBytes": 180552,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 3 BR 3B.A3 / 3B.A1",
+      "area": "A3 · 2,144.06 sq ft net / A1 · 2,204.88 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/alef/linar/plan-page-25-be07a66b202b.webp",
+      "sha256": "be07a66b202bfe7eeb755a86f9ace2597556793b516b28995e5f167fb3cbebef",
+      "originalBytes": 184512,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 4 BR PH.A / mirror",
+      "area": "3,740.02 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/alef/linar/plan-page-26-cc56040a56bb.webp",
+      "sha256": "cc56040a56bb43137d6f3b6997effde5d76a19799104a5419d40ca7308f18a88",
+      "originalBytes": 173632,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "B · 4 BR PH.B / mirror",
+      "area": "3,439.07 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/alef/linar/plan-page-27-2418a58cd5dc.webp",
+      "sha256": "2418a58cd5dc1de8f84c1770bf8f867b77081c72708f571bb888533bc70961c2",
+      "originalBytes": 140690,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 1 BR 1B.A / mirror",
+      "area": "830.43 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/alef/linar/plan-page-28-bc062ef907f4.webp",
+      "sha256": "bc062ef907f494459c76ee00c4d218fe130e011773388aa27e752489da59d696",
+      "originalBytes": 116320,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 1 BR 1B.B / mirror",
+      "area": "906.86 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/alef/linar/plan-page-29-cd7d2d1f19dd.webp",
+      "sha256": "cd7d2d1f19ddc88446604b9c32f5fe3965e405db3ec3aa919f317ea5beaf37a3",
+      "originalBytes": 103868,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 1 BR 1B.C / mirror",
+      "area": "807.29 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/alef/linar/plan-page-30-c753bc243317.webp",
+      "sha256": "c753bc243317f2a78b6d34f13c55480863a8b1aec663b8e4e50f182a9ac765f8",
+      "originalBytes": 104810,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.A / mirror",
+      "area": "1,237.53 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/alef/linar/plan-page-31-6929e64a5e2a.webp",
+      "sha256": "6929e64a5e2a7054b7c85d296d3466ec25c47f9b7752f67dc3a0093bd2e60939",
+      "originalBytes": 170986,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.A1 / mirror",
+      "area": "1,487.03 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/alef/linar/plan-page-32-9bb532f2323f.webp",
+      "sha256": "9bb532f2323f4f6105f1904c33122723c6a806be02b593c4727b45009d711c0a",
+      "originalBytes": 161140,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.A2 mirror / 2B.A3",
+      "area": "A2 · 1,507.91 sq ft net / A3 · 1,441.39 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/alef/linar/plan-page-33-1c68d8315a12.webp",
+      "sha256": "1c68d8315a12555a9c3b40b62499801b71639c3ba6437b42e8a6b0d4f3bbd56c",
+      "originalBytes": 162234,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.B / mirror",
+      "area": "1,253.13 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/alef/linar/plan-page-34-920ae866a862.webp",
+      "sha256": "920ae866a8625791e610a36139ad540d56d2c525a45c06fd6d544e41bf1f6115",
+      "originalBytes": 138880,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.B1 mirror / 2B.B2",
+      "area": "B1 · 1,264.11 sq ft net / B2 · 1,358.83 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/alef/linar/plan-page-35-5d47bd1fe809.webp",
+      "sha256": "5d47bd1fe8093c334a9044960ac6f79d0b724f786a0dc962e371716103fa361f",
+      "originalBytes": 145822,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.B3 / mirror",
+      "area": "1,291.88 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/alef/linar/plan-page-36-b425e4751759.webp",
+      "sha256": "b425e47517599025710fac2476a91ecee6d33753671c1f84d8a7528bd55bd43c",
+      "originalBytes": 156148,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.C / mirror",
+      "area": "1,494.89 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 37,
+      "src": "/images/projects/alef/linar/plan-page-37-91b0a43beed5.webp",
+      "sha256": "91b0a43beed5697a6fe16c1b1f71b18f41d79e47d136facecb7553df253ceb07",
+      "originalBytes": 154812,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 2 BR 2B.C1 / mirror",
+      "area": "1,744.61 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 38,
+      "src": "/images/projects/alef/linar/plan-page-38-f761651a0797.webp",
+      "sha256": "f761651a079791574b419bf25ed65ea28b5b7b0d0ef3f4f587ad034377d25e99",
+      "originalBytes": 154224,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 3 BR 3B.A mirror",
+      "area": "1,939.22 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 39,
+      "src": "/images/projects/alef/linar/plan-page-39-db99ae6420a2.webp",
+      "sha256": "db99ae6420a2bac6feac0e84bfc5e8659ff424d7f8c4f89d9291e3b51abd9aea",
+      "originalBytes": 116722,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 3 BR 3B.A / 3B.A1 mirror",
+      "area": "A · 1,939.22 sq ft net / A1 · 2,204.88 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 40,
+      "src": "/images/projects/alef/linar/plan-page-40-08d1c4767d41.webp",
+      "sha256": "08d1c4767d41a09af52e7973c95e930d88b1cf3e4cb218a404d8e8e7b754f6e8",
+      "originalBytes": 169714,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 3 BR 3B.A1 / 3B.A3",
+      "area": "A1 · 2,204.88 sq ft net / A3 · 2,144.06 sq ft net",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 41,
+      "src": "/images/projects/alef/linar/plan-page-41-5775d2348d6e.webp",
+      "sha256": "5775d2348d6e3bc968985d6e831d732a303422ad8b9f9b242ff445181b2c86a0",
+      "originalBytes": 170492,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 4 BR PH.A / mirror",
+      "area": "3,740.02 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 42,
+      "src": "/images/projects/alef/linar/plan-page-42-2239b56a9a83.webp",
+      "sha256": "2239b56a9a831c634ffcf731a2aed1f2ce4e6dcdccebd57a3734511dce4233c3",
+      "originalBytes": 174532,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "C · 4 BR PH.B / mirror",
+      "area": "3,439.07 sq ft net each",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 43,
+      "src": "/images/projects/alef/linar/plan-page-43-8275c276f1b7.webp",
+      "sha256": "8275c276f1b7d09f74cb4869942f3784d0dc5b1dd77f72b9902dc0e7043de6fa",
+      "originalBytes": 141000,
+      "width": 3600,
+      "height": 1800
+    },
+    {
+      "label": "Linar · original brochure regional map",
+      "area": "Regional context, no home total",
+      "sourceIds": [
+        "plans-brochure"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/alef/linar/plan-brochure-page-13-a175a7d80a7c.webp",
+      "sha256": "a175a7d80a7c06b1534dd4cb5e7c7477133d17f6be5e482282e07f80464c152d",
+      "originalBytes": 2445348,
+      "width": 3600,
+      "height": 1800,
+      "source": {
+        "url": "https://www.alefgroup.ae/wp-content/uploads/2026/06/Linar-Brochure-web.pdf",
+        "label": "Linar · original Alef June2026 brochure",
+        "reviewedOn": "2026-11-07",
+        "pdf": "/images/projects/alef/linar/floor-plans-brochure-785a50b9b7bf.pdf",
+        "sha256": "785a50b9b7bf459649774666a681afb1faceeb21bfc289392d88cf2ec44e72fc"
+      }
+    }
+  ]
+}

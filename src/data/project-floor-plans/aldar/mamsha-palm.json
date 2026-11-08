@@ -1,0 +1,101 @@
+{
+  "projectId": "aldar-project-13",
+  "projectSlug": "mamsha-palm",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://asset.aldar.com/damascus/brochures/Mamsha-Palm.pdf",
+    "label": "Aldar Mamsha Palm brochure and plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/aldar/mamsha-palm/floor-plans-1eae2329a5d6.pdf",
+    "sha256": "1eae2329a5d62069e0ab19de72a9c19fc95554ba9702486b89f16662dd1bca8d"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Open the published apartment plans and both levels of the four-bedroom duplex. Some spreads show two layouts together.",
+  "selectorLabel": "Choose a Mamsha Palm floor plan",
+  "note": "The sheets label room dimensions and some balcony areas. Confirm the total area and signed drawing for the residence. Building floorplates are in the original brochure.",
+  "plans": [
+    {
+      "label": "1 BR · Types 1 and 2",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-29-66a1fe5998ab.webp",
+      "sha256": "66a1fe5998ab3a3f385f5dd89e8546076dcc5020b8dc2499cacc615e8d71f89c",
+      "originalBytes": 270258,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "1 BR Type 3 and 2 BR Type 1",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-30-10a11a6267b3.webp",
+      "sha256": "10a11a6267b3672f635a2a643565d59d129a3d0103fdd6d51c34b6507efccf65",
+      "originalBytes": 303518,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "2 BR · Type 2",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 31,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-31-817362ae22e6.webp",
+      "sha256": "817362ae22e6feaa7207bf13010d8f112f03014ff2b1ef3e50d909f430d70201",
+      "originalBytes": 458938,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "2 BR · Type 3",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 32,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-32-d027709df8af.webp",
+      "sha256": "d027709df8afc5bbf4a2faa17aea42c30504a860fcbe6949063c82701702be47",
+      "originalBytes": 370592,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "3 BR + maid · Types 1 and 2",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 33,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-33-1a4b4ba0cb96.webp",
+      "sha256": "1a4b4ba0cb96959297b174dcf927e768c91381ce6b6241b5a9914f2a1cb4f41d",
+      "originalBytes": 382374,
+      "width": 2400,
+      "height": 1200
+    },
+    {
+      "label": "4 BR + maid duplex · Both levels",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 34,
+      "src": "/images/projects/aldar/mamsha-palm/plan-page-34-b8f01a601e4f.webp",
+      "sha256": "b8f01a601e4fe786297cfbd599e188b9ac5e5c437df6260debce39360682096a",
+      "originalBytes": 433528,
+      "width": 2400,
+      "height": 1200
+    }
+  ]
+}

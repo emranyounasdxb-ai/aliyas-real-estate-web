@@ -1,0 +1,60 @@
+{
+  "projectId": "wasl-project-08",
+  "projectSlug": "south-garden",
+  "developerSlug": "wasl",
+  "checkedOn": "2026-11-07",
+  "community": "Wasl Gate, Jebel Ali, Dubai",
+  "road": "Near Sheikh Zayed Road and Energy Metro Station",
+  "pin": null,
+  "map": {
+    "src": "/images/projects/wasl/south-garden/location-71ded3d45993.png",
+    "sha256": "71ded3d459930ef6057c8505a07d39e1ee3d1c1012c6ded8c2f6287df38583cb",
+    "originalBytes": 915397,
+    "width": 3200,
+    "height": 1800,
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=4",
+    "alt": "Wasl regional map identifying the Wasl Gate community and surrounding Dubai destinations.",
+    "scope": "Community-level regional schematic. It does not establish a particular building entrance or live transport conditions.",
+    "caption": "Wasl Gate regional context · original South Garden D/E brochure."
+  },
+  "sourceLabel": "Wasl South Garden D/E brochure",
+  "travel": {
+    "sourceUrl": "https://prod-waslcdn.wasl.ae/waslae-filesystem/2025-08/SGII%20Brochure%20V13-compressed%20%281%29.pdf#page=5",
+    "scope": "Published D/E brochure estimates. Mode, exact destination entrances, route and traffic are unspecified.",
+    "destinations": [
+      {
+        "name": "Energy Metro Station",
+        "minutes": 1
+      },
+      {
+        "name": "Festival Plaza / IKEA / ACE",
+        "minutes": 5
+      },
+      {
+        "name": "Expo City Dubai",
+        "minutes": 10
+      },
+      {
+        "name": "Dubai Marina",
+        "minutes": 15
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "minutes": 20
+      },
+      {
+        "name": "Mall of the Emirates",
+        "minutes": 20
+      },
+      {
+        "name": "Palm Jebel Ali",
+        "minutes": 25
+      },
+      {
+        "name": "Dubai International Airport",
+        "minutes": 30
+      }
+    ]
+  },
+  "travelNote": "The current project guide instead lists Marina at 20 minutes, Al Maktoum Airport at 15 and Mall of the Emirates at 25. These source estimates conflict. Confirm the selected building entrance and live route. Directions use the project name."
+}

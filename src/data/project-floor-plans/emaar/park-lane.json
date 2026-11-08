@@ -1,0 +1,2387 @@
+{
+  "projectId": "emaar-project-62",
+  "projectSlug": "park-lane",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PARK-LANE_floorplan.pdf",
+    "label": "Emaar Park Lane podium original floor plans",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/park-lane/floor-plans-dd642f206800.pdf",
+    "sha256": "dd642f2068004ccffb98248c99d969f26f2674d1a1bc542a2a956569ec9a2595"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one- to three-bedroom apartment layouts and three-bedroom townhouses across the podium and six buildings. The complete sheet lists all unit numbers for each area.",
+  "selectorLabel": "Choose a Park Lane building and layout",
+  "note": "The Building 1B pack has a conflicting 1A heading for unit 2006, while the key plan says 1B. Confirm its building and signed plan before relying on it. Some printed totals differ from the displayed components by 0.01 sq ft.",
+  "plans": [
+    {
+      "label": "Podium · 3 BR · Type 1.2 · G-01",
+      "area": "2,203.48 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-page-2-64351f57d1be.webp",
+      "sha256": "64351f57d1bebec9fb598e12a5684a68b615e585e5d246764ff02206a1b93787",
+      "originalBytes": 530342,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · 3 BR · Type 1.2 mirror · G-06",
+      "area": "2,142.23 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-page-3-241d014d5a3c.webp",
+      "sha256": "241d014d5a3cf463d2344d3a4d59e5770b105a957fc0e05bd02b5081fadf5c9e",
+      "originalBytes": 531548,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · 1 BR · Type 1.3 · G-02",
+      "area": "852.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-page-4-8237cc0e08f7.webp",
+      "sha256": "8237cc0e08f74232b5e2e8e87c327c2d79205a10179e7e3f611385135a9ab85d",
+      "originalBytes": 285500,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · 1 BR · Type 1.3 mirror · G-05",
+      "area": "852.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-page-5-d7535a819ed2.webp",
+      "sha256": "d7535a819ed244be069a19e3b10a9fc76c7f402bfa25b1ab0b8350d66dba717e",
+      "originalBytes": 286342,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · 1 BR · Type 1.4 · G-03",
+      "area": "759.93 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-page-6-1b8aaa53718b.webp",
+      "sha256": "1b8aaa53718bf87a8aff93507fa70d3fd2b9e0e21e7fbbacd196e56763a33fb1",
+      "originalBytes": 269720,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · 1 BR · Type 1.4 mirror · G-04",
+      "area": "757.99 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-page-7-47aadac41e70.webp",
+      "sha256": "47aadac41e708a1ad8ba571a2ce990af4f8735644778757df44af219ff319002",
+      "originalBytes": 269606,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · Townhouse · Type 1 · TH-01 / TH-03",
+      "area": "2,602.39 sq ft (unit TH-01) / 2,587.54 sq ft (unit TH-03)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-page-8-2c61938535a4.webp",
+      "sha256": "2c61938535a4a6549a79ef0529074b81fd666fd699c40bde5f260902ea53c407",
+      "originalBytes": 542992,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Podium · Townhouse · Type 1 mirror · TH-02 / TH-04",
+      "area": "2,587.97 sq ft (unit TH-02) / 2,598.19 sq ft (unit TH-04)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-page-9-0e2686cc6107.webp",
+      "sha256": "0e2686cc61078bc72ed184fef6e58e93c43aa75989e5635b4da2b3907834c1df",
+      "originalBytes": 544754,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1A · 1 BR · Type 1 · 109",
+      "area": "656.81 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-2-3470028dd3ca.webp",
+      "sha256": "3470028dd3ca45ae4a45e407713ba5768f1413aff7501fae9af8a5945f2f5258",
+      "originalBytes": 295116,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 1 mirror · 101",
+      "area": "658.43 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-3-9d95662a01c2.webp",
+      "sha256": "9d95662a01c223b49e80f8f36c0c0ac152e42891b6d16ae98e78c83dcfad5266",
+      "originalBytes": 296654,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 1 mirror · 1806 / 206",
+      "area": "650.89 sq ft (unit 1806) / 651.54 sq ft (units 206, 306 + 15 on sheet)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-4-9bb49448817f.webp",
+      "sha256": "9bb49448817f4dd33da84c6884e6eed9b25436af263f02121ccc4aca7c550704",
+      "originalBytes": 283042,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 1A · 202 / 102",
+      "area": "758.53 sq ft (units 202, 302 + 15 on sheet) / 759.18 sq ft (units 102, 1902 + 2 on sheet)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-5-ab624f352dec.webp",
+      "sha256": "ab624f352dec6182eb91029dd88bcacb39e29d312714e2638492cacf54fbc530",
+      "originalBytes": 335540,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 1.1 mirror · 106",
+      "area": "968.54 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-6-de8e54feee22.webp",
+      "sha256": "de8e54feee2210640dd5f8e403bf482dc8db50f22d42b1a2dd07ef060bc2bcff",
+      "originalBytes": 295876,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 02 · 1804",
+      "area": "730.12 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-7-5fd85e710148.webp",
+      "sha256": "5fd85e710148e9fa38686bc63576ba7297bb51b5c5e3f23ae017ad52b5d5df3a",
+      "originalBytes": 256286,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 2.1 · 1904 / 2004",
+      "area": "657.67 sq ft (unit 1904) / 649.82 sq ft (units 2004, 2104)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-8-030c637ed488.webp",
+      "sha256": "030c637ed4886e8247175a63d09bd2ec0acfe6c41246e0302ec65287113df6fc",
+      "originalBytes": 259322,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 03 · 2006",
+      "area": "686.09 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-9-b560ccbfc2f3.webp",
+      "sha256": "b560ccbfc2f377e1cd8aa1373634520a95f198250e3bb9e220ece394e6abdcc0",
+      "originalBytes": 248732,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 3.1 · 2106",
+      "area": "606.98 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-10-49dedae0aad6.webp",
+      "sha256": "49dedae0aad6bd28bf9ea49d5e06658a232c6f16570deda58b8196946d34af12",
+      "originalBytes": 239442,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 1 BR · Type 04 · 104",
+      "area": "935.92 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-11-f1eeaf80b10b.webp",
+      "sha256": "f1eeaf80b10bc45532ca95e2179ef4223cdec5045cb5d7348e5a1fe78987fcf0",
+      "originalBytes": 267808,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1 · 108 / 203",
+      "area": "1,121.06 sq ft (units 108, 208 + 17 on sheet) / 1,129.78 sq ft (units 203, 303 + 14 on sheet)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-12-f867e62dca72.webp",
+      "sha256": "f867e62dca725fff982d3653f5c4fc040ef722eb5eff0b5b7a3c1eb10bd0a3fb",
+      "originalBytes": 386672,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1 · 2008 / 2108",
+      "area": "1,123.00 sq ft (unit 2008) / 1,122.25 sq ft (unit 2108)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-13-fc85aff709aa.webp",
+      "sha256": "fc85aff709aaf14815ce39429a5913dc82d9348773a7882220483c9ab98e82de",
+      "originalBytes": 359048,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1.1 · 103",
+      "area": "1,692.41 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-14-b7996c603d00.webp",
+      "sha256": "b7996c603d004648916cc0818b8e0360f302de0d0f30740a194e7590b26c7ddd",
+      "originalBytes": 409758,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1A · 204 / 205",
+      "area": "1,036.56 sq ft (units 204, 304 + 14 on sheet) / 1,040.22 sq ft (units 205, 305 + 15 on sheet)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-15-72e2eab71949.webp",
+      "sha256": "72e2eab719492c5f7f1a30ebb77c5a73682f8cc5f72ca0aefdb5edada06d5788",
+      "originalBytes": 355700,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1A · 1805",
+      "area": "1,041.73 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-16-8dc5ab11609d.webp",
+      "sha256": "8dc5ab11609dc604a77353f4298b8b1e7a7e2e5a41c18b513ca23148e9c758ed",
+      "originalBytes": 327950,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 1A.1 · 105",
+      "area": "1,574.76 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-17-40a1fd93ff80.webp",
+      "sha256": "40a1fd93ff80f03a04c46c75a38da388d4658dc7abd7a75cc90a0dd18b9511ec",
+      "originalBytes": 375998,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 2 · 1803",
+      "area": "1,504.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-18-733723ae130d.webp",
+      "sha256": "733723ae130dfa2395219e253efc84e31c8d49fa99ce6b0c73538c9709c30e29",
+      "originalBytes": 409754,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 2.1 · 1903 / 2003",
+      "area": "1,308.14 sq ft (unit 1903) / 1,307.60 sq ft (units 2003, 2103)",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-19-1e6277156df7.webp",
+      "sha256": "1e6277156df76f144cafe356caed5159910238f74e5aaa7c42857aff72b32a7d",
+      "originalBytes": 394562,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 3 · 2005",
+      "area": "1,089.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-20-8acc0b436e07.webp",
+      "sha256": "8acc0b436e07b5627135ef8a8ffe72dea5dd7b5b6564ed84226eb39d7d6a0903",
+      "originalBytes": 321460,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 3.1 · 2105",
+      "area": "923.01 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-21-d757f2ddb111.webp",
+      "sha256": "d757f2ddb11105d5ce950c289b66c95bcccaec2af4e293bf5dc1042e9b4a5dd9",
+      "originalBytes": 306250,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 4 · 2007",
+      "area": "1,717.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-22-882f31f20bb6.webp",
+      "sha256": "882f31f20bb6f92b21eae161bee6bf803705637deb61381066333b1c53b1654b",
+      "originalBytes": 466626,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 2 BR · Type 4.1 · 2107",
+      "area": "1,056.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-23-ab5c1c91609e.webp",
+      "sha256": "ab5c1c91609e384b77ef1a9063c1bbb3573b8d296a7cbaee6001be5c72de7026",
+      "originalBytes": 361504,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 3 BR · Type 1 · 207",
+      "area": "1,523.42 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-24-0b187421fa1e.webp",
+      "sha256": "0b187421fa1e52fc6ebc4423de13d24f5594fe891e1af70bd018b1e641b37e0c",
+      "originalBytes": 505102,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1A · 3 BR · Type 1.1 · 107",
+      "area": "2,129.53 sq ft total area",
+      "sourceIds": [
+        "plans-building-1a"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/park-lane/plan-building-1a-page-25-ced213f7b592.webp",
+      "sha256": "ced213f7b5923ca4bf4f0300536b06beacccb36f030cf4f66a2a5b7e258eeb5e",
+      "originalBytes": 560994,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1A.pdf",
+        "label": "Emaar Park Lane Building 1A floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1a-7b0391a296f3.pdf",
+        "sha256": "7b0391a296f314b2d79b8447713d928dd7b522505c383beb38450cc96c0152d3"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 1 · 209 / 107",
+      "area": "656.81 sq ft (units 209, 309 + 18 on sheet) / 657.46 sq ft (unit 107)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-2-d8e314b61342.webp",
+      "sha256": "d8e314b613429868d55fde7c009fac2ceff0963d58663826073fa7bacdf6c7f5",
+      "originalBytes": 437184,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 1 mirror · 101",
+      "area": "658.43 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-3-a3ad2cf5bd4b.webp",
+      "sha256": "a3ad2cf5bd4bba64c1d27b8bbf00f59bb083d772c85d261dc6853a8b9421bf45",
+      "originalBytes": 429014,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 1 mirror · 1806 / 206",
+      "area": "650.89 sq ft (unit 1806) / 651.54 sq ft (units 206, 306 + 15 on sheet)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-4-b1fee0e5feea.webp",
+      "sha256": "b1fee0e5feea69ac4dac2c1c4a1bbe0491824f610251e530e577851e28f75449",
+      "originalBytes": 411666,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 1A · 202 / 102",
+      "area": "758.53 sq ft (units 202, 302 + 14 on sheet) / 759.07 sq ft (units 102, 1702 + 3 on sheet)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-5-8992d801b85a.webp",
+      "sha256": "8992d801b85a4a3ad1b05dc1d508d4701245545283700d2e962ad0df0412d6b3",
+      "originalBytes": 479306,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 1.1 mirror · 104",
+      "area": "965.31 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-6-f89d393b293c.webp",
+      "sha256": "f89d393b293cd8ccfb508d0d7edf477872702b631b769c7ab1ec528dc3a2d77f",
+      "originalBytes": 493906,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 02 · 1804",
+      "area": "730.12 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-7-5b0fdef22dbb.webp",
+      "sha256": "5b0fdef22dbb0aa093865a77ccde8618f61126d0c58862378f9237cf53ca8808",
+      "originalBytes": 388834,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 2.1 · 1904",
+      "area": "649.92 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-8-0feb5db3a973.webp",
+      "sha256": "0feb5db3a9730f164fdff8e23b0d3eda6883bba25ef307004d2ad9ef70255356",
+      "originalBytes": 386650,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B pack (label conflict) · 1 BR · Type 03 · 2006",
+      "area": "686.09 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-9-01702463dac3.webp",
+      "sha256": "01702463dac38e68fd7a32c018c65215297eb185af8284f9b68684dc88a4ded4",
+      "originalBytes": 368614,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 1 BR · Type 3.1 · 2106",
+      "area": "606.98 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-10-68612273f7d2.webp",
+      "sha256": "68612273f7d25dd2aebaaee02893aa1da6fdd9ae36ba471b275d50a3a8b00e4a",
+      "originalBytes": 350336,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 1 · 106 / 203",
+      "area": "1,121.06 sq ft (units 106, 208 + 17 on sheet) / 1,129.89 sq ft (units 203, 303 + 14 on sheet)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-11-1301bbf022e9.webp",
+      "sha256": "1301bbf022e98fb8302b85fc7d63f501a71e841c1748bf27988bbe4dd17f443f",
+      "originalBytes": 583974,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 1 · 2008 / 2108",
+      "area": "1,123.11 sq ft (unit 2008) / 1,122.25 sq ft (unit 2108)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-12-033df97c7a3a.webp",
+      "sha256": "033df97c7a3aac2829e5b19b404be3ed1d93cb9f704fb6c64f4ac4f3e73499be",
+      "originalBytes": 559224,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 1A · 204 / 205",
+      "area": "1,036.56 sq ft (units 204, 304 + 14 on sheet) / 1,040.44 sq ft (units 205, 305 + 15 on sheet)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-13-d4bb21ca8970.webp",
+      "sha256": "d4bb21ca8970d8c0ad774bf84179f786aa5fb33cc4fa328caa53daa8f000de12",
+      "originalBytes": 531768,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 1A · 1805",
+      "area": "1,041.73 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-14-fa0dbc438256.webp",
+      "sha256": "fa0dbc4382566b455e39bc44b383e7717339a55524e6e8cf884881db553be769",
+      "originalBytes": 519934,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 1A.1 · 103",
+      "area": "1,566.47 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-15-8b1b32bf0032.webp",
+      "sha256": "8b1b32bf00324f37a0caaf7666c32f02d8973d055c9cd001dee346da74e5c4f3",
+      "originalBytes": 656448,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 2 · 1803",
+      "area": "1,504.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-16-211d8f6e9093.webp",
+      "sha256": "211d8f6e9093ccc1b050f061b0ebcf708894486d175bacd2925df59628e6dc28",
+      "originalBytes": 681076,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 2.1 · 1903",
+      "area": "1,307.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-17-10594fec0a58.webp",
+      "sha256": "10594fec0a58be92712bdc9a5412f257af6c55c853814f8f16c997aad5f263b2",
+      "originalBytes": 632986,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 3 · 2005",
+      "area": "1,089.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-18-8a6425da1d18.webp",
+      "sha256": "8a6425da1d18876b190cf9e275e7e212e557962770b56b5e93c8406d5ae0a12e",
+      "originalBytes": 510102,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 3.1 · 2105",
+      "area": "922.90 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-19-d8bb9bd1a72d.webp",
+      "sha256": "d8bb9bd1a72d63e444d4b51af7a1e5bd5b5d5a66e9f2b3cba90ea2bd48531a7d",
+      "originalBytes": 452072,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 4 · 2007",
+      "area": "1,717.81 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-20-7fbf05971872.webp",
+      "sha256": "7fbf0597187239332ca3131af200f5a5d0ccb96013636dfc8eb64acfaf99120e",
+      "originalBytes": 810408,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 2 BR · Type 4.1 · 2107",
+      "area": "1,056.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-21-d4aeec500624.webp",
+      "sha256": "d4aeec500624dc927c55f073fd490f6fa34be6ace0e9174dd7a762096342c7d8",
+      "originalBytes": 576700,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 3 BR · Type 1 · 1707 / 207",
+      "area": "1,524.06 sq ft (unit 1707) / 1,523.42 sq ft (units 207, 307 + 15 on sheet)",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-22-926c468a9210.webp",
+      "sha256": "926c468a9210bd13e13f759c2fd26745a79324408dff5d5a6a4be4d3ee439621",
+      "originalBytes": 805228,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "1B · 3 BR · Type 1.1 · 105",
+      "area": "2,117.48 sq ft total area",
+      "sourceIds": [
+        "plans-building-1b"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/park-lane/plan-building-1b-page-23-3bc6aa5c9e6a.webp",
+      "sha256": "3bc6aa5c9e6ac0bc54c8aab81faf814f512005fd79c079b80677a71577e1b86a",
+      "originalBytes": 968994,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_1B.pdf",
+        "label": "Emaar Park Lane Building 1B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-1b-e4ec2ee1fd0c.pdf",
+        "sha256": "e4ec2ee1fd0c30c6467e5a2141d30ca973d4d2b59c4ba066be5b55a8c19d75c1"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 1 · 109 / 204",
+      "area": "658.54 sq ft (units 109, 209 + 14 on sheet) / 651.00 sq ft (units 204, 304 + 11 on sheet)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-2-c5c08747a3b4.webp",
+      "sha256": "c5c08747a3b405e10cb21027e69424e249efe4b13644bec3fe596faa275dff87",
+      "originalBytes": 477506,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 1 mirror · 101",
+      "area": "656.71 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-3-6c4a08a4e506.webp",
+      "sha256": "6c4a08a4e506667d0c0c091843fdb53a2b643231bff6156b84847f9d438736eb",
+      "originalBytes": 464728,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 1.1 · 104",
+      "area": "950.45 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-4-e7ee13fca5c7.webp",
+      "sha256": "e7ee13fca5c7934ca81adab358584e75fb29f532478cbdc059bb987da8f4e5a3",
+      "originalBytes": 501026,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 1A mirror · 108 / 208",
+      "area": "759.07 sq ft (units 108, 1408 + 2 on sheet) / 758.75 sq ft (units 208, 308 + 10 on sheet)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-5-05509ae82d7b.webp",
+      "sha256": "05509ae82d7b5990f9383357b81b5ebbe02a663a7f50391a325c36f8d35152ff",
+      "originalBytes": 503790,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 02 mirror · 1306",
+      "area": "730.12 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-6-1e11cb7b57c4.webp",
+      "sha256": "1e11cb7b57c4b37e766b16712d26a49c176a1cd712dd299c149eab3fd1517126",
+      "originalBytes": 400828,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 2.1 mirror · 1406 / 1506",
+      "area": "657.67 sq ft (unit 1406) / 649.82 sq ft (units 1506, 1606)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-7-bed69e7a0cae.webp",
+      "sha256": "bed69e7a0cae8434249630a0de6f5a8047926ee84d2ce8c7f44dfe0b76598290",
+      "originalBytes": 406164,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 03 mirror · 1504",
+      "area": "686.09 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-8-ede427e48299.webp",
+      "sha256": "ede427e482990d0e38889eaf36f9da5b0036c952774d97acaa1bab3ad6d6a1f0",
+      "originalBytes": 378624,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 3.1 mirror · 1604",
+      "area": "606.98 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-9-e98d186cc171.webp",
+      "sha256": "e98d186cc17148d5d237f689a9372f3aa7d4136d4be03f98b337480ca35a84c8",
+      "originalBytes": 361306,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 1 BR · Type 04 mirror · 106",
+      "area": "915.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-10-641b09747912.webp",
+      "sha256": "641b09747912b2ed92dc8bd1fa5e3044a0200af257e46f15f26db405ebe4a600",
+      "originalBytes": 442296,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1 mirror · 102 / 207",
+      "area": "1,121.06 sq ft (units 102, 202 + 12 on sheet) / 1,130.00 sq ft (units 207, 307 + 9 on sheet)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-11-46f9d00e92eb.webp",
+      "sha256": "46f9d00e92eb886f6d1f1380b23cd493784a4361a2331d831bf385a0522e5847",
+      "originalBytes": 621048,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1 mirror · 1502",
+      "area": "1,123.11 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-12-db94f6137b9a.webp",
+      "sha256": "db94f6137b9aa99e027472b85710501758e306ce386f09cab6266a3ccb4c1c95",
+      "originalBytes": 574288,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1.1 mirror · 107",
+      "area": "1,666.90 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-13-e256749a1753.webp",
+      "sha256": "e256749a1753bae0a6b05fb657825580fe67ad00d26c81c376c16068e8a5c3d4",
+      "originalBytes": 698250,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1A mirror · 205 / 206",
+      "area": "1,040.44 sq ft (units 205, 305 + 10 on sheet) / 1,036.67 sq ft (units 206, 306 + 9 on sheet)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-14-7f524f2e60db.webp",
+      "sha256": "7f524f2e60db5e1f46ed2b28c9ba4aef10d59aa94ed5ec17eb3f9055bd7bc7ac",
+      "originalBytes": 547992,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1A mirror · 1305",
+      "area": "1,041.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-15-93e669eba14d.webp",
+      "sha256": "93e669eba14df319d603d7d06f5427131717df0be7af9af31f10768ea58e5496",
+      "originalBytes": 527732,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 1A.1 mirror · 105",
+      "area": "1,546.56 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-16-fe2a2726a8e4.webp",
+      "sha256": "fe2a2726a8e4673f038bba4874388989b1853292bcbfe0d34b1839e33402c318",
+      "originalBytes": 665970,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 2 mirror · 1307",
+      "area": "1,504.90 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-17-66d6fbc7c212.webp",
+      "sha256": "66d6fbc7c212e1c2e84cbde955b4800eeacd4def8150fc7a951c5a2c833f3b51",
+      "originalBytes": 685458,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 2.1 mirror · 1407",
+      "area": "1,307.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-18-8a0005e46beb.webp",
+      "sha256": "8a0005e46beb0b7b589ca8b10a73badbf3d78d9fcce0e34ba0b2ca47de53bf25",
+      "originalBytes": 649288,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 3 mirror · 1505",
+      "area": "1,089.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-19-db0ec0eac6f3.webp",
+      "sha256": "db0ec0eac6f3c25c7a89dca17a6e57e695360378a1a0108d464669b632be40cb",
+      "originalBytes": 517892,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 3.1 mirror · 1605",
+      "area": "923.01 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-20-0be241d00e80.webp",
+      "sha256": "0be241d00e801ab35cab26f8af6c1b489a30e39b1be42e08f93a7219083d8949",
+      "originalBytes": 463574,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 4 mirror · 1503",
+      "area": "1,717.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-21-d14801a32906.webp",
+      "sha256": "d14801a32906b1e055c9fafd166ae87f69c2093e5b06055ad93dcc378634c6dc",
+      "originalBytes": 817366,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 2 BR · Type 4.1 mirror · 1603",
+      "area": "1,056.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-22-b450d6a4e1e4.webp",
+      "sha256": "b450d6a4e1e44ae6ec427901ccb483d29311060292877006289f86f2bf094573",
+      "originalBytes": 584696,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 3 BR · Type 1 mirror · 203 / 1203",
+      "area": "1,523.52 sq ft (units 203, 303 + 9 on sheet) / 1,524.06 sq ft (units 1203, 1303)",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-23-6fa69cdfbd62.webp",
+      "sha256": "6fa69cdfbd62c1126f2b3b3d7840493fb20634e9ecb850c290f438dd8edca75c",
+      "originalBytes": 819870,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2A · 3 BR · Type 1.1 mirror · 103",
+      "area": "2,080.99 sq ft total area",
+      "sourceIds": [
+        "plans-building-2a"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/park-lane/plan-building-2a-page-24-280dee71a7fc.webp",
+      "sha256": "280dee71a7fc074fdb7c7918d84c74840f6d2f133709346502c47d22758e6b36",
+      "originalBytes": 977318,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2A.pdf",
+        "label": "Emaar Park Lane Building 2A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2a-aa6379811212.pdf",
+        "sha256": "aa637981121250a0c00a03546c77aecd8ec2f96462cf91437adad42c3b294375"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 1 · 109 / 204",
+      "area": "658.54 sq ft (units 109, 209 + 14 on sheet) / 651.75 sq ft (units 204, 304 + 11 on sheet)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-2-ae4f019cb34b.webp",
+      "sha256": "ae4f019cb34ba79405a00f3f831c11d97dec70e377ef9440ae6f306d2dcf18c6",
+      "originalBytes": 480448,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 1 mirror · 101",
+      "area": "656.81 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-3-ecc49651525a.webp",
+      "sha256": "ecc49651525a44f0f86f8cb1c4b07de120936e3812859d95010fd3caddd775f2",
+      "originalBytes": 467232,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 1.1 · 104",
+      "area": "949.48 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-4-94a527853d6f.webp",
+      "sha256": "94a527853d6f75a505631fa0d7fecf2d0607d0ba1a19792da64c7a7fa494747c",
+      "originalBytes": 502490,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 1A mirror · 1408 / 108",
+      "area": "759.18 sq ft (units 1408, 1508 + 1 on sheet) / 758.53 sq ft (units 108, 208 + 11 on sheet)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-5-3cac3412fbf6.webp",
+      "sha256": "3cac3412fbf600a49d7c2d1d8f72b2db7c67f184268ac11f870465991513dad4",
+      "originalBytes": 505152,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 02 mirror · 1306",
+      "area": "730.12 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-6-d44e86c31b8d.webp",
+      "sha256": "d44e86c31b8d36ad8028ab08f42658e6b5dbc1366b54fe928d9b72f8f8f991cf",
+      "originalBytes": 401590,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 2.1 mirror · 1406 / 1506",
+      "area": "657.78 sq ft (unit 1406) / 649.82 sq ft (units 1506, 1606)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-7-3c10dac855b8.webp",
+      "sha256": "3c10dac855b82d0334daae47bbc4eef408ee927fc663be2cc25e5b2cf42812c5",
+      "originalBytes": 408642,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 03 mirror · 1504",
+      "area": "686.09 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-8-843ef655069c.webp",
+      "sha256": "843ef655069c4b13f5b4536b2c920d1b5748fc6088095430676b3bf86de1417e",
+      "originalBytes": 379644,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 3.1 mirror · 1604",
+      "area": "607.08 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-9-08ab770643fd.webp",
+      "sha256": "08ab770643fda3b20b60fcad360a9332d2f7903df6c6e816b518d77a1520935d",
+      "originalBytes": 361866,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 1 BR · Type 04 mirror · 106",
+      "area": "911.06 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-10-b2d59d44cfa5.webp",
+      "sha256": "b2d59d44cfa52848a98feaae35c0e3cd86024c53b39c1410f325cb876f8d087a",
+      "originalBytes": 444010,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1 mirror · 102 / 207",
+      "area": "1,121.28 sq ft (units 102, 202 + 12 on sheet) / 1,130.00 sq ft (units 207, 307 + 8 on sheet)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-11-05ea5b82cd8b.webp",
+      "sha256": "05ea5b82cd8bed6ba59905f24be047a140e9f9dea124716e9748d28b5ce743f6",
+      "originalBytes": 618962,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1 mirror · 1502 / 1602",
+      "area": "1,123.11 sq ft (unit 1502) / 1,122.14 sq ft (unit 1602)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-12-6cdd4f94b577.webp",
+      "sha256": "6cdd4f94b577449e184f15c0547e5690c44888826f00c700293845c9eceb4d47",
+      "originalBytes": 584788,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1 mirror · 1207",
+      "area": "1,129.89 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-13-9ebf626f5f86.webp",
+      "sha256": "9ebf626f5f866728b4ba40881ec0739762d46d6d728a835751ffba2b6ee7ed57",
+      "originalBytes": 560346,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1.1 mirror · 107",
+      "area": "1,517.82 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-14-200f1706014e.webp",
+      "sha256": "200f1706014e81e208d16021081b55e9ecb0e559edb477a7c8b0a241c6d3ffe2",
+      "originalBytes": 697656,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1A mirror · 205 / 206",
+      "area": "1,040.44 sq ft (units 205, 305 + 10 on sheet) / 1,036.67 sq ft (units 206, 306 + 9 on sheet)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-15-8d36c1aaf9c4.webp",
+      "sha256": "8d36c1aaf9c41a6c5b7f45b1ad1586cbe0c7240080dd747e3761c1615c3c18ee",
+      "originalBytes": 549730,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1A mirror · 1305",
+      "area": "1,041.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-16-f818ed461e74.webp",
+      "sha256": "f818ed461e745e2522ba52425360c8b2baae2334fd66b98dd5c09200cf4c2416",
+      "originalBytes": 528008,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 1A.1 mirror · 105",
+      "area": "1,528.26 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-17-dda37f2748bb.webp",
+      "sha256": "dda37f2748bb68497492472f1154275dc97ecf8e718b2fa4152a7ff2af0c32cc",
+      "originalBytes": 665388,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 2 mirror · 1307",
+      "area": "1,504.90 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-18-9770c2c8a007.webp",
+      "sha256": "9770c2c8a007f1b1e48d6a04ce397855fa6cab46ef60cbae72bc554603d1e054",
+      "originalBytes": 686514,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 2.1 mirror · 1407",
+      "area": "1,307.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-19-26aefaf671bb.webp",
+      "sha256": "26aefaf671bb21e81cf90d529287c31519fe7617cf6de567d57c38d367518ed5",
+      "originalBytes": 650664,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 3 mirror · 1505",
+      "area": "1,089.52 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-20-e0e206fe3604.webp",
+      "sha256": "e0e206fe3604b1ddb13d54b90f319d9417151ba3dc80bf04cfc1311c6bb14372",
+      "originalBytes": 518812,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 3.1 mirror · 1605",
+      "area": "923.01 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-21-7501d8c21808.webp",
+      "sha256": "7501d8c21808ae6771d921c81e731d8b911ae20b512428f831ebb409a2776a99",
+      "originalBytes": 464654,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 4 mirror · 1503",
+      "area": "1,717.60 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-22-13506c29cbe0.webp",
+      "sha256": "13506c29cbe045581eeb8eca876754196e76ed30b66725b7b28d3447f7b58b4f",
+      "originalBytes": 816644,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 2 BR · Type 4.1 mirror · 1603",
+      "area": "1,056.69 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-23-fb2f725b4986.webp",
+      "sha256": "fb2f725b49869c317c7b14ce5ddbceca234b2f906ba16b2eea492f848e7c0c00",
+      "originalBytes": 585104,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 3 BR · Type 1 mirror · 203 / 1203",
+      "area": "1,523.63 sq ft (units 203, 303 + 9 on sheet) / 1,524.06 sq ft (units 1203, 1303)",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-24-2357be90fb9b.webp",
+      "sha256": "2357be90fb9bdd3c9040a26996670eb0f29c5c8c7592a5c3aa6a6b6ac6a7fa27",
+      "originalBytes": 818934,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "2B · 3 BR · Type 1.1 mirror · 103",
+      "area": "1,994.55 sq ft total area",
+      "sourceIds": [
+        "plans-building-2b"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/emaar/park-lane/plan-building-2b-page-25-89439ae88b2a.webp",
+      "sha256": "89439ae88b2a33b8a2023aa3e5baeaed7369b2ea1852db939c1ef1d8b87237b6",
+      "originalBytes": 977538,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-2B.pdf",
+        "label": "Emaar Park Lane Building 2B floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-2b-c46568ebe126.pdf",
+        "sha256": "c46568ebe126029e584c319f89f2cbe2e82767792aed1d5deb60c3ced7775627"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1 · 105 / 107",
+      "area": "649.49 sq ft (units 105, 205 + 7 on sheet) / 651.22 sq ft (units 107, 201 + 7 on sheet)",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-2-dd4f23321da7.webp",
+      "sha256": "dd4f23321da742532fc274b7f1eac20cc1bb00321f7d6923b47356b435c75112",
+      "originalBytes": 279714,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1 · 207",
+      "area": "650.79 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-3-8e923fd4648e.webp",
+      "sha256": "8e923fd4648ea4377609a30973faeb4d23a097124cb2ca5231ac8223d112acac",
+      "originalBytes": 259902,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1 mirror · 104 / 106",
+      "area": "651.22 sq ft (unit 104) / 649.49 sq ft (units 106, 206 + 7 on sheet)",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-4-f78f08875214.webp",
+      "sha256": "f78f08875214256366e3239fdea29282e534b51930a66249978de6c9b898a04a",
+      "originalBytes": 277734,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1 mirror · 204 / 210",
+      "area": "650.79 sq ft (units 204, 304 + 6 on sheet) / 652.29 sq ft (units 210, 310 + 6 on sheet)",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-5-0d28ce410130.webp",
+      "sha256": "0d28ce41013041284484e872056774b052c76422338f96aa585995b3b8d35cd3",
+      "originalBytes": 266628,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1.2 · 101",
+      "area": "1,081.77 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-6-1a8c84e0ecfd.webp",
+      "sha256": "1a8c84e0ecfdaa7a4bc0a852cacbc2230a5bacb5c561acff46aff79cec5d5709",
+      "originalBytes": 317512,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 1 BR · Type 1.2 mirror · 110",
+      "area": "1,076.61 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-7-a6dd860f95d8.webp",
+      "sha256": "a6dd860f95d86705dc90f10d0c31813e52c0ec918e891d825bef6b13686c4198",
+      "originalBytes": 318844,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 2 BR · Type 1 · 103",
+      "area": "1,103.19 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-8-186f7f8c7e8c.webp",
+      "sha256": "186f7f8c7e8ceb9979529f15972443d9b2ad78be0e9bcef3118619337033ae71",
+      "originalBytes": 357320,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 2 BR · Type 1 mirror · 108",
+      "area": "1,103.19 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-9-d9451c64e3d0.webp",
+      "sha256": "d9451c64e3d0e1540cab9662f287b12dd611c46fc70898c45dcc581ec5b3f1e5",
+      "originalBytes": 357782,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 2 BR · Type 1.1 · 109",
+      "area": "1,449.68 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-10-d4c1a41beef7.webp",
+      "sha256": "d4c1a41beef7774f35d33213efb2f29403d930cbb5ef07126b8fe288c4600161",
+      "originalBytes": 413740,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3A · 2 BR · Type 1.1 mirror · 102",
+      "area": "1,433.32 sq ft total area",
+      "sourceIds": [
+        "plans-building-3a"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-3a-page-11-bcfdbadab469.webp",
+      "sha256": "bcfdbadab469ec91d4a6df603ba2f5fa9edd33cd777cd27ec90261169173f1c1",
+      "originalBytes": 412988,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://petkovicproperties.com/wp-content/uploads/2024/03/Emaar-Park-Lane-Floor-Plan-Building-3A.pdf",
+        "label": "Emaar Park Lane Building 3A floor plans via Petkovic Properties",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3a-6bb8714f5035.pdf",
+        "sha256": "6bb8714f5035ef308c7b1673db57c61c33487ca651bf6291ffd3bcafd2acc4b7"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1 · 105 / 107",
+      "area": "646.70 sq ft (units 105, 205 + 7 on sheet) / 647.99 sq ft (units 107, 207 + 7 on sheet)",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-2-ea6f487a1988.webp",
+      "sha256": "ea6f487a1988e7090d780f7453ed15186d9fe8f19cdc6aa3dcfe21a01ca05469",
+      "originalBytes": 278252,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1 · 201",
+      "area": "651.43 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-3-bb6d0fa459c0.webp",
+      "sha256": "bb6d0fa459c080b97760d36878c3bab0d250f33755c81afd0652b042f702b1c0",
+      "originalBytes": 259292,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1 mirror · 106 / 104",
+      "area": "646.70 sq ft (units 106, 206 + 7 on sheet) / 647.99 sq ft (units 104, 204)",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-4-fe6119ba8501.webp",
+      "sha256": "fe6119ba85011489e23f75914d60c33a035cea24675a7af935de5990bc65392a",
+      "originalBytes": 279820,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1 mirror · 210 / 304",
+      "area": "652.29 sq ft (units 210, 310 + 6 on sheet) / 647.99 sq ft (units 304, 404 + 5 on sheet)",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-5-c8a23b0f6289.webp",
+      "sha256": "c8a23b0f6289044baa5c47594b5cc33e4c8cf8be2911cba780f9695cac1d1a08",
+      "originalBytes": 266974,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1.2 · 101",
+      "area": "1,088.88 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-6-52400f34d0ac.webp",
+      "sha256": "52400f34d0ac2e924c94d0cda423e1545b2a105e4bf9635f28fddb1f79db6486",
+      "originalBytes": 318184,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 1 BR · Type 1.2 mirror · 110",
+      "area": "1,083.17 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-7-9e2bfa73c25a.webp",
+      "sha256": "9e2bfa73c25ac7780b6b2ef6f74e499ebff4ece2e9625eef9140d7e75c28d819",
+      "originalBytes": 318154,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 2 BR · Type 1 · 103",
+      "area": "1,103.19 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-8-5bd953698b2d.webp",
+      "sha256": "5bd953698b2df361c3e3d8b2b9f74cecc6fd8a7664012e0cc24c1c97c46fabf5",
+      "originalBytes": 358108,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 2 BR · Type 1 mirror · 202 / 108",
+      "area": "1,103.19 sq ft (units 202, 208 + 14 on sheet) / 1,102.76 sq ft (unit 108)",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-9-3cc9f653a77f.webp",
+      "sha256": "3cc9f653a77f36d924ba2f9768b33b3628aeac3e6c07020b6eafaf1f8d23d618",
+      "originalBytes": 364918,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 2 BR · Type 1.1 · 109",
+      "area": "1,449.47 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-10-71e0a51595a5.webp",
+      "sha256": "71e0a51595a5df5ccf8b7bb03121a5e5769a76a4b213ad079c73b0f7fe70db34",
+      "originalBytes": 414378,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    },
+    {
+      "label": "3B · 2 BR · Type 1.1 mirror · 102",
+      "area": "1,450.76 sq ft total area",
+      "sourceIds": [
+        "plans-building-3b"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/park-lane/plan-building-3b-page-11-a039550d2811.webp",
+      "sha256": "a039550d2811a9d5c85064841287a1939841343b5c37793a4ca21e2f4bfac7b5",
+      "originalBytes": 414356,
+      "width": 2400,
+      "height": 1698,
+      "source": {
+        "url": "https://www.mitchellscommercialrealty.com/downloads/park-lane/PARKLANE_DHE_FLOORPLAN_BUILDING_3B.pdf",
+        "label": "Emaar Park Lane Building 3B floor plans via Mitchell’s",
+        "reviewedOn": "2026-11-05",
+        "pdf": "/images/projects/emaar/park-lane/floor-plans-building-3b-091e4cdad1e1.pdf",
+        "sha256": "091e4cdad1e1d5e7543f26a05e832b37134f2166bd6450459f8b3c59ab3131f2"
+      }
+    }
+  ]
+}

@@ -7,13 +7,15 @@ import { getArea, readLocationFilter, updateLocationQuery } from '@/lib/location
 import { catalogueEntries, filterCatalogue, type ApprovedListing } from '@/lib/catalogue-locations';
 import './location-filters.css';
 
-import { useEffect, useId, useMemo, useRef, useState } from 'react';
+import { useEffect, useId, useMemo, useRef, useState, type MouseEvent } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Heart, RotateCcw, Search, SlidersHorizontal, X } from 'lucide-react';
 import { projects } from '@/lib/content';
 import { ProjectCard, useSavedProjects } from './project-card';
 import { ComparisonLink } from './comparison-controls';
 import { findCuratedCollection } from '@/lib/curated-collections';
+import { selectDeveloperProjectPage } from '@/lib/developer-project-pagination';
+import { ProjectPagination } from './project-pagination';
 
 type Filters = {
   collection?: string;
@@ -25,6 +27,7 @@ type Filters = {
   budget?: string;
   sort?: string;
   saved?: string;
+  page?: string;
 };
 const noApprovedListings: readonly ApprovedListing[] = [];
 export function ProjectBrowser({
@@ -65,6 +68,24 @@ export function ProjectBrowser({
     };
   }, [filtersOpen]);
   const searchParams = useSearchParams();
+  const jumpToResults = useRef(false);
+  const queryKey = searchParams?.toString() || '';
+  useEffect(() => {
+    if (!jumpToResults.current) return;
+    jumpToResults.current = false;
+    const frame = requestAnimationFrame(() => {
+      const section = document.getElementById('catalogue-results');
+      if (!section) return;
+      const top =
+        section.getBoundingClientRect().top +
+        scrollY -
+        parseFloat(getComputedStyle(section).scrollMarginTop);
+      const event = new CustomEvent('aliyas:scroll-to', { cancelable: true, detail: { top } });
+      if (window.dispatchEvent(event)) window.scrollTo({ top, behavior: 'instant' });
+      section.focus({ preventScroll: true });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [queryKey]);
   // The URL is the source of truth, including same-route links and browser history.
   const value = (key: keyof Filters) =>
     searchParams ? searchParams.get(key) || '' : initial[key] || '';
@@ -80,6 +101,7 @@ export function ProjectBrowser({
   const collection = findCuratedCollection(value('collection'));
   function updateFilter(key: keyof Filters, nextValue: string, replace = false) {
     let next = new URLSearchParams(searchParams?.toString());
+    next.delete('page');
     if (key === 'area' || key === 'emirate') next = updateLocationQuery(next, key, nextValue);
     else if (nextValue && !(key === 'sort' && nextValue === 'featured')) next.set(key, nextValue);
     else next.delete(key);
@@ -89,7 +111,10 @@ export function ProjectBrowser({
   }
   const { saved } = useSavedProjects();
   const savedFilteredEmpty = savedOnly && saved.length > 0;
-  const inventory = useMemo(() => catalogueEntries(projects, approved), [approved]);
+  const inventory = useMemo(
+    () => catalogueEntries(collection || savedOnly ? projects : [], approved),
+    [approved, collection, savedOnly],
+  );
   const filtered = useMemo(
     () =>
       filterCatalogue(inventory, {
@@ -120,6 +145,21 @@ export function ProjectBrowser({
       collection,
     ],
   );
+  const view = selectDeveloperProjectPage(filtered, new URLSearchParams({ page: value('page') }));
+  function pageHref(page: number) {
+    const next = new URLSearchParams(queryKey);
+    if (page > 1) next.set('page', String(page));
+    else next.delete('page');
+    return `/projects${next.size ? `?${next}` : ''}#catalogue-results`;
+  }
+  function navigatePage(event: MouseEvent<HTMLAnchorElement>) {
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.altKey || event.shiftKey)
+      return;
+    event.preventDefault();
+    if (event.currentTarget.getAttribute('aria-current')) return;
+    jumpToResults.current = true;
+    window.history.pushState(null, '', event.currentTarget.href);
+  }
   function reset() {
     window.history.pushState(null, '', '/projects');
   }
@@ -261,7 +301,14 @@ export function ProjectBrowser({
         )}
       </dialog>
       <div className="catalogue-toolbar">
-        <div className="catalogue-count" aria-live="polite">
+        <div
+          className="catalogue-count"
+          id="catalogue-results"
+          tabIndex={-1}
+          role="status"
+          aria-label="Project results"
+          aria-live="polite"
+        >
           <SlidersHorizontal size={16} />
           <strong>{filtered.length}</strong> {filtered.length === 1 ? 'project' : 'projects'} to
           explore
@@ -305,6 +352,7 @@ export function ProjectBrowser({
             type="button"
             onClick={() => {
               const next = new URLSearchParams(searchParams?.toString());
+              next.delete('page');
               next.delete('area');
               if (location.invalid) next.delete('emirate');
               window.history.pushState(null, '', next.size ? `/projects?${next}` : '/projects');
@@ -322,7 +370,7 @@ export function ProjectBrowser({
       )}
       {filtered.length ? (
         <div className="catalogue-project-grid">
-          {filtered.map((project) =>
+          {view.items.map((project) =>
             project.sample ? (
               <ProjectCard key={project.key} project={project.sample} />
             ) : project.approved ? (
@@ -346,9 +394,7 @@ export function ProjectBrowser({
                 : 'Your shortlist starts here.'
               : area
                 ? `Explore ${areaName ?? 'another area'}.`
-                : emirate === 'Ajman'
-                  ? 'Looking for Ajman?'
-                  : 'A little change opens new possibilities.'}
+                : 'A little change opens new possibilities.'}
           </h2>
           <p>
             {savedOnly
@@ -357,9 +403,7 @@ export function ProjectBrowser({
                 : 'Save a project with the heart icon to find it here.'
               : area
                 ? 'No listed projects match this area and your current filters. Try another area or contact Aliyas to discuss your requirements.'
-                : emirate === 'Ajman'
-                  ? 'There are no Ajman projects in this preview collection. Contact Aliyas to discuss your requirements.'
-                  : 'Try another location, a different budget or a broader search.'}
+                : 'Try another location, a different budget or a broader search.'}
           </p>
           <button
             className="catalogue-button"
@@ -372,6 +416,12 @@ export function ProjectBrowser({
           </button>
         </div>
       )}
+      <ProjectPagination
+        page={view.page}
+        pageCount={view.pageCount}
+        href={pageHref}
+        onNavigate={navigatePage}
+      />
     </div>
   );
 }

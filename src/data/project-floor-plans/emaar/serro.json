@@ -1,0 +1,101 @@
+{
+  "projectId": "emaar-project-08",
+  "projectSlug": "serro",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PHASE_1_SALVA_and_SERRO_floorplan_681410bc78.pdf",
+    "label": "Emaar: The Heights plans · Serro sheets2–7",
+    "reviewedOn": "2026-11-04",
+    "pdf": "/images/projects/emaar/serro/floor-plans-b2fcc1e7d74b.pdf",
+    "sha256": "b2fcc1e7d74b64c308cc739c49aa89277ac200b014e7897a5563c05470b0826b"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Explore Serro’s published three, four and five bedroom villa plans. The source’s total area includes the listed carport and terraces or balconies; it is not the plot area. Match the plan code to the villa offered.",
+  "selectorLabel": "Choose a Serro villa layout",
+  "note": "These are the Serro sheets in Emaar’s shared The Heights booklet. Plans, dimensions and landscaping are approximate and may change. A drawn pool or furnishing does not confirm its inclusion in the selected villa’s sale.",
+  "plans": [
+    {
+      "label": "3 bedroom villa · Type A",
+      "area": "3,463.07 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/serro/plan-page-2-5287089355a2.webp",
+      "sha256": "5287089355a25ff6ab09c4c7120c4b6fb23a6a93f1e39bf58ee20c1a4b419c42",
+      "originalBytes": 632548,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "4 bedroom villa · Type A",
+      "area": "4,312.45 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/serro/plan-page-3-1072d6ea4bce.webp",
+      "sha256": "1072d6ea4bceb5e4f0371e2809496f6d12e6b0236a646612e88e86f9d21b6c9a",
+      "originalBytes": 797274,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 bedroom villa · Type A",
+      "area": "5,884.30 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/serro/plan-page-4-1104ecc983f4.webp",
+      "sha256": "1104ecc983f478ac1998086b50fbe435def3803724a0d710f074d6f3190b8aa8",
+      "originalBytes": 998246,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "3 bedroom villa · Type C",
+      "area": "3,340.04 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/serro/plan-page-5-df2b24ae89f9.webp",
+      "sha256": "df2b24ae89f9c7865f60861c3d07a986e467a23c7ff02f4f2bce8c0e7bc3a5c7",
+      "originalBytes": 626388,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "4 bedroom villa · Type C",
+      "area": "4,302.22 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/serro/plan-page-6-8bd4a41428d3.webp",
+      "sha256": "8bd4a41428d3373078a3e98ae57cdb875c721cb502fe00f5ae4a57609a6ec5b2",
+      "originalBytes": 800570,
+      "width": 2400,
+      "height": 1569
+    },
+    {
+      "label": "5 bedroom villa · Type C",
+      "area": "5,760.52 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/serro/plan-page-7-bd23156fabe2.webp",
+      "sha256": "bd23156fabe2c3273a97336d04e9114f83bab498ae3b8a73fbc4a72ddedf5022",
+      "originalBytes": 992328,
+      "width": 2400,
+      "height": 1569
+    }
+  ]
+}

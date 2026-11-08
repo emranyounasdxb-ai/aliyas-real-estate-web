@@ -1,0 +1,324 @@
+{
+  "slug": "viewz",
+  "id": "danube-project-19",
+  "developerSlug": "danube",
+  "checkedOn": "2026-11-06",
+  "evidence": "artifacts/project-page-enhancement/viewz/",
+  "source": {
+    "name": "Danube Properties",
+    "url": "https://danubeproperties.com/portfolio/viewz/",
+    "checkedOn": "2026-11-06"
+  },
+  "cardName": "viewz-towers",
+  "images": [
+    {
+      "name": "viewz-towers",
+      "cache": "artifacts/project-page-enhancement/viewz/sky-villas-p3-0.webp",
+      "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/viewz/floor-plans",
+      "label": "the upper Viewz towers and elevated connecting deck",
+      "position": "60% 8%",
+      "alt": "Danube Properties render of the upper Viewz towers and elevated connecting deck."
+    },
+    {
+      "name": "viewz-arrival",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p2-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=2",
+      "label": "the Viewz arrival between the towers",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of the Viewz arrival between the towers."
+    },
+    {
+      "name": "viewz-lobby",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p5-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=5",
+      "label": "the branded Viewz lobby",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of the branded Viewz lobby."
+    },
+    {
+      "name": "viewz-living",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p6-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=6",
+      "label": "a Viewz apartment living room",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of a Viewz apartment living room."
+    },
+    {
+      "name": "viewz-bedroom",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p7-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=7",
+      "label": "a Viewz apartment bedroom",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of a Viewz apartment bedroom."
+    },
+    {
+      "name": "viewz-sky-villa",
+      "cache": "artifacts/project-page-enhancement/viewz/map-viewzbydanube2.jpg",
+      "url": "https://maps.danubeproperties.com/assets/img/gallery/viewzbydanube2.jpg",
+      "label": "a double-height Viewz Sky Villa living room",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of a double-height Viewz Sky Villa living room."
+    },
+    {
+      "name": "viewz-pool",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p10-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=10",
+      "label": "the Viewz terrace pool",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of the Viewz terrace pool."
+    },
+    {
+      "name": "viewz-business-centre",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p11-1.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=11",
+      "label": "the Viewz business centre",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of the Viewz business centre."
+    },
+    {
+      "name": "viewz-sky-deck",
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p17-0.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=17",
+      "label": "the elevated Viewz pool deck",
+      "position": "50% 50%",
+      "alt": "Danube Properties render of the elevated Viewz pool deck."
+    }
+  ],
+  "editorialNames": [
+    "viewz-living",
+    "viewz-bedroom",
+    "viewz-sky-villa"
+  ],
+  "location": {
+    "community": "Jumeirah Lake Towers, Dubai",
+    "road": "Jumeirah Lake Towers, near Sheikh Zayed Road (E11)",
+    "pin": {
+      "latitude": 25.0656697,
+      "longitude": 55.1409217,
+      "sourceUrl": "https://maps.danubeproperties.com/?location=viewzbydanube",
+      "scope": "Danube’s directions link identifies Viewz Tower 1. Confirm the entrance for the tower you plan to visit."
+    },
+    "map": {
+      "cache": "artifacts/project-page-enhancement/viewz/viewz-official-brochure-p4-1.jpg",
+      "url": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=4",
+      "alt": "Viewz marked relative to Dubai Marina and Palm Jumeirah on Danube’s regional map.",
+      "caption": "Danube Viewz brochure location map, page 4.",
+      "scope": "Developer schematic for orientation."
+    },
+    "sourceLabel": "Danube Viewz brochure · page 4",
+    "travel": {
+      "sourceUrl": "https://danubeproperties.com/wp-content/uploads/2024/03/viewz.pdf#page=4",
+      "scope": "Approximate developer estimates from Viewz in Jumeirah Lake Towers.",
+      "destinations": [
+        {
+          "name": "Metro station (walk)",
+          "minutes": 10
+        },
+        {
+          "name": "Palm Jumeirah",
+          "minutes": 11
+        },
+        {
+          "name": "Dubai Mall",
+          "minutes": 20
+        },
+        {
+          "name": "Al Maktoum International Airport (DWC)",
+          "minutes": 28
+        }
+      ]
+    },
+    "travelNote": "The brochure specifies walking for the metro and driving for the other destinations. It does not name a station."
+  },
+  "floorPlans": {
+    "url": "https://www.madena.ae/api/assets/documents/projects/viewz/floor-plans/da9ac2bee40bfea4.pdf",
+    "cache": "artifacts/project-page-enhancement/viewz/plans.pdf",
+    "label": "Danube Viewz original apartment and Sky Villa plans · Madena mirror",
+    "renderTool": "PDFium, lossless WebP delivery",
+    "introduction": "Explore apartments and duplex Sky Villas in both Viewz towers, along with their floor plates and amenities.",
+    "selectorLabel": "Choose a Viewz layout or floor plate",
+    "note": "Each complete drawing from a two-sheet spread is selectable. The original PDF keeps the spread intact. Sky Villa totals are printed on the lower-level drawings.",
+    "plans": [
+      {
+        "sourcePage": 1,
+        "label": "Studio Type A",
+        "area": "401–420 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-01-left.png"
+      },
+      {
+        "sourcePage": 1,
+        "label": "1 BR Type A",
+        "area": "737 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-01-right.png"
+      },
+      {
+        "sourcePage": 2,
+        "label": "1 BR Type B",
+        "area": "807 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-02-left.png"
+      },
+      {
+        "sourcePage": 2,
+        "label": "1 BR Type C",
+        "area": "717 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-02-right.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "Presidential Suite Type D",
+        "area": "763 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-03-left.png"
+      },
+      {
+        "sourcePage": 3,
+        "label": "2 BR Type A",
+        "area": "1,051–1,061 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-03-right.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "2 BR Type B",
+        "area": "1,152 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-04-left.png"
+      },
+      {
+        "sourcePage": 4,
+        "label": "3 BR Type A",
+        "area": "1,552 sq ft total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-04-right.png"
+      },
+      {
+        "sourcePage": 8,
+        "label": "3 BR Sky Villa Type A · Lower level",
+        "area": "2,525–2,556 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-08.png"
+      },
+      {
+        "sourcePage": 9,
+        "label": "3 BR Sky Villa Type A · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-09.png"
+      },
+      {
+        "sourcePage": 10,
+        "label": "3 BR Sky Villa Type B · Lower level",
+        "area": "2,183 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-10.png"
+      },
+      {
+        "sourcePage": 11,
+        "label": "3 BR Sky Villa Type B · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-11.png"
+      },
+      {
+        "sourcePage": 12,
+        "label": "4 BR Sky Villa Type A · Lower level",
+        "area": "3,360 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-12.png"
+      },
+      {
+        "sourcePage": 13,
+        "label": "4 BR Sky Villa Type A · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-13.png"
+      },
+      {
+        "sourcePage": 14,
+        "label": "4 BR Sky Villa Type B · Lower level",
+        "area": "3,200 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-14.png"
+      },
+      {
+        "sourcePage": 15,
+        "label": "4 BR Sky Villa Type B · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-15.png"
+      },
+      {
+        "sourcePage": 16,
+        "label": "4 BR Sky Villa Type C · Lower level",
+        "area": "3,700 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-16.png"
+      },
+      {
+        "sourcePage": 17,
+        "label": "4 BR Sky Villa Type C · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-17.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "5 BR Sky Villa Type A · Lower level",
+        "area": "5,761 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-18.png"
+      },
+      {
+        "sourcePage": 19,
+        "label": "5 BR Sky Villa Type A · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-19.png"
+      },
+      {
+        "sourcePage": 20,
+        "label": "5 BR Sky Villa Type B · Lower level",
+        "area": "5,765 sq ft combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-20.png"
+      },
+      {
+        "sourcePage": 21,
+        "label": "5 BR Sky Villa Type B · Upper level",
+        "area": "See the lower-level drawing for the combined total",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-21.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Typical apartment floor plates",
+        "area": "Overall floor area is not printed on this drawing",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-05-left.png"
+      },
+      {
+        "sourcePage": 5,
+        "label": "Viewz site plan",
+        "area": "Overall floor area is not printed on this drawing",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-05-right.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Viewz 1 amenities",
+        "area": "Overall floor area is not printed on this drawing",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-06-left.png"
+      },
+      {
+        "sourcePage": 6,
+        "label": "Viewz 2 amenities",
+        "area": "Overall floor area is not printed on this drawing",
+        "cache": "artifacts/project-page-enhancement/viewz/plans-review-06-right.png"
+      },
+      {
+        "sourcePage": 18,
+        "label": "Sky Villa floor plates · Levels 36 and 38",
+        "area": "Overall floor area is not printed on this drawing",
+        "documentId": "sky-villas",
+        "cache": "artifacts/project-page-enhancement/viewz/sky-villas-review-18.png"
+      }
+    ],
+    "additionalDocuments": [
+      {
+        "id": "sky-villas",
+        "label": "Danube archive · Viewz Sky Villas",
+        "url": "https://middleware.danubeproperties.com/api/s3/public-folder-zip?folder=marketing-collateral/viewz/floor-plans",
+        "cache": "artifacts/project-page-enhancement/viewz/sky-villas.pdf"
+      }
+    ]
+  },
+  "review": {
+    "gallery": "Nine distinct native renders from the official brochure, project map and original Sky Villa plans. Shared sports and amenity visuals were excluded.",
+    "location": "Original brochure map and travel panel were checked visually. The developer map directions resolve to the named first tower.",
+    "floorPlans": "27 complete drawings. The first six physical spreads of the Madena mirror were split at the gutter for selection while retaining all drawing content and the unchanged PDF. Seven duplex villa pairs and one additional floor plate are included. Duplicate amenity and site drawings in the Danube Sky Villas archive were listed once."
+  },
+  "unavailable": [
+    "Named metro station, exact second-tower entrance and signed unit-specific schedules were not established.",
+    "Danube website asset redistribution requires separate permission."
+  ]
+}

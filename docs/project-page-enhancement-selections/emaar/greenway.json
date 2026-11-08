@@ -1,0 +1,213 @@
+{
+  "id": "emaar-project-72",
+  "slug": "greenway",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-05",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/greenway-at-emaar-south",
+    "checkedOn": "2026-11-05"
+  },
+  "images": [
+    {
+      "name": "gardens",
+      "label": "Greenway townhouses around a landscaped lawn",
+      "url": "https://www.emaar.com/cms-media/uploads/383335_property_Hero_Image_13bbea3621_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/official-hero.jpg",
+      "position": "52% 56%",
+      "alt": "Greenway developer render: greenway townhouses around a landscaped lawn. Proposed architecture or community setting."
+    },
+    {
+      "name": "facade",
+      "label": "Street-facing townhouses and driveways",
+      "url": "https://www.emaar.com/cms-media/uploads/383389_exterior_1_37424fdffa_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/383389_exterior_1_37424fdffa_prod.jpg",
+      "position": "50% 53%",
+      "alt": "Greenway developer render: street-facing townhouses and driveways. Proposed architecture or community setting."
+    },
+    {
+      "name": "terraces",
+      "label": "Townhouses with open upper terraces",
+      "url": "https://www.emaar.com/cms-media/uploads/383398_exterior_2_9274527027_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/383398_exterior_2_9274527027_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Greenway developer render: townhouses with open upper terraces. Proposed architecture or community setting."
+    },
+    {
+      "name": "bedroom",
+      "label": "Bedroom and sheltered terrace",
+      "url": "https://www.emaar.com/cms-media/uploads/383407_interior_0_e09439a558_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/383407_interior_0_e09439a558_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Greenway developer render: bedroom and sheltered terrace. Finishes and outlook vary by home."
+    },
+    {
+      "name": "living",
+      "label": "Living and dining area opening to the garden",
+      "url": "https://www.emaar.com/cms-media/uploads/383416_interior_1_393b0eebf2_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/383416_interior_1_393b0eebf2_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Greenway developer render: living and dining area opening to the garden. Finishes and outlook vary by home."
+    },
+    {
+      "name": "lounge",
+      "label": "Lounge beside the terrace and outdoor seating",
+      "url": "https://www.emaar.com/cms-media/uploads/383425_interior_2_803ef3e999_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/383425_interior_2_803ef3e999_prod.jpg",
+      "position": "50% 50%",
+      "alt": "Greenway developer render: lounge beside the terrace and outdoor seating. Finishes and outlook vary by home."
+    }
+  ],
+  "cardName": "facade",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Emaar South",
+    "travel": {
+      "page": 5,
+      "scope": "Driving estimates published in Emaar’s Greenway brochure.",
+      "destinations": [
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 7,
+          "mode": "drive"
+        },
+        {
+          "name": "Expo City Dubai",
+          "minutes": 10,
+          "mode": "drive"
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 20,
+          "mode": "drive"
+        },
+        {
+          "name": "Downtown Dubai",
+          "minutes": 30,
+          "mode": "drive"
+        },
+        {
+          "name": "Abu Dhabi",
+          "minutes": 50,
+          "mode": "drive"
+        }
+      ],
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/Greenway_brochure.pdf"
+    },
+    "travelNote": "The developer’s estimates describe Emaar South. Actual times vary by route and traffic.",
+    "pin": {
+      "latitude": 24.8501926542112,
+      "longitude": 55.15381818465941,
+      "sourceUrl": "https://www.emaar.com/en/properties/greenway-at-emaar-south",
+      "scope": "Emaar’s published Greenway location reference in Emaar South. Confirm your townhouse entrance before visiting."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_10b80cb630.jpg",
+      "cache": "artifacts/project-page-enhancement/greenway/04_MAP_2400x1600px_10b80cb630.jpg",
+      "alt": "Emaar regional map showing Emaar South",
+      "scope": "Emaar South regional map from Emaar. The Greenway project point appears separately."
+    }
+  },
+  "floorPlans": {
+    "label": "Emaar Greenway original Classic and Modern floor-plan PDF",
+    "introduction": "Compare Classic and Modern three- and four-bedroom townhouses. Each sheet includes three floors and the unit’s position in the row.",
+    "selectorLabel": "Choose a Greenway townhouse design and layout",
+    "note": "The plans include mirrored layouts. Total area includes the suite, garage and balcony or terrace. The displayed totals retain the developer’s rounding of up to 0.02 sq ft.",
+    "url": "https://www.emaar.com/cms-media/uploads/Greenway_floorplan.pdf",
+    "cache": "artifacts/project-details/emaar/greenway-floorplans-1.pdf",
+    "plans": [
+      {
+        "label": "Classic · 4 BR · TH01",
+        "area": "3,513.01 sq ft total area",
+        "areaValues": [
+          3513.01
+        ],
+        "areaCalculation": "2,758.90 + 409.67 + 344.44 = 3,513.01 sq ft. Printed total 3,513.01 sq ft.",
+        "sourcePage": 2,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-02.png"
+      },
+      {
+        "label": "Classic · 3 BR · TH02",
+        "area": "3,071.37 sq ft total area",
+        "areaValues": [
+          3071.37
+        ],
+        "areaCalculation": "2,403.36 + 382.23 + 285.79 = 3,071.38 sq ft. Printed total 3,071.37 sq ft. Source difference 0.01 sq ft retained.",
+        "sourcePage": 3,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-03.png"
+      },
+      {
+        "label": "Classic · 3 BR mirrored · TH03",
+        "area": "3,071.37 sq ft total area",
+        "areaValues": [
+          3071.37
+        ],
+        "areaCalculation": "2,403.36 + 382.23 + 285.79 = 3,071.38 sq ft. Printed total 3,071.37 sq ft. Source difference 0.01 sq ft retained.",
+        "sourcePage": 4,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-04.png"
+      },
+      {
+        "label": "Classic · 4 BR mirrored · TH04",
+        "area": "3,513.01 sq ft total area",
+        "areaValues": [
+          3513.01
+        ],
+        "areaCalculation": "2,758.90 + 409.67 + 344.44 = 3,513.01 sq ft. Printed total 3,513.01 sq ft.",
+        "sourcePage": 5,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-05.png"
+      },
+      {
+        "label": "Modern · 4 BR · TH01",
+        "area": "3,512.05 sq ft total area · printed total",
+        "areaValues": [
+          3512.05
+        ],
+        "areaCalculation": "2,757.60 + 410.21 + 344.22 = 3,512.03 sq ft. Printed total 3,512.05 sq ft. Source difference 0.02 sq ft retained.",
+        "sourcePage": 7,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-07.png"
+      },
+      {
+        "label": "Modern · 3 BR · TH02",
+        "area": "3,092.90 sq ft total area",
+        "areaValues": [
+          3092.9
+        ],
+        "areaCalculation": "2,401.10 + 382.87 + 308.92 = 3,092.89 sq ft. Printed total 3,092.90 sq ft. Source difference 0.01 sq ft retained.",
+        "sourcePage": 8,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-08.png"
+      },
+      {
+        "label": "Modern · 3 BR mirrored · TH03",
+        "area": "3,092.90 sq ft total area",
+        "areaValues": [
+          3092.9
+        ],
+        "areaCalculation": "2,401.10 + 382.87 + 308.92 = 3,092.89 sq ft. Printed total 3,092.90 sq ft. Source difference 0.01 sq ft retained.",
+        "sourcePage": 9,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-09.png"
+      },
+      {
+        "label": "Modern · 4 BR mirrored · TH04",
+        "area": "3,512.05 sq ft total area · printed total",
+        "areaValues": [
+          3512.05
+        ],
+        "areaCalculation": "2,757.60 + 410.21 + 344.22 = 3,512.03 sq ft. Printed total 3,512.05 sq ft. Source difference 0.02 sq ft retained.",
+        "sourcePage": 10,
+        "cache": "artifacts/project-page-enhancement/greenway/plan-10.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/greenway/",
+  "review": {
+    "images": "Reviewed six official gallery images and the wide hero. Omitted the narrower repeated garden shot. The townhouse street elevation supplies the listing card, with living and bedroom views in the editorial panels.",
+    "location": "Matched the exact Greenway project pin and Emaar South regional map. Visually verified five travel figures on physical brochure page 5.",
+    "floorPlans": "Viewed all ten physical pages, including the Classic and Modern cover pages. Transcribed eight image-only sheets, TH01 to TH04 for each design, and checked suite, garage and balcony or terrace sums. Retained the published 0.01 or 0.02 sq ft differences."
+  },
+  "unavailable": [
+    "Signed plot-specific areas and entrance coordinates were not verified."
+  ]
+}

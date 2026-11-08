@@ -1,0 +1,21 @@
+# The Symphony by Imtiaz enhancement — verified 7 November 2026
+
+Protected identity: imtiaz / imtiaz-project-07 / the-symphony-by-imtiaz. 41 source images and 37 complete original drawing sheets.
+
+imagery: Forty-one entries comprise thirty-three project renders and eight September 2026 site photographs. All twenty-three primary assets, full residential/commercial/brief indexes, twenty native brochure resources and all eight photographs were visually reviewed. Two primary repeats, native texture panels and a duplicate wellness image are excluded. Twelve original brochure scenes add nighttime architecture, planned lagoon context, a walkway, residential and commercial interiors. Residential and commercial lounges retain their correct scope. The complete street tower supplies the hero and listing card. Historical photographs retain their date.
+
+floorPlans: Thirty-four complete building sheets cover ground, podiums 1/4/5, offices, amenities and residential levels through the duplex roof. Basement and podium 2/3 sheets are absent. Three separately attributed broker images show 1 BR previews. No individual numerical saleable areas are printed on these drawings. The filenames alone do not verify numbered homes. Confirm the selected home, area and final revision with Imtiaz. Every physical page 2–35 was visually reviewed on nine complete-sheet contacts. The three freely displayed broker preview images were separately inspected at native size. Existing crop limits, source orientation, views, level grouping, legends, duplex linkage and complete margins remain intact. Other broker sheets require a form and were left unretrieved. Category size ranges are not assigned to drawings.
+
+location: Project brief pages 13–18 were rendered at 3200 pixels. Complete map 14 and regional context 13 were visually reviewed. The map labels an upcoming metro station, which remains proposed. No route times were inferred from drawn proximity. The official map identifies the project by name/place ID and supplies camera-centre values without explicit target coordinates. Directions use the named project.
+
+provenance: Current official HTML/gallery and dated construction history retain URL/hash receipts. The complete 35-page plans and 52-page residential brochure are Mitchell’s broker mirrors. Its commercial brochure was reviewed for scene scope. The 54-page project brief is an independently attributed Dubai Real Estate Group mirror. Three public broker preview images retain their full observed URLs. All protected identities and completed text remain intact.
+
+Unavailable or restricted scope: Individual contractual areas, numbered-unit matching for broker previews, basement and podium 2/3 drawings, form-gated additional broker layouts, exact visitor entrance, numerical original-source travel estimates, current certified construction completion and final views/specifications remain unavailable or unverified.
+
+Sources:
+- https://real.imtiaz.ae/property/the-symphony-by-imtiaz
+- https://dubairealestategroup.de/wp-content/uploads/2025/11/Symphony-by-Imtiaz_Presentation-V3-1.pdf#page=14
+- https://www.mitchellscommercialrealty.com/downloads/the-symphony-by-imtiaz/THE_SYMPHONY_FLOOR_PLANS.pdf
+- https://www.silveroakglobal.com/projects/the-symphony-by-imtiaz-ff5d5b5c
+
+Selection: docs/project-page-enhancement-selections/imtiaz/the-symphony-by-imtiaz.json. Source/owner/hash validation: 1365 owner-validated manifests, 17338 verified asset hashes and 575 protected identities. The exact-diff guard confirms only the two documented Wasl source corrections. All other canonical text and protected identities match the original researched snapshot.. Optimized build pSz88x0EWJr4NjPw-Cwsm / PID38088. Own browser case passed in passing batch (3.9m) (artifacts/project-page-enhancement/batch-222-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.

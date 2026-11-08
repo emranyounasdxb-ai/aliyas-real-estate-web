@@ -1,0 +1,49 @@
+{
+  "projectId": "damac-project-09",
+  "projectSlug": "damac-sun-city",
+  "developerSlug": "damac",
+  "source": {
+    "url": "https://pl01.ogonline.nl/lxryproperties-media/DAMAC%20SUN%20CITY%20BROCHURE_DIGITAL_6_9_24_240910_215042.pdf",
+    "label": "DAMAC Sun City brochure · LXRY Properties-hosted copy",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/damac/damac-sun-city/floor-plans-ee1c0b9305e1.pdf",
+    "sha256": "ee1c0b9305e1957446dd6089f8ba58b93fabef6430a553a1add84d43f340df75"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the four-bedroom middle townhouse and the five-bedroom end townhouse. The original sheets show all levels for each home.",
+  "selectorLabel": "Choose a DAMAC Sun City floor plan",
+  "note": "The areas are the brochure’s printed totals. Confirm the latest signed area for your townhouse.",
+  "plans": [
+    {
+      "label": "4 BR middle townhouse · THSC-M",
+      "area": "2,319.19 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 36,
+      "src": "/images/projects/damac/damac-sun-city/plan-page-36-6b6e22c5d296.webp",
+      "sha256": "6b6e22c5d296b19e83db689e95f35dd4367935239c86395af69ed263554d552f",
+      "originalBytes": 483920,
+      "width": 2600,
+      "height": 1463
+    },
+    {
+      "label": "5 BR end townhouse · THSC-E",
+      "area": "3,323.90 sq ft total",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 35,
+      "src": "/images/projects/damac/damac-sun-city/plan-page-35-6ffab5cf6ad9.webp",
+      "sha256": "6ffab5cf6ad9dd9508b149d97322bb01ad031c327b327f0bae6881ad76e2f02f",
+      "originalBytes": 670970,
+      "width": 2600,
+      "height": 1463
+    }
+  ]
+}

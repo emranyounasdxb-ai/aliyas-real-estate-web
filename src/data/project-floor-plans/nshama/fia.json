@@ -1,0 +1,75 @@
+{
+  "projectId": "nshama-project-18",
+  "projectSlug": "fia",
+  "developerSlug": "nshama",
+  "source": {
+    "url": "https://nshama.ae/wp-content/uploads/2024/03/FIA-Brochure-Final.pdf",
+    "label": "Nshama Fia brochure with original layouts",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/nshama/fia/floor-plans-472664f564a6.pdf",
+    "sha256": "472664f564a621002e90cabd1fb82185baa46bb659aa1224868f721cd3fef951"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare the one-, two- and three-bedroom layouts published by Nshama.",
+  "selectorLabel": "Choose a Fia apartment layout",
+  "note": "Built-up totals include the balcony. Area ranges follow the printed values. The 2 BR Type B maximum is printed as 1,193.50 sq ft. The rounded suite and balcony entries sum to 1,193.51 sq ft. Confirm the size of the specific apartment.",
+  "plans": [
+    {
+      "label": "1 BR · Type A",
+      "area": "626.24–631.95 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/nshama/fia/plan-page-19-d2124d95de51.webp",
+      "sha256": "d2124d95de51f2535394b8f5ac09f271112875610d74fa3eff60ef3b915bfc21",
+      "originalBytes": 638122,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type A",
+      "area": "1,011.05–1,017.08 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/nshama/fia/plan-page-20-61ce88860a90.webp",
+      "sha256": "61ce88860a90219407c7e796a59de57c9340531fcda1aebcf2d0fffa057bdc81",
+      "originalBytes": 736608,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "2 BR · Type B",
+      "area": "1,187.91–1,193.50 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/nshama/fia/plan-page-21-fecc1dd0657a.webp",
+      "sha256": "fecc1dd0657a19815c3e000c82cc6b40623629b89ebff0f5fd72030946070e20",
+      "originalBytes": 715326,
+      "width": 1980,
+      "height": 2800
+    },
+    {
+      "label": "3 BR · Type A",
+      "area": "1,523.09 sq ft built-up",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/nshama/fia/plan-page-22-37238cbd3226.webp",
+      "sha256": "37238cbd3226905ba0c34e0f7353a7fdcc8c93a19c6ed13661cf3b30c1135da3",
+      "originalBytes": 597742,
+      "width": 1980,
+      "height": 2800
+    }
+  ]
+}

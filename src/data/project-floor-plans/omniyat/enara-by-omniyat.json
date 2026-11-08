@@ -1,0 +1,88 @@
+{
+  "projectId": "omniyat-project-08",
+  "projectSlug": "enara-by-omniyat",
+  "developerSlug": "omniyat",
+  "source": {
+    "url": "https://www.salesnlease.com/public/uploads/media/floorplan_brochures/omniyat-enara_by_omniyat-business_bay-floor-plan-001_compressed.pdf",
+    "label": "Original OMNIYAT ENARA office test-fit booklet, hosted by Sales N Lease",
+    "reviewedOn": "2026-11-07",
+    "pdf": "/images/projects/omniyat/enara-by-omniyat/floor-plans-d01d7dc33547.pdf",
+    "sha256": "d01d7dc33547fc520e698afa6fe241cc0141a8f25831bad21ac9f0b749fb1feb"
+  },
+  "render": {
+    "tool": "PDFium, lossless WebP delivery",
+    "maxDimension": 2800,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare OMNIYAT’s example layouts for a single-level office and the three levels of a triplex office.",
+  "selectorLabel": "Choose an ENARA office test fit",
+  "note": "These test fits show possible office layouts. Areas are usable internal space for each displayed level, excluding toilet rooms and the IT room. Confirm the area and layout for a specific office.",
+  "plans": [
+    {
+      "label": "Grand office · Simplex example",
+      "area": "676 sq m usable internal area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/omniyat/enara-by-omniyat/plan-page-3-6cdcc7d9a12b.webp",
+      "sha256": "6cdcc7d9a12bb7fce5a93d0e35f1ae9f0b81dd18bd90ebf78aa2102571b6c16e",
+      "originalBytes": 890376,
+      "width": 2800,
+      "height": 1750
+    },
+    {
+      "label": "Ultra Grand office · Simplex example",
+      "area": "950 sq m usable internal area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/omniyat/enara-by-omniyat/plan-page-4-d08472027588.webp",
+      "sha256": "d084720275887bcfe54a54bc1fa8849bf447569118107337af9cf23b50ec39ac",
+      "originalBytes": 886676,
+      "width": 2800,
+      "height": 1750
+    },
+    {
+      "label": "Triplex · Lower working level",
+      "area": "1,015 sq m usable internal area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/omniyat/enara-by-omniyat/plan-page-5-fc85c0df121d.webp",
+      "sha256": "fc85c0df121dd6f906ff8cf1ef1feef70841958410f69969cfe5983e2fc2e801",
+      "originalBytes": 982310,
+      "width": 2800,
+      "height": 1750
+    },
+    {
+      "label": "Triplex · Middle reception and meeting level",
+      "area": "545 sq m usable internal area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/omniyat/enara-by-omniyat/plan-page-6-fbb0dd6584ae.webp",
+      "sha256": "fbb0dd6584ae42246ce6856a4d601eb3ec4a6e29d06dc9601e280eb124c9d1e3",
+      "originalBytes": 864702,
+      "width": 2800,
+      "height": 1750
+    },
+    {
+      "label": "Triplex · Upper executive level",
+      "area": "966 sq m usable internal area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/omniyat/enara-by-omniyat/plan-page-7-c4005e1416fa.webp",
+      "sha256": "c4005e1416fa22c926c7c9c3f95b65dc2d69c5bf6408118fe3c520dcfadfb6ad",
+      "originalBytes": 677806,
+      "width": 2800,
+      "height": 1750
+    }
+  ]
+}

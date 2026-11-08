@@ -58,7 +58,7 @@ export type Article = {
 };
 
 export const catalogueNotice =
-  'Preview collection: prices, payment plans and completion dates are illustrative, not live offers. Photography is for inspiration and does not depict the named projects. Request verified availability before making a decision.';
+  'Project information and visuals carry page-specific qualifications. Confirm current availability, prices, payment terms, completion forecasts and final specifications with Aliyas.';
 export const formatPrice = (price: number) =>
   `AED ${price >= 1000000 ? `${(price / 1000000).toFixed(2).replace(/0$/, '')}M` : `${Math.round(price / 1000)}K`}`;
 

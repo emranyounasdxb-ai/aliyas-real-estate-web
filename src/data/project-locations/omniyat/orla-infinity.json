@@ -1,0 +1,58 @@
+{
+  "projectId": "omniyat-project-03",
+  "projectSlug": "orla-infinity",
+  "developerSlug": "omniyat",
+  "checkedOn": "2026-11-07",
+  "community": "West Crescent, Palm Jumeirah, Dubai",
+  "road": "Crescent Road",
+  "pin": {
+    "latitude": 25.12236943004064,
+    "longitude": 55.112027198072276,
+    "sourceUrl": "https://omniyat.com/residential/orla-infinity-dorchester-collection-dubai",
+    "scope": "Approximate project point from the OMNIYAT location map. Confirm the entrance before travelling."
+  },
+  "map": {
+    "src": "/images/projects/omniyat/orla-infinity/location-f29e417f4e60.jpg",
+    "sha256": "f29e417f4e604f873407a35e00237fedd29bca3b85a5cad627749082928c4750",
+    "originalBytes": 296796,
+    "width": 1465,
+    "height": 1083,
+    "sourceUrl": "https://www.madena.ae/api/assets/documents/projects/orla-infinity-dorchester-collection/master-plan/f29e417f4e604f87.jpg",
+    "alt": "Aerial image marking ORLA Infinity and the neighbouring ORLA separately on Palm Jumeirah.",
+    "scope": "Published project locator. The labels distinguish ORLA Infinity from the neighbouring ORLA.",
+    "caption": "ORLA Infinity on Palm Jumeirah"
+  },
+  "sourceLabel": "Madena published road-route estimates",
+  "travel": {
+    "sourceUrl": "https://www.madena.ae/projects/orla-infinity",
+    "scope": "Approximate road-route estimates from Madena’s reference point on the West Crescent.",
+    "destinations": [
+      {
+        "name": "Lagoons Beach",
+        "minutes": 4,
+        "distanceKm": 1.6
+      },
+      {
+        "name": "Palm Jumeirah Mall",
+        "minutes": 9,
+        "distanceKm": 5.4
+      },
+      {
+        "name": "Dubai Internet City",
+        "minutes": 15,
+        "distanceKm": 12.8
+      },
+      {
+        "name": "Downtown Dubai",
+        "minutes": 30,
+        "distanceKm": 24.8
+      },
+      {
+        "name": "Al Maktoum International Airport (DWC)",
+        "minutes": 45,
+        "distanceKm": 43.2
+      }
+    ]
+  },
+  "travelNote": "Drive times vary by entrance, route and traffic."
+}

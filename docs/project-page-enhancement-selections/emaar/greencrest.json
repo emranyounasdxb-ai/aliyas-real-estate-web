@@ -1,0 +1,441 @@
+{
+  "id": "emaar-project-10",
+  "slug": "greencrest",
+  "developerSlug": "emaar",
+  "checkedOn": "2026-11-04",
+  "source": {
+    "name": "Emaar",
+    "url": "https://www.emaar.com/en/properties/greencrest-at-dubai-hills-estate",
+    "checkedOn": "2026-11-04"
+  },
+  "images": [
+    {
+      "name": "building",
+      "url": "https://www.emaar.com/cms-media/uploads/430065_exterior_0_a57a7843fc_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430065_exterior_0_a57a7843fc_prod.jpg",
+      "label": "Buildings at dusk",
+      "alt": "Emaar render of Greencrest’s buildings at dusk",
+      "position": "50% 50%"
+    },
+    {
+      "name": "pool",
+      "url": "https://www.emaar.com/cms-media/uploads/430068_exterior_1_95eac127e1_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430068_exterior_1_95eac127e1_prod.jpg",
+      "label": "Pool and sports terrace",
+      "alt": "Emaar render of Greencrest’s pool and sports terrace",
+      "position": "50% 50%"
+    },
+    {
+      "name": "terrace",
+      "url": "https://www.emaar.com/cms-media/uploads/430071_exterior_2_763bd3cbc9_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430071_exterior_2_763bd3cbc9_prod.jpg",
+      "label": "Golf-facing balcony",
+      "alt": "Emaar render of Greencrest’s golf-facing balcony",
+      "position": "50% 50%"
+    },
+    {
+      "name": "bedroom",
+      "url": "https://www.emaar.com/cms-media/uploads/430074_interior_0_bcad6d4508_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430074_interior_0_bcad6d4508_prod.jpg",
+      "label": "Bedroom",
+      "alt": "Emaar render of Greencrest’s bedroom",
+      "position": "50% 50%"
+    },
+    {
+      "name": "lobby",
+      "url": "https://www.emaar.com/cms-media/uploads/430077_interior_1_73238bebe9_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430077_interior_1_73238bebe9_prod.jpg",
+      "label": "Arrival lobby",
+      "alt": "Emaar render of Greencrest’s arrival lobby",
+      "position": "50% 50%"
+    },
+    {
+      "name": "living",
+      "url": "https://www.emaar.com/cms-media/uploads/430080_interior_2_6d61566c16_prod.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/430080_interior_2_6d61566c16_prod.jpg",
+      "label": "Living room",
+      "alt": "Emaar render of Greencrest’s living room",
+      "position": "50% 50%"
+    }
+  ],
+  "cardName": "building",
+  "editorialNames": [
+    "living",
+    "bedroom"
+  ],
+  "location": {
+    "community": "Dubai Hills Estate",
+    "road": "",
+    "pin": {
+      "latitude": 25.1309125,
+      "longitude": 55.26360940000001,
+      "sourceUrl": "https://www.emaar.com/en/properties/greencrest-at-dubai-hills-estate",
+      "scope": "Official page Greencrest pin; exact building entrances may differ."
+    },
+    "map": {
+      "url": "https://www.emaar.com/cms-media/uploads/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "cache": "artifacts/project-page-enhancement/greencrest/04_MAP_2400x1600px_cb8e97adef.jpg",
+      "alt": "Emaar regional diagram locating Dubai Hills Estate within Dubai",
+      "scope": "Regional diagram, not to scale; planned transport is not an operational-service guarantee."
+    },
+    "travel": {
+      "sourceUrl": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_BROCHURE_f64d104e7b.pdf",
+      "page": 3,
+      "scope": "Own Greencrest brochure community time estimates; visually verified, not live routes.",
+      "destinations": [
+        {
+          "name": "Downtown Dubai",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai Marina",
+          "minutes": 10
+        },
+        {
+          "name": "Dubai International Airport",
+          "minutes": 15
+        },
+        {
+          "name": "Al Maktoum International Airport",
+          "minutes": 20
+        }
+      ]
+    }
+  },
+  "floorPlans": {
+    "url": "https://www.emaar.com/cms-media/uploads/GREENCREST_DHE_FLOORPLANS_a355c75989.pdf",
+    "cache": "artifacts/project-details/emaar/greencrest-floorplans-1.pdf",
+    "label": "Emaar: Greencrest floor plans · Blocks A and B",
+    "introduction": "Explore the published apartments in Blocks A and B. A repeated type can have different areas for different unit groups; match the unit number and level shown on each complete sheet.",
+    "selectorLabel": "Choose a residence layout",
+    "note": "Plans and dimensions are approximate and subject to developer revisions. Drawings are not to scale; shown furnishings and generic view legends do not guarantee a particular unit’s outlook or sale inclusions.",
+    "plans": [
+      {
+        "label": "Block A · 1 bedroom · Type A1 · sheet 4",
+        "area": "773.71 sq ft total area",
+        "sourcePage": 4,
+        "areaValues": [
+          773.71
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-04.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type A1 · sheet 5",
+        "area": "777.16 sq ft total area",
+        "sourcePage": 5,
+        "areaValues": [
+          777.16
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-05.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type A1 · sheet 6",
+        "area": "775.75 sq ft total area",
+        "sourcePage": 6,
+        "areaValues": [
+          775.75
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-06.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type A2 · sheet 7",
+        "area": "781.14 sq ft total area",
+        "sourcePage": 7,
+        "areaValues": [
+          781.14
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-07.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type A2 · sheet 8",
+        "area": "782.76 sq ft total area",
+        "sourcePage": 8,
+        "areaValues": [
+          782.76
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-08.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type A2 · sheet 9",
+        "area": "780.27 sq ft total area",
+        "sourcePage": 9,
+        "areaValues": [
+          780.27
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-09.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B1 · sheet 10",
+        "area": "843.89 sq ft total area",
+        "sourcePage": 10,
+        "areaValues": [
+          843.89
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-10.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B1 · sheet 11",
+        "area": "847.34 sq ft total area",
+        "sourcePage": 11,
+        "areaValues": [
+          847.34
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-11.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B1 · sheet 12",
+        "area": "846.90 sq ft total area",
+        "sourcePage": 12,
+        "areaValues": [
+          846.9
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-12.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B2 · sheet 13",
+        "area": "833.78 sq ft total area",
+        "sourcePage": 13,
+        "areaValues": [
+          833.78
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-13.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B2 · sheet 14",
+        "area": "831.73 sq ft total area",
+        "sourcePage": 14,
+        "areaValues": [
+          831.73
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-14.png"
+      },
+      {
+        "label": "Block A · 1 bedroom · Type B2 · sheet 15",
+        "area": "832.26 sq ft total area",
+        "sourcePage": 15,
+        "areaValues": [
+          832.26
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-15.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type A1 · sheet 16",
+        "area": "1,336.67 sq ft total area",
+        "sourcePage": 16,
+        "areaValues": [
+          1336.67
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-16.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type A2 · sheet 17",
+        "area": "1,439.57 sq ft total area",
+        "sourcePage": 17,
+        "areaValues": [
+          1439.57
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-17.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type A3 · sheet 18",
+        "area": "1,402.00 sq ft total area",
+        "sourcePage": 18,
+        "areaValues": [
+          1402
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-18.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type A3 · sheet 19",
+        "area": "1,404.37 sq ft total area",
+        "sourcePage": 19,
+        "areaValues": [
+          1404.37
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-19.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type A4 · sheet 20",
+        "area": "1,470.78 sq ft total area",
+        "sourcePage": 20,
+        "areaValues": [
+          1470.78
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-20.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type B1 · sheet 21",
+        "area": "1,370.03 sq ft total area",
+        "sourcePage": 21,
+        "areaValues": [
+          1370.03
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-21.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type B2 · sheet 22",
+        "area": "1,265.84 sq ft total area",
+        "sourcePage": 22,
+        "areaValues": [
+          1265.84
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-22.png"
+      },
+      {
+        "label": "Block A · 2 bedroom · Type C1 · sheet 23",
+        "area": "1,543.12 sq ft total area",
+        "sourcePage": 23,
+        "areaValues": [
+          1543.12
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-23.png"
+      },
+      {
+        "label": "Block A · 3 bedroom · Type A1 · sheet 24",
+        "area": "1,927.50 sq ft total area",
+        "sourcePage": 24,
+        "areaValues": [
+          1927.5
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-24.png"
+      },
+      {
+        "label": "Block A · 3 bedroom · Type A2 · sheet 25",
+        "area": "1,877.77 sq ft total area",
+        "sourcePage": 25,
+        "areaValues": [
+          1877.77
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-25.png"
+      },
+      {
+        "label": "Block A · 3 bedroom · Type A3 · sheet 26",
+        "area": "1,877.12 sq ft total area",
+        "sourcePage": 26,
+        "areaValues": [
+          1877.12
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-26.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D1 · sheet 28",
+        "area": "1,359.59 sq ft total area",
+        "sourcePage": 28,
+        "areaValues": [
+          1359.59
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-28.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D2 · sheet 29",
+        "area": "1,347.32 sq ft total area",
+        "sourcePage": 29,
+        "areaValues": [
+          1347.32
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-29.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D3 · sheet 30",
+        "area": "1,347.32 sq ft total area",
+        "sourcePage": 30,
+        "areaValues": [
+          1347.32
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-30.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D4 · sheet 31",
+        "area": "1,270.25 sq ft total area",
+        "sourcePage": 31,
+        "areaValues": [
+          1270.25
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-31.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D4 · sheet 32",
+        "area": "1,272.61 sq ft total area",
+        "sourcePage": 32,
+        "areaValues": [
+          1272.61
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-32.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D5 · sheet 33",
+        "area": "1,270.25 sq ft total area",
+        "sourcePage": 33,
+        "areaValues": [
+          1270.25
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-33.png"
+      },
+      {
+        "label": "Block B · 2 bedroom · Type D5 · sheet 34",
+        "area": "1,272.51 sq ft total area",
+        "sourcePage": 34,
+        "areaValues": [
+          1272.51
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-34.png"
+      },
+      {
+        "label": "Block B · 3 bedroom · Type B1 · sheet 35",
+        "area": "1,820.61 sq ft total area",
+        "sourcePage": 35,
+        "areaValues": [
+          1820.61
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-35.png"
+      },
+      {
+        "label": "Block B · 3 bedroom · Type B2 · sheet 36",
+        "area": "1,735.03 sq ft total area",
+        "sourcePage": 36,
+        "areaValues": [
+          1735.03
+        ],
+        "areaCalculation": "Printed square-foot total area (first area column), including balcony area; not suite area or square metres.",
+        "cache": "artifacts/project-page-enhancement/greencrest/plan-36.png"
+      }
+    ]
+  },
+  "evidence": "artifacts/project-page-enhancement/greencrest/",
+  "review": {
+    "images": "All6 exact official Greencrest gallery assets visually reviewed. Own dusk tower cover and own living/bedroom scenes selected. Source masters unchanged and no assumed guaranteed outlook.",
+    "location": "Own official Greencrest pin and linked Dubai Hills regional map checked. Own brochure physical3 visually checked10/10/15/20min published community estimates; no live-route claim.",
+    "floorPlans": "All32 residence title/total-area panels visually reviewed, Block A physical4–26 and Block B28–36. Block divider27 is not a residence plan and remains in original36pagePDF. Printed sqft first column distinguished from sqm/suite area. Repeated types retain block/sheet/unit references; complete unedited sheets preserved."
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "projectId": "emaar-project-85",
+  "projectSlug": "porto-view",
+  "developerSlug": "emaar",
+  "source": {
+    "url": "https://www.emaar.com/cms-media/uploads/PORTO-VIEW_floorplan.pdf",
+    "label": "Emaar Porto View original floor-plan PDF",
+    "reviewedOn": "2026-11-05",
+    "pdf": "/images/projects/emaar/porto-view/floor-plans-4a371d2052fc.pdf",
+    "sha256": "4a371d2052fc09b4e469c9284921409afdfd50fdb471473cbcae90a73f82e77f"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare one- to three-bedroom apartments and the four townhouse sheets. Each drawing identifies the units it covers.",
+  "selectorLabel": "Choose a Porto View floor plan",
+  "note": "Some drawings give area ranges for several units. Confirm the exact component and total areas for your unit. On page 19 the total appears in the imperial column with an abbreviated unit label.",
+  "plans": [
+    {
+      "label": "1 BR · Type A.1 · P06, 109, 209-609",
+      "area": "801.59 sq ft (range minimum) / 802.13 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 2,
+      "src": "/images/projects/emaar/porto-view/plan-page-2-c48edf30fb25.webp",
+      "sha256": "c48edf30fb259dfa07b064af009ed9901d7a6d298cf32aafce87f8c99cd752ac",
+      "originalBytes": 432512,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type A.2 · P07, 110, 210-610",
+      "area": "806.97 sq ft (range minimum) / 810.52 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 3,
+      "src": "/images/projects/emaar/porto-view/plan-page-3-22f73e8578ae.webp",
+      "sha256": "22f73e8578ae99230332ad8486e91493d5f85968039942b99abf2a3913c48f86",
+      "originalBytes": 439646,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type A.3 · 213-613",
+      "area": "803.63 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/emaar/porto-view/plan-page-4-931ebd8790d2.webp",
+      "sha256": "931ebd8790d2656c855eea5ce8dfd3103afdcf885d2ec1fe7336dbb2f4793677",
+      "originalBytes": 444924,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type A.4 · 214-614",
+      "area": "802.13 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/emaar/porto-view/plan-page-5-889f862a0bea.webp",
+      "sha256": "889f862a0bea2eedd944518beea7e01adf0635cf8e1b8074efb446b069a76dd2",
+      "originalBytes": 446110,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type B.1 · P02, 105, 205-605, 705, 805-905",
+      "area": "779.74 sq ft (range minimum) / 779.85 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 6,
+      "src": "/images/projects/emaar/porto-view/plan-page-6-85e2b0e6a439.webp",
+      "sha256": "85e2b0e6a439121baa8a6f35792eef54e865e5c5293fac70bdec5bb64f564845",
+      "originalBytes": 437054,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type B.2 · P03, 106, 206-606, 706 , 806-906",
+      "area": "773.71 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 7,
+      "src": "/images/projects/emaar/porto-view/plan-page-7-aa44bae564aa.webp",
+      "sha256": "aa44bae564aaa0fb2e78f2d9cf472fc9d9b4d9aa96dcdc76a187535b11a439c5",
+      "originalBytes": 431296,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type B.5 · 201-601, 701, 801-901",
+      "area": "779.95 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/emaar/porto-view/plan-page-8-696cd1ec80f3.webp",
+      "sha256": "696cd1ec80f3b1cdfdbbf98f0d64bee5367edba58dc454e5c05b1d870df78406",
+      "originalBytes": 422704,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "1 BR · Type B.6 · 101",
+      "area": "800.19 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 9,
+      "src": "/images/projects/emaar/porto-view/plan-page-9-e6a40205a690.webp",
+      "sha256": "e6a40205a690f852a571eaf5a414534d95a9ef469facefac2584658f4efb102f",
+      "originalBytes": 441236,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type A.4 · P01, 104, 204-604, 704, 804-904",
+      "area": "1,292.21 sq ft (range minimum) / 1,292.32 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/emaar/porto-view/plan-page-10-554cedad79ee.webp",
+      "sha256": "554cedad79ee39dfeb1e820b312cfe09af382aa415b0fa591d10d88dd40644eb",
+      "originalBytes": 656224,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type A.5 · P04, 107, 207-607, 707, 807-907",
+      "area": "1,284.78 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 11,
+      "src": "/images/projects/emaar/porto-view/plan-page-11-a3a69a63d760.webp",
+      "sha256": "a3a69a63d76065d2c740b9e7caec5b3614337efdb5c8cdec733bfeea7b7fcdfb",
+      "originalBytes": 645588,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type A.6 · P05, 108, 208-608",
+      "area": "1,283.38 sq ft (range minimum) / 1,283.49 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/emaar/porto-view/plan-page-12-4f81f85ac19b.webp",
+      "sha256": "4f81f85ac19b44a50a5918ff25be9ffc082df34a4bc44cf708ae6fbeb805990c",
+      "originalBytes": 645012,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type B.3 · 202-602, 702, 802-902",
+      "area": "1,212.66 sq ft (range minimum) / 1,215.25 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 13,
+      "src": "/images/projects/emaar/porto-view/plan-page-13-5c593ad28d0f.webp",
+      "sha256": "5c593ad28d0f35fb7c4a2aa2b91cbe736e2c71b3dffe926028668053fa10d1ed",
+      "originalBytes": 606708,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type B.4 · 102",
+      "area": "1,352.16 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 14,
+      "src": "/images/projects/emaar/porto-view/plan-page-14-7d2659769298.webp",
+      "sha256": "7d2659769298e29b4344d3d7c845c810677a00ceb5701292b24fb61682e9038c",
+      "originalBytes": 633990,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type C.1 · 212-612",
+      "area": "1,279.61 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/emaar/porto-view/plan-page-15-08b85876b93d.webp",
+      "sha256": "08b85876b93d69ffe51cfed65b8a1ee6e4663201ee9f2e191e81f6a6456ace93",
+      "originalBytes": 637680,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type C.2 · 211-611",
+      "area": "1,288.44 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 16,
+      "src": "/images/projects/emaar/porto-view/plan-page-16-e8a2170bb711.webp",
+      "sha256": "e8a2170bb711ca16e1ae32c6a54bbe2adb2f298b54e71175d6e257deef96351e",
+      "originalBytes": 646836,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type C.5 · 111",
+      "area": "1,372.72 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 17,
+      "src": "/images/projects/emaar/porto-view/plan-page-17-fd42c1485895.webp",
+      "sha256": "fd42c1485895b4c842d22f8435e1db3e8f322b7269b925ef351ff5039b389ea9",
+      "originalBytes": 684550,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "2 BR · Type C.6 · P08",
+      "area": "1,230.64 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 18,
+      "src": "/images/projects/emaar/porto-view/plan-page-18-17ced616e590.webp",
+      "sha256": "17ced616e59099a241e331a1fd042dde8b3abcd48e66d8c49ff3692d71e9f49b",
+      "originalBytes": 620342,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 BR · Type A.3 · 203-603, 703, 803-903",
+      "area": "1,669.37 sq ft (range minimum) / 1,671.96 sq ft (range maximum)",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 19,
+      "src": "/images/projects/emaar/porto-view/plan-page-19-3a2f8666e9c7.webp",
+      "sha256": "3a2f8666e9c7c04ed2dcbc665be1f030b268e5ad51c650cfdac81c14cf7d26a0",
+      "originalBytes": 728286,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "3 BR · Type A.4 · 103",
+      "area": "1,907.26 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 20,
+      "src": "/images/projects/emaar/porto-view/plan-page-20-d56f1ea67327.webp",
+      "sha256": "d56f1ea673279d8782dcb29901bafde93d39ba71bcdcc7e5b165120cc25a1343",
+      "originalBytes": 806042,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Townhouse · Type A.1 · TH01",
+      "area": "2,684.63 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/emaar/porto-view/plan-page-21-19fdf6ca371d.webp",
+      "sha256": "19fdf6ca371d4c0b4fd4a0d6c9ec6f60f9105b293b7cd2d490c83bc845165309",
+      "originalBytes": 657266,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Townhouse · Type A.2 · TH02",
+      "area": "2,717.78 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 22,
+      "src": "/images/projects/emaar/porto-view/plan-page-22-04a20cc5fed2.webp",
+      "sha256": "04a20cc5fed2cf179992eb4530f80e6bbbe9843f46da964b7a15a8085d085d71",
+      "originalBytes": 654108,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Townhouse · Type A.3 · TH03",
+      "area": "2,718.75 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 23,
+      "src": "/images/projects/emaar/porto-view/plan-page-23-db644e4bd210.webp",
+      "sha256": "db644e4bd210c19121d53b0592b12b097bba49f1b851081879a652e10b5ecbe4",
+      "originalBytes": 657580,
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "label": "Townhouse · Type A.4 · TH04",
+      "area": "2,685.92 sq ft total area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 24,
+      "src": "/images/projects/emaar/porto-view/plan-page-24-e1de083f5c91.webp",
+      "sha256": "e1de083f5c91b88e9e1679e11cfc70a4df9688db3a8842d7001d3fe947c8c7a6",
+      "originalBytes": 654742,
+      "width": 2400,
+      "height": 1698
+    }
+  ]
+}

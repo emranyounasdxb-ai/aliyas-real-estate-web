@@ -1,0 +1,121 @@
+{
+  "projectId": "bloom-project-05",
+  "projectSlug": "bloom-living-almeria",
+  "developerSlug": "bloom",
+  "source": {
+    "url": "https://bloomholding.com/application/files/8717/2546/1504/Almeria_E-Brochure_Web.pdf",
+    "label": "Bloom · Almeria complete original brochure and drawings",
+    "reviewedOn": "2026-11-08",
+    "pdf": "/images/projects/bloom/bloom-living-almeria/floor-plans-f66a17e9abf9.pdf",
+    "sha256": "f66a17e9abf9ef805754f1a31a01239907a7f42b3844a9d0889d92355f2560b4"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 3600,
+    "format": "lossless WebP",
+    "scope": "Complete unedited source drawing sheets; original PDF preserved."
+  },
+  "introduction": "Explore the original complete layouts and community maps.",
+  "selectorLabel": "Choose a complete home sheet or community map",
+  "note": "The 6 BR sheet prints 5,511 sq ft / 512 m², while its floors sum to 5,537 sq ft / 514 m². Current category figures also differ. Shared villa-series concepts and paid upgrades require selected-home confirmation. Complete paired floors and original notices remain visible.",
+  "plans": [
+    {
+      "label": "3 BR villa · both floors",
+      "area": "2734 sq ft / 254 m² printed total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 8,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-8-b79216da97a6.webp",
+      "sha256": "b79216da97a6df08da29e2c7bf818d6ef896501197ade6531ae210bf621beafb",
+      "originalBytes": 983890,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "4 BR villa · both floors",
+      "area": "3399 sq ft / 316 m² printed total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 10,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-10-7bced10cc0b8.webp",
+      "sha256": "7bced10cc0b874e9b1202551a746727024ec8c2d8d50eda2d2cc8b6d2d63e91b",
+      "originalBytes": 1027342,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "5 BR villa · both floors",
+      "area": "4588 sq ft / 426 m² printed total sellable",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 12,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-12-94a383ad1b53.webp",
+      "sha256": "94a383ad1b53d4360aa59ebd8a69b3632b4a761b2257f6ae496aeb4e5227711a",
+      "originalBytes": 1475704,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "6 BR villa · both floors",
+      "area": "5511 sq ft / 512 m² printed total sellable · disputed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 15,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-15-a037ea479892.webp",
+      "sha256": "a037ea4798921d8a425af7b6b47d5b6656aa049f8df9b23889d08959b6578cfa",
+      "originalBytes": 1548694,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Community master plan",
+      "area": "Community context, no villa area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 4,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-4-2b9de60ccfbb.webp",
+      "sha256": "2b9de60ccfbbb8444ccd0c0097764e7e1a9c14bf2775ae8f463cab73fe33198a",
+      "originalBytes": 5936702,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Almeria phase master plan",
+      "area": "Community context, no villa area",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 5,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-page-5-4a393911d482.webp",
+      "sha256": "4a393911d482c0c27ddda36654a57a0ebb16b4c9dc9f92192e0424e1ec33945c",
+      "originalBytes": 5249554,
+      "width": 3600,
+      "height": 2025
+    },
+    {
+      "label": "Community regional map",
+      "area": "Community estimates, no home area",
+      "sourceIds": [
+        "plans-community"
+      ],
+      "sourcePage": 21,
+      "src": "/images/projects/bloom/bloom-living-almeria/plan-community-page-21-65f2bd74e9c6.webp",
+      "sha256": "65f2bd74e9c6dfd39a5523e1143465fed4220afdce726d323df7887c1e685df5",
+      "originalBytes": 806144,
+      "width": 3600,
+      "height": 2025,
+      "source": {
+        "url": "https://bloomholding.com/application/files/8417/2233/1189/Bloom_Living_E-Brochure_Web.pdf",
+        "label": "Bloom Living · complete original community brochure",
+        "reviewedOn": "2026-11-08",
+        "pdf": "/images/projects/bloom/bloom-living-almeria/floor-plans-community-f71c90fec897.pdf",
+        "sha256": "f71c90fec89717c09015d9a4a078d9cf770ee5c8031632c54418c028bbbb0f8e"
+      }
+    }
+  ]
+}

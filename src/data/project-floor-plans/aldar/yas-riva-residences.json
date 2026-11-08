@@ -1,0 +1,101 @@
+{
+  "projectId": "aldar-project-40",
+  "projectSlug": "yas-riva-residences",
+  "developerSlug": "aldar",
+  "source": {
+    "url": "https://vazeno.files.cmp.optimizely.com/download/assets/YasRivaResidences_en.pdf/0de737f8d0fe11f0abb08a6f18a35031",
+    "label": "Aldar Yas Riva Residences brochure and layouts",
+    "reviewedOn": "2026-11-06",
+    "pdf": "/images/projects/aldar/yas-riva-residences/floor-plans-239a5d263d88.pdf",
+    "sha256": "239a5d263d88485018948b8410de415969cabd586e763c05d20c89d3bd600dda"
+  },
+  "render": {
+    "tool": "Poppler pdftoppm, lossless WebP delivery",
+    "maxDimension": 2400,
+    "format": "lossless WebP",
+    "scope": "Complete unedited residence plan sheets; original PDF preserved."
+  },
+  "introduction": "Compare twelve layouts from studios through three-bedroom apartments, including the accessible variants shown by Aldar.",
+  "selectorLabel": "Choose a Yas Riva Residences floor plan",
+  "note": "Confirm the signed drawing and area for your apartment. The original brochure includes ground and typical floorplates on pages 32–35.",
+  "plans": [
+    {
+      "label": "Studio · Type A and accessible Type B",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 25,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-25-8cdec5aed883.webp",
+      "sha256": "8cdec5aed883fa49399d470db43ce69178beb3f12f3b1969ec0b953d89640628",
+      "originalBytes": 399672,
+      "width": 2500,
+      "height": 1250
+    },
+    {
+      "label": "1 BR · Type A and accessible Type B",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 26,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-26-0995c145e889.webp",
+      "sha256": "0995c145e8897c1fa37179890da822a5d4991109dc1cabbc17d6c8ec721f8dc7",
+      "originalBytes": 602236,
+      "width": 2500,
+      "height": 1250
+    },
+    {
+      "label": "2 BR · Type A corner and Type A",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 27,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-27-1469acc6047b.webp",
+      "sha256": "1469acc6047b026aaa180c08b4a6db0dcd9d554b8e7a453fd04ff63e88f354e4",
+      "originalBytes": 873616,
+      "width": 2500,
+      "height": 1250
+    },
+    {
+      "label": "2 BR · Types B and C",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 28,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-28-b51f9898df50.webp",
+      "sha256": "b51f9898df5041983f85b1982330dd006d5490c92fdcbfbf279cc74ba5466fd0",
+      "originalBytes": 850762,
+      "width": 2500,
+      "height": 1250
+    },
+    {
+      "label": "2 BR · Type D corner and accessible Type E",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 29,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-29-e2f54d330444.webp",
+      "sha256": "e2f54d33044450ccfbb6c9c84adf923c37709157d9fbc17c54a9db9106ebd176",
+      "originalBytes": 894766,
+      "width": 2500,
+      "height": 1250
+    },
+    {
+      "label": "3 BR Type A and accessible 3 BR + maid Type B",
+      "area": "Unit area to be confirmed",
+      "sourceIds": [
+        "plans"
+      ],
+      "sourcePage": 30,
+      "src": "/images/projects/aldar/yas-riva-residences/plan-page-30-dbf6fbcbb424.webp",
+      "sha256": "dbf6fbcbb4241cab4894d149a8c88b601c471528f9d2bc7e937c3db0a103d27f",
+      "originalBytes": 718776,
+      "width": 2500,
+      "height": 1250
+    }
+  ]
+}
