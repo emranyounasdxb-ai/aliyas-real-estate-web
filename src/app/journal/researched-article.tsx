@@ -52,12 +52,15 @@ function Paragraphs({ text }: { text: string }) {
 }
 
 export function ResearchedArticle({ article }: { article: Article }) {
-  const formattedDate = new Intl.DateTimeFormat('en-GB', {
+  const articleIndex = articles.findIndex((item) => item.slug === article.slug);
+  const dateFormatter = new Intl.DateTimeFormat('en-GB', {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
     timeZone: 'UTC',
-  }).format(new Date(article.researchedAt!));
+  });
+  const formattedDate = dateFormatter.format(new Date(article.researchedAt!));
+  const publishedDate = article.date ? dateFormatter.format(new Date(article.date)) : null;
   const related = articles
     .filter(
       (item) =>
@@ -77,7 +80,7 @@ export function ResearchedArticle({ article }: { article: Article }) {
       />
       <Link
         className={styles.back}
-        href={`/journal?page=${Math.ceil((article.sequence ?? 1) / 9)}#journal-stories`}
+        href={`/journal?page=${Math.floor(Math.max(0, articleIndex) / 9) + 1}#journal-stories`}
       >
         <ArrowLeft size={18} /> Back to the journal
       </Link>
@@ -88,19 +91,31 @@ export function ResearchedArticle({ article }: { article: Article }) {
         <h1>{article.title}</h1>
         <p className={styles.dek}>{article.excerpt}</p>
         <p className={styles.byline}>
-          Aliyas editorial <span>•</span> Research checked{' '}
-          <time dateTime={article.researchedAt}>{formattedDate}</time>
+          <span>Aliyas editorial</span>
+          {article.date && publishedDate && article.date !== article.researchedAt && (
+            <>
+              <span aria-hidden="true">•</span>
+              <span>
+                Published <time dateTime={article.date}>{publishedDate}</time>
+              </span>
+            </>
+          )}
+          <span aria-hidden="true">•</span>
+          <span>
+            Updated <time dateTime={article.researchedAt}>{formattedDate}</time>
+          </span>
         </p>
       </header>
-      <figure className={styles.cover}>
-        <JournalCover
-          article={article}
-          sizes="(max-width:767px) 100vw, (max-width:1439px) 90vw, 1280px"
-          priority
-        />
-        <figcaption>Illustrative image</figcaption>
-      </figure>
-      <div className={styles.layout}>
+      {article.image && (
+        <figure className={styles.cover}>
+          <JournalCover
+            article={article}
+            sizes="(max-width:767px) 100vw, (max-width:1439px) 90vw, 1280px"
+            priority
+          />
+        </figure>
+      )}
+      <div className={`${styles.layout} ${!article.image ? styles.noCoverLayout : ''}`}>
         <aside className={styles.sidebar}>
           <details open>
             <summary>In this article</summary>
@@ -114,7 +129,7 @@ export function ResearchedArticle({ article }: { article: Article }) {
               }))}
             />
             <a className={styles.sourceJump} href="#article-sources">
-              Sources & research notes
+              Sources
             </a>
           </details>
         </aside>
@@ -211,11 +226,10 @@ export function ResearchedArticle({ article }: { article: Article }) {
             </section>
           ))}
           <section id="article-sources" className={styles.sources}>
-            <h2>Sources & research notes</h2>
+            <h2>Sources</h2>
             <p>
-              Checked {formattedDate}. Dates and measurement periods are stated beside the
-              references. Examples labelled illustrative are our calculations, not observed market
-              results.
+              Research reviewed {formattedDate}. Publication dates and measurement periods are
+              provided with each source.
             </p>
             <ol>
               {article.references?.map((ref) => (
@@ -229,9 +243,8 @@ export function ResearchedArticle({ article }: { article: Article }) {
               ))}
             </ol>
             <p className={styles.note}>
-              General property information, not personalised financial or legal advice. Confirm
-              current costs, eligibility and contract terms for the specific property before
-              committing.
+              Property costs, ownership and contract terms vary by home. Speak with Aliyas about the
+              details relevant to your search.
             </p>
           </section>
           <aside className={styles.cta}>

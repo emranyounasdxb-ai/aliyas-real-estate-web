@@ -1,26 +1,11 @@
 import { expect, test } from '@playwright/test';
-
-test.describe('native home collection scrolling', () => {
+import { touchGesture, assertNoOverflow } from './current-ui';
+test.describe('native home journey scrolling', () => {
   test.use({ hasTouch: true, isMobile: true });
-  test('a finger starting inside the project rail can scroll the page while native horizontal browsing remains available', async ({
+  test('vertical touch exits the journey while horizontal gestures browse its smaller-screen panels', async ({
     page,
   }) => {
-    test.setTimeout(90_000);
-    const touch = await page.context().newCDPSession(page);
-    const gesture = async (x1: number, y1: number, x2: number, y2: number) => {
-      await touch.send('Input.dispatchTouchEvent', {
-        type: 'touchStart',
-        touchPoints: [{ x: x1, y: y1 }],
-      });
-      for (let step = 1; step <= 10; step++) {
-        await touch.send('Input.dispatchTouchEvent', {
-          type: 'touchMove',
-          touchPoints: [{ x: x1 + ((x2 - x1) * step) / 10, y: y1 + ((y2 - y1) * step) / 10 }],
-        });
-        await page.waitForTimeout(25);
-      }
-      await touch.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] });
-    };
+    test.setTimeout(120000);
     for (const reducedMotion of ['no-preference', 'reduce'] as const)
       for (const [width, height] of [
         [320, 844],
@@ -33,51 +18,40 @@ test.describe('native home collection scrolling', () => {
         await page.emulateMedia({ reducedMotion });
         await page.setViewportSize({ width, height });
         await page.goto('/');
-        await page.evaluate(() => document.fonts.ready);
         if (reducedMotion === 'no-preference')
           await expect(page.locator('html')).toHaveClass(/lenis/);
-        const rail = page.locator('.future-rail-viewport');
+        const rail = page.locator('.hp-journey-viewport');
         await rail.scrollIntoViewIfNeeded();
-        const bounds = await rail.evaluate((e) => {
-          const box = e.getBoundingClientRect(),
-            header = document.querySelector('.site-header')!.getBoundingClientRect();
+        const b = await rail.evaluate((e) => {
+          const r = e.getBoundingClientRect(),
+            h = document.querySelector('.site-header')!.getBoundingClientRect();
           return {
-            x: box.left + box.width / 2,
-            top: Math.max(box.top, header.bottom + 12),
-            bottom: Math.min(box.bottom, innerHeight - 16),
+            x: r.left + r.width / 2,
+            top: Math.max(r.top, h.bottom + 12),
+            bottom: Math.min(r.bottom, innerHeight - 16),
           };
         });
-        const startY = bounds.bottom - 8,
-          endY = Math.max(bounds.top + 8, startY - 180);
+        const y = b.bottom - 8,
+          end = Math.max(b.top + 8, y - 180),
+          before = await page.evaluate(() => scrollY);
         expect(
           await page.evaluate(
-            ({ x, y }) =>
-              Boolean(document.elementFromPoint(x, y)?.closest('.future-rail-viewport')),
-            { x: bounds.x, y: startY },
+            (p) => Boolean(document.elementFromPoint(p.x, p.y)?.closest('.hp-journey-viewport')),
+            { x: b.x, y },
           ),
         ).toBe(true);
-        const before = await page.evaluate(() => scrollY);
-        await gesture(bounds.x, startY, bounds.x, endY);
+        await touchGesture(page, b.x, y, b.x, end);
         await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(before + 70);
-        if (
-          !(await page
-            .locator('[data-collection-section]')
-            .evaluate((e) => e.classList.contains('is-pinned')))
-        ) {
+        if (width <= 1100) {
           await rail.scrollIntoViewIfNeeded();
-          const box = (await rail.boundingBox())!;
-          const y = Math.max(100, Math.min(height * 0.5, box.y + box.height * 0.5));
+          const r = (await rail.boundingBox())!;
+          const ty = Math.max(100, Math.min(height * 0.5, r.y + r.height * 0.5));
           const left = await rail.evaluate((e) => e.scrollLeft);
-          await gesture(box.x + box.width - 24, y, box.x + 24, y);
+          await touchGesture(page, r.x + r.width - 24, ty, r.x + 24, ty);
           await expect.poll(() => rail.evaluate((e) => e.scrollLeft)).toBeGreaterThan(left + 50);
-          await expect
-            .poll(() => page.locator('[data-collection-current]').innerText())
-            .not.toBe('01');
+          await expect(page.locator('.hp-journey-controls [role=status]')).not.toContainText('01');
         }
-        expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(
-          width,
-        );
+        await assertNoOverflow(page);
       }
-    await touch.detach();
   });
 });

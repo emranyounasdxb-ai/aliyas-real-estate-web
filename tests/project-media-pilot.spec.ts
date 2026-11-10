@@ -6,6 +6,7 @@ import fs from 'node:fs';
 import { getAllDeveloperProjects } from '../src/lib/developer-projects';
 import { getProjectMedia } from '../src/lib/project-media';
 import { mediaEntries } from '../src/data/project-enhancement-registry';
+import { originalImagePath } from './image-source';
 
 const route = '/developers/emaar/projects/avelia';
 const media = getProjectMedia(getAllDeveloperProjects().find((p) => p.id === 'emaar-project-49')!)!;
@@ -49,8 +50,10 @@ test('official gallery fits both themes, shows full images and keeps project enq
   await page.goto(route);
   await page.evaluate(() => document.fonts.ready);
   await expect(page.locator('.pd-gallery-thumbnails button')).toHaveCount(6);
-  await expect(page.locator('.pd-gallery figcaption')).toContainText('Emaar project renders');
-  await expect(page.locator('.pd-disclaimer')).toContainText('proposed design');
+  await expect(
+    page.locator('.pd-gallery').getByRole('link', { name: 'Image source' }),
+  ).toHaveAttribute('href', media.source.url);
+  await expect(page.locator('.pd-disclaimer')).toHaveCount(0);
   for (const theme of ['light', 'dark']) {
     await page.evaluate((theme) => {
       document.documentElement.dataset.theme = theme;
@@ -110,9 +113,7 @@ test('official gallery fits both themes, shows full images and keeps project enq
   if (pending) {
     await page.goto(`/developers/${pending.developerSlug}/projects/${pending.slug}`);
     await expect(page.locator('.project-media-pilot')).toHaveCount(0);
-    await expect(page.locator('.pd-gallery figcaption')).toContainText(
-      'Illustrative concept gallery',
-    );
+    await expect(page.locator('.pd-gallery')).not.toContainText(/illustrative|to follow/i);
   }
 });
 
@@ -157,12 +158,10 @@ test('Avelia listing card uses its own official exterior and opens the same proj
   const card = page.locator('article[data-project-id="emaar-project-49"]');
   await expect(card).toHaveAttribute('data-official-renders', 'true');
   await expect(page.locator('.project-card-badge')).toHaveCount(0);
-  await expect(card.locator('img')).toHaveAttribute('alt', /Emaar render of Avelia villas/);
+  await expect(card.locator('img')).toHaveAttribute('alt', /Avelia.*project render/);
   await card.scrollIntoViewIfNeeded();
   await card.locator('img').evaluate((img) => (img as HTMLImageElement).decode());
-  expect(await card.locator('img').getAttribute('src')).toContain(
-    encodeURIComponent(media.cardImage),
-  );
+  expect(originalImagePath((await card.locator('img').getAttribute('src'))!, page.url())).toBe(media.cardImage);
   for (const theme of ['light', 'dark']) {
     await page.evaluate((theme) => {
       document.documentElement.dataset.theme = theme;

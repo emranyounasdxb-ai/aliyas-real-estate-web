@@ -6,7 +6,6 @@ import data from '../src/data/project-floor-plans/avelia.json' with { type: 'jso
 import catalogue from '../src/data/developer-projects/emaar.json' with { type: 'json' };
 import { getAllDeveloperProjects } from '../src/lib/developer-projects';
 import { getProjectFloorPlans } from '../src/lib/project-enhancements';
-import { getProjectMedia } from '../src/lib/project-media';
 
 test('native mobile pan can be followed immediately by closing the plan without scroll lock', async ({
   browser,
@@ -74,7 +73,7 @@ test('Avelia floor plans retain all six correct sheets and support responsive ke
   page.on('pageerror', (error) => errors.push(error.message));
   await page.goto('/developers/emaar/projects/avelia#floor-plans');
   const section = page.locator('#floor-plans');
-  const selector = section.getByLabel('Choose a villa layout');
+  const selector = section.getByLabel('Choose a layout');
   await expect(selector.locator('option')).toHaveCount(6);
   for (let index = 0; index < 6; index++) {
     await selector.selectOption(String(index));
@@ -162,13 +161,12 @@ test('Avelia floor plans retain all six correct sheets and support responsive ke
   const pending = getAllDeveloperProjects().find((project) => !getProjectFloorPlans(project));
   if (pending) {
     await page.goto(`/developers/${pending.developerSlug}/projects/${pending.slug}`);
-    const unavailable = getProjectMedia(pending)?.unavailableFloorPlans;
-    if (unavailable) {
-      await expect(page.locator('#floor-plans .pd-description')).toHaveText(unavailable.note);
-      await expect(page.locator('#floor-plans a')).toHaveCount(unavailable.sources.length);
-      await expect(page.locator('#floor-plans select, #floor-plans .fp-preview')).toHaveCount(0);
-    } else {
-      await expect(page.locator('#floor-plans')).toHaveCount(0);
-    }
+    await expect(page.locator('#floor-plans')).toHaveCount(0);
+    await expect(
+      page.getByRole('navigation', { name: 'Project sections' }).getByRole('link', {
+        name: 'Floor plans',
+        exact: true,
+      }),
+    ).toHaveCount(0);
   }
 });

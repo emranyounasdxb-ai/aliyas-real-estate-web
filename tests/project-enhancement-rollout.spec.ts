@@ -6,7 +6,8 @@ import { getAllDeveloperProjects, getDeveloperProjects } from '../src/lib/develo
 import { DEVELOPER_PROJECT_PAGE_SIZE } from '../src/lib/developer-project-pagination';
 import { getProjectMedia } from '../src/lib/project-media';
 import { getProjectFloorPlans, getProjectLocation } from '../src/lib/project-enhancements';
-import { getDisplayedResearchUnresolved } from '../src/lib/project-research-display';
+import { projectMediaNote, projectPlanArea, projectPlanLabel } from '../src/lib/project-media-copy';
+import { originalImagePath } from './image-source';
 
 const projects = getAllDeveloperProjects();
 const queue = JSON.parse(fs.readFileSync('docs/project-page-enhancement-queue.json', 'utf8'));
@@ -63,29 +64,39 @@ for (const project of reviewing) {
     page.on('pageerror', (error) => errors.push(error.message));
     await page.goto(`/developers/${project.developerSlug}/projects/${project.slug}`);
     await expect(page.locator('.pd-heading .pd-location')).toHaveText(location.community);
-    await expect(page.locator('.pd-research-pending li')).toHaveText(
-      getDisplayedResearchUnresolved(project.research!, true, plans?.researchNoteReplacements),
-    );
-    await expect(page.locator('.pd-research-pending')).not.toContainText('imagery is deferred');
+    await expect(page.locator('.pd-research-pending')).toHaveCount(0);
     await expect(page.locator('.pd-gallery-thumbnails button')).toHaveCount(media.images.length);
-    const firstPhoto = media.images.findIndex((image) => image.photograph);
-    const firstRender = media.images.findIndex((image) => !image.photograph);
-    if (firstPhoto !== -1 && firstRender !== -1) {
+    const firstPhoto = media.images.find((image) => image.photograph);
+    const firstRender = media.images.find((image) => !image.photograph);
+    if (firstPhoto && firstRender) {
       const gallery = page.locator('#project-gallery');
       const thumbnails = gallery.locator('.pd-gallery-thumbnails button');
       const openGallery = gallery.locator('.pd-gallery-open');
       const lightbox = page.locator('.pd-lightbox');
-      await expect(gallery.locator('figcaption')).toContainText('project photographs and renders');
-      await thumbnails.nth(firstPhoto).click();
+      await expect(gallery.getByRole('link', { name: 'Image source' })).toHaveAttribute(
+        'href',
+        media.source.url,
+      );
+      await thumbnails
+        .filter({ has: page.locator(`img[src*="${encodeURIComponent(firstPhoto.src)}"]`) })
+        .click();
       await openGallery.press('Enter');
       await expect(lightbox).toBeVisible();
-      await expect(lightbox).toContainText('project photograph');
+      await expect(lightbox.locator('img')).toHaveAttribute(
+        'alt',
+        firstPhoto.alt || `${project.name} — ${firstPhoto.label}, project photograph`,
+      );
       await page.keyboard.press('Escape');
       await expect(openGallery).toBeFocused();
-      await thumbnails.nth(firstRender).click();
+      await thumbnails
+        .filter({ has: page.locator(`img[src*="${encodeURIComponent(firstRender.src)}"]`) })
+        .click();
       await openGallery.press('Enter');
       await expect(lightbox).toBeVisible();
-      await expect(lightbox).toContainText('project render');
+      await expect(lightbox.locator('img')).toHaveAttribute(
+        'alt',
+        firstRender.alt || `${project.name} — ${firstRender.label}, project render`,
+      );
       await page.keyboard.press('Escape');
       await thumbnails.first().click();
     }
@@ -108,7 +119,9 @@ for (const project of reviewing) {
         await select.selectOption(String(i));
         await page.locator('.fp-preview').scrollIntoViewIfNeeded();
         await page.locator('.fp-preview img').evaluate((img) => (img as HTMLImageElement).decode());
-        await expect(page.locator('.fp-area')).toHaveText(plans.plans[i].area);
+        const area = projectPlanArea(plans.plans[i].area);
+        if (area) await expect(page.locator('.fp-area')).toHaveText(area);
+        else await expect(page.locator('.fp-area')).toHaveCount(0);
         const plan = plans.plans[i];
         if (plan.imageSource?.background === 'dark') {
           await expect(page.locator('.fp-preview')).toHaveCSS(
@@ -130,20 +143,10 @@ for (const project of reviewing) {
       expect(unavailable).toBeDefined();
       expect(unavailable!.reviewedOn).toMatch(/^\d{4}-\d{2}-\d{2}$/);
       expect(unavailable!.sources.length).toBeGreaterThan(0);
-      await expect(page.locator('.pd-floor-plans-unavailable .pd-description')).toHaveText(
-        unavailable!.note,
-      );
-      await expect(
-        page.locator('#floor-plans select, #floor-plans img, .fp-preview, .fp-toolbar'),
-      ).toHaveCount(0);
-      await expect(page.locator('#floor-plans a')).toHaveText(
-        unavailable!.sources.map((source) => source.label),
-      );
+      await expect(page.locator('#floor-plans, .pd-floor-plans-unavailable')).toHaveCount(0);
+      await expect(page.locator('.pd-nav a[href="#floor-plans"]')).toHaveCount(0);
       for (const source of unavailable!.sources) {
         expect(new URL(source.url).protocol).toBe('https:');
-        await expect(
-          page.locator('#floor-plans a').filter({ hasText: source.label }),
-        ).toHaveAttribute('href', source.url);
       }
     }
     await expect(page.locator('#location .pl-destinations li')).toHaveCount(
@@ -162,7 +165,9 @@ for (const project of reviewing) {
     );
     if (location.pin) {
       await page.locator('#location summary').click();
-      await expect(page.locator('#location .pl-interactive p')).toContainText(location.pin.scope);
+      await expect(page.locator('#location .pl-interactive p')).toHaveText(
+        projectMediaNote(location.pin.scope) || `${location.community} location`,
+      );
       await page.locator('#location summary').click();
     } else {
       // Unreliable source coordinates must not become an interactive project pin.
@@ -190,6 +195,7 @@ for (const project of reviewing) {
         }
         if ([390, 1440].includes(width)) {
           for (const id of ['project-gallery', 'floor-plans', 'location']) {
+            if (id === 'floor-plans' && !plans) continue;
             const section = page.locator(`#${id}`);
             await section.scrollIntoViewIfNeeded();
             for (const img of await section.locator('img').all()) {
@@ -215,7 +221,9 @@ for (const project of reviewing) {
     if (plans) {
       await page.locator('.fp-preview').focus();
       await page.keyboard.press('Enter');
-      const dialog = page.getByRole('dialog', { name: plans.plans.at(-1)!.label });
+      const dialog = page.getByRole('dialog', {
+        name: projectPlanLabel(plans.plans.at(-1)!.label),
+      });
       await expect(dialog).toBeVisible();
       if (plans.plans.at(-1)!.imageSource?.background === 'dark') {
         await expect(dialog.locator('.fp-viewport')).toHaveCSS(
@@ -247,8 +255,8 @@ for (const project of reviewing) {
       await page.keyboard.press('Escape');
       await expect(page.locator('.pd-lightbox')).not.toBeVisible();
       await expect(trigger).toBeFocused();
-      await page.locator('#floor-plans a').first().focus();
-      await expect(page.locator('#floor-plans a').first()).toBeFocused();
+      await page.getByRole('link', { name: 'Image source' }).focus();
+      await expect(page.getByRole('link', { name: 'Image source' })).toBeFocused();
     }
     const cardIndex = getDeveloperProjects(project.developerSlug).findIndex(
       (entry) => entry.id === project.id,
@@ -257,9 +265,7 @@ for (const project of reviewing) {
     const cardPage = Math.floor(cardIndex / DEVELOPER_PROJECT_PAGE_SIZE) + 1;
     await page.goto(`/developers/${project.developerSlug}?page=${cardPage}#developer-projects`);
     const card = page.locator(`article.project-card[data-project-id="${project.id}"]`);
-    expect(await card.locator('img').getAttribute('src')).toContain(
-      encodeURIComponent(media.cardImage),
-    );
+    expect(originalImagePath((await card.locator('img').getAttribute('src'))!, page.url())).toBe(media.cardImage);
     await expect(card.locator('.project-location')).not.toHaveText(
       /\b(Dubai|Sharjah|Abu Dhabi|Ras Al Khaimah|Ajman|Fujairah|Umm Al Quwain),\s*\1$/i,
     );

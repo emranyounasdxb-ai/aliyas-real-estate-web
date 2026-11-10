@@ -159,7 +159,8 @@ export function BrandedSelect({
       const width = Math.min(Math.max(box.width, 256), innerWidth - 32);
       const below = bottomEdge - box.bottom - 16;
       const above = box.top - topEdge - 16;
-      const upwards = below < Math.min(options.length * 48 + 16, 260) && above > below;
+      const menuHeight = options.length * 48 + Math.max(options.length - 1, 0) * 4 + 16;
+      const upwards = below < Math.min(menuHeight, 260) && above > below;
       const maxHeight = Math.min(336, Math.max(96, upwards ? above : below));
       setPosition({
         left: Math.max(16, Math.min(box.left, innerWidth - width - 16)),

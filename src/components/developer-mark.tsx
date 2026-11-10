@@ -24,6 +24,7 @@ export function DeveloperMark({
         width={200}
         height={90}
         sizes={sizes}
+        unoptimized
       />
     </span>
   );

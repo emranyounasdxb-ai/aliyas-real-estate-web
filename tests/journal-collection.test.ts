@@ -11,10 +11,10 @@ const { selectJournalArticles } = (await import(
   paginationSource
 )) as typeof import('../src/lib/journal-pagination');
 
-test('the owner collection contains exactly100 stable, separately owned article records', () => {
-  assert.equal(journalArticles.length, 100);
+test('the owner collection contains 200 stable, separately owned article records', () => {
+  assert.equal(journalArticles.length, 200);
   for (const field of ['id', 'slug', 'title'] as const)
-    assert.equal(new Set(journalArticles.map((article) => article[field])).size, 100);
+    assert.equal(new Set(journalArticles.map((article) => article[field])).size, 200);
   journalArticles.forEach((article, index) => {
     assert.equal(article.sequence, index + 1);
     assert.equal(article.id, `aliyas-journal-${String(index + 1).padStart(3, '0')}`);
@@ -44,7 +44,7 @@ test('owned covers remain separate and only researched articles gain bodies and 
   assert.equal(new Set(sections).size, sections.length);
   for (const article of journalArticles) {
     assert.ok(article.image.startsWith(`/images/journal/${article.id}-`));
-    assert.ok(article.imageAlt?.startsWith('Illustration: '));
+    assert.ok(article.imageAlt?.trim());
     assert.equal(article.imageWidth, 1672);
     assert.ok(article.imageHeight === 940 || article.imageHeight === 941);
     if (article.status === 'planned') {
@@ -62,30 +62,32 @@ test('owned covers remain separate and only researched articles gain bodies and 
     }
   }
 });
-test('the actual100 titles paginate completely and topics/search select the correct entries', () => {
-  const pages = Array.from({ length: 12 }, (_, index) =>
+test('the 200 articles paginate newest first and topics/search select the correct entries', () => {
+  const pages = Array.from({ length: 23 }, (_, index) =>
     selectJournalArticles(journalArticles, { page: String(index + 1) }),
   );
   assert.deepEqual(
     pages.map((page) => page.items.length),
-    [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 1],
+    [...Array(22).fill(9), 2],
   );
   assert.deepEqual(
     pages.flatMap((page) => page.items.map((article) => article.id)),
-    journalArticles.map((article) => article.id),
+    journalArticles.map((article) => article.id).reverse(),
   );
+  assert.equal(pages[0].items[0].date, '2026-07-19');
+  assert.equal(pages[22].items.at(-1)?.date, '2026-01-01');
   assert.deepEqual(
     pages[0].topics.map((topic) => topic.count),
-    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+    [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 30, 25, 15, 10, 10, 10],
   );
-  assert.equal(selectJournalArticles(journalArticles, { q: 'Ajman' }).total, 2);
+  assert.equal(selectJournalArticles(journalArticles, { q: 'Ajman' }).total, 35);
   assert.equal(
     selectJournalArticles(journalArticles, { topic: 'places-communities', page: '2' }).items[0].id,
-    'aliyas-journal-030',
+    'aliyas-journal-021',
   );
   assert.equal(
     selectJournalArticles(journalArticles, { topic: 'seller-guides', page: '2' }).items[0].id,
-    'aliyas-journal-060',
+    'aliyas-journal-051',
   );
   assert.equal(
     selectJournalArticles(journalArticles, { q: 'District Cooling' }).items[0].id,
@@ -103,7 +105,7 @@ test('the actual100 titles paginate completely and topics/search select the corr
   );
 });
 
-test('all100 covers have separate, existing responsive assets for every advertised size', async () => {
+test('all 200 covers have separate, existing responsive assets for every advertised size', async () => {
   const paths = new Set<string>();
   for (const article of journalArticles) {
     const candidates = article.imageSrcSet?.split(', ').map((entry) => entry.split(' '));
@@ -120,5 +122,5 @@ test('all100 covers have separate, existing responsive assets for every advertis
       paths.add(url);
     }
   }
-  assert.equal(paths.size, 400);
+  assert.equal(paths.size, 800);
 });

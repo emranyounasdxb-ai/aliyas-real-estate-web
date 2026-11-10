@@ -3,13 +3,13 @@
 import Link from 'next/link';
 import { Check, GitCompareArrows, ArrowUpRight } from '@/components/brand-icons';
 import { useState } from 'react';
-import { useProjectComparison } from './comparison-store';
+import { comparisonKey, useProjectComparison } from './comparison-store';
 import './comparison.css';
 
 export function CompareButton({ slug, name }: { slug: string; name: string }) {
   const { slugs, toggle, isReady } = useProjectComparison();
   const [feedback, setFeedback] = useState({ ok: true, message: '' });
-  const selected = slugs.includes(slug);
+  const selected = slugs.includes(comparisonKey(slug));
   return (
     <div className="comparison-card-control">
       <button
@@ -18,7 +18,7 @@ export function CompareButton({ slug, name }: { slug: string; name: string }) {
         className={`comparison-select ${selected ? 'is-selected' : ''}`}
         aria-pressed={selected}
         aria-label={`Compare project: ${name}`}
-        onClick={() => setFeedback(toggle(slug))}
+        onClick={() => setFeedback(toggle(slug, name))}
       >
         {selected ? (
           <Check size={15} aria-hidden="true" />

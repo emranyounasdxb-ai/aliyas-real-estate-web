@@ -1,7 +1,11 @@
 import { ArrowUpRight } from 'lucide-react';
-import type { ProjectResearch } from '@/lib/project-research';
-import { getDisplayedResearchUnresolved } from '@/lib/project-research-display';
+import type { ProjectResearch, ProjectResearchSource } from '@/lib/project-research';
+import { projectPublicText, hasPublishedUnitArea } from '@/lib/project-public-copy';
 import './project-research-details.css';
+
+function publicSourceLabel(source: ProjectResearchSource) {
+  return projectPublicText(source.label) || new URL(source.url).hostname.replace(/^www\./, '');
+}
 
 export function ResearchSources({
   research,
@@ -21,7 +25,7 @@ export function ResearchSources({
     <span className="pd-research-citations">
       {sources.map((source) => (
         <a key={source.id} href={source.url} target="_blank" rel="noopener noreferrer">
-          {source.label}
+          {publicSourceLabel(source)}
           <ArrowUpRight size={12} aria-hidden="true" />
         </a>
       ))}
@@ -30,20 +34,17 @@ export function ResearchSources({
 }
 
 export function ResearchUnits({ research }: { research: ProjectResearch }) {
-  if (!research.units.length) return null;
+  const units = research.units.filter(
+    (unit) => projectPublicText(unit.label) === unit.label && hasPublishedUnitArea(unit.area),
+  );
+  if (!units.length) return null;
   return (
     <div className="pd-research-block">
       <h3 className="pd-subheading">Unit sizes & layouts</h3>
-      <div
-        className="pd-research-table-wrap"
-        role="region"
-        aria-label="Unit sizes"
-        tabIndex={0}
-      >
+      <div className="pd-research-table-wrap" role="region" aria-label="Unit sizes" tabIndex={0}>
         <table className="pd-research-table">
           <caption>
-            Published layout information. Areas and configurations vary by unit; refer to the linked
-            plans.
+            Residence layouts and floor areas. See the linked plans for each configuration.
           </caption>
           <thead>
             <tr>
@@ -52,7 +53,7 @@ export function ResearchUnits({ research }: { research: ProjectResearch }) {
             </tr>
           </thead>
           <tbody>
-            {research.units.map((unit) => (
+            {units.map((unit) => (
               <tr key={unit.label}>
                 <th scope="row">{unit.label}</th>
                 <td>
@@ -69,14 +70,27 @@ export function ResearchUnits({ research }: { research: ProjectResearch }) {
 }
 
 export function ResearchPayments({ research }: { research: ProjectResearch }) {
+  const priceNote = projectPublicText(research.priceNote);
+  const paymentNote = projectPublicText(research.paymentNote);
+  const handoverNote = projectPublicText(research.handoverNote);
+  // A partial calendar would misrepresent the full payment schedule.
+  const stages = research.paymentStages.every(
+    (stage) => projectPublicText(stage.stage) === stage.stage,
+  )
+    ? research.paymentStages
+    : [];
   return (
     <div className="pd-research-block">
-      <p className="pd-description">{research.priceNote}</p>
-      <ResearchSources research={research} fields={['price']} />
-      <p className="pd-description">{research.paymentNote}</p>
-      {research.paymentStages.length > 0 && (
+      {priceNote && (
+        <>
+          <p className="pd-description">{priceNote}</p>
+          <ResearchSources research={research} fields={['price']} />
+        </>
+      )}
+      {paymentNote && <p className="pd-description">{paymentNote}</p>}
+      {stages.length > 0 && (
         <ol className="pd-research-payments">
-          {research.paymentStages.map((stage) => (
+          {stages.map((stage) => (
             <li key={stage.stage}>
               <strong>{stage.percent}%</strong>
               <span>
@@ -88,17 +102,25 @@ export function ResearchPayments({ research }: { research: ProjectResearch }) {
         </ol>
       )}
       <ResearchSources research={research} fields={['paymentPlan']} />
-      <p className="pd-description">{research.handoverNote}</p>
-      <ResearchSources research={research} fields={['handover']} />
+      {handoverNote && (
+        <>
+          <p className="pd-description">{handoverNote}</p>
+          <ResearchSources research={research} fields={['handover']} />
+        </>
+      )}
     </div>
   );
 }
 
 export function ResearchFacts({ research }: { research: ProjectResearch }) {
-  if (!research.facts.length) return null;
+  const facts = research.facts
+    .filter((fact) => projectPublicText(fact.label) === fact.label)
+    .map((fact) => ({ ...fact, value: projectPublicText(fact.value) }))
+    .filter((fact) => fact.value);
+  if (!facts.length) return null;
   return (
     <dl className="pd-research-facts">
-      {research.facts.map((fact) => (
+      {facts.map((fact) => (
         <div key={fact.label}>
           <dt>{fact.label}</dt>
           <dd>
@@ -111,16 +133,7 @@ export function ResearchFacts({ research }: { research: ProjectResearch }) {
   );
 }
 
-export function ResearchReview({
-  research,
-  hasProjectMedia = false,
-  researchNoteReplacements,
-}: {
-  research: ProjectResearch;
-  hasProjectMedia?: boolean;
-  researchNoteReplacements?: Record<string, string>;
-}) {
-  const unresolved = getDisplayedResearchUnresolved(research, hasProjectMedia, researchNoteReplacements);
+export function ResearchReview({ research }: { research: ProjectResearch }) {
   const labels: Record<string, string> = {
     developer: 'Developer',
     'official-document': 'Official document',
@@ -130,44 +143,21 @@ export function ResearchReview({
   };
   return (
     <section className="pd-section pd-research-review" id="sources">
-      <p className="pd-eyebrow">06 / Sources & updates</p>
-      <h2>Information you can trace.</h2>
-      <p className="pd-description">
-        Research checked{' '}
-        <time dateTime={research.reviewedOn}>
-          {new Date(`${research.reviewedOn}T12:00:00Z`).toLocaleDateString('en-GB', {
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
-            timeZone: 'UTC',
-          })}
-        </time>
-        . Published prices, terms and completion targets can change. Ask Aliyas to confirm the offer
-        for your selected unit.
-      </p>
+      <p className="pd-eyebrow">06 / Further reading</p>
+      <h2>Project sources.</h2>
       <ul className="pd-research-source-list">
         {research.sources.map((source) => (
           <li key={source.id}>
             <a href={source.url} target="_blank" rel="noopener noreferrer">
               <span>
                 <small>{labels[source.kind] || 'Source'}</small>
-                {source.label}
+                {publicSourceLabel(source)}
               </span>
               <ArrowUpRight size={18} aria-hidden="true" />
             </a>
           </li>
         ))}
       </ul>
-      {unresolved.length > 0 && (
-        <details className="pd-research-pending">
-          <summary>Information still to confirm</summary>
-          <ul>
-            {unresolved.map((item) => (
-              <li key={item}>{item}</li>
-            ))}
-          </ul>
-        </details>
-      )}
     </section>
   );
 }

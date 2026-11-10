@@ -93,6 +93,7 @@
     :hover,
     :focus-within,
     [data-visible='false'],
+    [data-paused='true'],
     [data-document-visible='false']
   )
   .developer-marquee-track {
@@ -117,6 +118,26 @@
 @keyframes developer-flow {
   to {
     transform: translateX(-50%);
+  }
+}
+.developer-marquee-pause {
+  min-height: 40px;
+  padding: 8px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 12px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
+.developer-marquee-pause:focus-visible {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .developer-marquee-pause {
+    display: none;
   }
 }
 @media (max-width: 700px) {

@@ -99,6 +99,9 @@
   cursor: pointer;
   transition: background-color 300ms cubic-bezier(0.22, 1, 0.36, 1);
 }
+.brand-select-option + .brand-select-option {
+  margin-top: 4px;
+}
 .brand-select-option > span {
   flex: 1;
 }

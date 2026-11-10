@@ -1,10 +1,6 @@
 import type { Metadata } from 'next';
 import { ProjectBrowser } from '@/components/project-browser';
-import { catalogueNotice } from '@/lib/content';
-import { getAllDeveloperProjects } from '@/lib/developer-projects';
-import { developers } from '@/lib/developers';
-import { getProjectMedia } from '@/lib/project-media';
-import { findCuratedCollection } from '@/lib/curated-collections';
+import { getPublicListings } from '@/lib/public-listings';
 import '@/components/catalogue.css';
 export const metadata: Metadata = {
   title: 'Off-plan projects in the UAE',
@@ -35,18 +31,7 @@ export default async function ProjectsPage({
         </p>
       </div>
       <ProjectBrowser
-        approved={getAllDeveloperProjects()
-          .filter(
-            (project) =>
-              (!project.placeholder ||
-                (project.research?.status === 'reviewed' && getProjectMedia(project))) &&
-              developers.some((developer) => developer.slug === project.developerSlug),
-          )
-          .map((project) => ({
-            ...project,
-            developerName: developers.find((developer) => developer.slug === project.developerSlug)!
-              .name,
-          }))}
+        approved={getPublicListings()}
         initial={{
           collection: string('collection'),
           emirate: string('emirate'),
@@ -58,11 +43,6 @@ export default async function ProjectsPage({
           page: string('page'),
         }}
       />
-      <p className="catalogue-disclaimer">
-        {findCuratedCollection(string('collection'))
-          ? catalogueNotice
-          : 'Project details reflect dated sources. Developer renders and available project photographs are identified on each project page. Confirm current availability, commercial terms and the contracted specification.'}
-      </p>
     </div>
   );
 }

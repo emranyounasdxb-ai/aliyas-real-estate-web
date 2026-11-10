@@ -58,14 +58,50 @@
   border-color: var(--accent);
 }
 .site-frame .catalogue-browser-locations .catalogue-filters {
-  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) minmax(0, 1.35fr) minmax(0, 1fr) minmax(
-      0,
-      1fr
-    );
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 16px;
 }
 .site-frame .catalogue-browser-locations .catalogue-filters > label {
   min-width: 0;
-  padding-inline: 12px;
+  padding: 0;
+  border: 0;
+}
+.site-frame .catalogue-browser-locations .catalogue-filters .catalogue-search {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+}
+.site-frame .catalogue-browser-locations .catalogue-search-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  min-width: 0;
+  height: 48px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  text-transform: none;
+  letter-spacing: normal;
+  transition:
+    border-color 300ms cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 300ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.site-frame .catalogue-browser-locations .catalogue-search-control:is(:hover, :focus-within) {
+  border-color: var(--accent);
+}
+.site-frame .catalogue-browser-locations .catalogue-search-control:has(input:focus-visible) {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+}
+.site-frame .catalogue-browser-locations .catalogue-search-control input {
+  flex: 1;
+  min-width: 0;
+  padding: 0;
+}
+.site-frame .catalogue-browser-locations .catalogue-search-control input:focus-visible {
+  outline: none;
 }
 .site-frame .catalogue-browser-locations .catalogue-filters .brand-select-trigger {
   font-size: 14px;
@@ -136,6 +172,11 @@
   line-height: 24px;
   color: var(--muted);
 }
+@media (prefers-reduced-motion: reduce) {
+  .site-frame .catalogue-browser-locations .catalogue-search-control {
+    transition: none;
+  }
+}
 @media (min-width: 701px) and (max-width: 1100px) {
   .site-frame .home-search.home-search-locations {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -146,7 +187,7 @@
   }
   .site-frame .catalogue-browser-locations .catalogue-filters {
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 16px 0;
+    gap: 16px;
   }
   .site-frame .catalogue-browser-locations .catalogue-filters .catalogue-search {
     grid-column: 1/-1;

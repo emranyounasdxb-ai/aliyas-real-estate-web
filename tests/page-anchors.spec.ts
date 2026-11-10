@@ -9,7 +9,7 @@ test('home anchors share the native header gap across sizes and motion modes and
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 844 });
       await page.goto('/');
-      await page.locator('.future-hero-action').click();
+      await page.locator('.hp-hero-actions a').click();
       await expect(page).toHaveURL(/#find-a-home$/);
       await expect
         .poll(() =>

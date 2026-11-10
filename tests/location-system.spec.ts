@@ -58,7 +58,9 @@ test('canonical geography resolves aliases, rejects conflicts and preserves owne
   for (const developer of developers) {
     const records = getDeveloperProjects(developer.slug);
     expect(records.map((record) => record.id)).toEqual(
-      researchQueue.filter((record) => record.developerSlug === developer.slug).map((record) => record.id),
+      researchQueue
+        .filter((record) => record.developerSlug === developer.slug)
+        .map((record) => record.id),
     );
     for (const record of records) {
       expect(record.developerSlug).toBe(developer.slug);
@@ -75,19 +77,31 @@ test('canonical geography resolves aliases, rejects conflicts and preserves owne
 });
 
 test('area filters intersect other facets and approved records retain their scoped routes', () => {
-  const sample = catalogueEntries(projects, []);
+  const sample = catalogueEntries(
+    [],
+    [
+      {
+        ...getDeveloperProjects('meraas').find((p) => p.slug === 'the-acres-villas')!,
+        developerName: 'Meraas',
+      },
+      {
+        ...getDeveloperProjects('aldar').find((p) => p.slug === 'gardenia-bay')!,
+        developerName: 'Aldar Properties',
+      },
+    ],
+  );
   expect(
     filterCatalogue(sample, {
-      ...readLocationFilter('Dubai', 'dubai-dubailand'),
+      ...readLocationFilter('Dubai', 'dubai-the-acres'),
       type: 'Villa',
     }).map((p) => p.key),
-  ).toEqual(['the-acres']);
+  ).toEqual(['meraas-project-09']);
   expect(
     filterCatalogue(sample, {
       ...readLocationFilter('', 'abu-dhabi-yas-island'),
       budget: '2000000',
     }).map((p) => p.key),
-  ).toEqual(['gardenia-bay']);
+  ).toEqual(['aldar-project-21']);
   expect(filterCatalogue(sample, readLocationFilter('Abu Dhabi', 'dubai-dubailand'))).toEqual([]);
   const fixture: ApprovedListing = {
     ...getDeveloperProjects('emaar')[0],
@@ -113,6 +127,7 @@ test('area filters intersect other facets and approved records retain their scop
 
 test('homepage area selection infers emirate and submits all facets', async ({ page }) => {
   await page.goto('/');
+  await page.locator('.hp-advanced summary').click();
   await selectValue(
     page.getByRole('combobox', { name: 'Choose area or community', exact: true }),
     'dubai-dubailand',
@@ -126,8 +141,20 @@ test('homepage area selection infers emirate and submits all facets', async ({ p
   );
   await page.locator('.home-search button[type=submit]').click();
   await expect(page).toHaveURL(/emirate=Dubai&area=dubai-dubailand&type=Villa/);
-  await expect(page.locator('.project-card')).toHaveCount(1);
-  await expect(page.locator('.project-card')).toContainText('The Acres');
+  await expect(page.locator('.project-card')).toHaveCount(
+    Math.min(
+      15,
+      getAllDeveloperProjects().filter(
+        (p) => p.areaId === 'dubai-dubailand' && p.type?.includes('Villa'),
+      ).length,
+    ),
+  );
+  expect(await page.locator('.project-card h3').allTextContents()).toEqual(
+    getAllDeveloperProjects()
+      .filter((p) => p.areaId === 'dubai-dubailand' && p.type?.includes('Villa'))
+      .slice(0, 15)
+      .map((p) => p.name),
+  );
   await page.reload();
   await expect(
     page.getByRole('combobox', { name: 'Area or community', exact: true }),
@@ -145,27 +172,32 @@ test('changing emirate clears incompatible area and history restores it', async 
   await expect(
     page.getByRole('combobox', { name: 'Area or community', exact: true }),
   ).toContainText('Dubailand');
-  await expect(page.locator('.project-card')).toHaveCount(1);
+  await expect(page.locator('.project-card')).toHaveCount(
+    Math.min(
+      15,
+      getAllDeveloperProjects().filter(
+        (p) => p.areaId === 'dubai-dubailand' && p.type?.includes('Villa'),
+      ).length,
+    ),
+  );
   await page.goto('/projects?emirate=Abu%20Dhabi&area=dubai-jbr');
   await expect(page.locator('.project-card')).toHaveCount(0);
   await expect(page.locator('.location-active-filter')).toContainText('not recognised');
   await page.getByRole('button', { name: 'Clear location', exact: true }).click();
-  await expect(page.locator('.project-card')).toHaveCount(6);
+  await expect(page.locator('.project-card')).toHaveCount(15);
 });
 
 test('empty area links are honest and keyboard aliases select the correct area', async ({
   page,
 }) => {
   await page.goto('/');
+  await page.locator('.hp-advanced summary').click();
   const area = page.getByRole('combobox', { name: 'Choose area or community', exact: true });
   await area.focus();
   await page.keyboard.type('jlt');
   await page.keyboard.press('Enter');
   await expect(area).toContainText('Jumeirah Lakes Towers');
-  await page
-    .getByRole('navigation', { name: 'Explore projects by area' })
-    .getByRole('link', { name: 'JBR', exact: true })
-    .click();
+  await page.goto('/projects?area=dubai-jbr&q=zzznomatch');
   await expect(page).toHaveURL(/area=dubai-jbr/);
   await expect(page.locator('.project-card')).toHaveCount(0);
   await expect(page.locator('.catalogue-empty')).toContainText('No listed projects match');
@@ -193,9 +225,15 @@ test('native mobile touch area filter stays inside modal viewport', async ({
   await expect(
     page.getByRole('dialog').getByRole('combobox', { name: 'Location', exact: true }),
   ).toContainText('Dubai');
-  await page.getByRole('dialog').getByRole('button', { name: 'Show 1 project', exact: true }).tap();
-  await expect(page.locator('.project-card')).toHaveCount(1);
-  await expect(page.locator('.project-card')).toContainText('Creek Waters');
+  const expected = getAllDeveloperProjects().filter((p) => p.areaId === 'dubai-creek-harbour');
+  await page
+    .getByRole('dialog')
+    .getByRole('button', { name: 'Show ' + expected.length + ' projects', exact: true })
+    .tap();
+  await expect(page.locator('.project-card')).toHaveCount(Math.min(15, expected.length));
+  expect(await page.locator('.project-card h3').allTextContents()).toEqual(
+    expected.slice(0, 15).map((p) => p.name),
+  );
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
   await context.close();
 });
@@ -238,7 +276,7 @@ test('location controls fit five viewport sizes and remain accessible in both th
     await page.setViewportSize({ width, height: 950 });
     for (const route of ['/', '/projects?area=dubai-motor-city']) {
       await page.goto(route);
-      const target = page.locator(route === '/' ? '.home-location-search' : '.catalogue-browser');
+      const target = page.locator(route === '/' ? '.home-search' : '.catalogue-browser');
       await target.scrollIntoViewIfNeeded();
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
         true,
@@ -247,11 +285,12 @@ test('location controls fit five viewport sizes and remain accessible in both th
   }
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/');
+  await page.locator('.hp-advanced summary').click();
   for (const theme of ['light', 'dark']) {
     await page.locator('html').evaluate((el, t) => el.setAttribute('data-theme', t), theme);
     await page.getByRole('combobox', { name: 'Choose area or community', exact: true }).click();
     const scan = await new AxeBuilder({ page })
-      .include('.home-location-search')
+      .include('.home-search')
       .include('.brand-select-menu')
       .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
       .analyze();

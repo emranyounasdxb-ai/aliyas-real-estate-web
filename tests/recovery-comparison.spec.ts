@@ -37,7 +37,7 @@ test('empty shortlist has a visible recovery action and returns to the catalogue
   expect(box.y + box.height).toBeLessThanOrEqual(844);
   expect(box.height).toBeGreaterThanOrEqual(48);
   await action.click();
-  await expect(page.locator('.project-card')).toHaveCount(6);
+  await expect(page.locator('.project-card')).toHaveCount(15);
   await page.goBack();
   await expect(page).toHaveURL(/saved=1/);
   await expect(page.getByRole('heading', { name: 'Your shortlist starts here.' })).toBeVisible();
@@ -46,9 +46,9 @@ test('empty shortlist has a visible recovery action and returns to the catalogue
 test('saved recovery clears restrictive filters without losing favourites or comparison selection', async ({
   page,
 }) => {
-  await page.goto('/projects');
-  await page.getByRole('button', { name: 'Save Creek Waters', exact: true }).click();
-  await page.getByRole('button', { name: 'Compare project: Creek Waters', exact: true }).click();
+  await page.goto('/projects?q=Sobha%20Solis');
+  await page.getByRole('button', { name: 'Save Sobha Solis', exact: true }).click();
+  await page.getByRole('button', { name: 'Compare project: Sobha Solis', exact: true }).click();
   await page.goto('/projects?saved=1&q=zzznomatch');
   await expect(
     page.getByRole('heading', { name: 'Your saved homes are still here.' }),
@@ -57,7 +57,7 @@ test('saved recovery clears restrictive filters without losing favourites or com
   await expect(page).toHaveURL(/\/projects\?saved=1$/);
   await expect(page.locator('.project-card')).toHaveCount(1);
   await expect(
-    page.getByRole('button', { name: 'Unsave Creek Waters', exact: true }),
+    page.getByRole('button', { name: 'Unsave Sobha Solis', exact: true }),
   ).toHaveAttribute('aria-pressed', 'true');
   await expect(page.getByRole('link', { name: 'Compare (1)', exact: true })).toBeVisible();
   await page.goBack();
@@ -69,21 +69,20 @@ test('saved recovery clears restrictive filters without losing favourites or com
   await expect(page.locator('.catalogue-saved')).toContainText('Saved (1)');
 });
 
-test('unmatched search and Ajman preview states keep honest context and a visible mobile action', async ({
+test('unmatched searches including Ajman retain recovery context and a visible mobile action', async ({
   page,
 }) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  for (const route of ['/projects?q=zzznomatch', '/projects?emirate=Ajman']) {
+  for (const route of ['/projects?q=zzznomatch', '/projects?emirate=Ajman&q=zzznomatch']) {
     await page.goto(route);
     const empty = page.locator('.catalogue-empty');
-    if (route.includes('Ajman'))
-      await expect(empty).toContainText('There are no Ajman projects in this preview collection.');
+    if (route.includes('Ajman')) await expect(empty).toContainText('Try another location');
     else await expect(empty).toContainText('Try another location');
     const action = empty.getByRole('button', { name: 'Explore all projects' });
     const box = (await action.boundingBox())!;
     expect(box.y + box.height).toBeLessThanOrEqual(844);
     await action.click();
-    await expect(page.locator('.project-card')).toHaveCount(6);
+    await expect(page.locator('.project-card')).toHaveCount(15);
   }
 });
 
@@ -93,8 +92,8 @@ test('comparison uses comfortable mobile controls and brings results into view w
   for (const width of [320, 390, 768, 1024, 1440]) {
     await page.setViewportSize({ width, height: 950 });
     await page.goto('/projects/compare');
-    await selectValue(page.locator('#comparison-project-0'), 'creek-waters');
-    await selectValue(page.locator('#comparison-project-1'), 'the-acres');
+    await selectValue(page.locator('#comparison-project-0'), 'sobha-project-19');
+    await selectValue(page.locator('#comparison-project-1'), 'aldar-project-21');
     await expect(page.getByRole('table')).toBeVisible();
     if (width <= 700) {
       for (const select of await page.locator('.comparison-selector [role=combobox]').all()) {
@@ -131,8 +130,8 @@ test('empty recovery and comparison controls remain accessible in light and dark
       if ((await page.locator('html').getAttribute('data-theme')) !== theme)
         await page.locator('.theme-toggle').click();
       if (route.includes('compare')) {
-        await selectValue(page.locator('#comparison-project-0'), 'creek-waters');
-        await selectValue(page.locator('#comparison-project-1'), 'the-acres');
+        await selectValue(page.locator('#comparison-project-0'), 'sobha-project-19');
+        await selectValue(page.locator('#comparison-project-1'), 'aldar-project-21');
       }
       const scan = await new AxeBuilder({ page })
         .include(route.includes('compare') ? '.comparison-page' : '.catalogue-empty')

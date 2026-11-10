@@ -2,16 +2,20 @@
 
 import { BrandedSelect } from './branded-select';
 import { LocationFields } from './location-fields';
-import { DeveloperProjectPlaceholder } from './developer-project-placeholder';
+import { CatalogueProjectCard } from './catalogue-project-card';
 import { getArea, readLocationFilter, updateLocationQuery } from '@/lib/locations';
-import { catalogueEntries, filterCatalogue, type ApprovedListing } from '@/lib/catalogue-locations';
+import {
+  catalogueEntries,
+  cataloguePropertyTypes,
+  filterCatalogue,
+  type ApprovedListing,
+} from '@/lib/catalogue-locations';
 import './location-filters.css';
 
 import { useEffect, useId, useMemo, useRef, useState, type MouseEvent } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Heart, RotateCcw, Search, SlidersHorizontal, X } from 'lucide-react';
-import { projects } from '@/lib/content';
-import { ProjectCard, useSavedProjects } from './project-card';
+import { useSavedProjects } from './saved-projects-store';
 import { ComparisonLink } from './comparison-controls';
 import { findCuratedCollection } from '@/lib/curated-collections';
 import { selectDeveloperProjectPage } from '@/lib/developer-project-pagination';
@@ -111,10 +115,8 @@ export function ProjectBrowser({
   }
   const { saved } = useSavedProjects();
   const savedFilteredEmpty = savedOnly && saved.length > 0;
-  const inventory = useMemo(
-    () => catalogueEntries(collection || savedOnly ? projects : [], approved),
-    [approved, collection, savedOnly],
-  );
+  const inventory = useMemo(() => catalogueEntries([], approved), [approved]);
+  const propertyTypes = useMemo(() => cataloguePropertyTypes(approved), [approved]);
   const filtered = useMemo(
     () =>
       filterCatalogue(inventory, {
@@ -178,9 +180,7 @@ export function ProjectBrowser({
           aria-label="Property type"
           options={[
             { value: '', label: 'All types' },
-            { value: 'Apartment', label: 'Apartment' },
-            { value: 'Villa', label: 'Villa' },
-            { value: 'Townhouse', label: 'Townhouse' },
+            ...propertyTypes.map((value) => ({ value, label: value })),
           ]}
         />
       </label>
@@ -220,13 +220,16 @@ export function ProjectBrowser({
       )}
       <div className="catalogue-filters">
         <label className="catalogue-search">
-          <Search size={18} />
-          <input
-            aria-label="Search projects"
-            value={query}
-            onChange={(e) => updateFilter('q', e.target.value, true)}
-            placeholder="Project, community or developer"
-          />
+          <span>Search</span>
+          <span className="catalogue-search-control">
+            <Search size={18} aria-hidden="true" />
+            <input
+              aria-label="Search projects"
+              value={query}
+              onChange={(e) => updateFilter('q', e.target.value, true)}
+              placeholder="Project, community or developer"
+            />
+          </span>
         </label>
         {facets()}
       </div>
@@ -364,21 +367,16 @@ export function ProjectBrowser({
       )}
       {developer && (
         <p className="catalogue-active-filter">
-          Developer: {projects.find((p) => p.developerSlug === developer)?.developer || developer}{' '}
+          Developer:{' '}
+          {approved.find((p) => p.developerSlug === developer)?.developerName || developer}{' '}
           <button onClick={() => updateFilter('developer', '')}>Clear</button>
         </p>
       )}
       {filtered.length ? (
         <div className="catalogue-project-grid">
           {view.items.map((project) =>
-            project.sample ? (
-              <ProjectCard key={project.key} project={project.sample} />
-            ) : project.approved ? (
-              <DeveloperProjectPlaceholder
-                key={project.key}
-                project={project.approved}
-                developerName={project.developer}
-              />
+            project.approved ? (
+              <CatalogueProjectCard key={project.key} project={project.approved} />
             ) : null,
           )}
         </div>

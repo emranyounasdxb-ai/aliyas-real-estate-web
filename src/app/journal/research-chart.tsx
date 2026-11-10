@@ -46,9 +46,7 @@ export function ResearchChart({ chart, children }: { chart: Chart; children: Rea
           <i aria-hidden="true" />
           {chart.kind}
         </span>
-        <span className={styles.count}>
-          {String(chart.values.length).padStart(2, '0')} observations
-        </span>
+        <span className={styles.count}>{String(chart.values.length).padStart(2, '0')} values</span>
       </div>
       <h3 id={`${id}-title`}>{chart.title}</h3>
       <div className={styles.toolbar}>
@@ -139,7 +137,7 @@ export function ResearchChart({ chart, children }: { chart: Chart; children: Rea
           <caption className={styles.srOnly}>{chart.title} — underlying data</caption>
           <thead>
             <tr>
-              <th scope="col">Observation</th>
+              <th scope="col">Item</th>
               <th scope="col">Value</th>
             </tr>
           </thead>

@@ -747,6 +747,15 @@
   margin-top: 9px;
   min-height: 48px;
 }
+.site-frame .info-page .enquiry-form .brand-select .brand-select-trigger {
+  color: var(--navy);
+  background: #fff;
+  border-color: #929b93;
+  border-radius: 2px;
+  font:
+    14px/1.5 var(--font-ui),
+    sans-serif;
+}
 .site-frame .info-page .enquiry-form :is(input, select, textarea):focus-visible {
   outline: 2px solid var(--navy);
   outline-offset: 2px;
@@ -970,6 +979,9 @@
   .site-frame .info-page .enquiry-form input:not([type='checkbox']),
   .site-frame .info-page .enquiry-form select,
   .site-frame .info-page .enquiry-form textarea {
+    font-size: 16px;
+  }
+  .site-frame .info-page .enquiry-form .brand-select .brand-select-trigger {
     font-size: 16px;
   }
   .site-frame .info-page .enquiry-success h2 {

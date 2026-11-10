@@ -1,170 +1,155 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import Image from 'next/image';
-import {
-  ArrowDown,
-  ArrowUpRight,
-  House,
-  KeyRound,
-  Phone,
-  MapPin,
-  Heart,
-  Layers,
-  SlidersHorizontal,
-  MessageCircle,
-  Bookmark,
-  Building2,
-  BookOpen,
-} from '@/components/brand-icons';
+import { ArrowUpRight, MapPin, Plus } from '@/components/brand-icons';
 import { DeveloperMarquee } from '@/components/developer-marquee';
-import { HomeProjectActions } from '@/components/home-project-actions';
-import { HomeSearch } from '@/components/home-search';
-import { FAQ } from '@/components/faq';
 import { EnquiryTrigger } from '@/components/enquiry-trigger';
-import { LuxuryHomeMotion } from '@/components/luxury-home-motion';
-import { HomeDestinationCard } from '@/components/home-destination-card';
+import { HomeProjectActions } from '@/components/home-project-actions';
+import { HomePropertyBrief } from '@/components/home-property-brief';
+import { HomeBuyingJourney, HomePropertyPlan } from '@/components/home-reference-sections';
+import { HomeSearch } from '@/components/home-search';
+import { HomeTagline } from '@/components/home-tagline';
+import { JournalCover } from '@/components/journal-cover';
+import { ResponsiveProjectImage } from '@/components/responsive-project-image';
 import { businessContact } from '@/lib/contact';
+import { cataloguePropertyTypes } from '@/lib/catalogue-locations';
+import { articles } from '@/lib/content';
+import { developerProjectHref } from '@/lib/developer-project-url';
+import { developers } from '@/lib/developers';
+import { getHomeCollection, type HomeCollectionProject } from '@/lib/home-collection';
+import { getPublicListings } from '@/lib/public-listings';
+import { getProjectImageResponsiveWidth } from '@/lib/project-media';
 import { socialLinks } from '@/lib/socials';
-import siteImagery from '@/lib/site-imagery.json';
-import { projects, developers, legacyArticles as articles } from '@/lib/content';
+import './home-property.css';
+import './home-editorial.css';
+import './home-reference-sections.css';
 
 export const metadata: Metadata = {
-  title: { absolute: 'Aliyas Real Estate | Find your next home in the UAE' },
+  title: { absolute: 'Aliyas Real Estate | UAE homes, with a clearer way to buy' },
   description:
-    'Explore UAE off plan homes with Aliyas. Discover Dubai, Abu Dhabi, Ras Al Khaimah and Ajman, compare projects and build your personal shortlist.',
+    'Find your next UAE property with Aliyas. Compare off plan homes, prices, payment plans and locations, then speak with our Dubai based team about your shortlist.',
   alternates: { canonical: '/' },
 };
-const services = [
-  {
-    title: 'Find your setting',
-    image: siteImagery.marina.src,
-    text: 'Explore Dubai, Abu Dhabi, Ras Al Khaimah and Ajman. Start with the place you would like to call home.',
-    href: '#home-destinations',
-    action: 'Explore destinations',
-  },
-  {
-    title: 'Discover off plan homes',
-    image: siteImagery.beachfront.src,
-    text: 'Explore the collection by property type, location and budget. Each preview has a dedicated detail page.',
-    href: '#find-a-home',
-    action: 'Find a home',
-  },
-  {
-    title: 'Build your shortlist',
-    image: siteImagery.studio.src,
-    text: 'Save the homes that catch your eye. Compare up to three projects side by side, at your own pace.',
-    href: '/projects?saved=1',
-    action: 'Open saved projects',
-  },
-  {
-    title: 'Connect with Aliyas',
-    image: siteImagery.arrival.src,
-    text: 'Tell our team what you are looking for. Request current project details, brochures and availability directly.',
-    href: '/contact',
-    action: 'Contact our team',
-  },
-];
-const settings = [
-  {
-    title: 'Private villas',
-    caption: 'Room to live your way',
-    image: siteImagery.desertVilla.src,
-    href: '/projects?collection=villas',
-  },
-  {
-    title: 'City residences',
-    caption: 'At the heart of it all',
-    image: siteImagery.penthouse.src,
-    href: '/projects?collection=city',
-  },
-  {
-    title: 'Waterfront living',
-    caption: 'A different rhythm',
-    image: siteImagery.waterfrontVilla.src,
-    href: '/projects?collection=waterfront',
-  },
-  {
-    title: 'Dubai',
-    caption: 'A new perspective',
-    image: siteImagery.waterfrontCity.src,
-    href: '/projects?emirate=Dubai',
-  },
-  {
-    title: 'Abu Dhabi',
-    caption: 'Space to find your place',
-    image: siteImagery.mangrove.src,
-    href: '/projects?emirate=Abu+Dhabi',
-  },
-  {
-    title: 'Ras Al Khaimah',
-    caption: 'A wider horizon',
-    image: siteImagery.mountain.src,
-    href: '/projects?emirate=Ras+Al+Khaimah',
-  },
-  {
-    title: 'Ajman',
-    caption: 'A coastal outlook',
-    image: '/images/ajman.jpg',
-    href: '/projects?emirate=Ajman',
-  },
-  {
-    title: 'Apartment living',
-    caption: 'Consider every detail',
-    image: siteImagery.beachfront.src,
-    href: '/projects?type=Apartment',
-  },
-  {
-    title: 'Townhouses',
-    caption: 'A place to grow',
-    image: siteImagery.townhomes.src,
-    href: '/projects?type=Townhouse',
-  },
-  {
-    title: 'Considered interiors',
-    caption: 'A different way to live',
-    image: siteImagery.kitchen.src,
-    href: '/journal/a-home-that-feels-like-you',
-  },
-  {
-    title: 'Room for family',
-    caption: 'Explore the villa collection',
-    image: siteImagery.golf.src,
-    href: '/projects?type=Villa',
-  },
-  {
-    title: 'Design perspectives',
-    caption: 'Discover the developers',
-    image: siteImagery.facade.src,
-    href: '/developers',
-  },
-];
-const settingColumns = [
-  [0, 5],
-  [1, 6, 9],
-  [2, 7],
-  [3, 8, 10],
-  [4, 11],
-];
-const journalCovers = [
-  '/images/concept-apartment-interior.png',
-  '/images/journal-neighbourhood-study.svg',
-  '/images/journal-floor-plan-study.svg',
-];
-function ContactPill({ light = false }: { light?: boolean }) {
+const dateFormatter = new Intl.DateTimeFormat('en-GB', {
+  day: 'numeric',
+  month: 'short',
+  year: 'numeric',
+  timeZone: 'UTC',
+});
+const homeTypes = [
+  { label: 'Apartments', value: 'Apartment' },
+  { label: 'Villas', value: 'Villa' },
+  { label: 'Townhouses', value: 'Townhouse' },
+] as const;
+const questions = [
+  [
+    'Where should I start?',
+    'Start with your budget, preferred location and whether you are buying a home or an investment. Explore the collection or send the team your preferences for a personal conversation.',
+  ],
+  [
+    'Can I compare projects side by side?',
+    'Yes. Select Compare on up to three project cards, then open your comparison to review their prices, locations, home types and payment plans together.',
+  ],
+  [
+    'How do I get a quotation for a specific home?',
+    'Open the project and send an enquiry. The team can discuss current units, the payment schedule and the costs to include in your buying budget.',
+  ],
+  [
+    'What can I see before speaking to the team?',
+    'Project pages bring together the location, images, home types and key details. Browse the available floor plans and save the homes you would like to discuss.',
+  ],
+  [
+    'Can I speak to someone directly?',
+    'Call or WhatsApp the Aliyas team using the links below. If you have already found a project, include its name so the conversation starts with the home you have in mind.',
+  ],
+  [
+    'Can I visit Aliyas in Dubai?',
+    'Yes. Our office is at Office 218, Business Village, Dubai. Contact the team to arrange a time and bring your questions or saved project shortlist.',
+  ],
+] as const;
+
+function HomeProjectCard({ project }: { project: HomeCollectionProject }) {
+  const { editorial } = project;
   return (
-    <EnquiryTrigger className={`lux-pill ${light ? 'lux-pill-light' : ''}`}>
-      <span className="lux-pill-icon">
-        <Phone size={17} />
-      </span>
-      Let’s talk
-      <ArrowUpRight size={17} />
-    </EnquiryTrigger>
+    <article className="hp-project-card" data-home-project={project.id}>
+      <Link
+        href={developerProjectHref(project)}
+        prefetch={false}
+        className="hp-project-image"
+        aria-label={`${editorial.setting} — explore ${project.name}`}
+        data-reveal
+      >
+        <ResponsiveProjectImage
+          src={project.image}
+          responsiveWidth={project.imageResponsiveWidth}
+          alt={project.imageAlt || project.name}
+          fill
+          sizes="(max-width:700px) 100vw, (max-width:1440px) 60vw, 880px"
+          style={project.imagePosition ? { objectPosition: project.imagePosition } : undefined}
+        />
+        <span className="hp-setting">{editorial.setting}</span>
+        <span className="hp-image-arrow">
+          <ArrowUpRight size={20} aria-hidden="true" />
+        </span>
+      </Link>
+      <div className="hp-project-content" data-reveal data-reveal-delay="0.12">
+        <p className="hp-project-developer">
+          {project.developerName} <span>·</span> {project.emirate}
+        </p>
+        <h3>
+          <Link href={developerProjectHref(project)} prefetch={false}>
+            {project.name}
+          </Link>
+        </h3>
+        <p className="hp-project-location">
+          <MapPin size={16} aria-hidden="true" />
+          {project.location}
+        </p>
+        <p className="hp-project-description">{editorial.summary}</p>
+        <dl className="hp-project-facts">
+          <div>
+            <dt>{editorial.priceLabel}</dt>
+            <dd>AED {(editorial.startingPrice / 1_000_000).toFixed(1)}M</dd>
+          </div>
+          <div>
+            <dt>Payment plan</dt>
+            <dd>{editorial.plan}</dd>
+          </div>
+          <div>
+            <dt>{editorial.timingLabel}</dt>
+            <dd>{editorial.timing}</dd>
+          </div>
+        </dl>
+        <div className="hp-project-actions-row">
+          <Link className="hp-text-link" href={developerProjectHref(project)} prefetch={false}>
+            View project <ArrowUpRight size={18} aria-hidden="true" />
+          </Link>
+          <HomeProjectActions slug={project.id} legacySlug={project.slug} name={project.name} />
+        </div>
+        <a
+          className="hp-project-source"
+          href={editorial.source}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Developer information <ArrowUpRight size={12} aria-hidden="true" />
+        </a>
+      </div>
+    </article>
   );
 }
+
 export default function Home() {
+  const listings = getPublicListings();
+  const heroProject = listings.find((project) => project.id === 'aldar-project-02')!;
+  const featured = getHomeCollection();
+  const availableTypes = cataloguePropertyTypes(listings);
+  const latestStories = [...articles]
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+    .slice(0, 3);
+  const serviceImage =
+    '/images/projects/select-group/artistry-two-residences/artistry-two-residences-living-a847d4ff296f.jpg';
   return (
-    <div className="lux-home" data-luxury-home>
-      <LuxuryHomeMotion />
+    <div className="hp-home hp-editorial">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -172,558 +157,263 @@ export default function Home() {
             '@context': 'https://schema.org',
             '@type': 'RealEstateAgent',
             name: 'Aliyas Real Estate',
-            url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
+            url: process.env.NEXT_PUBLIC_SITE_URL || businessContact.website,
             telephone: businessContact.phone,
             email: businessContact.email,
-            logo: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/brand/aliyas-gold-logo-hd.webp`,
+            logo: `${process.env.NEXT_PUBLIC_SITE_URL || businessContact.website.replace(/\/$/, '')}/brand/aliyas-gold-logo-hd.webp`,
             address: {
               '@type': 'PostalAddress',
-              streetAddress: 'Office 218, Block B, Business Village',
+              streetAddress: 'Office 218, Business Village',
               addressLocality: 'Dubai',
               addressCountry: 'AE',
             },
-            sameAs: socialLinks.map((s) => s.url),
-          }).replace(/</g, '\\u003c'),
+            sameAs: socialLinks.map((social) => social.url),
+          }).replace(/</g, '\u003c'),
         }}
       />
-      <section className="lux-hero" aria-labelledby="lux-title">
-        <div className="lux-hero-copy">
-          <p className="lux-hero-overline">
-            <span className="lux-dot" /> Aliyas real estate <span>Dubai · UAE</span>
-          </p>
-          <div className="lux-hero-title">
-            <p data-lux-enter>A place for what comes next</p>
-            <h1 id="lux-title">
-              <span data-lux-line>Find your place.</span>
-              <span data-lux-line>Shape your</span>
-              <span data-lux-line>next chapter.</span>
+      <section className="hp-hero" aria-labelledby="hp-title">
+        <ResponsiveProjectImage
+          className="hp-hero-background"
+          src={heroProject.image}
+          responsiveWidth={heroProject.imageResponsiveWidth}
+          alt="Talay villa exterior, developer render"
+          fill
+          sizes="100vw"
+          loading="eager"
+          fetchPriority="high"
+        />
+        <div className="hp-shell hp-hero-inner">
+          <div className="hp-hero-copy" data-reveal>
+            <p className="hp-eyebrow">UAE PROPERTY · ALIYAS REAL ESTATE</p>
+            <h1 id="hp-title">
+              A new address.
+              <br />
+              <span>A new way to live.</span>
             </h1>
-            <p className="lux-hero-sub" data-lux-enter>
-              Discover homes taking shape across the UAE. Explore by location, compare your
-              favourites and connect with Aliyas.
+            <p className="hp-hero-intro">
+              Discover off plan homes across the UAE. Find the setting, the space and the investment
+              that feels right for you.
             </p>
-            <div className="lux-hero-actions" data-lux-enter>
-              <a href="#home-projects" className="lux-pill">
-                Explore projects <ArrowUpRight size={24} />
-              </a>
-              <span>
-                Browse at your pace.
-                <br />
-                No account needed.
-              </span>
-            </div>
-          </div>
-          <div className="lux-hero-proof" data-lux-enter>
-            <span>
-              <b>04</b> UAE destinations
-            </span>
-            <span>
-              <b>{developers.length}</b> Developer profiles
-            </span>
-            <span className="lux-hero-proof-note">One personal shortlist.</span>
-          </div>
-        </div>
-        <div className="lux-hero-image">
-          <Image
-            src="/images/burj-al-arab-beach.webp"
-            alt="Burj Al Arab seen from Jumeirah Beach in Dubai"
-            fill
-            sizes="(max-width:700px) 700px, 1400px"
-            loading="eager"
-            fetchPriority="high"
-          />
-          <span className="lux-hero-photo-label">A different perspective on home</span>
-          <div className="lux-image-bottom">
-            <div>
-              <span>01 / The UAE collection</span>
-              <strong>Life, with a wider horizon.</strong>
-            </div>
-            <span className="lux-hero-location">
-              <MapPin size={20} /> Jumeirah, Dubai
-            </span>
-          </div>
-        </div>
-      </section>
-      <section
-        className="lux-find lux-container"
-        id="find-a-home"
-        aria-labelledby="lux-search-title"
-      >
-        <div className="lux-section-head">
-          <div>
-            <p className="lux-kicker">
-              <span /> Find your starting point
-            </p>
-            <h2 id="lux-search-title">A home, on your terms.</h2>
-          </div>
-          <Link href="/projects" className="lux-text-link">
-            Explore all projects
-            <ArrowUpRight size={17} />
-          </Link>
-        </div>
-        <HomeSearch />
-        <DeveloperMarquee developers={developers.map(({ slug, name }) => ({ slug, name }))} />
-      </section>
-      <section className="lux-collection" id="home-projects" aria-labelledby="collection-heading">
-        <div className="lux-collection-heading lux-section-head">
-          <div>
-            <p className="lux-kicker">
-              <span /> The collection
-            </p>
-            <h2 id="collection-heading">
-              Find a home.
-              <br />
-              Make it yours.
-            </h2>
-          </div>
-          <p>
-            Explore a selection of off plan previews.
-            <br />
-            Find the details that matter to you.
-          </p>
-        </div>
-        <div className="lux-project-grid">
-          {projects.slice(0, 3).map((project, index) => (
-            <article className="lux-project-card" key={project.slug} data-lux-card>
-              <Link
-                href={`/projects/${project.slug}`}
-                className="lux-project-visual"
-                aria-label={`${project.name} by ${project.developer}, ${project.emirate}. Illustrative project preview.`}
-              >
-                <Image
-                  src={project.image}
-                  alt={`${project.name} — illustrative architecture, not project photography`}
-                  fill
-                  sizes="(max-width:700px) 95vw, 48vw"
-                />
-                <span className="lux-card-top">
-                  <span className="lux-project-number">0{index + 1}</span>
-                  <span className="lux-circle-arrow">
-                    <ArrowUpRight size={22} />
-                  </span>
-                </span>
-                <div className="lux-card-title">
-                  <h3>{project.name}</h3>
-                  <p>
-                    {project.developer} · {project.emirate}
-                  </p>
-                </div>
-                <span className="lux-preview-tag">Illustrative preview</span>
+            <div className="hp-hero-actions">
+              <Link className="hp-button hp-button-gold" href="#find-a-home">
+                Find my property <ArrowUpRight size={20} aria-hidden="true" />
               </Link>
-              <HomeProjectActions slug={project.slug} name={project.name} />
-            </article>
-          ))}
-          <HomeDestinationCard />
-        </div>
-        <div className="lux-collection-foot">
-          <p>
-            Preview collection. Photography and details are illustrative.
-            <br />
-            Ask Aliyas for current developer information.
-          </p>
-          <Link className="lux-pill lux-pill-light" href="/projects">
-            All projects
-            <ArrowUpRight size={18} />
-          </Link>
-        </div>
-      </section>
-      <section className="lux-panorama" aria-label="Discover a different perspective on UAE living">
-        <div className="lux-panorama-stage" data-lux-panorama>
-          <div className="lux-panorama-icons" aria-hidden="true">
-            <House size={18} />
-            <KeyRound size={18} />
-          </div>
-          <div className="lux-panorama-image">
-            <Image
-              src={siteImagery.waterfrontCity.src}
-              alt={siteImagery.waterfrontCity.alt}
-              fill
-              sizes="100vw"
-              quality={85}
-            />
-            <div className="lux-panorama-shade" />
-            <div className="lux-panorama-marquee" aria-hidden="true">
-              A place for your next chapter <span>·</span> A different perspective <span>·</span> A
-              place for your next chapter
             </div>
-            <p className="lux-panorama-caption">
-              Explore the possibilities. Find your place. · Illustrative cityscape
-            </p>
+            <div className="hp-hero-proof" aria-label="The Aliyas collection">
+              <div>
+                <strong>{listings.length}</strong>
+                <span>project profiles</span>
+              </div>
+              <div>
+                <strong>{developers.length}</strong>
+                <span>developers</span>
+              </div>
+              <div>
+                <strong>7</strong>
+                <span>emirates</span>
+              </div>
+            </div>
           </div>
-          <span className="lux-scroll-cue">
-            Scroll to discover <ArrowDown size={15} />
-          </span>
-        </div>
-      </section>
-      <section className="lux-about lux-container" aria-labelledby="lux-about-title">
-        <div className="lux-about-copy">
-          <div data-lux-reveal>
-            <p className="lux-kicker">
-              <span /> The Aliyas perspective
-            </p>
-            <h2
-              id="lux-about-title"
-              className="lux-tagline"
-              aria-label="Less searching. More finding your place."
-            >
-              {['Less searching.', 'More finding', 'your place.'].map((line, index) => (
-                <span className="lux-tagline-line" key={line}>
-                  {line.split(' ').map((word, wordIndex) => (
-                    <span data-tagline-word key={wordIndex}>
-                      {word}{' '}
-                    </span>
-                  ))}
-                </span>
-              ))}
-            </h2>
-            <p className="lux-about-intro">
-              Find the locations and homes that fit your plans. Keep your shortlist in one place,
-              then ask Aliyas for the details that matter.
-            </p>
-            <Link className="lux-team-link" href="/about">
-              <span className="lux-logo-dp">
-                <Image src="/brand/aliyas-gold-logo-hd.webp" alt="" width={100} height={38} />
-              </span>
-              <span>
-                Meet Aliyas
-                <br />
-                <b>Your real estate connection</b>
-              </span>
-              <ArrowUpRight size={18} />
-            </Link>
-          </div>
-          <div className="lux-about-note">
-            <span>Based in Dubai</span>
+          <div className="hp-hero-bottom">
             <p>
-              Explore the possibilities online.
-              <br />
-              Talk through the details with our team.
+              UAE homes. <span>A personal point of contact.</span>
             </p>
-          </div>
-        </div>
-        <div className="lux-about-visual" data-lux-parallax>
-          <Image
-            src={siteImagery.arrival.src}
-            alt={siteImagery.arrival.alt}
-            fill
-            sizes="(max-width:700px) 95vw, 48vw"
-            quality={85}
-          />
-          <div className="lux-about-top">
-            <ContactPill light />
-          </div>
-          <div className="lux-consult-card">
-            <span className="lux-logo-dp">
-              <Image src="/brand/aliyas-gold-logo-hd.webp" alt="" width={100} height={38} />
-            </span>
-            <div>
-              <span>A conversation, built around you.</span>
-              <EnquiryTrigger className="lux-consult-trigger">
-                Let’s find your next home
-                <ArrowUpRight size={19} />
-              </EnquiryTrigger>
-            </div>
-          </div>
-          <span className="lux-concept-label">Architectural concept</span>
-        </div>
-      </section>
-      <section className="lux-services" aria-labelledby="lux-services-title">
-        <div className="lux-services-upper">
-          <div data-lux-reveal>
-            <p className="lux-kicker">
-              <span /> A considered process
-            </p>
-            <h2 id="lux-services-title">
-              Your next move,
-              <br />
-              made clearer.
-            </h2>
-            <Link href="/contact" className="lux-text-link">
-              Speak with Aliyas
-              <ArrowUpRight size={18} />
+            <Link
+              className="hp-hero-project"
+              href={developerProjectHref(heroProject)}
+              prefetch={false}
+            >
+              <span>IN THE PICTURE · ABU DHABI</span>
+              <strong>
+                Talay, Saadiyat Island <ArrowUpRight size={18} aria-hidden="true" />
+              </strong>
             </Link>
           </div>
-          <div className="lux-service-list">
-            {services.map((service, index) => (
-              <details className="lux-service" key={service.title} data-lux-service>
-                <summary>
-                  <span className="lux-service-thumb">
-                    <Image
-                      src={service.image}
-                      alt=""
-                      fill
-                      quality={85}
-                      sizes="(max-width:700px) 56px, 110px"
-                    />
-                  </span>
-                  <span>
-                    {service.title}
-                    <sup>0{index + 1}</sup>
-                  </span>
-                  <ArrowDown size={21} />
-                </summary>
+        </div>
+      </section>
+      <section className="hp-search hp-shell" id="find-a-home" aria-labelledby="hp-search-title">
+        <div className="hp-search-content">
+          <div className="hp-search-heading">
+            <h2 id="hp-search-title">What does your next home look like?</h2>
+            <p className="hp-hero-details">
+              Explore <strong>{listings.length} project profiles</strong> across the UAE
+            </p>
+          </div>
+          <HomeSearch propertyTypes={availableTypes} />
+          <nav className="hp-type-links" aria-label="Browse homes by property type">
+            <span>Start with a home type</span>
+            {homeTypes
+              .filter((item) => availableTypes.includes(item.value))
+              .map((item) => (
+                <Link
+                  key={item.value}
+                  href={`/projects?${new URLSearchParams({ type: item.value })}`}
+                >
+                  {item.label}
+                  <ArrowUpRight size={14} aria-hidden="true" />
+                </Link>
+              ))}
+          </nav>
+        </div>
+      </section>
+      <div className="hp-network hp-shell">
+        <DeveloperMarquee developers={developers.map(({ slug, name }) => ({ slug, name }))} />
+      </div>
+      <section className="hp-projects" id="home-projects" aria-labelledby="hp-projects-title">
+        <div className="hp-shell">
+          <div className="hp-section-head" data-reveal>
+            <div>
+              <p className="hp-eyebrow">SELECTED FROM THE COLLECTION</p>
+              <h2 id="hp-projects-title">
+                Remarkable homes.
+                <br />A place for your plans.
+              </h2>
+            </div>
+            <div>
+              <p>
+                A city apartment or space for family life.
+                <br />
+                Begin with a home that fits your priorities.
+              </p>
+              <Link className="hp-text-link" href="/projects">
+                Explore all projects <ArrowUpRight size={18} aria-hidden="true" />
+              </Link>
+            </div>
+          </div>
+          <div className="hp-project-grid">
+            {featured.map((project) => (
+              <HomeProjectCard key={project.id} project={project} />
+            ))}
+          </div>
+          <div className="hp-collection-note">
+            <p>
+              Developer starting prices. Ask Aliyas for current units and a personalised quotation.
+            </p>
+            <Link href="/projects/compare">
+              Open your comparison <ArrowUpRight size={16} aria-hidden="true" />
+            </Link>
+          </div>
+        </div>
+      </section>
+      <HomeBuyingJourney />
+      <section className="hp-service" aria-label="Your property search with Aliyas">
+        <ResponsiveProjectImage
+          className="hp-service-background"
+          src={serviceImage}
+          responsiveWidth={getProjectImageResponsiveWidth(serviceImage)}
+          alt="Artistry Two Residences living and dining room, developer render"
+          fill
+          sizes="100vw"
+        />
+        <div className="hp-shell hp-service-layout">
+          <div className="hp-service-copy">
+            <p className="hp-eyebrow">YOUR PLANS, OUR STARTING POINT</p>
+            <HomeTagline />
+            <p className="hp-service-intro" data-reveal>
+              A property search should leave you with clear choices. Tell us what matters, and let’s
+              work through the details together.
+            </p>
+            <ol className="hp-service-steps">
+              <li data-reveal>
+                <span>01</span>
                 <div>
-                  <p>{service.text}</p>
-                  <Link href={service.href}>
-                    {service.action}
-                    <ArrowUpRight size={16} />
-                  </Link>
+                  <h3>Start with your priorities.</h3>
+                  <p>Your budget, location and the way you want to live or invest.</p>
                 </div>
+              </li>
+              <li data-reveal data-reveal-delay="0.08">
+                <span>02</span>
+                <div>
+                  <h3>Look at the whole picture.</h3>
+                  <p>Compare the price, payment schedule, floor plan and neighbourhood.</p>
+                </div>
+              </li>
+              <li data-reveal data-reveal-delay="0.16">
+                <span>03</span>
+                <div>
+                  <h3>Make your next move personal.</h3>
+                  <p>Speak with the team about the homes on your shortlist.</p>
+                </div>
+              </li>
+            </ol>
+            <Link className="hp-service-caption" href={developerProjectHref(featured[0])}>
+              Inside Artistry Two Residences <ArrowUpRight size={14} aria-hidden="true" />
+            </Link>
+          </div>
+          <HomePropertyBrief />
+        </div>
+      </section>
+      <section className="hp-faq" aria-labelledby="hp-faq-title">
+        <div className="hp-shell">
+          <div className="hp-section-head" data-reveal>
+            <div>
+              <p className="hp-eyebrow">BEFORE YOUR NEXT STEP</p>
+              <h2 id="hp-faq-title">Before you make your move.</h2>
+            </div>
+            <EnquiryTrigger className="hp-text-link">
+              Ask us a question <ArrowUpRight size={18} aria-hidden="true" />
+            </EnquiryTrigger>
+          </div>
+          <div className="hp-faq-grid">
+            {questions.map(([question, answer], index) => (
+              <details
+                key={question}
+                name="homepage-questions"
+                data-reveal
+                data-reveal-delay={Math.min(index * 0.08, 0.32)}
+              >
+                <summary>
+                  {question}
+                  <Plus size={18} aria-hidden="true" />
+                </summary>
+                <p>{answer}</p>
               </details>
             ))}
           </div>
         </div>
-        <div className="lux-service-ribbon" aria-hidden="true">
-          <div className="lux-service-ribbon-track">
-            {[0, 1].map((copy) => (
-              <div className="lux-service-ribbon-group" key={copy}>
-                <span>Considered places</span>
-                <span>Meaningful connections</span>
-                <span>Your next chapter</span>
-              </div>
-            ))}
-          </div>
-        </div>
-        <div className="lux-journey" data-lux-journey>
-          <p className="lux-kicker">From discovery to conversation</p>
-          <h2>A clearer path to your next home.</h2>
-          <div className="lux-circle-stage" aria-hidden="true">
-            <div className="lux-journey-circle lux-circle-one">
-              <span>
-                Discover
-                <br />
-                your possibilities
-              </span>
-            </div>
-            <div className="lux-journey-circle lux-circle-two">
-              <span>
-                Shortlist
-                <br />
-                what feels right
-              </span>
-            </div>
-            <div className="lux-journey-circle lux-circle-three">
-              <span>
-                Connect
-                <br />
-                with Aliyas
-              </span>
-            </div>
-            <div className="lux-journey-result">
-              Your next
-              <br />
-              chapter.
-            </div>
-          </div>
-          <ol className="lux-sr-only">
-            <li>Discover your possibilities.</li>
-            <li>Shortlist what feels right.</li>
-            <li>Connect with Aliyas about your next chapter.</li>
-          </ol>
-          <a className="lux-pill lux-pill-light" href="#find-a-home">
-            Make your next move
-            <ArrowUpRight size={17} />
-          </a>
-        </div>
       </section>
-      <section className="lux-values lux-container" aria-labelledby="lux-values-title">
-        <div className="lux-section-head" data-lux-reveal>
+      <section className="hp-journal hp-shell" aria-labelledby="hp-journal-title">
+        <div className="hp-section-head" data-reveal>
           <div>
-            <p className="lux-kicker">
-              <span /> Built around your search
-            </p>
-            <h2 id="lux-values-title">
-              More clarity.
-              <br />
-              Room to decide.
-            </h2>
+            <p className="hp-eyebrow">THE ALIYAS JOURNAL</p>
+            <h2 id="hp-journal-title">Read before you decide.</h2>
           </div>
-          <ContactPill />
+          <Link className="hp-text-link" href="/journal">
+            Explore the journal <ArrowUpRight size={18} aria-hidden="true" />
+          </Link>
         </div>
-        <div className="lux-value-grid">
-          {[
-            {
-              icon: MapPin,
-              title: 'Start with your kind of place',
-              copy: 'Compare four UAE destinations and find the setting that suits the way you want to live.',
-            },
-            {
-              icon: Layers,
-              title: 'See your options clearly',
-              copy: 'Compare up to three projects together, with the details that matter in one view.',
-            },
-            {
-              icon: Bookmark,
-              title: 'Keep a shortlist that stays',
-              copy: 'Save the homes you like in this browser. Come back to them whenever you are ready.',
-            },
-            {
-              icon: MessageCircle,
-              title: 'Go beyond the preview',
-              copy: 'Ask Aliyas for current brochures, availability and project information before your next step.',
-            },
-          ].map(({ icon: Icon, title, copy }) => (
-            <div key={title} data-lux-reveal>
-              <Icon size={22} strokeWidth={1.4} />
-              <h3>{title}</h3>
-              <p>{copy}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-      <section className="lux-settings" aria-labelledby="lux-settings-title">
-        <div className="lux-centred-heading" data-lux-reveal>
-          <p className="lux-kicker">
-            <span /> Places and possibilities
-          </p>
-          <h2 id="lux-settings-title">
-            Different places.
-            <br />
-            One feeling. Home.
-          </h2>
-          <p>Start with the life you imagine. Illustrative lifestyle scenes.</p>
-        </div>
-        <div className="lux-settings-grid">
-          {settingColumns.map((indices, column) => (
-            <div
-              className={`lux-setting-column lux-setting-column-${column}`}
-              key={column}
-              data-lux-setting-column
-            >
-              {indices.map((index) => {
-                const item = settings[index];
-                return (
-                  <Link
-                    className={`lux-setting lux-setting-${index}`}
-                    href={item.href}
-                    key={item.title}
-                    data-lux-setting
-                  >
-                    <Image
-                      src={item.image}
-                      alt=""
-                      fill
-                      quality={85}
-                      sizes="(max-width:700px) 400px, (max-width:1100px) 520px, 800px"
-                    />
-                    <span className="lux-circle-arrow">
-                      <ArrowUpRight size={19} />
-                    </span>
-                    <div>
-                      <span>{String(index + 1).padStart(2, '0')}</span>
-                      <h3>{item.title}</h3>
-                    </div>
-                  </Link>
-                );
-              })}
-              {column === 2 && (
-                <div className="lux-setting-invitation">
-                  <span className="lux-logo-dp">
-                    <Image
-                      src="/brand/aliyas-gold-logo-hd.webp"
-                      alt="Aliyas Real Estate"
-                      width={100}
-                      height={38}
-                    />
-                  </span>
-                  <p>
-                    Explore a world of
-                    <br />
-                    possibilities. Find the
-                    <br />
-                    place that feels like you.
-                  </p>
-                  <Link className="lux-pill" href="/projects">
-                    Explore projects
-                    <ArrowUpRight size={18} />
-                  </Link>
+        <div className="hp-journal-grid">
+          {latestStories.map((article, index) => (
+            <article key={article.slug} data-reveal data-reveal-delay={index * 0.08}>
+              <Link href={`/journal/${article.slug}`} prefetch={false}>
+                <div className="hp-journal-image">
+                  <JournalCover
+                    article={article}
+                    sizes="(max-width:700px) 100vw, (max-width:1440px) 30vw, 420px"
+                  />
                 </div>
-              )}
-            </div>
-          ))}
-        </div>
-        <div className="lux-settings-foot">
-          <p>Inspiration imagery · Preview collections</p>
-          <Link className="lux-pill" href="/projects">
-            Explore every possibility
-            <ArrowUpRight size={18} />
-          </Link>
-        </div>
-      </section>
-      <section className="lux-journal lux-container" aria-labelledby="lux-journal-title">
-        <div className="lux-section-head" data-lux-reveal>
-          <div>
-            <p className="lux-kicker">
-              <span /> The Journal
-            </p>
-            <h2 id="lux-journal-title">A little foresight.</h2>
-          </div>
-          <Link href="/journal" className="lux-text-link">
-            All stories
-            <ArrowUpRight size={18} />
-          </Link>
-        </div>
-        <div className="lux-journal-grid">
-          {articles.map((article, index) => (
-            <Link href={`/journal/${article.slug}`} key={article.slug} data-lux-reveal>
-              <div className="lux-journal-image">
-                <Image
-                  src={journalCovers[index]}
-                  alt=""
-                  fill
-                  sizes="(max-width:700px) 92vw, 32vw"
-                />
-                <span className="lux-circle-arrow">
-                  <ArrowUpRight size={20} />
+                <p>
+                  {article.category}
+                  {article.date && (
+                    <>
+                      {' '}
+                      <span>·</span>{' '}
+                      <time dateTime={article.date}>
+                        {dateFormatter.format(new Date(article.date))}
+                      </time>
+                    </>
+                  )}
+                </p>
+                <h3>{article.title}</h3>
+                <span className="hp-story-link">
+                  Read the story <ArrowUpRight size={16} aria-hidden="true" />
                 </span>
-              </div>
-              <p>
-                {article.category}
-                <span>{article.readTime}</span>
-              </p>
-              <h3>{article.title}</h3>
-            </Link>
+              </Link>
+            </article>
           ))}
         </div>
       </section>
-      <section className="lux-faq lux-container">
-        <div data-lux-reveal>
-          <p className="lux-kicker">
-            <span /> A little clarity
-          </p>
-          <h2>
-            Answers for
-            <br />
-            your next move.
-          </h2>
-          <p>
-            A few things to know as you explore.
-            <br />
-            For anything else, we’re a conversation away.
-          </p>
-          <ContactPill />
-        </div>
-        <FAQ />
-      </section>
-      <section
-        className="lux-final lux-container"
-        aria-labelledby="lux-final-title"
-        data-lux-reveal
-      >
-        <div>
-          <p className="lux-kicker">
-            <span /> Your next chapter
-          </p>
-          <h2 id="lux-final-title">
-            A shortlist today.
-            <br />A clearer picture tomorrow.
-          </h2>
-          <p>Explore the collection at your own pace. No account needed.</p>
-        </div>
-        <Link className="lux-pill lux-pill-light" href="/projects">
-          Explore projects <ArrowUpRight size={24} />
-        </Link>
-      </section>
+      <HomePropertyPlan />
     </div>
   );
 }

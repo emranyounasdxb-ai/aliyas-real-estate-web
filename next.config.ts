@@ -5,9 +5,18 @@ const previewSlot = process.env.ALIYAS_ISOLATED_PREVIEW ?? '';
 const nextConfig: NextConfig = {
   distDir: /^[12]$/.test(previewSlot) ? `artifacts/next-preview-${previewSlot}` : '.next',
   poweredByHeader: false,
-  images: { formats: ['image/avif', 'image/webp'], qualities: [75, 85] },
+  images: { formats: ['image/webp'], qualities: [75, 85] },
   async headers() {
     return [
+      {
+        // Versioned, content-addressed variants can be cached without going stale.
+        source: '/images/project-responsive/:path*',
+        headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
+      },
+      {
+        source: '/images/navigation-responsive/:path*',
+        headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
+      },
       {
         // Only content-hashed, pre-optimized journal assets live in this folder.
         source: '/images/journal/:path*',

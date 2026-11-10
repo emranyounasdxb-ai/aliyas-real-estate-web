@@ -128,7 +128,7 @@ for (const [number, sourceNumber, description] of assignments) {
   );
   media[id] = {
     image: variants.at(-1).url,
-    imageAlt: `Illustration: ${description ?? matches[0].replace(/-\d+\.png$/i, '').replaceAll('_', ':')}.`,
+    imageAlt: `${description ?? matches[0].replace(/-\d+\.png$/i, '').replaceAll('_', ':')}.`,
     imageSrcSet: variants.map((variant) => `${variant.url} ${variant.width}w`).join(', '),
     imageWidth: metadata.width,
     imageHeight: metadata.height,

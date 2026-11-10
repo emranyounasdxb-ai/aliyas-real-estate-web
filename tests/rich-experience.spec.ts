@@ -1,137 +1,104 @@
+import { openCities, emirates, assertNoOverflow } from './current-ui';
 import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
-test('curated collections open the correct catalogue subset and can be cleared', async ({
+test('curated collection URLs retain their selected records and browser history after clearing', async ({
   page,
 }) => {
   for (const [slug, count] of [
-    ['waterfront', 3],
-    ['villas', 1],
-    ['city', 2],
+    ['waterfront', 2],
+    ['villas', 3],
+    ['city', 1],
   ] as const) {
-    await page.goto('/');
-    await page.locator(`.curated-card[href="/projects?collection=${slug}"]`).click();
+    await page.goto('/projects?collection=' + slug);
     await expect(page.locator('.project-card')).toHaveCount(count);
     await expect(page.locator('.curated-filter-note')).toBeVisible();
     await page.getByRole('button', { name: 'Clear collection' }).click();
-    await expect(page.locator('.project-card')).toHaveCount(6);
+    await expect(page.locator('.project-card')).toHaveCount(15);
+    await expect(page.locator('.catalogue-count')).toContainText('575');
     await expect(page).not.toHaveURL(/collection=/);
     await page.goBack();
     await expect(page.locator('.project-card')).toHaveCount(count);
   }
 });
 
-test('map buttons and destination tabs stay synchronized at phone, tablet and desktop sizes', async ({
+test('destination navigation and catalogue filter stay synchronized at phone tablet and desktop sizes', async ({
   page,
 }) => {
+  test.setTimeout(90000);
   for (const width of [320, 768, 1440]) {
     await page.setViewportSize({ width, height: 950 });
-    await page.goto('/');
-    for (const name of ['Ajman', 'Abu Dhabi', 'Ras Al Khaimah', 'Dubai']) {
-      await page.getByRole('button', { name: `Show ${name} on map`, exact: true }).click();
-      await expect(page.getByRole('tab', { name: new RegExp(name) })).toHaveAttribute(
-        'aria-selected',
-        'true',
-      );
-      await expect(page.getByRole('tabpanel')).toHaveCount(1);
+    for (const name of emirates) {
+      await page.goto('/');
+      const panel = await openCities(page);
+      await panel
+        .locator('.signature-city-card')
+        .filter({ has: page.getByRole('heading', { name, exact: true }) })
+        .click();
+      await expect(page).toHaveURL((url) => url.searchParams.get('emirate') === name);
+      if (width < 701) await page.getByRole('button', { name: /^Filters/ }).click();
       await expect(
-        page.getByRole('link', { name: `Explore ${name}`, exact: true }),
-      ).toHaveAttribute('href', `/projects?emirate=${encodeURIComponent(name)}`);
+        page.getByRole('combobox', { name: 'Location', exact: true }).filter({ visible: true }),
+      ).toContainText(name);
+      await assertNoOverflow(page);
     }
-    await page.getByRole('tab', { name: '04 Ajman', exact: true }).click();
-    await expect(
-      page.getByRole('button', { name: 'Show Ajman on map', exact: true }),
-    ).toHaveAttribute('aria-pressed', 'true');
-    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
-      true,
-    );
-    const boxes = await page.locator('.destination-map button').evaluateAll((buttons) =>
-      buttons.map((button) => {
-        const r = button.getBoundingClientRect();
-        return { x: r.x, y: r.y, right: r.right, bottom: r.bottom };
-      }),
-    );
-    for (let i = 0; i < boxes.length; i++)
-      for (let j = i + 1; j < boxes.length; j++) {
-        const a = boxes[i],
-          b = boxes[j];
-        expect(a.right <= b.x || b.right <= a.x || a.bottom <= b.y || b.bottom <= a.y).toBe(true);
-      }
   }
 });
 
-test('developer and legacy galleries support thumbnails, keyboard navigation and focus restoration', async ({
+test('reviewed project galleries support thumbnails wraparound keyboard navigation and focus restoration', async ({
   page,
 }) => {
   for (const [route, name] of [
-    ['/developers/emaar/projects/emaar-project-15', 'Emaar Project 15'],
-    ['/projects/creek-waters', 'Creek Waters'],
+    ['/developers/emaar/projects/avelia', 'Avelia'],
+    ['/developers/sobha/projects/sobha-solis', 'Sobha Solis'],
   ]) {
     await page.goto(route);
-    await expect(page.locator('.pd-gallery-thumbnails button')).toHaveCount(3);
-    await page.getByRole('button', { name: 'Show 03 — Material study', exact: true }).click();
-    await expect(page.locator('.pd-gallery-open img')).toHaveAttribute(
-      'src',
-      /concept-(villa|apartment)-detail/,
-    );
+    const thumbs = page.locator('.pd-gallery-thumbnails button'),
+      count = await thumbs.count();
+    expect(count).toBeGreaterThan(2);
+    await thumbs.last().click();
+    await expect(thumbs.last()).toHaveAttribute('aria-pressed', 'true');
     const trigger = page.locator('.pd-gallery-open');
     await trigger.click();
-    const dialog = page.getByRole('dialog', { name: `${name} image gallery`, exact: true });
+    const dialog = page.getByRole('dialog', { name: name + ' image gallery', exact: true });
     await expect(dialog).toBeVisible();
-    await expect(dialog.locator('.pd-lightbox-controls p')).toContainText('03 / 03');
+    const counter = dialog.locator('.pd-lightbox-controls p'),
+      n = String(count).padStart(2, '0');
+    await expect(counter).toContainText(n + ' / ' + n);
     await page.keyboard.press('ArrowRight');
-    await expect(dialog.locator('.pd-lightbox-controls p')).toContainText('01 / 03');
+    await expect(counter).toContainText('01 / ' + n);
     await page.keyboard.press('ArrowLeft');
-    await expect(dialog.locator('.pd-lightbox-controls p')).toContainText('03 / 03');
+    await expect(counter).toContainText(n + ' / ' + n);
     await page.keyboard.press('Escape');
     await expect(trigger).toBeFocused();
     await expect(dialog).not.toBeVisible();
-    const tile = page.getByRole('button', {
-      name: `Open Interior concept image of ${name}`,
-      exact: true,
-    });
+    const tile = page.locator('.pd-gallery-tile').first();
     await tile.click();
-    await expect(dialog.locator('.pd-lightbox-controls p')).toContainText('02 / 03');
+    await expect(counter).toContainText('02 / ' + n);
     await page.keyboard.press('Escape');
     await expect(tile).toBeFocused();
   }
 });
 
-test('hero views respond to wheel scrolling at every breakpoint and preserve reduced-motion controls', async ({
+test('hero wheel input reaches search at every breakpoint and reduced motion keeps the primary link usable', async ({
   page,
 }) => {
-  await page.emulateMedia({ reducedMotion: 'no-preference' });
   for (const width of [390, 768, 1440]) {
+    await page.emulateMedia({ reducedMotion: 'no-preference' });
     await page.setViewportSize({ width, height: 1000 });
     await page.goto('/');
-    const buttons = page.locator('.hero-view-controls button');
-    await expect(buttons).toHaveCount(width < 701 ? 2 : 3);
-    await expect(buttons.first()).toHaveAttribute('aria-pressed', 'true');
     await expect(page.locator('html')).toHaveClass(/lenis/);
+    const image = page.locator('.hp-hero-background');
+    await image.evaluate((e: HTMLImageElement) => e.decode());
     await page.mouse.move(width / 2, 400);
-    await page.mouse.wheel(0, width < 701 ? 500 : 400);
-    await expect(buttons.last()).toHaveAttribute('aria-pressed', 'true');
-    await page.evaluate(() =>
-      window.dispatchEvent(
-        new CustomEvent('aliyas:scroll-to', {
-          detail: { top: 0, immediate: true },
-          cancelable: true,
-        }),
-      ),
-    );
-    await expect(buttons.first()).toHaveAttribute('aria-pressed', 'true');
+    await page.mouse.wheel(0, 600);
+    await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(300);
+    await page.emulateMedia({ reducedMotion: 'reduce' });
+    await expect(page.locator('html')).not.toHaveClass(/lenis/);
+    await page.getByRole('link', { name: 'Find my property', exact: true }).click();
+    await expect(page.locator('#find-a-home')).toBeInViewport();
+    await expect(page).toHaveURL(/#find-a-home$/);
   }
-  await page.emulateMedia({ reducedMotion: 'reduce' });
-  await page.getByRole('button', { name: 'View the detail' }).click();
-  await expect(page.getByRole('button', { name: 'View the detail' })).toHaveAttribute(
-    'aria-pressed',
-    'true',
-  );
-  expect(
-    await page
-      .locator('[data-hero-sequence]')
-      .evaluate((element) => (element as HTMLElement).style.transform),
-  ).toBe('');
 });
 
 test('new home and gallery surfaces pass accessibility checks in both themes and sizes', async ({
@@ -145,7 +112,7 @@ test('new home and gallery surfaces pass accessibility checks in both themes and
         localStorage.setItem('aliyas-theme', value);
         document.documentElement.dataset.theme = value;
       }, theme);
-      for (const route of ['/', '/developers/emaar/projects/emaar-project-15']) {
+      for (const route of ['/', '/developers/emaar/projects/avelia']) {
         await page.goto(route);
         const result = await new AxeBuilder({ page })
           .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])

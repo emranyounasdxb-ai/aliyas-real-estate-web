@@ -18,3 +18,7 @@ Sources:
 - https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-plans.pdf
 
 Selection: docs/project-page-enhancement-selections/wasl/cedarwood-estates-south.json. Source/owner/hash validation: 1203 owner-validated manifests, 14872 verified asset hashes and 575 protected identities. Canonical project text research diff was empty for this batch.. Optimized build zdyHNSRYJRkexn1Bb3LIN / PID71168. Own browser case passed in passing batch (1.8m) (artifacts/project-page-enhancement/batch-193-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.
+
+## Card cover selection — 8 November 2026
+
+The listing and developer-hero card now use **the proposed South four-bedroom villa rear** (`cedarwood-estates-south-four-bedroom-rear`), from this project’s [existing source](https://www.rapiddealsuae.com/jumeirah-golf-estates/documents/cedar-brochure.pdf#page=27). The four-bedroom rear elevation and pool distinguish this card from the original Cedarwood frontage; the South-branded, Rapid Deals-hosted brochure attribution still applies. This dated selection supersedes the original cover pick above; gallery assets, source attribution and image-scope qualifications remain unchanged.

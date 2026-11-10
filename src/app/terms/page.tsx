@@ -6,7 +6,7 @@ import '@/components/info-pages.css';
 export const metadata: Metadata = {
   title: 'Website terms',
   description:
-    'Information about using the Aliyas Real Estate website preview and its illustrative project collections.',
+    'Information about browsing Aliyas Real Estate, comparing properties and making an enquiry.',
   alternates: { canonical: '/terms' },
   robots: { index: false, follow: true },
 };
@@ -20,20 +20,20 @@ export default function TermsPage() {
         <span>Website terms</span>
       </nav>
       <div className="info-intro">
-        <p className="info-eyebrow">About this preview</p>
+        <p className="info-eyebrow">Using this website</p>
         <h1>Website terms.</h1>
         <p>
-          This page explains the current local website preview. It does not set the terms of a
-          property purchase or reservation.
+          These terms cover the use of this website. A property purchase or reservation is governed
+          by its separate agreement and applicable terms.
         </p>
       </div>
       <div className="info-prose">
         <section>
-          <h2>Illustrative project information</h2>
+          <h2>Project information</h2>
           <p>
-            The project collection is for design preview. Names, prices, payment plans, handover
-            dates and availability shown on sample cards must be checked against approved developer
-            information. Photography is for inspiration unless identified otherwise.
+            Prices, payment plans, handover dates and availability can change. Confirm the current
+            details and final specifications in the relevant developer documents before making a
+            reservation. Images do not replace the specifications in your property agreement.
           </p>
         </section>
         <section>
@@ -47,9 +47,10 @@ export default function TermsPage() {
         <section>
           <h2>Enquiries</h2>
           <p>
-            An enquiry lets you describe your requirements. In the local preview it is stored on the
-            computer hosting the site. Email delivery and CRM integration are not configured. Read
-            the <Link href="/privacy">privacy notice</Link> before sharing your details.
+            An enquiry lets you describe your requirements and is stored by this website. Your
+            receipt states whether it was also submitted for email delivery. Read the{' '}
+            <Link href="/privacy">privacy notice</Link> before sharing your details. An enquiry does
+            not reserve a property or create a purchase commitment.
           </p>
         </section>
         <section>

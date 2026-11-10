@@ -133,10 +133,6 @@ export function Footer() {
             <Link href="/terms">Website terms</Link>
           </span>
         </div>
-        <p className="preview-disclosure container">
-          Preview collection. Project details and prices are illustrative; photography is for
-          inspiration. Project availability is subject to confirmation.
-        </p>
       </div>
     </footer>
   );

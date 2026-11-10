@@ -263,10 +263,20 @@
   ) {
   color: var(--muted);
 }
-:root[data-theme='dark'] .enquiry-drawer :is(input, select, textarea) {
+:root[data-theme='dark'] .enquiry-drawer .enquiry-form :is(input, select, textarea) {
   background: var(--surface);
   color: var(--ink);
-  border-color: #78867b;
+  border-color: #929b93;
+}
+:root[data-theme='dark'] .site-frame .enquiry-form .brand-select .brand-select-trigger {
+  background: var(--surface);
+  color: var(--ink);
+  border-color: #929b93;
+}
+:root[data-theme='dark'] .enquiry-drawer .enquiry-form .brand-select .brand-select-trigger {
+  background: var(--surface);
+  color: var(--ink);
+  border-color: #929b93;
 }
 :root[data-theme='dark'] .enquiry-drawer :is(input, textarea)::placeholder {
   color: var(--muted);

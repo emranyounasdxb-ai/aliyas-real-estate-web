@@ -5,7 +5,7 @@ const header = (page: Page) => page.locator('.signature-header');
 const panel = (page: Page) => page.locator('.signature-panel');
 const projectsTrigger = (page: Page) =>
   page.locator('.signature-nav-left').getByRole('button', {
-    name: 'Off-plan projects',
+    name: 'Off plan projects',
     exact: true,
   });
 
@@ -20,8 +20,10 @@ async function expectEmirate(page: Page, emirate: string, count: number) {
   await expect(page).toHaveURL(
     (url) => url.pathname === '/projects' && url.searchParams.get('emirate') === emirate,
   );
-  await expect(page.getByRole('combobox', { name: 'Location', exact: true })).toHaveValue(emirate);
-  await expect(page.locator('.project-card')).toHaveCount(count);
+  await expect(page.getByRole('combobox', { name: 'Location', exact: true })).toContainText(
+    emirate,
+  );
+  await expect(page.locator('.project-card')).toHaveCount(Math.min(15, count));
   await expect(panel(page)).not.toBeVisible();
 }
 
@@ -138,7 +140,7 @@ test('outside clicks dismiss navigation and developer links reset it after navig
   await developers.click();
   await panel(page).locator('a[href="/developers/emaar"]').click();
   await expect(page).toHaveURL(/\/developers\/emaar$/);
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Discover projectsby Emaar.');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('Emaar Properties');
   await expect(panel(page)).not.toBeVisible();
   await expect(developers).toHaveAttribute('aria-expanded', 'false');
 });
@@ -147,7 +149,7 @@ test('destination links update the current catalogue route and browser history r
   page,
 }) => {
   await visit(page, '/projects?emirate=Dubai');
-  await expectEmirate(page, 'Dubai', 4);
+  await expectEmirate(page, 'Dubai', 426);
   await projectsTrigger(page).click();
   for (const emirate of ['Dubai', 'Abu Dhabi', 'Ras Al Khaimah']) {
     const card = panel(page).locator('.signature-city-card').filter({ hasText: emirate });
@@ -156,34 +158,34 @@ test('destination links update the current catalogue route and browser history r
     expect(destination.searchParams.get('emirate')).toBe(emirate);
   }
   await panel(page).locator('.signature-city-card').filter({ hasText: 'Abu Dhabi' }).click();
-  await expectEmirate(page, 'Abu Dhabi', 1);
-  await expect(page.getByRole('heading', { name: 'Gardenia Bay', exact: true })).toBeVisible();
+  await expectEmirate(page, 'Abu Dhabi', 79);
+  await expect(page.locator('.catalogue-count')).toContainText('79');
   await projectsTrigger(page).click();
   await panel(page).locator('.signature-city-card').filter({ hasText: 'Ras Al Khaimah' }).click();
-  await expectEmirate(page, 'Ras Al Khaimah', 1);
-  await expect(page.getByRole('heading', { name: 'Cala del Mar', exact: true })).toBeVisible();
+  await expectEmirate(page, 'Ras Al Khaimah', 25);
+  await expect(page.locator('.catalogue-count')).toContainText('25');
   await page.goBack();
-  await expectEmirate(page, 'Abu Dhabi', 1);
+  await expectEmirate(page, 'Abu Dhabi', 79);
   await page.goBack();
-  await expectEmirate(page, 'Dubai', 4);
+  await expectEmirate(page, 'Dubai', 426);
 });
 
 test('header search and saved links apply catalogue filters on the same route', async ({
   page,
 }) => {
-  await visit(page, '/projects');
-  await page.getByRole('button', { name: 'Save Creek Waters', exact: true }).click();
+  await visit(page, '/projects?q=Sobha%20Solis');
+  await page.getByRole('button', { name: 'Save Sobha Solis', exact: true }).click();
   await header(page).getByRole('button', { name: 'Search projects', exact: true }).click();
   await panel(page)
     .getByRole('searchbox', { name: 'Search projects', exact: true })
-    .fill('Creek Waters');
+    .fill('Sobha Solis');
   await panel(page).getByRole('button', { name: 'Search', exact: true }).click();
   await expect(page).toHaveURL(
-    (url) => url.pathname === '/projects' && url.searchParams.get('q') === 'Creek Waters',
+    (url) => url.pathname === '/projects' && url.searchParams.get('q') === 'Sobha Solis',
   );
   await expect(panel(page)).not.toBeVisible();
   await expect(page.getByRole('textbox', { name: 'Search projects', exact: true })).toHaveValue(
-    'Creek Waters',
+    'Sobha Solis',
   );
   await expect(page.locator('.project-card')).toHaveCount(1);
   const saved = header(page).getByRole('link', { name: 'Saved projects', exact: true });
@@ -198,10 +200,10 @@ test('header search and saved links apply catalogue filters on the same route', 
     'true',
   );
   await expect(page.locator('.project-card')).toHaveCount(1);
-  await expect(page.getByRole('heading', { name: 'Creek Waters', exact: true })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Sobha Solis', exact: true })).toBeVisible();
   await page.goBack();
   await expect(page.getByRole('textbox', { name: 'Search projects', exact: true })).toHaveValue(
-    'Creek Waters',
+    'Sobha Solis',
   );
   await expect(page.getByRole('button', { name: 'Saved (1)', exact: true })).toHaveAttribute(
     'aria-pressed',
@@ -227,8 +229,8 @@ test('mobile navigation exposes company links, destinations, search, and advisor
     expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(
       width + 1,
     );
-    await mobile.getByRole('button', { name: 'Off-plan projects', exact: true }).click();
-    await expect(panel(page).locator('.signature-city-card')).toHaveCount(4);
+    await mobile.getByRole('button', { name: 'Off plan projects', exact: true }).click();
+    await expect(panel(page).locator('.signature-city-card')).toHaveCount(7);
     expect(await panel(page).evaluate((element) => element.scrollWidth)).toBeLessThanOrEqual(width);
     await page.keyboard.press('Escape');
     await expect(panel(page)).not.toBeVisible();
@@ -287,7 +289,7 @@ test('normal-motion navigation remains usable and mobile closing restores page s
   await visit(page);
   await projectsTrigger(page).click();
   await panel(page).locator('.signature-city-card').filter({ hasText: 'Abu Dhabi' }).click();
-  await expectEmirate(page, 'Abu Dhabi', 1);
+  await expectEmirate(page, 'Abu Dhabi', 79);
   await visit(page, '/', 390, 844);
   await header(page).getByRole('button', { name: 'Open menu' }).click();
   await expect(page.getByRole('navigation', { name: 'Mobile navigation' })).toBeVisible();

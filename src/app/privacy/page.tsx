@@ -1,11 +1,12 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { businessContact } from '@/lib/contact';
 import '@/components/info-pages.css';
 
 export const metadata: Metadata = {
   title: 'Privacy notice | Aliyas Real Estate',
   description:
-    'How enquiries and saved property preferences are handled in the Aliyas Real Estate local website preview.',
+    'How Aliyas Real Estate handles website enquiries, saved properties and comparison preferences.',
   alternates: { canonical: '/privacy' },
   robots: { index: false, follow: true },
 };
@@ -24,8 +25,8 @@ export default function PrivacyPage() {
           Privacy <em>notice.</em>
         </h1>
         <p>
-          This notice describes the local preview of the Aliyas website. It is not a policy for a
-          live brokerage service.
+          This notice explains how information is handled when you browse this website, save
+          properties or submit an enquiry.
         </p>
       </div>
       <div className="info-prose">
@@ -41,12 +42,11 @@ export default function PrivacyPage() {
         <section>
           <h2>Where enquiries go</h2>
           <p>
-            In this preview, enquiries are saved on the computer running the website. They are not
-            sent by email or delivered to an external CRM. Saved enquiries are not publicly
-            accessible through the website. Optional email delivery can be enabled by the website
-            operator; when enabled, the enquiry details are also submitted to Aliyas through its
-            configured email provider. The receipt screen reports whether email submission
-            succeeded.
+            Enquiries are stored on the server hosting this website and are not publicly accessible
+            through the website. When email delivery is enabled, enquiry details are also submitted
+            to Aliyas through its email provider. Your receipt states whether your enquiry was
+            submitted for email delivery. Enquiries are not transferred to an external customer
+            database.
           </p>
         </section>
         <section>
@@ -63,7 +63,7 @@ export default function PrivacyPage() {
         <section>
           <h2>Analytics and tracking</h2>
           <p>
-            This preview does not include advertising pixels or analytics trackers. The server may
+            This website does not include advertising pixels or analytics trackers. The server may
             process standard technical request information to deliver the site. Temporary anti-spam
             controls keep counts of submissions; enquiry details are not written to application logs
             by the enquiry form.
@@ -72,17 +72,17 @@ export default function PrivacyPage() {
         <section>
           <h2>Managing your information</h2>
           <p>
-            The person operating this local preview can access or delete saved enquiries on this
-            computer. Contact the person who shared the preview if you want an enquiry removed.
-            Enquiries remain on that computer until removed by its operator.
+            The website operator can access and delete saved enquiries. To request removal of an
+            enquiry, email <a href={`mailto:${businessContact.email}`}>{businessContact.email}</a>{' '}
+            and include your enquiry reference. Enquiries remain stored until the website operator
+            removes them.
           </p>
         </section>
         <section>
-          <h2>Before the website goes live</h2>
+          <h2>Updates to this notice</h2>
           <p>
-            A live service will need an appropriate retention policy and a privacy notice reflecting
-            its actual hosting, enquiry delivery and analytics arrangements. This notice will need
-            to be updated when those arrangements change.
+            This notice reflects the website’s current storage, enquiry delivery and tracking
+            arrangements. It will be updated when those arrangements change.
           </p>
         </section>
         <section id="image-credits">
@@ -107,8 +107,90 @@ export default function PrivacyPage() {
             . The photograph is cropped and resized for display. Developer logos remain the artwork
             of their respective brands. The Aliyas company profile uses the original Aliyas logo.
           </p>
+          <p>
+            Navigation photographs: Dubai by{' '}
+            <a
+              href="https://www.pexels.com/photo/modern-dubai-skyline-with-burj-khalifa-30336911/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              AJ Ahamad
+            </a>
+            , Abu Dhabi by{' '}
+            <a
+              href="https://www.pexels.com/photo/body-of-water-near-buildings-1439332/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Adnan Uddin
+            </a>{' '}
+            and Ajman by{' '}
+            <a
+              href="https://www.pexels.com/photo/modern-cityscape-of-ajman-uae-34442251/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              MAMADO UAE
+            </a>{' '}
+            are used under the{' '}
+            <a href="https://www.pexels.com/license/" target="_blank" rel="noopener noreferrer">
+              Pexels licence
+            </a>
+            .
+          </p>
+          <p>
+            Sharjah by{' '}
+            <a
+              href="https://commons.wikimedia.org/wiki/File:Sharjah_city_skyline_in_2015.jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Mueed Ahmed
+            </a>
+            , Ras Al Khaimah by{' '}
+            <a
+              href="https://commons.wikimedia.org/wiki/File:Cloudy_evening_in_RAK_city.jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Lintophilip
+            </a>{' '}
+            and Fujairah by{' '}
+            <a
+              href="https://commons.wikimedia.org/wiki/File:Fujairah_City.jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              SurvivorNgugz
+            </a>{' '}
+            are licensed under{' '}
+            <a
+              href="https://creativecommons.org/licenses/by-sa/4.0/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              CC BY-SA 4.0
+            </a>
+            .{' '}
+            <a
+              href="https://commons.wikimedia.org/wiki/File:Umm_Al_Quwain_mangroves_(7267363924).jpg"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Umm Al Quwain mangroves by Peter Dowley
+            </a>{' '}
+            is licensed under{' '}
+            <a
+              href="https://creativecommons.org/licenses/by/2.0/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              CC BY 2.0
+            </a>
+            . The photographs are resized and cropped for display.
+          </p>
         </section>
-        <p className="info-updated">Preview notice · Updated 29 October 2026</p>
+        <p className="info-updated">Updated 8 November 2026</p>
       </div>
     </div>
   );

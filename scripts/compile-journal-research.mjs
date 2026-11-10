@@ -25,9 +25,17 @@ const strings = (value) =>
 const output = {};
 const report = [];
 const internal = new Set(journalArticlePlans.map((a) => `/journal/${a.slug}`));
-for (const file of (await readdir(new URL('../src/content/journal/', import.meta.url)))
+const files = (await readdir(new URL('../src/content/journal/', import.meta.url)))
   .filter((f) => /^\d{3}\.json$/.test(f))
-  .sort()) {
+  .sort();
+const publishedJournalPaths = new Set(
+  files.map((file) => {
+    const plan = journalArticlePlans[Number(file.slice(0, 3)) - 1];
+    assert.ok(plan, `Unknown article ${file}`);
+    return `/journal/${plan.slug}`;
+  }),
+);
+for (const file of files) {
   const number = Number(file.slice(0, 3));
   const plan = journalArticlePlans[number - 1];
   assert.ok(plan, `Unknown article ${file}`);
@@ -62,14 +70,38 @@ for (const file of (await readdir(new URL('../src/content/journal/', import.meta
   const links = [...text.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)];
   for (const [, label, url] of links) {
     assert.ok(label.length > 3);
-    if (url.startsWith('/')) assert.ok(internal.has(url), `Unresolved internal link ${url}`);
-    else {
+    if (url.startsWith('/') && !url.startsWith('//')) {
+      const { pathname } = new URL(url, 'https://aliyasrealestate.ae');
+      assert.ok(
+        internal.has(pathname) || ['/projects', '/contact'].includes(pathname),
+        `Unresolved internal link ${url}`,
+      );
+      if (number > 100 && pathname.startsWith('/journal/'))
+        assert.ok(
+          publishedJournalPaths.has(pathname),
+          `Link to unpublished journal article ${url} in ${file}`,
+        );
+    } else {
       assert.equal(new URL(url).protocol, 'https:');
       assert.ok(refs.has(url), `Missing reference ${url} in ${file}`);
     }
   }
   assert.ok(links.filter((x) => x[2].startsWith('/')).length >= 2);
   assert.ok(article.sections.some((s) => s.table));
+  if (number > 100) {
+    assert.ok(
+      links.some((x) => x[2].startsWith('/projects')),
+      `${file}: missing relevant listings link`,
+    );
+    assert.ok(
+      links.some((x) => x[2].startsWith('/journal/')),
+      `${file}: missing area guide link`,
+    );
+    assert.ok(
+      links.some((x) => x[2].startsWith('/contact')),
+      `${file}: missing enquiry link`,
+    );
+  }
   for (const section of article.sections) {
     assert.ok(section.heading && section.body);
     if (section.table)

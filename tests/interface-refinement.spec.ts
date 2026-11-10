@@ -1,3 +1,5 @@
+import { selectValue } from './select-control';
+import { openCities, emirates, assertNoOverflow } from './current-ui';
 import { test, expect, type Page } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
@@ -22,6 +24,7 @@ test('home branded filters support keyboard, typeahead and query navigation', as
   await page.keyboard.press('Escape');
   await expect(location).toBeFocused();
   await expect(page.getByRole('listbox')).toHaveCount(0);
+  await page.locator('.hp-advanced summary').click();
   await choose(page, 'Choose property type', 'Apartment');
   await choose(page, 'Choose budget', 'Up to AED 2M');
   await page.locator('.home-search button[type=submit]').click();
@@ -67,12 +70,14 @@ test('enquiry dropdown preserves form value without submitting and dismisses ind
   page,
 }) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto('/projects/creek-waters');
+  await page.goto('/developers/sobha/projects/sobha-solis');
   await page.locator('.pd-mobile-enquiry button').click();
   const dialog = page.getByRole('dialog');
   const trigger = dialog.getByRole('combobox', { name: 'I am looking for', exact: true });
   await trigger.click();
-  const option = page.getByRole('option').nth(1);
+  const option = page
+    .getByRole('listbox', { name: 'I am looking for', exact: true })
+    .getByRole('option', { name: 'An investment', exact: true });
   const chosen = await option.textContent();
   await option.click();
   await expect(trigger).toContainText(chosen!);
@@ -98,117 +103,118 @@ test('directory sorting and project comparison use the shared control', async ({
   await page.getByRole('searchbox', { name: 'Search developers' }).fill('Emaar');
   await expect(page.locator('.catalogue-developer-card')).toHaveCount(1);
   await page.goto('/projects/compare');
-  await choose(page, 'Choose project 1', 'Creek Waters · Emaar');
-  await choose(page, 'Choose project 2', 'The Acres · Meraas');
+  await selectValue(
+    page.getByRole('combobox', { name: 'Choose project 1', exact: true }),
+    'sobha-project-19',
+  );
+  await selectValue(
+    page.getByRole('combobox', { name: 'Choose project 2', exact: true }),
+    'aldar-project-21',
+  );
   await expect(page.getByRole('table')).toBeVisible();
-  await expect(page.getByRole('table')).toContainText('Creek Waters');
-  await expect(page.getByRole('table')).toContainText('The Acres');
+  await expect(page.getByRole('table')).toContainText('Sobha Solis');
+  await expect(page.getByRole('table')).toContainText('Gardenia Bay');
 });
 
-test('light and dark dropdowns and map pass relevant accessibility checks', async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto('/');
+test('light and dark dropdowns and destination navigation pass accessibility checks', async ({
+  page,
+}) => {
   for (const theme of ['light', 'dark']) {
-    await page.locator('html').evaluate((el, value) => el.setAttribute('data-theme', value), theme);
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto('/');
+    await page.evaluate((t) => {
+      localStorage.setItem('aliyas-theme', t);
+      document.documentElement.dataset.theme = t;
+    }, theme);
     await page.getByRole('combobox', { name: 'Choose emirate', exact: true }).click();
-    const results = await new AxeBuilder({ page })
-      .include('.home-search')
-      .include('.brand-select-menu')
-      .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
-      .analyze();
     expect(
-      results.violations.map(({ id, nodes }) => ({ id, targets: nodes.map((n) => n.target) })),
+      (
+        await new AxeBuilder({ page })
+          .include('.home-search')
+          .include('.brand-select-menu')
+          .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
+          .analyze()
+      ).violations,
     ).toEqual([]);
     await page.keyboard.press('Escape');
-    await page.locator('#home-destinations').scrollIntoViewIfNeeded();
-    const mapResults = await new AxeBuilder({ page })
-      .include('#home-destinations')
-      .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
-      .analyze();
+    await openCities(page);
     expect(
-      mapResults.violations.map(({ id, nodes }) => ({ id, targets: nodes.map((n) => n.target) })),
+      (
+        await new AxeBuilder({ page })
+          .include('#signature-navigation-panel')
+          .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
+          .analyze()
+      ).violations,
     ).toEqual([]);
   }
 });
 
-test('map destinations, logo assets and responsive containment remain intact', async ({ page }) => {
-  await page.goto('/');
+test('all destinations and developer logo assets retain correct targets and responsive containment', async ({
+  page,
+}) => {
+  test.setTimeout(90000);
   for (const width of [320, 390, 768, 1024, 1440]) {
     await page.setViewportSize({ width, height: 950 });
-    await page.locator('#home-destinations').scrollIntoViewIfNeeded();
-    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
-      true,
-    );
-    for (const city of ['Dubai', 'Abu Dhabi', 'Ras Al Khaimah', 'Ajman']) {
-      const button = page.getByRole('button', { name: `Show ${city} on map`, exact: true });
-      await button.click();
-      await expect(button).toHaveAttribute('aria-pressed', 'true');
-      await expect(
-        page.getByRole('link', { name: `Explore projects in ${city}`, exact: true }).last(),
-      ).toHaveAttribute('href', `/projects?emirate=${encodeURIComponent(city)}`);
-      const box = (await button.boundingBox())!;
-      expect(box.height).toBeGreaterThanOrEqual(44);
+    await page.goto('/');
+    const panel = await openCities(page);
+    for (const city of emirates) {
+      const card = panel
+        .locator('.signature-city-card')
+        .filter({ has: page.getByRole('heading', { name: city, exact: true }) });
+      expect(
+        new URL((await card.getAttribute('href'))!, page.url()).searchParams.get('emirate'),
+      ).toBe(city);
+      expect((await card.boundingBox())!.height).toBeGreaterThanOrEqual(44);
     }
+    await assertNoOverflow(page);
   }
-  await page.locator('.developer-marquee').scrollIntoViewIfNeeded();
-  await expect(page.locator('.developer-marquee-group').first().locator('a')).toHaveCount(30);
-  for (const logo of await page.locator('.developer-marquee-group').first().locator('img').all()) {
+  await page.goto('/');
+  const group = page.locator('.developer-marquee-group').first();
+  await expect(group.locator('a')).toHaveCount(30);
+  for (const logo of await group.locator('img').all()) {
     await logo.scrollIntoViewIfNeeded();
-    await expect
-      .poll(() =>
-        logo.evaluate(
-          (image) =>
-            (image as HTMLImageElement).complete && (image as HTMLImageElement).naturalWidth > 0,
-        ),
-      )
-      .toBe(true);
+    await logo.evaluate((e: HTMLImageElement) => e.decode());
+    await expect(logo).toHaveCSS('object-fit', 'contain');
     expect(
-      await logo.evaluate((image) => {
-        const box = image.getBoundingClientRect(),
-          parent = image.parentElement!.getBoundingClientRect();
+      await logo.evaluate((e) => {
+        const b = e.getBoundingClientRect(),
+          p = e.parentElement!.getBoundingClientRect();
         return (
-          box.left >= parent.left &&
-          box.right <= parent.right + 1 &&
-          box.top >= parent.top &&
-          box.bottom <= parent.bottom + 1
+          b.left >= p.left - 1 &&
+          b.right <= p.right + 1 &&
+          b.top >= p.top - 1 &&
+          b.bottom <= p.bottom + 1
         );
       }),
     ).toBe(true);
   }
-  const logos = await page
-    .locator('.developer-marquee-group')
-    .first()
-    .locator('img')
-    .evaluateAll((images) =>
-      images.map((image) => {
-        const img = image as HTMLImageElement;
-        return {
-          complete: img.complete,
-          width: img.naturalWidth,
-          fit: getComputedStyle(img).objectFit,
-        };
-      }),
-    );
-  expect(logos.every((img) => img.complete && img.width > 0 && img.fit === 'contain')).toBe(true);
 });
 
-test('marquee moves without playback controls and honours reduced motion', async ({ page }) => {
+test('marquee moves automatically supports pause hover and keyboard and honours reduced motion', async ({
+  page,
+}) => {
   await page.emulateMedia({ reducedMotion: 'no-preference' });
   await page.goto('/');
-  await page.locator('.developer-marquee').scrollIntoViewIfNeeded();
+  const rail = page.locator('.developer-marquee');
+  await rail.scrollIntoViewIfNeeded();
   await page.mouse.move(0, 0);
-  const track = page.locator('.developer-marquee-track');
-  const initial = await track.evaluate((el) => getComputedStyle(el).transform);
-  await expect.poll(() => track.evaluate((el) => getComputedStyle(el).transform)).not.toBe(initial);
-  await expect(page.getByRole('button', { name: /\b(pause|play|resume)\b/i })).toHaveCount(0);
+  const track = page.locator('.developer-marquee-track'),
+    initial = await track.evaluate((e) => getComputedStyle(e).transform);
+  await expect.poll(() => track.evaluate((e) => getComputedStyle(e).transform)).not.toBe(initial);
+  const pause = page.getByRole('button', { name: 'Pause developer logos' });
+  await pause.click();
+  await expect(track).toHaveCSS('animation-play-state', 'paused');
+  await page.getByRole('button', { name: 'Resume developer logos' }).click();
+  await page.mouse.move(0, 0);
+  await page.locator('.hp-hero-actions a').focus();
+  await rail.scrollIntoViewIfNeeded();
+  await expect(track).toHaveCSS('animation-play-state', 'running');
   await page.locator('.developer-marquee-window').hover();
   await expect(track).toHaveCSS('animation-play-state', 'paused');
-  await page.locator('#home-destinations').scrollIntoViewIfNeeded();
-  const pulse = page.locator('.atlas-pulse').first();
-  await expect(pulse).toHaveCSS('animation-play-state', 'running');
-  const opacity = await pulse.evaluate((el) => getComputedStyle(el).opacity);
-  await expect.poll(() => pulse.evaluate((el) => getComputedStyle(el).opacity)).not.toBe(opacity);
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await expect(track).toHaveCSS('animation-name', 'none');
-  await expect(pulse).toHaveCSS('animation-name', 'none');
+  await page.keyboard.press('Tab');
+  const last = page.locator('.developer-marquee-group').first().locator('a').last();
+  await last.focus();
+  await expect(last).toBeInViewport();
 });

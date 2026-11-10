@@ -2,6 +2,7 @@ import type { Article } from './content';
 import journalImages from './journal-images.json' with { type: 'json' };
 import journalResearch from './journal-research.json' with { type: 'json' };
 import additionalPlans from './journal-additional-plans.json' with { type: 'json' };
+import longTailPlans from './journal-longtail-plans.json' with { type: 'json' };
 
 // Owner-supplied titles, in the owner's order. IDs/slugs stay fixed when copy or media changes.
 // No body, publication date, read-time estimate or property image is invented for these previews.
@@ -564,6 +565,7 @@ export const journalArticlePlans: ArticlePlan[] = [
     ],
   },
   ...additionalPlans,
+  ...longTailPlans,
 ];
 
 // Approved media/body is keyed by immutable ID, so each update belongs to one article.
@@ -578,7 +580,7 @@ type JournalArticleContent = Partial<
 // Validated by scripts/compile-journal-research.mjs before each research batch build.
 export const journalArticleContent = journalResearch as JournalArticleContent;
 
-export const journalArticles: Article[] = journalArticlePlans.map(
+export const allJournalArticles: Article[] = journalArticlePlans.map(
   ({ outline, ...plan }, index) => ({
     ...plan,
     sequence: index + 1,
@@ -589,4 +591,12 @@ export const journalArticles: Article[] = journalArticlePlans.map(
     ...journalArticleMedia[plan.id],
     ...journalArticleContent[plan.id],
   }),
+);
+
+// Only complete, published stories belong in public collections and recommendations.
+export const journalArticles = allJournalArticles.filter(
+  (article) =>
+    article.status === 'published' &&
+    article.sections.length > 0 &&
+    article.sections.every((section) => section.body.trim()),
 );

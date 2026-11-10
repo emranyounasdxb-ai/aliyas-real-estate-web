@@ -12,7 +12,7 @@ test('enquiry remains readable and can close from the bottom on phones and lands
     [768, 1024],
   ]) {
     await page.setViewportSize({ width, height });
-    await page.goto('/projects/creek-waters');
+    await page.goto('/developers/sobha/projects/sobha-solis');
     const trigger = page.locator('.pd-mobile-enquiry > button');
     await trigger.click();
     const dialog = page.getByRole('dialog');
@@ -68,7 +68,7 @@ test('sticky enquiry header and form retain light/dark accessibility at both scr
 }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   for (const theme of ['light', 'dark']) {
-    await page.goto('/projects/creek-waters');
+    await page.goto('/developers/sobha/projects/sobha-solis');
     if ((await page.locator('html').getAttribute('data-theme')) !== theme)
       await page.locator('.theme-toggle').click();
     await page.locator('.pd-mobile-enquiry button').click();

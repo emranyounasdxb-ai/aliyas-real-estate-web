@@ -111,12 +111,10 @@ export default async function ContactPage({
                 sizes="(max-width: 850px) 90vw, 35vw"
               />
             </div>
-            <figcaption>
-              Space for your next chapter.<span>Illustrative lifestyle image</span>
-            </figcaption>
+            <figcaption>Space for your next chapter.</figcaption>
           </figure>
           <Link className="contact-explore" href="/projects">
-            Still finding your inspiration? Explore our collection <ArrowUpRight size={16} />
+            Explore our property collection <ArrowUpRight size={16} />
           </Link>
         </aside>
         <EnquiryForm project={project} />

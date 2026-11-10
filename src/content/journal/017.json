@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-01-17",
   "researchedAt": "2026-10-30",
   "excerpt": "Compare ready and off-plan homes on the same timeline, with the same household brief and a clear view of costs, funding and uncertainty.",
   "introduction": "The choice between a ready home and an off-plan purchase is often reduced to a simple contrast: certainty today versus potential tomorrow. Real transactions are less tidy. A completed property may have a tenancy or substantial repair needs, while a future home may suit a buyer whose move is several years away.\n\nThe useful comparison starts with your intended use and timeline. Then ask what each option requires you to fund, what you can inspect or verify today and what must still happen before the home serves its purpose. Neither category deserves to win before those questions are answered.",
@@ -19,7 +19,11 @@
       "body": "For a completed home, you can investigate actual condition and the surrounding building, alongside ownership and occupancy documents. For an off-plan home, the specification, contractual obligations and project evidence carry more of the assessment. Neither route removes the need to check the particular transaction.\n\nDubai provides a [title-deed verification service](https://backoffice.dubailand.gov.ae/en/eservices/title-deed-verification-overview/title-deed-verification/) for relevant completed-property checks. Its [project-registration service](https://backoffice.dubailand.gov.ae/en/eservices/register-project/) describes registration and escrow arrangements for development projects. These are different official functions; use the appropriate process and local authority for the property concerned.\n\nMake uncertainty explicit. A finished apartment with an unresolved defect is not fully understood merely because it exists. A detailed rendering is not an inspection of a completed future home. Assign outstanding technical and legal questions to appropriate professionals instead of giving either category an automatic assurance label.",
       "table": {
         "caption": "Compare the questions each route leaves open",
-        "columns": ["Decision", "Ready home", "Off-plan home"],
+        "columns": [
+          "Decision",
+          "Ready home",
+          "Off-plan home"
+        ],
         "rows": [
           [
             "Occupation",
@@ -55,11 +59,11 @@
     },
     {
       "heading": "Understand the accommodation bridge",
-      "body": "Here is a deliberately narrow illustration. Assume a household could occupy a ready home after one month, while an off-plan home becomes usable after twenty-four months. Temporary rent is assumed to be AED 7,500 per month in both cases. The accommodation bridge is therefore AED 7,500 versus AED 180,000.\n\nThe difference of AED 172,500 is not a conclusion that the ready home is cheaper overall. The two homes may have different prices, payment timing, finance costs, charges and necessary work. The chart isolates one expense that is easy to omit from a launch-price comparison.\n\nA full analysis must add the other cash flows on consistent assumptions. For the ready route, ownership expenses may begin sooner. For the future route, funds may remain uncommitted for longer. Neither effect should be ignored, and any assumed return on retained cash must be labelled rather than treated as a guaranteed offset.",
+      "body": "Consider this example calculation. Assume a household could occupy a ready home after one month, while an off-plan home becomes usable after twenty-four months. Temporary rent is assumed to be AED 7,500 per month in both cases. The accommodation bridge is therefore AED 7,500 versus AED 180,000.\n\nThe difference of AED 172,500 is not a conclusion that the ready home is cheaper overall. The two homes may have different prices, payment timing, finance costs, charges and necessary work. The chart isolates one expense that is easy to omit from a launch-price comparison.\n\nA full analysis must add the other cash flows on consistent assumptions. For the ready route, ownership expenses may begin sooner. For the future route, funds may remain uncommitted for longer. Neither effect should be ignored, and any assumed return on retained cash must be labelled rather than treated as a guaranteed offset.",
       "chart": {
         "title": "One component: housing before occupation",
         "unit": "AED temporary rent",
-        "kind": "Illustrative timing comparison",
+        "kind": "Example timing comparison",
         "values": [
           {
             "label": "Ready: one assumed month",
@@ -70,7 +74,7 @@
             "value": 180000
           }
         ],
-        "note": "Original scenario: AED 7,500 × 1 or 24 months. These are invented dates and rent, not local offers or typical completion times. Excludes purchase price, finance, ownership costs and returns on cash; not an overall cost ranking."
+        "note": "Original scenario: AED 7,500 × 1 or 24 months. Example dates and rent are used to compare the two payment timelines. Excludes purchase price, finance, ownership costs and returns on cash; not an overall cost ranking."
       }
     },
     {

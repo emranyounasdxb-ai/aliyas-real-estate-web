@@ -9,19 +9,35 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
 import type { Developer } from '@/lib/content';
 import type { DeveloperHeroSlide } from '@/lib/developer-project-previews';
-import { HeartSolid } from '@/components/brand-icons';
+import { HeartSolid, SealCheck } from '@/components/brand-icons';
+import { ResponsiveProjectImage } from '@/components/responsive-project-image';
 import { createDeveloperHeartBurst } from '@/lib/developer-heart-burst';
 import './developer-hero.css';
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
-// Covered landscape photos need enough pixels for the tall outer silhouettes.
-const galleryImageSizes = '(max-width:767px) min(112vw, 456px), 48vw';
+const galleryImageSizes =
+  '(max-width:767px) 38vw, (max-width:1000px) and (max-height:500px) 38vw, 22vw';
 
-// The reference is a concave strip: widths, spacing and height grow towards its edges.
-// Rounded trapezoids preserve that silhouette instead of tilting rectangular cards.
-function cardShape(width: number, height: number, position: number) {
-  const inset = height * Math.min(0.17, Math.abs(position) * 0.055);
+// Emphasize the card at the center, easing down to smaller side cards as it moves away.
+const cardScale = (position: number) => 1 / (1 + 0.6 * Math.abs(position));
+const desktopCardOffset = (position: number) =>
+  Math.sign(position) *
+  1.025 *
+  ((0.22 / 0.6) * Math.log1p(0.6 * Math.abs(position)) + 0.018 * Math.abs(position));
+
+// Project the filled photo into the frame so its angled edges leave no empty borders.
+// The left and right edges share a midpoint, so one homography preserves all four corners.
+function photoPerspective(width: number, height: number, position: number, inset: number) {
+  const left = position < 0 ? 0 : inset;
+  const right = position < 0 ? inset : 0;
+  const leftHeight = height - 2 * left;
+  const ratio = leftHeight / (height - 2 * right);
+  return `matrix3d(${ratio},${(ratio * right - left) / width},0,${(ratio - 1) / width},0,${leftHeight / height},0,0,0,0,1,0,0,${left},0,1)`;
+}
+
+// Rounded trapezoids retain the angled side cards around the larger central photo.
+function cardShape(width: number, height: number, position: number, inset: number) {
   const points =
     position < 0
       ? [
@@ -74,14 +90,12 @@ export function DeveloperHero({
     () => {
       const element = root.current!;
       const viewport = gallery.current!;
-      const cards = Array.from(
-        element.querySelectorAll<HTMLElement>('.developer-hero-card, .developer-hero-edge'),
-      );
+      const cards = Array.from(element.querySelectorAll<HTMLElement>('.developer-hero-card'));
       const media = gsap.matchMedia();
       media.add(
         {
           all: '(min-width:0px)',
-          wide: '(min-width:768px)',
+          wide: '(min-width:768px) and (min-height:501px), (min-width:1001px)',
           reduce: '(prefers-reduced-motion:reduce)',
         },
         (context) => {
@@ -89,7 +103,8 @@ export function DeveloperHero({
           const visible = Math.min(count, wide ? 7 : 3);
           const half = (visible - 1) / 2;
           const maximum = Math.max(0, count - visible);
-          const frameScale = 1 + 1.32 * (half / Math.max(1, half)) ** 2.5;
+          const shouldPin = !!wide && !reduce && maximum > 0;
+          const frameScale = 1.25;
           viewport.style.setProperty('--gallery-photo-scale', String(frameScale));
           const phase = { value: 0 };
           const heartBurst = createDeveloperHeartBurst(element, hearts.current!, !!reduce);
@@ -103,14 +118,14 @@ export function DeveloperHero({
           let viewportWidth = 0;
           let photoHeight = 0;
           setVisibleCount(visible);
-          setPinned(!reduce && maximum > 0);
-          element.classList.toggle('is-scroll-pinned', !reduce && maximum > 0);
+          setPinned(shouldPin);
+          element.classList.toggle('is-scroll-pinned', shouldPin);
           const measure = () => {
             viewportWidth = viewport.clientWidth;
             const headerHeight = parseFloat(
               getComputedStyle(document.documentElement).getPropertyValue('--header-height'),
             );
-            const idealHeight = wide ? viewportWidth * 0.134 : Math.min(130, viewportWidth * 0.32);
+            const idealHeight = viewportWidth * (wide ? 0.22 : 0.38) * (3 / 4);
             const outerHeight = (node: HTMLElement) => {
               const style = getComputedStyle(node);
               return (
@@ -126,17 +141,26 @@ export function DeveloperHero({
               outerHeight(element.querySelector<HTMLElement>('.developer-hero-controls')!) +
               parseFloat(rootStyle.paddingTop) +
               parseFloat(rootStyle.paddingBottom) +
+              parseFloat(galleryStyle.marginTop) +
               parseFloat(galleryStyle.getPropertyValue('--gallery-extra'));
             const available = innerHeight - headerHeight - 24;
-            const slope =
-              frameScale + parseFloat(galleryStyle.getPropertyValue('--gallery-overlap'));
             // Fit the whole pinned scene, including its heading, on short laptops and phones.
-            photoHeight = reduce
-              ? idealHeight
-              : Math.max(16, Math.min(idealHeight, (available - fixedHeight) / slope));
+            photoHeight = !shouldPin
+              ? Math.min(idealHeight, !wide && innerHeight <= 500 ? 100 : Infinity)
+              : Math.max(16, Math.min(idealHeight, (available - fixedHeight) / frameScale));
             viewport.style.setProperty('--photo-height', `${photoHeight}px`);
           };
           const draw = () => {
+            const requestedSpread = wide ? Math.min(1.5, 7 / visible) : visible < 3 ? 1.25 : 1;
+            const outerEdge =
+              (wide ? desktopCardOffset(half) : 0.34 * half) +
+              ((wide ? 0.22 : 0.38) * cardScale(half)) / 2;
+            // A short collection may grow, but its outer photos and caption focus rings
+            // must still fit inside the gallery. Full seven/three-card windows stay unchanged.
+            const spread =
+              visible > 0 && visible < (wide ? 7 : 3)
+                ? Math.min(requestedSpread, (0.5 - 12 / viewportWidth) / outerEdge)
+                : requestedSpread;
             cards.forEach((card) => {
               const index = Number(card.dataset.galleryIndex);
               const position = index - half - phase.value;
@@ -144,32 +168,40 @@ export function DeveloperHero({
               card.style.setProperty('--position', String(position));
               // Large catalogues only reshape cards close enough to enter the strip.
               // Hidden records remain in the DOM with their owned name and URL.
-              if (distance >= (wide ? 4.3 : 2) && card.style.visibility === 'hidden') return;
+              if (distance >= half + 1 && card.style.visibility === 'hidden') return;
               const depth = Math.min(1.33, distance / Math.max(1, half));
-              const spread = wide ? Math.min(2.3, 7 / visible) : visible < 3 ? 1.25 : 1;
-              const width = wide
-                ? Math.min(0.22, 0.09 + distance ** 3 / 300) * spread
-                : 0.25 + 0.045 * distance ** 2;
-              const x = wide
-                ? (0.1 * position + 0.00315 * position ** 3) * spread
-                : 0.32 * position * spread;
-              const height = photoHeight * (1 + 1.32 * depth ** 2.5);
+              const scale = cardScale(position);
+              const width = (wide ? 0.22 : 0.38) * scale * spread;
+              const x = wide ? desktopCardOffset(position) * spread : 0.34 * position * spread;
+              const y = -photoHeight * (wide ? 0.5 : 0.28) * Math.min(1, depth) ** 2;
+              const height = photoHeight * scale;
+              const shapePosition = (position / Math.max(1, half)) * 3;
+              const inset = height * Math.min(0.17, Math.abs(shapePosition) * 0.055);
+              // The caption shares the photo's lower edge, including its live slope.
+              // Keeping both in this draw pass prevents the name/badge lagging behind the card.
+              card.style.setProperty('--card-caption-offset', `${(height - inset) / 2}px`);
+              card.style.setProperty(
+                '--card-caption-angle',
+                `${Math.atan2(Math.sign(shapePosition) * inset, width * viewportWidth)}rad`,
+              );
               card.style.setProperty('--depth', String(depth));
               card.style.setProperty('--card-width', `${width * 100}%`);
               card.style.setProperty('--card-x', `${x * viewportWidth}px`);
+              card.style.setProperty('--card-y', `${y}px`);
               card.style.setProperty('--card-height', `${height}px`);
               card.style.setProperty(
+                '--card-photo-transform',
+                photoPerspective(width * viewportWidth, height, shapePosition, inset),
+              );
+              card.style.setProperty(
                 '--card-clip',
-                cardShape(width * viewportWidth, height, wide ? position : position * 2),
+                cardShape(width * viewportWidth, height, shapePosition, inset),
               );
-              card.style.zIndex = String(Math.round(10 + distance));
-              card.style.visibility = distance < (wide ? 4.3 : 2) ? 'visible' : 'hidden';
-              card.setAttribute(
-                'aria-hidden',
-                card.classList.contains('developer-hero-edge') || distance >= visible / 2
-                  ? 'true'
-                  : 'false',
-              );
+              card.style.zIndex = String(Math.round(20 - distance));
+              // Keep entering/leaving photos until their frame has cleared the viewport.
+              // Only the current seven (three on mobile) belong to the keyboard window.
+              card.style.visibility = distance < half + 1 ? 'visible' : 'hidden';
+              card.setAttribute('aria-hidden', distance >= visible / 2 ? 'true' : 'false');
               const projectLink = card.querySelector<HTMLAnchorElement>(
                 '.developer-hero-card-link',
               );
@@ -211,7 +243,7 @@ export function DeveloperHero({
           move.current = (direction) =>
             select((seek?.isActive() ? selected : Math.round(phase.value)) + direction);
           setReady(true);
-          if (!reduce && maximum > 0) {
+          if (shouldPin) {
             movement = gsap.to(phase, {
               value: maximum,
               ease: 'none',
@@ -346,10 +378,10 @@ export function DeveloperHero({
               {
                 '--position': index - 3,
                 '--depth': Math.min(1, Math.abs(index - 3) / 3),
-                '--curve': Math.pow(Math.min(1, Math.abs(index - 3) / 3), 1.5),
-                '--card-width': `${Math.min(0.22, 0.09 + Math.abs(index - 3) ** 3 / 300) * 100}%`,
-                '--card-x': `${(0.1 * (index - 3) + 0.00315 * (index - 3) ** 3) * 100}cqw`,
-                '--card-height': `calc(var(--photo-height) * ${1 + 1.32 * Math.min(1, Math.abs(index - 3) / 3) ** 2.5})`,
+                '--card-width': `${0.22 * cardScale(index - 3) * 100}%`,
+                '--card-x': `${(desktopCardOffset(index - 3) * 100).toFixed(5)}cqw`,
+                '--card-y': `calc(var(--photo-height) * ${-0.5 * Math.min(1, Math.abs(index - 3) / 3) ** 2})`,
+                '--card-height': `calc(var(--photo-height) * ${cardScale(index - 3)})`,
                 visibility: index < 7 ? 'visible' : 'hidden',
               } as CSSProperties
             }
@@ -363,8 +395,9 @@ export function DeveloperHero({
                 prefetch={false}
               >
                 <div className="developer-hero-photo">
-                  <Image
+                  <ResponsiveProjectImage
                     src={project.image}
+                    responsiveWidth={project.imageResponsiveWidth}
                     alt=""
                     fill
                     sizes={galleryImageSizes}
@@ -375,6 +408,9 @@ export function DeveloperHero({
                 </div>
                 <div className="developer-hero-card-caption">
                   <strong>{project.title}</strong>
+                  {project.nameVerified && (
+                    <SealCheck className="developer-hero-card-badge" aria-hidden="true" />
+                  )}
                 </div>
               </Link>
             ) : (
@@ -392,25 +428,6 @@ export function DeveloperHero({
             )}
           </div>
         ))}
-        {(count >= 7 ? [-1, count] : []).map((index) => (
-          <div
-            key={index}
-            className="developer-hero-edge"
-            data-gallery-index={index}
-            aria-hidden="true"
-            style={{ visibility: 'hidden' }}
-          >
-            <div className="developer-hero-photo">
-              <Image
-                src={projects[index < 0 ? count - 1 : 0].image}
-                alt=""
-                fill
-                sizes={galleryImageSizes}
-                draggable={false}
-              />
-            </div>
-          </div>
-        ))}
       </div>
       <div className="developer-hero-hearts" ref={hearts} aria-hidden="true">
         {Array.from({ length: 18 }, (_, index) => (
@@ -424,11 +441,6 @@ export function DeveloperHero({
           <span>
             {String(windowStart + 1).padStart(2, '0')}—
             {String(Math.min(count, windowStart + visibleCount)).padStart(2, '0')} / {count}
-          </span>
-          <span>
-            {hasInspiration
-              ? 'Stock images for inspiration · project details pending'
-              : 'Project imagery and design previews · see project sources'}
           </span>
         </div>
         {count > visibleCount && (

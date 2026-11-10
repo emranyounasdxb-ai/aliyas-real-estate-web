@@ -1,0 +1,103 @@
+{
+  "status": "published",
+  "date": "2026-06-03",
+  "researchedAt": "2026-11-08",
+  "excerpt": "Use recent Dubai transaction records to set an apartment resale price, adjust for unit differences and recognise limitations in the data.",
+  "introduction": "A defensible Dubai apartment resale price starts with recent completed transactions for genuinely comparable homes. Filter the evidence by area, building, property type and date, then assess differences in size, floor, condition, parking and tenancy. An asking price or an emirate-wide average is useful context but is not a completed sale of your apartment.\n\nThis guide explains the method using worked examples. It does not provide a formal valuation or claim that the sample transactions occurred.",
+  "takeaways": [
+    "Use DLD transaction data and verify the type, date and property details before selecting comparables.",
+    "Adjust for meaningful differences and use a range when the available evidence is limited.",
+    "Separate the estimated market price from the seller's net proceeds after mortgage and selling costs."
+  ],
+  "sections": [
+    {
+      "heading": "Where can you find transaction evidence?",
+      "body": "DLD's [real estate data page](https://dubailand.gov.ae/en/open-data/real-estate-data/) offers filters including date, transaction type, registration type, area and property type. Its displayed fields include transaction amount, size, rooms, parking and project information. Check the definitions and coverage before using a record as a comparable sale.\n\nSelect completed sales rather than mixing mortgages, gifts, valuations or initial registrations into the same price comparison. Check the date and whether the record represents a similar completed apartment. Where a field is unavailable or the transaction terms are unclear, record the limitation rather than assuming a match.\n\nThe [Business Bay and Marina area guide](/journal/business-bay-vs-dubai-marina-rental-investment) explains why local building and tenant characteristics also matter.",
+      "table": {
+        "caption": "Comparable transaction worksheet",
+        "columns": [
+          "Field",
+          "How to use it"
+        ],
+        "rows": [
+          [
+            "Transaction type and date",
+            "Confirm a relevant completed sale and the period"
+          ],
+          [
+            "Building, unit type and size",
+            "Find genuinely similar apartments and measurement basis"
+          ],
+          [
+            "Floor, view, parking and condition",
+            "Identify differences that may affect price"
+          ],
+          [
+            "Tenancy and inclusions",
+            "Check what the buyer receives and when"
+          ],
+          [
+            "Adjustment and source",
+            "Record the reason, evidence and uncertainty"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Choose and adjust the comparables",
+      "body": "Start with the same building where enough recent evidence exists, then consider similar nearby buildings if necessary. A renovated apartment, different floor, view or parking arrangement may justify an adjustment. The size and direction of an adjustment should be supported by evidence, not an assumed percentage applied to every unit.\n\nPrice per square foot can help compare similar apartments, but only if the area measure is consistent. Check whether the recorded size includes balconies or other areas. A per-unit comparison can be more useful when the homes are close in size and layout.\n\nSeparate new off-plan sales from completed resales and check whether incentives or unusual payment terms affect the recorded value. If the data cannot establish those details, widen the range and seek more evidence."
+    },
+    {
+      "heading": "Sample median, not an appraisal",
+      "body": "Suppose three sample comparable sales are AED 1,600,000, AED 1,700,000 and AED 1,800,000. The median is AED 1,700,000. If the subject needs AED 30,000 of evidenced repairs and no other differences are assumed, a simplified starting point might be AED 1,670,000. The market effect of repairs may differ from their quoted cost.\n\nThe chart shows only the sample sale prices. Use the calculation to organise comparable sales before assessing a particular apartment. A professional would assess the relevance of each comparable and other differences before reaching a conclusion.\n\nUse an estimate range, test a sale below the midpoint and update the evidence if the marketing period extends or the property condition changes.",
+      "chart": {
+        "title": "Example comparable sale prices",
+        "unit": "AED",
+        "kind": "Sample transactions",
+        "values": [
+          {
+            "label": "Comparable A",
+            "value": 1600000
+          },
+          {
+            "label": "Comparable B",
+            "value": 1700000
+          },
+          {
+            "label": "Comparable C",
+            "value": 1800000
+          }
+        ],
+        "note": "Example sale prices produce a median of AED 1,700,000; use comparable transactions for a property valuation."
+      }
+    },
+    {
+      "heading": "Use an index without confusing it with your unit",
+      "body": "DLD's [residential sales price index](https://dubailand.gov.ae/en/open-data/residential-properties-price-index-rppi/) describes a methodology designed to account for differences in residential property characteristics. An index can help understand a broader market period, but it does not price a specific apartment or replace building-level sales.\n\nA change in the mix of transactions can affect simple averages. Compare the same property type, location and period, and check whether a series is revised. Do not apply a city-wide percentage mechanically to the purchase price of a single home.\n\nCurrent competing listings can show what buyers see today. Track their asking prices and duration separately from completed transactions, since an advertisement can be changed or withdrawn."
+    },
+    {
+      "heading": "Price and prepare the sale",
+      "body": "Inspect the apartment, record the condition, check building charges and resolve questions about the title, mortgage or tenancy. A buyer may price uncertainty or required work into an offer. Obtain repair estimates and provide accurate information about the unit.\n\nEstimate your net proceeds by deducting the outstanding loan, agreed selling costs and other obligations from a range of possible sale prices. The [mortgaged sale guide](/journal/how-to-sell-a-mortgaged-property-in-dubai) explains why a bank settlement quote and release process matter. Proceeds are not the same as profit.\n\nWhere a lender, authority or complex decision requires an independent valuation, use a provider and report accepted for that purpose. Ask about the report date, assumptions and limitations."
+    },
+    {
+      "heading": "Revisit the price as evidence changes",
+      "body": "Set a date to review the asking price alongside new completed sales, competing listings and feedback from qualified viewings. Ask whether a repeated objection concerns the layout, condition, building charges or the price. A slow response is useful information, but it does not by itself identify the correct discount.\n\nKeep a written record of which comparables were used and what adjustments were made. If a stronger or more recent sale becomes available, update the range and discuss it with your adviser. The aim is a transparent decision based on current evidence, not a fixed number defended after its assumptions have changed."
+    },
+    {
+      "heading": "Review a current apartment",
+      "body": "Browse the [Aliyas Dubai project collection](/projects?emirate=Dubai) and [contact Aliyas](/contact) with the exact building, unit details and intended timing. Request a current market assessment and the source and date of comparable evidence. Check whether each comparison reflects a completed sale or an asking price and retain the details used to assess similarity.\n\nVerify the transaction records and obtain an appropriate professional valuation when required before setting or accepting a price."
+    }
+  ],
+  "references": [
+    {
+      "label": "Dubai Land Department: real estate data",
+      "url": "https://dubailand.gov.ae/en/open-data/real-estate-data/",
+      "period": "Official transaction filters and fields; checked 8 November 2026"
+    },
+    {
+      "label": "Dubai Land Department: residential sales price index",
+      "url": "https://dubailand.gov.ae/en/open-data/residential-properties-price-index-rppi/",
+      "period": "Official index and methodology; checked 8 November 2026"
+    }
+  ]
+}

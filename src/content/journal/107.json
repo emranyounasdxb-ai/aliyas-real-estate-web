@@ -1,0 +1,111 @@
+{
+  "status": "published",
+  "date": "2026-04-17",
+  "researchedAt": "2026-11-08",
+  "excerpt": "Calculate an Ajman apartment's net rental yield after vacancy and operating expenses, using the full acquisition cost as your denominator.",
+  "introduction": "To calculate net rental yield in Ajman, estimate the annual rent actually collected, subtract the landlord's annual operating expenses, and divide the result by the total cost of acquiring the apartment. Multiply by 100 to express the answer as a percentage. The result is an estimate for a defined period and set of assumptions, not a guaranteed return.\n\nA useful calculation identifies who pays each expense and distinguishes operating income from mortgage cash flow. The example below shows each step; use figures from the property and lease you are considering.",
+  "takeaways": [
+    "Net yield equals annual collected rent minus annual owner operating costs, divided by full acquisition cost, multiplied by 100.",
+    "Avoid counting an assumed full year's rent when your scenario includes a vacant period.",
+    "Keep mortgage payments, tax and resale proceeds in separate calculations unless you explicitly define a different measure."
+  ],
+  "sections": [
+    {
+      "heading": "What is the difference between gross and net yield?",
+      "body": "Gross yield is often quoted as annual headline rent divided by the advertised purchase price. It is a quick screening measure but leaves out vacancy, owner-paid costs and purchase expenses. Net yield is more useful for comparing investments when the same definitions and period are used for each property.\n\nUse this formula: **net yield = (rent collected − owner operating expenses) ÷ total acquisition cost × 100**. Rent collected is the amount the owner expects to receive after any vacancy or unpaid-rent allowance. Operating expenses are recurring costs borne by the owner. Total acquisition cost is the agreed price plus the buyer's actual transaction charges and any initial work included in the investment.\n\nState the basis beside the percentage. A yield calculated on today's market value answers a different question from one calculated on the original acquisition cost. Both can be useful, but they should not be compared as if their denominators were identical."
+    },
+    {
+      "heading": "A worked example for one apartment",
+      "body": "Assume a purchase price of AED 600,000 and AED 18,000 in acquisition costs, giving a total cost of AED 618,000. Assume a signed annual rent of AED 48,000, paid at an even monthly equivalent of AED 4,000. Allowing one vacant month produces AED 44,000 in rent collected for the example year.\n\nAssume owner costs of AED 7,500 for service charges, AED 2,500 for management, AED 2,000 for maintenance and AED 1,000 for insurance. Together they are AED 13,000. Net operating income is AED 44,000 minus AED 13,000, or AED 31,000. Divide AED 31,000 by AED 618,000 and multiply by 100: the sample net yield is approximately 5.02%.\n\nBy contrast, headline rent of AED 48,000 divided by the AED 600,000 price gives an 8% gross yield. The gap reflects both the vacancy and costs included in this example. None of the inputs is an Ajman market average or a fee quotation.",
+      "table": {
+        "caption": "Example net yield calculation",
+        "columns": [
+          "Input",
+          "Example amount",
+          "Treatment"
+        ],
+        "rows": [
+          [
+            "Price plus acquisition costs",
+            "AED 618,000",
+            "Denominator"
+          ],
+          [
+            "Headline annual rent",
+            "AED 48,000",
+            "Before vacancy"
+          ],
+          [
+            "Vacancy allowance",
+            "AED 4,000",
+            "One assumed month"
+          ],
+          [
+            "Owner operating expenses",
+            "AED 13,000",
+            "Annual assumed costs"
+          ],
+          [
+            "Net operating income",
+            "AED 31,000",
+            "Collected rent less expenses"
+          ],
+          [
+            "Net yield",
+            "About 5.02%",
+            "AED 31,000 divided by AED 618,000"
+          ]
+        ],
+        "note": "Sample inputs, before financing and tax. Apply the same method to the rent and costs of the home you select."
+      },
+      "chart": {
+        "title": "How the example moves from rent to net income",
+        "unit": "AED per year",
+        "kind": "Sample calculation stages",
+        "values": [
+          {
+            "label": "Headline annual rent",
+            "value": 48000
+          },
+          {
+            "label": "After vacancy",
+            "value": 44000
+          },
+          {
+            "label": "After owner expenses",
+            "value": 31000
+          }
+        ],
+        "note": "The bars are successive stages of one calculation, not amounts to add together. They exclude borrowing costs and tax."
+      }
+    },
+    {
+      "heading": "Collect reliable rent and vacancy evidence",
+      "body": "Seek recent signed leases for apartments with similar size, floor, view, parking, furnishing and condition in the same building where possible. An advertised rent can differ from the final agreement. If a lease has a rent-free period or the landlord covers a service, calculate the effective annual income rather than comparing only the advertised number.\n\nA one-month vacancy allowance is one way to test the annual cash-flow calculation. It is a scenario that makes the risk visible. Also test a longer gap, a lower renewal rent and a major repair. If the calculation uses expected collected rent, do not subtract the same vacancy again as an operating expense.\n\nAjman's [residential lease authentication service](https://ajman.ae/en/happiness-bundle/services/establish-business/authentication-lease-contract-residential-purposes) describes the Tasdeeq process. Confirm current requirements and who pays any relevant contract charges. A refundable security deposit is not ordinary rent and should not be included as income merely because it is held during the lease."
+    },
+    {
+      "heading": "Which costs belong in the calculation?",
+      "body": "For the numerator, include the owner's service charges, management, routine maintenance, insurance and utilities or other recurring costs that the owner must pay. Ask for an itemised building statement and written management terms. An expense paid by the tenant should not also be subtracted from the landlord's rent; an owner-paid expense should not disappear because the listing omits it.\n\nFor the denominator, include the purchase price and the buyer's actual registration, brokerage and other acquisition costs. Add initial refurbishment if you are measuring the full amount invested to make the apartment lettable. Ajman's [sale-registration service](https://www.ajman.ae/en/servicecatalog/services/3162) lists distinct fee categories and required documents. Because parts of the displayed fee field are ambiguous, obtain an itemised quote for the unit and parties.\n\nSeparate extraordinary capital work from routine annual expenses and explain where you place it. Consistency matters more than producing a larger percentage: the same item must not be omitted, or counted twice, when you compare two properties."
+    },
+    {
+      "heading": "What about a mortgage and a future sale?",
+      "body": "The example is an unleveraged operating yield: it does not subtract interest, principal repayments, lender insurance or tax. To understand cash available each month, prepare a separate cash-flow forecast that subtracts the actual loan payments and other cash costs. A principal repayment reduces the outstanding debt but still requires cash; interest is a financing cost.\n\nA return on the buyer's own cash can look higher when borrowing is used, but it is also more sensitive to vacancy, rates and price changes. Show the down payment, acquisition costs, financing schedule and the balance due on sale. Do not call a gross yield a guaranteed return on equity.\n\nAt exit, compare the sale proceeds with outstanding debt, selling expenses and the capital invested. This is separate from annual rental yield. A rising rent or a sale at the purchase price is not assured, and personal tax treatment should be confirmed for the owner's circumstances."
+    },
+    {
+      "heading": "Use the method on a real shortlist",
+      "body": "Explore the [Aliyas Ajman project collection](/projects?emirate=Ajman) and use the [Ajman area guide](/journal/ajman-property-2026) to narrow your locations. Ask for current availability and the precise unit rather than treating a project card as a current rental quotation.\n\n[Contact Aliyas](/contact) for current project details and a property-specific discussion. Request the purchase and payment documents, service-charge information and comparable lease evidence; then run the same calculation for each option. Review the assumptions again before an offer and whenever the rent, expenses or financing changes."
+    }
+  ],
+  "references": [
+    {
+      "label": "Ajman Government: residential lease authentication",
+      "url": "https://ajman.ae/en/happiness-bundle/services/establish-business/authentication-lease-contract-residential-purposes",
+      "period": "Official service; checked 8 November 2026"
+    },
+    {
+      "label": "Ajman Government: sale registration of a property or unit",
+      "url": "https://www.ajman.ae/en/servicecatalog/services/3162",
+      "period": "Official service; checked 8 November 2026"
+    }
+  ]
+}

@@ -2,7 +2,6 @@ import type { Developer } from './content';
 import { getDeveloperProjects } from './developer-projects';
 import { developerProjectHref } from './developer-project-url';
 import { DEVELOPER_HERO_LIMIT } from './developer-project-pagination';
-import { developerHeroInspiration } from './developer-hero-imagery';
 import { getProjectMedia } from './project-media';
 
 export type DeveloperProjectPreview = {
@@ -12,6 +11,7 @@ export type DeveloperProjectPreview = {
   developerName: string;
   title: string;
   image: string;
+  imageResponsiveWidth?: number;
   placeholder: boolean;
   href: string;
   nameVerified: boolean;
@@ -31,27 +31,21 @@ export type DeveloperHeroSlide =
 export function getDeveloperProjectPreviews(developer: Developer): DeveloperHeroSlide[] {
   const projects: DeveloperProjectPreview[] = getDeveloperProjects(developer.slug)
     .slice(0, DEVELOPER_HERO_LIMIT)
-    .map((project) => ({
-      kind: 'project',
-      id: project.id,
-      developerSlug: developer.slug,
-      developerName: developer.name,
-      title: project.name,
-      image: getProjectMedia(project)?.cardImage || project.image,
-      placeholder: project.placeholder,
-      href: developerProjectHref(project),
-      nameVerified: Boolean(project.nameSource),
-    }));
-  if (!projects.length) return [];
-  const images: DeveloperHeroSlide[] = developerHeroInspiration(
-    developer.slug,
-    DEVELOPER_HERO_LIMIT - projects.length,
-  ).map((image, index) => ({
-    kind: 'inspiration',
-    id: `${developer.slug}-hero-inspiration-${index + 1}`,
-    developerSlug: developer.slug,
-    image: image.src,
-    alt: image.alt,
-  }));
-  return [...projects, ...images];
+    .map((project) => {
+      const media = getProjectMedia(project);
+      const cover = media?.images.find((image) => image.src === media.cardImage);
+      return {
+        kind: 'project',
+        id: project.id,
+        developerSlug: developer.slug,
+        developerName: developer.name,
+        title: project.name,
+        image: media?.cardImage || project.image,
+        imageResponsiveWidth: cover?.responsiveWidth,
+        placeholder: project.placeholder,
+        href: developerProjectHref(project),
+        nameVerified: Boolean(project.nameSource),
+      };
+    });
+  return projects;
 }

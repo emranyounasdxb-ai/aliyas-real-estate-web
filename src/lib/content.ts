@@ -2,7 +2,9 @@ import { projectLocation } from './locations';
 import { journalArticles } from './journal-articles';
 
 export type Project = {
+  id: string;
   slug: string;
+  href: string;
   name: string;
   developer: string;
   developerSlug: string;
@@ -11,10 +13,12 @@ export type Project = {
   emirate: string;
   type: string;
   price: number;
+  priceLabel: string;
   bedrooms: string;
-  handover: string;
+  handover: string | null;
   paymentPlan: string;
   image: string;
+  imageAlt: string;
   gallery?: readonly { src: string; label: string }[];
   description: string;
   amenities: string[];
@@ -57,10 +61,7 @@ export type Article = {
   sections: ArticleSection[];
 };
 
-export const catalogueNotice =
-  'Project information and visuals carry page-specific qualifications. Confirm current availability, prices, payment terms, completion forecasts and final specifications with Aliyas.';
-export const formatPrice = (price: number) =>
-  `AED ${price >= 1000000 ? `${(price / 1000000).toFixed(2).replace(/0$/, '')}M` : `${Math.round(price / 1000)}K`}`;
+export { catalogueNotice, formatPrice } from './listing-format';
 
 export function breadcrumbSchema(
   section: 'projects' | 'developers' | 'journal',
@@ -91,7 +92,7 @@ export function articleSchema(article: Article) {
     headline: article.title,
     description: article.excerpt,
     datePublished: article.date,
-    dateModified: article.date,
+    dateModified: article.researchedAt || article.date,
     articleSection: article.category,
     inLanguage: 'en',
     image: article.image ? new URL(article.image, origin).href : undefined,
@@ -112,82 +113,13 @@ export function serializeSchema(graph: unknown[]) {
   );
 }
 
+// Compact client projection of the matching researched developer records and project-media covers.
+// Keep commercial values aligned with src/data/developer-projects and covers with src/data/project-media.
 export const projects: Project[] = [
   {
-    slug: 'creek-waters',
-    name: 'Creek Waters',
-    developer: 'Emaar',
-    developerSlug: 'emaar',
-    areaId: 'dubai-creek-harbour',
-    location: 'Dubai Creek Harbour',
-    emirate: 'Dubai',
-    type: 'Apartment',
-    price: 1700000,
-    bedrooms: '1–4',
-    handover: '2027',
-    paymentPlan: '90 / 10',
-    image: '/images/project-1.jpg',
-    gallery: [
-      {
-        src: '/images/project-1.jpg',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-apartment-interior.png',
-        label: 'Interior concept',
-      },
-      {
-        src: '/images/concept-apartment-detail.png',
-        label: 'Material study',
-      },
-    ],
-    description:
-      'A waterfront address in Dubai Creek Harbour, where contemporary architecture meets the rhythm of the creek. Creek Waters brings a city perspective to waterside living, with an emphasis on open views and a connected neighbourhood.',
-    amenities: [
-      'Waterfront setting',
-      'Contemporary architecture',
-      'Community spaces',
-      'Open-plan living',
-    ],
-    featured: true,
-    source: 'https://www.emaar.com/en/properties/creek-waters',
-  },
-  {
-    slug: 'the-acres',
-    name: 'The Acres',
-    developer: 'Meraas',
-    developerSlug: 'meraas',
-    areaId: 'dubai-dubailand',
-    location: 'Dubailand',
-    emirate: 'Dubai',
-    type: 'Villa',
-    price: 5500000,
-    bedrooms: '3–5',
-    handover: '2028',
-    paymentPlan: '65 / 35',
-    image: '/images/project-2.jpg',
-    gallery: [
-      {
-        src: '/images/project-2.jpg',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-villa-interior.png',
-        label: 'Interior concept',
-      },
-      {
-        src: '/images/concept-villa-detail.png',
-        label: 'Material study',
-      },
-    ],
-    description:
-      'A collection of standalone villas woven into a landscape of gardens and lagoons. The Acres puts nature at the centre of everyday life, with architecture that creates a flowing connection between indoor and outdoor spaces.',
-    amenities: ['Standalone villas', 'Landscaped gardens', 'Swimmable lagoons', 'Walking routes'],
-    featured: true,
-    source: 'https://meraas.com/en/project/the-acres-villas',
-  },
-  {
+    id: 'sobha-project-19',
     slug: 'sobha-solis',
+    href: '/developers/sobha/projects/sobha-solis',
     name: 'Sobha Solis',
     developer: 'Sobha',
     developerSlug: 'sobha',
@@ -195,38 +127,34 @@ export const projects: Project[] = [
     location: 'Motor City',
     emirate: 'Dubai',
     type: 'Apartment',
-    price: 1100000,
+    price: 2000000,
+    priceLabel: 'Developer starting price',
     bedrooms: '1–3',
-    handover: '2027',
-    paymentPlan: '60 / 40',
-    image: '/images/project-3.jpg',
-    gallery: [
-      {
-        src: '/images/project-3.jpg',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-apartment-interior.png',
-        label: 'Interior concept',
-      },
-      {
-        src: '/images/concept-apartment-detail.png',
-        label: 'Material study',
-      },
-    ],
+    handover: null,
+    paymentPlan: '60/40 · Property Finder',
+    image: '/images/projects/sobha/sobha-solis/solis-towers-5e5be3412632.jpg',
+    imageAlt: 'Sobha render showing the four Sobha Solis towers beside Dubai Autodrome.',
     description:
-      'An active take on contemporary apartment living in Dubai’s Motor City. Sobha Solis combines a residential setting with space for movement, recreation and everyday connection.',
+      'Sobha Solis comprises four residential towers above a shared residents’ podium in Motor City. One- to three-bedroom apartments, including a marketed 1.5-bedroom category, sit alongside facilities focused on fitness, social activities and the nearby motorsport setting.',
     amenities: [
-      'Fitness-focused spaces',
-      'Contemporary residences',
-      'Community areas',
-      'Outdoor recreation',
+      'Lap pool',
+      'Racetrack viewing deck',
+      'Outdoor cinema',
+      'Children’s pool and play area',
+      'Co-working spaces',
+      'Library',
+      'Dog park',
+      'Jogging paths',
+      'Fitness centre',
+      'Steam and sauna',
     ],
     featured: true,
-    source: 'https://sobharealty.com/sobha-communities/sobha-solis',
+    source: 'https://sobharealty.com/properties-in-dubai/sobha-solis',
   },
   {
+    id: 'aldar-project-21',
     slug: 'gardenia-bay',
+    href: '/developers/aldar/projects/gardenia-bay',
     name: 'Gardenia Bay',
     developer: 'Aldar',
     developerSlug: 'aldar',
@@ -234,34 +162,33 @@ export const projects: Project[] = [
     location: 'Yas Island',
     emirate: 'Abu Dhabi',
     type: 'Apartment',
-    price: 1450000,
+    price: 805000,
+    priceLabel: 'Original launch price',
     bedrooms: 'Studio–3',
-    handover: '2027',
-    paymentPlan: '50 / 50',
-    image: '/images/concept-apartment-interior.png',
-    gallery: [
-      {
-        src: '/images/concept-apartment-interior.png',
-        label: 'Interior inspiration',
-      },
-      {
-        src: '/images/project-3.jpg',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-apartment-detail.png',
-        label: 'Material study',
-      },
-    ],
+    handover: '2028 target',
+    paymentPlan: '5/45/50 · original release',
+    image: '/images/projects/aldar/gardenia-bay/canal-aerial-6c92b49523ac.webp',
+    imageAlt: 'Aldar render showing gardenia Bay buildings along the Yas Island canal.',
     description:
-      'A waterside community on Yas Island shaped around balance, greenery and shared experiences. Gardenia Bay brings the calm of a waterfront promenade into a neighbourhood connected to Abu Dhabi’s island lifestyle.',
-    amenities: ['Waterfront promenade', 'Swimming pool', 'Gymnasium', 'Community spaces'],
-    featured: false,
+      'Gardenia Bay is Aldar’s canal-side residential community on Yas Island, opposite Yas Park. Its original apartment collection ranges from studios to three-bedroom homes, with shaded outdoor spaces and a waterfront promenade connecting daily life to the landscape.',
+    amenities: [
+      'Beach club',
+      'Swimming pool',
+      'Gym',
+      'Dog park',
+      'Meeting rooms',
+      'Private cinema',
+      'Mosque',
+      'Waterfront promenade',
+    ],
+    featured: true,
     source: 'https://www.aldar.com/properties/en/uae/yas-island/gardenia-bay',
   },
   {
+    id: 'ellington-project-19',
     slug: 'cala-del-mar',
-    name: 'Cala del Mar',
+    href: '/developers/ellington/projects/cala-del-mar',
+    name: 'Cala Del Mar',
     developer: 'Ellington',
     developerSlug: 'ellington',
     areaId: 'rak-al-marjan-island',
@@ -269,37 +196,30 @@ export const projects: Project[] = [
     emirate: 'Ras Al Khaimah',
     type: 'Apartment',
     price: 2300000,
-    bedrooms: '1–3',
-    handover: '2027',
-    paymentPlan: '50 / 50',
-    image: '/images/concept-apartment-detail.png',
-    gallery: [
-      {
-        src: '/images/concept-apartment-detail.png',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-apartment-interior.png',
-        label: 'Interior concept',
-      },
-      {
-        src: '/images/concept-apartment-detail.png',
-        label: 'Material study',
-      },
-    ],
+    priceLabel: 'Launch price · sold out',
+    bedrooms: 'Studio–4',
+    handover: 'Q2 2027 target',
+    paymentPlan: '50/50 · published plan',
+    image: '/images/projects/ellington/cala-del-mar/cala-del-mar-tower-51903002907d.jpg',
+    imageAlt: 'Ellington Properties render of Cala Del Mar tower from the waterfront.',
     description:
-      'A coastal residential address on Al Marjan Island in Ras Al Khaimah. Cala del Mar pairs Ellington’s design-led approach with a setting shaped by the sea, expansive skies and an unhurried island atmosphere.',
+      'Cala Del Mar is Ellington’s waterfront apartment development on Al Marjan Island in Ras Al Khaimah. Curved balconies and shared fitness, play and pool spaces shape its coastal residential setting.',
     amenities: [
-      'Coastal setting',
-      'Design-led interiors',
-      'Island location',
-      'Residential shared spaces',
+      'Infinity-edge pool and floating deck',
+      'Residents’ beach access',
+      'Fitness studio',
+      'Virtual training and rowing zones',
+      'Outdoor yoga',
+      'Clubhouse lounge',
+      'Children’s play areas',
     ],
-    featured: false,
+    featured: true,
     source: 'https://ellingtonproperties.ae/en/property-for-sale/cala-del-mar-ras-al-khaimah',
   },
   {
+    id: 'damac-project-07',
     slug: 'damac-islands',
+    href: '/developers/damac/projects/damac-islands',
     name: 'DAMAC Islands',
     developer: 'DAMAC',
     developerSlug: 'damac',
@@ -307,39 +227,30 @@ export const projects: Project[] = [
     location: 'Dubailand',
     emirate: 'Dubai',
     type: 'Townhouse',
-    price: 2750000,
-    bedrooms: '4–5',
-    handover: '2029',
-    paymentPlan: '75 / 25',
-    image: '/images/project-6.jpg',
-    gallery: [
-      {
-        src: '/images/project-6.jpg',
-        label: 'Exterior inspiration',
-      },
-      {
-        src: '/images/concept-villa-interior.png',
-        label: 'Interior concept',
-      },
-      {
-        src: '/images/concept-villa-detail.png',
-        label: 'Material study',
-      },
-    ],
+    price: 2250000,
+    priceLabel: 'Original launch price',
+    bedrooms: '4–7',
+    handover: null,
+    paymentPlan: '75/25 · original release',
+    image: '/images/projects/damac/damac-islands/villa-arrival-5c0449f700b0.jpg',
+    imageAlt: 'DAMAC render showing seven-bedroom villa entrance at DAMAC Islands.',
     description:
-      'An island-inspired residential concept in Dubai, with a focus on outdoor living and a relaxed community experience. Explore this sample profile as a starting point for a conversation about your preferred home and location.',
+      "DAMAC Islands is an inland Dubailand community of four- and five-bedroom townhouses and six- and seven-bedroom villas. Its original masterplan takes inspiration from six tropical destinations, arranging homes around lagoons and recreation spaces. It is separate from DAMAC Islands 2 and from Nakheel's Dubai Islands.",
     amenities: [
-      'Island-inspired setting',
-      'Outdoor spaces',
-      'Family residences',
-      'Community living',
+      'Central fountain hub',
+      'Aqua park',
+      'Jungle river',
+      'Jungle swings',
+      'Aqua dome',
+      'Waterfall lagoon',
+      'Mini-golf island',
+      'Gondola-style paddling',
     ],
     featured: false,
-    source: 'https://www.damacproperties.com/',
+    source: 'https://preprod.damacproperties.com/en/projects/damac-islands/',
   },
 ];
 
-// Existing illustrative records must agree with the canonical location registry.
 projects.forEach(projectLocation);
 
 export { developers } from './developers';

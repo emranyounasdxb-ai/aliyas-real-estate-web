@@ -12,6 +12,7 @@ export type EnquiryTriggerProps = {
   projectSlug?: string;
   projectName?: string;
   initialMessage?: string;
+  initialInterest?: 'A new home' | 'An investment' | 'A specific project' | 'Just exploring';
   children?: ReactNode;
   className?: string;
 };
@@ -20,6 +21,7 @@ export function EnquiryTrigger({
   projectSlug,
   projectName,
   initialMessage,
+  initialInterest,
   children,
   className,
 }: EnquiryTriggerProps) {
@@ -169,6 +171,7 @@ export function EnquiryTrigger({
               project={projectSlug}
               projectName={projectName}
               initialMessage={initialMessage}
+              initialInterest={initialInterest}
             />
             <div className="enquiry-drawer-contact">
               <p>A more personal conversation?</p>

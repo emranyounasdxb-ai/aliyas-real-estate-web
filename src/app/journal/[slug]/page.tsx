@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import {
   allArticles,
@@ -10,7 +10,7 @@ import {
   breadcrumbSchema,
   serializeSchema,
 } from '@/lib/content';
-import { PlannedArticle } from '../planned-article';
+import { allJournalArticles } from '@/lib/journal-articles';
 import { ResearchedArticle } from '../researched-article';
 import { SectionNavigation } from '@/components/section-navigation';
 import '@/components/catalogue.css';
@@ -20,18 +20,20 @@ export function generateStaticParams() {
 }
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+  if (allJournalArticles.some((article) => article.slug === slug && article.status !== 'published'))
+    redirect('/journal');
   const article = allArticles.find((a) => a.slug === slug);
   return article
     ? {
         title: article.title,
         description: article.excerpt,
         alternates: { canonical: `/journal/${slug}` },
-        ...(article.status === 'planned' ? { robots: { index: false, follow: true } } : {}),
         openGraph: {
-          type: article.status === 'planned' ? 'website' : 'article',
+          type: 'article',
           title: article.title,
           description: article.excerpt,
           ...(article.date ? { publishedTime: article.date } : {}),
+          ...(article.researchedAt ? { modifiedTime: article.researchedAt } : {}),
           images: [
             !article.image
               ? '/brand/aliyas-gold-logo-hd.webp'
@@ -45,9 +47,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 export default async function ArticlePage({ params }: Props) {
   const { slug } = await params;
+  if (allJournalArticles.some((article) => article.slug === slug && article.status !== 'published'))
+    redirect('/journal');
   const article = allArticles.find((a) => a.slug === slug);
   if (!article) notFound();
-  if (article.status === 'planned') return <PlannedArticle article={article} />;
   if (article.researchedAt) return <ResearchedArticle article={article} />;
   return (
     <article className="catalogue-page catalogue-article">

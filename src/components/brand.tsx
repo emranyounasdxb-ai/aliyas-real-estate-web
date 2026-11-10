@@ -17,6 +17,7 @@ export function Brand({ light = false }: { light?: boolean }) {
         style={{ height: 'auto' }}
         sizes={light ? '(max-width: 650px) 220px, 245px' : '(max-width: 1099px) 116px, 156px'}
         loading={light ? 'lazy' : 'eager'}
+        unoptimized
       />
     </Link>
   );

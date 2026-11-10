@@ -1,19 +1,23 @@
 'use client';
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import Link from 'next/link';
 import { BrandedSelect } from './branded-select';
 import { LocationFields } from './location-fields';
-import { ArrowUpRight, Building2, Wallet } from '@/components/brand-icons';
-import { getArea, locationHref } from '@/lib/locations';
-import './location-filters.css';
+import { ArrowUpRight, ChevronDown, SlidersHorizontal } from '@/components/brand-icons';
+import { getArea } from '@/lib/locations';
 
-export function HomeSearch() {
+export function HomeSearch({
+  propertyTypes = ['Apartment', 'Villa', 'Townhouse'],
+}: {
+  propertyTypes?: readonly string[];
+}) {
   const router = useRouter();
   const [emirate, setEmirate] = useState('');
   const [area, setArea] = useState('');
   const [type, setType] = useState('');
   const [budget, setBudget] = useState('');
+  const [search, setSearch] = useState('');
+  const extraCount = Number(Boolean(area)) + Number(Boolean(type));
   function changeLocation(field: 'emirate' | 'area', value: string) {
     if (field === 'emirate') {
       setEmirate(value);
@@ -24,70 +28,104 @@ export function HomeSearch() {
     }
   }
   return (
-    <div className="home-location-search">
-      <form
-        className="home-search home-search-locations"
-        onSubmit={(event) => {
-          event.preventDefault();
-          const query = new URLSearchParams();
-          if (emirate) query.set('emirate', emirate);
-          if (area) query.set('area', area);
-          if (type) query.set('type', type);
-          if (budget) query.set('budget', budget);
-          router.push(`/projects${query.size ? `?${query}` : ''}`);
-        }}
-      >
-        <LocationFields emirate={emirate} area={area} home onChange={changeLocation} />
-        <div className="search-field">
-          <Building2 size={19} />
-          <label>
-            <span>Property type</span>
-            <BrandedSelect
-              aria-label="Choose property type"
-              value={type}
-              onValueChange={setType}
-              options={[
-                { value: '', label: 'Any property' },
-                { value: 'Apartment', label: 'Apartment' },
-                { value: 'Villa', label: 'Villa' },
-                { value: 'Townhouse', label: 'Townhouse' },
-              ]}
-            />
-          </label>
-        </div>
-        <div className="search-field">
-          <Wallet size={19} />
-          <label>
-            <span>Your budget</span>
-            <BrandedSelect
-              aria-label="Choose budget"
-              value={budget}
-              onValueChange={setBudget}
-              options={[
-                { value: '', label: 'Any price' },
-                { value: '2000000', label: 'Up to AED 2M' },
-                { value: '5000000', label: 'Up to AED 5M' },
-                { value: '10000000', label: 'Up to AED 10M' },
-              ]}
-            />
-          </label>
-        </div>
-        <button className="button button-dark" type="submit">
-          Explore projects <ArrowUpRight size={18} />
+    <form
+      className="home-search hp-search-form"
+      role="search"
+      aria-label="Find a property"
+      onSubmit={(event) => {
+        event.preventDefault();
+        const query = new URLSearchParams();
+        if (search.trim()) query.set('q', search.trim());
+        if (emirate) query.set('emirate', emirate);
+        if (area) query.set('area', area);
+        if (type) query.set('type', type);
+        if (budget) query.set('budget', budget);
+        router.push(`/projects${query.size ? `?${query}` : ''}`);
+      }}
+    >
+      <div className="hp-search-primary">
+        <label className="hp-query">
+          <span>Project or developer</span>
+          <input
+            type="search"
+            aria-label="Search by project or developer"
+            placeholder="Name or developer"
+            value={search}
+            maxLength={120}
+            onChange={(event) => setSearch(event.target.value)}
+          />
+        </label>
+        <LocationFields
+          emirate={emirate}
+          area={area}
+          home
+          fields={['emirate']}
+          onChange={changeLocation}
+        />
+        <label>
+          <span>Your budget</span>
+          <BrandedSelect
+            aria-label="Choose budget"
+            value={budget}
+            onValueChange={setBudget}
+            options={[
+              { value: '', label: 'Any price' },
+              { value: '2000000', label: 'Up to AED 2M' },
+              { value: '5000000', label: 'Up to AED 5M' },
+              { value: '10000000', label: 'Up to AED 10M' },
+            ]}
+          />
+        </label>
+        <button className="hp-button hp-button-dark" type="submit">
+          Explore projects <ArrowUpRight size={18} aria-hidden="true" />
         </button>
-      </form>
-      <nav className="home-area-links" aria-label="Explore projects by area">
-        <span>Explore by area</span>
-        {['dubai-jbr', 'dubai-jlt', 'dubai-marina', 'dubai-south'].map((id) => {
-          const place = getArea(id)!;
-          return (
-            <Link key={id} href={locationHref(place)}>
-              {place.shortName ?? place.name}
-              <ArrowUpRight size={14} aria-hidden="true" />
-            </Link>
-          );
-        })}
-      </nav>
-    </div>
+      </div>
+      <div className="hp-search-options">
+        <details className="hp-advanced">
+          <summary>
+            <SlidersHorizontal size={16} aria-hidden="true" />
+            More filters
+            {extraCount > 0 && <span className="hp-filter-count">{extraCount} selected</span>}
+            <ChevronDown size={14} aria-hidden="true" />
+          </summary>
+          <div className="hp-search-extra">
+            <LocationFields
+              emirate={emirate}
+              area={area}
+              home
+              fields={['area']}
+              onChange={changeLocation}
+            />
+            <label>
+              <span>Property type</span>
+              <BrandedSelect
+                aria-label="Choose property type"
+                value={type}
+                onValueChange={setType}
+                options={[
+                  { value: '', label: 'Any property' },
+                  ...propertyTypes.map((value) => ({ value, label: value })),
+                ]}
+              />
+            </label>
+          </div>
+        </details>
+        {Boolean(search || emirate || area || type || budget) && (
+          <button
+            className="hp-clear"
+            type="button"
+            onClick={() => {
+              setSearch('');
+              setEmirate('');
+              setArea('');
+              setType('');
+              setBudget('');
+            }}
+          >
+            Clear filters
+          </button>
+        )}
+      </div>
+    </form>
   );
 }

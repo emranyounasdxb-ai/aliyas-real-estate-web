@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-02-13",
   "researchedAt": "2026-10-30",
   "excerpt": "Count shared risks, not just properties. Review developer exposure, completion dates, tenant demand, debt and available cash before calling a UAE portfolio diversified.",
   "introduction": "Owning several properties can create the appearance of diversification while leaving the owner dependent on the same events. Different unit numbers may still share a developer, a handover window, a tenant group or a financing reset date.\n\nA more useful review looks through the addresses to the commitments underneath them. The aim is not to assemble the largest possible collection. It is to understand where difficulties could arrive together and whether the portfolio has enough flexibility to manage them. Diversification can spread some risks; it does not remove the possibility of loss.",
@@ -16,17 +16,26 @@
     },
     {
       "heading": "Distinguish value concentration from payment concentration",
-      "body": "Property value is one lens, but future cash commitments are another. A portfolio with balanced estimated values may still have most of its next year's payments due to one developer or within a short period. That can create pressure without any change in market prices.\n\nThe illustrative chart below assumes AED 1 million of future contractual payments, divided between three fictional counterparties. Counterparty A accounts for AED 600,000, B for AED 250,000 and C for AED 150,000. The 60%, 25% and 15% shares describe those invented payment commitments only. They are not suggested allocations or probabilities of loss.\n\nPrepare equivalent views for your own documents using consistent dates. Do not combine total property value with outstanding payments in the same denominator. A clear exposure measure tells you what it includes and what it leaves out, so the apparent balance is not created by incompatible numbers.",
+      "body": "Property value is one lens, but future cash commitments are another. A portfolio with balanced estimated values may still have most of its next year's payments due to one developer or within a short period. That can create pressure without any change in market prices.\n\nThe example chart below assumes AED 1 million of future contractual payments, divided between three fictional counterparties. Counterparty A accounts for AED 600,000, B for AED 250,000 and C for AED 150,000. The 60%, 25% and 15% shares describe those sample payment commitments only. They are not suggested allocations or probabilities of loss.\n\nPrepare equivalent views for your own documents using consistent dates. Do not combine total property value with outstanding payments in the same denominator. A clear exposure measure tells you what it includes and what it leaves out, so the apparent balance is not created by incompatible numbers.",
       "chart": {
-        "title": "Illustrative concentration of future payments",
-        "unit": "% of an invented AED 1 million payment schedule",
+        "title": "Example concentration of future payments",
+        "unit": "% of a sample AED 1 million payment schedule",
         "kind": "Original scenario, not a recommended allocation",
         "values": [
-          { "label": "Counterparty A", "value": 60 },
-          { "label": "Counterparty B", "value": 25 },
-          { "label": "Counterparty C", "value": 15 }
+          {
+            "label": "Counterparty A",
+            "value": 60
+          },
+          {
+            "label": "Counterparty B",
+            "value": 25
+          },
+          {
+            "label": "Counterparty C",
+            "value": 15
+          }
         ],
-        "note": "Invented commitments: AED 600,000 + AED 250,000 + AED 150,000 = AED 1,000,000. Shares are 60%, 25%, 15%. This measures payment concentration, not property values, returns, default likelihood or a model portfolio."
+        "note": "Sample commitments: AED 600,000 + AED 250,000 + AED 150,000 = AED 1,000,000. Shares are 60%, 25%, 15%. This measures payment concentration, not property values, returns, default likelihood or a model portfolio."
       }
     },
     {
@@ -34,14 +43,22 @@
       "body": "Consider how the portfolio would respond to a change affecting several holdings at once. A concentrated tenant group could alter rental demand across multiple units. Several unfinished properties could require additional cash before any starts generating income. Shared financing terms could make payment changes cluster.\n\nThe [business-demand guide](/journal/business-growth-uae-property-demand) helps distinguish different sources of occupier demand. Geography alone is an incomplete answer: properties in separate districts can still serve similar users, while nearby properties may have different operating needs.\n\nAvoid inventing a numerical correlation matrix without suitable data. A qualitative map of shared dependencies is more honest and often more useful for an individual owner. Mark what is known, what needs investigation and which exposure is deliberate. The aim is not to eliminate every connection, but to understand the consequences of the connections you retain.",
       "table": {
         "caption": "A portfolio concentration review",
-        "columns": ["Exposure", "What to record", "Question to ask"],
+        "columns": [
+          "Exposure",
+          "What to record",
+          "Question to ask"
+        ],
         "rows": [
           [
             "Counterparty",
             "Developer and relevant legal entity",
             "How much depends on the same delivery process?"
           ],
-          ["Timing", "Payment and completion dates", "Could several cash demands coincide?"],
+          [
+            "Timing",
+            "Payment and completion dates",
+            "Could several cash demands coincide?"
+          ],
           [
             "Occupier",
             "Likely tenant activities and budgets",

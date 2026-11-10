@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { useEffect, useId, useRef, useState } from 'react';
 import { ArrowUpRight, Expand, X } from 'lucide-react';
 import type { ProjectFloorPlanData } from '@/lib/project-enhancement-types';
+import { projectMediaNote, projectPlanArea, projectPlanLabel } from '@/lib/project-media-copy';
 import './project-floor-plans.css';
 
 export function ProjectFloorPlans({
@@ -22,6 +23,9 @@ export function ProjectFloorPlans({
   const plan = data.plans[selected];
   const source = plan.source || data.source;
   const documentHref = plan.imageSource ? plan.src : source.pdf;
+  const planLabel = projectPlanLabel(plan.label);
+  const area = projectPlanArea(plan.area);
+  const note = projectMediaNote(data.note);
   useEffect(() => {
     const dialog = dialogRef.current;
     if (!dialog || !open) return;
@@ -58,12 +62,11 @@ export function ProjectFloorPlans({
       <p className="pd-eyebrow">{data.eyebrow ?? eyebrow}</p>
       <h2 id={`${id}-heading`}>Floor plans.</h2>
       <p className="pd-description">
-        {data.introduction ||
-          'Compare the published layouts, including ground, first and second floors. Open a sheet to inspect the room dimensions.'}
+        Explore the layouts and room dimensions. Open a floor plan for a closer look.
       </p>
       <div className="fp-toolbar">
         <div className="fp-select">
-          <label htmlFor={`${id}-layout`}>{data.selectorLabel || 'Choose a villa layout'}</label>
+          <label htmlFor={`${id}-layout`}>{data.selectorLabel || 'Choose a layout'}</label>
           <select
             id={`${id}-layout`}
             value={selected}
@@ -71,7 +74,7 @@ export function ProjectFloorPlans({
           >
             {data.plans.map((item, index) => (
               <option key={item.label} value={index}>
-                {item.label}
+                {projectPlanLabel(item.label)}
               </option>
             ))}
           </select>
@@ -81,15 +84,17 @@ export function ProjectFloorPlans({
           <ArrowUpRight size={16} aria-hidden="true" />
         </a>
       </div>
-      <p className="fp-area" aria-live="polite">
-        {plan.area}
-      </p>
+      {area && (
+        <p className="fp-area" aria-live="polite">
+          {area}
+        </p>
+      )}
       <button
         ref={triggerRef}
         className="fp-preview"
         data-plan-background={plan.imageSource?.background}
         type="button"
-        aria-label={`Enlarge ${plan.label} floor plan`}
+        aria-label={`View full size — ${planLabel} floor plan`}
         onClick={() => {
           setActualSize(false);
           setOpen(true);
@@ -100,23 +105,20 @@ export function ProjectFloorPlans({
           width={plan.width}
           height={plan.height}
           unoptimized
-          alt={`Published floor plan for ${plan.label}`}
+          alt={`Floor plan for ${planLabel}`}
         />
         <span>
           <Expand size={16} aria-hidden="true" /> View full size
         </span>
       </button>
-      <p className="fp-note">
-        {data.note ||
-          'Plans and dimensions are approximate and subject to developer revisions. Drawings are not to scale; illustrated pools, lifts and furnishings do not confirm what is included in a particular sale.'}
-      </p>
+      {note && <p className="fp-note">{note}</p>}
       <a
         className="fp-source"
         href={plan.imageSource?.url ?? `${source.url}#page=${plan.sourcePage}`}
         target="_blank"
         rel="noopener noreferrer"
       >
-        {plan.imageSource?.label ?? `${source.label} · page ${plan.sourcePage}`}{' '}
+        {plan.imageSource ? 'Plan source' : `Plan source · page ${plan.sourcePage}`}{' '}
         <ArrowUpRight size={14} aria-hidden="true" />
       </a>
       <dialog
@@ -129,7 +131,7 @@ export function ProjectFloorPlans({
         onClose={() => setOpen(false)}
       >
         <div className="fp-dialog-heading">
-          <h2 id={`${id}-dialog-title`}>{plan.label}</h2>
+          <h2 id={`${id}-dialog-title`}>{planLabel}</h2>
           <button
             type="button"
             aria-label="Close floor plan"
@@ -156,7 +158,8 @@ export function ProjectFloorPlans({
             target="_blank"
             rel="noopener noreferrer"
           >
-            {plan.imageSource ? 'Open image' : 'Open PDF'} <ArrowUpRight size={14} aria-hidden="true" />
+            {plan.imageSource ? 'Open image' : 'Open PDF'}{' '}
+            <ArrowUpRight size={14} aria-hidden="true" />
           </a>
         </div>
         <p id={`${id}-instructions`}>
@@ -176,7 +179,7 @@ export function ProjectFloorPlans({
               width={plan.width}
               height={plan.height}
               unoptimized
-              alt={`${plan.label}, complete floor plan sheet`}
+              alt={`${planLabel}, floor plan sheet`}
             />
           )}
         </div>

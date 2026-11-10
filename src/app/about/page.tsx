@@ -6,6 +6,7 @@ import { DeveloperMark } from '@/components/developer-mark';
 import { EnquiryTrigger } from '@/components/enquiry-trigger';
 import { businessContact } from '@/lib/contact';
 import { developers } from '@/lib/developers';
+import { companyLeadership as leadership } from '@/lib/company-team';
 import siteImagery from '@/lib/site-imagery.json';
 import { AboutMotion } from './about-motion';
 import { AboutBrandCard } from './about-brand-card';
@@ -26,13 +27,6 @@ export const metadata: Metadata = {
   },
 };
 
-// Names and roles from the owner's legacy About page. See docs/about-content.md.
-const leadership = [
-  { name: 'Sameer Khan', role: 'Managing Director' },
-  { name: 'Afshan Fatima', role: 'Business Head' },
-  { name: 'Umar Baig', role: 'Sales Manager' },
-  { name: 'Yasmina Khalikova', role: 'Sales Manager' },
-];
 const principles = [
   {
     title: 'Your priorities first.',
@@ -66,7 +60,7 @@ const questions = [
   {
     question: 'Are the projects on this website available now?',
     answer:
-      'The current collection includes clearly labelled design previews. Contact our team for confirmed project details, pricing, payment plans and availability before making a decision.',
+      'Contact our team with the project and property type you are interested in. We can discuss current availability, pricing, payment plans and the next steps for your chosen home.',
   },
 ];
 const network = developers.slice(0, 6);
@@ -219,7 +213,6 @@ export default function AboutPage() {
             </figure>
           ))}
         </div>
-        <p className={styles.imageNote}>Illustrative lifestyle imagery, for inspiration.</p>
       </section>
       <section className={styles.purpose} aria-labelledby="purpose-title">
         <p className={styles.eyebrow}>02 / What guides us</p>

@@ -6,7 +6,7 @@ import '@/components/catalogue.css';
 export const metadata: Metadata = {
   title: 'UAE property developers',
   description:
-    'Explore the UAE developers Aliyas is registered with, including Emaar, DAMAC, Danube, Binghatti, Sobha and more. Find developer profiles and project previews.',
+    'Explore the UAE developers Aliyas is registered with, including Emaar, DAMAC, Danube, Binghatti, Sobha and more. Find developer profiles and projects.',
   alternates: { canonical: '/developers' },
 };
 export default function DevelopersPage() {
@@ -35,11 +35,6 @@ export default function DevelopersPage() {
           projectCount: getDeveloperProjects(developer.slug).length,
         }))}
       />
-      <p className="catalogue-disclaimer">
-        Project collections inside each developer profile are design previews. Project details,
-        prices and availability will be added when confirmed. Contact Aliyas for current
-        information.
-      </p>
     </div>
   );
 }

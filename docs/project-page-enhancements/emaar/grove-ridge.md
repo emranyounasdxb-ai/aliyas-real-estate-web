@@ -16,3 +16,7 @@ Sources:
 - https://www.emaar.com/cms-media/uploads/Grove-Ridge_floorplan.pdf
 
 Selection: docs/project-page-enhancement-selections/emaar/grove-ridge.json. Source/owner/hash validation: 575 protected identities,39 reviewed manifests,362 asset hashes. Optimized build p8l8ekqPrKmWkxbqj1BrE / PID39560. Own browser case passed36.7s (artifacts/project-page-enhancement/batch-11-tests.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.
+
+## Card cover selection — 8 November 2026
+
+The listing and developer-hero card now use **Pool courtyard** (`pool`), from this project’s [existing source](https://www.emaar.com/cms-media/uploads/429512_exterior_2_4fb1b3da12_prod.jpg). The pool courtyard distinguishes this card from Vista Ridge’s shared golf-side building view. This dated selection supersedes the original cover pick above; gallery assets, source attribution and image-scope qualifications remain unchanged.

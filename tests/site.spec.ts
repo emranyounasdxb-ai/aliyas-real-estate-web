@@ -4,47 +4,51 @@ import AxeBuilder from '@axe-core/playwright';
 
 test('home search preserves emirate, property type and budget', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('heading', { level: 1 })).toContainText('BEYOND.');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('A new address.');
   await selectValue(page.getByRole('combobox', { name: 'Choose emirate' }), 'Dubai');
+  await page.locator('.hp-advanced summary').click();
   await selectValue(page.getByRole('combobox', { name: 'Choose property type' }), 'Apartment');
   await selectValue(page.getByRole('combobox', { name: 'Choose budget' }), '2000000');
   await page.getByRole('button', { name: 'Explore projects', exact: true }).click();
   await expect(page).toHaveURL(/\/projects\?emirate=Dubai&type=Apartment&budget=2000000/);
   await expect(page.getByRole('combobox', { name: 'Location' })).toContainText('Dubai');
-  await expect(page.locator('.project-card')).toHaveCount(2);
-  await expect(page.locator('.catalogue-count')).toContainText('2 projects to explore');
+  await expect(page.locator('.project-card')).toHaveCount(15);
+  await expect(page.locator('.catalogue-count strong')).not.toHaveText('0');
+  await expect(page.getByRole('combobox', { name: 'Property type', exact: true })).toContainText(
+    'Apartment',
+  );
 });
 
 test('project filters show an empty state and reset to the whole collection', async ({ page }) => {
   await page.goto('/projects');
-  await expect(page.locator('.project-card')).toHaveCount(6);
+  await expect(page.locator('.project-card')).toHaveCount(15);
   await selectValue(page.getByRole('combobox', { name: 'Location' }), 'Abu Dhabi');
-  await expect(page.locator('.project-card')).toHaveCount(1);
-  await expect(page.getByRole('heading', { name: 'Gardenia Bay', exact: true })).toBeVisible();
+  await expect(page.locator('.project-card')).toHaveCount(15);
+  await expect(page.locator('.catalogue-count')).toContainText('79');
   await page.getByRole('textbox', { name: 'Search projects' }).fill('no matching project xyz');
   await expect(
     page.getByRole('heading', { name: 'A little change opens new possibilities.' }),
   ).toBeVisible();
   await expect(page.locator('.project-card')).toHaveCount(0);
   await page.getByRole('button', { name: 'Explore all projects', exact: true }).click();
-  await expect(page.locator('.project-card')).toHaveCount(6);
+  await expect(page.locator('.project-card')).toHaveCount(15);
   await expect(page.getByRole('textbox', { name: 'Search projects' })).toHaveValue('');
   await expect(page.getByRole('combobox', { name: 'Location' })).toContainText('All emirates');
 });
 
 test('shortlisted projects persist across reloads and can be removed', async ({ page }) => {
-  await page.goto('/projects');
-  await page.getByRole('button', { name: 'Save Creek Waters', exact: true }).click();
+  await page.goto('/projects?q=Sobha%20Solis');
+  await page.getByRole('button', { name: 'Save Sobha Solis', exact: true }).click();
   await expect(
-    page.getByRole('button', { name: 'Unsave Creek Waters', exact: true }),
+    page.getByRole('button', { name: 'Unsave Sobha Solis', exact: true }),
   ).toHaveAttribute('aria-pressed', 'true');
   await page.reload();
   await expect(
-    page.getByRole('button', { name: 'Unsave Creek Waters', exact: true }),
+    page.getByRole('button', { name: 'Unsave Sobha Solis', exact: true }),
   ).toHaveAttribute('aria-pressed', 'true');
   await page.getByRole('button', { name: 'Saved (1)', exact: true }).click();
   await expect(page.locator('.project-card')).toHaveCount(1);
-  await page.getByRole('button', { name: 'Unsave Creek Waters', exact: true }).click();
+  await page.getByRole('button', { name: 'Unsave Sobha Solis', exact: true }).click();
   await expect(page.locator('.project-card')).toHaveCount(0);
   await expect(page.getByText('Save a project with the heart icon to find it here.')).toBeVisible();
 });
@@ -52,16 +56,16 @@ test('shortlisted projects persist across reloads and can be removed', async ({ 
 test('project detail leads to a prefilled enquiry and validates required fields', async ({
   page,
 }) => {
-  await page.goto('/projects');
-  await page.getByRole('link', { name: 'Explore Creek Waters', exact: true }).click();
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Creek Waters');
+  await page.goto('/projects?q=Sobha%20Solis');
+  await page.getByRole('link', { name: 'Explore Sobha Solis', exact: true }).click();
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Sobha Solis');
   await page
     .getByRole('button', { name: 'Enquire about this project', exact: true })
     .first()
     .click();
   const enquiry = page.getByRole('dialog');
   await expect(enquiry).toBeVisible();
-  await expect(enquiry.locator('.enquiry-project')).toContainText('Creek Waters');
+  await expect(enquiry.locator('.enquiry-project')).toContainText('Sobha Solis');
   await expect(enquiry.getByRole('combobox', { name: 'I am looking for' })).toContainText(
     'A specific project',
   );
@@ -114,9 +118,7 @@ test('enquiry keeps details after failed responses and shows only a confirmed re
   await page.getByRole('button', { name: 'Send your enquiry' }).click();
   await expect(page.locator('.enquiry-success')).toContainText('ALIYAS-E2E-MOCK-RECEIPT');
   await expect(page.locator('main .enquiry-form')).toHaveCount(0);
-  await expect(
-    page.getByText(/This preview stores enquiries locally. No email has been sent./),
-  ).toBeVisible();
+  await expect(page.getByText(/No email has been sent\./)).toBeVisible();
   expect(submitted).toHaveLength(3);
   expect(submitted[2]).toMatchObject({
     name: 'Browser Test Person',
@@ -126,23 +128,29 @@ test('enquiry keeps details after failed responses and shows only a confirmed re
   });
 });
 
-test('journal index opens a complete article', async ({ page }) => {
+test('journal index opens the newest complete article with contents and research tables', async ({
+  page,
+}) => {
   await page.goto('/journal');
-  await page.locator('a[href="/journal/a-home-that-feels-like-you"]').first().click();
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('A home that feels like you.');
-  await expect(
-    page.getByRole('heading', { name: 'Start with your everyday rituals' }),
-  ).toBeVisible();
-  await expect(page.getByRole('heading', { name: 'Leave room for life to change' })).toBeVisible();
+  const featured = page.locator('section[aria-labelledby="featured-story-title"]');
+  const title = (await featured.locator('#featured-story-title').innerText()).trim();
+  await featured.locator('a').first().click();
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText(title);
+  await expect(page.getByRole('navigation', { name: 'Article contents' })).toBeVisible();
+  expect(await page.locator('main table').count()).toBeGreaterThan(0);
+  expect(await page.locator('main a[href^="/projects"]').count()).toBeGreaterThan(0);
 });
 
 test('developer index opens its profile and associated project', async ({ page }) => {
   await page.goto('/developers');
   await page.locator('.catalogue-developer-card[href="/developers/emaar"]').click();
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Discover projectsby Emaar.');
-  await expect(page.getByRole('heading', { name: 'Emaar Project 01', exact: true })).toBeVisible();
-  await page.getByRole('link', { name: 'Explore Emaar Project 01', exact: true }).click();
-  await expect(page).toHaveURL(/\/developers\/emaar\/projects\/emaar-project-01$/);
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('Emaar Properties');
+  await expect(page.getByRole('heading', { name: 'Valia', exact: true })).toBeVisible();
+  await page
+    .locator('.developer-listings')
+    .getByRole('link', { name: 'Explore Valia', exact: true })
+    .click();
+  await expect(page).toHaveURL(/\/developers\/emaar\/projects\/valia$/);
 });
 
 test('mobile navigation supports Escape, focus return and navigation', async ({ page }) => {
@@ -159,7 +167,7 @@ test('mobile navigation supports Escape, focus return and navigation', async ({ 
     .getByRole('navigation', { name: 'Mobile navigation' })
     .getByRole('button', { name: 'Developers', exact: true })
     .click();
-  await page.getByRole('link', { name: 'View all developers', exact: true }).click();
+  await page.getByRole('link', { name: 'View directory', exact: true }).click();
   await expect(page).toHaveURL(/\/developers$/);
   await expect(page.getByRole('navigation', { name: 'Mobile navigation' })).toHaveCount(0);
 });
@@ -169,7 +177,7 @@ test('mobile core pages have no horizontal overflow', async ({ page }) => {
   for (const route of [
     '/',
     '/projects',
-    '/projects/creek-waters',
+    '/developers/sobha/projects/sobha-solis',
     '/developers',
     '/journal',
     '/contact',
@@ -187,7 +195,7 @@ test('mobile core pages have no horizontal overflow', async ({ page }) => {
   }
 });
 
-for (const route of ['/', '/projects', '/projects/creek-waters', '/contact']) {
+for (const route of ['/', '/projects', '/developers/sobha/projects/sobha-solis', '/contact']) {
   test(`${route} has no automated WCAG A/AA accessibility violations`, async ({ page }) => {
     await page.goto(route);
     await page.evaluate(() => document.fonts.ready);
@@ -217,7 +225,7 @@ test('core pages load images without browser runtime errors', async ({ page }) =
   for (const route of [
     '/',
     '/projects',
-    '/projects/creek-waters',
+    '/developers/sobha/projects/sobha-solis',
     '/developers/emaar',
     '/journal/a-home-that-feels-like-you',
     '/contact',

@@ -177,7 +177,7 @@ export function MotionProvider() {
 
       // Native visibility observation avoids measuring every off-screen reveal
       // through ScrollTrigger at startup. GSAP keeps the approved reveal motion.
-      const revealTweens = new Set<gsap.core.Tween>();
+      const revealTweens = new Map<Element, gsap.core.Tween>();
       const revealObserver = new IntersectionObserver(
         (entries) => {
           if (!active) return;
@@ -187,19 +187,50 @@ export function MotionProvider() {
             const tween = gsap.to(entry.target, {
               y: 0,
               opacity: 1,
-              duration: 0.55,
+              duration: entry.target.closest('.hp-home') ? 0.7 : 0.55,
+              delay: Math.min(
+                0.32,
+                Math.max(0, Number((entry.target as HTMLElement).dataset.revealDelay) || 0),
+              ),
               ease: 'power3.out',
               clearProps: 'transform,opacity',
-              onComplete: () => revealTweens.delete(tween),
+              onComplete: () => {
+                revealTweens.delete(entry.target);
+              },
             });
-            revealTweens.add(tween);
+            revealTweens.set(entry.target, tween);
           }
         },
         { rootMargin: `0px 0px -${Math.round(innerHeight * 0.08)}px 0px` },
       );
       const revealNodes = gsap.utils.toArray<HTMLElement>('[data-reveal]');
-      gsap.set(revealNodes, { y: 20, opacity: 0 });
-      revealNodes.forEach((element) => revealObserver.observe(element));
+      // Hydration can finish after a visitor has already scrolled or clicked.
+      // Never hide or move content that is already on screen at initialization.
+      const pendingReveals = revealNodes.filter((element) => {
+        const bounds = element.getBoundingClientRect();
+        return bounds.top >= innerHeight || bounds.bottom <= 0;
+      });
+      gsap.set(pendingReveals, {
+        y: (_index, target: HTMLElement) => (target.closest('.hp-home') ? 32 : 20),
+        opacity: 0,
+      });
+      pendingReveals.forEach((element) => revealObserver.observe(element));
+      // Keyboard navigation must never land on an invisible link or control.
+      const revealFocusedContent = (event: FocusEvent) => {
+        // Pointer focus occurs between mousedown and mouseup. Moving the link at
+        // that point can put mouseup outside it and cancel the native click.
+        if (!(event.target instanceof HTMLElement) || !event.target.matches(':focus-visible'))
+          return;
+        let element = event.target.closest<HTMLElement>('[data-reveal]');
+        while (element) {
+          revealObserver.unobserve(element);
+          revealTweens.get(element)?.kill();
+          revealTweens.delete(element);
+          gsap.set(element, { clearProps: 'transform,opacity' });
+          element = element.parentElement?.closest<HTMLElement>('[data-reveal]') ?? null;
+        }
+      };
+      document.addEventListener('focusin', revealFocusedContent);
       gsap.utils.toArray<HTMLElement>('[data-image-reveal]').forEach((element) => {
         const image = element.querySelector('img');
         if (image)
@@ -325,6 +356,7 @@ export function MotionProvider() {
       return () => {
         active = false;
         revealObserver.disconnect();
+        document.removeEventListener('focusin', revealFocusedContent);
         revealTweens.forEach((tween) => tween.kill());
         revealTweens.clear();
         cancelAnimationFrame(refreshFrame);

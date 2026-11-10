@@ -72,31 +72,29 @@
   transform: translateX(3px);
 }
 .developer-hero-gallery {
-  --photo-height: 150px;
-  --gallery-photo-scale: 2.32;
-  --gallery-extra: 86px;
-  --gallery-overlap: -0.28;
+  --photo-height: 16.5vw;
+  --gallery-photo-scale: 1.25;
+  --gallery-extra: 112px;
   position: relative;
   isolation: isolate;
   container-type: inline-size;
   height: calc(var(--photo-height) * var(--gallery-photo-scale) + var(--gallery-extra));
-  margin-top: calc(var(--photo-height) * var(--gallery-overlap));
+  margin-top: 24px;
   overflow: hidden;
   touch-action: pan-y;
 }
-.developer-hero-card,
-.developer-hero-edge {
+.developer-hero-card {
   position: absolute;
   left: 50%;
   top: 0;
   height: 100%;
-  width: var(--card-width, 9%);
-  transform: translateX(calc(-50% + var(--card-x, 0px)));
+  width: var(--card-width, 22%);
+  transform: translate(calc(-50% + var(--card-x, 0px)), var(--card-y, 0px));
   text-align: center;
 }
 .developer-hero-photo {
   position: absolute;
-  top: calc(50% - 32px);
+  top: calc(var(--photo-height) * 0.75 + 16px);
   width: 100%;
   height: var(--card-height, var(--photo-height));
   transform: translateY(-50%);
@@ -106,6 +104,8 @@
 }
 .developer-hero-photo img {
   object-fit: cover;
+  transform: var(--card-photo-transform, none);
+  transform-origin: 0 0;
 }
 .developer-hero-card-link {
   display: block;
@@ -148,13 +148,47 @@
 }
 .developer-hero-card-caption {
   position: absolute;
-  width: 100%;
-  top: calc(50% - 32px + var(--photo-height) * var(--gallery-photo-scale) / 2 + 15px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  /* Use a little of the inter-card gap so narrow titles can keep whole words. */
+  left: -4px;
+  width: calc(100% + 8px);
+  top: calc(var(--photo-height) * 0.75 + 16px);
+  transform: translateY(
+      calc(var(--card-caption-offset, var(--card-height, var(--photo-height)) / 2) + 12px)
+    )
+    skewY(var(--card-caption-angle, 0rad));
+  transform-origin: center top;
   color: var(--ink);
+  font: 400 16px/24px var(--font-ui);
 }
 .developer-hero-card-caption strong {
   display: block;
-  font: 400 clamp(10px, 0.95vw, 13px)/1.4 var(--font-ui);
+  min-width: 0;
+  font: inherit;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+.developer-hero-card-badge {
+  flex: 0 0 auto;
+  width: 1em;
+  height: 1em;
+  color: var(--accent);
+}
+@media (max-width: 1100px) {
+  .developer-hero-card-caption {
+    gap: 4px;
+    font-size: 12px;
+    line-height: 16px;
+  }
+}
+@media (min-width: 1600px) {
+  .developer-hero-card-caption {
+    font-size: 18px;
+    line-height: 28px;
+  }
 }
 .developer-hero-controls {
   position: relative;
@@ -227,7 +261,7 @@
   overflow: hidden;
   clip-path: inset(50%);
 }
-@media (max-width: 767px) {
+@media (max-width: 767px), (max-width: 1000px) and (max-height: 500px) {
   .site-frame .developer-profile-page {
     padding-top: calc(var(--header-height) + 16px);
   }
@@ -235,7 +269,7 @@
     width: calc(100vw - 32px);
     margin-left: calc((100% - 100vw + 32px) / 2);
     margin-right: 0;
-    padding-bottom: 24px;
+    padding-bottom: 16px;
   }
   .developer-hero-back {
     left: 8px;
@@ -246,7 +280,7 @@
     gap: 4px;
   }
   .developer-hero-intro {
-    margin-top: 65px;
+    margin-top: 48px;
   }
   .site-frame .developer-hero h1 {
     font-size: 30px;
@@ -256,7 +290,8 @@
     margin-inline: auto;
   }
   .developer-hero-gallery {
-    --gallery-overlap: 0;
+    --gallery-extra: 96px;
+    margin-top: 16px;
   }
   .developer-hero-controls {
     flex-wrap: wrap;
@@ -267,19 +302,11 @@
     flex-basis: 100%;
     justify-content: center;
   }
+  .developer-hero-note > span:first-child {
+    white-space: nowrap;
+  }
   .developer-hero-instruction {
     order: 1;
-  }
-  .developer-hero.is-scroll-pinned .developer-hero-controls {
-    flex-wrap: nowrap;
-    gap: 10px;
-  }
-  .developer-hero.is-scroll-pinned .developer-hero-note {
-    flex-basis: auto;
-    order: 0;
-  }
-  .developer-hero.is-scroll-pinned .developer-hero-instruction {
-    order: 0;
   }
 }
 @media (max-height: 700px) {
@@ -295,6 +322,31 @@
   }
   .developer-hero.is-scroll-pinned .developer-hero-projects {
     margin-top: 7px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1000px) and (max-height: 500px) {
+  .developer-hero-intro {
+    margin-top: 32px;
+  }
+  .developer-hero-eyebrow,
+  .developer-hero-tagline {
+    display: none;
+  }
+  .site-frame .developer-hero h1 {
+    font-size: 24px;
+    margin-bottom: 4px;
+  }
+  .developer-hero-projects {
+    margin-top: 2px;
+    min-height: 26px;
+  }
+  .developer-hero-projects > span {
+    width: 24px;
+    height: 24px;
+  }
+  .developer-hero-gallery {
+    --gallery-extra: 80px;
+    margin-top: 8px;
   }
 }
 @media (max-height: 540px) {
@@ -321,12 +373,6 @@
     height: 24px;
   }
   .developer-hero.is-scroll-pinned .developer-hero-gallery {
-    --gallery-extra: 62px;
-  }
-}
-@media (min-width: 768px) and (max-width: 1100px) {
-  .developer-hero.has-inspiration .developer-hero-gallery {
-    /* Narrow seven-card layouts need room for full verified project names. */
-    --gallery-extra: 112px;
+    --gallery-extra: 80px;
   }
 }

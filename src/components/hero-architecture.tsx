@@ -77,7 +77,7 @@ export function HeroArchitecture() {
               src={view.src}
               alt={
                 index === 0
-                  ? 'Illustrative white sculptural residential tower with curved terraces, silver glazing and palms'
+                  ? 'White sculptural residential tower with curved terraces, silver glazing and palms'
                   : ''
               }
               fill

@@ -260,7 +260,20 @@
   line-height: 1.7;
 }
 .site-frame .signature-city-grid {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 24px 12px;
+}
+.site-frame .signature-city-card {
+  grid-column: span 4;
+}
+.site-frame .signature-city-card:nth-child(n + 4) {
+  grid-column: span 3;
+}
+@media (min-width: 1100px) {
+  .site-frame .signature-city-card:nth-child(n + 4) .signature-city-caption {
+    gap: 12px;
+    padding-inline: 8px;
+  }
 }
 .site-frame .signature-panel-actions .signature-panel-close {
   display: grid;
@@ -663,10 +676,30 @@
 }
 @media (max-width: 1099px) {
   .site-frame .signature-city-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 16px 12px;
+  }
+  .site-frame .signature-city-card,
+  .site-frame .signature-city-card:nth-child(n + 4) {
+    grid-column: span 3;
+  }
+  .site-frame .signature-city-card:nth-child(n + 5) {
+    grid-column: span 2;
   }
   .site-frame .signature-panel-actions .signature-panel-close {
     display: none;
+  }
+}
+@media (max-width: 650px) {
+  .site-frame .signature-city-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .site-frame .signature-city-card,
+  .site-frame .signature-city-card:nth-child(n + 4) {
+    grid-column: auto;
+  }
+  .site-frame .signature-city-card:last-child {
+    grid-column: 1 / -1;
   }
 }
 @media (max-width: 800px) {

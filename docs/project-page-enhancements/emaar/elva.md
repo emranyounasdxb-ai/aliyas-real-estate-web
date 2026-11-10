@@ -16,3 +16,7 @@ Sources:
 - https://www.emaar.com/cms-media/uploads/ELVA_TV_FLOORPLAN.pdf
 
 Selection: docs/project-page-enhancement-selections/emaar/elva.json. Source/owner/hash validation: 575 protected identities,57 reviewed manifests,512 asset hashes. Optimized build 6PhvCrsm6QNuxBkwqHXFi / PID51672. Own browser case passed27.0s (artifacts/project-page-enhancement/batch-14-tests.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.
+
+## Card cover selection — 8 November 2026
+
+The listing and developer-hero card now use **Townhouses at dusk** (`dusk`), from this project’s [existing source](https://www.emaar.com/cms-media/uploads/396791_exterior_0_7d55d00540_prod.jpg). The dusk facade distinguishes this card from Elea’s shared daytime street view. This dated selection supersedes the original cover pick above; gallery assets, source attribution and image-scope qualifications remain unchanged.

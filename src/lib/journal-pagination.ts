@@ -5,7 +5,7 @@ export type JournalQuery = {
   topic?: string | string[];
   q?: string | string[];
 };
-type SearchableStory = { title: string; category: string; excerpt: string };
+type SearchableStory = { title: string; category: string; excerpt: string; date?: string };
 const first = (value: string | string[] | undefined) =>
   (Array.isArray(value) ? value[0] : value) ?? '';
 export const journalTopicId = (category: string) =>
@@ -26,13 +26,15 @@ export function selectJournalArticles<T extends SearchableStory>(
   }));
   const topic = topics.find((item) => item.id === first(query.topic))?.id ?? '';
   const terms = q.toLocaleLowerCase().split(/\s+/).filter(Boolean);
-  const filtered = stories.filter((story) => {
-    const text = `${story.title} ${story.category} ${story.excerpt}`.toLocaleLowerCase();
-    return (
-      (!topic || journalTopicId(story.category) === topic) &&
-      terms.every((term) => text.includes(term))
-    );
-  });
+  const filtered = stories
+    .filter((story) => {
+      const text = `${story.title} ${story.category} ${story.excerpt}`.toLocaleLowerCase();
+      return (
+        (!topic || journalTopicId(story.category) === topic) &&
+        terms.every((term) => text.includes(term))
+      );
+    })
+    .sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
   const pageCount = Math.max(1, Math.ceil(filtered.length / JOURNAL_PAGE_SIZE));
   const rawPage = first(query.page);
   const parsed = /^\d+$/.test(rawPage) ? Number(rawPage) : 1;

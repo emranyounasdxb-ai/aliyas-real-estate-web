@@ -56,10 +56,16 @@ const readingPaths = [
     image: siteImagery.studio,
   },
 ];
+const storyDateFormatter = new Intl.DateTimeFormat('en-GB', {
+  day: 'numeric',
+  month: 'short',
+  year: 'numeric',
+  timeZone: 'UTC',
+});
 
 export default async function JournalPage({ searchParams }: Props) {
   const view = selectJournalArticles(articles, await searchParams);
-  const featured = articles[0];
+  const featured = view.items[0];
   const isCover = view.page === 1 && !view.q && !view.topic;
   const range = view.total
     ? `${view.start + 1}–${view.start + view.items.length} of ${view.total} ${view.total === 1 ? 'story' : 'stories'}`
@@ -110,14 +116,11 @@ export default async function JournalPage({ searchParams }: Props) {
       </header>
 
       {isCover && featured && (
-        <section
-          className={`${styles.featured} ${featured.status === 'planned' ? styles.plannedFeatured : ''}`}
-          aria-labelledby="featured-story-title"
-        >
+        <section className={styles.featured} aria-labelledby="featured-story-title">
           <Link
             href={`/journal/${featured.slug}`}
             className={styles.featuredImage}
-            aria-label={`${featured.status === 'planned' ? 'Preview' : 'Read'} ${featured.title}`}
+            aria-label={`${featured.image ? 'Inside the story — ' : ''}Read ${featured.title}`}
           >
             <div
               className={styles.coverMotion}
@@ -129,33 +132,25 @@ export default async function JournalPage({ searchParams }: Props) {
                 priority
               />
             </div>
-            {featured.image && (
-              <>
-                <span className={styles.imageTag}>Inside the story</span>
-                <span className={styles.photoCredit}>Illustrative image</span>
-              </>
-            )}
+            {featured.image && <span className={styles.imageTag}>Inside the story</span>}
           </Link>
           <div className={styles.featuredCopy}>
             <div className={styles.featuredTop}>
-              <span className={styles.eyebrow}>
-                {featured.status === 'planned' ? 'Coming to the journal' : 'Editor’s pick'}
-              </span>
+              <span className={styles.eyebrow}>Editor’s pick</span>
               <BookOpen size={24} />
             </div>
             <div data-journal-enter>
               <p className={styles.meta}>
                 {featured.category}
                 <span />
-                {featured.status === 'planned' ? 'Coming soon' : featured.readTime}
+                {featured.readTime}
               </p>
               <h2 id="featured-story-title">
                 <Link href={`/journal/${featured.slug}`}>{featured.title}</Link>
               </h2>
               <p className={styles.featuredExcerpt}>{featured.excerpt}</p>
               <Link className={styles.primaryLink} href={`/journal/${featured.slug}`}>
-                {featured.status === 'planned' ? 'Preview article' : 'Read the story'}{' '}
-                <ArrowUpRight size={20} />
+                Read the story <ArrowUpRight size={20} />
               </Link>
             </div>
             <div className={styles.byline}>
@@ -210,43 +205,51 @@ export default async function JournalPage({ searchParams }: Props) {
             {range}
             {view.q && <> for “{view.q}”</>}
           </p>
-          {view.topic || view.q ? (
+          {(view.topic || view.q) && (
             <Link href={journalHref()}>
               Clear filters <ArrowUpRight size={16} />
             </Link>
-          ) : (
-            <span>Illustrative covers. Thoughtful perspectives.</span>
           )}
         </div>
         {view.items.length ? (
           <div className={styles.storyGrid}>
             {view.items.map((article) => (
               <article className={styles.story} key={article.slug} data-journal-reveal>
-                <Link href={`/journal/${article.slug}`} className={styles.storyLink}>
-                  <div className={styles.storyImage}>
-                    <JournalCover
-                      article={article}
-                      // The 16:9 source fills a 4:3 frame. Include the cropped
-                      // width so the browser selects enough pixels for crisp covers.
-                      sizes="(max-width:399px) calc((100vw - 32px) * 4 / 3), (max-width:639px) calc((100vw - 48px) * 4 / 3), (max-width:767px) calc((100vw - 72px) * 2 / 3), (max-width:1023px) calc((100vw - 88px) * 2 / 3), (max-width:1199px) calc((100vw - 112px) * 4 / 9), (max-width:1535px) calc((100vw - 176px) * 4 / 9), 605px"
-                    />
-                    <span className={styles.storyImageArrow}>
-                      <ArrowUpRight size={22} />
-                    </span>
-                  </div>
+                <Link
+                  href={`/journal/${article.slug}`}
+                  className={`${styles.storyLink} ${!article.image ? styles.storyLinkTextOnly : ''}`}
+                >
+                  {article.image && (
+                    <div className={styles.storyImage}>
+                      <JournalCover
+                        article={article}
+                        // The 16:9 source fills a 4:3 frame. Include the cropped
+                        // width so the browser selects enough pixels for crisp covers.
+                        sizes="(max-width:399px) calc((100vw - 32px) * 4 / 3), (max-width:639px) calc((100vw - 48px) * 4 / 3), (max-width:767px) calc((100vw - 72px) * 2 / 3), (max-width:1023px) calc((100vw - 88px) * 2 / 3), (max-width:1199px) calc((100vw - 112px) * 4 / 9), (max-width:1535px) calc((100vw - 176px) * 4 / 9), 605px"
+                      />
+                      <span className={styles.storyImageArrow}>
+                        <ArrowUpRight size={22} />
+                      </span>
+                    </div>
+                  )}
                   <div className={styles.storyBody}>
                     <p className={styles.meta}>
                       {article.category}
                       <span />
-                      {article.status === 'planned' ? 'Coming soon' : article.readTime}
+                      {article.readTime}
+                      {article.date && article.date !== article.researchedAt && (
+                        <>
+                          <span />
+                          <time dateTime={article.date}>
+                            {storyDateFormatter.format(new Date(article.date))}
+                          </time>
+                        </>
+                      )}
                     </p>
                     <h3>{article.title}</h3>
-                    {article.status !== 'planned' && (
-                      <p className={styles.excerpt}>{article.excerpt}</p>
-                    )}
+                    <p className={styles.excerpt}>{article.excerpt}</p>
                     <span className={styles.readLink}>
-                      {article.status === 'planned' ? 'Preview article' : 'Read the story'}{' '}
-                      <ArrowUpRight size={18} />
+                      Read the story <ArrowUpRight size={18} />
                     </span>
                   </div>
                 </Link>
@@ -344,7 +347,6 @@ export default async function JournalPage({ searchParams }: Props) {
                   sizes="(max-width:767px) calc(100vw - 96px), (max-width:1023px) calc(100vw - 144px), 36vw"
                 />
               </div>
-              <figcaption>Illustrative interiors and neighbourhood scenes.</figcaption>
             </figure>
           </div>
           <div className={styles.readingPaths}>

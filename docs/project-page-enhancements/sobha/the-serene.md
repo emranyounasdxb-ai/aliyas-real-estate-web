@@ -16,3 +16,7 @@ Sources:
 - https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf
 
 Selection: docs/project-page-enhancement-selections/sobha/the-serene.json. Source/owner/hash validation: 575 protected projects, 570 owner manifests and 6,322 asset hashes, canonical text diff empty. Optimized build 73UdH1Ckksio3wXCTI2m- / PID19980. Own browser case passed in 24.4s (artifacts/project-page-enhancement/batch-91-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.
+
+## Card cover selection — 8 November 2026
+
+The listing and developer-hero card now use **Shared retail frontage below the towers** (`retail-arrival`), from this project’s [existing source](https://sobharealty.com/sites/default/files/2025-08/SOBHA%20CENTRAL%20-%20THE%20SERENE%20BROCHURE_0.pdf#page=18). The retail frontage and podium replace the tower-group view repeated on The Horizon at a different resolution; shared Sobha Central community scope still applies. This dated selection supersedes the original cover pick above; gallery assets, source attribution and image-scope qualifications remain unchanged.

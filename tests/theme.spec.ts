@@ -58,7 +58,7 @@ test('theme toggle works when local storage is blocked', async ({ page }) => {
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'light');
 });
 
-for (const route of ['/', '/projects', '/projects/creek-waters', '/contact']) {
+for (const route of ['/', '/projects', '/developers/sobha/projects/sobha-solis', '/contact']) {
   test(`dark mode contrast and accessibility: ${route}`, async ({ page }) => {
     await page.addInitScript(() => localStorage.setItem('aliyas-theme', 'dark'));
     await page.goto(route);
@@ -78,7 +78,7 @@ test('dark header panels and enquiry fields remain accessible', async ({ page })
   await page.goto('/');
   await page
     .locator('.signature-nav-left')
-    .getByRole('button', { name: 'Off-plan projects', exact: true })
+    .getByRole('button', { name: 'Off plan projects', exact: true })
     .click();
   let result = await new AxeBuilder({ page })
     .include('.signature-header')

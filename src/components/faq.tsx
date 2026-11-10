@@ -12,19 +12,19 @@ const faqs = [
   ],
   [
     'Can I compare homes in different emirates?',
-    'Yes. Select Compare on up to three project cards, then open Compare projects to view prices, locations, bedrooms, developers, indicative handovers and sample payment plans side by side. Your selection stays in this browser for your next visit.',
+    'Yes. Select Compare on up to three project cards, then open Compare projects to view locations, developers and available property details side by side. Your selection stays in this browser for your next visit.',
   ],
   [
     'How do I find out more about a project?',
-    'Open a project and select “Enquire about this project”, or request a specific brochure, floor plan or construction update. You can also call or WhatsApp Aliyas directly. In this local preview, form enquiries are saved on the computer hosting the website; email delivery is not configured.',
+    'Open a project and select “Enquire about this project”, or request a brochure, floor plan or construction update. For a direct conversation about your requirements, call or WhatsApp Aliyas.',
   ],
   [
-    'Are the displayed prices and images final?',
-    'This is a preview collection. Prices, handover dates and payment plans are illustrative, and photographs show architectural inspiration. Confirm current availability, official project material and all terms directly before making a decision.',
+    'How can I check availability and pricing?',
+    'Contact Aliyas with the project and property type you are interested in. Ask for current availability, unit pricing, payment terms and the relevant developer documents before making a reservation.',
   ],
   [
     'Which UAE destinations can I explore?',
-    'Browse Dubai, Abu Dhabi, Ras Al Khaimah and Ajman. Use the destination map or location filter to explore each collection. Preview cards do not confirm live availability.',
+    'Browse Dubai, Abu Dhabi, Sharjah, Ras Al Khaimah, Ajman, Fujairah and Umm Al Quwain. Use the location filter to explore projects in each emirate.',
   ],
   [
     'Will my saved homes stay in my shortlist?',

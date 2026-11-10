@@ -1,7 +1,8 @@
 'use client';
-import Image from 'next/image';
 import { useEffect, useId, useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, ArrowUpRight, Expand, X } from 'lucide-react';
+import { projectImageLabel } from '@/lib/project-media-copy';
+import { ResponsiveProjectImage } from './responsive-project-image';
 
 export type GalleryImage = {
   src: string;
@@ -9,6 +10,7 @@ export type GalleryImage = {
   alt?: string;
   position?: string;
   blurDataURL?: string;
+  responsiveWidth?: number;
   photograph?: boolean;
 };
 
@@ -36,15 +38,11 @@ export function ProjectGallery({
   const id = useId();
   const current = images[selected] || images[0];
   const count = (n: number) => String(n).padStart(2, '0');
-  const hasPhotos = images.some((item) => item.photograph);
-  const hasRenders = images.some((item) => !item.photograph);
   const imageMedium = current.photograph ? 'project photograph' : 'project render';
-  const galleryMedium = hasPhotos && hasRenders ? 'project photographs and renders' :
-    hasPhotos ? 'project photography' : 'project renders';
   const alt = reviewedMedia
     ? current.alt || `${projectName} — ${current.label}, ${imageMedium}`
     : illustrative
-      ? `${current.label}: illustrative architecture, not a photograph of ${projectName}`
+      ? `${projectImageLabel(current.label)} architecture`
       : `${projectName} — ${current.label}`;
   const move = (delta: number) =>
     setSelected((value) => (value + delta + images.length) % images.length);
@@ -96,16 +94,15 @@ export function ProjectGallery({
             className="pd-gallery-open"
             onClick={(event) => show(selected, event.currentTarget)}
           >
-            <Image
+            <ResponsiveProjectImage
               src={current.src}
+              responsiveWidth={current.responsiveWidth}
               alt={reviewedMedia ? alt : ''}
               fill
               sizes="(max-width: 700px) 94vw, 62vw"
               loading="eager"
               fetchPriority="high"
               quality={reviewedMedia ? 85 : undefined}
-              placeholder={current.blurDataURL ? 'blur' : 'empty'}
-              blurDataURL={current.blurDataURL}
               style={reviewedMedia ? { objectPosition: current.position } : undefined}
             />
             <span className="pd-gallery-expand">
@@ -128,20 +125,19 @@ export function ProjectGallery({
                       className="pd-gallery-tile"
                       type="button"
                       key={`${item.src}-${index}`}
-                      aria-label={`Open ${item.label} image of ${projectName}`}
+                      aria-label={`Open ${projectImageLabel(item.label)} image of ${projectName}`}
                       onClick={(event) => show(index, event.currentTarget)}
                     >
-                      <Image
+                      <ResponsiveProjectImage
                         src={item.src}
+                        responsiveWidth={item.responsiveWidth}
                         alt=""
                         fill
                         sizes="(max-width: 700px) 90vw, 30vw"
                         quality={reviewedMedia ? 85 : undefined}
-                        placeholder={item.blurDataURL ? 'blur' : 'empty'}
-                        blurDataURL={item.blurDataURL}
                         style={reviewedMedia ? { objectPosition: item.position } : undefined}
                       />
-                      <span>{item.label}</span>
+                      <span>{projectImageLabel(item.label)}</span>
                     </button>
                   );
                 })}
@@ -158,12 +154,13 @@ export function ProjectGallery({
               <button
                 key={`${item.src}-${index}`}
                 type="button"
-                aria-label={`Show ${count(index + 1)} — ${item.label}`}
+                aria-label={`Show ${count(index + 1)} — ${projectImageLabel(item.label)}`}
                 aria-pressed={selected === index}
                 onClick={() => setSelected(index)}
               >
-                <Image
+                <ResponsiveProjectImage
                   src={item.src}
+                  responsiveWidth={item.responsiveWidth}
                   alt=""
                   width={112}
                   height={72}
@@ -175,28 +172,19 @@ export function ProjectGallery({
                   quality={reviewedMedia ? 85 : undefined}
                 />
                 <span>
-                  {count(index + 1)} — {item.label}
+                  {count(index + 1)} — {projectImageLabel(item.label)}
                 </span>
               </button>
             ))}
           </div>
         )}
-        <figcaption>
-          {reviewedMedia && source ? (
-            <>
-              <span>
-                {source.name} {galleryMedium}{hasRenders ? ' · Design and finishes may vary.' : '.'}
-              </span>
-              <a href={source.url} target="_blank" rel="noopener noreferrer">
-                Images: {source.name} <ArrowUpRight size={14} aria-hidden="true" />
-              </a>
-            </>
-          ) : illustrative ? (
-            'Illustrative concept gallery · Official project imagery to follow'
-          ) : (
-            `${projectName} · Project photography`
-          )}
-        </figcaption>
+        {source && (
+          <figcaption>
+            <a href={source.url} target="_blank" rel="noopener noreferrer">
+              Image source <ArrowUpRight size={14} aria-hidden="true" />
+            </a>
+          </figcaption>
+        )}
       </figure>
       <dialog
         ref={dialogRef}
@@ -261,8 +249,9 @@ export function ProjectGallery({
               if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.5) move(dx < 0 ? 1 : -1);
             }}
           >
-            <Image
+            <ResponsiveProjectImage
               src={current.src}
+              responsiveWidth={current.responsiveWidth}
               alt={alt}
               fill
               sizes="94vw"
@@ -281,14 +270,7 @@ export function ProjectGallery({
           </button>
           <p id={`${id}-caption`} aria-live="polite">
             {count(selected + 1)} / {count(images.length)}{' '}
-            <span>
-              {current.label}
-              {reviewedMedia
-                ? ` · ${source?.name || 'Developer'} ${imageMedium}`
-                : illustrative
-                  ? ` · This image does not depict ${projectName}.`
-                  : ''}
-            </span>
+            <span>{projectImageLabel(current.label)}</span>
           </p>
           <button
             type="button"

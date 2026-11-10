@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-02-17",
   "researchedAt": "2026-10-30",
   "excerpt": "Build the budget around cash at purchase, recurring ownership, future commitments and eventual exit. Separate the price, finance, fees and money retained as a reserve.",
   "introduction": "The advertised price is an important number, but it is not the amount a buyer needs to plan around on its own. Acquisition charges, financing, preparing the home and retaining a reserve can create cash requirements beyond the contribution to the purchase price.\n\nA useful ownership budget also looks past completion. It includes the cost of holding the property, possible interruptions and eventual sale or change of use. Keep each item visible and dated so that a transaction that appears affordable at reservation does not depend on expenses being forgotten later.",
@@ -24,18 +24,30 @@
     },
     {
       "heading": "Work through a transparent cash example",
-      "body": "Assume a fictional completed home priced at AED 2 million, with an approved AED 1.6 million mortgage. The owner's price contribution is AED 400,000. For this teaching example only, assume the agreement allocates the full 4% registration amount to the buyer, producing AED 80,000, and allow an invented AED 40,000 for other acquisition items.\n\nAdd an illustrative AED 20,000 preparation budget and retain AED 50,000 as a reserve. Cash to have available is therefore AED 590,000: 400,000 plus 120,000 plus 20,000 plus 50,000. Of that total, the reserve remains cash rather than an acquisition expense.\n\nThese are selected assumptions, not a quotation or recommendation. Actual brokerage, professional, bank, tax and registration-related charges may differ, and the list must be completed for the transaction. The example's purpose is to show why an owner's price contribution is not the full upfront cash requirement.",
+      "body": "Assume a fictional completed home priced at AED 2 million, with an approved AED 1.6 million mortgage. The owner's price contribution is AED 400,000. For this teaching example only, assume the agreement allocates the full 4% registration amount to the buyer, producing AED 80,000, and allow a sample AED 40,000 for other acquisition items.\n\nAdd an example AED 20,000 preparation budget and retain AED 50,000 as a reserve. Cash to have available is therefore AED 590,000: 400,000 plus 120,000 plus 20,000 plus 50,000. Of that total, the reserve remains cash rather than an acquisition expense.\n\nThese are selected assumptions, not a quotation or recommendation. Actual brokerage, professional, bank, tax and registration-related charges may differ, and the list must be completed for the transaction. The example's purpose is to show why an owner's price contribution is not the full upfront cash requirement.",
       "chart": {
-        "title": "Illustrative cash required beyond the mortgage",
+        "title": "Example cash required beyond the mortgage",
         "unit": "AED, selected upfront uses and retained reserve",
         "kind": "Original completed-home budgeting example",
         "values": [
-          { "label": "Owner's contribution to price", "value": 400000 },
-          { "label": "Assumed acquisition charges", "value": 120000 },
-          { "label": "Preparation budget", "value": 20000 },
-          { "label": "Cash retained as reserve", "value": 50000 }
+          {
+            "label": "Owner's contribution to price",
+            "value": 400000
+          },
+          {
+            "label": "Assumed acquisition charges",
+            "value": 120000
+          },
+          {
+            "label": "Preparation budget",
+            "value": 20000
+          },
+          {
+            "label": "Cash retained as reserve",
+            "value": 50000
+          }
         ],
-        "note": "Invented AED 2m completed-home purchase with AED 1.6m approved financing. Acquisition allowance = assumed buyer-paid 4% registration (AED 80,000) + invented other charges (AED 40,000). Total cash availability AED 590,000. The AED 50,000 reserve is not spent. Not a complete fee quote, lending offer or recommended reserve."
+        "note": "Sample AED 2m completed-home purchase with AED 1.6m approved financing. Acquisition allowance = assumed buyer-paid 4% registration (AED 80,000) + sample other charges (AED 40,000). Total cash availability AED 590,000. The AED 50,000 reserve is not spent. Not a complete fee quote, lending offer or recommended reserve."
       }
     },
     {
@@ -43,14 +55,22 @@
       "body": "List recurring charges relevant to the home: building or community charges, maintenance, insurance, utilities for which you are responsible and finance. For a rental property, add management and periods without receipts. Distinguish an annual operating allowance from a reserve for larger future work.\n\nUse property-specific documents and current quotations where available. A charge from another building or an old invoice can be a research lead without being the correct budget for this unit. Record the period covered and whether any exceptional work sits outside the regular amount.\n\nThe [rental-income guide](/journal/uae-rental-property-2026) shows how gross rent differs from operating income and cash after debt service. Owner-occupiers need the same discipline about cash even though they are not receiving rent. Compare the commitment with the household budget rather than treating ownership costs as an isolated property calculation.",
       "table": {
         "caption": "Keep the ownership budget complete and legible",
-        "columns": ["Budget layer", "Examples to investigate", "Evidence"],
+        "columns": [
+          "Budget layer",
+          "Examples to investigate",
+          "Evidence"
+        ],
         "rows": [
           [
             "Acquisition",
             "Price contribution and applicable fees",
             "Agreement, authority schedule and quotations"
           ],
-          ["Preparation", "Inspection, moving and necessary work", "Scope and actual estimates"],
+          [
+            "Preparation",
+            "Inspection, moving and necessary work",
+            "Scope and actual estimates"
+          ],
           [
             "Recurring",
             "Charges, maintenance, insurance and finance",

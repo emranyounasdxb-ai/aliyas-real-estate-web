@@ -32,7 +32,7 @@ test('Avelia location preserves sourced map, travel estimates and usable navigat
   const section = page.locator('#location');
   await expect(section.getByRole('heading', { name: 'Location & connectivity.' })).toBeVisible();
   await expect(section.locator('.pl-destinations li')).toHaveCount(4);
-  await expect(section.locator('.pl-note')).toContainText('not live traffic');
+  await expect(section.locator('.pl-note')).toHaveText('Travel times vary with traffic and route.');
   const link = section.getByRole('link', { name: 'Get directions', exact: true }).first();
   expect(new URL((await link.getAttribute('href'))!).searchParams.get('destination')).toBe(
     '25.005951,55.462341',

@@ -4,9 +4,17 @@ import { Heart } from '@/components/brand-icons';
 import { CompareButton } from './comparison-controls';
 import { useSavedProjects } from './saved-projects-store';
 
-export function HomeProjectActions({ slug, name }: { slug: string; name: string }) {
+export function HomeProjectActions({
+  slug,
+  name,
+  legacySlug,
+}: {
+  slug: string;
+  name: string;
+  legacySlug?: string;
+}) {
   const { saved, toggle } = useSavedProjects();
-  const selected = saved.includes(slug);
+  const selected = saved.includes(slug) || Boolean(legacySlug && saved.includes(legacySlug));
   return (
     <div className="home-project-actions">
       <button
@@ -14,7 +22,7 @@ export function HomeProjectActions({ slug, name }: { slug: string; name: string 
         type="button"
         aria-label={`${selected ? 'Unsave' : 'Save'} ${name}`}
         aria-pressed={selected}
-        onClick={() => toggle(slug)}
+        onClick={() => toggle(legacySlug && saved.includes(legacySlug) ? legacySlug : slug)}
       >
         <Heart size={16} fill={selected ? 'currentColor' : 'none'} aria-hidden="true" />
         {selected ? 'Saved' : 'Save'}

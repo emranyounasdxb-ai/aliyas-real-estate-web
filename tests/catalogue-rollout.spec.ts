@@ -2,6 +2,32 @@ import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { getAllDeveloperProjects } from '../src/lib/developer-projects';
 import { getProjectMedia } from '../src/lib/project-media';
+import { projects } from '../src/lib/content';
+import { originalImagePath } from './image-source';
+
+test('featured project facts and images match their researched catalogue records', () => {
+  expect(projects.map((project) => project.slug)).toEqual([
+    'sobha-solis',
+    'gardenia-bay',
+    'cala-del-mar',
+    'damac-islands',
+  ]);
+  const records = getAllDeveloperProjects();
+  for (const featured of projects) {
+    const record = records.find((project) => project.id === featured.id)!;
+    expect(record).toBeDefined();
+    expect(featured).toMatchObject({
+      name: record.name,
+      price: record.price,
+      bedrooms: record.bedrooms,
+      type: record.type,
+      areaId: record.areaId,
+      image: getProjectMedia(record)!.cardImage,
+      href: `/developers/${record.developerSlug}/projects/${record.slug}`,
+    });
+    expect(featured.image).toMatch(/^\/images\/projects\//);
+  }
+});
 
 test('the off-plan entry point exposes all575 owned records with15-card pages and persistent navigation', async ({
   page,
@@ -37,8 +63,7 @@ test('the off-plan entry point exposes all575 owned records with15-card pages an
   const media = getProjectMedia(project)!;
   const image = cards.first().locator('img');
   await image.evaluate((image) => (image as HTMLImageElement).decode());
-  const imageUrl = new URL((await image.getAttribute('src'))!, page.url());
-  expect(imageUrl.searchParams.get('url')).toBe(media.cardImage);
+  expect(originalImagePath((await image.getAttribute('src'))!, page.url())).toBe(media.cardImage);
   await expect(cards.first().locator('.project-card-image-link')).toHaveAttribute(
     'href',
     '/developers/al-zorah/projects/sealine-residence',
@@ -47,7 +72,7 @@ test('the off-plan entry point exposes all575 owned records with15-card pages an
   await expect(cards).toHaveCount(5);
   await expect(nav.locator('[aria-current="page"]')).toHaveText('39');
   await page.goto('/projects?collection=waterfront');
-  await expect(cards).toHaveCount(3);
+  await expect(cards).toHaveCount(2);
   await expect(cards.filter({ hasText: 'Gardenia Bay' })).toHaveAttribute(
     'data-project-id',
     'aldar-project-21',
@@ -58,7 +83,7 @@ test('the off-plan entry point exposes all575 owned records with15-card pages an
   await expect(page.locator('.catalogue-empty')).not.toContainText('There are no Ajman projects');
 });
 
-test('saved legacy slugs resolve to sourced owned cards and existing preview routes', async ({
+test('saved legacy slugs resolve to sourced owned cards and omit retired sample entries', async ({
   page,
 }) => {
   await page.addInitScript(() =>
@@ -66,14 +91,55 @@ test('saved legacy slugs resolve to sourced owned cards and existing preview rou
   );
   await page.goto('/projects?saved=1');
   const cards = page.locator('.catalogue-project-grid .project-card');
-  await expect(cards).toHaveCount(2);
+  await expect(cards).toHaveCount(1);
   await expect(cards.filter({ hasText: 'Gardenia Bay' })).toHaveAttribute(
     'data-project-id',
     'aldar-project-21',
   );
-  await expect(
-    cards.filter({ hasText: 'Creek Waters' }).locator('.project-card-image-link'),
-  ).toHaveAttribute('href', '/projects/creek-waters');
+  await expect(cards.locator('.project-card-image-link')).toHaveAttribute(
+    'href',
+    '/developers/aldar/projects/gardenia-bay',
+  );
+  await expect(cards.filter({ hasText: 'Creek Waters' })).toHaveCount(0);
+});
+
+test('curated collections contain sourced owned projects', async ({ page }) => {
+  for (const [collection, ids] of [
+    ['waterfront', ['aldar-project-21', 'ellington-project-19']],
+    ['villas', ['emaar-project-07', 'emaar-project-49', 'meraas-project-09']],
+    ['city', ['sobha-project-19']],
+  ] as const) {
+    await page.goto(`/projects?collection=${collection}`);
+    const cards = page.locator('.catalogue-project-grid .project-card');
+    await expect(cards).toHaveCount(ids.length);
+    expect(
+      await cards.evaluateAll((elements) =>
+        elements.map((element) => element.getAttribute('data-project-id')).sort(),
+      ),
+    ).toEqual([...ids].sort());
+    await expect(cards.locator('.project-card-image-link').first()).toHaveAttribute(
+      'href',
+      /^\/developers\/[^/]+\/projects\/[^/]+$/,
+    );
+  }
+});
+
+test('previously shared project URLs redirect to canonical pages or the catalogue', async ({
+  page,
+}) => {
+  test.setTimeout(90_000);
+  for (const [slug, target] of [
+    ['sobha-solis', '/developers/sobha/projects/sobha-solis'],
+    ['gardenia-bay', '/developers/aldar/projects/gardenia-bay'],
+    ['cala-del-mar', '/developers/ellington/projects/cala-del-mar'],
+    ['damac-islands', '/developers/damac/projects/damac-islands'],
+    ['creek-waters', '/projects'],
+    ['the-acres', '/projects'],
+  ]) {
+    await page.goto(`/projects/${slug}`);
+    await expect(page).toHaveURL(new RegExp(`${target}$`));
+    await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
+  }
 });
 
 test('catalogue cards and shared pagination fit both themes and all target widths', async ({

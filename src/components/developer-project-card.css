@@ -1,4 +1,44 @@
 /* Keep owned project previews independent of older catalogue type/hover overrides. */
+.catalogue-owned-card .home-project-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.site-frame .project-card.catalogue-owned-card .home-project-save,
+.site-frame .project-card.catalogue-owned-card .comparison-select {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  font: 500 12px/16px var(--font-ui);
+}
+.site-frame .project-card.catalogue-owned-card .home-project-save:hover,
+.site-frame .project-card.catalogue-owned-card .comparison-select:hover,
+.site-frame .project-card.catalogue-owned-card .home-project-save[aria-pressed='true'],
+.site-frame .project-card.catalogue-owned-card .comparison-select[aria-pressed='true'] {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+.site-frame .project-card.catalogue-owned-card .comparison-card-control {
+  min-height: 44px;
+  gap: 8px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+.site-frame .project-card.catalogue-owned-card .comparison-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+}
 .site-frame .catalogue-page .project-card.developer-project-placeholder {
   gap: 0;
   padding: 0;
@@ -144,6 +184,41 @@
   .project-card-image-link:focus-visible {
   outline-offset: -4px;
 }
+/* Share row heights across each desktop catalogue row without clipping names or
+   payment terms. Inline-size containment on the nested body would prevent its
+   text from contributing to the subgrid's intrinsic row heights. */
+@supports (grid-template-rows: subgrid) {
+  @media (min-width: 701px) {
+    .catalogue-project-grid {
+      row-gap: 0;
+    }
+    .site-frame .catalogue-page .catalogue-project-grid > .catalogue-owned-card {
+      display: grid;
+      grid-template-rows: subgrid;
+      grid-row: span 7;
+      row-gap: 0;
+      margin-bottom: 32px;
+    }
+    .site-frame .catalogue-page .catalogue-project-grid .catalogue-owned-card .project-card-body {
+      container-type: normal;
+      display: grid;
+      grid-row: span 6;
+      grid-template-rows: subgrid;
+      row-gap: 0;
+    }
+    .site-frame
+      .catalogue-page
+      .catalogue-project-grid
+      .catalogue-owned-card
+      .project-title-row
+      h3 {
+      align-self: stretch;
+    }
+    .site-frame .catalogue-page .catalogue-project-grid .catalogue-owned-card .project-card-bottom {
+      margin-top: 0;
+    }
+  }
+}
 @media (hover: hover) {
   .site-frame .catalogue-page .project-card.developer-project-placeholder:hover {
     border-color: var(--accent);
@@ -156,7 +231,10 @@
   .site-frame .catalogue-page .developer-project-placeholder.project-card[data-official-renders] {
     grid-template-columns: minmax(0, 1fr);
   }
-  .site-frame .catalogue-page .developer-project-placeholder.project-card[data-official-renders] .project-card-visual {
+  .site-frame
+    .catalogue-page
+    .developer-project-placeholder.project-card[data-official-renders]
+    .project-card-visual {
     height: auto;
     min-height: 0;
     aspect-ratio: 4 / 3;
@@ -189,7 +267,7 @@
     .catalogue-page
     .developer-project-placeholder.project-card
     .project-meta
-    > span:last-child {
+    > span:nth-child(3) {
     grid-column: 1 / -1;
   }
   .site-frame .catalogue-page .developer-project-placeholder.project-card .project-card-bottom {

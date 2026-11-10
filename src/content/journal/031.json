@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-01-31",
   "researchedAt": "2026-10-30",
   "excerpt": "Build a rental-property budget from income you can support, the costs that remain with the owner and the cash needed when the home is empty.",
   "introduction": "A rental property is not an interest-bearing account. The rent written in an advertisement must become an agreed tenancy, the tenant must pay, and the owner must meet the costs of keeping the home usable. Those steps explain why a high advertised yield can produce a much less impressive cash result.\n\nFor a buyer in 2026, sustainable income means a property that can serve a real tenant at a workable price, with an operating budget that remains credible when something goes wrong. It does not mean rent can never fall. Begin by following the money through a complete year rather than stopping at the annual headline.",
@@ -19,19 +19,31 @@
       "body": "Compare homes with similar layout, condition, furnishing, parking and permitted use. Record the evidence date and whether the figure is advertised or actually agreed. If a competing landlord offers a concession, account for it rather than comparing only the headline annual amount.\n\nDubai's [Smart Rental Index launch explanation](https://backoffice.dubailand.gov.ae/en/news-media/smart-rental-index-announcement/) describes a classification that considers building condition, location and services. It is an official reference for the local framework, not a promise that your unit will let immediately at the figure you prefer. Check the current applicable service and renewal requirements for the tenancy.\n\nAvoid importing Dubai's process into another emirate without verification. Also distinguish an annual residential tenancy from a short-stay operation. Guest turnover, permissions, management and occupancy assumptions differ. The [established-community guide](/journal/established-communities-rental-demand) helps investigate the everyday reasons a tenant might choose one location over another."
     },
     {
-      "heading": "Follow an illustrative year from rent to cash",
-      "body": "Consider an invented property bought for AED 1,200,000, with a further AED 60,000 in acquisition costs. Scheduled annual rent is AED 96,000. Allow one month without rent, leaving AED 88,000 collected. Assume AED 18,000 of operating costs, including management, service charges, insurance and maintenance. The operating surplus is AED 70,000 before financing, tax where applicable and major capital work.\n\nOn the purchase price alone, scheduled gross yield is 8%. On the AED 1,260,000 acquisition outlay, the illustrated operating yield is about 5.56%. If annual debt-service payments total AED 50,000, cash remaining is AED 20,000 before the other excluded items. These are different measures, not contradictory answers.\n\nThe numbers are invented to explain the method. They are not UAE market averages, a financing quotation or a prediction. Replace every assumption with evidence for the actual property, and retain the exclusions beside the result.",
+      "heading": "Follow an example year from rent to cash",
+      "body": "Consider a sample property bought for AED 1,200,000, with a further AED 60,000 in acquisition costs. Scheduled annual rent is AED 96,000. Allow one month without rent, leaving AED 88,000 collected. Assume AED 18,000 of operating costs, including management, service charges, insurance and maintenance. The operating surplus is AED 70,000 before financing, tax where applicable and major capital work.\n\nOn the purchase price alone, scheduled gross yield is 8%. On the AED 1,260,000 acquisition outlay, the operating yield in this example is about 5.56%. If annual debt-service payments total AED 50,000, cash remaining is AED 20,000 before the other excluded items. These are different measures, not contradictory answers.\n\nThe numbers are examples to explain the method. They are not UAE market averages, a financing quotation or a prediction. Replace every assumption with evidence for the actual property, and retain the exclusions beside the result.",
       "chart": {
-        "title": "Illustrative annual rental cash bridge",
+        "title": "Example annual rental cash bridge",
         "unit": "AED per year",
-        "kind": "Illustrative calculation",
+        "kind": "Example calculation",
         "values": [
-          { "label": "Scheduled rent", "value": 96000 },
-          { "label": "After one vacant month", "value": 88000 },
-          { "label": "After operating costs", "value": 70000 },
-          { "label": "After debt service", "value": 20000 }
+          {
+            "label": "Scheduled rent",
+            "value": 96000
+          },
+          {
+            "label": "After one vacant month",
+            "value": 88000
+          },
+          {
+            "label": "After operating costs",
+            "value": 70000
+          },
+          {
+            "label": "After debt service",
+            "value": 20000
+          }
         ],
-        "note": "Invented example: 96,000 − 8,000 vacancy − 18,000 operating costs − 50,000 debt service. Bars are successive balances, not amounts to add together. Excludes tax where applicable, major capital work and changes in property value."
+        "note": "Worked example: 96,000 − 8,000 vacancy − 18,000 operating costs − 50,000 debt service. Bars are successive balances, not amounts to add together. Excludes tax where applicable, major capital work and changes in property value."
       }
     },
     {
@@ -39,7 +51,11 @@
       "body": "A single percentage for expenses can conceal more than it explains. List each responsibility, who pays it, when it falls due and the evidence supporting the amount. Distinguish a recurring management charge from a letting fee incurred when a tenancy changes, and identify any minimum charge or tax added to a quoted fee.\n\nFor Dubai jointly owned property, the [official Mollak process](https://mollak.dubailand.gov.ae/publicpages/mollak-process.html) describes reviewed service-charge budgets and regulatory approval. Obtain the relevant approved information and actual invoices rather than using another building's rate as a substitute.\n\nKeep a separate provision for substantial replacement work. Routine maintenance and replacing an ageing system are not the same spending pattern. The [property-management guide](/journal/property-management-long-term-value) explains the records that help an owner see those obligations before they become an unexpected demand for cash.",
       "table": {
         "caption": "Build the operating budget line by line",
-        "columns": ["Budget item", "Evidence", "Common error"],
+        "columns": [
+          "Budget item",
+          "Evidence",
+          "Common error"
+        ],
         "rows": [
           [
             "Rent",

@@ -1,0 +1,1806 @@
+{
+  "verifiedAt": "2026-11-10",
+  "canonicalCases": 195,
+  "passingCases": 195,
+  "unresolved": [],
+  "provenance": "Full production run followed by targeted production correction runs; this is not a single clean run.",
+  "runs": [
+    {
+      "name": "browser-final.json",
+      "startTime": "2026-11-10T17:17:15.142Z",
+      "duration": 2352791.201,
+      "expected": 169,
+      "skipped": 0,
+      "unexpected": 23,
+      "flaky": 0,
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "name": "browser-corrections.json",
+      "startTime": "2026-11-10T17:46:07.354Z",
+      "duration": 394492.98199999996,
+      "expected": 37,
+      "skipped": 0,
+      "unexpected": 2,
+      "flaky": 0,
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "name": "browser-verified.json",
+      "startTime": "2026-11-10T17:56:48.116Z",
+      "duration": 309919.306,
+      "expected": 26,
+      "skipped": 0,
+      "unexpected": 1,
+      "flaky": 0,
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "name": "browser-mobile-matrix.json",
+      "startTime": "2026-11-10T18:02:11.354Z",
+      "duration": 57687.634,
+      "expected": 4,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0,
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    }
+  ],
+  "cases": [
+    {
+      "id": "ad10ce268150cbd43d08-28bd2a63fcc8564506ac",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "featured project facts and images match their researched catalogue records",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ad10ce268150cbd43d08-fdee38a73e65ba2a81f0",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "the off-plan entry point exposes all575 owned records with15-card pages and persistent navigation",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ad10ce268150cbd43d08-63bb7a7bc1ce6de8acaa",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "saved legacy slugs resolve to sourced owned cards and omit retired sample entries",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ad10ce268150cbd43d08-cb150614c470b3f95155",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "curated collections contain sourced owned projects",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ad10ce268150cbd43d08-7d6da98d6b1513ed5680",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "previously shared project URLs redirect to canonical pages or the catalogue",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ad10ce268150cbd43d08-66273b150e7fee74d14f",
+      "file": "catalogue-rollout.spec.ts",
+      "title": "catalogue cards and shared pagination fit both themes and all target widths",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "134bf4c0330291c58d86-ebda48b91cc0dc70f792",
+      "file": "comparison.spec.ts",
+      "title": "comparison limits selection to three and persists independently from saved favourites",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "134bf4c0330291c58d86-123b9ab8aedbe77fed0a",
+      "file": "comparison.spec.ts",
+      "title": "comparison recovers malformed storage and can be built from its empty state",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "134bf4c0330291c58d86-224597b10c8c3a45cc8f",
+      "file": "comparison.spec.ts",
+      "title": "comparison selections sync between tabs without reload",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "134bf4c0330291c58d86-ec3b2e43d2c116a49320",
+      "file": "comparison.spec.ts",
+      "title": "comparison ignores retired sample selections and retains valid saved choices",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "134bf4c0330291c58d86-3c8464d050436ef7b68c",
+      "file": "comparison.spec.ts",
+      "title": "comparison remains usable on mobile without overflowing the page",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "a3b5cb3d93fb4b1de9f2-9280ad1b56d0b599550a",
+      "file": "composition.spec.ts",
+      "title": "destination navigation remains contained and every city card has a distinct reachable target",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "a3b5cb3d93fb4b1de9f2-32727ab88a085fb85307",
+      "file": "composition.spec.ts",
+      "title": "home Journal shows three newest covers with working article links in date order",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "a3b5cb3d93fb4b1de9f2-5acb1a7d4774d2a3b057",
+      "file": "composition.spec.ts",
+      "title": "all 575 reviewed galleries retain their owner and existing project-specific image files",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "a3b5cb3d93fb4b1de9f2-eb11a082c6b6d84c98ad",
+      "file": "composition.spec.ts",
+      "title": "project card title rows and price baselines stay aligned with a long project name",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "a3b5cb3d93fb4b1de9f2-5db556b92177a912aa82",
+      "file": "composition.spec.ts",
+      "title": "mobile section arrows reveal Downloads and keep active navigation visible without covering headings",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-350d794b2ab77bd2a5eb",
+      "file": "design-polish.spec.ts",
+      "title": "mobile home action stays in the first viewport and contact form precedes the long contact story",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-15f6013853eaa6e07233",
+      "file": "design-polish.spec.ts",
+      "title": "dark home actions have readable contrast and the gallery control keeps its white foreground",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-dbdf9332fd7089abe532",
+      "file": "design-polish.spec.ts",
+      "title": "mobile filter drawer filters, closes with Escape, restores focus and releases smooth scrolling",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-2fc09849bb416ef65b4c",
+      "file": "design-polish.spec.ts",
+      "title": "sticky project navigation tracks its active section without hiding the section heading",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-4e66c12ff177b29a661c",
+      "file": "design-polish.spec.ts",
+      "title": "journal contents navigation company identity and all developer marks remain distinct",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-65c755b66ab487143374",
+      "file": "design-polish.spec.ts",
+      "title": "Ajman is available in locations and navigation and mobile comparison uses compact fixed labels",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f6ea8e1b86eeff888aa3-2e5b41369ac6368a59b5",
+      "file": "design-polish.spec.ts",
+      "title": "new layouts and filter dialog remain accessible in both themes with no narrow-screen overflow",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "67e63962d293f72dd15d-0f127b6647fe2cc0590e",
+      "file": "developer-hero.spec.ts",
+      "title": "reference composition has seven curved landscape cards with a larger center and attached angled captions",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-c5f613a6123269e8796a",
+      "file": "developer-hero.spec.ts",
+      "title": "each developer shows up to fifteen owned projects with up to seven initially visible",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-1a02a7d397392db1511b",
+      "file": "developer-hero.spec.ts",
+      "title": "mouse scrolling releases after fifteen showcased projects even in the largest collection",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-95b988056a998f29dfbb",
+      "file": "developer-hero.spec.ts",
+      "title": "incoming and outgoing cards remain unrotated while scrolling the curved desktop gallery",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-0ce7afcb1e919f46f87b",
+      "file": "developer-hero.spec.ts",
+      "title": "manual controls clamp at the last set and mobile swipe stays within the same developer",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-5ba0c8086e46491aecb4",
+      "file": "developer-hero.spec.ts",
+      "title": "pinning clears on phone and landscape resize and returns only for wide screens with motion",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-feef14772e1b89ccd8e5",
+      "file": "developer-hero.spec.ts",
+      "title": "wheel scrolling pins wide galleries and scrolls the mobile page without an empty spacer",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-00270dfbf68dd61aabf2",
+      "file": "developer-hero.spec.ts",
+      "title": "the curved gallery is accessible in light and dark and has no mobile overflow",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "67e63962d293f72dd15d-da7d680dd98a0633fe42",
+      "file": "developer-hero.spec.ts",
+      "title": "native gestures scroll the phone page freely and keep wide galleries pinned until their end",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e2a3374bd216e352eb71-02d3c81efbf86f5ba7db",
+      "file": "developer-navigation.spec.ts",
+      "title": "every approved developer has equal alphabetical navigation at every breakpoint and theme",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e2a3374bd216e352eb71-283b26212dd60bbace43",
+      "file": "developer-navigation.spec.ts",
+      "title": "keyboard and native mobile touch can reach the final developer and current page is identified",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e2a3374bd216e352eb71-e3b2060059e83e7bde1b",
+      "file": "developer-navigation.spec.ts",
+      "title": "developer navigation passes accessibility checks in both themes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8778a1d6b6f49348fb7a-5754e1818c144e5f5b2f",
+      "file": "developer-pagination.spec.ts",
+      "title": "fifteen-item pages cover every owned record exactly once and clamp invalid pages",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8778a1d6b6f49348fb7a-9ed140d7bfa68f708b51",
+      "file": "developer-pagination.spec.ts",
+      "title": "page links, reload, browser history, filters and the last detail link preserve ownership",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8778a1d6b6f49348fb7a-b614695a357082ba40d2",
+      "file": "developer-pagination.spec.ts",
+      "title": "direct pagination URLs render the correct slice without JavaScript",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8778a1d6b6f49348fb7a-f47394e3fd9441f7c106",
+      "file": "developer-pagination.spec.ts",
+      "title": "native touch pagination moves to the new cards without restarting the hero",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8778a1d6b6f49348fb7a-9ab814e7a1ed73715414",
+      "file": "developer-pagination.spec.ts",
+      "title": "pagination fits mobile, tablet and desktop in both themes with keyboard access",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e115525f461e52328e6f-ad648eaabe764802f1fe",
+      "file": "developer-projects.spec.ts",
+      "title": "verified collections match their evidence records and keep stable owned identities",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e115525f461e52328e6f-1ef53cd1058bdc44db8a",
+      "file": "developer-projects.spec.ts",
+      "title": "all thirty developers show only verified cards, hero links and correctly scoped detail pages",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e115525f461e52328e6f-a157976aad6ec8581ece",
+      "file": "developer-projects.spec.ts",
+      "title": "card, related cards and back navigation retain ownership and cross-owner detail URLs return 404",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e115525f461e52328e6f-7bac651d6b10293f6d9c",
+      "file": "developer-projects.spec.ts",
+      "title": "reviewed project details support light/dark, mobile layout, gallery and contextual enquiry",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "367c57c20db21587dbb3-14c8aada6f9ae18c7a44",
+      "file": "emirates-menu-enquiry.spec.ts",
+      "title": "all seven destination cards have distinct images and correct emirate filters",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "367c57c20db21587dbb3-0f3f00cbb1b5dc96142a",
+      "file": "emirates-menu-enquiry.spec.ts",
+      "title": "mobile destinations remain accessible and open the requested emirate",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "367c57c20db21587dbb3-a1619c3ad8d95a786fff",
+      "file": "emirates-menu-enquiry.spec.ts",
+      "title": "enquiry inputs and interest dropdown align in drawer and contact forms",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "196ca9873009fa8b928d-e70edd07c16703bed26a",
+      "file": "enquiry-drawer.spec.ts",
+      "title": "enquiry drawer preserves entered details and restores keyboard focus and scrolling",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "196ca9873009fa8b928d-a3da04d336e099ee25e4",
+      "file": "enquiry-drawer.spec.ts",
+      "title": "failed submission retains form and a saved local receipt never claims email delivery",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "196ca9873009fa8b928d-d426807c2104c9757e7a",
+      "file": "enquiry-drawer.spec.ts",
+      "title": "mobile enquiry sheet keeps controls in the viewport and contains keyboard focus",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "526eb40c15a2a8ffb4a1-c78767f2ac306db55862",
+      "file": "future-motion.spec.ts",
+      "title": "desktop wheel scrolling traverses the complete buying journey without a pin or scroll trap",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "526eb40c15a2a8ffb4a1-71428554d5b9ccab842d",
+      "file": "future-motion.spec.ts",
+      "title": "keyboard focus reaches every featured project action and keeps it visible",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "526eb40c15a2a8ffb4a1-dd0da5c0bfe7eb3d6ca4",
+      "file": "future-motion.spec.ts",
+      "title": "narrow screens retain horizontal browsing and vertical wheel input",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "526eb40c15a2a8ffb4a1-f69e390b810f09c506fa",
+      "file": "future-motion.spec.ts",
+      "title": "motion preference and viewport changes preserve content and clean up animation",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "526eb40c15a2a8ffb4a1-2ea3e1067ba581dc840c",
+      "file": "future-motion.spec.ts",
+      "title": "enquiry pauses inertia and client navigation restores scrolling and reveals",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-6c1c9c1e97a64a3212fc",
+      "file": "header.spec.ts",
+      "title": "the original logo stays centered and clear of controls across the responsive breakpoint",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-7158dcc7ec0873a2c6d5",
+      "file": "header.spec.ts",
+      "title": "desktop disclosures support keyboard activation, Escape focus return, and Tab exit",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-cfc4c509fea406c79bdc",
+      "file": "header.spec.ts",
+      "title": "outside clicks dismiss navigation and developer links reset it after navigation",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-6a6075fa5b81f8e91bd6",
+      "file": "header.spec.ts",
+      "title": "destination links update the current catalogue route and browser history restores filters",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-532febf3bfec4d1767fb",
+      "file": "header.spec.ts",
+      "title": "header search and saved links apply catalogue filters on the same route",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-3c4bc915e2618939fbd0",
+      "file": "header.spec.ts",
+      "title": "mobile navigation exposes company links, destinations, search, and advisor access without overflow",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-6bc6186598f62e8957e3",
+      "file": "header.spec.ts",
+      "title": "expanded projects, search, and mobile navigation pass focused accessibility checks",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "2de9cb50cb022a3f1ddd-0f31e30ca1e4401534cf",
+      "file": "header.spec.ts",
+      "title": "normal-motion navigation remains usable and mobile closing restores page scrolling",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-6a4beaf3fbed8520d5a3",
+      "file": "home-conversion.spec.ts",
+      "title": "shortlist preferences arrive in the enquiry and stay current when changed",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-3ff11fc8848103a9737b",
+      "file": "home-conversion.spec.ts",
+      "title": "advanced search can collapse without losing selections and clears incompatible areas",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-d7cd6270a13c9e07fc04",
+      "file": "home-conversion.spec.ts",
+      "title": "enquiry keeps the brief when the server rejects submission",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-1abac70054cb80070e12",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage controls stay readable and inside the viewport at 320px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-c9625e81d053968d3f06",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage controls stay readable and inside the viewport at 390px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-da7f647849b16f2666f7",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage controls stay readable and inside the viewport at 768px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-442859f286abeff4b3fd",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage controls stay readable and inside the viewport at 1440px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-2fb1c9774f44096615fa",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage controls stay readable and inside the viewport at 1920px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-a3aa5a86213299e43ead",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage and shortlist dialog meet WCAG AA checks in light mode",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-411a4ecbdf290f14e276",
+      "file": "home-conversion.spec.ts",
+      "title": "homepage and shortlist dialog meet WCAG AA checks in dark mode",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "ec29907918c5c82fb1a2-a2bfded2ef5032f42129",
+      "file": "home-conversion.spec.ts",
+      "title": "featured projects have their own images, official facts and working destination links",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e54126e22c3e389c5ef7-d2931a8c142aac4237d7",
+      "file": "home-editorial.spec.ts",
+      "title": "all thirty developer logos scroll, pause and resume without losing their project links",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "e54126e22c3e389c5ef7-ac191257c6835374ca97",
+      "file": "home-editorial.spec.ts",
+      "title": "reduced motion keeps every developer accessible without automatic movement",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-c8e3a6713327b1f736fb",
+      "file": "home-live-readiness.spec.ts",
+      "title": "homepage uses the project catalogue, property types and newest journal stories",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-ad4a83d63b29e006d78d",
+      "file": "home-live-readiness.spec.ts",
+      "title": "homepage search sends the correct location, area, property and budget",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-b48a4be91e35b9a9ac74",
+      "file": "home-live-readiness.spec.ts",
+      "title": "switching emirates updates the existing catalogue without an RSC navigation",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-c5f863a38abb5ba822ed",
+      "file": "home-live-readiness.spec.ts",
+      "title": "mixed property types appear under both relevant filters",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-6ef39703c2d47358c3c1",
+      "file": "home-live-readiness.spec.ts",
+      "title": "homepage keyword search and catalogue-driven office filter find matching projects",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-c2fa7d17ed8b610ac492",
+      "file": "home-live-readiness.spec.ts",
+      "title": "saved and compared catalogue projects remain connected to their own records",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-0e4441eaf544c132878e",
+      "file": "home-live-readiness.spec.ts",
+      "title": "enquiry validates and reports the server result without sending a real message",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3b45b321efd8b7c4cd4f-d98ad8986ef61d882c62",
+      "file": "home-live-readiness.spec.ts",
+      "title": "mobile homepage and search are usable with reduced motion",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "9ff241d2b40bf7524d8e-47e2ecec4556ad844a0d",
+      "file": "home-reference-sections.spec.ts",
+      "title": "the buying journey can reach every step on mobile and resets to five visible desktop panels",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "9ff241d2b40bf7524d8e-e370e5013417f9358d02",
+      "file": "home-reference-sections.spec.ts",
+      "title": "journey links and plan enquiries preserve the visitor intent and restore keyboard focus",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "43b914ca5d22c4753737-337cfec6fdc8a42d8894",
+      "file": "home-refinement.spec.ts",
+      "title": "home discovery order, copy and sections work at all priority widths",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "43b914ca5d22c4753737-b099ee7f544dfcaf61f0",
+      "file": "home-refinement.spec.ts",
+      "title": "featured project save and comparison persist across catalogue and canonical project navigation",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "43b914ca5d22c4753737-d29352012ad02508a7d5",
+      "file": "home-refinement.spec.ts",
+      "title": "both themes keep featured actions touch sized and all three current journal covers loaded",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "43b914ca5d22c4753737-6b00204f0c7a0ad929c0",
+      "file": "home-refinement.spec.ts",
+      "title": "swipes, arrow buttons and keyboard clicks reach every step in both motion modes",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-83b293f05caa78d3228b",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "vertical mouse wheel crosses the photo strip in both directions at 390px with no-preference motion",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-8b46cfc34414b26b9f7f",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "vertical mouse wheel crosses the photo strip in both directions at 1440px with no-preference motion",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-aacc6d5dfd091cf2c79b",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "vertical mouse wheel crosses the photo strip in both directions at 390px with reduce motion",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-5886e2db9e6712bbc79a",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "vertical mouse wheel crosses the photo strip in both directions at 1440px with reduce motion",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-12ea43016acadaeabcd6",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "mouse scrolling triggers visible one-time reveals, and motion preferences clean them up",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-4362083af30bf318e87b",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "scroll motion survives client navigation back to the homepage",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b2c3975530a157600f55-365eaef8c02d62dbcc16",
+      "file": "home-scroll-motion.spec.ts",
+      "title": "vertical touch moves the page and horizontal touch still browses the photos",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-b770e248f5ba866e695c",
+      "file": "interface-refinement.spec.ts",
+      "title": "home branded filters support keyboard, typeahead and query navigation",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-75bad42760493b6a199a",
+      "file": "interface-refinement.spec.ts",
+      "title": "mobile native touch filters render above the modal and keep Escape scoped",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-4a665acc2f9ead2e0695",
+      "file": "interface-refinement.spec.ts",
+      "title": "enquiry dropdown preserves form value without submitting and dismisses independently",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-dfcb11e8e8fb609eb19a",
+      "file": "interface-refinement.spec.ts",
+      "title": "directory sorting and project comparison use the shared control",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-1294359db9dba1a2aa3f",
+      "file": "interface-refinement.spec.ts",
+      "title": "light and dark dropdowns and destination navigation pass accessibility checks",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-4dd43c2ab832a8729c75",
+      "file": "interface-refinement.spec.ts",
+      "title": "all destinations and developer logo assets retain correct targets and responsive containment",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b8c807ad7c73dfd6d3b8-5228120ba13bf643d0da",
+      "file": "interface-refinement.spec.ts",
+      "title": "marquee moves automatically supports pause hover and keyboard and honours reduced motion",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f663dc5ef104cc787b00-098e66cca110804013e9",
+      "file": "landscape-home.spec.ts",
+      "title": "landscape phone home keeps its primary action reachable and its image correctly framed",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "f663dc5ef104cc787b00-0441683a44a51c62368a",
+      "file": "landscape-home.spec.ts",
+      "title": "landscape composition stays accessible in both themes and its action reaches search",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-0a361b8a8331f48bcb94",
+      "file": "location-system.spec.ts",
+      "title": "canonical geography resolves aliases, rejects conflicts and preserves owned placeholders",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-a2dd68f67592ab67de6e",
+      "file": "location-system.spec.ts",
+      "title": "area filters intersect other facets and approved records retain their scoped routes",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-f700a61f2040ed779c7c",
+      "file": "location-system.spec.ts",
+      "title": "homepage area selection infers emirate and submits all facets",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-4d4388b87bdb96572a78",
+      "file": "location-system.spec.ts",
+      "title": "changing emirate clears incompatible area and history restores it",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-a9e09ff1153c58f1d91b",
+      "file": "location-system.spec.ts",
+      "title": "empty area links are honest and keyboard aliases select the correct area",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-b6cf41708a1e9f0d08c4",
+      "file": "location-system.spec.ts",
+      "title": "native mobile touch area filter stays inside modal viewport",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-b1e4b1820c9a0c8b344b",
+      "file": "location-system.spec.ts",
+      "title": "developer location filtering never assigns unknown slots or mixes owners",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "015ce1912723f62eb2cd-ac2da6713d082e19d825",
+      "file": "location-system.spec.ts",
+      "title": "location controls fit five viewport sizes and remain accessible in both themes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "95cce127c2a8a0a1c928-9a092db6b4fd6e01519d",
+      "file": "mobile-enquiry.spec.ts",
+      "title": "enquiry remains readable and can close from the bottom on phones and landscape",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "95cce127c2a8a0a1c928-108dff240ecd64c236c6",
+      "file": "mobile-enquiry.spec.ts",
+      "title": "sticky enquiry header and form retain light/dark accessibility at both scroll positions",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-08b0aab2613cd1dcf194",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile card metadata, prices and save controls have clear separate rows and comfortable targets",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-0a9c1fb41ce645aae59f",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile developer logos stay centered and metadata stays clear of project links",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-977eb3f6d5d01060300c",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile listing and developer accessibility at 320px in light theme preserves all 15 owned cards",
+      "report": "browser-mobile-matrix.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-e2e747b003d19edf499f",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile listing and developer accessibility at 390px in light theme preserves all 15 owned cards",
+      "report": "browser-mobile-matrix.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-e4d57819823c9db6ad84",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile listing and developer accessibility at 320px in dark theme preserves all 15 owned cards",
+      "report": "browser-mobile-matrix.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "03c2d422f40d19f570ab-7680e024b1602030257c",
+      "file": "mobile-refinements.spec.ts",
+      "title": "mobile listing and developer accessibility at 390px in dark theme preserves all 15 owned cards",
+      "report": "browser-mobile-matrix.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "d1b10bb339f0af1d6cc8-b1baee495088035e411d",
+      "file": "native-home-scroll.spec.ts",
+      "title": "vertical touch exits the journey while horizontal gestures browse its smaller-screen panels",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "2a00051348e2b3fcc9c6-f77fa33077e90fbb7de1",
+      "file": "page-anchors.spec.ts",
+      "title": "home anchors share the native header gap across sizes and motion modes and Back to top restores its focus target",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "2a00051348e2b3fcc9c6-9a04f7fe0fb519f69d13",
+      "file": "page-anchors.spec.ts",
+      "title": "keyboard skip bypasses header controls and the next tab reaches main content in both motion modes",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "6d9795739ae5ee90ef1d-dc97b23e0e03f18668e3",
+      "file": "project-card-images.spec.ts",
+      "title": "opening a project retains its card cover and every source gallery image",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6d9795739ae5ee90ef1d-a97f598dc9de087ec567",
+      "file": "project-card-images.spec.ts",
+      "title": "every public project selects a distinct image from its own sourced gallery",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6d9795739ae5ee90ef1d-96bda188d9dd342f6d3c",
+      "file": "project-card-images.spec.ts",
+      "title": "the reported duplicate pairs render their distinct selected covers on desktop and mobile",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "13df258b854052e5fcc3-90f1e3d203cf39e07eb9",
+      "file": "project-detail.spec.ts",
+      "title": "normal-motion gallery stops background wheel inertia and resumes scrolling after close",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "13df258b854052e5fcc3-77ebc147b9b2a7e40961",
+      "file": "project-detail.spec.ts",
+      "title": "project gallery opens with the keyboard and restores focus after Escape",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "13df258b854052e5fcc3-00eda74828766d8c9df1",
+      "file": "project-detail.spec.ts",
+      "title": "desktop enquiry remains reachable beside sourced prices and real project resources",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "13df258b854052e5fcc3-b8816168f264a62accd2",
+      "file": "project-detail.spec.ts",
+      "title": "mobile price and enquiry stay visible while the detail page scrolls",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "4aa20914cd897375a222-bfd4ebf22657ad576da6",
+      "file": "project-floor-plans.spec.ts",
+      "title": "native mobile pan can be followed immediately by closing the plan without scroll lock",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "4aa20914cd897375a222-e05d6fce312004057226",
+      "file": "project-floor-plans.spec.ts",
+      "title": "Avelia floor plans retain all six correct sheets and support responsive keyboard zoom and PDF access",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6f90db4decadee0b4fa4-647961c359e69f7c4571",
+      "file": "project-image-speed.spec.ts",
+      "title": "project images load a sharp, project-specific responsive copy at 1440px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6f90db4decadee0b4fa4-936350d824c0df6fbd25",
+      "file": "project-image-speed.spec.ts",
+      "title": "project images load a sharp, project-specific responsive copy at 390px",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6f90db4decadee0b4fa4-ced468e0455203d4d8c8",
+      "file": "project-image-speed.spec.ts",
+      "title": "a missing optimized image falls back to the same project original",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6f90db4decadee0b4fa4-fc1d3e4b2af4d66be50c",
+      "file": "project-image-speed.spec.ts",
+      "title": "homepage hero and journal covers use responsive images on mobile",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "6f90db4decadee0b4fa4-02dfa08192d21eb0b2fa",
+      "file": "project-image-speed.spec.ts",
+      "title": "catalogue card keeps the same project cover while using a smaller static image",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "902e30725c3d03613608-3ced0257abf9a77aa677",
+      "file": "project-location.spec.ts",
+      "title": "Avelia location preserves sourced map, travel estimates and usable navigation in both themes",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "b7753936e04d34877d9a-3f9120151ad4e9d574a1",
+      "file": "project-media-pilot.spec.ts",
+      "title": "registered project media retains owner isolation and protected records survive",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b7753936e04d34877d9a-eaf9ed7cae7c0b431178",
+      "file": "project-media-pilot.spec.ts",
+      "title": "official gallery fits both themes, shows full images and keeps project enquiries contextual",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b7753936e04d34877d9a-05cac99a5d75d9214f0d",
+      "file": "project-media-pilot.spec.ts",
+      "title": "touch users can browse the image viewer without locking the page after dismissal",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "b7753936e04d34877d9a-d53be94cbc7ec729dc6b",
+      "file": "project-media-pilot.spec.ts",
+      "title": "Avelia listing card uses its own official exterior and opens the same project page",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "c2c5cb3e9ef248496dbe-0314bf8b8663fe0f0c53",
+      "file": "project-research.spec.ts",
+      "title": "researched details retain all 575 identities and images, trace fields and balance payments",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "c2c5cb3e9ef248496dbe-144948862c6f02b5a7a1",
+      "file": "project-research.spec.ts",
+      "title": "researched pages render available units, sources and real documents without draft sections",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "c2c5cb3e9ef248496dbe-d839b8031619211d889f",
+      "file": "project-research.spec.ts",
+      "title": "research details fit mobile and desktop themes and support keyboard enquiry",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "c2c5cb3e9ef248496dbe-8a0ae1fc18556e954ef2",
+      "file": "project-research.spec.ts",
+      "title": "phase-specific schedules and new community filters retain the right projects",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "c2c5cb3e9ef248496dbe-8a044aae26ef211406f2",
+      "file": "project-research.spec.ts",
+      "title": "Valley variants retain distinct plans and Golf Edge separates townhouse areas",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3607e5091b333fc0b731-5da70c7d20de704c542d",
+      "file": "reading-navigation.spec.ts",
+      "title": "project section links also keep a single measured offset with smooth motion",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "3607e5091b333fc0b731-da1354e45a6e5aa37ec5",
+      "file": "reading-navigation.spec.ts",
+      "title": "touch contents links use one header offset in both motion modes and native reading scroll remains free",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c6671a48827530c6375-45bd83bf1c99228fe3a4",
+      "file": "receipt-state.spec.ts",
+      "title": "contact receipt enters the viewport with a logical focus target and readable honest delivery note",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c6671a48827530c6375-c15320a046a04460e99b",
+      "file": "receipt-state.spec.ts",
+      "title": "drawer receipt scrolls inside its own panel and keeps the background locked in both motion modes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8da88c837b7cc6111728-9c9b323a793dd5cd6b2c",
+      "file": "recovery-comparison.spec.ts",
+      "title": "mobile recovery keeps its responsive geometry before hydration",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8da88c837b7cc6111728-a1e12b0f3702e8661c68",
+      "file": "recovery-comparison.spec.ts",
+      "title": "empty shortlist has a visible recovery action and returns to the catalogue",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8da88c837b7cc6111728-74ce529d9d639e6c9716",
+      "file": "recovery-comparison.spec.ts",
+      "title": "saved recovery clears restrictive filters without losing favourites or comparison selection",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8da88c837b7cc6111728-698bc8f5154462da3bb4",
+      "file": "recovery-comparison.spec.ts",
+      "title": "unmatched searches including Ajman retain recovery context and a visible mobile action",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8da88c837b7cc6111728-57c909ea1eeba00b9ece",
+      "file": "recovery-comparison.spec.ts",
+      "title": "comparison uses comfortable mobile controls and brings results into view without narrowing table labels",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8da88c837b7cc6111728-59ab6b39608a0708f158",
+      "file": "recovery-comparison.spec.ts",
+      "title": "empty recovery and comparison controls remain accessible in light and dark themes",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8c55c0801a27607fa79e-859a1bd2032a6206299d",
+      "file": "redesign.spec.ts",
+      "title": "destination links support keyboard selection and preserve the selected emirate",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8c55c0801a27607fa79e-0915ae21aacac65a4843",
+      "file": "redesign.spec.ts",
+      "title": "home and inner pages stay within mobile and desktop viewports",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "fbd1d7db79921e089ffc-ef8efeaba1b9e679b2c3",
+      "file": "reveal-motion.spec.ts",
+      "title": "one-time reveals appear on scroll, survive client navigation and respect reduced motion",
+      "report": "browser-corrections.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "0Yh7CgwukLuXXi2r2l8mV"
+    },
+    {
+      "id": "daf9c78f8c4b436fe025-888c8d2a05a875ecaacf",
+      "file": "rich-experience.spec.ts",
+      "title": "curated collection URLs retain their selected records and browser history after clearing",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "daf9c78f8c4b436fe025-4973a93ef023addb4512",
+      "file": "rich-experience.spec.ts",
+      "title": "destination navigation and catalogue filter stay synchronized at phone tablet and desktop sizes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "daf9c78f8c4b436fe025-bf9378d16ab24d61e449",
+      "file": "rich-experience.spec.ts",
+      "title": "reviewed project galleries support thumbnails wraparound keyboard navigation and focus restoration",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "daf9c78f8c4b436fe025-c68972fb8d47b6af7411",
+      "file": "rich-experience.spec.ts",
+      "title": "hero wheel input reaches search at every breakpoint and reduced motion keeps the primary link usable",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "daf9c78f8c4b436fe025-1730937103c8631d4f2b",
+      "file": "rich-experience.spec.ts",
+      "title": "new home and gallery surfaces pass accessibility checks in both themes and sizes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "9e3a3da0cc9ccd574d52-5abddb28dd544168f51d",
+      "file": "search-contrast.spec.ts",
+      "title": "search placeholder is readable in both themes on phone and desktop",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-2aa9bbf72ef393dd481a",
+      "file": "site.spec.ts",
+      "title": "home search preserves emirate, property type and budget",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-30af34f3082590488878",
+      "file": "site.spec.ts",
+      "title": "project filters show an empty state and reset to the whole collection",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-ea77c6a0ce044bf030e1",
+      "file": "site.spec.ts",
+      "title": "shortlisted projects persist across reloads and can be removed",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-300bb9ffffd50b22bbf3",
+      "file": "site.spec.ts",
+      "title": "project detail leads to a prefilled enquiry and validates required fields",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-e2faf2d0ce8bbf57b400",
+      "file": "site.spec.ts",
+      "title": "enquiry keeps details after failed responses and shows only a confirmed receipt",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-bf52389757622754adba",
+      "file": "site.spec.ts",
+      "title": "journal index opens the newest complete article with contents and research tables",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-b85aadec431b914da3f7",
+      "file": "site.spec.ts",
+      "title": "developer index opens its profile and associated project",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-230eceba0ca5a810d82a",
+      "file": "site.spec.ts",
+      "title": "mobile navigation supports Escape, focus return and navigation",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-9d89f5444c75679e0312",
+      "file": "site.spec.ts",
+      "title": "mobile core pages have no horizontal overflow",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-c8e4e9b9af55b40c0104",
+      "file": "site.spec.ts",
+      "title": "/ has no automated WCAG A/AA accessibility violations",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-f3bc15d0a30156591c00",
+      "file": "site.spec.ts",
+      "title": "/projects has no automated WCAG A/AA accessibility violations",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-510ff049e4d1fa6fed83",
+      "file": "site.spec.ts",
+      "title": "/developers/sobha/projects/sobha-solis has no automated WCAG A/AA accessibility violations",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-47186bc4d2fb2135927d",
+      "file": "site.spec.ts",
+      "title": "/contact has no automated WCAG A/AA accessibility violations",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "5c02723ad68c2a0d50c5-dcb1ea8877553d9f8307",
+      "file": "site.spec.ts",
+      "title": "core pages load images without browser runtime errors",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-355f242ce7d5ebbfc8f9",
+      "file": "theme.spec.ts",
+      "title": "theme selection survives navigation, reload and synchronizes between tabs",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-13116b61ee19110e5901",
+      "file": "theme.spec.ts",
+      "title": "theme toggle remains reachable without logo collisions at mobile and desktop widths",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-d68d8b15f32579d70948",
+      "file": "theme.spec.ts",
+      "title": "theme toggle works when local storage is blocked",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-215fe292a439bc117a4c",
+      "file": "theme.spec.ts",
+      "title": "dark mode contrast and accessibility: /",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-c27f581eacd6e9df8575",
+      "file": "theme.spec.ts",
+      "title": "dark mode contrast and accessibility: /projects",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-f65ad752d12c76fdc9b2",
+      "file": "theme.spec.ts",
+      "title": "dark mode contrast and accessibility: /developers/sobha/projects/sobha-solis",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-eed5ac7ece05cd86f770",
+      "file": "theme.spec.ts",
+      "title": "dark mode contrast and accessibility: /contact",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "8168eb6e17e693d86faf-d19a9d8c31d13cd30813",
+      "file": "theme.spec.ts",
+      "title": "dark header panels and enquiry fields remain accessible",
+      "report": "browser-verified.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "hBRR7umFBVGHmqbdiYWV2"
+    },
+    {
+      "id": "51ba79d0ef926d6a1447-49595720247b934bd939",
+      "file": "verified-project-heroes.spec.ts",
+      "title": "hero slides contain only the developer’s owned projects and their project covers",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "51ba79d0ef926d6a1447-e4909720e249911322c4",
+      "file": "verified-project-heroes.spec.ts",
+      "title": "short collections show their owned cards without stock filler or an unnecessary scroll pin",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "51ba79d0ef926d6a1447-600a2ab64d322283d524",
+      "file": "verified-project-heroes.spec.ts",
+      "title": "real long names remain readable in the hero at every target size and theme",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "51ba79d0ef926d6a1447-11123a8aaf3bc8f14d2c",
+      "file": "verified-project-heroes.spec.ts",
+      "title": "owned project slides support touch, reduced-motion keyboard navigation and both themes",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    },
+    {
+      "id": "51ba79d0ef926d6a1447-376c94e3b605e6e75ebd",
+      "file": "verified-project-heroes.spec.ts",
+      "title": "hero link keyboard navigation opens the exact owned project and keeps source attribution",
+      "report": "browser-final.json",
+      "status": "passed",
+      "result": "expected",
+      "build": "6czfeQsa2-BBCh6qIn3F0"
+    }
+  ]
+}

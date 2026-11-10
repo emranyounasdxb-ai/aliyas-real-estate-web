@@ -185,6 +185,23 @@
   grid-template-columns: 1fr 1fr;
   gap: 18px;
 }
+.enquiry-form .brand-select {
+  margin: 9px 0 21px;
+}
+.enquiry-form .brand-select .brand-select-trigger {
+  min-height: 48px;
+  padding: 13px 14px;
+  border-color: #dedbd2;
+  border-radius: 7px;
+  background: #fffdfa;
+  color: #292a24;
+  font: inherit;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.enquiry-form .brand-select .brand-select-mirror {
+  margin: 0;
+}
 .enquiry-form input:not([type='checkbox']),
 .enquiry-form select,
 .enquiry-form textarea {

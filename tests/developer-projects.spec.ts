@@ -80,7 +80,9 @@ test('all thirty developers show only verified cards, hero links and correctly s
     const cards = page.locator('.developer-listings .project-card');
     const records = getDeveloperProjects(developer.slug);
     await expect(cards).toHaveCount(Math.min(DEVELOPER_PROJECT_PAGE_SIZE, records.length));
-    await expect(page.locator('.developer-hero-card')).toHaveCount(DEVELOPER_HERO_LIMIT);
+    await expect(page.locator('.developer-hero-card')).toHaveCount(
+      Math.min(DEVELOPER_HERO_LIMIT, records.length),
+    );
     expect(
       await page
         .locator('.developer-hero-card-link')
@@ -142,9 +144,7 @@ test('card, related cards and back navigation retain ownership and cross-owner d
     '/developers/unknown/projects/emaar-project-01',
   ])
     expect((await request.get(path)).status()).toBe(404);
-  expect(await (await request.get('/sitemap.xml')).text()).not.toContain(
-    '/developers/emaar/projects/',
-  );
+  expect(await (await request.get('/sitemap.xml')).text()).toContain('/developers/emaar/projects/');
   for (const developer of developers) {
     const project = getDeveloperProjects(developer.slug)[0];
     const old = `/developers/${developer.slug}/projects/${project.previousSlugs![0]}`;
@@ -157,7 +157,7 @@ test('card, related cards and back navigation retain ownership and cross-owner d
   );
 });
 
-test('placeholder details support light/dark, mobile layout, gallery and contextual enquiry', async ({
+test('reviewed project details support light/dark, mobile layout, gallery and contextual enquiry', async ({
   page,
 }) => {
   await page.goto('/developers/aldar/projects/aldar-project-07');

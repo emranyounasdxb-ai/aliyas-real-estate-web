@@ -90,6 +90,9 @@
   margin-top: 64px;
   align-items: start;
 }
+.noCoverLayout {
+  margin-top: 24px;
+}
 .sidebar {
   position: sticky;
   top: calc(var(--header-height, 76px) + 24px);

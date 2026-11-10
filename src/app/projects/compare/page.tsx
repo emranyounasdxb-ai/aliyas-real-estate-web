@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { ProjectComparison } from '@/components/project-comparison';
+import { getPublicListings } from '@/lib/public-listings';
 
 export const metadata: Metadata = {
   title: 'Compare off-plan projects',
@@ -10,5 +11,5 @@ export const metadata: Metadata = {
 };
 
 export default function CompareProjectsPage() {
-  return <ProjectComparison />;
+  return <ProjectComparison projects={getPublicListings()} />;
 }

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
-import { projects, developers, allArticles } from '@/lib/content';
-import { developerProjectHref, getAllDeveloperProjects } from '@/lib/developer-projects';
+import { developers, allArticles } from '@/lib/content';
+import { developerProjectHref } from '@/lib/developer-project-url';
+import { getPublicListings } from '@/lib/public-listings';
 export default function sitemap(): MetadataRoute.Sitemap {
   const origin = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
   const paths = [
@@ -11,11 +12,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/about',
     '/contact',
     '/privacy',
-    ...projects.map((p) => `/projects/${p.slug}`),
     ...developers.map((d) => `/developers/${d.slug}`),
-    ...getAllDeveloperProjects()
-      .filter((project) => !project.placeholder)
-      .map(developerProjectHref),
+    ...getPublicListings().map(developerProjectHref),
     ...allArticles
       .filter((article) => article.status !== 'planned')
       .map((a) => `/journal/${a.slug}`),

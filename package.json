@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "test": "playwright test",
     "test:unit": "node --experimental-strip-types --test tests/enquiries.test.ts",
+    "images:prepare": "node scripts/generate-project-image-variants.mjs && node scripts/generate-navigation-image-variants.mjs",
     "format": "prettier --write src tests next.config.ts playwright.config.ts tsconfig.json README.md"
   },
   "keywords": [],
@@ -37,6 +38,7 @@
     "lighthouse": "^13.6.0",
     "node": "^26.13.0",
     "prettier": "^3.9.10",
+    "sharp": "^0.35.5",
     "typescript": "^7.0.2"
   },
   "private": true,

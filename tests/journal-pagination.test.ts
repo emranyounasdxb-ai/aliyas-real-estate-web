@@ -63,6 +63,23 @@ test('search and topic filtering paginate the filtered set, with empty results h
   assert.equal(empty.page, 1);
   assert.equal(selectJournalArticles(stories, { topic: 'unknown' }).total, 50);
 });
+test('dated search results are newest first and undated stories appear last', () => {
+  const dated = [
+    { ...stories[0], slug: 'old', date: '2026-01-01' },
+    { ...stories[1], slug: 'undated' },
+    { ...stories[2], slug: 'new', date: '2026-07-19' },
+    { ...stories[3], slug: 'middle', date: '2026-04-11' },
+  ];
+  const result = selectJournalArticles(dated, { topic: 'design-living', q: 'story' });
+  assert.deepEqual(
+    result.items.map((story) => story.slug),
+    ['new', 'middle', 'old', 'undated'],
+  );
+  assert.deepEqual(
+    dated.map((story) => story.slug),
+    ['old', 'undated', 'new', 'middle'],
+  );
+});
 test('links preserve filters, reset page by default and encode special text safely', () => {
   const href = journalHref({ page: 6, topic: 'design-living', q: 'light & space' });
   const url = new URL(href, 'http://localhost');

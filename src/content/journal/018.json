@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-01-18",
   "researchedAt": "2026-10-30",
   "excerpt": "Translate headline payment-plan percentages into dated cash commitments, identify the handover funding gap and compare the complete terms.",
   "introduction": "A payment plan changes when you pay. It does not, by itself, establish whether a home is affordable or fairly priced. Two plans with the same headline split can create different pressures if their instalments fall on different dates, depend on different triggers or come with different total prices.\n\nThe comparison becomes clearer when every percentage is converted into money and placed on a calendar. Then separate the cash you already have from future savings, possible financing and hoped-for resale proceeds. The result is a funding plan you can question before it becomes a contractual obligation.",
@@ -16,22 +16,42 @@
     },
     {
       "heading": "Compare two plans with identical assumptions",
-      "body": "Consider an invented AED 2,000,000 property with two hypothetical schedules. Plan A requires twenty per cent at booking, forty per cent during construction and forty per cent at handover. Plan B requires ten per cent, thirty per cent and sixty per cent at those broad stages.\n\nPlan B starts with AED 200,000 less, but its final payment is AED 400,000 larger. Neither plan has a lower price in this example. The apparent relief at the beginning is a transfer of funding pressure to a later date. Actual dates and intermediate instalments would still be needed before choosing.\n\nThe table and chart isolate the timing difference. They do not assume that either schedule is available, that a developer charges no premium for deferral or that a bank will finance the final amount. Replace every line with the actual written offer before using the worksheet for a decision.",
+      "body": "Consider a sample AED 2,000,000 property with two sample schedules. Plan A requires twenty per cent at booking, forty per cent during construction and forty per cent at handover. Plan B requires ten per cent, thirty per cent and sixty per cent at those broad stages.\n\nPlan B starts with AED 200,000 less, but its final payment is AED 400,000 larger. Neither plan has a lower price in this example. The apparent relief at the beginning is a transfer of funding pressure to a later date. Actual dates and intermediate instalments would still be needed before choosing.\n\nThe table and chart isolate the timing difference. They do not assume that either schedule is available, that a developer charges no premium for deferral or that a bank will finance the final amount. Replace every line with the actual written offer before using the worksheet for a decision.",
       "table": {
-        "caption": "Illustrative schedules for the same AED 2m price",
-        "columns": ["Stage", "Plan A", "Plan B"],
-        "rows": [
-          ["Booking", "20% / AED 400,000", "10% / AED 200,000"],
-          ["During construction", "40% / AED 800,000", "30% / AED 600,000"],
-          ["Handover", "40% / AED 800,000", "60% / AED 1,200,000"],
-          ["Total price", "100% / AED 2,000,000", "100% / AED 2,000,000"]
+        "caption": "Example schedules for the same AED 2m price",
+        "columns": [
+          "Stage",
+          "Plan A",
+          "Plan B"
         ],
-        "note": "Hypothetical grouped stages, not a market offer. All fees and financing costs excluded; actual contractual dates must be added."
+        "rows": [
+          [
+            "Booking",
+            "20% / AED 400,000",
+            "10% / AED 200,000"
+          ],
+          [
+            "During construction",
+            "40% / AED 800,000",
+            "30% / AED 600,000"
+          ],
+          [
+            "Handover",
+            "40% / AED 800,000",
+            "60% / AED 1,200,000"
+          ],
+          [
+            "Total price",
+            "100% / AED 2,000,000",
+            "100% / AED 2,000,000"
+          ]
+        ],
+        "note": "Sample grouped stages, not a market offer. All fees and financing costs excluded; actual contractual dates must be added."
       },
       "chart": {
         "title": "Deferring payments increases the final requirement",
         "unit": "AED due at handover",
-        "kind": "Illustrative payment schedules",
+        "kind": "Example payment schedules",
         "values": [
           {
             "label": "Plan A: 40% at handover",
@@ -42,7 +62,7 @@
             "value": 1200000
           }
         ],
-        "note": "Calculated as 40% and 60% of the same hypothetical AED 2,000,000 price. Shows one stage only; it is not a total-price or borrowing-cost comparison."
+        "note": "Calculated as 40% and 60% of the same sample AED 2,000,000 price. Shows one stage only; it is not a total-price or borrowing-cost comparison."
       }
     },
     {

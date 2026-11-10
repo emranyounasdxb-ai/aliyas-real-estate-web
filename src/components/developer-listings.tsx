@@ -3,17 +3,17 @@ import { useEffect, useRef, type MouseEvent } from 'react';
 import { useSearchParams, usePathname } from 'next/navigation';
 import { ProjectPagination } from './project-pagination';
 import { LocationFields } from './location-fields';
-import { DeveloperProjectPlaceholder } from './developer-project-placeholder';
+import { CatalogueProjectCard } from './catalogue-project-card';
 import { getArea, updateLocationQuery } from '@/lib/locations';
 import { selectDeveloperProjectPage } from '@/lib/developer-project-pagination';
-import type { DeveloperProjectRecord } from '@/lib/developer-projects';
+import type { ApprovedListing } from '@/lib/catalogue-locations';
 import './location-filters.css';
 
 export function DeveloperListings({
   projects,
   developerName,
 }: {
-  projects: readonly DeveloperProjectRecord[];
+  projects: readonly ApprovedListing[];
   developerName: string;
 }) {
   const query = useSearchParams();
@@ -89,11 +89,7 @@ export function DeveloperListings({
       {view.total ? (
         <div className="catalogue-project-grid developer-listings-grid">
           {view.items.map((project) => (
-            <DeveloperProjectPlaceholder
-              key={project.id}
-              project={project}
-              developerName={developerName}
-            />
+            <CatalogueProjectCard key={project.id} project={project} />
           ))}
         </div>
       ) : (

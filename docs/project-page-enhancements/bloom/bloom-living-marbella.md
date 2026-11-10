@@ -2,7 +2,7 @@
 
 Protected identity: bloom / bloom-project-03 / bloom-living-marbella. 21 source images and 11 complete original drawing sheets.
 
-imagery: Root inspected all37 original Marbella brochure pages and all21 selected native resources, including separate bathroom images. Bloom publishes these shared villa-series concepts in both Marbella and Malaga brochures. Public captions/source and notes retain that scope. The Marbella brochure three-bedroom frontage is the listing image. Premium and upgraded interiors remain distinct.
+imagery: Root inspected all37 original Marbella brochure pages and all21 selected native resources, including separate bathroom images. Bloom publishes these shared villa-series concepts in both Marbella and Malaga brochures. Public captions/source and notes retain that scope. The Marbella brochure six-bedroom frontage (page16) is the listing image, selected on8November2026 to distinguish it from Malaga’s three-bedroom frontage. Premium and upgraded interiors remain distinct.
 
 floorPlans: Root inspected all8 complete original A/B ground/first sheets and enlarged numeric panels8/9/11/12/14/15/17/18. Marbella whole totals2734/3391/4607/5500sqft and254/315/428/511m² agree with components. Malaga amounts were not substituted. Both original master plans4/5 and finish panels21/31 read. Notices, room labels, paired levels and physical-page links are intact.
 

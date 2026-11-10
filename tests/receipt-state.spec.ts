@@ -37,9 +37,7 @@ test('contact receipt enters the viewport with a logical focus target and readab
         .toBeGreaterThanOrEqual(header.height + 20);
       const heading = (await receipt.getByRole('heading').boundingBox())!;
       expect(heading.y + heading.height).toBeLessThan(844);
-      await expect(receipt).toContainText(
-        'This preview stores enquiries locally. No email has been sent.',
-      );
+      await expect(receipt).toContainText('No email has been sent.');
       for (const link of await receipt.locator('.enquiry-direct-contact a').all())
         expect((await link.boundingBox())!.height).toBeGreaterThanOrEqual(44);
       expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(
@@ -75,7 +73,7 @@ test('drawer receipt scrolls inside its own panel and keeps the background locke
       [768, 1024],
     ]) {
       await page.setViewportSize({ width, height });
-      await page.goto('/projects/creek-waters');
+      await page.goto('/developers/sobha/projects/sobha-solis');
       if ((await page.locator('html').getAttribute('data-theme')) !== 'dark')
         await page.locator('.theme-toggle').click();
       const trigger = page.locator('.pd-mobile-enquiry > button');

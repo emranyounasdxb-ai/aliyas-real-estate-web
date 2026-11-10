@@ -12,3 +12,7 @@ Sources:
 - https://sobharealty.com/sites/default/files/2024-10/Coraline%20Beach%20Residences%20Brochure_7thOct_compressed.pdf
 
 Selection: docs/project-page-enhancement-selections/sobha/coraline-beach-residences.json. Source/owner/hash validation: 575 protected identities, 672 owner manifests and 7,474 asset hashes checked, canonical text diff empty. Optimized build s4Z_KJ_2FeMCJxfg_QVZn / PID50412. Own browser case passed in 33.1s (artifacts/project-page-enhancement/batch-101-browser.log). All selectable sheets/areas/physical-page links, original PDF, five widths/light-dark/reduced motion, four accessibility scans, keyboard full-size zoom/Escape/focus, source map scope, own listing card and zero badges passed. Final desktop/mobile screenshots reviewed by the main agent before this status update. Canonical text research preserved. Local only; no enquiries, deployment or publication.
+
+## Card cover selection — 8 November 2026
+
+The listing and developer-hero card now use **Landscaped Coraline courtyard at dusk** (`courtyard`), from this project’s [existing source](https://sobharealty.com/sites/default/files/2024-10/Coraline%20Beach%20Residences%20Brochure_7thOct_compressed.pdf#page=32). The landscaped courtyard at dusk replaces the shoreline composition repeated on Aquamarine Beach Residences; the source remains Coraline’s named brochure. This dated selection supersedes the original cover pick above; gallery assets, source attribution and image-scope qualifications remain unchanged.

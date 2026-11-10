@@ -16,13 +16,13 @@ export function ProjectCard({ project }: { project: Project }) {
     <article className="project-card">
       <div className="project-card-visual">
         <Link
-          href={`/projects/${project.slug}`}
+          href={project.href}
           aria-label={`Explore ${project.name}`}
           className="project-card-image-link"
         >
           <Image
             src={project.image}
-            alt={`Illustrative architecture for the ${project.name} sample profile`}
+            alt={project.imageAlt}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1000px) 50vw, 33vw"
           />
@@ -45,13 +45,9 @@ export function ProjectCard({ project }: { project: Project }) {
         </p>
         <div className="project-title-row">
           <h3>
-            <Link href={`/projects/${project.slug}`}>{project.name}</Link>
+            <Link href={project.href}>{project.name}</Link>
           </h3>
-          <Link
-            className="project-arrow"
-            href={`/projects/${project.slug}`}
-            aria-label={`View ${project.name}`}
-          >
+          <Link className="project-arrow" href={project.href} aria-label={`View ${project.name}`}>
             <ArrowUpRight size={20} />
           </Link>
         </div>
@@ -61,15 +57,15 @@ export function ProjectCard({ project }: { project: Project }) {
             {project.bedrooms} beds
           </span>
           <span>{project.type}</span>
-          <span title="Illustrative handover year">Handover {project.handover}*</span>
+          {project.handover && <span>Handover {project.handover}</span>}
         </div>
         <div className="project-card-bottom">
           <span>
-            Indicative from <strong>{formatPrice(project.price)}</strong>
+            {project.priceLabel} <strong>{formatPrice(project.price)}</strong>
           </span>
           <span className="project-plan">
             {project.paymentPlan}
-            <small>Sample payment plan</small>
+            <small>Payment plan</small>
           </span>
         </div>
         <CompareButton slug={project.slug} name={project.name} />

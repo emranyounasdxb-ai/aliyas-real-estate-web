@@ -1,6 +1,6 @@
 {
   "status": "published",
-  "date": "2026-10-30",
+  "date": "2026-03-28",
   "researchedAt": "2026-10-30",
   "excerpt": "Compare the journeys your household will actually make, from the correct entrance to the final destination. Use map estimates carefully and verify the route on the ground.",
   "introduction": "A property can look close to everything on a map and still make an ordinary journey awkward. The building entrance may face the wrong road, the pedestrian route may require a detour, or parking at the destination may add time that a simple location search does not show.\n\nMaps are valuable for building a shortlist, especially when you are unfamiliar with an area. Use them to investigate a routine rather than collect nearby pins. The useful question is not how many amenities sit within a circle, but how reliably and comfortably you can reach the places that matter to you.",
@@ -24,9 +24,9 @@
     },
     {
       "heading": "Count the parts outside the main road journey",
-      "body": "Consider an invented comparison. Home A has a twenty-minute road journey, twelve minutes from the apartment to departure and eight minutes from destination parking to the desk: forty minutes in total. Home B has a twenty-eight-minute road journey, four minutes before departure and three minutes after parking: thirty-five minutes overall.\n\nThese are made-up figures to show a method, not measured journeys in a UAE community. The home with the shorter road segment is not automatically the one with the shorter complete trip. Repeat the calculation using your own observed or clearly labelled estimated timings.\n\nKeep waiting, walking and parking components visible instead of adding a mysterious buffer. Some parts may vary considerably. If the result is close, record a range of observations and explain the uncertainty rather than claiming that one address saves an exact number of minutes every day.",
+      "body": "Consider a sample comparison. Home A has a twenty-minute road journey, twelve minutes from the apartment to departure and eight minutes from destination parking to the desk: forty minutes in total. Home B has a twenty-eight-minute road journey, four minutes before departure and three minutes after parking: thirty-five minutes overall.\n\nThe example figures show how to compare the complete journey from each home to the office. The home with the shorter road segment is not automatically the one with the shorter complete trip. Repeat the calculation using your own observed or clearly labelled estimated timings.\n\nKeep waiting, walking and parking components visible instead of adding a mysterious buffer. Some parts may vary considerably. If the result is close, record a range of observations and explain the uncertainty rather than claiming that one address saves an exact number of minutes every day.",
       "table": {
-        "caption": "Illustrative door-to-desk journey comparison",
+        "caption": "Example door-to-desk journey comparison",
         "columns": [
           "Assumed component",
           "Home A",
@@ -54,12 +54,12 @@
             "35 minutes"
           ]
         ],
-        "note": "Invented method example, not live map data or a community travel-time claim."
+        "note": "Sample method example, not live map data or a community travel-time claim."
       },
       "chart": {
-        "title": "Illustrative road time and complete journey",
+        "title": "Example road time and complete journey",
         "unit": "minutes per one-way journey",
-        "kind": "Illustrative calculation",
+        "kind": "Example calculation",
         "values": [
           {
             "label": "Home A: road segment",
@@ -78,7 +78,7 @@
             "value": 35
           }
         ],
-        "note": "Invented values: Home A = 12 + 20 + 8 = 40 minutes; Home B = 4 + 28 + 3 = 35 minutes. Complete totals already include road segments, so bars must not be added together."
+        "note": "Sample values: Home A = 12 + 20 + 8 = 40 minutes; Home B = 4 + 28 + 3 = 35 minutes. Complete totals already include road segments, so bars must not be added together."
       }
     },
     {

@@ -1,14 +1,20 @@
 'use client';
 
 import { useMemo, useSyncExternalStore } from 'react';
-import { projects } from '@/lib/content';
 
 export const COMPARISON_STORAGE_KEY = 'aliyas-compare-projects';
 export const MAX_COMPARISON_PROJECTS = 3;
 const changeEvent = 'aliyas-comparison-change';
 const empty = '[]';
 const subscribeReady = () => () => {};
-const validSlugs = new Set(projects.map((project) => project.slug));
+const legacyKeys: Record<string, string> = {
+  'sobha-solis': 'sobha-project-19',
+  'gardenia-bay': 'aldar-project-21',
+  'cala-del-mar': 'ellington-project-19',
+  'damac-islands': 'damac-project-07',
+};
+export const comparisonKey = (value: string) => legacyKeys[value] ?? value;
+const validKey = (value: string) => /^[a-z0-9-]+-project-[0-9]+$/.test(value);
 let memorySnapshot = empty;
 let storageUnavailable = false;
 
@@ -18,7 +24,10 @@ function parseSelection(raw: string): string[] {
     if (!Array.isArray(parsed)) return [];
     return [
       ...new Set(
-        parsed.filter((slug): slug is string => typeof slug === 'string' && validSlugs.has(slug)),
+        parsed
+          .filter((slug): slug is string => typeof slug === 'string')
+          .map(comparisonKey)
+          .filter(validKey),
       ),
     ].slice(0, MAX_COMPARISON_PROJECTS);
   } catch {
@@ -65,11 +74,11 @@ function persist(slugs: string[], message: string): SelectionResult {
   };
 }
 
-function selectProject(slug: string): SelectionResult {
-  if (!validSlugs.has(slug))
+function selectProject(projectKey: string, name = 'Project'): SelectionResult {
+  const slug = comparisonKey(projectKey);
+  if (!validKey(slug))
     return { ok: false, message: 'Please select a project from the collection.' };
   const selection = parseSelection(getSnapshot());
-  const name = projects.find((project) => project.slug === slug)!.name;
   if (selection.includes(slug))
     return persist(
       selection.filter((item) => item !== slug),
@@ -85,7 +94,7 @@ function selectProject(slug: string): SelectionResult {
 
 function replaceProject(previous: string | undefined, next: string): SelectionResult {
   const selection = parseSelection(getSnapshot());
-  if (next && !validSlugs.has(next))
+  if (next && !validKey(next))
     return { ok: false, message: 'Please select a project from the collection.' };
   if (next && next !== previous && selection.includes(next))
     return { ok: false, message: 'This project is already in your comparison.' };

@@ -2,10 +2,9 @@
 
 import { getArea, locationHref } from '@/lib/locations';
 
-import { useCallback, useEffect, useRef, useState, type FormEvent } from 'react';
+import { useCallback, useEffect, useRef, useState, type FormEvent, type MouseEvent } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
 import Link from 'next/link';
-import Image from 'next/image';
 import { ArrowUpRight, Bookmark, ChevronDown, Menu, Search, X } from '@/components/brand-icons';
 import gsap from 'gsap';
 import { brandEase } from '@/lib/motion-curve';
@@ -14,23 +13,60 @@ import { Brand } from './brand';
 import { EnquiryTrigger } from './enquiry-trigger';
 import { ThemeToggle } from './theme-toggle';
 import { DeveloperMark } from './developer-mark';
+import { ResponsiveStaticImage } from './responsive-project-image';
 import { developers as allDevelopers } from '@/lib/developers';
+import navigationImages from '@/data/navigation-image-variants.json' with { type: 'json' };
 
 gsap.registerPlugin(useGSAP);
 type Panel = 'projects' | 'developers' | 'search' | 'mobile';
 const destinations = [
-  { name: 'Dubai', image: '/images/dubai.jpg', description: 'Waterfront. Urban. Iconic.' },
-  { name: 'Abu Dhabi', image: '/images/abu-dhabi.jpg', description: 'Culture. Coast. Community.' },
+  {
+    name: 'Dubai',
+    image: '/images/destinations/dubai-city-photo.jpg',
+    imagePosition: '50% 0%',
+    description: 'Waterfront. Urban. Iconic.',
+  },
+  {
+    name: 'Abu Dhabi',
+    image: '/images/destinations/abu-dhabi-city-photo.jpg',
+    imagePosition: '50% 65%',
+    description: 'Culture. Coast. Community.',
+  },
   {
     name: 'Ras Al Khaimah',
-    image: '/images/ras-al-khaimah.jpg',
+    image: '/images/destinations/ras-al-khaimah-city-photo.jpg',
+    imagePosition: '50% 95%',
     description: 'Nature. Space. Possibility.',
   },
-  { name: 'Ajman', image: '/images/ajman.jpg', description: 'Coastal. Connected. Welcoming.' },
+  {
+    name: 'Sharjah',
+    image: '/images/destinations/sharjah-city-photo.jpg',
+    imagePosition: '50% 68%',
+    description: 'Heritage. Waterfront. Family.',
+  },
+  {
+    name: 'Ajman',
+    image: '/images/destinations/ajman-city-photo.jpg',
+    imagePosition: '50% 15%',
+    description: 'Coastal. Connected. Welcoming.',
+  },
+  {
+    name: 'Fujairah',
+    image: '/images/destinations/fujairah.jpg',
+    imagePosition: '50% 48%',
+    description: 'Mountains. Sea. Sunshine.',
+  },
+  {
+    name: 'Umm Al Quwain',
+    image: '/images/destinations/umm-al-quwain-mangroves-photo.jpg',
+    imagePosition: '50% 32%',
+    description: 'Coast. Heritage. Space.',
+  },
 ];
 const navigationDevelopers = [...allDevelopers].sort((a, b) =>
   a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }),
 );
+const navigationImageSets: Record<string, string> = navigationImages;
 const titles: Record<Panel, string> = {
   projects: 'Find your next address.',
   developers: 'Explore every developer.',
@@ -178,7 +214,26 @@ export function Header() {
     event.preventDefault();
     const query = String(new FormData(event.currentTarget).get('q') || '').trim();
     close();
-    router.push(query ? `/projects?${new URLSearchParams({ q: query })}` : '/projects');
+    const target = query ? `/projects?${new URLSearchParams({ q: query })}` : '/projects';
+    if (pathname === '/projects') {
+      window.history.pushState(null, '', target);
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    } else router.push(target);
+  };
+  const navigateCatalogue = (event: MouseEvent<HTMLAnchorElement>, target: string) => {
+    if (
+      pathname !== '/projects' ||
+      event.button !== 0 ||
+      event.metaKey ||
+      event.ctrlKey ||
+      event.altKey ||
+      event.shiftKey
+    )
+      return;
+    event.preventDefault();
+    window.history.pushState(null, '', target);
+    close(isOpen);
+    window.scrollTo({ top: 0, behavior: 'instant' });
   };
   const disclosure = (kind: 'projects' | 'developers') => (
     <button
@@ -228,6 +283,8 @@ export function Header() {
           </button>
           <Link
             href="/projects?saved=1"
+            prefetch={false}
+            onClick={(event) => navigateCatalogue(event, '/projects?saved=1')}
             className="signature-icon-button signature-saved"
             aria-label="Saved projects"
           >
@@ -307,7 +364,12 @@ export function Header() {
                 </div>
                 <div className="signature-panel-actions">
                   {panel === 'projects' && (
-                    <Link className="signature-text-link" href="/projects">
+                    <Link
+                      className="signature-text-link"
+                      href="/projects"
+                      prefetch={false}
+                      onClick={(event) => navigateCatalogue(event, '/projects')}
+                    >
                       View all projects <ArrowUpRight size={17} aria-hidden="true" />
                     </Link>
                   )}
@@ -332,15 +394,24 @@ export function Header() {
                     <Link
                       key={destination.name}
                       href={`/projects?${new URLSearchParams({ emirate: destination.name })}`}
+                      prefetch={false}
+                      onClick={(event) =>
+                        navigateCatalogue(
+                          event,
+                          `/projects?${new URLSearchParams({ emirate: destination.name })}`,
+                        )
+                      }
                       className="signature-city-card"
                       data-menu-reveal
                     >
                       <div className="signature-city-image">
-                        <Image
+                        <ResponsiveStaticImage
                           src={destination.image}
+                          srcSet={navigationImageSets[destination.image]}
                           alt=""
                           fill
-                          sizes="(max-width: 600px) 90vw, (max-width: 1099px) 45vw, 31vw"
+                          sizes="(max-width: 650px) 90vw, (max-width: 1099px) 48vw, 34vw"
+                          style={{ objectPosition: destination.imagePosition }}
                         />
                       </div>
                       <div className="signature-city-caption">
@@ -443,7 +514,11 @@ export function Header() {
                   <Link href="/about">
                     About Aliyas <ArrowUpRight size={22} aria-hidden="true" />
                   </Link>
-                  <Link href="/projects?saved=1">
+                  <Link
+                    href="/projects?saved=1"
+                    prefetch={false}
+                    onClick={(event) => navigateCatalogue(event, '/projects?saved=1')}
+                  >
                     Saved projects <Bookmark size={21} aria-hidden="true" />
                   </Link>
                   <Link href="/contact">
@@ -455,7 +530,7 @@ export function Header() {
                 <div className="signature-panel-footer" data-menu-reveal>
                   {panel === 'projects' && (
                     <Link href="/privacy#image-credits" className="signature-photo-credit">
-                      Ajman photo: Narimich · CC BY-SA 4.0
+                      Photo credits
                     </Link>
                   )}
                   <Link

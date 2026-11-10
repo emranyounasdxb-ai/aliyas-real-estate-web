@@ -1,89 +1,92 @@
+import { openCities, emirates, assertNoOverflow } from './current-ui';
 import { test, expect } from '@playwright/test';
 import fs from 'node:fs';
 import path from 'node:path';
 
-test('destination panel is compact on desktop and map controls remain inside its frame at every width', async ({
+test('destination navigation remains contained and every city card has a distinct reachable target', async ({
   page,
 }) => {
   for (const width of [320, 390, 768, 1024, 1440]) {
     await page.setViewportSize({ width, height: 1000 });
     await page.goto('/');
-    await page.getByRole('button', { name: 'Show Ajman on map', exact: true }).click();
-    await expect(page.getByRole('tab', { name: '04 Ajman', exact: true })).toHaveAttribute(
-      'aria-selected',
-      'true',
+    const panel = await openCities(page);
+    const cards = panel.locator('.signature-city-card');
+    await expect(cards).toHaveCount(7);
+    const boxes = await cards.evaluateAll((es) =>
+      es.map((e) => e.getBoundingClientRect().toJSON()),
     );
-    const section = (await page.locator('.future-destination-section').boundingBox())!;
-    if (width === 1440) expect(section.height).toBeLessThan(850);
-    const frame = (await page.locator('.destination-map-panel').boundingBox())!;
-    const buttons = await page
-      .locator('.destination-map button')
-      .evaluateAll((elements) =>
-        elements.map((element) => element.getBoundingClientRect().toJSON()),
-      );
-    for (const button of buttons) {
-      expect(button.x).toBeGreaterThanOrEqual(frame.x - 1);
-      expect(button.right).toBeLessThanOrEqual(frame.x + frame.width + 1);
-      expect(button.height).toBeGreaterThanOrEqual(44);
+    for (const b of boxes) {
+      expect(b.x).toBeGreaterThanOrEqual(0);
+      expect(b.right).toBeLessThanOrEqual(width + 1);
+      expect(b.height).toBeGreaterThanOrEqual(44);
     }
-    for (let i = 0; i < buttons.length; i++)
-      for (let j = i + 1; j < buttons.length; j++) {
-        const a = buttons[i],
-          b = buttons[j];
+    for (let i = 0; i < boxes.length; i++)
+      for (let j = i + 1; j < boxes.length; j++) {
+        const a = boxes[i],
+          b = boxes[j];
         expect(
-          a.right <= b.left || b.right <= a.left || a.bottom <= b.top || b.bottom <= a.top,
+          a.right <= b.left + 1 ||
+            b.right <= a.left + 1 ||
+            a.bottom <= b.top + 1 ||
+            b.bottom <= a.top + 1,
         ).toBe(true);
       }
-    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
-      true,
-    );
+    for (const city of emirates) {
+      const card = cards.filter({ has: page.getByRole('heading', { name: city, exact: true }) });
+      expect(
+        new URL((await card.getAttribute('href'))!, page.url()).searchParams.get('emirate'),
+      ).toBe(city);
+    }
+    await assertNoOverflow(page);
   }
 });
 
-test('home Journal has a featured cover and two compact stories with working article links', async ({
+test('home Journal shows three newest covers with working article links in date order', async ({
   page,
 }) => {
   for (const width of [390, 820, 1440]) {
     await page.setViewportSize({ width, height: 1000 });
     await page.goto('/');
-    await expect(page.locator('.journal-home-featured')).toHaveCount(1);
-    await expect(page.locator('.journal-home-compact')).toHaveCount(2);
-    await expect(page.locator('.journal-home-story')).toHaveCount(3);
-    for (const card of await page.locator('.journal-home-story').all()) {
-      await expect(card.locator('h3')).toBeVisible();
-      await expect(card.locator('.journal-home-read')).toBeVisible();
+    const cards = page.locator('.hp-journal-grid article');
+    await expect(cards).toHaveCount(3);
+
+    const dates = await cards
+      .locator('time')
+      .evaluateAll((es) => es.map((e) => e.getAttribute('datetime')));
+    expect(dates).toEqual(['2026-07-19', '2026-07-18', '2026-07-17']);
+    for (let i = 0; i < 3; i++) {
+      await page.goto('/');
+      const card = page.locator('.hp-journal-grid article').nth(i),
+        title = (await card.locator('h3').innerText()).trim();
+      await card.locator('a').first().click();
+      await expect(page.getByRole('heading', { level: 1 })).toHaveText(title);
+      await expect(page.locator('main table').first()).toBeAttached();
     }
-    await page.locator('.journal-home-featured').click();
-    await expect(page).toHaveURL(/\/journal\/a-home-that-feels-like-you$/);
-    await expect(page.locator('h1')).toContainText('A home that feels like you');
   }
 });
 
-test('all ninety placeholder galleries retain ownership and category-compatible concept assets', async () => {
-  const directory = path.resolve('src/data/developer-projects');
-  let count = 0;
-  const ids = new Set<string>();
-  for (const file of fs.readdirSync(directory).filter((file) => file.endsWith('.json'))) {
-    const collection = JSON.parse(fs.readFileSync(path.join(directory, file), 'utf8'));
-    expect(collection.projects).toHaveLength(15);
-    for (const project of collection.projects) {
-      count++;
-      expect(ids.has(project.id)).toBe(false);
-      ids.add(project.id);
-      expect(project.developerSlug).toBe(collection.developerSlug);
-      expect(project.gallery).toHaveLength(3);
-      expect(project.gallery[0].src).toBe(project.image);
-      const category = /project-(1|3)\.jpg$/.test(project.image) ? 'apartment' : 'villa';
-      expect(project.gallery[2].src).toBe(`/images/concept-${category}-detail.png`);
-      if (project.image !== '/images/project-4.jpg')
-        expect(project.gallery[1].src).toBe(`/images/concept-${category}-interior.png`);
-      for (const image of project.gallery)
-        expect(fs.existsSync(path.resolve('public', image.src.slice(1)))).toBe(true);
-      expect(project.price).toBeNull();
-      expect(project.type).toBeNull();
+test('all 575 reviewed galleries retain their owner and existing project-specific image files', () => {
+  const directory = path.resolve('src/data/project-media'),
+    ids = new Set<string>();
+  const files = fs
+    .readdirSync(directory, { recursive: true })
+    .map(String)
+    .filter((f) => f.endsWith('.json'));
+  expect(files).toHaveLength(575);
+  for (const file of files) {
+    const media = JSON.parse(fs.readFileSync(path.join(directory, file), 'utf8'));
+    expect(ids.has(media.projectId)).toBe(false);
+    ids.add(media.projectId);
+    expect(media.images.length).toBeGreaterThan(0);
+    expect(media.images.some((i: { src: string }) => i.src === media.cardImage)).toBe(true);
+    for (const image of media.images) {
+      expect(image.src).toContain(
+        '/images/projects/' + media.developerSlug + '/' + media.projectSlug + '/',
+      );
+      expect(fs.existsSync(path.resolve('public', image.src.slice(1)))).toBe(true);
     }
   }
-  expect(count).toBe(90);
+  expect(ids.size).toBe(575);
 });
 
 test('project card title rows and price baselines stay aligned with a long project name', async ({
@@ -124,8 +127,8 @@ test('mobile section arrows reveal Downloads and keep active navigation visible 
   page,
 }) => {
   for (const [route, lastSection, sectionId] of [
-    ['/projects/creek-waters', 'Project resources', 'project-resources'],
-    ['/developers/emaar/projects/emaar-project-15', 'Downloads', 'downloads'],
+    ['/developers/sobha/projects/sobha-solis', 'Downloads', 'downloads'],
+    ['/developers/emaar/projects/avelia', 'Downloads', 'downloads'],
   ]) {
     await page.setViewportSize({ width: 390, height: 844 });
     await page.goto(route);

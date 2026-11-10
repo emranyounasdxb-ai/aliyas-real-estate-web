@@ -1,3 +1,4 @@
+import { openCities, emirates, assertNoOverflow } from './current-ui';
 import { selectValue } from './select-control';
 import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
@@ -27,11 +28,11 @@ test('mobile home action stays in the first viewport and contact form precedes t
     await page.setViewportSize({ width, height });
     await page.goto('/');
     await page.evaluate(() => document.fonts.ready);
-    const action = await page.locator('.future-hero-action').boundingBox();
+    const action = await page.locator('.hp-hero-actions a').boundingBox();
     expect(action!.y + action!.height).toBeLessThanOrEqual(height);
     expect(
       await page
-        .locator('.future-hero-eyebrow')
+        .locator('.hp-hero .hp-eyebrow')
         .evaluate((el) => parseFloat(getComputedStyle(el).fontSize)),
     ).toBeGreaterThanOrEqual(12);
     await page.goto('/contact');
@@ -50,7 +51,7 @@ test('dark home actions have readable contrast and the gallery control keeps its
   await page.locator('.theme-toggle').click();
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark');
   const colors = await page
-    .locator('.future-round-arrow,.home-search .button-dark')
+    .locator('.hp-hero-actions .hp-button,.home-search button[type=submit]')
     .evaluateAll((nodes) =>
       nodes.map((el) => ({
         color: getComputedStyle(el).color,
@@ -58,7 +59,7 @@ test('dark home actions have readable contrast and the gallery control keeps its
       })),
     );
   for (const color of colors) expect(contrast(color.color, color.bg)).toBeGreaterThanOrEqual(4.5);
-  await page.goto('/developers/emaar/projects/emaar-project-15');
+  await page.goto('/developers/emaar/projects/avelia');
   expect(
     await page.locator('.pd-gallery-expand').evaluate((el) => getComputedStyle(el).color),
   ).toBe('rgb(255, 255, 255)');
@@ -79,16 +80,16 @@ test('mobile filter drawer filters, closes with Escape, restores focus and relea
   await page.waitForTimeout(150);
   expect(await page.evaluate(() => scrollY)).toBeCloseTo(before, 0);
   await selectValue(dialog.getByRole('combobox', { name: 'Location', exact: true }), 'Ajman');
-  await expect(dialog.getByRole('button', { name: 'Show 0 projects', exact: true })).toBeVisible();
+  await expect(dialog.getByRole('button', { name: 'Show 3 projects', exact: true })).toBeVisible();
   await page.keyboard.press('Escape');
   await expect(dialog).not.toBeVisible();
   await expect(trigger).toBeFocused();
   await expect(page).toHaveURL(/emirate=Ajman/);
-  await expect(page.locator('.catalogue-empty')).toBeVisible();
+  await expect(page.locator('.project-card')).toHaveCount(3);
   await page.getByRole('button', { name: 'Filters (1)', exact: true }).click();
   await page.getByRole('button', { name: 'Reset filters', exact: true }).click();
-  await page.getByRole('button', { name: 'Show 6 projects', exact: true }).click();
-  await expect(page.locator('.project-card')).toHaveCount(6);
+  await page.getByRole('button', { name: 'Show 575 projects', exact: true }).click();
+  await expect(page.locator('.project-card')).toHaveCount(15);
   await expect.poll(() => page.evaluate(() => document.documentElement.style.overflow)).toBe('');
   await page.mouse.move(200, 600);
   await page.mouse.wheel(0, 350);
@@ -99,7 +100,10 @@ test('sticky project navigation tracks its active section without hiding the sec
   page,
 }) => {
   for (const width of [1440, 390])
-    for (const path of ['/projects/creek-waters', '/developers/emaar/projects/emaar-project-15']) {
+    for (const path of [
+      '/developers/sobha/projects/sobha-solis',
+      '/developers/emaar/projects/avelia',
+    ]) {
       await page.setViewportSize({ width, height: 1000 });
       await page.goto(path);
       const nav = page.getByRole('navigation', { name: 'Project sections' });
@@ -119,50 +123,47 @@ test('sticky project navigation tracks its active section without hiding the sec
     }
 });
 
-test('editorial hierarchy, contents navigation, company avatar and developer marks remain distinct', async ({
+test('journal contents navigation company identity and all developer marks remain distinct', async ({
   page,
 }) => {
   await page.goto('/journal');
-  await expect(page.locator('.journal-featured')).toHaveCount(1);
-  await page
-    .getByRole('link')
-    .filter({
-      has: page.getByRole('heading', { name: 'A home that feels like you.', exact: true }),
-    })
-    .click();
+  const featured = page.locator('section[aria-labelledby="featured-story-title"]');
+  await expect(featured).toHaveCount(1);
+  await featured.locator('a').first().click();
   const toc = page.getByRole('navigation', { name: 'Article contents' });
-  await expect(toc.getByRole('link')).toHaveCount(4);
-  await toc
-    .getByRole('link', { name: 'Think in light, texture and proportion', exact: true })
-    .click();
-  await expect(page).toHaveURL(/#story-section-3$/);
-  await expect(page.locator('.article-related .catalogue-journal-card')).toHaveCount(2);
-  await expect(page.locator('.catalogue-article-cta')).toHaveCount(0);
+  expect(await toc.getByRole('link').count()).toBeGreaterThan(3);
+  const link = toc.getByRole('link').nth(2),
+    href = await link.getAttribute('href');
+  await link.click();
+  await expect(page).toHaveURL((url) => url.hash === href);
+  await expect(page.locator(href!)).toBeInViewport();
   await page.goto('/about');
-  await expect(page.locator('.company-avatar img')).toHaveAttribute('src', /aliyas-gold-logo/);
-  await expect(page.locator('main img')).toHaveCount(1);
-  await expect(page.locator('.info-invitation')).toHaveCount(0);
+  await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
+  for (const name of ['Sameer Khan', 'Afshan Fatima', 'Umar Baig', 'Yasmina Khalikova'])
+    await expect(page.getByRole('heading', { name, exact: true })).toBeVisible();
   await page.goto('/developers');
-  await expect(page.locator('.developer-mark img')).toHaveCount(6);
-  await expect(page.locator('.catalogue-developer-card')).toHaveCount(6);
+  await expect(page.locator('.developer-mark img')).toHaveCount(30);
+  await expect(page.locator('.catalogue-developer-card')).toHaveCount(30);
 });
 
 test('Ajman is available in locations and navigation and mobile comparison uses compact fixed labels', async ({
   page,
 }) => {
   await page.goto('/');
-  await page.getByRole('tab', { name: '04 Ajman', exact: true }).click();
-  await expect(page.getByRole('link', { name: 'Explore Ajman', exact: true })).toBeVisible();
-  await page.getByRole('button', { name: 'Off-plan projects', exact: true }).click();
-  await expect(page.locator('.signature-city-card')).toHaveCount(4);
+  const panel = await openCities(page);
+  await expect(
+    panel
+      .locator('.signature-city-card')
+      .filter({ has: page.getByRole('heading', { name: 'Ajman', exact: true }) }),
+  ).toBeVisible();
   await page.keyboard.press('Escape');
   await page.setViewportSize({ width: 390, height: 844 });
   await page.getByRole('button', { name: 'Open menu', exact: true }).click();
   await expect(page.getByRole('button', { name: /Close (menu|navigation)/i })).toHaveCount(1);
   await page.keyboard.press('Escape');
   await page.goto('/projects/compare');
-  await selectValue(page.locator('#comparison-project-0'), 'creek-waters');
-  await selectValue(page.locator('#comparison-project-1'), 'the-acres');
+  await selectValue(page.locator('#comparison-project-0'), 'sobha-project-19');
+  await selectValue(page.locator('#comparison-project-1'), 'aldar-project-21');
   await expect(page.locator('.comparison-table')).toBeVisible();
   expect((await page.locator('.comparison-row-label').boundingBox())!.width).toBeLessThanOrEqual(
     105,
@@ -194,7 +195,7 @@ test('new layouts and filter dialog remain accessible in both themes with no nar
         '/journal',
         '/journal/a-home-that-feels-like-you',
         '/developers',
-        '/developers/emaar/projects/emaar-project-15',
+        '/developers/emaar/projects/avelia',
         '/contact',
       ]) {
         await page.setViewportSize({ width, height: 1000 });

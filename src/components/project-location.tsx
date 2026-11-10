@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { ArrowUpRight } from 'lucide-react';
 import type { ProjectLocationData } from '@/lib/project-enhancement-types';
+import { projectMediaNote } from '@/lib/project-media-copy';
 import './project-location.css';
 
 export function ProjectLocation({
@@ -11,6 +12,7 @@ export function ProjectLocation({
   projectName: string;
 }) {
   const { pin, map, travel } = data;
+  const road = projectMediaNote(data.road);
   const coordinates = pin ? `${pin.latitude},${pin.longitude}` : null;
   const directions = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(coordinates || `${projectName}, ${data.community}`)}`;
   const embed = pin
@@ -21,7 +23,7 @@ export function ProjectLocation({
       <div className="pl-intro">
         <div>
           <h3>{data.community}</h3>
-          {data.road && <p>{data.road}</p>}
+          {road && <p>{road}</p>}
         </div>
         <a className="pl-link" href={directions} target="_blank" rel="noopener noreferrer">
           Get directions <ArrowUpRight size={16} aria-hidden="true" />
@@ -45,8 +47,7 @@ export function ProjectLocation({
             />
           </a>
           <figcaption>
-            {map.caption ||
-              'Regional context from the developer. Diagram is not to scale; planned transport lines may not be operational.'}
+            {projectMediaNote(map.caption) || `${data.community} location map`}
           </figcaption>
         </figure>
       )}
@@ -59,23 +60,14 @@ export function ProjectLocation({
             loading="lazy"
             referrerPolicy="no-referrer"
           />
-          <p>
-            {pin?.scope || 'Developer’s published map pin. Building entrances may differ.'} If the
-            map cannot load, use{' '}
-            <a href={directions} target="_blank" rel="noopener noreferrer">
-              Get directions
-            </a>
-            .
-          </p>
+          <p>{projectMediaNote(pin?.scope) || `${data.community} location`}</p>
         </details>
       )}
       {travel.destinations.length > 0 && (
         <>
           <div className="pl-travel-heading">
             <h3>Nearby destinations</h3>
-            <p>
-              {data.travelHeading || `Approximate travel times published for ${data.community}`}
-            </p>
+            <p>{data.travelHeading || `Approximate travel times from ${data.community}`}</p>
           </div>
           <ul className="pl-destinations">
             {travel.destinations.map((destination) => (
@@ -99,8 +91,7 @@ export function ProjectLocation({
         </>
       )}
       <p className="pl-note">
-        {data.travelNote ||
-          'Community estimates, not live traffic times or measured distances from a specific home. Routes, traffic and the starting point affect your journey.'}
+        {projectMediaNote(data.travelNote) || 'Travel times vary with traffic and route.'}
       </p>
       <p className="pl-sources">
         {travel.sourceUrl && (
@@ -109,25 +100,15 @@ export function ProjectLocation({
             target="_blank"
             rel="noopener noreferrer"
           >
-            {data.sourceLabel ||
-              (travel.page ? `Developer brochure · page ${travel.page}` : 'Location source')}{' '}
+            {travel.page ? `Location source · page ${travel.page}` : 'Location source'}{' '}
             <ArrowUpRight size={14} aria-hidden="true" />
           </a>
         )}
         {pin && (
           <a href={pin.sourceUrl} target="_blank" rel="noopener noreferrer">
-            Project location source <ArrowUpRight size={14} aria-hidden="true" />
+            Map source <ArrowUpRight size={14} aria-hidden="true" />
           </a>
         )}
-        <span>
-          Checked{' '}
-          {new Intl.DateTimeFormat('en-GB', {
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
-            timeZone: 'UTC',
-          }).format(new Date(`${data.checkedOn}T00:00:00Z`))}
-        </span>
       </p>
     </div>
   );

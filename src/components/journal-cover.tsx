@@ -11,8 +11,8 @@ export function JournalCover({
   sizes: string;
   priority?: boolean;
 }) {
-  // These owner-supplied covers already have pixel-verified, lossless responsive
-  // WebP files. Native srcSet avoids a second, lossy image-optimizer pass.
+  // Owner-supplied covers have pre-optimised responsive WebP files. Native
+  // srcSet serves those assets without a second image-optimisation pass.
   if (article.image && article.imageSrcSet)
     return (
       <img
@@ -44,7 +44,7 @@ export function JournalCover({
     <div
       className={styles.placeholder}
       role="img"
-      aria-label={`Cover image pending for ${article.title}`}
+      aria-label={`${article.title} — The Aliyas Journal`}
     >
       <div className={styles.top}>
         <span>The Aliyas Journal</span>
@@ -58,7 +58,7 @@ export function JournalCover({
         width={160}
         height={61}
       />
-      <span className={styles.caption}>Image coming soon</span>
+      <span className={styles.caption}>{article.category}</span>
     </div>
   );
 }

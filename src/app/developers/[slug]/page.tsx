@@ -9,6 +9,7 @@ import { DeveloperHero } from '@/components/developer-hero';
 import { getDeveloperProjectPreviews } from '@/lib/developer-project-previews';
 import { DeveloperListings } from '@/components/developer-listings';
 import { getDeveloperProjects } from '@/lib/developer-projects';
+import { projectCardListing } from '@/lib/public-listings';
 import { selectDeveloperProjectPage } from '@/lib/developer-project-pagination';
 import '@/components/catalogue.css';
 import '@/components/developer-profile.css';
@@ -99,7 +100,10 @@ export default async function DeveloperPage({ params }: Props) {
             ? 'Project names are checked against developer sources. Image sources and available details appear on each project page. Confirm current availability.'
             : 'Verified project names will appear here as they are confirmed.'}
         </p>
-        <DeveloperListings projects={listings} developerName={developer.name} />
+        <DeveloperListings
+          projects={listings.map((project) => projectCardListing(project, developer.name))}
+          developerName={developer.name}
+        />
       </section>
       <p className="catalogue-disclaimer">{catalogueNotice}</p>
     </div>

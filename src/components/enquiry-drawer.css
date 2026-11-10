@@ -152,9 +152,19 @@
   border-color: #929b93;
   border-radius: 4px;
 }
+.enquiry-drawer .enquiry-form .brand-select .brand-select-trigger {
+  background: #fff;
+  color: var(--navy, #151917);
+  border-color: #929b93;
+  border-radius: 4px;
+}
 .enquiry-drawer .enquiry-form input:focus,
 .enquiry-drawer .enquiry-form select:focus,
 .enquiry-drawer .enquiry-form textarea:focus {
+  border-color: #151917;
+  box-shadow: 0 0 0 3px rgb(184 155 88 / 13%);
+}
+.enquiry-drawer .enquiry-form .brand-select-trigger:focus {
   border-color: #151917;
   box-shadow: 0 0 0 3px rgb(184 155 88 / 13%);
 }
@@ -312,6 +322,9 @@
   .enquiry-drawer .enquiry-form textarea {
     font-size: 16px;
     line-height: 1.5;
+  }
+  .enquiry-drawer .enquiry-form .brand-select .brand-select-trigger {
+    font-size: 16px;
   }
 }
 @keyframes enquiry-sheet-in {

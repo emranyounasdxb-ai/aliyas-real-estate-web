@@ -1,7 +1,33 @@
 import type { Project } from './content';
 import type { DeveloperProjectRecord } from './developer-projects';
 import { locationSearchText, matchesLocation, type LocationFilter } from './locations';
-export type ApprovedListing = DeveloperProjectRecord & { developerName: string };
+/** Only the fields needed to filter and render a catalogue card cross the client boundary. */
+export type ApprovedListing = Pick<
+  DeveloperProjectRecord,
+  | 'id'
+  | 'slug'
+  | 'developerSlug'
+  | 'name'
+  | 'image'
+  | 'areaId'
+  | 'location'
+  | 'emirate'
+  | 'type'
+  | 'bedrooms'
+  | 'price'
+  | 'handover'
+  | 'paymentPlan'
+> & {
+  developerName: string;
+  placeholder?: boolean;
+  imageAlt?: string;
+  imagePosition?: string;
+  imageResponsiveWidth?: number;
+  hasProjectMedia?: boolean;
+  selectable?: boolean;
+  community?: string;
+  priceLabel?: string;
+};
 export type CatalogueEntry = {
   key: string;
   name: string;
@@ -16,6 +42,29 @@ export type CatalogueEntry = {
   sample?: Project;
   approved?: ApprovedListing;
 };
+
+/** Populate filters from the recorded catalogue, including mixed property types. */
+export function cataloguePropertyTypes(
+  listings: readonly Pick<ApprovedListing, 'type'>[],
+): string[] {
+  const preferred = ['Apartment', 'Villa', 'Townhouse', 'Penthouse', 'Duplex', 'Office'];
+  const types = new Set(
+    listings.flatMap((listing) =>
+      (listing.type || '')
+        .split('/')
+        .map((type) => type.trim())
+        .filter(Boolean),
+    ),
+  );
+  return [...types].sort((a, b) => {
+    const aIndex = preferred.indexOf(a);
+    const bIndex = preferred.indexOf(b);
+    return (
+      (aIndex < 0 ? preferred.length : aIndex) - (bIndex < 0 ? preferred.length : bIndex) ||
+      a.localeCompare(b)
+    );
+  });
+}
 export function catalogueEntries(
   samples: readonly Project[],
   approved: readonly ApprovedListing[],
@@ -57,7 +106,8 @@ export function filterCatalogue(entries: readonly CatalogueEntry[], filter: Cata
     .filter(
       (item) =>
         matchesLocation(item, filter) &&
-        (!filter.type || item.type === filter.type) &&
+        (!filter.type ||
+          Boolean(item.type?.split('/').some((type) => type.trim() === filter.type))) &&
         (!filter.developer || item.developerSlug === filter.developer) &&
         (!filter.budget || (item.price !== null && item.price <= Number(filter.budget))) &&
         (!filter.savedOnly ||

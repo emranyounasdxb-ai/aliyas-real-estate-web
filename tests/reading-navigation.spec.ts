@@ -10,8 +10,8 @@ test.describe('article reading navigation', () => {
     for (const width of [390, 1024]) {
       await page.setViewportSize({ width, height: 844 });
       for (const route of [
-        '/projects/creek-waters',
-        '/developers/emaar/projects/emaar-project-15',
+        '/developers/sobha/projects/sobha-solis',
+        '/developers/emaar/projects/avelia',
       ]) {
         await page.goto(route);
         const nav = page.getByRole('navigation', { name: 'Project sections' });

@@ -2,7 +2,7 @@
 
 Protected identity: ellington / ellington-project-25 / ellington-views-ii. 9 source images and 31 complete residence plan sheets.
 
-gallery: Eight renders from the Views II listing and its branded brochure, plus a dated progress photograph from the developer’s Views II gallery. The lead and card show the signed Views II tower arrivals. No finished-building claim is inferred from the photo.
+gallery: Eight renders from the Views II listing and its branded brochure, plus a dated progress photograph from the developer’s Views II gallery. The gallery lead shows the signed Views II tower arrivals. The card uses its own brochure beach-club panorama (page16), selected on8November2026 to distinguish it from Views I. No finished-building claim is inferred from the photo.
 
 location: Brochure page 4 visually identifies Views II next to the golf course. Fourteen times match the original project brief. Haus & Estates uses the same Ellington Views Google point for both phases, so the pin is explicitly shared and approximate. Wynn’s 5 November 2026 Q3 results give an expected September 2027 opening.
 

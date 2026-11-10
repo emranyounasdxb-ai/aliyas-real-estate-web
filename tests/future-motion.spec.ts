@@ -1,230 +1,108 @@
-import { expect, test, type Page } from '@playwright/test';
+import { expect, test } from '@playwright/test';
+import { assertNoOverflow } from './current-ui';
 
-async function openHome(page: Page, width = 1440, height = 1000) {
-  await page.setViewportSize({ width, height });
-  await page.goto('/');
-  await page.evaluate(() => document.fonts.ready);
-  await expect(page.locator('[data-collection-card]')).toHaveCount(4);
-}
-
-async function collectionRange(page: Page) {
-  return page.locator('[data-collection-section]').evaluate((section) => {
-    const track = section.querySelector<HTMLElement>('[data-collection-track]')!;
-    const viewport = track.parentElement!;
-    const spacer = section.parentElement!;
-    return {
-      start:
-        spacer.getBoundingClientRect().top +
-        scrollY -
-        document.querySelector('.site-header')!.getBoundingClientRect().height,
-      headerHeight: document.querySelector('.site-header')!.getBoundingClientRect().height,
-      distance: spacer.getBoundingClientRect().height - section.getBoundingClientRect().height,
-      travel: track.scrollWidth - viewport.clientWidth,
-    };
-  });
-}
-
-test('desktop scrolling reveals the complete collection and exits the pinned section cleanly', async ({
+test('desktop wheel scrolling traverses the complete buying journey without a pin or scroll trap', async ({
   page,
 }) => {
   const errors: string[] = [];
-  page.on('pageerror', (error) => errors.push(error.message));
+  page.on('pageerror', (e) => errors.push(e.message));
   await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await openHome(page);
-  await expect(page.locator('[data-collection-section]')).toHaveClass(/is-pinned/);
-  const range = await collectionRange(page);
-  expect(range.travel).toBeGreaterThan(500);
-  expect(range.distance).toBeGreaterThanOrEqual(range.travel - 2);
-
-  const positions: number[] = [];
-  for (let index = 0; index < 4; index += 1) {
-    await page.evaluate(
-      (target) => scrollTo({ top: target, behavior: 'instant' }),
-      range.start + (range.distance * index) / 3 + (index === 0 ? 2 : 0),
-    );
-    await expect(page.locator('[data-collection-current]')).toHaveText(
-      String(index + 1).padStart(2, '0'),
-    );
-    await expect
-      .poll(async () => {
-        const x = await page
-          .locator('[data-collection-track]')
-          .evaluate((track) => new DOMMatrixReadOnly(getComputedStyle(track).transform).m41);
-        return Math.abs(x + (range.travel * index) / 3);
-      })
-      .toBeLessThan(5);
-    positions.push(
-      await page
-        .locator('[data-collection-track]')
-        .evaluate((track) => track.getBoundingClientRect().left),
-    );
-    const box = await page.locator('[data-collection-section]').boundingBox();
-    expect(box!.y).toBeGreaterThanOrEqual(range.headerHeight - 3);
-    expect(box!.y).toBeLessThanOrEqual(range.headerHeight + 2);
-    expect(box!.y + box!.height).toBeLessThanOrEqual(1001);
+  await page.setViewportSize({ width: 1440, height: 1000 });
+  await page.goto('/');
+  const rail = page.locator('.hp-journey-viewport');
+  await rail.scrollIntoViewIfNeeded();
+  await expect(page.locator('.pin-spacer')).toHaveCount(0);
+  await expect(rail.locator('.hp-journey-panel')).toHaveCount(5);
+  for (const panel of await rail.locator('.hp-journey-panel').all()) {
+    const b = (await panel.boundingBox())!;
+    expect(b.x).toBeGreaterThanOrEqual(0);
+    expect(b.x + b.width).toBeLessThanOrEqual(1440);
+    await expect(panel).toHaveCSS('opacity', '1');
   }
-  expect(positions[0] - positions[3]).toBeGreaterThan(500);
-  const finalCard = await page.locator('[data-collection-card]').last().boundingBox();
-  expect(finalCard!.x).toBeGreaterThanOrEqual(-1);
-  expect(finalCard!.x + finalCard!.width).toBeLessThanOrEqual(1441);
-  await page.evaluate(
-    (target) => scrollTo({ top: target, behavior: 'instant' }),
-    range.start + range.distance + 450,
-  );
-  await expect
-    .poll(async () => (await page.locator('[data-collection-section]').boundingBox())!.y)
-    .toBeLessThan(0);
+  const b = (await rail.boundingBox())!;
+  await page.mouse.move(720, Math.max(110, Math.min(800, b.y + b.height / 2)));
+  const before = await page.evaluate(() => scrollY);
+  await page.mouse.wheel(0, 800);
+  await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(before + 500);
   expect(errors).toEqual([]);
 });
-
-test('keyboard focus brings every project into view without removing cards from the tab order', async ({
+test('keyboard focus reaches every featured project action and keeps it visible', async ({
   page,
 }) => {
   await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await openHome(page);
-  await expect(page.locator('[data-collection-section]')).toHaveClass(/is-pinned/);
-  const cards = page.locator('[data-collection-card]');
-  expect(
-    await cards.evaluateAll((elements) =>
-      elements.some((element) => (element as HTMLElement).inert),
-    ),
-  ).toBe(false);
-  const links = page.locator(
-    '[data-collection-track] a, [data-collection-track] button:not(:disabled)',
-  );
-  for (let index = 0; index < (await links.count()); index += 1) {
-    const link = links.nth(index);
-    if (index === 0) await link.focus();
-    else await page.keyboard.press('Tab');
+  await page.goto('/');
+  const cards = page.locator('[data-home-project]');
+  await expect(cards).toHaveCount(2);
+  expect(await cards.evaluateAll((es) => es.some((e) => (e as HTMLElement).inert))).toBe(false);
+  await page.keyboard.press('Tab');
+  for (const link of await page
+    .locator('[data-home-project] a,[data-home-project] button:not(:disabled)')
+    .all()) {
+    await link.focus();
     await expect(link).toBeFocused();
-    await expect
-      .poll(() =>
-        link.evaluate((element) => {
-          const box = element.getBoundingClientRect();
-          return (
-            box.left >= -1 &&
-            box.right <= innerWidth + 1 &&
-            box.top >= document.querySelector('.site-header')!.getBoundingClientRect().bottom - 1 &&
-            box.bottom <= innerHeight + 1
-          );
-        }),
-      )
-      .toBe(true);
+    await expect(link).toBeInViewport();
     expect(
-      await page
-        .locator('[data-collection-track]')
-        .evaluate((track) => track.parentElement!.scrollLeft),
-    ).toBe(0);
+      await link.evaluate((e) => {
+        const b = e.getBoundingClientRect();
+        return b.left >= -1 && b.right <= innerWidth + 1;
+      }),
+    ).toBe(true);
   }
 });
-
-test('narrow screens retain native horizontal browsing and smooth vertical wheel input', async ({
-  page,
-}) => {
+test('narrow screens retain horizontal browsing and vertical wheel input', async ({ page }) => {
   await page.emulateMedia({ reducedMotion: 'no-preference' });
   for (const width of [390, 700]) {
-    await openHome(page, width, 900);
+    await page.setViewportSize({ width, height: 900 });
+    await page.goto('/');
     await expect(page.locator('html')).toHaveClass(/lenis/);
-    await expect(page.locator('[data-collection-section]')).not.toHaveClass(/is-pinned/);
-    await expect(page.locator('.pin-spacer')).toHaveCount(0);
-    await page.mouse.move(width / 2, 300);
-    const samples: number[] = [];
-    await page.mouse.wheel(0, 600);
-    for (let sample = 0; sample < 9; sample += 1) {
-      await page.waitForTimeout(100);
-      samples.push(await page.evaluate(() => scrollY));
-    }
-    expect(samples[0]).toBeGreaterThan(0);
-    expect(samples[0]).toBeLessThan(samples[8] - 80);
-    expect(samples[8]).toBeGreaterThan(500);
-    expect(samples[8]).toBeLessThanOrEqual(542);
-    await expect(page.locator('html')).not.toHaveClass(/lenis-scrolling/);
-
-    const track = page.locator('[data-collection-track]');
-    await track.scrollIntoViewIfNeeded();
-    const rail = await track.evaluate((element) => {
-      const viewport = element.parentElement!;
-      const rect = viewport.getBoundingClientRect();
-      return {
-        x: rect.left + Math.min(100, rect.width / 2),
-        y: Math.max(110, rect.top + 100),
-        overflow: getComputedStyle(viewport).overflowX,
-      };
-    });
-    expect(['auto', 'scroll']).toContain(rail.overflow);
-    await page.mouse.move(rail.x, rail.y);
+    const rail = page.locator('.hp-journey-viewport');
+    await rail.scrollIntoViewIfNeeded();
+    const b = (await rail.boundingBox())!;
+    await page.mouse.move(width / 2, Math.max(110, Math.min(750, b.y + b.height / 2)));
     await page.mouse.wheel(460, 0);
-    await expect
-      .poll(() => track.evaluate((element) => element.parentElement!.scrollLeft))
-      .toBeGreaterThan(100);
-    await page.mouse.wheel(3000, 0);
-    await expect(page.locator('[data-collection-current]')).toHaveText('04');
-    // Native scroll snapping can finish after the counter enters its final range.
-    await expect
-      .poll(() =>
-        track.evaluate((element) =>
-          Math.abs(
-            element.scrollWidth -
-              element.parentElement!.clientWidth -
-              element.parentElement!.scrollLeft,
-          ),
-        ),
-      )
-      .toBeLessThan(2);
-    const last = await page.locator('[data-collection-card]').last().boundingBox();
-    expect(last!.x).toBeGreaterThanOrEqual(-1);
-    expect(last!.x + last!.width).toBeLessThanOrEqual(width + 1);
-    expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(
-      width + 1,
-    );
+    await expect.poll(() => rail.evaluate((e) => e.scrollLeft)).toBeGreaterThan(100);
+    await page.mouse.wheel(5000, 0);
+    await expect(page.locator('.hp-journey-controls [role=status]')).toContainText('05');
+    const before = await page.evaluate(() => scrollY);
+    await page.mouse.wheel(0, 600);
+    await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(before + 300);
+    await assertNoOverflow(page);
   }
 });
-
-test('reduced motion and short viewports preserve the native rail; preference changes clean up pinning', async ({
+test('motion preference and viewport changes preserve content and clean up animation', async ({
   page,
 }) => {
-  await page.emulateMedia({ reducedMotion: 'reduce' });
-  await openHome(page);
-  await expect(page.locator('html')).not.toHaveClass(/lenis/);
-  await expect(page.locator('.pin-spacer')).toHaveCount(0);
-  expect(
-    await page
-      .locator('[data-future-line]')
-      .first()
-      .evaluate((element) => getComputedStyle(element).transform),
-  ).toBe('none');
-  await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await expect(page.locator('[data-collection-section]')).toHaveClass(/is-pinned/);
-  await page.emulateMedia({ reducedMotion: 'reduce' });
-  await expect(page.locator('.pin-spacer')).toHaveCount(0);
-  await expect(page.locator('[data-collection-track]')).not.toHaveClass(/is-enhanced/);
-  expect(
-    await page
-      .locator('[data-collection-track]')
-      .evaluate((element) => getComputedStyle(element).transform),
-  ).toBe('none');
-  expect(
-    await page
-      .locator('[data-future-visual] img, [data-hero-sequence]')
-      .evaluateAll((elements) =>
-        elements.every((element) => getComputedStyle(element).transform === 'none'),
-      ),
-  ).toBe(true);
-  await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await page.setViewportSize({ width: 1440, height: 650 });
-  await expect(page.locator('.pin-spacer')).toHaveCount(0);
-  await page.setViewportSize({ width: 1440, height: 1000 });
-  await expect(page.locator('.pin-spacer')).toHaveCount(1);
+  await page.goto('/');
+  for (const reducedMotion of ['no-preference', 'reduce', 'no-preference', 'reduce'] as const) {
+    await page.emulateMedia({ reducedMotion });
+    if (reducedMotion === 'reduce') {
+      await expect(page.locator('html')).not.toHaveClass(/lenis/);
+      await expect
+        .poll(() =>
+          page
+            .locator('[data-reveal]')
+            .evaluateAll((es) => es.every((e) => getComputedStyle(e).opacity === '1')),
+        )
+        .toBe(true);
+    } else await expect(page.locator('html')).toHaveClass(/lenis/);
+    await expect(page.locator('.pin-spacer')).toHaveCount(0);
+  }
+  for (const size of [
+    { width: 390, height: 650 },
+    { width: 1440, height: 650 },
+    { width: 1440, height: 1000 },
+  ]) {
+    await page.setViewportSize(size);
+    await expect(page.locator('.hp-journey-panel')).toHaveCount(5);
+    await assertNoOverflow(page);
+  }
 });
-
-test('enquiry pauses wheel inertia and client navigation removes the collection pin', async ({
+test('enquiry pauses inertia and client navigation restores scrolling and reveals', async ({
   page,
 }) => {
   await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await openHome(page);
-  await expect(page.locator('[data-collection-section]')).toHaveClass(/is-pinned/);
-  const trigger = page.locator('.nav-contact');
-  await trigger.focus();
+  await page.goto('/');
+  await page.locator('.nav-contact').focus();
   await page.mouse.wheel(0, 500);
   await page.keyboard.press('Enter');
   await expect(page.getByRole('dialog')).toBeVisible();
@@ -239,9 +117,9 @@ test('enquiry pauses wheel inertia and client navigation removes the collection 
   await page.mouse.wheel(0, 400);
   await expect.poll(() => page.evaluate(() => scrollY)).toBeGreaterThan(locked + 80);
   await page.locator('.desktop-nav a[href="/about"]').click();
-  await page.waitForURL('**/about');
+  await expect(page).toHaveURL(/\/about$/);
   await expect(page.locator('.pin-spacer')).toHaveCount(0);
   await page.locator('.site-header a[href="/"]').first().click();
-  await page.waitForURL(/\/\/?$/);
-  await expect(page.locator('.pin-spacer')).toHaveCount(1);
+  await expect(page.locator('.hp-hero-copy')).toHaveCSS('opacity', '1');
+  await expect(page.locator('.hp-journey-panel')).toHaveCount(5);
 });

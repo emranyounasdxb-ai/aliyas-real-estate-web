@@ -323,7 +323,7 @@
 
 .signature-city-image {
   position: relative;
-  height: clamp(140px, 22vh, 240px);
+  aspect-ratio: 21 / 9;
   overflow: hidden;
   border-radius: 4px;
   background: #e8ebe7;
@@ -379,6 +379,20 @@
   margin-top: 22px;
   padding-top: 8px;
   border-top: 1px solid #d8ddd8;
+}
+
+@media (min-width: 1100px) and (max-height: 820px) {
+  .signature-panel[data-panel='projects'] .signature-panel-inner {
+    padding-block: 20px;
+  }
+
+  .site-frame .signature-panel[data-panel='projects'] .signature-city-grid {
+    row-gap: 16px;
+  }
+
+  .signature-panel[data-panel='projects'] .signature-panel-footer {
+    margin-top: 16px;
+  }
 }
 
 .signature-developer-grid {
@@ -723,24 +737,31 @@
   }
 
   .signature-city-grid {
-    grid-template-columns: 1fr;
-    gap: 18px;
-  }
-
-  .signature-city-image {
-    height: clamp(160px, 25vh, 220px);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px 12px;
   }
 
   .signature-city-caption {
-    padding: 12px 4px 5px;
+    grid-template-columns: minmax(0, 1fr) 16px;
+    gap: 6px;
+    padding: 10px 2px 4px;
+  }
+
+  .signature-city-caption .signature-index {
+    display: none;
+  }
+
+  .signature-city-caption > svg {
+    width: 16px;
+    height: 16px;
   }
 
   .signature-city-caption h3 {
-    font-size: 26px;
+    font-size: 17px;
   }
 
   .signature-city-caption p {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .signature-panel-footer {

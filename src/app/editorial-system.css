@@ -112,7 +112,7 @@ select {
   transition-duration: 300ms;
   transition-timing-function: var(--motion-curve);
 }
-.signature-header :is(a, button):active {
+.signature-header :is(a, button):not(.signature-scrim):active {
   scale: 0.98;
 }
 .signature-mobile-nav :is(a, button) {

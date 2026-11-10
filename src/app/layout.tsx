@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: '/images/aliyas-future-architecture.png',
         width: 1122,
         height: 1402,
-        alt: 'Illustrative sculptural residential tower with pearlescent white terraces',
+        alt: 'Sculptural residential tower with pearlescent white terraces',
       },
     ],
   },

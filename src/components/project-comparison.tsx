@@ -1,30 +1,38 @@
 'use client';
 
-import Image from 'next/image';
+import { ResponsiveProjectImage } from './responsive-project-image';
 import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight, GitCompareArrows, RotateCcw, X } from 'lucide-react';
 import { useState } from 'react';
 import { BrandedSelect } from './branded-select';
-import { catalogueNotice, formatPrice, projects, type Project } from '@/lib/content';
+import type { ApprovedListing } from '@/lib/catalogue-locations';
+import { developerProjectHref } from '@/lib/developer-project-url';
+import { catalogueNotice, formatPrice } from '@/lib/listing-format';
 import { MAX_COMPARISON_PROJECTS, useProjectComparison } from './comparison-store';
 import './comparison.css';
 
-const rows: { label: string; get: (project: Project) => string }[] = [
-  { label: 'Indicative starting price', get: (project) => formatPrice(project.price) },
-  { label: 'Developer', get: (project) => project.developer },
+const rows: { label: string; get: (project: ApprovedListing) => string | null }[] = [
+  {
+    label: 'Price',
+    get: (project) =>
+      project.price === null
+        ? null
+        : `${formatPrice(project.price)} · ${project.priceLabel || 'Published price guide'}`,
+  },
+  { label: 'Developer', get: (project) => project.developerName },
   { label: 'Community', get: (project) => project.location },
   { label: 'Emirate', get: (project) => project.emirate },
   { label: 'Property type', get: (project) => project.type },
   { label: 'Bedrooms', get: (project) => project.bedrooms },
-  { label: 'Illustrative handover', get: (project) => project.handover },
-  { label: 'Sample payment plan', get: (project) => project.paymentPlan },
+  { label: 'Handover target', get: (project) => project.handover },
+  { label: 'Payment plan', get: (project) => project.paymentPlan },
 ];
 
-export function ProjectComparison() {
+export function ProjectComparison({ projects }: { projects: readonly ApprovedListing[] }) {
   const { slugs, replace, remove, clear, isReady } = useProjectComparison();
   const [feedback, setFeedback] = useState('');
   const selected = slugs
-    .map((slug) => projects.find((project) => project.slug === slug)!)
+    .map((slug) => projects.find((project) => project.id === slug)!)
     .filter(Boolean);
   return (
     <div className="comparison-page">
@@ -71,20 +79,19 @@ export function ProjectComparison() {
                   aria-label={`Choose project ${index + 1}`}
                   disabled={!isReady}
                   id={`comparison-project-${index}`}
-                  value={current?.slug || ''}
+                  value={current?.id || ''}
                   onValueChange={(nextValue) =>
-                    setFeedback(replace(current?.slug, nextValue).message)
+                    setFeedback(replace(current?.id, nextValue).message)
                   }
                   options={[
                     { value: '', label: 'Choose a project' },
                     ...projects
                       .filter(
-                        (project) =>
-                          project.slug === current?.slug || !slugs.includes(project.slug),
+                        (project) => project.id === current?.id || !slugs.includes(project.id),
                       )
                       .map((project) => ({
-                        value: project.slug,
-                        label: `${project.name} · ${project.developer}`,
+                        value: project.id,
+                        label: `${project.name} · ${project.developerName}`,
                       })),
                   ]}
                 />
@@ -93,7 +100,7 @@ export function ProjectComparison() {
                     type="button"
                     className="comparison-remove"
                     aria-label={`Remove ${current.name} from comparison`}
-                    onClick={() => setFeedback(remove(current.slug).message)}
+                    onClick={() => setFeedback(remove(current.id).message)}
                   >
                     <X size={16} aria-hidden="true" />
                   </button>
@@ -119,7 +126,7 @@ export function ProjectComparison() {
           </h2>
           <p>
             {selected.length === 0
-              ? 'Choose at least two projects above, or use “Compare project” on any card in the collection.'
+              ? 'Choose at least two projects above to compare their locations, homes and purchase terms.'
               : `${selected[0].name} is selected. Add another project above to see their details side by side.`}
           </p>
           <Link className="comparison-primary-link" href="/projects">
@@ -143,8 +150,7 @@ export function ProjectComparison() {
               }
             >
               <caption className="comparison-sr-only">
-                Comparison of {selected.map((project) => project.name).join(', ')}. All prices,
-                handover dates and payment plans are illustrative.
+                Comparison of {selected.map((project) => project.name).join(', ')}.
               </caption>
               <thead>
                 <tr>
@@ -153,24 +159,28 @@ export function ProjectComparison() {
                     <p>At a glance.</p>
                   </th>
                   {selected.map((project) => (
-                    <th scope="col" key={project.slug}>
+                    <th scope="col" key={project.id}>
                       <div className="comparison-project-image">
-                        <Image
+                        <ResponsiveProjectImage
                           src={project.image}
-                          alt={`Illustrative architecture for ${project.name}; not an actual project photograph`}
+                          responsiveWidth={project.imageResponsiveWidth}
+                          alt={project.imageAlt || project.name}
                           fill
                           sizes="(max-width: 700px) 230px, 330px"
                         />
                       </div>
-                      <p className="comparison-project-developer">{project.developer}</p>
-                      <Link className="comparison-project-title" href={`/projects/${project.slug}`}>
+                      <p className="comparison-project-developer">{project.developerName}</p>
+                      <Link
+                        className="comparison-project-title"
+                        href={developerProjectHref(project)}
+                      >
                         {project.name}
                         <ArrowUpRight size={17} aria-hidden="true" />
                       </Link>
                       <button
                         type="button"
                         className="comparison-table-remove"
-                        onClick={() => setFeedback(remove(project.slug).message)}
+                        onClick={() => setFeedback(remove(project.id).message)}
                         aria-label={`Remove ${project.name} from table`}
                       >
                         <X size={12} aria-hidden="true" />
@@ -181,14 +191,16 @@ export function ProjectComparison() {
                 </tr>
               </thead>
               <tbody>
-                {rows.map((row) => (
-                  <tr key={row.label}>
-                    <th scope="row">{row.label}</th>
-                    {selected.map((project) => (
-                      <td key={project.slug}>{row.get(project)}</td>
-                    ))}
-                  </tr>
-                ))}
+                {rows
+                  .filter((row) => selected.every((project) => row.get(project)))
+                  .map((row) => (
+                    <tr key={row.label}>
+                      <th scope="row">{row.label}</th>
+                      {selected.map((project) => (
+                        <td key={project.id}>{row.get(project)}</td>
+                      ))}
+                    </tr>
+                  ))}
               </tbody>
               <tfoot>
                 <tr>
@@ -196,7 +208,7 @@ export function ProjectComparison() {
                     <span className="comparison-sr-only">Next steps</span>
                   </th>
                   {selected.map((project) => (
-                    <td key={project.slug}>
+                    <td key={project.id}>
                       <Link
                         className="comparison-enquire"
                         href={`/contact?project=${project.slug}`}
@@ -205,7 +217,7 @@ export function ProjectComparison() {
                         <ArrowUpRight size={16} aria-hidden="true" />
                         <span className="comparison-sr-only"> about {project.name}</span>
                       </Link>
-                      <Link className="comparison-detail-link" href={`/projects/${project.slug}`}>
+                      <Link className="comparison-detail-link" href={developerProjectHref(project)}>
                         View project<span className="comparison-sr-only"> {project.name}</span>
                       </Link>
                     </td>

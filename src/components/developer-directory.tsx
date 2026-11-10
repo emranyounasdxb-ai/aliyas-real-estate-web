@@ -67,7 +67,6 @@ export function DeveloperDirectory({
             href={`/developers/${developer.slug}`}
             className="catalogue-developer-card"
             key={developer.slug}
-            aria-label={`Explore ${developer.name}`}
           >
             <div className="developer-logo-stage" data-developer={developer.slug}>
               <DeveloperMark slug={developer.slug} name={developer.name} variant="directory" />
@@ -79,7 +78,7 @@ export function DeveloperDirectory({
             </span>
             <div className="developer-card-action">
               <span>
-                Explore projects <small>{developer.projectCount} previews</small>
+                Explore projects <small>{developer.projectCount} projects</small>
               </span>
               <ArrowUpRight size={20} aria-hidden="true" />
             </div>

@@ -3,12 +3,12 @@ import { expect, test } from '@playwright/test';
 test('enquiry drawer preserves entered details and restores keyboard focus and scrolling', async ({
   page,
 }) => {
-  await page.goto('/projects/creek-waters');
+  await page.goto('/developers/sobha/projects/sobha-solis');
   const trigger = page.getByRole('button', { name: 'Enquire about this project', exact: true });
   await trigger.click();
   const drawer = page.getByRole('dialog');
   await expect(drawer).toBeVisible();
-  await expect(drawer).toHaveAccessibleName(/Enquire about Creek Waters/);
+  await expect(drawer).toHaveAccessibleName(/Enquire about Sobha Solis/);
   const name = drawer.getByRole('textbox', { name: 'Full name' });
   await expect(name).toBeFocused();
   await name.fill('Drawer Preview');
@@ -50,7 +50,7 @@ test('failed submission retains form and a saved local receipt never claims emai
         json: { reference: 'ALY-DRAWERTEST01', delivery: 'not_configured' },
       });
   });
-  await page.goto('/projects/creek-waters');
+  await page.goto('/developers/sobha/projects/sobha-solis');
   const trigger = page.getByRole('button', { name: 'Enquire about this project', exact: true });
   await trigger.click();
   const drawer = page.getByRole('dialog');
@@ -82,8 +82,11 @@ test('mobile enquiry sheet keeps controls in the viewport and contains keyboard 
   page,
 }) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  await page.goto('/projects/creek-waters');
-  await page.getByRole('button', { name: 'Enquire', exact: true }).click();
+  await page.goto('/developers/sobha/projects/sobha-solis');
+  await page
+    .getByRole('complementary', { name: 'Quick project enquiry' })
+    .getByRole('button', { name: /Enquire/ })
+    .click();
   const drawer = page.getByRole('dialog');
   await expect(drawer).toBeVisible();
   const panel = drawer.locator('.enquiry-drawer-panel');

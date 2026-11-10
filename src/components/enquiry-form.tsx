@@ -11,10 +11,12 @@ export function EnquiryForm({
   project = '',
   projectName = '',
   initialMessage = '',
+  initialInterest,
 }: {
   project?: string;
   projectName?: string;
   initialMessage?: string;
+  initialInterest?: 'A new home' | 'An investment' | 'A specific project' | 'Just exploring';
 }) {
   const [state, setState] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
   const [error, setError] = useState('');
@@ -96,7 +98,7 @@ export function EnquiryForm({
         <span className="enquiry-success-icon">
           <Check size={28} aria-hidden="true" />
         </span>
-        <p className="info-eyebrow">A NEW CHAPTER STARTS HERE</p>
+        <p className="info-eyebrow">YOUR ENQUIRY</p>
         <h2 ref={receiptHeadingRef} tabIndex={-1}>
           Thank you for
           <br />
@@ -111,8 +113,8 @@ export function EnquiryForm({
         {delivery !== 'accepted' && (
           <p className="enquiry-delivery-note">
             {delivery === 'failed'
-              ? 'Email delivery could not be completed. Your enquiry is safely saved on this website.'
-              : 'This preview stores enquiries locally. No email has been sent.'}{' '}
+              ? 'Your enquiry is saved, but email delivery could not be completed.'
+              : 'No email has been sent.'}{' '}
             For a direct response, please call or WhatsApp Aliyas.
           </p>
         )}
@@ -131,7 +133,7 @@ export function EnquiryForm({
   return (
     <form className="enquiry-form" onSubmit={submit}>
       <div className="enquiry-form-header">
-        <span className="info-eyebrow">YOUR NEXT CHAPTER</span>
+        <span className="info-eyebrow">YOUR PROPERTY SEARCH</span>
         <h2>Tell us what you have in mind.</h2>
       </div>
       {(projectName || project) && (
@@ -172,7 +174,7 @@ export function EnquiryForm({
           I am looking for <span aria-hidden="true">*</span>
           <BrandedSelect
             name="interest"
-            defaultValue={project ? 'A specific project' : 'A new home'}
+            defaultValue={initialInterest ?? (project ? 'A specific project' : 'A new home')}
             required
             aria-label="I am looking for"
             options={[
