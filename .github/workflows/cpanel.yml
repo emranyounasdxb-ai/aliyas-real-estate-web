@@ -1,0 +1,62 @@
+name: cPanel deployment
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: aliyas-cpanel-production
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    env:
+      NEXT_PUBLIC_SITE_URL: https://aliyasrealestate.ae
+      NEXT_TELEMETRY_DISABLED: '1'
+      ALIYAS_STANDALONE: '1'
+      ALIYAS_BUILD_ID: ${{ github.sha }}
+      GIT_LFS_SKIP_SMUDGE: '1'
+    steps:
+      - name: Check out source without downloading unchanged LFS assets
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          lfs: false
+      - name: Set up Node
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - name: Verify enquiry handling and deployment integrity
+        run: |
+          npm run test:unit
+          node --test tests/deployment.test.mjs
+      - name: Build the Linux production runtime
+        run: npm run build
+      - name: Package standalone runtime and static bundles
+        run: |
+          mkdir -p artifacts/cpanel-runtime/.next
+          cp -aL .next/standalone/. artifacts/cpanel-runtime/
+          cp -aL .next/static artifacts/cpanel-runtime/.next/static
+          printf '%s\n' "$GITHUB_SHA" > artifacts/cpanel-runtime/.aliyas-revision
+          tar -czf artifacts/cpanel-runtime.tar.gz -C artifacts/cpanel-runtime .
+      - name: Keep the validated Linux build available for migration
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: cpanel-linux-${{ github.sha }}
+          path: artifacts/cpanel-runtime.tar.gz
+          retention-days: 3
+          compression-level: 0
+      - name: Deploy only missing or changed content over verified FTPS
+        if: vars.CPANEL_DEPLOY_ENABLED == 'true'
+        env:
+          CPANEL_FTP_HOST: ${{ vars.CPANEL_FTP_HOST }}
+          CPANEL_FTP_USER: ${{ vars.CPANEL_FTP_USER }}
+          CPANEL_FTP_PASSWORD: ${{ secrets.CPANEL_FTP_PASSWORD }}
+        run: node scripts/deploy/client.mjs release

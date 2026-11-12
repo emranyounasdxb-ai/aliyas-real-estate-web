@@ -3,6 +3,8 @@ import type { NextConfig } from 'next';
 const isDev = process.env.NODE_ENV !== 'production';
 const previewSlot = process.env.ALIYAS_ISOLATED_PREVIEW ?? '';
 const nextConfig: NextConfig = {
+  ...(process.env.ALIYAS_STANDALONE === '1' ? { output: 'standalone' as const } : {}),
+  ...(process.env.ALIYAS_BUILD_ID ? { generateBuildId: async () => process.env.ALIYAS_BUILD_ID! } : {}),
   distDir: /^[12]$/.test(previewSlot) ? `artifacts/next-preview-${previewSlot}` : '.next',
   poweredByHeader: false,
   images: { formats: ['image/webp'], qualities: [75, 85] },
