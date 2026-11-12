@@ -64,10 +64,19 @@ test('new releases reuse immutable asset inodes while runtime changes stay isola
   const bundle = path.join(root, 'objects.bundle');
   await createBundle(bundle, [...new Map(files.map(f => [f.hash, f])).values()]);
   const index = {}; await ingestBundle(bundle, objects, index);
-  const config = { objects, releases: path.join(root, 'releases') };
+  const config = {
+    objects,
+    releases: path.join(root, 'releases'),
+    // Production is Linux; Windows development may not grant symbolic-link access.
+    ...(process.platform !== 'win32' ? { imageCache: path.join(root, 'image-cache') } : {}),
+  };
   const manifest = { version: 1, release, files: files.map(({ local, pointer, ...f }) => f) };
   const first = await materialize(manifest, config, index);
   const second = await materialize({ ...manifest, release: 'b'.repeat(40) + '-test' }, config, index);
+  if (config.imageCache) {
+    await writeFile(path.join(first, '.next/cache/images/cached-preview'), 'already-optimized');
+    assert.equal(await readFile(path.join(second, '.next/cache/images/cached-preview'), 'utf8'), 'already-optimized');
+  }
   await writeFile(path.join(first, 'server.js'), 'runtime-mutated');
   assert.equal(await readFile(path.join(second, 'server.js'), 'utf8'), 'server-original');
   assert.equal((await stat(path.join(first, 'public/images/test.webp'))).ino, (await stat(path.join(second, 'public/images/test.webp'))).ino);

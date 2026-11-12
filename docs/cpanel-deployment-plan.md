@@ -32,6 +32,7 @@ This document records an in-progress migration, not a completed deployment. The 
 - `aliyas-runtime`: deployment receiver, verified content-addressed objects, release directories and private logs. A serialized cron job checks for completed uploads once per minute.
 - `aliyas-app`: stable Passenger entry point and private runtime environment. `current` will identify the active, verified release.
 - `aliyas-private/enquiries`: persistent enquiry records, outside the release tree and FTP root.
+- `aliyas-runtime/image-cache`: persistent generated Next.js image copies shared across releases, so deployment does not flush the image cache. Gallery/card images already use prepared responsive WebP files. Floor-plan previews request screen-sized images; the full-size viewer and PDF links retain the original source files.
 
 Bundles contain only SHA-256 object identifiers and bounded byte lengths; they cannot contain archive paths or symlinks. The server verifies bundle and individual object hashes before adding them to its cache. Runtime files are copied into each release; immutable public assets are linked from the verified cache. Candidate routes and enquiry validation are checked on a loopback port before activation. Successful deployment state is recorded only after the HTTPS health check identifies the expected release. Failed health checks restore the preceding release. No recurring deployment deletes mail, WordPress or unrelated hosting files.
 

@@ -7,9 +7,14 @@ const nextConfig: NextConfig = {
   ...(process.env.ALIYAS_BUILD_ID ? { generateBuildId: async () => process.env.ALIYAS_BUILD_ID! } : {}),
   distDir: /^[12]$/.test(previewSlot) ? `artifacts/next-preview-${previewSlot}` : '.next',
   poweredByHeader: false,
-  images: { formats: ['image/webp'], qualities: [75, 85] },
+  images: { formats: ['image/webp'], qualities: [75, 85], minimumCacheTTL: 2678400 },
   async headers() {
     return [
+      {
+        // Originals are requested for zoom/download; normal pages use display copies.
+        source: '/images/projects/:path*',
+        headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }],
+      },
       {
         // Versioned, content-addressed variants can be cached without going stale.
         source: '/images/project-responsive/:path*',

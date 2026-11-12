@@ -75,6 +75,16 @@ export async function materialize(manifest, config, index) {
     }
     await chmod(output, file.mode);
   }
+  if (config.imageCache) {
+    // Next's generated image copies survive releases; source masters stay untouched.
+    await mkdir(config.imageCache, { recursive: true, mode: 0o700 });
+    await mkdir(path.join(destination, '.next/cache'), { recursive: true });
+    const cacheLink = path.join(destination, '.next/cache/images');
+    try { await symlink(config.imageCache, cacheLink); }
+    catch (error) {
+      if (error.code !== 'EEXIST' || await readlink(cacheLink) !== config.imageCache) throw error;
+    }
+  }
   await atomicJson(path.join(destination, '.aliyas-complete.json'), { ...manifest, files });
   return destination;
 }

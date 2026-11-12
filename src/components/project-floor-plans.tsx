@@ -104,7 +104,10 @@ export function ProjectFloorPlans({
           src={plan.src}
           width={plan.width}
           height={plan.height}
-          unoptimized
+          sizes="(max-width: 900px) 90vw, 900px"
+          quality={85}
+          loading="lazy"
+          placeholder="empty"
           alt={`Floor plan for ${planLabel}`}
         />
         <span>
