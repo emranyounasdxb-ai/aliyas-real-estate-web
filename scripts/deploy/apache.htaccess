@@ -1,0 +1,7 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^www\.aliyasrealestate\.ae$ [NC]
+  RewriteRule ^ https://aliyasrealestate.ae%{REQUEST_URI} [R=301,L]
+</IfModule>

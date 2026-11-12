@@ -51,14 +51,26 @@ export function validateManifest(manifest) {
 }
 export async function scanFiles(root, scope) {
   const output = [];
-  async function scan(folder, prefix = '') {
+  async function* walk(folder, prefix = '') {
     for (const entry of (await readdir(folder, { withFileTypes: true })).sort((a,b) => a.name.localeCompare(b.name))) {
       const relative = prefix + entry.name;
       if (relative === '.next/cache' || entry.name.startsWith('.env') || entry.name === '.DS_Store') continue;
       const absolute = path.join(folder, entry.name);
+      if (entry.isSymbolicLink()) throw new Error(`Flatten build symlinks before packaging: ${relative}`);
+      if (entry.isDirectory()) { yield* walk(absolute, relative + '/'); continue; }
+      yield { absolute, relative };
+    }
+  }
+  const pending = walk(root);
+  // Bound concurrent file reads: large LFS pointer trees should not require
+  // tens of thousands of serial Windows disk round trips before every deploy.
+  async function worker() {
+    while (true) {
+      const next = await pending.next();
+      if (next.done) return;
+      const { absolute, relative } = next.value;
       const stats = await lstat(absolute);
       if (stats.isSymbolicLink()) throw new Error(`Flatten build symlinks before packaging: ${relative}`);
-      if (stats.isDirectory()) { await scan(absolute, relative + '/'); continue; }
       if (!stats.isFile()) throw new Error(`Not a regular deployment file: ${relative}`);
       let hash, bytes = stats.size, pointer = false;
       if (scope === 'public' && bytes < 1024) {
@@ -70,8 +82,8 @@ export async function scanFiles(root, scope) {
       output.push({ scope, path: safePath(relative), hash, bytes, mode: (stats.mode & 0o111) && scope === 'runtime' ? 0o755 : 0o644, local: absolute, pointer });
     }
   }
-  await scan(root);
-  return output;
+  await Promise.all(Array.from({ length: 12 }, () => worker()));
+  return output.sort((a, b) => a.path.localeCompare(b.path));
 }
 
 // A bounded JSON header followed by exactly `bytes` raw bytes per object.

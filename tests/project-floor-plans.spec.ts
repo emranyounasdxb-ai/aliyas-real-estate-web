@@ -78,7 +78,10 @@ test('Avelia floor plans retain all six correct sheets and support responsive ke
   for (let index = 0; index < 6; index++) {
     await selector.selectOption(String(index));
     await expect(section.locator('.fp-area')).toHaveText(data.plans[index].area);
-    await expect(section.locator('.fp-preview img')).toHaveAttribute('src', data.plans[index].src);
+    await expect.poll(async () => {
+      const preview = await section.locator('.fp-preview img').getAttribute('src');
+      return new URL(preview || '', 'http://localhost').searchParams.get('url');
+    }).toBe(data.plans[index].src);
     await section
       .locator('.fp-preview img')
       .evaluate((image) => (image as HTMLImageElement).decode());
@@ -122,6 +125,7 @@ test('Avelia floor plans retain all six correct sheets and support responsive ke
   const dialog = page.getByRole('dialog', { name: data.plans[5].label });
   await expect(dialog).toBeVisible();
   await dialog.locator('img').evaluate((img) => (img as HTMLImageElement).decode());
+  await expect(dialog.locator('img')).toHaveAttribute('src', data.plans[5].src);
   expect((await dialog.locator('img').boundingBox())!.height).toBeLessThanOrEqual(
     (await dialog.locator('.fp-viewport').boundingBox())!.height + 1,
   );

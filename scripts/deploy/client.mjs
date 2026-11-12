@@ -19,6 +19,12 @@ try {
   } else {
     // Hashing an initial local asset library can outlast the FTP idle timeout.
     // Connect afterwards, and read the newest verified inventory before transfer.
+    let revision;
+    if (command === 'release') {
+      revision = execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
+      const builtRevision = (await readFile(path.join(process.env.CPANEL_RUNTIME_DIR || 'artifacts/cpanel-runtime', '.aliyas-revision'), 'utf8')).trim();
+      if (builtRevision !== revision) throw new Error('Build revision does not match the checked-out assets');
+    }
     const files = await scanFiles(path.resolve('public'), 'public');
     if (command === 'release') files.push(...await scanFiles(path.resolve(process.env.CPANEL_RUNTIME_DIR || 'artifacts/cpanel-runtime'), 'runtime'));
     client = await connectFtp();
@@ -38,9 +44,24 @@ try {
       execFileSync('git', ['lfs', 'fetch', '--include=' + names.join(','), '--exclude=', 'origin', 'HEAD'], { stdio: 'inherit' });
       execFileSync('git', ['lfs', 'checkout', '--', ...names], { stdio: 'inherit' });
     }
-    const previousPaths = new Map((previous?.files || []).map(f => [`${f.scope}/${f.path}`, f.hash]));
-    const changedPaths = files.filter(f => previousPaths.get(`${f.scope}/${f.path}`) !== f.hash).length;
-    console.log(JSON.stringify({ files: files.length, changedPaths, newObjects: missing.length, uploadBytes: missing.reduce((n,f) => n + f.bytes, 0) }));
+    const previousPaths = new Map((previous?.files || []).map(f => [`${f.scope}/${f.path}`, f]));
+    const changedPaths = files.filter(f => {
+      const prior = previousPaths.get(`${f.scope}/${f.path}`);
+      return prior?.hash !== f.hash || prior?.bytes !== f.bytes || prior?.mode !== f.mode;
+    }).length;
+    console.log(JSON.stringify({
+      files: files.length,
+      changedPaths,
+      newObjects: missing.length,
+      uploadBytes: missing.reduce((n,f) => n + f.bytes, 0),
+      publicUploadBytes: missing.filter(f => f.scope === 'public').reduce((n,f) => n + f.bytes, 0),
+      runtimeUploadBytes: missing.filter(f => f.scope === 'runtime').reduce((n,f) => n + f.bytes, 0),
+    }));
+    if (command === 'release' && previous && !changedPaths && !missing.length && previous.files.length === files.length) {
+      console.log(JSON.stringify({ status: 'unchanged', release: previous.release, uploadedBytes: 0 }));
+      client.close();
+      process.exit(0);
+    }
     temporary = await mkdtemp(path.join(process.env.CPANEL_BUNDLE_TEMP || tmpdir(), 'aliyas-bundles-'));
     const batches = [];
     let batch = [], bytes = 0;
@@ -73,9 +94,6 @@ try {
       if (receipt.status !== 'cached') throw new Error(`Object import failed: ${receipt.error || receipt.status}`);
     }
     if (command === 'release') {
-      const revision = execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
-      const builtRevision = (await readFile(path.join(process.env.CPANEL_RUNTIME_DIR || 'artifacts/cpanel-runtime', '.aliyas-revision'), 'utf8')).trim();
-      if (builtRevision !== revision) throw new Error('Build revision does not match the checked-out assets');
       const suffix = process.env.GITHUB_RUN_ID ? `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT || 1}` : `local-${Date.now()}`;
       const release = `${revision}-${suffix}`;
       const manifest = validateManifest({ version: 1, release, createdAt: new Date().toISOString(), files: files.map(({ local, pointer, ...f }) => f) });
