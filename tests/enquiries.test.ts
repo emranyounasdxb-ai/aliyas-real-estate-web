@@ -3,6 +3,7 @@ import { test } from 'node:test';
 import { mkdtemp, readFile, unlink, rmdir } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
+import nodemailer from 'nodemailer';
 
 // Dynamic path allows Node's native TypeScript runner without changing app resolution.
 const sourcePath = '../src/lib/enquiries.ts';
@@ -27,6 +28,7 @@ const valid = {
 
 test('disabled or incomplete SMTP never attempts delivery or claims acceptance', async () => {
   const keys = [
+    'SENDMAIL_ENABLED',
     'SMTP_ENABLED',
     'SMTP_HOST',
     'SMTP_PORT',
@@ -46,6 +48,47 @@ test('disabled or incomplete SMTP never attempts delivery or claims acceptance',
       const value = previous.get(key);
       if (value === undefined) delete process.env[key];
       else process.env[key] = value;
+    }
+  }
+});
+
+test('cPanel delivery queues through a stubbed local transport without mailbox credentials', async (t) => {
+  const keys = ['SENDMAIL_ENABLED', 'SMTP_ENABLED', 'SMTP_FROM', 'SMTP_TO'];
+  const previous = new Map(keys.map(key => [key, process.env[key]]));
+  let outcome: 'queued' | 'failed' = 'queued';
+  let calls = 0;
+  t.mock.method(nodemailer, 'createTransport', (options: Record<string, unknown>) => {
+    calls++;
+    assert.equal(options.sendmail, true);
+    assert.equal(options.path, '/sbin/sendmail');
+    assert.equal(options.disableFileAccess, true);
+    assert.equal(options.disableUrlAccess, true);
+    assert.equal('auth' in options, false);
+    return {
+      async sendMail(message: Record<string, unknown>) {
+        assert.equal(message.to, 'inbox@example.test');
+        assert.deepEqual(message.replyTo, { name: valid.name, address: valid.email });
+        if (outcome === 'failed') throw new Error('Stub queue unavailable');
+        return { response: 'Messages queued for delivery' };
+      },
+      close() {},
+    };
+  });
+  try {
+    process.env.SENDMAIL_ENABLED = 'true';
+    process.env.SMTP_ENABLED = 'false';
+    process.env.SMTP_FROM = 'website@example.test';
+    process.env.SMTP_TO = 'inbox@example.test';
+    assert.equal(await deliverEnquiry(enquirySchema.parse(valid), 'ALY-TEST'), 'accepted');
+    outcome = 'failed';
+    assert.equal(await deliverEnquiry(enquirySchema.parse(valid), 'ALY-TEST'), 'failed');
+    process.env.SMTP_TO = 'invalid';
+    assert.equal(await deliverEnquiry(enquirySchema.parse(valid), 'ALY-TEST'), 'failed');
+    assert.equal(calls, 2);
+  } finally {
+    for (const key of keys) {
+      const value = previous.get(key);
+      if (value === undefined) delete process.env[key]; else process.env[key] = value;
     }
   }
 });

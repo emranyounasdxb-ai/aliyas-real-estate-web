@@ -113,12 +113,18 @@ export async function saveEnquiry(input: z.infer<typeof enquirySchema>): Promise
 
 export type EnquiryDelivery = 'not_configured' | 'accepted' | 'failed';
 
-/** SMTP is opt-in. A saved receipt is never represented as a delivered email. */
+/** Delivery is opt-in. Acceptance means queued by the configured mail service. */
 export async function deliverEnquiry(
   input: z.infer<typeof enquirySchema>,
   reference: string,
 ): Promise<EnquiryDelivery> {
-  if (process.env.SMTP_ENABLED !== 'true') return 'not_configured';
+  const sendmail = process.env.SENDMAIL_ENABLED === 'true';
+  if (!sendmail && process.env.SMTP_ENABLED !== 'true') return 'not_configured';
+  const addresses = z.object({ from: z.email(), to: z.email() }).safeParse({
+    from: process.env.SMTP_FROM,
+    to: process.env.SMTP_TO,
+  });
+  if (!addresses.success) return 'failed';
   const configuration = z
     .object({
       host: z
@@ -141,23 +147,22 @@ export async function deliverEnquiry(
       from: process.env.SMTP_FROM,
       to: process.env.SMTP_TO,
     });
-  if (!configuration.success) return 'failed';
-  const { host, port, user, pass, from, to } = configuration.data;
-  const secure = port === 465;
+  if (!sendmail && !configuration.success) return 'failed';
+  const { from, to } = addresses.data;
+  const transportOptions = sendmail
+    ? { sendmail: true as const, path: '/sbin/sendmail', newline: 'unix' }
+    : (() => {
+        if (!configuration.success) throw new Error('Invalid mail configuration');
+        const { host, port, user, pass } = configuration.data;
+        return {
+          host, port, secure: port === 465, requireTLS: port !== 465,
+          auth: { user, pass }, connectionTimeout: 10_000,
+          greetingTimeout: 5_000, socketTimeout: 10_000, dnsTimeout: 5_000,
+        };
+      })();
   const transporter = nodemailer.createTransport({
-    host,
-    port,
-    secure,
-    requireTLS: !secure,
-    auth: { user, pass },
-    connectionTimeout: 10_000,
-    greetingTimeout: 5_000,
-    socketTimeout: 10_000,
-    dnsTimeout: 5_000,
-    logger: false,
-    debug: false,
-    disableFileAccess: true,
-    disableUrlAccess: true,
+    ...transportOptions,
+    logger: false, debug: false, disableFileAccess: true, disableUrlAccess: true,
   });
   try {
     const result = await transporter.sendMail({
@@ -180,7 +185,8 @@ export async function deliverEnquiry(
       disableFileAccess: true,
       disableUrlAccess: true,
     });
-    return result.accepted.length > 0 && result.rejected.length === 0 ? 'accepted' : 'failed';
+    if (sendmail) return result.response === 'Messages queued for delivery' ? 'accepted' : 'failed';
+    return result.accepted?.length > 0 && result.rejected?.length === 0 ? 'accepted' : 'failed';
   } catch {
     // Avoid logging credentials, provider responses, or personal enquiry details.
     return 'failed';

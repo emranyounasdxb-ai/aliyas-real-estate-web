@@ -8,22 +8,26 @@ import { scanFiles, createBundle, sha256, validateManifest, HASH } from './files
 
 const command = process.argv[2];
 if (!['seed-public', 'release', 'status'].includes(command)) throw new Error('Use seed-public, release or status');
-const client = await connectFtp();
+let client;
 let temporary;
 try {
   if (command === 'status') {
+    client = await connectFtp();
     const objects = await readRemoteJson(client, '/state/objects.json', { optional: true }) || {};
     const success = await readRemoteJson(client, '/state/success.json', { optional: true });
     console.log(JSON.stringify({ cachedObjects: Object.keys(objects).length, successfulRelease: success?.release || null }));
   } else {
+    // Hashing an initial local asset library can outlast the FTP idle timeout.
+    // Connect afterwards, and read the newest verified inventory before transfer.
+    const files = await scanFiles(path.resolve('public'), 'public');
+    if (command === 'release') files.push(...await scanFiles(path.resolve(process.env.CPANEL_RUNTIME_DIR || 'artifacts/cpanel-runtime'), 'runtime'));
+    client = await connectFtp();
     for (const directory of ['/inbox', '/requests', '/receipts', '/state']) await client.ensureDir(directory);
     await client.cd('/');
     const existing = await readRemoteJson(client, '/state/objects.json', { optional: true }) || {};
     for (const [hash, bytes] of Object.entries(existing)) if (!HASH.test(hash) || !Number.isSafeInteger(bytes) || bytes < 0) throw new Error('Invalid server object index');
     const previous = await readRemoteJson(client, '/state/success.json', { optional: true });
     if (previous) validateManifest(previous);
-    const files = await scanFiles(path.resolve('public'), 'public');
-    if (command === 'release') files.push(...await scanFiles(path.resolve(process.env.CPANEL_RUNTIME_DIR || 'artifacts/cpanel-runtime'), 'runtime'));
     const unique = [...new Map(files.map(f => [f.hash, f])).values()];
     const missing = unique.filter(f => existing[f.hash] !== f.bytes);
     const pointerFiles = missing.filter(f => f.pointer);
@@ -83,7 +87,7 @@ try {
     }
   }
 } finally {
-  client.close();
+  client?.close();
   if (temporary) {
     const base = path.resolve(process.env.CPANEL_BUNDLE_TEMP || tmpdir());
     if (path.dirname(path.resolve(temporary)) !== base || !path.basename(temporary).startsWith('aliyas-bundles-')) throw new Error('Unsafe temporary cleanup target');

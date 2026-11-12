@@ -8,7 +8,7 @@ Replace the WordPress website on `aliyasrealestate.ae` with this Next.js applica
 
 The user explicitly clarified that no part of this WordPress installation should remain on the hosting account. Keep the verified rollback backup **off the hosting account, on the local PC**. Include WordPress files, its dedicated database, plugins/themes/uploads, caches, installation-specific scheduled jobs, installer records and account-accessible WordPress backups in the cleanup inventory. Do not confuse unrelated applications, mail data or hosting service files with WordPress. Provider-managed backups outside the account require separate verification with the host and must not be claimed as removed without evidence.
 
-This document records an in-progress migration, not a completed deployment. The authenticated hosting inspection is complete, a verified off-host WordPress backup exists, and an isolated deployment receiver is installed. WordPress still serves the public site. Email settings and DNS are unchanged. Automatic production activation remains disabled.
+This document records an in-progress migration, not a completed deployment. The authenticated hosting inspection is complete, a verified off-host WordPress backup exists, and an isolated deployment receiver is installed. On 12 November the user explicitly authorized immediate WordPress deletion, accepted downtime and prohibited a temporary holding page. WordPress's 24 webroot entries, its sole database and dedicated database user, both account-hosted backup copies and the WP Toolkit installation registration have been removed. Only the SSL `.well-known` directory remains in the document root. The 13 mailbox names and email account/password configuration hashes match their pre-removal values. Mail settings and DNS have not been changed. Automatic production activation remains disabled while the custom application is prepared.
 
 ## Verified starting point
 
@@ -35,7 +35,7 @@ This document records an in-progress migration, not a completed deployment. The 
 
 Bundles contain only SHA-256 object identifiers and bounded byte lengths; they cannot contain archive paths or symlinks. The server verifies bundle and individual object hashes before adding them to its cache. Runtime files are copied into each release; immutable public assets are linked from the verified cache. Candidate routes and enquiry validation are checked on a loopback port before activation. Successful deployment state is recorded only after the HTTPS health check identifies the expected release. Failed health checks restore the preceding release. No recurring deployment deletes mail, WordPress or unrelated hosting files.
 
-The initial seed uploads the complete public tree once. Later runs read the verified object inventory and last successful release manifest; only absent or changed bytes are transferred. Git LFS pointers are used as content hashes, so unchanged large assets do not need to be downloaded from GitHub on every runner. Static bundle cleanup and retention must preserve cached clients and rollback requirements.
+The initial seed populates the complete public tree once. To accelerate this one-time migration, large assets can be downloaded directly from this public GitHub repository to the hosting cache, with every object checked against its committed LFS SHA-256 and size. This needs no GitHub credential on the hosting account. Remaining files and runtime objects use FTPS. Later runs read the verified object inventory and last successful release manifest; only absent or changed bytes are transferred over FTPS. Git LFS pointers are used as content hashes, so unchanged large assets do not need to be downloaded from GitHub on every runner. Static bundle cleanup and retention must preserve cached clients and rollback requirements.
 
 ## Inspect after sign-in
 
@@ -48,11 +48,11 @@ The initial seed uploads the complete public tree once. Later runs read the veri
 
 ## Hosting requirements
 
-FTP transfers files; it does not itself provide the Node.js runtime required by this application's enquiry endpoint and server features. Verify a working production Node.js app before replacing WordPress. A plain static export would require an explicit backend adaptation and is not the selected migration approach.
+FTP transfers files; it does not itself provide the Node.js runtime required by this application's enquiry endpoint and server features. Verify the production Node.js app before enabling automated activation. The user-authorized immediate WordPress removal supersedes the original zero-downtime cutover sequence below. A plain static export would require an explicit backend adaptation and is not the selected migration approach.
 
 Build the deployment artifact for the actual Linux/runtime target. Do not upload the Windows development `node_modules` or a Windows standalone build as a Linux production package. Next.js standalone output is a candidate after the host's startup mechanism has been tested; a Passenger-specific entry point may be needed.
 
-Set `NEXT_PUBLIC_SITE_URL=https://aliyasrealestate.ae` before the production build. Configure SMTP and a private persistent `ENQUIRY_DATA_DIR` on the server, outside public files and disposable release directories. Keep credentials out of Git, public files, workflow logs and build artifacts. Verify host/origin handling through the real HTTPS proxy.
+Set `NEXT_PUBLIC_SITE_URL=https://aliyasrealestate.ae` before the production build. Configure a private persistent `ENQUIRY_DATA_DIR` on the server, outside public files and disposable release directories. On this cPanel host the opt-in `SENDMAIL_ENABLED=true` transport can use the existing `/sbin/sendmail` service with `SMTP_FROM` and `SMTP_TO`, without copying or resetting mailbox passwords. SMTP remains available for other hosts. Candidate processes force both transports off; delivery behavior is tested with a stub and no real test email. Keep credentials out of Git, public files, workflow logs and build artifacts. Verify host/origin handling through the real HTTPS proxy.
 
 ## Migration sequence
 
